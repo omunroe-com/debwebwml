@@ -2,7 +2,7 @@
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/potato/release.data"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.42"
+#use wml::debian::translation-check translation="1.43"
 
 <define-tag about_lang_setting>
 <p>Om du har ställt in din webbläsares språkanpassning
@@ -33,8 +33,8 @@ Den senaste underutgåvan av Debian 2.2 är
 # be less wrong than saying it's 2.3r0 etc
 
 <p>För information om de större ändringar som gjorts i denna version,
-se <a href="#release-notes">versionsfakta</a> och den officiella
-<a href="$(HOME)/News/2000/20000815">pressreleasen</a>.
+se <a href="#release-notes">versionsfakta</a> och det officiella
+<a href="$(HOME)/News/2000/20000815">pressmeddelandet</a>.
 
 <p>Debian GNU/Linux är dedicerad till minnet av Joel "Espy" Klecker,
 en Debianutvecklare som, utan större delen av Debianprojektets vetskap, var
@@ -80,7 +80,7 @@ för användare som uppgraderar från tidigare versioner.
   <th align="left"><strong>Format</strong></th>
   <th align="left"><strong>Språk</strong></th>
 </tr>
-<: &permute_as_matrix('release-notes', @langsrelnotes); :>
+<: &permute_as_matrix('release-notes', keys %langsrelnotes); :>
 </table>
 </center>
 
@@ -119,7 +119,7 @@ för ytterligare information.
   <th align="left"><strong>Format</strong></th>
   <th align="left"><strong>Språk</strong></th>
 </tr>
-<: &permute_as_matrix('install', @langsinstall); :>
+<: &permute_as_matrix('install', keys %langsinstall); :>
 </table>
 </center>
 
