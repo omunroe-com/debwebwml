@@ -1,7 +1,7 @@
-<define-tag description>Puffer-Überlauf</define-tag>
+<define-tag description>Puffer Überlauf</define-tag>
 <define-tag moreinfo>
-Libdb beinhaltet eine Version der Funktion snprintf() mit
-ausgeschalteter Speicherbereichsüberprüfung.
+Libdb beinhaltet eine Version der snprintf() Funktion mit
+ausgeschalteter Pflichtkontrolle.
 
 <p>Korrigiert: libdb 1.85.4-4 und später
 </define-tag>
