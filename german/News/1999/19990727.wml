@@ -1,7 +1,7 @@
 <define-tag pagetitle>Associated Press berichtet &uuml;ber Debian</define-tag>
 <define-tag release_date>1999-07-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1.5"
 
 <P>Auf dem LinuxTag in Kaiserslautern wurden wir von Associated
 Press (ap) angesprochen, die ein paar Pressemeldungen &uuml;ber Debian
@@ -26,7 +26,7 @@ Artikel schliesst mit einem Hinweis auf Hurd.
 
 <H3>Auf steinigen Pfaden zum pflegeleichten Pinguin</H3>
 #  <A HREF=http://de.yahoo.com/schlagzeilen/19990720/hightech/0932429376-0000001998.html>
-#  http://de.yahoo.com/schlagzeilen/19990720/hightech/0932429376-0000001998.html</A>
+  http://de.yahoo.com/schlagzeilen/19990720/hightech/0932429376-0000001998.html
 <br>Leider funktioniert der obige Link nicht mehr. Falls Sie eine
 Stelle kennen, an der dieser Artikel abgelegt ist, dann schicken Sie
 bitte eine Mail an <a href="mailto:webmaster.@debian.org">webmaster.@debian.org</a>
