@@ -33,8 +33,8 @@ Den senaste underutgåvan av Debian 2.2 är
 # be less wrong than saying it's 2.3r0 etc
 
 <p>För information om de större ändringar som gjorts i denna version,
-se <a href="#release-notes">versionsfakta</a> och den officiella
-<a href="$(HOME)/News/2000/20000815">pressreleasen</a>.
+se <a href="#release-notes">versionsfakta</a> och det officiella
+<a href="$(HOME)/News/2000/20000815">pressmeddelandet</a>.
 
 <p>Debian GNU/Linux är dedicerad till minnet av Joel "Espy" Klecker,
 en Debianutvecklare som, utan större delen av Debianprojektets vetskap, var
@@ -143,7 +143,7 @@ med CVS</a>.
 
 <h3>Säkerhetsfrågor</h3>
 
-<p>Debians säkerhetsteam get ut uppdateringar till paket i den stabila
+<p>Debians säkerhetsgrupp get ut uppdateringar till paket i den stabila
 utgåvan för vilka de upptäcker säkerhetsrelaterade problem.
 Se <a href="$(HOME)/security/">säkerhetssidorna</a> för information om
 säkerhetsproblem som hittats i "potato".
@@ -279,7 +279,7 @@ Andra viktiga bidragslämnare finns i <code>Maintainers</code>-filen i
 
 <p>Tack till Bill Bennet, ComputerHelperGuy, för donationen av
 <a href="http://www.chguy.net/potato.html">officiella potato-cd:er</a>
-till startdiskettteamet.
+till startdiskettgruppen.
 
 <h3>Resten av Debian</h3>
 
