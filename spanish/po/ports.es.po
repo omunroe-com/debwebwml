@@ -13,10 +13,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../english/misc/laptops/menu.inc:8
-msgid "Debian for Laptops"
-msgstr "Debian para portátiles"
-
 #: ../../english/ports/alpha/menu.inc:6
 msgid "Debian for Alpha"
 msgstr "Debian para Alpha"
@@ -120,6 +116,9 @@ msgstr "Debian para PowerPC"
 #: ../../english/ports/sparc/menu.inc:6
 msgid "Debian for Sparc"
 msgstr "Debian para Sparc"
+
+#~ msgid "Debian for Laptops"
+#~ msgstr "Debian para portátiles"
 
 #~ msgid "Vendor/Name"
 #~ msgstr "Nombre/Fabricante"
