@@ -1,0 +1,23 @@
+#use wml::debian::translation-check translation="97c63276e44b98a1da68595f99dc2712f2352661" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Etienne Stalmans upptäckte att git, ett snabbt, skalbart, distribuerat
+versionshanteringssystem, är utsatt för en sårbarhet för godtycklig
+kodexekvering som är exploaterbar via speciellt skapade undermodulnamn i
+en .gitmodules-fil.</p>
+
+<p>För den gamla stabila utgåvan (Jessie) har detta problem rättats
+i version 1:2.1.4-2.1+deb8u6.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 1:2.11.0-3+deb9u3.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era git-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om git vänligen se its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/git">https://security-tracker.debian.org/tracker/git</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4212.data"
