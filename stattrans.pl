@@ -69,7 +69,13 @@ if (-d "$config{'wmldir'}/CVS") {
 my $l = Webwml::Langs->new($opt_w);
 my %langs = $l->name_iso();
 my $VCS = Local::VCS->new();
+if ($config{verbose}) {
+    print "Caching VCS for performancs...\n";
+}
 $VCS->cache_repo();
+if ($config{verbose}) {
+    print "   ...done\n";
+}
 
 my $transignore = Webwml::TransIgnore->new($opt_w);
 
