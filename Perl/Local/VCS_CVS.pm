@@ -545,6 +545,28 @@ sub get_oldest_revision
 	return '1.1'; # earliest possible revision of any file, easy!
 }
 
+=item get_newest_revision
+
+Return the version of the newest version of a file
+
+The first argument is a name of a file.
+
+This function finds the newest revision of a file that is known in the
+repository and returns it.
+
+Example use:
+
+   my $rev = get_newest_revision( 'foo.c');
+
+=cut
+
+sub get_newest_revision
+{
+    # NOT SUPPORTED in the CVS code
+
+    croak("NOT SUPPORTED IN THE CVS CODE");
+}
+
 =item next_revision
 
 Given a file path and a current revision of that file, move backwards

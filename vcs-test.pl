@@ -311,6 +311,12 @@ print "Got \"$ret\"\n";
 
 ##########################################################
 print "#############################\n";
+print "VCS->get_newest_revision on $file :::\n";
+$ret = $VCS->get_newest_revision($file);
+print "Got \"$ret\"\n";
+
+##########################################################
+print "#############################\n";
 print "VCS->next_revision (-1) on $file :::\n";
 $ret = $VCS->next_revision($file, $rev1, -1);
 print "Got \"$ret\", expecting \"$rev2\"\n";

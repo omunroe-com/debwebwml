@@ -756,6 +756,37 @@ sub get_oldest_revision
 	croak(" Could not find any revisions for $file");
 }
 
+=item get_newest_revision
+
+Return the version of the newest version of a file
+
+The first argument is a name of a file.
+
+This function finds the newest revision of a file that is known in the
+repository and returns it.
+
+Example use:
+
+   my $rev = get_newest_revision( 'foo.c');
+
+=cut
+
+sub get_newest_revision
+{
+	my $self = shift;
+	my $file = shift or croak("No file specified");
+
+	croak( "No such file: $file" ) unless -f $file;
+
+	my @commits = $self->_grab_commits($file);
+	if (@commits) {
+	    # Simply return the last revision in our list
+	    return $commits[0]{'cmt_rev'};
+	}
+	# Should hopefully never get here!
+	croak(" Could not find any revisions for $file");
+}
+
 =item next_revision
 
 Given a file path and a current revision of that file, move backwards
