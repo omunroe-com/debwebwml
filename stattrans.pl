@@ -61,7 +61,7 @@ $opt_p =~ s/$/\$/g;
 	   );
 
 my $VCSHOST = "salsa";
-my $VCSBASE = "https://salsa.debian.org/webmaster-team/webwml.git";
+my $VCSBASE = "https://salsa.debian.org/webmaster-team/webwml";
 if (-d "$config{'wmldir'}/CVS") {
     $VCSHOST = "alioth";
     $VCSBASE = "https://anonscm.debian.org/viewvc/webwml/webwml";
