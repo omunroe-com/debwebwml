@@ -1,8 +1,8 @@
 #use wml::debian::translation-check translation="72e985dfa9b7a9be1fca49944d2bccd5d39a088c" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
-<p>Plusieurs vulnérabilités ont été découvertes dans qemu, un émulateur de
-processeur rapide.</p>
+<p>Plusieurs vulnérabilités ont été découvertes dans qemu, un émulateur
+rapide de processeur.</p>
 
 <ul>
 
@@ -35,7 +35,7 @@ de service.</p></li>
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-16845">CVE-2017-16845</a>
 
 <p>Cyrille Chatras a découvert une fuite d'informations dans l'émulation
-de souri PS/2 et de clavier qui pourrait être exploitée lors de la
+de souris PS/2 et de clavier qui pourrait être exploitée lors de la
 migration d'une instance.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-17381">CVE-2017-17381</a>
