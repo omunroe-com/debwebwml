@@ -398,10 +398,10 @@ if ($config{'difftype'} eq 'u') {
 sub vcs_log_url {
     my ($path) = @_;
 
-    if ($VCSHOST == "alioth") {
-	return "$VCSBASE/$path";
-    } elsif ($VCSHOST == "salsa") {
-	return "$VCSBASE/commits/master/$path";
+    if ($VCSHOST =~ m/alioth/) {
+	return "$VCSBASE/$path#rev$rev";
+    } elsif ($VCSHOST =~ m/salsa/) {
+	return "$VCSBASE/commits/$rev/$path";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
     }
@@ -410,10 +410,10 @@ sub vcs_log_url {
 sub vcs_diff_url {
     my ( $path, $r1, $r2, $diff_format ) = @_;
 
-    if ($VCSHOST == "alioth") {
+    if ($VCSHOST =~ m/alioth/) {
 	return "$VCSBASE/$path/?r1=$r1&amp;r2=$r2&amp;diff_format=$diff_format";
-    } elsif ($VCSHOST == "salsa") {
-	return "$VCSBASE/BROKEN_DIFF_SUPPORT_FIXME/$path";
+    } elsif ($VCSHOST =~ m/salsa/) {
+	return "$VCSBASE/compare?from=$r1&to=$r2";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
     }
@@ -422,9 +422,9 @@ sub vcs_diff_url {
 sub vcs_view_url {
     my ($path) = @_;
 
-    if ($VCSHOST == "alioth") {
+    if ($VCSHOST =~ m/alioth/) {
 	return "$VCSBASE/$path?view=markup";
-    } elsif ($VCSHOST == "salsa") {
+    } elsif ($VCSHOST =~ m/salsa/) {
 	return "$VCSBASE/blob/master/$path";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
@@ -434,9 +434,9 @@ sub vcs_view_url {
 sub vcs_raw_url {
     my ($path) = @_;
 
-    if ($VCSHOST == "alioth") {
+    if ($VCSHOST =~ m/alioth/) {
 	return "$VCSBASE/$path?view=co";
-    } elsif ($VCSHOST == "salsa") {
+    } elsif ($VCSHOST =~ m/salsa/) {
 	return "$VCSBASE/raw/master/$path";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
