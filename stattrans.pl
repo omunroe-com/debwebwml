@@ -41,9 +41,11 @@ $opt_v = 0;
 $opt_d = "u";
 $opt_l = undef;
 $opt_b = ""; # Base URL, if not debian.org
+# Should we try to repair any broken translation hash references?
+$opt_r = 0;
 # path of web stats JSON data
 $opt_f = "/srv/www.debian.org/webwml/stats.json";
-getopts('h:w:b:p:t:vd:l:f:') || die;
+getopts('h:w:b:p:t:vd:l:f:r') || die;
 #  Replace filename globbing by Perl regexps
 $opt_p =~ s/\./\\./g;
 $opt_p =~ s/\?/./g;
@@ -57,6 +59,7 @@ $opt_p =~ s/$/\$/g;
 	   'verbose' => $opt_v,
 	   'difftype'=> $opt_d,
            'hit_file'=> $opt_f,
+           'repair'  => $opt_r,
 	   );
 
 my $VCSHOST = "salsa";
@@ -231,6 +234,27 @@ sub get_color
     }
 }
 
+# Update the translation-check metadata header in a wml file
+sub update_file_metadata
+{
+    my $file = shift;
+    my $revision = shift;
+    my $hash = shift;
+    my $text = "";
+
+    open (IN, "< $file") or die "Can't open $file for reading: $!\n";
+    while (<IN>) {
+	if (m/^#use wml::debian::translation-check/) {
+	    s/(translation="?)($revision)("?)/$1$hash$3/;
+	}
+	$text .= $_;
+    }
+    close(IN);
+    open(OUT, "> $file") or die "Can't open $file for writing: $!\n";
+    print OUT $text;
+    close OUT;
+}
+
 sub check_translation
 {
     my ($translation, $version, $file, $orig_file) = @_;
@@ -244,7 +268,15 @@ sub check_translation
 	# From translation-check.wml
 	my $version_diff = $VCS->count_changes($orig_file, $translation, $version);
 	if (!defined $version_diff) {
-	    print "check_translation: error from count_changes for orig_file $orig_file, file $file\n";
+	    print "check_translation: error from count_changes() for orig_file $orig_file, file $file\n";
+	    if ($config{'repair'}) {
+		# Replace the translation reference with the most
+		# recent version of the original? Yes, they're all
+		# either really old or files with only one commit...
+		my $latest_rev_orig = $VCS->get_newest_revision($orig_file);
+		print "  fixing: using rev $latest_rev_orig instead of $translation\n";
+		update_file_metadata($file, $translation, $latest_rev_orig);
+	    }
 	} else {
 	    if ($version_diff < 0) {
 		return '<gettext domain="stats">Wrong translation version</gettext>';
