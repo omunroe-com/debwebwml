@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debianprojektet på Hispalinuxkongressen 2001</define-tag>
 <define-tag release_date>2001-11-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 
 <p>Debianprojektet bjöds att delta i Hispalinuxkongressen 2001, vilken
 äger rum 15-17 november.

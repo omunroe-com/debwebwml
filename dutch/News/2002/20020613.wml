@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="4448ea1f550cf5c9fae2509546970fcd3bbc7783"
 <define-tag pagetitle>Gibraltar Firewall gebaseerd op Debian</define-tag>
 <define-tag release_date>2002-06-13</define-tag>
 #use wml::debian::news

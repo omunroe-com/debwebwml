@@ -1,7 +1,7 @@
 <define-tag pagetitle>8<sup>e</sup> conférence Debian à Mar del Plata</define-tag>
 <define-tag release_date>2008-08-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="3b7859c97c15000903789005317871d68a8a4c58" maintainer="Nicolas Bertolissio"
 
 
 <ul>

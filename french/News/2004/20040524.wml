@@ -2,7 +2,7 @@
 <define-tag release_date>2004-05-24</define-tag>
 #use wml::debian::news
 #use wml::debian::news_events
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" maintainer="Simon Paillard"
 # $Id$
 
 

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Le projet Debian au congrès international de Linux</define-tag>
 <define-tag release_date>2001-11-24</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="655d20ade42c65db179f8672b31111e0a199a473" maintainer="Frédéric Bothamy"
 # $Id$
 
 <p>Le projet Debian a été invité à participer au prochain congrès

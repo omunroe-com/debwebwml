@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="2e4285c3afaa99fead8b43ce6c6073d3b2ac0915"
 <define-tag pagetitle>Kilka komputerów projektu Debian uległo kompromitacji</define-tag>
 <define-tag release_date>2003-11-21</define-tag>
 #use wml::debian::news

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Nowy serwer security.debian.org po pożarze w Twente</define-tag>
 <define-tag release_date>2002-11-22</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="d0b3a9afd298c316ef7fb32e5738604640c15f5e"
 
 <p>The Debian Team ponownie zainstalowało security.debian.org na hoście klecker,
 który znajduje się w XS4ALL w Holandii. Przepraszamy, że naprawa tak

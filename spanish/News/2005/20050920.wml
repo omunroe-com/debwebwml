@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ac3802b6397bbb6316821f40de0bc8a50e22db12" maintainer="Juan M. Garcia"
 <define-tag pagetitle>Saturación del ancho de banda del servidor de actualizaciones de seguridad</define-tag>
 <define-tag release_date>2005-09-20</define-tag>
 #use wml::debian::news

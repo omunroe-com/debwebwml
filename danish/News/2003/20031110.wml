@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian vinder flere læserpriser</define-tag>
 <define-tag release_date>2003-11-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="4f38229a53c2766162fa7c627e693dffe18cd523"
 
 <p>Det har været et succesrigt år for Debian-projekt og det har vundet flere
 flere læserpriser fra betydende GNU/Linux-magasiner.  De er anført i 

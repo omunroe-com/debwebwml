@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1f838c296004face091db76786f789729f61fe86" maintainer="Lev Lamberov"
 <define-tag pagetitle>Debian празднует своё десятилетие</define-tag>
 <define-tag release_date>2003-08-11</define-tag>
 #use wml::debian::news

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian fejrer sin 10-års fødselsdag</define-tag>
 <define-tag release_date>2003-08-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="1f838c296004face091db76786f789729f61fe86"
 
 <p>Den 16. august fejrer Debian-projektet sin 10-års fødselsdag med flere fester
 rundt omkring på kloden.  Debian-projektet blev oprindeligt grundlagt af Ian 

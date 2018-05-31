@@ -1,7 +1,7 @@
 <define-tag pagetitle>Rencontres Pluto 2001</define-tag>
 <define-tag release_date>2001-11-22</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="2a338849ca6ca9851dc73f3f2fbf637a46941409" maintainer="Frédéric Bothamy"
 # $Id$
 
 <p>Le projet Debian va participer aux Rencontres Pluto 2001 qui auront

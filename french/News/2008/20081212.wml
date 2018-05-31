@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" maintainer="Thomas Péteul"
 <define-tag pagetitle>La neuvième conférence Debian aura lieu en Estrémadure, en Espagne, en juillet 2009</define-tag>
 <define-tag release_date>2008-12-12</define-tag>
 #use wml::debian::news

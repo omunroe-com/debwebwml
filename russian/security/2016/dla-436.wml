@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="a280f1f7fd2de92aa4cb51e6541fc2b486d444bf" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e715988491414fb7ee6375ad36e23e6e085124a6" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>Пакеты ia32-libs и ia32-libs-gtk содержат 32-битные версии различных

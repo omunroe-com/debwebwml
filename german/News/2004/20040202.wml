@@ -1,7 +1,7 @@
 <define-tag pagetitle>Ausfall des Security-Rechners</define-tag>
 <define-tag release_date>2004-02-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="ce8b20d6de894a2960e88b14cb606f6c853ba825"
 # $Id$
 
 <p>Gestern gegen 15:00 UTC stürzte der Server klecker.debian.org ab.

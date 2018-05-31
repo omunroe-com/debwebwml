@@ -1,7 +1,7 @@
 <define-tag pagetitle>Einsatz: Debian-Projekt kann Sender ID nicht einsetzen</define-tag>
 <define-tag release_date>2004-09-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="81aa5508f6f822846b9640481b7f6052c689fd8b"
 # $Id$
 
 # Einsatz: Debian-Projekt kann Sender ID nicht einsetzen

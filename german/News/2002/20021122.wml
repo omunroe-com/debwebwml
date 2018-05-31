@@ -1,7 +1,7 @@
 <define-tag pagetitle>Neuer security.debian.org Server nach Feuer in Twente</define-tag>
 <define-tag release_date>2002-11-22</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
+#use wml::debian::translation-check translation="d0b3a9afd298c316ef7fb32e5738604640c15f5e"
 # $Id$
 
 <p>Das Debian Team hat security.debian.org auf dem Rechner klecker, der bei

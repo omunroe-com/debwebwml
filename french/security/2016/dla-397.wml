@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="a280f1f7fd2de92aa4cb51e6541fc2b486d444bf" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="e715988491414fb7ee6375ad36e23e6e085124a6" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Jann Horn a découvert que l'assistant mount.ecryptfs_private de

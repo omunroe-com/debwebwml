@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="a280f1f7fd2de92aa4cb51e6541fc2b486d444bf" mindelta="1"
+#use wml::debian::translation-check translation="e715988491414fb7ee6375ad36e23e6e085124a6" mindelta="1"
 <define-tag description>LTS-sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at specifikke APL RR-data kunne udløse en INSIST-fejl i 
