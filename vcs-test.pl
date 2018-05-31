@@ -28,9 +28,9 @@ if (-d "CVS") {
     $rev4 = "2.57768";
 } else {
     # Known working revs
-    $rev1 = "da8b98a6a6cb82188f7b0fd6204d083ad292dea4";
-    $rev2 = "4d758459f82173693d9a754fe57b2680b415da3c";
-    $rev3 = "f759936a7330f7e7309322658381d1277e6c922c";
+    $rev1 = "9e4da1d32463262f3e8d3d3bc1f36c64c318b666";
+    $rev2 = "7d58ee1b5221c95a82f4a0a7932d0f8721c673fa";
+    $rev3 = "caa8fae6f7a40cc9d2ddd6cbd62b1a9a4284352b";
     # And one that doesn't exist
     $rev4 = "5653875687436536574367564356874365783465";
 }    
