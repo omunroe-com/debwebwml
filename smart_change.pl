@@ -37,7 +37,8 @@ supporting git commit hashes. To use this:
  2. Update translations
  3. Run smart_change.pl - it will pick up the changes and update
     headers in the translation files
- 4. Commit the translation changes
+ 4. Review the changes (e.g. with "git diff -u")
+ 5. Commit the translation changes
 
 This is more involved than previously (needing two commits), but
 unavoidable...
