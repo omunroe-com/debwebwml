@@ -22,7 +22,6 @@ use Getopt::Std;
 
 #    These modules reside under webwml/Perl
 use lib ($0 =~ m|(.*)/|, $1 or ".") ."/Perl";
-#use Local::Cvsinfo;
 use Local::VCS ':all';
 use Webwml::Langs;
 use Webwml::TransCheck;
@@ -76,32 +75,14 @@ my $transignore = Webwml::TransIgnore->new($opt_w);
 
 chdir($config{'wmldir'}) or die "Can't chdir to $config{'wmldir'}: $!\n";
 
-#my $cvs = Local::Cvsinfo->new();
-#$cvs->options(
-#        recursive => 1,
-#        matchfile => [ $config{'wmlpat'} ],
-#        skipdir   => [ "template" ],
-#);
-#$cvs->readinfo("$config{'wmldir'}/english");
 my %rev_info = $VCS->path_info("english",
 			     'recursive' => 1,
 			     'match_pat' => $config{'wmlpat'},
 			     'skip_pat'  => "(template|/devel/website/stats/)");
 my $cnt = scalar(keys %rev_info);
-#print "found $cnt english files using wmlpat $config{'wmlpat'}\n";
 foreach (@{$transignore->global()}) {
-#        $cvs->removefile("$config{'wmldir'}/english/$_");
 	delete $rev_info{"english/$_"};
 }
-
-#print "found $cnt english files\n";
-
-#y $altcvs = Local::Cvsinfo->new();
-#altcvs->options(
-#       recursive => 1,
-#       matchfile => [ $config{'wmlpat'} ],
-#       skipdir   => [ "template" ],
-#;
 
 $max_versions = 5;
 $min_versions = 1;
@@ -168,7 +149,6 @@ sub getwmlfiles
       return;
     }
     if ($is_english) {
-#        @listfiles = @{$cvs->files()};
         @listfiles = sort keys(%rev_info);
     } else {
 	%altrev_info = $VCS->path_info($dir,
@@ -176,9 +156,6 @@ sub getwmlfiles
 				       'match_pat' => $config{'wmlpat'},
 				       'skip_pat'  => "template");
         @listfiles = sort keys(%altrev_info);
-#        $altcvs->reset();
-#        $altcvs->readinfo($dir);
-#        @listfiles = @{$altcvs->files()};
     }
 #    print "cutfrom is $cutfrom\n";
 #    print "Looking at @listfiles\n";
@@ -197,11 +174,9 @@ sub getwmlfiles
 	    $original{"$lang/$file"} ||= $transcheck->original();
 	}
 	if ($is_english) {
-	    #$version{"$lang/$file"} = $cvs->revision($f);
 	    $version{"$lang/$file"} = $rev_info{"$file"}{'cmt_rev'};
 	} else {
 	    $version{"$lang/$file"} = $altrev_info{"$file"}{'cmt_rev'};
-#	    $version{"$lang/$file"} = $altcvs->revision($f);
 	    if (!$transcheck->revision()) {
 	        $transcheckenglish = Webwml::TransCheck->new("english/$file");
 		if (!$transcheckenglish->revision() and (-e "english/$file")) {
