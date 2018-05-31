@@ -5,7 +5,7 @@
 <define-tag webpage>https://www.nakiedy.pl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="49a4209113e8bbb7af03aa13f9fa2d8a312bcdad" maintainer="Jean-Paul Guillonneau"
 
 <p>
     Nakiedy.com est un système de réservation pour séjour fonctionnant suivant

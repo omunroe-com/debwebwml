@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5d267c0764bc80766193a9540f065a54ddfc9f84" maintainer="Lev Lamberov"
 <define-tag description>создание небезопасного временного файла</define-tag>
 <define-tag moreinfo>
 <p>Spybreak обнаружил проблему в scrollkeeper, свободной системе электронного

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="295e27bfbf83a396f5819cfd6ea657627a116be2" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что код эмуляции e1000 в QEMU не устанавливает

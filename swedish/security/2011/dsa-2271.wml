@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b74c9322e47cd1fbfb667e68d0f96547618d659d" mindelta="1"
 <define-tag description>felaktig delegering av klientautentiseringsinformation</define-tag>
 <define-tag moreinfo>
 <p>Richard Silverman upptäckte att vid GSSAPI-autentisering, utför libcurl

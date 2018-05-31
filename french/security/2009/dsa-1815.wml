@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="0ea4bc5fcd2ddd89c66d3795bdf4e735570762af" maintainer="Thomas Vincent"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>La bibliothèque Bittorrent Rasterbar réalisait une validation

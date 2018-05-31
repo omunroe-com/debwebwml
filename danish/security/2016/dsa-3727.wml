@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3e9fd1151e4af1ded5ba9e79a4d78f91997a61a0" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Cisco Talos opdagede at hdf5, et filformat og bibliotek til opbevaring af 

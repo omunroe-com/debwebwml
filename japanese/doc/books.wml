@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian に関する書籍" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.69"
+#use wml::debian::translation-check translation="ffa2c14382ae665747cae88bfe83a6a92a450600"
 #include "$(ENGLISHDIR)/doc/books.def"
 
 # Greetings translators!

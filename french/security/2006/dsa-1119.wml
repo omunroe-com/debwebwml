@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="0ffe2ac8e152c33ae8b54e87dfe2628a9df94166" maintainer="Simon Paillard"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>Akira Tanaka a découvert une vulnérabilité dans Hiki Wiki, un moteur Wiki

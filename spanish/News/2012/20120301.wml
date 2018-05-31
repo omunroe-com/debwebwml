@@ -1,7 +1,7 @@
 <define-tag pagetitle>Suiza será la sede la de Conferencia Debian 2013</define-tag>
 <define-tag release_date>2012-03-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 
 <p>El 20 de febrero de 2012, el comité organizador de DebConf decidió que la

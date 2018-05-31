@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="08991cabba204bc5aaa77bc8013ffb339d98d7f1" maintainer="juanma"
 <define-tag description>desbordamiento de buffer, saneamiento de
 entrada, desbordamiento de entero</define-tag>
 <define-tag moreinfo>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ab4b527cad111c20809c42061ddbee14e9d51b1e"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>ネットワークのモニタリングとデータ収集の強力なツール tcpdump の BGP 

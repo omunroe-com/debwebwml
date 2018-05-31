@@ -1,5 +1,5 @@
 #use wml::debian::template title="Центральна статистика перекладу Debian"
-#use wml::debian::translation-check translation="1.30" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="e858ec89e4a81acd60505cce44e278860a8e3ade" maintainer="Borys Yanovych"
 
 <p>На цих сторінках вказана кількість пакунків Debian, котрі вже готові
 до перекладу й котрі вже насправді є перекладеними.</p>

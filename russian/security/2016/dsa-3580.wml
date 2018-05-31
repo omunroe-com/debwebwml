@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="93f9ec29a9d79391f858712be49e7f64f2d395a3" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Николай Ермишкин из команды безопасности Mail.Ru и Стьюи обнаружили

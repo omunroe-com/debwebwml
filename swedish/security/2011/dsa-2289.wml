@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="908fe187e1f1bf2f1632bf37e1e2db89be1ff1d0" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt flera utifrån nåbara sårbarheter i 

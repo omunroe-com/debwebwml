@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="05a9dbb8e5e0a02f3fa8dc9bdb2b34bbfb9ea726" mindelta="1"
 <define-tag description>osäker citering av filnamn</define-tag>
 <define-tag moreinfo>
 <p>

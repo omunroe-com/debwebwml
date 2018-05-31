@@ -1,6 +1,6 @@
 #use wml::debian::template title="Wiadomości z 1999 roku"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d8f99c73df92887c910048f8c5bacdacb1c6c272"
 
 <:= get_recent_list ('.', '0', '$(ENGLISHDIR)/News/1999', </q>, '\d+\w*') :>
 

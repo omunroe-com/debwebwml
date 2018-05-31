@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian-Accessibility - Software"
 {#style#:<link rel="stylesheet" href="style.css" type="text/css" />:#style#}
-#use wml::debian::translation-check translation="1.24"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 # $Id$
 # Translation: Helge Kreutzmann <debian@helgefjell.de> 2005-07-30
 

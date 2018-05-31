@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="76d24badaf26664696c7056f568fe0c1a253484a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Damian Put さんにより、ClamAV アンチウイルスツールキットの UPX

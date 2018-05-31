@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="6d942f26f1cc6bc7a19ca1f102c6ecb01eb0815b" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que el servidor de aplicaciones web Zope permitía acceso de

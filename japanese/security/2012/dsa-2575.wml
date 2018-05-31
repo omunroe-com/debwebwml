@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="817974f9e13d91b474004228c623c9e15ac6043f"
 <define-tag description>ヒープベースのバッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>TIFF の操作および変換ユーティリティ群である TIFF ツールの ppm2tiff

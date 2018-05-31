@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ae66ac1f4f0bf127060419f9f05af0ba84e1ecc3" maintainer="Lev Lamberov"
 <define-tag description>чтение за пределами массива</define-tag>
 <define-tag moreinfo>
 <p>Ян Ронг Ге обнаружил доступ за пределы памяти в heartbeat, подсистеме

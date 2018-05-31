@@ -14,4 +14,4 @@ posteriores do squid.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-077.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1a4e5aef4c871716b9294d3f3f66afa1f7f32bf8"

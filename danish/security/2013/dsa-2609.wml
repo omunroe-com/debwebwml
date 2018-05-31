@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6b2ae509dd414b5e3130759951594b529714d704" mindelta="1"
 <define-tag description>manipulering af SQL-forespørgsel</define-tag>
 <define-tag moreinfo>
 <p>En fortolkningskonflikt kunne medføre at komponenten Active Record i Rails, 

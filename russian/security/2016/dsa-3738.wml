@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0b49876de3d823f2d0af02d3d6a3c3d5fb788a21" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В сервлете Tomcat и движке JSP, а также в сценариях

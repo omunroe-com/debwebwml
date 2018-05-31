@@ -1,7 +1,7 @@
 <define-tag pagetitle>Wahl der Leser-Auszeichnung für Debian auf der Web Tools 2000</define-tag>
 <define-tag release_date>2000-11-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="27672d0b8f6b1daf2aebc90070bdc90d5710fb6f"
 # Translator: Helge Kreutzmann, kreutzm@itp.uni-hannover.de, 2005-07-31
 # $Id$
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f6fdf613e5e9d7d3ae5c01ad08c426206265b991" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i drupal7, en innehållshanteringsplattform

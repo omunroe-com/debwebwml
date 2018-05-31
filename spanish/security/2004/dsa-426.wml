@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="556424400c8f7da54267b9fc922002c456d73046"
 <define-tag description>archivos temporales inseguros</define-tag>
 <define-tag moreinfo>
 <p>netpbm es un conjunto de herramientas de conversión gráfica compuesto

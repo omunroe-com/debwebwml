@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="842ccedd0008fa7a919921795bdd9c312f89c212" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Brian Carpenter, Geeknik Labs et 0xd34db347 ont découvert que cURL, une

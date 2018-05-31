@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2070ec0de011f9b06a2163491030426e19d2b93c" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>John Lightsey upptäckte en formatsträngsinjiceringssårbarhet i

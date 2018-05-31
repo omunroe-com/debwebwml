@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba8fdddc9e6cca16be38a6f60d1b61a79f80fc04" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Айч Ди Мур обнаружил, что Wine, свободная реализация API Microsoft

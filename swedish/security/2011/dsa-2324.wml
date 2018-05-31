@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8850254dff0cc45e21ff8723ca81aece5b266ea7" mindelta="1"
 <define-tag description>programmeringsfel</define-tag>
 <define-tag moreinfo>
 <p>Microsoft Vulnerability Research-gruppen upptäckte att osäker hantering

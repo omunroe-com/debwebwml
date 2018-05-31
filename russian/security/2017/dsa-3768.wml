@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e610b5bdfe1c703d298d81003a69a505a33c976c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Многочисленные уязвимости в OpenJPEG, библиотеке для сжатия и распаковки

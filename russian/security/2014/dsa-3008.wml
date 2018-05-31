@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="086cceebb3da4acdf05e9aaddcea7156526f83f4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В PHP, языке сценариев общего назначения, часто используемом для разработки

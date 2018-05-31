@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="da92ae594a5343f5177264fa4481c5e21f8362cb" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Takeshi Terada a découvert une vulnérabilité dans PHPMailer, une

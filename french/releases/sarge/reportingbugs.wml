@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 3.1 &mdash; Signaler les problèmes" BARETITLE=true
-#use wml::debian::translation-check translation="1.4" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a" maintainer="Nicolas Bertolissio"
 
 <p>
 Si vous avez un problème avec le système d'installation, merci de signaler le

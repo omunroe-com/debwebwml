@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.24" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Résolution générale : code de conduite</define-tag>
 <define-tag status>F</define-tag>
 # signification des balises <status> :

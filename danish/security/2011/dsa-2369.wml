@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="638f772e4005b633863222746372aa69406c9d4e" mindelta="1"
 <define-tag description>utilstrækkelig fornuftighedskontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at libsoup, et HTTP-bibliotek implementeret i C, ikke på 

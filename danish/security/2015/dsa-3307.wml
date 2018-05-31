@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f57dacf8fb816f017712abac86bc0909711b8da0" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Toshifumi Sakaguchi opdagede at patch'en til pdns-recursor, en rekursiv 

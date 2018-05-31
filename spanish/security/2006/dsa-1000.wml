@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="8cd3f56e4fea4c350fc19d6a93a09cb72f1ef04a" maintainer="Juan M. Garcia"
 <define-tag description>error de diseño</define-tag>
 <define-tag moreinfo>
 <p>Gunnar Wolf se dio cuenta de que la corrección del problema siguiente

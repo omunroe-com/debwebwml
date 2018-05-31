@@ -19,5 +19,5 @@ Version 178-1sarge1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-785.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b27d11d23c55bd839184766c856e4d6d383c8a48" mindelta="1"
 # $Id$

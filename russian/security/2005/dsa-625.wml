@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="98453cc8869027b4695d104b83f4acf9d4369b68" maintainer="Lev Lamberov"
 <define-tag description>переполнения буфера</define-tag>
 <define-tag moreinfo>
 <p>Дэнни Лангстром обнаружил два переполнения буфера в pcal, программе

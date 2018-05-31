@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>
 Proton informó en bugtraq de que tcsh no gestionaba los documentos internos
 correctamente. La versión de tcsh que se distribuye con Debian GNU/Linux 2.2r0

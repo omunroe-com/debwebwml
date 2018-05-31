@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bfe36bb70fd1c63439725965e0ca3dd4a299dd2a" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Кевин Финистере обнаружил переполнение буфера в luxman, клоне PacMan для

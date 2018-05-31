@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Sebul"
+#use wml::debian::translation-check translation="37a758304f34ffcd8dd185c24bc1ba2533e8beac" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>여러 취약점이 PHP, 널리 사용되는 오픈 소스 범용 스크립트 언어에서 발견되었습니다:

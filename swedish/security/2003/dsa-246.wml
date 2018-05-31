@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="6d4deee06918954cd5c5cf88ea3c9bf0715385a4" mindelta="1"
 <define-tag description>informationsexponering, serveröverskridande skriptproblem</define-tag>
 <define-tag moreinfo>
 <p>

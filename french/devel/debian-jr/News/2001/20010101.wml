@@ -1,7 +1,7 @@
 <define-tag pagetitle>État de Debian Junior</define-tag>
 <define-tag release_date>2001-01-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Thomas Huriaux"
 <p>
 Bien, juste pour rappeler à ceux qui ne font pas attention à ce que nous
 faisons avec Debian Junior, nous sommes sur

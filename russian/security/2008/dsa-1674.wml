@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3fca68678ea6ba7ddb95e5662a84ce47833c69ba" maintainer="Lev Lamberov"
 <define-tag description>небезопасное создание временного файла</define-tag>
 <define-tag moreinfo>
 <p>Хавьер Фернандез-Сангуино Пена обнаружил, что updatejail, компонент

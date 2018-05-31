@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="5d72ef310e1ee1c84a08bccf7b9fe046dfb4b114" maintainer="Thomas Vincent"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Tielei Wang a découvert que CamlImages, une bibliothèque de traitement d'images

@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.techspray.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="9b4289adbcfab8f665e0d74cef5dccf88403f10a" maintainer="Cédric Boutillier"
 
 <p>
 Nous utilisons Debian pour faire de la surveillance système avec Cacti, ainsi

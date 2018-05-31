@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="e1ea6be86d11213c8e26417a0e24234f8ad3eae1" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Tilmann Haak fra xing.com opdagede at XML::LibXML, en Perl-grænseflade til 

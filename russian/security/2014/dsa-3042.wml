@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="86edebaba31f30e6f6f9937dc2d9c75400e06b62" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Стефано Закироли обнаружил уязвимость в exuberant-ctags, инструменте для

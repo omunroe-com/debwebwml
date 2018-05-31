@@ -1,6 +1,6 @@
 #use wml::debian::template title="Adaptaciones a otras arquitecturas"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.135" maintainer="Diddier Hilarion"
+#use wml::debian::translation-check translation="9d24e98217211bca46ce3e754528e6a10f1d9f3e" maintainer="Diddier Hilarion"
 #use wml::debian::toc
 
 <toc-display/>

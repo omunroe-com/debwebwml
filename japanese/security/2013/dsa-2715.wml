@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="13c85e7cf74a28fc991efd1f3c3566336e871c46"
 <define-tag description>コードの実行</define-tag>
 <define-tag moreinfo>
 <p>中央集中設定管理システム puppet が YAML

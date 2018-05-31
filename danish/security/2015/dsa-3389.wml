@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="e401fddafb1eda4d1e6757d80243260e8e5721a9" mindelta="1"
 <define-tag description>ophør af livsforløb</define-tag>
 <define-tag moreinfo>
 <p>Sikkerhedsunderstøttelse af elasticsearch i jessie ophører hermed.  Projektet 

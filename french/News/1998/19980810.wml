@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="adfd0b4c15552cead2b1a31dc11b20de1fcc4aa4" maintainer="Frédéric Bothamy"
 <define-tag pagetitle>Les nouveaux officier de SPI ont été choisis</define-tag>
 <define-tag release_date>1998-08-10</define-tag>
 #use wml::debian::news

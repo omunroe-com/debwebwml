@@ -1,5 +1,5 @@
 #use wml::debian::template title="Distribuciones derivadas de Debian"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="1b62dcf348569f7b3d0975c674a776e714dc31fc"
 
 <p>
 Hay <a href="#list">varias distribuciones</a> basadas en Debian.

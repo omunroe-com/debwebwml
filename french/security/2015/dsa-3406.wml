@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="01167fc3413b6e197c38db22da2e321fdb445e72" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Une allocation de mémoire incorrecte dans la bibliothèque d'exécution

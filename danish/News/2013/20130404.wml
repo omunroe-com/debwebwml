@@ -5,7 +5,7 @@
 <define-tag pagetitle>En Bytemark-donation forstærker pålideligheden ved Debians primære infrastruktur</define-tag>
 <define-tag release_date>2013-04-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Tidligere på ugen begyndte Debian at udrulle maskiner til sine primære 
 infrastrukturtjenester, som alle vil være hostet i et nyt datacenter i York i 

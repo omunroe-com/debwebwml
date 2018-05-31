@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="e3c31003190f2796a29bc32e4693de0b48baa940" maintainer="Nicolas Bertolissio"
 <define-tag abbr>DebianDay</define-tag>
 <define-tag year>2007</define-tag>
 <define-tag pagetitle>Journée Debian</define-tag>

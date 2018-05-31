@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="4dce983ccc5f5331bf6c99b54209e26a4c3ba4c5" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>On a découvert que la fonction de chargement d'avatar du forum FUD, un

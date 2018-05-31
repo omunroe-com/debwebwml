@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="441507211602277a4ed1b172cb705f8da32e9b6c"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>複数のバッファオーバフローが、ウェブベースの IRC クライアント cgiirc

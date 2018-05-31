@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6861d10a3df38a5aca96ff68852b79cbd91bf75d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Матеуш Юржик обнаружил многочисленные уязвимости в Freetype. Открытие

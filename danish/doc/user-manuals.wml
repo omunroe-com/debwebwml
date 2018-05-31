@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Debians brugervejledninger"
-#use wml::debian::translation-check translation="1.151"
+#use wml::debian::translation-check translation="89452b91283c66fe196874b0444b28b819d16d7d"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
 

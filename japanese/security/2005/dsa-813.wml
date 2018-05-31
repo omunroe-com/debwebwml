@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bfd98cdeb277ecd87722d15f278bdbeaf21a946f"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>テキストモードのマルチプロトコルのインスタントメッセージクライアントで

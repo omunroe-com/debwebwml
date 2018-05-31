@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0a3164efd9990ff9cbb981ec243d872ca0c2d395" maintainer="Lev Lamberov"
 <define-tag description>переполнения буфера</define-tag>
 <define-tag moreinfo>
 <p>Ариэль Беркман обнаружил несколько переполнений буфера в xloadimage, которые

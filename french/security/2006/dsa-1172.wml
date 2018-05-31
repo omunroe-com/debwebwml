@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="f2f04ad008e2a6b51ef3d87c858fcc346211d7e4" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités ont été découvertes dans BIND9, le serveur de noms de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="99c9266fae57b82da1a40cc59d483ce6d5f302df" maintainer="Lev Lamberov"
 <define-tag description>окончание жизненного цикла</define-tag>
 <define-tag moreinfo>
 <p>Поддержка безопасности от основной ветки разработки Typo3 4.5.x закончилась три месяца назад,

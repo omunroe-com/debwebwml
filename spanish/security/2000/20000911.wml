@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>libpam-smb contiene un desbordamiento de búfer que puede
 ser usado para ejecutar comandos arbitrarios con privilegios de root.
 libpam-smb no fue lanzado con Debian 2.1 (slink), pero se incluyó en Debian

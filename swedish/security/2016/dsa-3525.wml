@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2f090c0aed43adf8e68cd2dd2a5c8b2cd2b4f779" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Vincent LE GARREC upptäckte ett heltalsspill i pixman, ett

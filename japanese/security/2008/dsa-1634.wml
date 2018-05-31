@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bbb83a58cccf4123338fb33808d1273168afeb6a"
 <define-tag description>スタック・ヒープオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Rob Holland さんにより、英語の語彙電子データベース WordNet に複数のプロ

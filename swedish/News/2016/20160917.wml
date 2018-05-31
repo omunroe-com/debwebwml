@@ -1,6 +1,6 @@
 <define-tag pagetitle>Uppdaterad Debian 8: 8.6 utgiven</define-tag>
 <define-tag release_date>2016-09-17</define-tag>
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9e4a334c3a085a99108a9105fbdc39abad53461b"
 #use wml::debian::news
 
 <define-tag release>8</define-tag>

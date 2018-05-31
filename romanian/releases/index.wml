@@ -1,6 +1,6 @@
 #use wml::debian::template title="Versiuni Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.62"
+#use wml::debian::translation-check translation="5a06cb0b7c1d40b7fce8df999b99a6c779b7764d"
 
 <p>Debian menține în permanență trei 
 versiuni: stabilă (<q>stable</q>), testare (<q>testing</q>) și

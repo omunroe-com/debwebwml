@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-05-27" SUMMARY="Dotacje, I18n, GCC, Jądro, DebConf, Multimedia, Wiki, CD, Roboty, Patenty, Znaczniki, Podpisywanie kluczy, BTS"
-#use wml::debian::translation-check translation="1.23"
+#use wml::debian::translation-check translation="43b21d2ddd592bb9e7352fbf627cf138fdf61083"
 
 <p>Witaj w dwudziestym pierwszym w tym roku numerze DWN, tygodniku dla osób
 zainteresowanych i związanych z Debianem. Projekt GNOME <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="96e7c19e50d15e82b16f7959463dfd3e54c77ed1" maintainer="Lev Lamberov"
 <define-tag description>небезопасное использование SSL</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что ejabberd, сервер Jabber/XMPP, использует SSLv2 и

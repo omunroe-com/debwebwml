@@ -1,6 +1,6 @@
 #use wml::debian::template title="Кодекс поведения" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9d8bb5017e9113a23d9b016120a4e63281494984" maintainer="Lev Lamberov"
 
 
     <table width="90%">

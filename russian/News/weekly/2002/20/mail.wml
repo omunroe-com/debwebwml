@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PAGENAME="Электронная почта"
 # $Id$
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8bad0bccdd1da96d34bde7900855e9bb509f8206" maintainer="Lev Lamberov"
 
 <a name="mail1"></a>
 <p>От: Йосеон Ян &lt;yooseong@debian.org&gt;

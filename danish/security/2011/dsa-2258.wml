@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d5922890989213eb97c82e10261f7ea94b0108e7" mindelta="1"
 <define-tag description>implementeringsfejl</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at implementeringen af STARTTLS i Kolab Cyrus IMAP-serveren ikke

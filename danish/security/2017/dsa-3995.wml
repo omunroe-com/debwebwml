@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d24d251e885cedb77f0d35039dd4904fc1d0c145" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sårbarheder blev fundet i libXfont, X11-biblioteket til fontrasterisering, 

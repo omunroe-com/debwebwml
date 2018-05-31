@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="351953904ff7bbb2ca8dc322544fee5d1e2f62ed" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Лорен Маджиоре из Trail of Bits обнаружила, что парсер 3GP из VLC,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2bd18a67682540fb7c79d49a858ca9bcfaa704ed" maintainer="Lev Lamberov"
 <define-tag description>переполнения буфера и уязвимости форматной строки</define-tag>
 <define-tag moreinfo>
 <p>В Hylafax, гибком факсовом ПО с клиент-серверной архитектурой, поставляемой

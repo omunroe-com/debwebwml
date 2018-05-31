@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8f0b58b6fc05c2c8faad23a0daecdbfde6d217b1"
 <define-tag description>入力に対する不十分なサニタイジング</define-tag>
 <define-tag moreinfo>
 <p>GD グラフィックライブラリが GIF

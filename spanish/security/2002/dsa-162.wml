@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="64d52f702a87d1ebdc358715fca8fa6e4062b743"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores de Ethereal descubrieron un desbordamiento de búfer

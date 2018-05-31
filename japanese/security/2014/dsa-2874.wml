@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a62acf1603e9b564c259775d5a834fe0f9cbb79c"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Beatrice Torracca さんと Evgeni Golov さんが mutt

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ab509bee89b4edb760e4f1dad6f13d1aef6a3ead" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Мэтью Долей обнаружил, что Squid3, полнофункциональный веб-прокси,

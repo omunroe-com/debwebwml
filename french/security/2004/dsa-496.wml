@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="75232755915a97a2fdf3cce209244f91c56788e4" maintainer="DFS Task Force"
 <define-tag description>Manque de vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>H.D. Moore a découvert plusieurs problèmes de sécurité concernant 

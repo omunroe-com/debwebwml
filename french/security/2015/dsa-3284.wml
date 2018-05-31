@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="9e0bdc6c500c3c84d2ba80415ba3d7a686a15ced" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans qemu, un émulateur de

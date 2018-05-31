@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="96e7c19e50d15e82b16f7959463dfd3e54c77ed1" mindelta="1"
 <define-tag description>osäker SSL-användning</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att ejabberd, en Jabber/XMPP-server, använder SSLv2 och

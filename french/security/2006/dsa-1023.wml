@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="fd7870e306cab1c27f57461fd25055f1634b05c3" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner a découvert que kaffeine, un lecteur multimédia flexible

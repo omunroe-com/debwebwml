@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Предыдущие версии пакета smtp-refuser поставлялись с
 непроверенной функцией журналирования в /tmp/log.  Эта проблема позволяет любому пользователю удалять произвольные
 файлы суперпользователя при условии, что он имеет права на запись в /tmp.</define-tag>

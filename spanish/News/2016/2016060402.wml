@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="13c71281708b84f672173a6f6f4d8b41386a737d"
 <define-tag pagetitle>Debian 7 actualizado: publicada la versión 7.11</define-tag>
 <define-tag release_date>2016-06-04</define-tag>
 #use wml::debian::news

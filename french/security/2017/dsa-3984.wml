@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="809c6c318b5cf68cbae3e97ca789ae811c7bf8a3" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>joernchen a découvert que la sous-commande git-cvsserver de Git, un

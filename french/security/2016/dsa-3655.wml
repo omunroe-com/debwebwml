@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="2fdbc2c9a7e022c3ceb1a7017de8e885b02bd0ba" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités ont été découvertes dans MuPDF, un lecteur léger

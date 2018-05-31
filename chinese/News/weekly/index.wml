@@ -1,7 +1,7 @@
 #use wml::debian::projectnews::header PAGENAME="目錄"
 #use wml::debian::projectnews::index
 
-#use wml::debian::translation-check translation="1.28"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <p>
 <b>歡迎光臨專為 Debian 使用者社群而設的 Debian 計劃快訊。</b>
 <a href="current/issue/">本期快訊</a>也可以由

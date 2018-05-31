@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3bf650cccdb6e93c48a7577aa0c20bc4de250655" maintainer="Lev Lamberov"
 <define-tag description>непроверяемое возвращаемое значение</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что в barnowl, клиенте для обмена мгновенными сообщениями

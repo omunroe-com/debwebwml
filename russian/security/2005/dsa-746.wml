@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cb2f5e57816102a710a9531570f81e67023f636e" maintainer="Lev Lamberov"
 <define-tag description>ошибка проверки ввода</define-tag>
 <define-tag moreinfo>
 <p>В библиотеке xmlrpc, входящей в состав phpgroupware, веб-приложения для работы с электронной почтой,

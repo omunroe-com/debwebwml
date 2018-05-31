@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="63848bcc7283f7e22214dd89cbdca35b4c33e1df" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Nhiều lỗ hổng bảo mật đã được tìm thấy trong Wordpress, một bộ máy

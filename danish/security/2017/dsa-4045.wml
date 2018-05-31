@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3caef406fd7c0df67e69b79f2423af935af97899" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er fundet i VLC, VideoLAN-projektets medieafspiller.  

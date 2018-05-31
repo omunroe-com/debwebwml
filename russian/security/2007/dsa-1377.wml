@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2e1eccb3e64de4535296990af4b55c50c46d7e49" maintainer="Lev Lamberov"
 <define-tag description>разыменование null-указателя</define-tag>
 <define-tag moreinfo>
 <p>Матиас Андре обнаружил, что fetchmail, программа для сборки и перенаправления электронной почты с

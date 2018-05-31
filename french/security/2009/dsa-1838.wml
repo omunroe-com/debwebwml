@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="8c7d2cc74cc85d93122bb9456f4f27a8b015edeb" maintainer="Thomas Vincent"
 <define-tag description>Augmentation de droits</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy et Julien Tinnes ont découvert que le démon pulseaudio

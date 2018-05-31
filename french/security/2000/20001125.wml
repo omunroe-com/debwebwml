@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>Maurycy Prodeus a trouvé un problème dans <i>cons.saver</i>,
 un écran de veille pour la console inclus dans le paquet <i>mc</i>. <i>cons.saver</i>
 ne vérifie pas s'il est démarré avec un <i>stdout</i> valide, ce qui, combiné

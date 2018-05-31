@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="60605af75946463c3acbce9efbe189f7890c1c90" maintainer="Simon Paillard"
 <define-tag description>Défaut de conception</define-tag>
 <define-tag moreinfo>
 <p>Michael Bhola a découvert un bogue dans Squid, le cache de serveur

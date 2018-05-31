@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-10-28" SUMMARY="SPI, Votación, Folleto, Construir, Instalar, Errores, Zope, Instalador, Glibc"
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>Bienvenidos a la edición número 43 de este año de las DWN, el boletín
 semanal de la comunidad de Debian. El equipo de <a 

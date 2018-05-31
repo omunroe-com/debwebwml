@@ -1,7 +1,7 @@
 <define-tag pagetitle>Système de donn&eacute;es de tests en vol des avions commerciaux de Boeing, &Eacute;tats-Unis</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="da29aa3cf6c155620eb584728c2c0f6b736dde02" maintainer="Nicolas Bertolissio"
 
 <p>
 Debian est utilisé sur un équipement très spécialisé qui est chargé dans les

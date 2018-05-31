@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e113a63d9598cf6d9c66ab1b6125ddcd0374dc50"
 <define-tag description>доступ без авторизации</define-tag>
 <define-tag moreinfo>
 <p>Обнаружена уязвимость в gallery, написанном на php фотоальбоме

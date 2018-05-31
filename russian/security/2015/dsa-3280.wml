@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="70c6d2a8d626aa8200a9194910cd3d7eb47858cd" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В PHP были обнаружены многочисленные уязвимости:</p>

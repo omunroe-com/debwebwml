@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-08-14" SUMMARY="Debian Day 2014, Behov for hjælp til test af ejabberd, Debian Developers i 2014 pr. land, OpenAmbit er nu i unstable, Debian Arm64-port har nået 85 procent, Første skridt på vej mod uploads som kun er kildekode, Se programmet for DebConf14"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8fb751b7c1cfbe3cd729a336b64ae649edfd8b09"
 
 # $Id$
 # $Rev: 5753 $

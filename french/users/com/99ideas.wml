@@ -5,7 +5,7 @@
 <define-tag webpage>http://99ideas.pl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a613a40a2104ba7141a44c60dd640f4daac56eb4" maintainer="Jean-Pierre Giraud"
 
 <p>
 	Nous sommes une agence de marketing numérique et d'optimisation de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f725ed62d65307fd7b06cd59add9295746e4b381"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Debian 版の Mozilla Firefox ウェブブラウザ

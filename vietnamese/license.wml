@@ -1,5 +1,5 @@
 #use wml::debian::template title="Giấy phép trang WWW Debian" NOCOPYRIGHT="true" BARETITLE="true"
-#use wml::debian::translation-check translation="1.30" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="327ec6fb7bbc9207289defc00c95649b75753f38" maintainer="Trần Ngọc Quân"
 
 <div class="centerblock">
 <p>Bản quyền &copy; 1997-$(CUR_YEAR)

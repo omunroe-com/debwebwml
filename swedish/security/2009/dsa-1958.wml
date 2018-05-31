@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d0fdcb5cd8c336ee499487ea8578d46b6b597bc8"
 <define-tag description>utökning av privilegier</define-tag>
 <define-tag moreinfo>
 <p>Det upptäcktes att ltdl, ett systemoberoende hölje till dlopen för

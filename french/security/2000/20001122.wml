@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>Lorsque <i>joe</i> (Joe's Own Editor) se termine suite à
 un signal en lieu et place d'une sortie normale, il sauvegarde une liste de
 fichiers dans un fichier nommé <i>DEADJOE</i> dans le répertoire courant. 

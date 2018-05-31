@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e55d6711b36ead45e64e33a48cbd94044c19290c"
 <define-tag description>buffer overflow, formato de string</define-tag>
 <define-tag moreinfo>
 <p>Morgan alias SM6TKY descobriu e corrigiu vários problemas relativos a segurança

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0eb3609808ed99d85bc0de7d0cd4efa566743335" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Anton Kortunov rapporterede om et tilfælde af heapkorruption i ImageMagick, 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="7fb5f47af66ab7c2cdaa0e55da82c61cd48259e8" maintainer="Laura Arjona Reina"
 <define-tag pagetitle>Temas tratados en 2018</define-tag>
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::votebar

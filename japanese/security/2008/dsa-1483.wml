@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d507cd3a4c18992170ec74f24b200098c7f53da7"
 <define-tag description>設計ミス</define-tag>
 <define-tag moreinfo>
 <p>net-snmp バージョン 5.4.1 より前に含まれている SNMP agent

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 В версиях пакета traceroute, предшествующих версии 1.4a5-3, имеется уязвимость, из-за которой локальный пользователь
 может получить доступ с правами суперпользователя, используя ошибку, возникающую при грамматическом разборе аргументов.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="603620b3adc93b20da99ed7f3e946fb92923cf6a" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что PoPToP, сервер для двухточечного туннелирования,

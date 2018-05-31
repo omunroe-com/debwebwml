@@ -13,4 +13,4 @@ Detta behövs inte på ett Debian GNU/Linux-system.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19980901.data'
-#use wml::debian::translation-check translation="1.8" mindelta="1"
+#use wml::debian::translation-check translation="2c7cedb8e0fb02b64c3c71add86fe5d90b281fe8" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f2f04ad008e2a6b51ef3d87c858fcc346211d7e4" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В BIND9, сервере Berkeley Internet Name Domain, было обнаружено две

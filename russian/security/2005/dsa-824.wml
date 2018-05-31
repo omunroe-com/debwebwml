@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ddda387300fcb6a1fddf878933802f14446ef926" maintainer="Lev Lamberov"
 <define-tag description>бесконечный цикл, переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В Clam AntiVirus, антивирусном сканере для Unix, разработанном для интеграции с почтовыми серверами

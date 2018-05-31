@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="1b81ff5d2cddea5f841682219e44efc62f21bb1d" maintainer="Thomas Vincent"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Le composant SIEVE de cyrus-imapd, un système de courriel d'entreprise très 

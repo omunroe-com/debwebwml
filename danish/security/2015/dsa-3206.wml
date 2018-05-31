@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5f150b3d77d17d6249f3e95abb9a678a7ad6b7fb" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sårbarheder blev opdaget i Dulwich, en Python-implementering af 

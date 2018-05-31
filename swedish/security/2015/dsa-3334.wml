@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2e716b74de27031af9b18e24940c3f29263352cc" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Kurt Roeckx upptäckte att dekodning av en specifikt certifikat med 

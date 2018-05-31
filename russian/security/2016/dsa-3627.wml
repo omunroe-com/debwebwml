@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d16e13f13ca767e91ca33798629e23ebcc86d83d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В phpMyAdmin, веб-интерфейсе для администрирования MySQL, было

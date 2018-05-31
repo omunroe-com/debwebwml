@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="6d2359c35e16214604ee9eb1a159c9ddc3cf9158"
 <define-tag pagetitle>Äntligen: Debian-Installer utgivningskandidat 1</define-tag>
 <define-tag release_date>2004-08-07</define-tag>
 #use wml::debian::news

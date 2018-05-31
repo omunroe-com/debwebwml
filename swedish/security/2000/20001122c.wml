@@ -14,4 +14,4 @@ du uppgraderar ditt modutilspaket omedelbart.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20001122c.data'
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" mindelta="1"

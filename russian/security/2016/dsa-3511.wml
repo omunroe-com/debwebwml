@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5e8718a8df545a90617136381dd92ea18c422588" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В DNS-сервере ISC BIND было обнаружено две уязвимости.</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ce41b08aab83194a31d5a0b21a14084ef84b2775" maintainer="Lev Lamberov"
 <define-tag description>бесконечный цикл</define-tag>
 <define-tag moreinfo>
 <p>Разработчики основной ветки разработки Ruby исправили проблему в модуле CGI

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-13" SUMMARY="Debian UK, COCOMO, テスト版, パッケージング, Planet, スポンサーシップ, ユーザタグ"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 37 号へようこそ。Wouter Verhelst さんは、<a

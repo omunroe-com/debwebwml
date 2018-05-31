@@ -4,7 +4,7 @@
 <define-tag webpage>https://www.mrhostman.nl</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="09728f98e608668e5400d07fd66975dfca1a3627" maintainer="Jean-Paul Guillonneau"
 # translator :
 # Nicolas Bertolissio, original
 # Jean-Paul Guillonneau, 2016

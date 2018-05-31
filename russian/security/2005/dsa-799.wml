@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="478a94b7d21f2ff6077ae27683ec1c758849c1b4" maintainer="Lev Lamberov"
 <define-tag description>удалённое выполнение кода</define-tag>
 <define-tag moreinfo>
 <p>Была обнаружена ошибка в webcalendar, которую легко использовать

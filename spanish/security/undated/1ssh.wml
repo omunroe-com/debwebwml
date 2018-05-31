@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="74b3b190cc9b3e368e8d1447c8bdbeaecb2674b7"
 <define-tag description>reenvío de puerto no autorizado</define-tag>
 <define-tag moreinfo>
 ssh permitía a los usuarios no privilegiados redirigirse a puertos

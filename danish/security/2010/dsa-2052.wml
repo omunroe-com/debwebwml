@@ -22,4 +22,4 @@ version 1.8.1+dfsg-3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2052.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="64c21f3b8e4d36b17acfa4d48f3a913732ef286b" mindelta="1"

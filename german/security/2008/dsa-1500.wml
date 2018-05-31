@@ -17,4 +17,4 @@ ermöglichen, die Rechte der Gruppe utmp zu erlangen.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1500.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="facc3b3a6a2b97d5135e47b141ef031aaed7d916"

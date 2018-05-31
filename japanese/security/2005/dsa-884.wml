@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="64abbc5bd95032249f8946884416961bbe78f258"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Mike O'Connor さんが、Debian にデフォルトでインストールした Horde3

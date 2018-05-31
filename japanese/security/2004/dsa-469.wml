@@ -16,7 +16,7 @@ libpam-pgsql PAM モジュールにバグが発見されました。このライ
 <p>直ちに libpam-pgsql パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ea7bd894c29fce0ef0ed2558c46e37662aeed4ad"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-469.data"
 # $Id$

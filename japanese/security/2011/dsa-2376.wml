@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1d55958b60d7cd05467c146ddfd7ff466991945d"
 <define-tag description>安全でない PID ファイル</define-tag>
 <define-tag moreinfo>
 

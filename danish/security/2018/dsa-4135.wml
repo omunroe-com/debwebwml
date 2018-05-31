@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="0064ff27bc544ede8da661ee0366156fb637d0de" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er opdaget i Samba, en SMB/CIFS fil-, print- og loginserver 

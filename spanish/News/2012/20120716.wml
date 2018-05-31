@@ -1,7 +1,7 @@
 <define-tag pagetitle>La DebConf deja huella en América Central</define-tag>
 <define-tag release_date>2012-07-20</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 
 ## You may use plain HTML here; we recommend to stick with paragraphs,

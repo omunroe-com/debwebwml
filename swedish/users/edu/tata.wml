@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.math.tifr.res.in/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6afd79b067427a39475a4ad1dcba1e39e7544de8"
 
 <p>
  Vi kör ett system med runt 40 maskiner baserade på Debian.

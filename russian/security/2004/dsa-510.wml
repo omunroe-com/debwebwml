@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5538d3c48210bed050c6a7d23dc8e0866467781d"
 <define-tag description>строка формата</define-tag>
 <define-tag moreinfo>
 <p>jaguar@felinemenace.org обнаружил уязвимость в jftpgw, прокси-сервере

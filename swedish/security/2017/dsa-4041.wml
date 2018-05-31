@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c66f242a0ec2ca577dba8e98ca1d8784a0b5f6d2" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jakub Wilk rapporterade ett heap-baserat buffertspill i

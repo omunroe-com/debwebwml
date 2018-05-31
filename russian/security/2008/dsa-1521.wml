@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="58bc02c898a6df1e4cb6eba970a95c277d81dc4c" maintainer="Lev Lamberov"
 <define-tag description>раскрытие файлов</define-tag>
 <define-tag moreinfo>
 <p>Жульен Кайзак обнаружил, что при определённых условиях lighttpd,

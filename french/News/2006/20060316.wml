@@ -1,6 +1,6 @@
 <define-tag pagetitle>Le projet Debian considère la licence GNU FDL libre sous certaines conditions</define-tag>
 <define-tag release_date>2006-03-16</define-tag>
-#use wml::debian::translation-check translation="1.5" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Frédéric Bothamy"
 #use wml::debian::news
 
 <p>Le projet Debian a décidé que les documents distribués sous la

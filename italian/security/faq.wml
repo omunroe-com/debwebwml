@@ -1,7 +1,7 @@
 #use wml::debian::template title="FAQ Debian sulla sicurezza"
 #include "$(ENGLISHDIR)/security/faq.inc"
 # $Id$
-#use wml::debian::translation-check translation="1.81" maintainer="skizzhg"
+#use wml::debian::translation-check translation="5bfeb5677d7c5785441fadaddd2ad122b48007ae" maintainer="skizzhg"
 
 <p>Riceviamo forse troppo spesso le seguenti domande, quindi abbiamo riassunto
    qui le relative risposte.</p>

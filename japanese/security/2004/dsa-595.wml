@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="97a3f3c2cd2348904080e8fe0752b97ef51f91b7"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Leon Juranic さんは、IRC のセッションバウンスプロキシ BNC にて

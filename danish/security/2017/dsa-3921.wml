@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d2551164b92a8291923a6a1f86d3c6a51bb17c1d" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>I DSA 3918 blev Thunderbird opgraderet til den seneste ESR-serie.  Denne 

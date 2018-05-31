@@ -2,7 +2,7 @@
 <define-tag release_date>1997-03-07</define-tag>
 
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="598c30129dff8e065339ea3cd6e03d086b42e3d4" translation_maintainer="Martin Quinson"
 
 <ul>
 <li>Daniel Quinlan devient notre nouveau Vice Président Principal. Il

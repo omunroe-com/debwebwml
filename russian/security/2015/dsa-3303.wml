@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b4c6a7c99560bf6bc031514e0304b047e9c28942" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что утилита texttopdf, часть пакета cups-filters, может

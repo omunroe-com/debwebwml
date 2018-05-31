@@ -1,6 +1,6 @@
 # From: Matthias Barmeier <matthias.barmeier@sourcepark.de>
 # Ping: Mon, 14 Nov 2011 09:30:08 +0100 (CET) <4EC0D188.9080802@sourcepark.de>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4b6e3d414109be269506ca01017c85c60ac00e5a" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Разработка ПО, SOURCEPARK GmbH, Берлин, Германия</define-tag>
 <define-tag webpage>http://www.sourcepark.de/</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5e7d1dba338d1d233885589b0f73005bd8ad80fe"
 <define-tag description>LTS セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Wheezy のパッチでは Squeeze 版の imklog

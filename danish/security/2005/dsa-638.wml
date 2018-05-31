@@ -28,4 +28,4 @@ Den er blevet erstattet af Pygopherd.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-638.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b546da30c30e6c5a85f9f9cf90592e33082ba63a" mindelta="1"

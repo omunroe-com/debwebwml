@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4d3d94ad37b0110bfff15dd15fb66627ecba53cc" mindelta="1"
 <define-tag description>SQL-indsprøjtning</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Doctrine, et PHP-bibliotek til implementering af 

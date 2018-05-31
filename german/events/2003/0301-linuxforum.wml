@@ -24,7 +24,7 @@ Entwickler und Benutzer dient.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3f6ba9be5b0dcbd7b0886d4c5ab2e38f29a1fb05"
 # $Id$
 #Related Links here (free form)
 <ul>

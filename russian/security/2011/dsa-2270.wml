@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0e685b8a5e12559ae92cf4c9efeccde79f713eef" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 

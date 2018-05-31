@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="421a414dc04575a5375adce728d473def0a93d7b" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores de SuSE descubrieron que ntp confundía el id.

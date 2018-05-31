@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7d354378c81095f8c416b9b25cac8c7a00532ab5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att YADIFA, en auktoritativ DNS-server, inte

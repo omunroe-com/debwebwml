@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="95a36a26ae1f01d380a70446562b22a2e93ff3c3" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Två överbelastningssårbarheter har upptäckts i serverkomponenten

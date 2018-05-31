@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-11-13" SUMMARY="Bits fra DPL'en, en ny tjenste der skal hjælpe med at gøre Debian bootstrapbar, Mips64el-porterboks er tilgængelig, sidste chance for at donere til Debian Outreach Program for Women"
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="bf4891f7107381410e784a0077f3b52735f29ecd"
 
 # $Id$
 # $Rev: 5290 $

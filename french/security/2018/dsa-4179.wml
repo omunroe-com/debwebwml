@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="287c3173ff11dc88fd9ccabc720efb6cf4c36a70" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Cette mise à jour ne corrige pas une vulnérabilité dans linux-tools,

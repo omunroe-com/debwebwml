@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7230cdff8503cfb19170947730cf91805b4c4555" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Якуб Уилк обнаружил переполнение буфера в коде обработки кодировки в

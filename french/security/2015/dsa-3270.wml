@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a11149bcc06cc5462ccdbac9052516ee84080e87" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans PostgreSQL-9.4, un

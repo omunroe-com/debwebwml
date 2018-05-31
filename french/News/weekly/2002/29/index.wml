@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-07-30" SUMMARY="Première révision de Woody et rétrospective, Gnome 2, libpng, debian-installer, glibc, Perl 5.8, SuperH"
-#use wml::debian::translation-check translation="1.14" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 29e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian.

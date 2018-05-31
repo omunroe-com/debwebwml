@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="30e1d1881cbfd98065f2d3ea3fde0dee06e0d845" maintainer="Juan M. Garcia"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Eric Romang descubrió un archivo temporal creado de forma insegura en

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ae126c70efeaed3be53ab01e5aac814e6cea69fb" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at gunicorn, en event-baseret HTTP-/WSGI-server, var ramt af 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="95a6b66a3a501467f7425ff682c8cdc0de004f9f" maintainer="Thomas Péteul"
 <define-tag description>Dépassement de pile</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert qu'un dépassement de pile dans le code de récupération

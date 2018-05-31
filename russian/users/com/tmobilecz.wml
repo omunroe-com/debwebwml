@@ -1,6 +1,6 @@
 # From: Marek Uher <xuher@seznam.cz>
 # Ping: Tue, 03 Jan 2012 00:33:28 +0100 (CET) <198953.12310.20374-2110-147841505-1325547208@seznam.cz>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="23237e3ec7c7dae713dfa77054bfca05c91aa0b4" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>T-Mobile Czech Republic a. s.</define-tag>
 <define-tag webpage>http://www.t-mobile.cz/web/cz/residential</define-tag>

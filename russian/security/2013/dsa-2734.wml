@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="338e19b4295c749ce14b11b43f3e6a9ba0889fb6" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах для DVB-CI, GSM A Common и ASN.1 PER, а также в инструменте для

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-02-04" SUMMARY="Lieu et dates de DebConf13, automatisation de la phase d'amorçage de Debian"
-#use wml::debian::translation-check translation="1.4" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 1641 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="1af7779c296785520c81301bb1d4c6ef509b15c3" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Andrea Barisani descubrió que zgv, un visor de gráficos svgalib,

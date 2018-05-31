@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="fbd7af7d4edfd4cf5cd8dc79ac4548e406bbf29d" maintainer="Pierre Machard"
 <define-tag description>Non respect de la confidentialité avec Konqueror</define-tag>
 <define-tag moreinfo>
 <p>Un étude approfondie de la bibliothèque SSL de KDE, qui est utilisée par 

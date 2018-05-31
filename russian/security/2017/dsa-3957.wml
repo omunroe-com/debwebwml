@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2ee878b22bdbf3e86226e0a5d4f38d02d61768d0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В FFmpeg, проигрывателе, сервере и кодировщике мультимедиа, было

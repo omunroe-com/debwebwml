@@ -1,7 +1,7 @@
 #use wml::debian::template title="Programmes des candidats au poste de responsable du projet" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.5" maintainer="David Prévot"
+#use wml::debian::translation-check translation="12f31b005e65d6545f5e8aaed135264e1ad8411d" maintainer="David Prévot"
 
 <p>
 Vous trouverez ci-dessous le programme du candidat à l'élection

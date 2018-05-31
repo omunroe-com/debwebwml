@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f3c726117098cbad981aa37998a20dba2d26b831"
 <define-tag description>svaga sessions-ID:n</define-tag>
 <define-tag moreinfo>
 <p>Det upptäcktes att Ajaxterm, en webbaserad terminal, genererar svaga

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-01-10" SUMMARY="Kernel, FOSDEM, Rilascio, CTTE, Udev, AMD64, Aggiornamento, Pacchettizzazione"
-#use wml::debian::translation-check translation="1.9" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Daniele Venzano"
 
 <p>Benvenuti al secondo numero di DWN di quest'anno, il bollettino 
 settimanale per la comunità Debian. Jeroen van Wolffelaar ha <a

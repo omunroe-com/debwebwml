@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3514889c0b086772e4bb0b611a326229ea268dc5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Alexander Sulfrian upptäckte ett buffertspill i funktionen

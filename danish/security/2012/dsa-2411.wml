@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="b1a02d4070512bf6ebaffbd34711533b2c74bc76" mindelta="1"
 <define-tag description>informationsafsløring</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at Mumble, en VoIP-klient, ikke håndterede sine 

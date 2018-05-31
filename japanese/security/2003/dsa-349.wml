@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="523fde476a39f78b0651d5a9bce23bcfd1c59815"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>nfs-utils のログ処理コードに、ログ処理中の文字列に改行を追加するときに境界を

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="524f739e1564b01839ce6f04561b275a1b21b39d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В OpenJDK, реализации платформы Oracle Java, было обнаружено несколько

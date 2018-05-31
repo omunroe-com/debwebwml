@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2000-2-23" SUMMARY="Plus de 100 paquets retirés, début des votes pour le poste de chef de projet, avancement de la procédure d'accueil des nouveaux responsables, problèmes pour Debian Alpha"
-#use wml::debian::translation-check translation="1.18" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Thomas Huriaux"
 
 <p>Nous avons le plaisir de vous présenter la 7e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian.</p>

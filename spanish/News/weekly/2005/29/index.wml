@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-19" SUMMARY="CDs/DVDs, Hurd, ABI de C++, equipo de publicación, BTS, QA, impresión, SSH"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 
 <p>Bienvenidos a la vigésimo novena edición de este año de las DWN, el boletín
 semanal de la comunidad de Debian. Para el momento de publicar esta edición, 

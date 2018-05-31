@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="47142cf1586379c8887bb74bd0658dd89fbdbafd" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at icu, biblioteket International Components for Unicode, ikke 

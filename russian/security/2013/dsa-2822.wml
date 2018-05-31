@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7106055027b649b348d3e2d77ee72a7b0c48ce28" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Брайан Уигли обнаружил переполнение целых чисел в Xorg X сервере, которое

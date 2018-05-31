@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="40fd790b1ec0c5522b743cdbbdcbe11e4b771856" maintainer="Lev Lamberov"
 <define-tag description>Доступность долгосрочной поддержки для Debian 6.0 / squeeze</define-tag>
 <define-tag moreinfo>
 <p>Завершена начальная организация и настройка Squeeze LTS, долгосрочная поддержка

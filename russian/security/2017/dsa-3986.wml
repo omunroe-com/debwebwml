@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b4bbd9b1c2e57d94c041bdaaab0ac1361a22c554" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Ghostscript, интерпретаторе PostScript/PDF, выпущенном под лицензией GPL,

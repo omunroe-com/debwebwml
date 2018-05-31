@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="638f772e4005b633863222746372aa69406c9d4e" mindelta="1"
 <define-tag description>otillräcklig rengöring av indata</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att libsoup, en implementation av ett HTTP-bibliotek i C,

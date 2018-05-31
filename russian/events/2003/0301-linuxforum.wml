@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3f6ba9be5b0dcbd7b0886d4c5ab2e38f29a1fb05" maintainer="Lev Lamberov"
 <define-tag abbr>LF03</define-tag>
 <define-tag year>2003</define-tag>
 <define-tag pagetitle>LinuxForum 2003</define-tag>

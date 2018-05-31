@@ -20,4 +20,4 @@ ermöglicht.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1527.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="97206df41c425e1c1ec88848d93fd6247c601f33"

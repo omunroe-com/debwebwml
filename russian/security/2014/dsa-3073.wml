@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="80aaf6e3c17855f439a8b4f0fe7b444756a90a54" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дэниель Генкин, Итамар Пипман и Эран Тромер обнаружили, что подключи шифрования

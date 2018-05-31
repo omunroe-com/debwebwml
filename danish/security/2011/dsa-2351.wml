@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="37da912a786b4e4000ea9216fd2dbfcc45349e7a" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Huzaifa Sidhpurwala opdagede et bufferoverløb i Wiresharks ERF-dissector, 

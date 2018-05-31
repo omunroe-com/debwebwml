@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="21e6cd386e3a3983f6d7e7344070d636f590fafe" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Петер Пауль Эльферих обнаружил, что turba2, компонент инфраструктуры horde для

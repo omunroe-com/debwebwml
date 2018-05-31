@@ -1,7 +1,7 @@
 <define-tag pagetitle>Slink フリーズと IRC パーティー </define-tag>
 <define-tag release_date>1998-10-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="7ab66253d36ba0d83f4cb1eca2b0c7710cf030d4"
 
 
   <p>1998 年 10 月 16 日 金曜日 0:00 GMT に Debian GNU/Linux 2.1 

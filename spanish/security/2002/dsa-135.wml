@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="417401162dc13ca0f9e6474e512347d4c0481696"
 <define-tag description>desbordamiento de búfer / denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>El paquete libapache-mod-ssl proporciona capacidades SSL al servidor web

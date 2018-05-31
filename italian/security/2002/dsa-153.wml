@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73" maintainer="Giuseppe Sacco"
 <define-tag description>esecuzione di codice su altri siti</define-tag>
 <define-tag moreinfo>
 <p>Joao Gouveia ha scoperto che una variabile non inizializzata viene utilizzata

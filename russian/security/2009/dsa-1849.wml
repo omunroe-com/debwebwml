@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1f56ea60b482e10bcccbbc0e9d2ebdffc110e1ca" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что рекомендация W3C XML Signature содержит

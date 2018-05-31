@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="aec8dd4d0fb2ab62f161709b53fef1fae02d1977" maintainer="Simon Paillard"
 <define-tag description>Situation de concurrence</define-tag>
 <define-tag moreinfo>
 <p>Imran Ghory a découvert une situation de concurrence dans

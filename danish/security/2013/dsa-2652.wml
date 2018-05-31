@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3f97242cbf8bd1416f288678c97af17426b8faba" mindelta="1"
 <define-tag description>udvidelse af ekstern entitet</define-tag>
 <define-tag moreinfo>
 <p>Brad Hill fra iSEC Partners opdagede at mange XML-implementeringer var 

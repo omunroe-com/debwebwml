@@ -24,7 +24,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="a10db20a803d3ee5825ce0e5d73ca75b4cf68a48"
 <ul>
   <li><a href="http://flp.cs.tu-berlin.de/lehre/wise00-01/oss/workshops/entwicklung.html">Workshops Development Models</a></li>
   <li><a href="http://user.cs.tu-berlin.de/~tron/opensource/">An introduction to Open Source Software Development</a></li>

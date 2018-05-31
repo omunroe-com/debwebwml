@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian trauert um Thiemo Seufer</define-tag>
 <define-tag release_date>2008-12-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # Translator: Alexander Reichle-Schmehl 2008-12-29
 # $Id$
 

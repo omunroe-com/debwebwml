@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="3d0143eabe28e77bd6cdb3d93b154ac35c4fd34a" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités ont été signalées dans NSPR, une bibliothèque

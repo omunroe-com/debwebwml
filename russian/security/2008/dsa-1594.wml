@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1b8b53f85dc5d7a0bbe8723a6e5b8c6ed6ce7287" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Штефан Корнелиус обнаружил два переполнения буфера в загрузчиках

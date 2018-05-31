@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="15ed6e160d98bbfdd5032757a3ee09a5623e6c27" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Un dépassement de tampon a été découvert dans zip, le système d'archives

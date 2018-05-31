@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="003b77c32b5f02d9fe3010e5d6b356cc4fbab1eb" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at libXcursor, et bibliotek til håndtering af X-markører, var 

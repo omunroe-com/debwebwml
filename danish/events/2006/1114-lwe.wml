@@ -23,5 +23,5 @@ til stede med en stand.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="0c24c25c5782bff829d991bc43c0f1a3c7406732"
 #Related Links here (free form)

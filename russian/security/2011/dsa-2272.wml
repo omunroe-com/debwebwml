@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c31b56385660b4e84baa093b68c9ff0c34615520" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что BIND, сервер DNS, неправильно обрабатывает

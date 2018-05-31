@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="69878d7ddaa663d85fe89121ea5162b86e8da149" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Уилл Дорман и Джаред Оллар обнаружили, что фильтр импорта Lotus Word Pro

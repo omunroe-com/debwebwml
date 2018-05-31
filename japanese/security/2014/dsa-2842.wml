@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e57e8a7d527825d1c59f9a76988b3333337eab66"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Alvaro Munoz さんが、Spring フレームワークに XML 外部エンティティ

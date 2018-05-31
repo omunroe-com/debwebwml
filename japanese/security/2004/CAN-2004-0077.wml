@@ -1,5 +1,5 @@
 #use wml::debian::template title="CAN-2004-0077 に関するカーネル脆弱性の一覧表" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7387ba9f5af5800e92a6ce0574fef12b75074a1a"
 
 <p>以下に示す脆弱性の一覧表は、安定版 (stable) (woody) と不安定版
 (unstable) (sid) に収録されているカーネルのどのバージョンが、

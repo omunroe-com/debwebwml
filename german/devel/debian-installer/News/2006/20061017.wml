@@ -1,7 +1,7 @@
 <define-tag pagetitle>Vorbereitung für Etch RC1 wird die meisten Beta-3-Images deaktivieren</define-tag>
 <define-tag release_date>2006-10-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d17587b4d021a8114ccad5db3e44d4fe063207d0"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2006-10-20
 
 <p>

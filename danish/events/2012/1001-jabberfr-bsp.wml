@@ -24,7 +24,7 @@ forbedring af wikien.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="7d389fafc6d4a87c97351fcbb923480ca5310f7b"
 <ul>
     <li><a href="xmpp:debian-fr@chat.jabberfr.org?join">Deltag i 
 	debian-fr@chat.jabberfr.org</a></li>

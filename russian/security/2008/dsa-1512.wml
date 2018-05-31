@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a2d7ee4fb8b60f2e470df15f368f6f4fe96fa4b7" maintainer="Lev Lamberov"
 <define-tag description>атака через форматную строку</define-tag>
 <define-tag moreinfo>
 <p>Ульф Хэрнхаммар обнаружил, что Evolution, набор для совместной работы и использования

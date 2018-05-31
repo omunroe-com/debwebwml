@@ -1,7 +1,7 @@
 <define-tag pagetitle>Il servizio backport diventa ufficiale</define-tag>
 <define-tag release_date>2010-09-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7" maintainer="Francesca Ciceri"
+#use wml::debian::translation-check translation="f3d5ed6297fc8b7e45a2ab7501f5d88ba8a328cf" maintainer="Francesca Ciceri"
 # $Id$
 
 

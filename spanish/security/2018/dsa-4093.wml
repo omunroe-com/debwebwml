@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="19269fe99356650d39bc4a5c1ae56e1a7f6fb028"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Josef Gajdusek descubrió que OpenOCD, un depurador de JTAG para ARM y MIPS,

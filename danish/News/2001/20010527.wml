@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-projektet på to messer</define-tag>
 <define-tag release_date>2001-05-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="2aa9437018d3a3fe2935e51c20fa7e6c3a31e9bf"
 
 <p>To messer og konferencer begynder indenfor nogle dage.  Debian-projektet er
 blevet tilbudt at køre en stand på den ene og vil holde et udviklermøde på den

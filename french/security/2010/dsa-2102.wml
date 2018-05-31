@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="3bf650cccdb6e93c48a7577aa0c20bc4de250655" maintainer="David Prévot"
 <define-tag description>Valeur de retour non vérifiée</define-tag>
 <define-tag moreinfo>
 <p>

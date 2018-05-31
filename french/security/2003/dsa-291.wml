@@ -23,4 +23,4 @@ dans la version&nbsp;20030315-1.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-291.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="1f763393216585898233c8de696f37a6e630184e" maintainer="DFS Task Force"

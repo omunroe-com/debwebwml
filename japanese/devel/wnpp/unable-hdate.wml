@@ -1,5 +1,5 @@
 #use wml::debian::template title="パッケージ化することができないソフトウェア: hdate"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9"
 # $Id$
 
 <h3>hdate &mdash; ヒジュラ暦 (イスラム月) の日付、暦、礼拝時間を出力します</h3>

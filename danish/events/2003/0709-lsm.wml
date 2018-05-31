@@ -30,7 +30,7 @@ opsporing af inaktive Debian-vedligeholdere.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="923b3a27eb7ec89f65b4b8b4249715881a6180e2"
 #Related Links here (free form)
 <ul>
   <li><a href="http://rencontresmondiales.org/program/">Program</a>

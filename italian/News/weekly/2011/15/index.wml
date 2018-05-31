@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-12-14" SUMMARY="Rimosso sun-java6, pillole dal DPL, resoconto dalla mini-DebConf India, nuovo mirror in El Salvador, maratona di bug squashing party"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 
 # $Id$
 # $Rev: 2854 $

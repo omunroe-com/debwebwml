@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="739b3908b281304349557cee38d56884e6f6713f" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 

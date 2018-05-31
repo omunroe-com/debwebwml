@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="849b13962e17cf39976eea7620f3e01af30de2d2" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jose Duart från Google Security Team upptäckte ett buffertspill

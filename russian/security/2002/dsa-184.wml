@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7eb156815524934ebdb41925c21bf627e1e9d219" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Том Ю и Сэм Хартман из MIT обнаружили ещё одно переполнение стека

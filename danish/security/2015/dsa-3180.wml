@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b65766929f02cc45af8e20b62e0a6aa1366fedda" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Alexander Cherepanov opdagede at bsdcpio, en implementering af programmet 

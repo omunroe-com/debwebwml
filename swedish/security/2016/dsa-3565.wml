@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="53a80c9fc252ed5446be0db6cd4e1c0319a20e79" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera säkerhetssårbarheter har upptäckts i botan1.10, ett C++-bibliotek

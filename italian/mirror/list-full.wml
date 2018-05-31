@@ -1,5 +1,5 @@
 #use wml::debian::template title="Siti mirror di Debian in tutto il mondo" BARETITLE=true
-#use wml::debian::translation-check translation="1.6" maintainer="skizzhg"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="skizzhg"
 
 <p>Questa è una lista <strong>completa</strong> di mirror Debian.
 Sono elencati, per ogni sito, i diversi tipi di materiale disponibile con

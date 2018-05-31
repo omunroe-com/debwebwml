@@ -1,6 +1,6 @@
 #use wml::debian::template title="Procedimento de Resolução Padrão" BARETITLE="true" NOHEADER="true" NOHOMELINK="true"
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.11" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="e74c3fb0292e5eb9c4ffb3b534f6feaac88bf71b" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 	<h1>Procedimento de Resolução Padrão</h1>
 

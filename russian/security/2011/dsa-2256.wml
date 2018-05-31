@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f44c81e3a72f62f2d236756f2bbbaef37732c135" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Тэвис Орманди обнаружил, что библиотека Tag Image File Format (TIFF)

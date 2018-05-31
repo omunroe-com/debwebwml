@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="001a593e46a77186792b70dd0c73bf6429ed99b3" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Хосе Рамон Паланчо обнаружил, что межсайтовый скриптинг в

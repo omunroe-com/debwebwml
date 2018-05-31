@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" maintainer="Nicolas Bertolissio"
 <define-tag abbr>MDLT</define-tag>
 <define-tag year>2002</define-tag>
 <define-tag pagetitle>3<sup>e</sup> Journées Linux de Magdeburg</define-tag>

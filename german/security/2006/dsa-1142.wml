@@ -17,5 +17,5 @@ sein.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1142.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="09ac89f3433e0e7f6573906b133c968eff7d51fc"
 # $Id$

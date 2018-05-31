@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="746c70c87d1f0fd4947480fd25a3081a6140d079" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Alex Chapman upptäckte att ett buffertspill vid behandling av <q>MMS

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-05-26" SUMMARY="ARM64-hjælp ønsket, edos.debian.net tilbage som qa.debian.org/dose, bits fra Debian GNU/Hurd-porterne"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8fb751b7c1cfbe3cd729a336b64ae649edfd8b09"
 
 # $Id$
 # $Rev: 5634 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="14ef9a740428bd5a3bb35de97d4c20e1c20bc2cf" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att bsd-mailx, en implementation av kommandot <q>mail</q>,

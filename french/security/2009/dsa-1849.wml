@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="1f56ea60b482e10bcccbbc0e9d2ebdffc110e1ca" maintainer="Thomas Vincent"
 <define-tag description>Défaut de conception</define-tag>
 <define-tag moreinfo>
 <p>La recommandation de signatures XML du W3C contient une

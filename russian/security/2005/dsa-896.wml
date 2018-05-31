@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3b466ff8305c5343381072f8cbaa1b7624800eba" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В ftpd-ssl, простом сервере BSD FTP с поддержкой шифрования SSL,

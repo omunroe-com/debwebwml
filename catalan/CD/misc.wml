@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Imatges de CD de Debian - elements variats" BARETITLE=true
-#use wml::debian::translation-check translation="1.5" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="064da998e8fb972077f1cd697cdea4034a9e4ac5" maintainer="Guillem Jover"
 
 <p>Les pàgines següents no són accessibles directament des de la barra
 de menú a la capçalera de cada pàgina:</p>

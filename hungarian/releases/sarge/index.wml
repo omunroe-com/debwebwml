@@ -1,5 +1,5 @@
 #use wml::debian::template title="A Debian &#8222;sarge&#8221; verziója"
-#use wml::debian::translation-check translation="1.31"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714"
 
 #include "$(ENGLISHDIR)/releases/arches.data"
 # translated by Viktor Nagy <chaotix@freemail.hu>

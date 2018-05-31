@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="566423828a5c39d0bc96ad606430af5bb1e47162" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>Alfred Farrugia 와 Sandro Gauci 는 off-by-one heap 오버플로가 Kamailio SIP 서버에서

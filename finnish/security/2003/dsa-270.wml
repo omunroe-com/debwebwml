@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="87d8ca0fba0e326572a539211a93d459291bb755"
 <define-tag description>paikallisten käyttäjäoikeuksien laajentuminen</define-tag>
 <define-tag moreinfo>
 <p>Linux-ydinten 2.2 ja 2.4 moduulinlataajan ptrace:ssa on havaittu virhe.

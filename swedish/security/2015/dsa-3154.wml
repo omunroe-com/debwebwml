@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="5df577d7ee609fda96a551bed43beb2b1a7f4186" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i paketet ntp, en implementation

@@ -23,7 +23,7 @@ cupsys パッケージをすぐにアップグレードすることをお勧め�
 
 <define-tag description>遠隔からのプリンタの悪用</define-tag>
 
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73"
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20001119.data'

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Банери Debian" BARETITLE=true
 #include "$(ENGLISHDIR)/banners/index.tags"
-#use wml::debian::translation-check translation="1.26" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="d6c46dd9023a0dbb2bbdfc4f9233580b48e9ba73" maintainer="Borys Yanovych"
 
 <p>Ці банери можна використовувати на веб-сторінках для рекламування Debian.</p>
 

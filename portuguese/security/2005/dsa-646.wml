@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d945b2184b39d6cefb87d9a6f27e1a722ce5a927"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Andrei Nigmatulin descobriu um estouro de buffer no módulo de

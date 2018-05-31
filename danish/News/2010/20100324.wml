@@ -1,7 +1,7 @@
 <define-tag pagetitle>Påmindelse om tilmelding til DebConf10</define-tag>
 <define-tag release_date>2010-03-24</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Man kan fortsat tilmelde sig DebConf10.  Tirsdag den 15. april er den tidlige 
 tilmeldingsdealine.  Tilmeldinger efter denne dato er ikke berettigede til 

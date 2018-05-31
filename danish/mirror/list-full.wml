@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians verdensomspændende filspejle" BARETITLE=true
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="346f82cf48a105b4686a44b1d3a4fe7a11adc9c0"
 
 <p>Dette er den <strong>komplette</strong> liste over filspejle (mirrors) med 
 Debian.  For hvert sted er de forskellige former for tilgængelige materiale 

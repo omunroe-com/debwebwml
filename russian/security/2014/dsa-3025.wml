@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="adaa24eb8c7b4bdc17d66c12b6a0d58dccc9220c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что APT, высокоуровневый менеджер пакетов, неправильно

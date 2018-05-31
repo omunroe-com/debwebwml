@@ -21,4 +21,4 @@ tas bort om du uppgraderar till denna version, det måste du göra manuellt.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19981126.data'
-#use wml::debian::translation-check translation="1.12" mindelta="1"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914" mindelta="1"

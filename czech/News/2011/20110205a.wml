@@ -1,6 +1,6 @@
 <define-tag pagetitle>Debian 6.0 <q>Squeeze</q> uvolněn</define-tag>
 <define-tag release_date>2011-02-06</define-tag>
-#use wml::debian::translation-check translation="1.7" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7" maintainer="Miroslav Kure"
 #use wml::debian::news
 
 <p>Projekt Debian s potěšením oznamuje, že po 24 měsících

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="ddda387300fcb6a1fddf878933802f14446ef926" maintainer="Simon Paillard"
 <define-tag description>Boucle infinie, dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités ont été découvertes dans Clam Antivirus, l'antivirus

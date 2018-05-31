@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f145e8361eab4435ef091098c87725882a52489a" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Fernando Muñoz upptäckte att ogiltig HTML-indata som skickats till tidy,

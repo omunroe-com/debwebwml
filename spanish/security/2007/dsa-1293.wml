@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="66cbcd32eb97143605d4699861561484c2c371c6" maintainer="Juan M. Garcia"
 <define-tag description>lectura fuera de los límites</define-tag>
 <define-tag moreinfo>
 <p>Paul Jakma descubrió que con mensajes UPDATE perniciosos se podía

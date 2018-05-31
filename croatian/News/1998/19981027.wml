@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian WWW stranice osvojile `Best of the Net' nagradu</define-tag>
 <define-tag release_date>1998-10-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="12c5f20915451d16c3d80396d10050544e744ab1"
 
 <p><a href="http://www.miningco.com">The Mining Co.</a> nagradio je
 Debianove WWW stranice nagradom <q>Best of the Net</q>. Među kriterijima je

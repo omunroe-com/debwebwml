@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1b8b53f85dc5d7a0bbe8723a6e5b8c6ed6ce7287"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Stefan Cornelius さんにより、強力な画像ローダ及びビューアライブラリ

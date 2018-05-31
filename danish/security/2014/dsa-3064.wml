@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a9150cbf1e72dda12b01ebe58615da8abd60cfef" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder blev fundet i PHP, et generelt anvendeligt skriptsprog der 

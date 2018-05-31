@@ -1,5 +1,5 @@
 #use wml::debian::template title="Upgrade nach Debian 2.0 auf x86 Maschinen"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 # Translator:  Philipp Frauenfelder (pfrauenf@debian.org)
 # Last Change: Thimo Neubauer <thimo@debian.org>

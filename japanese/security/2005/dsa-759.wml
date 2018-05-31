@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f1bd270aa7a1a257f95fd0ba60d6d6f8efa1d82d"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>ウェブから PostgreSQL を管理する PHP スクリプト群 phppgadmin

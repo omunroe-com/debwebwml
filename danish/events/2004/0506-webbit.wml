@@ -45,7 +45,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="60ed6dedb41f0f2defeea7605f1c7475f3cceabc"
 #Related Links here (free form)
 <ul>
   <li><a href="http://www.webbitcon.org/">WebbitCon</a><br>

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Étape&nbsp;3&nbsp;: Philosophie et procédures" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.31" maintainer="David Prévot"
+#use wml::debian::translation-check translation="517d7a4f999561b8f28e207214a40990fdc3da49" maintainer="David Prévot"
 
 # Translators:
 # Nicolas Bertolissio, 2003-2005.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="97b8ff2bd6d60ba794da1bddafc016083a7eac27" mindelta="1"
 <define-tag description>överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Kingcope upptäckte att modulerna mod_sftp och mod_sftp_pam i

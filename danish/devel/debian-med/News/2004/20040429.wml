@@ -1,7 +1,7 @@
 <define-tag pagetitle>Med-vedligeholder af Debian Meds websider</define-tag>
 <define-tag release_date>2004-04-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <h2>Med-vedligeholder af Debian Meds websider</h2>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea" maintainer="DFS Task Force"
 <define-tag description>Plusieurs failles de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs exploitations locales de <i>root</i> ont été découvertes 

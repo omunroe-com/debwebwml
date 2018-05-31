@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2f47e3c981d1457b73e5a4730704a9f949754ba7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Andrew Drake opdagede at manglende fornuftighedskontrol af inddata i 

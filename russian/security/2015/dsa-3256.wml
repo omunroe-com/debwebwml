@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4c5a41b898935b7b56058e9f9aa1c7fa3f54b764" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ханно Бёк обнаружил переполнение динамической памяти в способе декодирования определённых

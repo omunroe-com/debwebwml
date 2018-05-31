@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="166ca19a40301ba433f02a362644984b497a5bdf"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que los tipos ASN.1 construidos cuya definición es

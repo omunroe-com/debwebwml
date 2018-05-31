@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="5cff59ec686a38a89eceae886c30b2a63a9d9006" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Tom Ferris descubrió un error en la gestión del nombre de la

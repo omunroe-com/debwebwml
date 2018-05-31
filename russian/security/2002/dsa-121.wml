@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9161e1484da2b08816136306de69db56e18b9e14" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера, проблема символьных ссылок, обход каталога ".."</define-tag>
 <define-tag moreinfo>
 <p>Несколько проблем безопасности было обнаружено в пакете xtell,

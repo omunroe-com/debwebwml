@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bf59de109045bd0bb4ce8862844c5964a608381d" maintainer="Lev Lamberov"
 <define-tag description>неправильное утверждение</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что dkim-milter, реализация протокола DomainKeys

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-07-04" SUMMARY="Python, Spanish Planet, DWN, Debian Live, DPL, Flash, LSB"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 27 号へようこそ。Andreas Barth さんは、

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="0e0e9853d2f4c48d1488dc87a6b510acaae86ec1" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que una de las utilidades que venían con chmlib, una

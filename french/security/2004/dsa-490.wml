@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="1075876c98a5b60a2c733400d1dc62bee222e8a8" maintainer="DFS Task Force"
 <define-tag description>Exécution de code arbitraire</define-tag>
 <define-tag moreinfo>
 <p>Une faille de sécurité a été découverte dans la fonctionnalité d'indexation

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240"
 <define-tag moreinfo>La versión de sendmail que se distribuía con Debian
 GNU/Linux 2.1 tiene un pequeño problema en el código para regenerar la base de
 datos de alias. Sendmail permitía a cualquier usuario ejecutar sendmail con la

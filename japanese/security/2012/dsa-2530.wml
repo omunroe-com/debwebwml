@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f8f6f3df0eba4d95b93e41374e54a812c290a0a7"
 <define-tag description>シェルコマンドインジェクション</define-tag>
 <define-tag moreinfo>
 

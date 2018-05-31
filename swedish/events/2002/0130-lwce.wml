@@ -30,7 +30,7 @@ kan du få en trevlig Debian-t-tröja.
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 <ul>
   <li><a href="0130-lwce-report">Rapport</a>
 </ul>

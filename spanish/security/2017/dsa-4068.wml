@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="925142ad64aca13e7b32d5b29b8be0e0fa9290db"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron varias vulnerabilidades en rsync, una herramienta rápida

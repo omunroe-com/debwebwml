@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0852993c1a4125fc45a9310dd9446f294903d4b6"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Ovidiu Mara さんが、システムおよびネットワーク管理者に広く利用されている

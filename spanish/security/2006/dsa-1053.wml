@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ff2af7496b30316ad5253c65f3adc21e85e914ea" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Martijn Wargers y Nick Mott describieron caídas de Mozilla debidas al uso de

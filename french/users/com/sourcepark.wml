@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.sourcepark.de/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Denis Mugnier"
+#use wml::debian::translation-check translation="4b6e3d414109be269506ca01017c85c60ac00e5a" maintainer="Denis Mugnier"
 
 <p>
 SOURCEPARK développe des systèmes logistiques d'informations indépendants.

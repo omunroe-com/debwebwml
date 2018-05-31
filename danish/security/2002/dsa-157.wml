@@ -16,4 +16,4 @@ heller ikke lader til at være påvirket.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-157.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6d50331f8498754d60f2015d21f8e15ed06fbf38"

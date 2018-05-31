@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b1e639c9149e058f94c8d79ed076cec0748ab030"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto otro desbordamiento de buffer en xbl, distinto del

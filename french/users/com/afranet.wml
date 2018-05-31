@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.afranet.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="06c1e841b8358fb7b91c8b04bcf23e11b993ab6f" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian sur nos serveurs et Kubuntu sur certains de nos

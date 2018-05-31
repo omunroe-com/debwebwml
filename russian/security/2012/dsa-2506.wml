@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2c8f74c9407f1671f829c137b426bf96618ecc21" maintainer="Lev Lamberov"
 <define-tag description>обход ModSecurity</define-tag>
 <define-tag moreinfo>
 <p>Сотрудники Qualys Vulnerability &amp; Malware Research Labs обнаружили уязвимость в

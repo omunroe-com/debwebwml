@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="cb7221a068b4863e1d853c8cc1076bb3b8390e8c" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Tim McLean a découvert que pyjwt, une implémentation en Python de JSON Web

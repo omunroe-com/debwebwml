@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="1b5d5d1de20b4e80c9575e451fbc613e3e1bf3f6" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>libssh, une petite bibliothèque C de SSH, ne réinitialise pas l'état

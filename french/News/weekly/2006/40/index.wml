@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-10-31" SUMMARY="BLOBs, Événements, Vidéos, Internationalisation, Installateur, Dunc-Tank, MPlayer, Firefox"
-#use wml::debian::translation-check translation="1.13" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 40e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information de la communauté Debian. Le site <a

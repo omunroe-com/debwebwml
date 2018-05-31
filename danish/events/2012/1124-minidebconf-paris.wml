@@ -29,7 +29,7 @@ venlig at beskrive det i
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="945c481f3e31325e9d84f2c40b674d26a7c68bcf"
 #Related Links here (free form)
 <ul>
     <li><a href="https://wiki.debconf.org/wiki/Miniconf-Paris/2012">\

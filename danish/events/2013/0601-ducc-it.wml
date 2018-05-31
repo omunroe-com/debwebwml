@@ -21,7 +21,7 @@ styresystemer, deres relationer og forklare hvordan man bidrager.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="402612bd7a2b8129d48578f9493bf8f18c58e82f"
 <ul>
     <li><a href="http://www.ducc.it">det officielle websted</a></li>
 </ul>

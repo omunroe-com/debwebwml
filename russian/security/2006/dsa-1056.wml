@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="55071b013cdfa962682f9efcae6ba93571aa2647" maintainer="Lev Lamberov"
 <define-tag description>подробное сообщение об ошибке</define-tag>
 <define-tag moreinfo>
 <p>Давид Макияк обнаружил, что webcalendar, многопользовательский календарь на

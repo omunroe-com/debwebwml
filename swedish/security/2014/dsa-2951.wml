@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cb00833d9b85e635a610526fb174adde3da39f57" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att ett buffertspill i MuPDF-visaren kan leda till

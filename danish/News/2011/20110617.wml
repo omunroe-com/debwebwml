@@ -1,7 +1,7 @@
 <define-tag pagetitle>Ny runde træningssessioner på IRC</define-tag>
 <define-tag release_date>2011-06-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="bcf218d65ece264827b0635d3a23508912134fc7"
 
 <p>Debian-projektet er stolt over at kunne annoncere, at en ny runde 
 øvelsessessioner på IRC snart begynder; de varetages af erfarne medlemmer af

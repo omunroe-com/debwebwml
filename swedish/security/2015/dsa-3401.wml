@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5e6d084ff5c3206e24de50a396b9cdc7c2ac9283" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att återbindning av en mottagare av ett direkt metodhandtag

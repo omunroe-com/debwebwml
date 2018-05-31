@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="56ada21a2a3033ecc0cf97b18d7d7b8c75417e6e" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de la mise à jour de Debian 9.4</define-tag>
 <define-tag release_date>2018-03-10</define-tag>
 #use wml::debian::news

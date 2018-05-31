@@ -1,7 +1,7 @@
 <define-tag pagetitle>Ny styrelse för SPI vald</define-tag>
 <define-tag release_date>1998-08-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="adfd0b4c15552cead2b1a31dc11b20de1fcc4aa4"
 
 <p>SPI har valt sin nya styrelse för den aktuella mandatperioden.</p>
 

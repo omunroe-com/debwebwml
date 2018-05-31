@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="310bab32a314be3c443462e81220c586080581fa" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 

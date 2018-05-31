@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>El programa mail (una herramienta simple para leer y
 enviar correo electrónico) distribuido con Debian GNU/Linux 2.2 tiene un
 desbordamiento de búfer en el código de análisis de entrada. Debido a que

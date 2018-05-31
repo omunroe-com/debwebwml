@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1101211a46ee35992ddbf23f45fe8d0409c48b68"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>認証を迂回する脆弱性が strongSwan、IKE/IPsec スイートで IKEv2

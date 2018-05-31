@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f7f2b624e24910f60748fb8d57947ccd65893780"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se encontraron dos vulnerabilidades en el cliente IRC Quassel que podrían

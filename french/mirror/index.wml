@@ -1,6 +1,6 @@
 #use wml::debian::template title="Faire un miroir de Debian" BARETITLE="true"
 
-#use wml::debian::translation-check translation="1.61" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="bd86b0ad25988ff5a8899346e64baf4909abd886" maintainer="Jean-Paul Guillonneau"
 #traducteurs : voir journal
 
 <p>Debian est réparti tout autour du monde en utilisant des miroirs

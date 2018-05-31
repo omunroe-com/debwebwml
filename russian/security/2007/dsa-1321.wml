@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="13773d9633e5a7822f2cc82d0a8ac023becf8611" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что код поддержки IMAP в Evolution Data Server

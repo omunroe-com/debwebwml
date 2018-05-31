@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9da88ae81c5a6aeabc3336a60e0cda240a7a8611" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В SPIP, движке для издательских веб-сайтов, была обнаружена уязвимость,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ff87aebd25dd072f80e8fb4215fcfd0ab9001e52" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at ruby-zip, et Ruby-model til læsning og skrivning af 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a577c58298377966964384b233c404993f3d5575"
 <define-tag description>ошибка в функции и сброс TLB</define-tag>
 <define-tag moreinfo>
 <p>Пол Старжец (Paul Starzetz) и Войцеч Пурчински (Wojciech Purczynski)

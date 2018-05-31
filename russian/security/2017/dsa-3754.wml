@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e87596fac177e83cf29cc9e1e14370168da51e67" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что некорректная обработка ошибок в HTTP-соединителе

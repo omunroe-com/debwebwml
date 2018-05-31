@@ -3,7 +3,7 @@
 <define-tag release_date>2015-06-06</define-tag>
 #use wml::debian::news
 # $Id:
-#use wml::debian::translation-check translation="1.1" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="c2b12b07818481156f57633f0e84f28d8b815765" maintainer="Erik Pfannenstein"
 #in sync with cvs revision 6411
 
 <define-tag release>8</define-tag>

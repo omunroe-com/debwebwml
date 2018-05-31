@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="5bf6135126914686f0fce456a2022161ac3e07fd" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Mathy Vanhoef du groupe de recherche imec-DistriNet de la KU Leuven a

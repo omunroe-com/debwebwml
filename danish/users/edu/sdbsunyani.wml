@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.sdbsunyani.org/school.php</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="88b0aa4763257d4e75440fdf2650b49d6bcf548b"
 
 <p>
     Siden 2008 har vi anvendt Debian på to gateways, der forbinder skolen og to 

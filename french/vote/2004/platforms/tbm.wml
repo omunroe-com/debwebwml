@@ -1,5 +1,5 @@
 #use wml::debian::template title="Programme de Martin Michlmayr" BARETITLE="true" NOHEADER="true"
-#use wml::debian::translation-check translation="1.9" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Nicolas Bertolissio"
 #include "$(ENGLISHDIR)/vote/style.inc"
 
 <h1 class="title">Programme de Martin Michlmayr</h1>

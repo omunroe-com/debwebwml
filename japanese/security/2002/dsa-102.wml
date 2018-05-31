@@ -18,4 +18,4 @@ yy.tab.c がそのまま使われてしまっています。これは DSA-102-2 
 #include "$(ENGLISHDIR)/security/2002/dsa-102.data"
 # $Id$
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c1e4dd7cf3425d7a284ebb019095ad8cbf0133c7"

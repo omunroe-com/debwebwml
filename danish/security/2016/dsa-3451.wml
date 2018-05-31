@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="27563cc517de752c27477c839d503452bd655183" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jann Horn opdagede en sårbarhed i pakken fuse (Filesystem in Userspace) i 

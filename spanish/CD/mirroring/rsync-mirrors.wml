@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Lista de réplicas de rsync para imágenes de CDs de Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="d15cbd4e121ea975532c1dda0bc1b79f69cee45d"
 
 <p>Estas son las direcciones de las réplicas de imágenes de CDs
 de Debian de <a href="http://rsync.samba.org/">rsync</a>. Fíjese en que

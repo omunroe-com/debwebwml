@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6c79052561208b9aa8ea466fe77d17dd94069489"
 <define-tag description>安全でない一時ファイル作成</define-tag>
 <define-tag moreinfo>
 <p>John Goerzen さんが、Gopher 分散ハイパーテキストプロトコル用クライアント

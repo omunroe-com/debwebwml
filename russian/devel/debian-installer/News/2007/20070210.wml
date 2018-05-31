@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8d1f9387753a5d5994a4e2d998a8c586929b1eb6" maintainer="Lev Lamberov"
 <define-tag pagetitle>Истечение срока действия ключа сломало большую часть образов etch версии RC1</define-tag>
 <define-tag release_date>2007-02-10</define-tag>
 #use wml::debian::news

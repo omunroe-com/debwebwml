@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2248474d7408df92a10c1bc7340f4552a3b5bfd2"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Huzaifa Sidhpurwala descubrió que una escritura en memoria fuera de límites en el

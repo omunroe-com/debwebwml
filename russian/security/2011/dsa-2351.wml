@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="37da912a786b4e4000ea9216fd2dbfcc45349e7a" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Нузаифа Синхпурвала обнаружил переполнение буфера в диссекторе ERF из

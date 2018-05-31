@@ -15,5 +15,5 @@ führen können.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1186.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="124f06add18395512c78e361047f63b6eeea261d"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="f318b2267f9cc64f8be31b4ae4961c569c84372d" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans OpenSSL, la boîte à

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="fc084ae196ec51c56a31715ac9016d9471defb5d" maintainer="Simon Paillard"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs dépassements de tampon ont été découverts dans gopher, un client

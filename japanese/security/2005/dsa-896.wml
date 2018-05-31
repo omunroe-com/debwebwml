@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3b466ff8305c5343381072f8cbaa1b7624800eba"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>SSL 暗号化をサポートしている単純な BSD FTP サーバ

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="sebul"
+#use wml::debian::translation-check translation="71fa63b222574363f8057feab4b971bc4fe679d3" maintainer="sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>여러 취약점이 Xen hypervisor에서 발견되었습니다.:</p>

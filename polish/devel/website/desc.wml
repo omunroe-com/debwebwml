@@ -1,6 +1,6 @@
 #use wml::debian::template title="Jak tworzone są strony www.debian.org"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.35"
+#use wml::debian::translation-check translation="f4a553b77d7d268cc8964f792c054a7827ccfd39"
 
 <p><em><q>Drzewo stron internetowych</q></em>Debiana, czyli zbiór plików i 
 katalogów, który zawiera nasze strony internetowe, znajduje się w katalogu 

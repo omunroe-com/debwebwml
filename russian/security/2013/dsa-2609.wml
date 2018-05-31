@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6b2ae509dd414b5e3130759951594b529714d704" maintainer="Lev Lamberov"
 <define-tag description>манипуляция запросом SQL</define-tag>
 <define-tag moreinfo>
 <p>Конфликт интерпретаций может привести к тому, что компонент Active Record из

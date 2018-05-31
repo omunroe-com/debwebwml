@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 全球鏡像站" BARETITLE=true
-#use wml::debian::translation-check translation="1.9" maintainer="Kanru Chen"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Kanru Chen"
 
 <p>Debian 正透過數百個伺服器在網路上散佈 (<em>鏡像</em>)。使用離您
 較近的伺服器將可能提高下載速度，並且也減輕中央伺服器與全球網路的負擔。</p>

@@ -1,6 +1,6 @@
 #use wml::debian::template title="<q>proposed-updates</q> 메커니즘"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.10" maintainer="Sebul"
+#use wml::debian::translation-check translation="09c8de4214e938e26eeaf5c5d5bbb5937213f414" maintainer="Sebul"
 
 <p><q>안정</q> (그리고 <q>옛안정</q>) 릴리스에 대한 모든 변경은
 연장된 테스트 기간을 거쳐 아카이브로 승인됩니다. 각 안정(옛안정) 릴리스 업데이트는

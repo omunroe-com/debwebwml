@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-10-04" SUMMARY="Constant Usable Testing、FTP チームからの一言、Google Summer of Code、Publicity チームからの一言"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="f1d948670b86947f623a9b451e5940ecf566d500"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl

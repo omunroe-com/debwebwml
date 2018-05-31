@@ -35,4 +35,4 @@ hvortil opdaterede pakker vil følge om kort tid).</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1816.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9f1c76798294e34ac1dd25c5587369148730d558" mindelta="1"

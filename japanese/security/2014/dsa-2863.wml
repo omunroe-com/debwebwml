@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0355a7a7801d5b4b7f5975e75733618a2b36418c"
 <define-tag description>ディレクトリトラバーサル</define-tag>
 <define-tag moreinfo>
 <p>libtar、tar アーカイブ操作用 C

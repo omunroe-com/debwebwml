@@ -1,7 +1,7 @@
 #use wml::debian::template title="Cambio dei codici dei tasti per PowerPC" NOHEADER="yes"
 #use wml::fmt::verbatim
 #include "$(ENGLISHDIR)/ports/powerpc/menu.inc"
-#use wml::debian::translation-check translation="1.6" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="0cfff43768945b514bb734757927bbbd8b043626" maintainer="Luca Monducci"
 
 <h2>Avviso sui codici di tastiera con Linux PowerPC!</h2>
 

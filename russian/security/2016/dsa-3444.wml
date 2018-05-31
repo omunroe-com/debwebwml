@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="759024e13f5ea49bfbf38f9cb770702c12b4c4b6" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Crtc4L обнаружил уязвимость в wordpress, инструменте для ведения

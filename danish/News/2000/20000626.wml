@@ -1,7 +1,7 @@
 <define-tag pagetitle>Første testudgave af Embedded Debians krydsudviklingsmiljø</define-tag>
 <define-tag release_date>2000-06-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8cb641d10f4c620ccf411a55dde676d84539dd87"
 
 <p>Bemærk: Denne artikel er indsendt af Frank Smith &lt;smith@amirix.com&gt;.
 Embedded Debian er et uafhængigt projekt og er ikke formelt knyttet til Debian.

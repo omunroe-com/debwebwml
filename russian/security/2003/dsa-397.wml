@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2cfdd3ad39f658e44565e6e18b3b098287e9ed44"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Том Лэйн (Tom Lane) обнаружил возможность переполнения буфера

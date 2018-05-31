@@ -1,5 +1,5 @@
 #use wml::debian::template title="debian-announce 리스트 가입하기"
-#use wml::debian::translation-check translation="1.12" maintainer="Sebul"
+#use wml::debian::translation-check translation="524a402de6e78d832d2498f56eb5df88f84b5c43" maintainer="Sebul"
 # Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-01-02
 
 <p>"debian-announce"는 특별한 통제를 받는

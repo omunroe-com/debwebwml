@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="61adf0d4782c5ac3bd21c948361798341dd555ec" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma a découvert un dépassement de tampon dans le traitement des

@@ -1,7 +1,7 @@
 #use wml::debian::template title="Raisons pour choisir Debian"
 #include "$(ENGLISHDIR)/releases/info"
 
-#use wml::debian::translation-check translation="1.74" maintainer="Guillaume Delacour"
+#use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858" maintainer="Guillaume Delacour"
 
 # Traducteurs précédents : 
 # - Nicolas Bertolissio (2007)

@@ -15,4 +15,4 @@ er dette problem rettet i version 2.8.8-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1176.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f6e70fb3897105a4d6067834d4f6ff9271b2df14" mindelta="1"

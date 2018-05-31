@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="4dfbc3f9726f7562a0e47f907728772af7221ac3" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Mateusz Kocielski et Marek Kroemeke ont découvert qu'un dépassement

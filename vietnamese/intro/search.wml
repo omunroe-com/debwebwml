@@ -1,5 +1,5 @@
 #use wml::debian::template title="Thông tin về cách sử dụng bộ máy tìm kiếm Debian"
-#use wml::debian::translation-check translation="1.13" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="faac753e853745f84b366bfd32a4cd60e721616f" maintainer="Trần Ngọc Quân"
 
 <p>Bộ máy tìm kiếm Debian tại <a href="https://search.debian.org/">https://search.debian.org/</a>
 sẽ cho phép các kiểu tìm kiếm khác nhau, tùy thuộc vào bạn muốn

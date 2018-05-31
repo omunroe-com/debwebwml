@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a39b1cbb5aeb2b04ae4f2755926e8ff9dc55e719" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE a signalé un dépassement de tampon dans xpdf, un visualisateur de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="72eb3583bf159710fceca5f40fc6b3b9a879d260"
 <define-tag pagetitle>Debian usará sólo versiones libres del sistema de
 ventanas X</define-tag>
 <define-tag release_date>1998-04-09</define-tag>

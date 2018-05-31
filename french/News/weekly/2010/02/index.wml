@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-05-03" SUMMARY="Nouveau chef du projet Debian, Financement spécial pour les novices de la conférence Debian, Debian accueille des étudiants du <q>Google Summer of Code</q>"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.13" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="72af2309b6e70c54dd81bbacd4517f5c985728e0" maintainer="Simon Paillard"
 
 <!--
 $Id$

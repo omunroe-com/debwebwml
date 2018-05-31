@@ -1,6 +1,6 @@
 # From: Thomas Goirand <thomas@gplhost.com>
 # Ping: Mon, 26 Mar 2012 01:02:58 +0800 <1cf67474ff26695b7fc900500ae33d89@gplhost.com>
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="18c45db37bf7de6bf8536dacd123d22cc42ee5d3" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>GPLHost LLC, Wilmington, Дэлавэр, США; GPLHost UK LTD, Лондон, Соединённое Королевство; GPLHost Networks PTE LTD, Сингапур</define-tag>
 <define-tag webpage>http://www.gplhost.com/</define-tag>

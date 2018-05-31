@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2dcaf19bb1f02a0122fb67734760b8009a727abc" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Якуб Уилк обнаружил, что dpkg неправильно проводит грамматический разбор закавычивания имён

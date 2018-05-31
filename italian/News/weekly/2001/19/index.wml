@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-08-14" SUMMARY="XFree86 4.1, Debian sta uscendo dallo stanzino del server"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p><strong>XFree86 4.1 entra in unstable.</strong>
 <a

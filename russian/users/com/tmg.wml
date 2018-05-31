@@ -1,6 +1,6 @@
 # From: Freddy Spierenburg <freddy@telegraafnet.nl>
 # Ping: Mon, 14 Nov 2011 16:27:23 +0100 <20111114152723.GJ3931@telegraafnet.nl>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b366d6623300b0a7a2e4f8f5d96ffd718b01c7a7" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>CA, Telegraaf Media ICT, Амстердам, Нидерланды</define-tag>
 <define-tag webpage>http://www.telegraaf.nl/</define-tag>

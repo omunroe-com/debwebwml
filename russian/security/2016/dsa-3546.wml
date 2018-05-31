@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a584c411815c45e885d4fc09f8527c2f9fbc2448" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ханс Джерри Илликаинен обнаружил, что отсутствие очистки входных данных в

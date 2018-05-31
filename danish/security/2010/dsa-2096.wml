@@ -18,4 +18,4 @@ eller i den ustabile distribution.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2096.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="828d4b6fa67ce2c15be91b96fcc1509732dc5ed3" mindelta="1"

@@ -2,7 +2,7 @@
 
 <define-tag release_date>2011-02-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.10" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Alexander Reshetov"
 
 
 <p>По случаю выпуска <a

@@ -1,7 +1,7 @@
 #use wml::debian::template title="翻訳済み Debconf テンプレートにおけるエラー: メンテナ順"
 #include '$(ENGLISHDIR)/international/l10n/dtc.def'
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="972b7b3bc986a0367a3f45572cc62b883fcb3e8b"
 
 <p>
 以下は、保有するパッケージのいくつかの翻訳済み Debconf テンプレートにおいてエラーを抱えているメンテナを、アルファベット順に並べたリストです。

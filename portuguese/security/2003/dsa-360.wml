@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="da7bc5d713843403f41fe14fb943bfc0603fd5b6"
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Foram encontradas no xfstt, um servidor de fontes TrueType para o sistema 

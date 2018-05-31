@@ -20,4 +20,4 @@ version 4.8.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1945.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="34ca17a4ef1d910fb3f3e90d76731b42d14bd2bf" mindelta="1"

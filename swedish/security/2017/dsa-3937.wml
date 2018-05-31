@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="695691aa815d1e0a461b4c91a9ab1ecff4db5a98" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Lilith Wyatt upptäckte två sårbarheter i nätverksövervakningssystemet

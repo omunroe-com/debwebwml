@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="40d6c8b7bbb487cf736a0e2d9074fd23af15d0ef" maintainer="Marco Carvalho"
 <define-tag description>estouro de pilha</define-tag>
 <define-tag moreinfo>
 <p>Pesquisadores do SuSE descobriram erros de estouro de "heap" no xpdf,

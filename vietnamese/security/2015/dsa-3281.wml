@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="d3bcae2d503f783a8c84e27731248384185e9660" maintainer="Trần Ngọc Quân"
 <define-tag description>Thông báo thay đổi khóa PGP/GPG Nhóm Bảo mật Debian</define-tag>
 <define-tag moreinfo>
 <p>Đây là thông báo rằng Nhóm Bảo mật Debian đã thay đổi khóa liên hệ PGP/GPG

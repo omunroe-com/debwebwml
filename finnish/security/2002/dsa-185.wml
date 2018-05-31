@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a15338d260bec7f6eaddec5ddc88d750416cd45c"
 <define-tag description>puskurin ylivuoto</define-tag>
 <define-tag moreinfo>
 <p>Kerberos v4 -hallintapalvelimen kadm_ser_wrap_in-toiminnosta, joka

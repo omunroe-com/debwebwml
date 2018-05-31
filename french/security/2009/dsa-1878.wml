@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="4fdf543df91843d07bbe8849073af5591408f9ad" maintainer="Thomas Vincent"
 <define-tag description>Absence de vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Raphael Geissert a découvert que uscan, un programme pour vérifier

@@ -18,7 +18,7 @@ mail から HTML へのコンバータ mhonarc の作者の Earl Hood さんが�
 <p>すぐに mhonarc パッケージをアップグレードすることを勧めます。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="86e0bec820f9d99dc7fe20330f8b868c82943d9c"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-221.data"
 # $Id$

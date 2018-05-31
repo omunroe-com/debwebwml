@@ -1,7 +1,7 @@
 #use wml::debian::template title="Rassegna stampa 2002" NOHEADER=yes
 #use wml::debian::countries
 #include "$(ENGLISHDIR)/News/press/press.tags"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d2b5c1fc581ef6d1c67c63c2105c7d75f2e104ce"
 
 <h3>Debian sulla stampa</h3>
 

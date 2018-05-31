@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian BTS &mdash; request server" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.25" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="a946a95799b41275199f1fe578015847e4a1d0e4" maintainer="Giuseppe Sacco"
 
 <h1><a name="introduction">Introduzione al server di richiesta per il sistema di gestione bug</a></h1>
 

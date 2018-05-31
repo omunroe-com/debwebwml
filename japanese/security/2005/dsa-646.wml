@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d945b2184b39d6cefb87d9a6f27e1a722ce5a927"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Andrei Nigmatulin さんは、広く使われている画像処理ライブラリ ImageMagick

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4e9398858fe7df0c603e88eaf4a21ccf9c6a91ee" maintainer="Lev Lamberov"
 <define-tag description>переполнения буфера</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" и Крис Эванс обнаружили несколько переполнений динамической памяти в xpdf,

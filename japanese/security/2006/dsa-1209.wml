@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c67fc40944f35ea2bf317d40efc6c71434d1f58d"
 <define-tag description>クロスサイトリクエストフォージェリ (CSRF)</define-tag>
 <define-tag moreinfo>
 <p>ソフトウェア開発プロジェクト用の Wiki および問題追跡システム

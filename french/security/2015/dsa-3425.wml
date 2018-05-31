@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="114b0082202d634f5273ec8169133f8a4c883281" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Cédric Krier a découvert une vulnérabilité dans le côté serveur de

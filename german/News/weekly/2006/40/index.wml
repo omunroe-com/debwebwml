@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-10-31" SUMMARY="BLOBs, Ereignisse, Videos, I18n, Installer, Dunc-Tank, MPlayer, Firefox"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 #use wml::debian::acronyms
 # $Id$ XXX
 

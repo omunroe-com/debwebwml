@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="04cd993097ff55003617295306d2d7397b71ba10" maintainer="DFS Task Force"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Les responsables de l'architecture IA-64 ont corrigé plusieurs bogues

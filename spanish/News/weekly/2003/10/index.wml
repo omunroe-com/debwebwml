@@ -1,7 +1,7 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-03-11" SUMMARY="Elecciones a DPL, Debconf, GCC 3.3, Publicación de Sarge, Accesibilidad, Lindows, Udebs, LZW, PS2, PPP, OpenLDAP 2.1, GnuMICR"
 # $id: index.wml,v 1.8 2003/02/26 09:08:24 joey Exp $
 
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p> Bienvenidos a la décima edición de este año de las DWN, el boletín
 semanal de la comunidad de Debian. Parece que ésta ha sido una <a

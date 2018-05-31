@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="dab56055ad33031be3b29312fafe0981bd2bfca4"
 <define-tag description>XML 外部エンティティ取り込み</define-tag>
 <define-tag moreinfo>
 <p>Yury Dyachenko さんが、Zend Framework が PHP の XML

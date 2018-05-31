@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.ikm.edu.my/lumut</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c34e2b2255f3b0b566f4ea07cd1a30326b14e549"
 
 <p>
     Vi anvender Debian i netværkssystemadministratorkurset om open 

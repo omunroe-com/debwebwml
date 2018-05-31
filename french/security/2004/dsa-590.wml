@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="cd7ce16a39894a629551f97ae787d1ac1fbc56ab" maintainer="DFS Task Force"
 <define-tag description>Faille de sécurité de format de chaînes de caractères</define-tag>
 <define-tag moreinfo>
 <p>Khan Shirani a découvert une faille de sécurité de format de chaînes de 

@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.gplhost.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="18c45db37bf7de6bf8536dacd123d22cc42ee5d3"
 
 <p>
     GPLHost står for omkring 100 servere, hvoraf (næsten) alle kører Debian.  De

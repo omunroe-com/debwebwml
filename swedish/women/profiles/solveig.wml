@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9bd1612c99ab421989a44d574a12d1409018e2ba"
 <define-tag pagetitle>Solveig</define-tag>
 #use wml::debian::profiles
 #include "$(ENGLISHDIR)/women/profiles/profiles.def"

@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Vendeurs de support d’installation de Debian" BARETITLE=true GEN_TIME="yes"
 #use wml::debian::countries
-#use wml::debian::translation-check translation="1.58" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="765c2c97976e78cc11ae19d94b561f02334317d0" maintainer="Jean-Paul Guillonneau"
 #include "$(ENGLISHDIR)/CD/vendors/vendors.inc"
 #Initial translation: Willy Picard
 #Previous translation by Thomas Huriaux

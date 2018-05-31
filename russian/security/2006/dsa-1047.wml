@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="47b834903e93a4f4d87fc2259cf96bd739c19fb8" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В resmgr, модуле PAM и службе библиотеки управления ресурсами,

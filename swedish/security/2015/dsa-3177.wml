@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="029e6ea4f51bf08f2e1e7581a7c41d5f3e00b5e9" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Thomas Klute upptäckte att mod-gnutls, en Apache-modul som tillhandahåller

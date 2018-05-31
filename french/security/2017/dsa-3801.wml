@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="ff87aebd25dd072f80e8fb4215fcfd0ab9001e52" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>ruby-zip, un module Ruby pour la lecture et l'écriture de fichiers zip,

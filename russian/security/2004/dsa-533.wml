@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a336d9208c61add4347f6475c3a0eee65e12bf36"
 <define-tag description>перекрёстные между сайтами скрипты</define-tag>
 <define-tag moreinfo>
 <p>Обнаружена уязвимость к перекрёстным между сайтами скриптам в sqwebmail,

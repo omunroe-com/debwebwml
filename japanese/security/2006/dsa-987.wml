@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="417287205bfc45d07b571838c05beb86e454c9c3"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Jim Meyering さんが、GNU tar

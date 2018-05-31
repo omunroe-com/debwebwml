@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c8530e318949df8fb1ad40e55b519f442b47461d"
 <define-tag description>entrada não-sanitizada</define-tag>
 <define-tag moreinfo>
 <p>Dmitry V. Levin descobriu um estouro de buffer na libtiff,

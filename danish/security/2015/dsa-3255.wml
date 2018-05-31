@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="93a9e53759baf929ea2c9d6380b55117190e0547" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at libzmq, en letvægtsbeskedkerne, var sårbar over for et 

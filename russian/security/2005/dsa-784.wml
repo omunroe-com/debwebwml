@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8b9775f4b74ca42a0f37ae7a0753b4799d4883a6" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В почтовом сервере Courier была обнаружена уязвимость.  Неправильно

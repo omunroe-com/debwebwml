@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9161e1484da2b08816136306de69db56e18b9e14"
 <define-tag description>desbordamiento de búfer, problema de enlace simbólico,
 navegación de directorios ".."</define-tag>
 <define-tag moreinfo>

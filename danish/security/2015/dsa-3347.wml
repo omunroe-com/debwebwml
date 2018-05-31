@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7d8a9291335406452d2f3fa95fb345f2676f7fc5" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Pyry Hakulinen og Ashish Shakla fra Automattic opdagede at pdns, en 

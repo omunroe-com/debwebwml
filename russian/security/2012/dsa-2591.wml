@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="82cb6cb596d6e698b405c3c760c6e0517a733f7b" maintainer="Lev Lamberov"
 <define-tag description>несколько узявимостей</define-tag>
 <define-tag moreinfo>
 <p>В Mahara, конструкторе электронного портфолио, веб-блога и резюме, были

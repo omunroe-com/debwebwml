@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2e708b9e70f0706621cb2f188cbd0dfbb3acf31a"
 <define-tag description>バッファアンダフロー</define-tag>
 <define-tag moreinfo>
 <p>Chris Ries さんにより、高性能 HTTP サーバ兼リバースプロキシ/IMAP+POP3 プ

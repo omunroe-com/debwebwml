@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a078163556d501a64450c0ebd42db92bcbbfe49b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Агостино Саруббо обнаружил многочисленные уязвимости в zziplib,

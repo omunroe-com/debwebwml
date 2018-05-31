@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="4e5de6a3a36cc739b0862edf3d88880e5a587c12" maintainer="Marco Carvalho"
 <define-tag description>SQL injection</define-tag>
 <define-tag moreinfo>
 <p>Neil McBride descobriu que o Zoph, um sistema de gerenciamento de fotos

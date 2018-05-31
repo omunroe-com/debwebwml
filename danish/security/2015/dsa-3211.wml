@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4d1e97aa7696292ae7a9a3842ec73dd3706bc9f8" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sikkerhedsproblemer er fundet i Iceweasel, Debians udgave af 

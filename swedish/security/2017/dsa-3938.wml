@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b325bbf33c2cb5d18a8204d7d06f1dc2ed1f606f" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Matviy Kotoniy rapporterade att funktionen gdImageCreateFromGifCtx()

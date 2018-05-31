@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1e79769d83caa56dcc728ffda150989ab3ca1208" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тайлер Боан из Talos обнаружил, что FreeRDP, свободная реализация

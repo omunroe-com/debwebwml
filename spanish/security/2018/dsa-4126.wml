@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="03b0cc71103427c40913f80a6a6d1d785af9eb56"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Kelby Ludwig y Scott Cantor descubrieron que el proveedor del servicio

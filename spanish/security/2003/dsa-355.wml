@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9adb2fd8f5412494b458542149fbf1d9ef939cf3"
 <define-tag description>script a través del sitio</define-tag>
 <define-tag moreinfo>
 <p>Larry Nguyen descubrió una vulnerabilidad de script a través del sitio

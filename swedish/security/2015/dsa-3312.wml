@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b946f4c835028a2dd8e163fd077881503a9560aa" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera SQL-injiceringssårbarheter har upptäckts i cacti, ett

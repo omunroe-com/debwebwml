@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="354a76afc46f79e67f01bc860c0c9ed0017acbb3" mindelta="1"
 <define-tag description>manglende kontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Eduard Bloch har opdaget en fejl i apt-cacher, et mellemlagringssystem til
@@ -19,4 +19,4 @@ version 0.9.10.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-772.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="354a76afc46f79e67f01bc860c0c9ed0017acbb3" mindelta="1"

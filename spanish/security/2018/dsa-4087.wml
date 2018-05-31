@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="97630e36f45df62bfe1fd4e9add0551433e6d131"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy descubrió una vulnerabilidad en el cliente BitTorrent

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="841454d0837efbb6d81e99ed49052c4a3d55516a"
 <define-tag description>安全でない一時ファイルの作成</define-tag>
 <define-tag moreinfo>
 <p>Dmitry E. Oboukhov さんにより、flamethrower が予測可能な名前の一時ファイ

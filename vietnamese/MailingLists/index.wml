@@ -1,5 +1,5 @@
 #use wml::debian::template title="Bó thư"
-#use wml::debian::translation-check translation="1.54" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
+#use wml::debian::translation-check translation="cbef29d2610b3ba39b999840eb999c75f436efd0" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
 #use wml::debian::toc
 
 <toc-display/>

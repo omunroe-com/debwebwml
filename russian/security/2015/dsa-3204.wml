@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="77ed33d28e94c8cc1d61415552d1d3d6211fd56a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дэниел Чатфилд обнаружил, что python-django, высокоуровневая инфраструктура

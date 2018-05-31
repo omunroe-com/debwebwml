@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="f92b9969c2252e35e56a75dd786a8bc01838bcf8" maintainer="Nicolas Bertolissio"
 
 <define-tag abbr>WOS</define-tag>
 <define-tag year>2006</define-tag>

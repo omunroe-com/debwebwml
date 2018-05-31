@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-02-28" SUMMARY="Вышел Debian 6.0 <q>Squeeze</q>, новый дизайн и новости о сайте, репозиторий Backports для <q>Squeeze</q> стал проще для пользователей"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="f3d5ed6297fc8b7e45a2ab7501f5d88ba8a328cf" maintainer="Alexander Reshetov"
 
 
 # Copyright (c) 2011 David Prévot

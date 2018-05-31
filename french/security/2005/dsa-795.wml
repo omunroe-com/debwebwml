@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="f6ecc08f664388337a70f7e7f767757c4a1f7624" maintainer="Simon Paillard"
 <define-tag description>Éventuelle exécution de code</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;infamous42md&nbsp;» a signalé que proftpd souffrait de deux

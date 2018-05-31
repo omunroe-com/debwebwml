@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="664e1dd7ef2aaf1617395bb411185922d7b096d8" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sårbarheder er fundet i fontrenderingmotoren Graphite, hvilke 

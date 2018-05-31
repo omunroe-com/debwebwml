@@ -1,7 +1,7 @@
 <define-tag pagetitle>Sun lånar ut Ultra30-system till Debian</define-tag>
 <define-tag release_date>1998-11-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="cd18be6b804dcc76a6a3aaf00dad207d80638b9b"
 
 <P><A HREF="http://sun.com">Sun Microsystems</A> har lånat ut tre
 UltraSPARC-system till Debianprojektet.

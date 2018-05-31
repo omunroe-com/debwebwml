@@ -17,5 +17,5 @@ le recomendamos que actualice los paquetes de nvi.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-085.data"
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="36eea2b986041ec2e2e2462d7f7d216e793ec6eb" maintainer="juanma"
 # $Id$

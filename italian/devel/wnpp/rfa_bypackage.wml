@@ -1,5 +1,5 @@
 #use wml::debian::template title="Pacchetti da adottare" GEN_TIME="true"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9c91dafe36ecc3ea323c52c9c21d02f91dca4751"
 
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
 

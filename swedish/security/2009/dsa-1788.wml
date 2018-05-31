@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a93c2621cebe96d479eae8e01c2c94b21b200be0"
 <define-tag description>felaktig försäkran</define-tag>
 <define-tag moreinfo>
 <p>Det upptäcktes att Quagga, en IP-fördelningsserver, inte längre kunde

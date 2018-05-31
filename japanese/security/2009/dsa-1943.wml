@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="24e7bc23a3179fc4339a544943e6b63081c9a674"
 <define-tag description>入力の不十分な検証</define-tag>
 <define-tag moreinfo>
 

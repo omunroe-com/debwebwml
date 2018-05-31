@@ -19,7 +19,7 @@
 sendmail-wide パッケージが入手できます。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d72ec9af3906d5f8e6e7d7a7d5704bbdd708ba74"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-257.data"
 # $Id$

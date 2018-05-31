@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3bae46d953aa9aa9c363c68748a9038d71e3a6cc"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>Don Armstrong さんにより、LDAP のユーザアカウントを操作するためのツール群

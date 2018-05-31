@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f03c9e254733c4b7a7956dd25e867df9b7b0f2df" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Et heltalsoverløb er fundet i modulet HTTP-range i Nginx, en højtydende 

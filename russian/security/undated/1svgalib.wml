@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1ef29ba7b707aeb90628e81b136054d370f76475" maintainer="Lev Lamberov"
 <define-tag description>уязвимость локального суперпользователя</define-tag>
 <define-tag moreinfo>
 svgalib неправильно передаёт привилегии суперпользователя.

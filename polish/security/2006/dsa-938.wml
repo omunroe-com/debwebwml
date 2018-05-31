@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bab66ee1d3ae8bcaa90b554c66f91da21994cf5a"
 <define-tag description>przepełnienia buforów</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" oraz Chris Evans odkryli kilka przepełnień buforów opartych na stosach w pakiecie xpdf, narżedziu do obsługi plików PDF (Portable Document Format), które są także obecne w koffice, Pakiecie Biurowym KDE, które mogą prowadzić do odmowy wykonania zadania poprzez rozbicie się aplikacji, bądź też prawdopodobnie do uruchomienia dowolnego kodu.</p>

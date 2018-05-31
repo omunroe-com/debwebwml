@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="5b6fb0dc8365bdc3e64cc20f289ea2d3b4a9cdcc" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Un dépassement d'entier dans freexl, une bibliothèque destiné à analyser

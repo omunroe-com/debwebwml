@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="74fa00d6ff7d740d06f0b2fa7f12da643923a19a"
 <define-tag description>kilka naruszeń bezpieczeństwa</define-tag>
 <define-tag moreinfo>
 <p>Odkryto dwa naruszenia bezpieczeństwa w openssl, implementacji

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2015-03-12" SUMMARY="Rapports de la rencontre de l'équipe DebianMed, statut de Debian LTS, délégation de l'équipe en charge des marques déposées, appel à l'aide du programme de partenariat, élection du DPL à venir, ouverture de l'inscription à DebConf15, localisation de DebConf16, Debian au cinéma, les questions des Nouvelles du projet Debian : administrateurs système Debian, que faites-vous ?, entretiens avec Joey Hess et Paul Wise" 
-#use wml::debian::translation-check translation="1.6" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="7b3b87ef7ea5bfa0f4f332979c08bc92a773a69a" maintainer="Thomas Vincent"
 
 # $Id$
 # $Rev: 1641 $

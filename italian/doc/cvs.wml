@@ -1,6 +1,6 @@
 #use wml::debian::ddp title="SVN del Debian Documentation Project"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.38" maintainer="skizzhg"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="skizzhg"
 
 <p>Il "Debian Documentation Project" (Progetto di documentazione Debian) deposita
 le sue pagine web e la maggior parte dei

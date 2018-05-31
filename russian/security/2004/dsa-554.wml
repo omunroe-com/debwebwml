@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2442ddcb90770a0bf1527dc6daf5930ff226c3b6"
 <define-tag description>предустановленный пароль</define-tag>
 <define-tag moreinfo>
 <p>Хьюго Эспуни (Hugo Espuny) обнаружил проблему в sendmail, широко

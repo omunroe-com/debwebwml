@@ -1,7 +1,7 @@
 <define-tag pagetitle>Vorbereitungen für Etch Beta 2-Veröffentlichung wird die meisten Beta 1-Images beschädigen</define-tag>
 <define-tag release_date>2006-02-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9534400b758644d04f2b02226ab905c1342a1288"
 # Translator: Helge Kreutzmann <kreutzm@itp.uni-hannover.de> 2006-02-08
 
 <p>

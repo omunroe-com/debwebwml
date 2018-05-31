@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="766162dbf110e6ce5d57c20aea63d6612079da5d" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i TYPO3, ett innehållshanteringssystem.

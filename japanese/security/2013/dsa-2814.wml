@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0fa23206c72c9c543a94218c3c5486e87d43577c"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>サービス拒否脆弱性が varnish、最新の高性能ウェブアクセラレータに報告されています。

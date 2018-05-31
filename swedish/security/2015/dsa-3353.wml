@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5c54d159a764d7a21d6f67b62bf82e187d6b2259" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Qinghao Tang från QIHU 360 upptäckte en brist med dubbel frigörning i

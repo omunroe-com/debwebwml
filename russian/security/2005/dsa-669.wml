@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="28b82a2ddccd8e1963bf7c3ade56659e1ba2f476" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В php4 было обнаружено две уязвимости, которые также касаются

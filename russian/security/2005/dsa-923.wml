@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="513fa91e4aa1f25e4f3c1174ea885b784bc400a9" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В dropbear, легковесном сервере и клиенте SSH2, было обнаружено

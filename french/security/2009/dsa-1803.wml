@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="0e16e1b8740163a0dbeeece5a230b83b3ff38288" maintainer="Thomas Vincent"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Ilja van Sprundel a découvert qu'un dépassement de tampon dans NSD, un démon de service

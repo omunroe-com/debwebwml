@@ -1,7 +1,7 @@
 <define-tag pagetitle>Journée Debian Med à la DebConf&nbsp;5 à Helsinki</define-tag>
 <define-tag release_date>2005-06-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Mohammed Adnène Trojette"
 
 <p>Andreas Tille a 
 <a href="https://lists.debian.org/debian-med/2005/06/msg00024.html">\

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="36f31123f606b69b05577a679bdc98915c816373" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дэниел Бернштайн, Иоаким Брайтнер, Дэниел Генкин, Леон Грут

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b6a7948fa22eb40076a6bfdcaad690461f19b7c5" mindelta="1"
 <define-tag description>åtkomst utanför gränserna</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att applikationer som använder sig av mesabiblioteket,

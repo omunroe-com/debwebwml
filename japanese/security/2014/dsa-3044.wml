@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e2754af96d91f78e611453172eef4e1ee80e91e6"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>x86ハードウェア用の完全仮想化環境である qemu-kvm に複数の脆弱性が見つかりました:</p>

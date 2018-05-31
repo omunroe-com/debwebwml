@@ -1,6 +1,6 @@
 # From: Tomo Hiroyasu <tomo@is.doshisha.ac.jp>
 # Current as of 2016/11/26
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="f616108895a025f041e48972805d8f783bc3432f" maintainer="Jean-Pierre Giraud"
 
 <define-tag pagetitle>Laboratoire de système d'informations médicales, université Dōshisha, Kyoto, Japon</define-tag>
 <define-tag webpage>http://www.is.doshisha.ac.jp/</define-tag>

@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian na CD-ima" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.29"
+#use wml::debian::translation-check translation="08deda837854ccae71c171f7ea8010f6fd325dbf"
 
 <p>Ako želite nabaviti Debian na CD-u, pogledajte ispod za
 raspoložive opcije. U slučaju problema, molimo pogledajte

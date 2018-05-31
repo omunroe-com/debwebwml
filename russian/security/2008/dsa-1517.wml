@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3bae46d953aa9aa9c363c68748a9038d71e3a6cc" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Дон Армстронг обнаружил, что ldapscripts, набор инструментов для работы

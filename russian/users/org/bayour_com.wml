@@ -1,6 +1,6 @@
 # From: Turbo Fredriksson <turbo@debian.org>
 # Current as of November 11, 2014. 2014 Who Audit
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8c79a7d931374a4c4a12424253f8b39e5dd91719" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Bayour.com, Гётеборг, Швеция</define-tag>
 <define-tag webpage>http://bayour.com/</define-tag>

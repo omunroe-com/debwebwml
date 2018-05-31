@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="182ab1491c86f39861de9d78fe78069b3d898828" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Nhiều lỗ hổng bảo mật đã tìm được thấy trong OpenJDK,

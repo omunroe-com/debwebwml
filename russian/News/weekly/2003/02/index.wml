@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-01-14" SUMMARY="SPI, Снимки экрана, x86-64, Itsy, Лицензии, Кодировки, Ядро, Laptop, Radius, CUPS, OSCAR, Секретность"
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="8dba7ef8c7a857e37f21ea9355d7c02d91438d91"
 
 <p>Приветствуем вас во втором в этом году выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian. Похоже, переход к новой версии

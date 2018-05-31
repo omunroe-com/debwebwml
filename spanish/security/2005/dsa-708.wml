@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="4cf7853027077a4d82970cd048710f3b181d44ee" maintainer="juanma"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Un investigador de iDEFENSE descubrió dos problemas en las

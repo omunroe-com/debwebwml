@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f09576d8bbd2b2ec2ae0e4921bd0b3254cd1ad21"
 <define-tag description>入力値の正当性チェックの欠落</define-tag>
 <define-tag moreinfo>
 <p>Andreas Noldenさんは、C++ GUI ライブラリフレームワークである qt4-x11 の 

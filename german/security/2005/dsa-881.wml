@@ -56,5 +56,5 @@ das Problem korrigiert wurde.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-881.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="871183d7cc8b0aa6f49d99643125fc67310d67fa" mindelta="1"
 # $Id$

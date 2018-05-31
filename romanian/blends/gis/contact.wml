@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Contact"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="119bc3a5217d95aec18b7362bcbdc917ec862ce8" maintainer="Ana Custura"
 # $Id$
 
 <p>Echipa Debian GIS Pure Blend este principalul punct de contact dacă dorești

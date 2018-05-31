@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0744ddd0daeaccea007cbcaa86b411dd4f627b7d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Франсиско Фалкон обнаружил, что отсутствие очистки ввода в коде ускорения 3D 

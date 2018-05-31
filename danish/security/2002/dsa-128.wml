@@ -12,4 +12,4 @@ omgående opgraderer din sudo-pakke.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-128.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="74742b2d709a96da79c5e7d342696e9dac4b04e3"

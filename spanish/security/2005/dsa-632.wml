@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="16548bb1fed395ed46385bf7d11face05600c033" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Stephen Dranger descubrió un desbordamiento de buffer en linpopup,

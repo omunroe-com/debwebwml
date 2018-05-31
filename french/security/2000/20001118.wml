@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>L'avertissement de sécurité en provenance de
 <i>OpenBSD</i> rapporte un problème avec <i>openssh</i> que Jacob Langseth 
 &lt;jwl@pobox.com&gt; a mis à jour&nbsp;: lorsque la connexion est établie, le 

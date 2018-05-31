@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5a5bfd66af5af5d266719f9db1a0f3ab7485da15" mindelta="1"
 <define-tag description>implementationsfel</define-tag>
 <define-tag moreinfo>
 <p>Informationssäkerhetsgruppen på ETH Zurich upptäckte en

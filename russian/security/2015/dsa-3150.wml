@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c22b8579d06c856c7d910f4993a6ef81d4584944" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Фабиан Ямагучи обнаружил многочисленные уязвимости в VLC, ПО для проигрывания

@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="DDP dokumentacijska načela"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="ce282e0a297485989542fa7afbff4df335e388bd"
 
 <p>Ovaj priručnik je prilično zastario i postoji napor da se ispravi na
 <a href="https://lists.debian.org/debian-doc/">debian-doc mailing listi</a>.

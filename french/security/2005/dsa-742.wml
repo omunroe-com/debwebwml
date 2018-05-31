@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="74b06cbe89e6b23a113e5055178fed475dc855b2" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Derek Price, le responsable actuel du paquet CVS, a découvert un dépassement

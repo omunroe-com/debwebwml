@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="231957aa99583e56176b504db5ff6a5ddc7502ec"
 <define-tag description>käyttäjäoikeuksien laajentuminen</define-tag>
 <define-tag moreinfo>
 <p>Leonard Stiles havaitsi että lv, monikielinen tiedostokatselin, hakee

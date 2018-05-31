@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f32c33721cc135a8a3048b45257dd549162f897b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Марвин Эдисон обнаружил, что Jasig phpCAS, библиотека PHP для

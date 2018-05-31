@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6b8a803853a4c314e038009319b6c4d9419efede" maintainer="Lev Lamberov"
 <define-tag description>чтение за пределами массива</define-tag>
 <define-tag moreinfo>
 <p>Антонио Мартин обнаружил отказ в обслуживании в

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d4ea8efe37362262fff077374cf82b6d1caef74f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ханс Джерри Илликаинен обнаружил, что libgd2, библиотека для создания и работы

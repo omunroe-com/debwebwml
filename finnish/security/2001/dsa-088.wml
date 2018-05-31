@@ -11,4 +11,4 @@ indeksisivut.
 </define-tag>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-088.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5bfd48981d4bd08b5a05d01bddffae5bb155a199"

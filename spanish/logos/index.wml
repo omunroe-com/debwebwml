@@ -1,6 +1,6 @@
 #use wml::debian::template title="Logotipos de Debian" BARETITLE=true
 #include "$(ENGLISHDIR)/logos/index.data"
-#use wml::debian::translation-check translation="1.75" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="3f2af2f89e5c2268c8535a4946511a643c146a5e" maintainer="Laura Arjona Reina"
 
 <p>Debian tiene dos logotipos. El <a href="#open-use">logotipo oficial</a> (también conocido como
 <q>logotipo de uso libre</q>) contiene de la conocida <q>espiral</q> de Debian 

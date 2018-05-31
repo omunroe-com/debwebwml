@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="eb802383e972013e2be59e88e35cfa088968a164"
 <define-tag description>mail-käyttäjäoikeuksien laajentuminen</define-tag>
 <define-tag moreinfo>
 <p>Florian Heinz <email heinz@cronon-ag.de> lähetti Bugtraq-listalle

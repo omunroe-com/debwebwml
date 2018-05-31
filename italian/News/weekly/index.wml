@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Indice"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Giuseppe Sacco"
 
 <p>
 <b>Benvenuti a Notizie del Progetto Debian</b>, un periodico per la comunità

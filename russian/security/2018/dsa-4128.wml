@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="28a9347f520772bb73e3d8dfad0f76b03cb4f603" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Apache Traffic Server, обратном прокси-сервере и прокси-сервере

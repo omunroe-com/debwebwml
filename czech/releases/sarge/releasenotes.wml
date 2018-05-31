@@ -2,7 +2,7 @@
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/sarge/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.6" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714" maintainer="Miroslav Kure"
 
 <p>Co je v&nbsp;Debianu&nbsp;3.1 nového, zjistíte po přečtení poznámek
 k&nbsp;verzi pro vaši architekturu:</p>

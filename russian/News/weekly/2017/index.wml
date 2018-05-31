@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Выпуски из 2017 год"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3f85dbd2ec425ccbd6d6672ac58c6e787a598e1e" maintainer="Lev Lamberov"
 
 
 <p>

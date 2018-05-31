@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e86d24308a145243a2bf529dc4830ba36839bc14"
 <define-tag description>небезопасный временный файл</define-tag>
 <define-tag moreinfo>
 <p>Татсуя Киношита (Tatsuya Kinoshita) обнаружил уязвимость в flim,

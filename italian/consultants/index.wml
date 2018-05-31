@@ -1,5 +1,5 @@
 #use wml::debian::template title="Consulenti" NOCOMMENTS="yes" GENTIME="yes"
-#use wml::debian::translation-check translation="1.24" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="ddc787fc13315129674e31f7c49b5694a03d1005" maintainer="Giuseppe Sacco"
 
 <p>Debian è un costituita da software libero ed offre assistenza
 gratuita attraverso le <a href="../MailingLists/">liste di messaggi</a>.

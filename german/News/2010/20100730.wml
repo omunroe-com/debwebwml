@@ -2,7 +2,7 @@
 <define-tag release_date>2010-07-30</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="51579e3c619a71b9add42d8af798d74c926cd25d"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2010-12-30
 
 <p>Das Debian-Projekt, das Team hinter dem freien Debian GNU/Linux-Betriebssystem, 

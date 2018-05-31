@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debians ARM-projekt</define-tag>
 <define-tag release_date>1998-08-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian GNU/Linux' ARM-distribution er en tilpasning af Debian til 
 ARM-arkitekturen og kan køre på Corels NetWinder.  Udviklingen vil med tiden

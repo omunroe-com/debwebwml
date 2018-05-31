@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="95ab1fc0ecde0f3b07977de9d2fb7e2e1cfb2c36" maintainer="Lev Lamberov"
 <define-tag description>разыменование NULL-указателя</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что cyrus-imapd, хорошо масштабируемая почтовая система, разработанная

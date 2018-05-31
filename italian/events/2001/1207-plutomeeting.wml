@@ -5,7 +5,7 @@
 <define-tag date>7-9 Dicembre</define-tag>
 <define-tag infolink>http://meeting.pluto.linux.it/</define-tag>
 <define-tag coord><a href="mailto:fog@debian.org">Federico Di Gregorio</a></define-tag>
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="1464c21fbb68d020a5f810a9cb0e835b972dde9d"
 
 <define-tag intro>
 

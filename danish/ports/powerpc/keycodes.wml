@@ -1,6 +1,6 @@
 #use wml::debian::template title="PowerPC-tastekodeændring" NOHEADER="yes"
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="0cfff43768945b514bb734757927bbbd8b043626"
 #include "$(ENGLISHDIR)/ports/powerpc/menu.inc"
 
 <h2>Advarsel vedrørende Linux-tastekoder på PowerPC!</h2>

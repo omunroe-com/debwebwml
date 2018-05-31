@@ -29,4 +29,4 @@
 #include "$(ENGLISHDIR)/security/2008/dsa-1580.data"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2009-06-30
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5ebc2f98567ab3dfb70f005c4a5a0caba5c1106b"

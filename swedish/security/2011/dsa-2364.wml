@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ecd395a52739373b3f6a84eaa225fb2b786da18d" mindelta="1"
 <define-tag description>felaktigt rättighetskontroll</define-tag>
 <define-tag moreinfo>
 <p>Debians X-wrapper påtvingar att X-servern endast kan startas från en

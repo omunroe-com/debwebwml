@@ -1,7 +1,7 @@
 <define-tag pagetitle>Sun leiht Debian Ultra30-Systeme</define-tag>
 <define-tag release_date>1998-11-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="cd18be6b804dcc76a6a3aaf00dad207d80638b9b"
 
   <!--                             -*- Mode: SGML -*-
   Translator       : Philipp Frauenfelder (pfrauenf@debian.org)

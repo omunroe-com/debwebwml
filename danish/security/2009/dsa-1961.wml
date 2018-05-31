@@ -25,4 +25,4 @@ version 9.5.1.dfsg.P3-1+lenny1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1961.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e64a37d6ea5d314764c9531724173b302ac8acd1" mindelta="1"

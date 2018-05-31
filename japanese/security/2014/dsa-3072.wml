@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="690bdffbfa274ee4d8baed1e7d5009ed17d5ae37"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Red Hat 製品セキュリティの Francisco Alonso さんが file

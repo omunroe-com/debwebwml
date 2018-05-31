@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d514bdf2eabaab9aa108afa8f00b13f8cf85a64f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Якуб Вилк обнаружил возможность удалённого выполнения команды в reportbug, инструменте

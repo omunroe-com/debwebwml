@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a381f27f1df3a4b45c05c0f32b44fe2d5b69e4c2" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Dawid Golunski fra LegalHackers opdagede at PHP Swift Mailer, en mailløsning 

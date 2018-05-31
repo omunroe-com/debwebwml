@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7dc01c25991c05059e76e3af78071ccb908f828f"
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
 <p>Timo Sirainen descubrió varios problemas en EPIC, un popular cliente de

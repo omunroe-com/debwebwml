@@ -13,4 +13,4 @@ finns i paketet <code>cipe-source</code>.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-104.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="f77dcec74045c09894712fc60c9fa2a617752580" mindelta="1"

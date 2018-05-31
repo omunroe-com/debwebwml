@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="889dc8a1259b47ea6bdda9a1d8702e98782b2ee5" maintainer="Lev Lamberov"
 <define-tag description>удалённая уязвимость</define-tag>
 <define-tag moreinfo>
 <p>Стив Лангашек обнаружил ошибку в коде обработки пароля

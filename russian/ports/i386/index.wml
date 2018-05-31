@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux на машинах x86" BARETITLE=true
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e9c587fe48386f2bedf1d5a6284b6959c2b4635c" maintainer="Lev Lamberov"
 
 <p>Это первая архитектура, поддерживаемая Debian, поэтому к данному переносу
 относится большая часть основных страниц Debian.</p>

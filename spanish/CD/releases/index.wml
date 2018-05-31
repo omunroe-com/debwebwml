@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Información de la publicación de imágenes de CDs de Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.34"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <p>Esta página contiene información de última hora respecto a imágenes de
 CDs oficiales de Debian. <em>Se centra en problemas específicos de las

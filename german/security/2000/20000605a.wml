@@ -8,5 +8,5 @@ umgehend Ihr splitvt-Paket aktualisieren.</define-tag>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20000605a.data'
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 # $Id$

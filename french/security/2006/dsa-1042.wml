@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="e62fb8013b11944cc4b00f10f1dfd189197e0f47" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>L'équipe de recherche «&nbsp;Mu Security&nbsp;» a découvert une condition de

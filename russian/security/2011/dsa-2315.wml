@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="958a1429d12115673c9cd514273d33b6995e4983" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Хузаифа Сидхпурвала, исследователь безопасности из Red Hat, Inc., сообщил о многочисленных

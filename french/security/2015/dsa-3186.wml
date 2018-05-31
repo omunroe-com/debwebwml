@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="1d85a6af2dc9e63df5bf5605b61ae32d9e210ea5" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>La bibliothèque de service de sécurité du réseau de Mozilla (nss) gérait

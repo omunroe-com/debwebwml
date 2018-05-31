@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="ed8a278916070826c40d64dd1239b67f2281fa4c"
 <define-tag moreinfo>
 <p>Hemos descubierto que el paquete fte suministrado en nuestros archivos de slink
 (congelado) y potato (inestable) no liberan sus privilegios de root tras

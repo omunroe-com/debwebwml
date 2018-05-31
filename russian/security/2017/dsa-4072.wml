@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="839f6ec186bf987dea0929a4dc0a5f3e8bd796b8" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ханно Бёк, Юрай Соморовский и Крэйг Янг обнаружили, что

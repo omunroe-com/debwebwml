@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Безкоштовні компакт-диски з Linux" NOHEADER=true BARETITLE=true
-#use wml::debian::translation-check translation="1.1" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="4dc6aa7c1925469f923a41d0b3ac63f8b2d27ee2" maintainer="Borys Yanovych"
 #use wml::debian::toc
 
 # Translators, I would not bother translating this file. Its sole

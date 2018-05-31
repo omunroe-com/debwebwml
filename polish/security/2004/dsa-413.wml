@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="7ab01fc30702515943ca76621b3dab47667b7e99"
 <define-tag description>pominięcie sprawdzania granicy</define-tag>
 <define-tag moreinfo>
 <p>Paul Starzetz <a href="http://isec.pl/vulnerabilities/isec-0013-mremap.txt">odkrył</A>

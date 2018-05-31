@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f9efc9a3fa35e1c6d9ab31a07e6b6b7e674a28db"
 <define-tag description>explotación de root local</define-tag>
 <define-tag moreinfo>
 Nicolas Boullis encontró un feo problema de seguridad en el paquete wmtv (una

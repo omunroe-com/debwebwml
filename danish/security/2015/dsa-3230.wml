@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2fa7b10f80941b85d878daf05572f86b45cc80e4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>James P. Turk opdagede at ReST-renderer'en i django-markupfield, et 

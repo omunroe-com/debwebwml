@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="40ce2126ebd87d862207b8d6d96677e0b1338a36" maintainer="Pierre Machard"
 <define-tag description>Attaque de type déni de service à distance / Exploitation</define-tag>
 <define-tag moreinfo>
 <p>Mark Litchfield a mis à jour une attaque de type déni de service dans

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="0c2765d6332ad131ec7915c4b714b26dee871b2b"
 <define-tag description>INN 1.5 parsecontrol</define-tag>
 <define-tag moreinfo>
 Denna sårbarhet kan göra det möjligt för användare utifrån att exekvera

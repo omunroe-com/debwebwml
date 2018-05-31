@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b689fbf9b41d18e91cea334b5fbc53c73d938c9a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>James Forshaw opdagede at i Apache Santuario XML Security for Java, blev 

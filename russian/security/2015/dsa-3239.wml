@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="65ae0245f9fa89d248126bf6e0a3f51a744163d7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джулиан Гольц обнаружила, что Icecast2, сервер потокового вещания мультимедиа, может

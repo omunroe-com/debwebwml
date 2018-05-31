@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8faacf523addd3b3edc457f6850f3cd274f4c519"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>iDefense が WordPerfect 文書処理用のライブラリ

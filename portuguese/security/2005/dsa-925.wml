@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="e895962f8a70851f2a1e7fe6f4baae7d1a7906f9" maintainer="Marco Carvalho"
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Várias vulnerabilidades foram descobertas no phpBB, um sistema de

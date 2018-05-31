@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="358925a61810f905a1cd2f138148de315485ea31" mindelta="1"
 <define-tag description>inaktiva resursbegränsningar</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Apache FCGID-modulen, en implementation av FastCGI,

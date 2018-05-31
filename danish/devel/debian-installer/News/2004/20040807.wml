@@ -1,7 +1,7 @@
 <define-tag pagetitle>Endelig: Debian-Installer udgivelseskandidat 1</define-tag>
 <define-tag release_date>2004-08-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="6d2359c35e16214604ee9eb1a159c9ddc3cf9158"
 
 <p>Debian-Installer-holdet annoncerer hermed den første udgivelseskandidat af
 Debian sarge-installeringsprogrammet.  Større forbedringer i denne udgave er 

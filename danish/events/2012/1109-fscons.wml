@@ -19,7 +19,7 @@ til 11. november.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3fdf17f5cb1bec2b5d75006918d832904897ac84"
 <ul>
     <li><a href="https://fscons.org/2012/">officielt websted</a></li>
 </ul>

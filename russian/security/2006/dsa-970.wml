@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5268204b6238b925e764d60124ff3251891f8475" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Йоханнес Грайл из SEC Consult обнаружил несколько уязвимостей, проявляющихся в межсайтовом

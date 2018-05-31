@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4007e36d42f1282cea67ecf936b8b9eb66d7194a" mindelta="1"
 <define-tag description>rettighedsforøgelse/lammelsesangreb/informationslækage</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er opdaget i Linux-kerne, hvilke kunne føre til et 

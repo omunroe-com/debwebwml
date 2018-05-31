@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d3bcae2d503f783a8c84e27731248384185e9660" maintainer="Jean-Pierre Giraud"
 <define-tag description>Avis de changement de la clé PGP/GPG de l'équipe de sécurité de Debian</define-tag>
 <define-tag moreinfo>
 <p>Ceci est l'avis que l'équipe de sécurité de Debian a changé sa clé PGP/GPG

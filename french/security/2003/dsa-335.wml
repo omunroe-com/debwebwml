@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="23ae8046d8061f28eced3d1fdd465316befd1274" maintainer="DFS Task Force"
 <define-tag description>Permissions incorrectes</define-tag>
 <define-tag moreinfo>
 <p>mantis, un système web de traçabilité de bogues basé sur PHP/MySQL, 

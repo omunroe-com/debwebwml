@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9"
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descobriu um buffer overflow no xconq, ao processar a variável

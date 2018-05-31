@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8faacf523addd3b3edc457f6850f3cd274f4c519" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Сотрудники iDefense сообщили о нескольких переполнениях целых чисел в libwpd, библиотеке

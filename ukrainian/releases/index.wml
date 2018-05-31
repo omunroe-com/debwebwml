@@ -1,6 +1,6 @@
 #use wml::debian::template title="Випуски Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.55" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="66b54a91290a409bfdbc3b52149db0386092ec44" maintainer="Borys Yanovych"
 
 <p>Debian постійно активно підтримує щонайменше
 три дистрибутиви: <q>стабільний</q>, <q>тестовий</q> та

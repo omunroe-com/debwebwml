@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="114414efb5f1dc00730a6cd8fbbea8ee8f659f87" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Команда безопасности Google и исследовательская группа умного оборудования из команды

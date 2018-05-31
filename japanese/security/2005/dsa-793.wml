@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="11cad26c4a1ad9e81e2a4497866e4a044fbb9c03"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>Jakob Balle さんが、courier

@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PAGENAME="Выпуски за 1999 год"
 #use wml::debian::weeklynews::index
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ace3fea2952f4fc09d521b12e0cd191455705b0c" maintainer="Lev Lamberov"
 
 <p>
 Здесь находятся прошлые выпуски Еженедельных Новостей Debian за 1999 год.

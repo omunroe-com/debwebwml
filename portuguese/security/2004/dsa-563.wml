@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="9d49b4bfc1b8124103d05a1e9ea4fae97587f783"
 <define-tag description>entrada não sanitizada</define-tag>
 <define-tag moreinfo>
 <p>Este alerta é uma adição aos DSA 563-1 e 563-2 que não foram

@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.ecompute.co.jp/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="b2f6c5d93d29d5e33e3c8b40ce512e796946d4e3" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian pour nos propres serveurs d'entreprise (web, courriels,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5f08f27f70a78e9467b16fbaec34fe5b8a012ed2"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>CESG が acpi-support パッケージに root 昇格の欠陥を発見しました。権限のないユーザが

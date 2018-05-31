@@ -1,7 +1,7 @@
 # Status: [frozen]
 # $Id$
 # $Rev$
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e551b06070278a866bd28835210e6fac13d5e0d2" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Несколько пожертвований улучшают надёжность базовой инфраструктуры Debian</define-tag>
 

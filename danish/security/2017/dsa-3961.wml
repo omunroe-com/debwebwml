@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e654a691482e2cc50a9ae992d212b6ff3faf1f36" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhed i forbindelse med dobbelt frigivelse blev opdaget i funktionen 

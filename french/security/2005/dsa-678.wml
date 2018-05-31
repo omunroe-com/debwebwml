@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="395aecc76a4691377e9261146a3d3eafd5f93d7d" maintainer="DFS Task Force"
 <define-tag description>Absence de vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;Vlad902&nbsp;» a découvert une vulnérabilité dans le programme rwhod

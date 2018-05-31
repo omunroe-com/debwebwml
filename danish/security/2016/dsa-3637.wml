@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="8522bc93ca56c89a42d292f132fcf12417c6b1a9" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er opdaget i webbrowseren chromium.</p>

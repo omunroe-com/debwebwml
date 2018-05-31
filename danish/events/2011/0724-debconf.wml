@@ -34,7 +34,7 @@ software.  Den vil indeholde præsentationer af emner af generel interesse.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0848497f42c1fabc06c9761bdb2e37950918ef73"
 #Related Links here (free form)
 <ul>
     <li><a href="http://debconf11.debconf.org/">Generelt DebConf-websted</a></li>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="66cbcd32eb97143605d4699861561484c2c371c6" maintainer="Lev Lamberov"
 <define-tag description>чтение за границами массива</define-tag>
 <define-tag moreinfo>
 <p>Пол Якма обнаружил, что специально сформированные сообщения UPDATE могут

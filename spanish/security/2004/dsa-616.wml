@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="282af0eee63827c41410d4cc8a790dbb654e55d9" maintainer="juanma"
 <define-tag description>cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Joel Eriksson descubrió una vulnerabilidad de cadena de formato en

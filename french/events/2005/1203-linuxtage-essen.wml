@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="914d94590364e270c6c9cc6731826c0c2652b1a2" maintainer="Mohammed Adnène Trojette"
 <define-tag abbr>LTE</define-tag>
 <define-tag year>2005</define-tag>
 <define-tag pagetitle>Journées Linux d'Essen</define-tag>

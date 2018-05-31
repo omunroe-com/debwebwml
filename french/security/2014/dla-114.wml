@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c80ebb8918553a89fdda948c35db35d9aa792007" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités de sécurité ont été découvertes dans mailx de Heirloom,

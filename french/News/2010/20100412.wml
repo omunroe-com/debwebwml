@@ -1,7 +1,7 @@
 <define-tag pagetitle>Nouveau service d'instantané de l'archive disponible</define-tag>
 <define-tag release_date>2010-04-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 
 <p>Le projet Debian est fier d'annoncer le nouveau service

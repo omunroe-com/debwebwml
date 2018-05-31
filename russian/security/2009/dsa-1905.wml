@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1f8a4b3311f317330ee3c3ecc83043b2102825d1" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка входных данных</define-tag>
 <define-tag moreinfo>
 <p>Библиотека форм из пакета python-django, высокоуровневой инфраструктуры для

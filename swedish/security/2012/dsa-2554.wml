@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="689422477dd7db7cb85f6edfbfa28d177b687e32" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i Iceape, en internetuppsättning

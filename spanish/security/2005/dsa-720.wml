@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="bd7172f126f7764a3d7821d4d4c26165d2d33a8f" maintainer="Juan M. Garcia"
 <define-tag description>procesamiento incorrecto de entrada</define-tag>
 <define-tag moreinfo>
 <p>Jeroen van Wolffelaar advirtió que la extensión «confirm» de

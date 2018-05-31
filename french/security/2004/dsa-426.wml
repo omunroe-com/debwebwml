@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="556424400c8f7da54267b9fc922002c456d73046" maintainer="DFS Task Force"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p><i>netpbm</i> est un ensemble d'outils de conversion graphique basé sur

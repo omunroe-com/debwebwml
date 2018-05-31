@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b456da5ef82cc8a566d590e59254e92fbb3a1a85"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p><q>mail</q>コマンドの実装である Heirloom mailx

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7ad15ebc4646dff99e3b8ebf12c8a8131edd6ecb"
 <define-tag description>未初期化メモリ読み取り</define-tag>
 <define-tag moreinfo>
 <p>欠陥が、Mozilla Network Security Service ライブラリ (nss)

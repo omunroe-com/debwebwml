@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="b7ed7ceb9677126acc6f9a5717ed60db22379b52" maintainer="Simon Paillard"
 <define-tag description>Boucle infinie</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;Vade&nbsp;79&nbsp;» a découvert que l'extracteur BGP de tcpdump, un

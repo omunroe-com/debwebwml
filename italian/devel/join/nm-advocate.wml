@@ -1,5 +1,5 @@
 #use wml::debian::template title="Promuovere un aspirante sviluppatore"
-#use wml::debian::translation-check translation="1.14" maintainer="Francesca Ciceri"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Francesca Ciceri"
 
 <p>Prima di promuovere un aspirante sviluppatore si deve verificare che
 soddisfi tutti i requisiti elencati nella <a href="./nm-checklist">checklist

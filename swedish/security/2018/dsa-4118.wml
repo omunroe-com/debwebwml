@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9869f562bb6d7a2d6e684cd646d6f93489262840" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jonas Klempel rapporterade att tomcat-native, ett bibliotek som ger

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0129ff42afd95f71a6f7890ec4ed7d954e7d2939" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В сервере CVS, обслуживающем популярную систему одновременных версий, было

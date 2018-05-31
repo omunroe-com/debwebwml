@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="abc35f36c5d6aab75c17cc7d5e54f8a2dbb89915" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 

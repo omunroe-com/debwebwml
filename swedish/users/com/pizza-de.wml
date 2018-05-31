@@ -1,6 +1,6 @@
 # From: Miklos Quartus <miklos.quartus.ext@deliveryhero.com>
 # Current as of 2015/11/30
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="283ac554a53f4abfea7e4be5416885e1f3506b4a"
 
 <define-tag pagetitle>DeliveryHero Holding GmbH, IT System Operations, Berlin, Tyskland</define-tag>
 <define-tag webpage>http://www.pizza.de/</define-tag>

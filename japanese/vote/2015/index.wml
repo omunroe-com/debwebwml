@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2830dd9e60a7cd79309a87ab584483ef49673993"
 <define-tag pagetitle>2015 年に投票にかけられた議題</define-tag>
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::votebar

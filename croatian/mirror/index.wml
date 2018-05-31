@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian mirrori" BARETITLE="true"
-#use wml::debian::translation-check translation="1.41"
+#use wml::debian::translation-check translation="5a4b6c99a1118425da25658b724c3fcebef8d51f"
 
 <p>Debian se distribuira širom svijeta koristeći
 <em><a href="http://foldoc.org/mirror+site">mirrore</a></em>

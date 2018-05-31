@@ -9,4 +9,4 @@ användare.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/undated/1xfree2.data'
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="b76af358a84f5c3bd509f1b8fed21d7078642fc5"

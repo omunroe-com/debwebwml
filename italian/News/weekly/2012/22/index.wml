@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-11-12" SUMMARY="Motore di ricerca del codice per Debian, pillole dal DPL, un altro passo in avanti verso <q>Wheezy</q>"
-#use wml::debian::translation-check translation="1.6" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97" maintainer="Mirco Scottà"
 
 <intro issue="nel ventiduesimo" />
 <toc-display/>

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Projekt auf zwei Ausstellungen</define-tag>
 <define-tag release_date>2001-05-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="655d20ade42c65db179f8672b31111e0a199a473"
 # Translator: Martin Schulze <joey@debian.org>
 
 <p>Zwei Ausstellungen und Konferenzen beginnen in den nächsten Tagen,

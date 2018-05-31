@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="b1c57566b568efd05e55fdd292e8ef0958a738c8" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Johan Olofsson đã khám phá một lỗi vòng qua xác thực trong

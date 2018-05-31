@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="94e0f2ae63096eab3e72d162471c7eefa5268d74" maintainer="Juraj Kubelka"
 <define-tag description>celočíselná přetečení</define-tag>
 <define-tag moreinfo>
 <p>Pavel Kankovsky zjistil, že několik přetečení nalezených

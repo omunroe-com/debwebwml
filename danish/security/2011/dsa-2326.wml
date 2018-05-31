@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1897b2010fd6a1fac88ee765794ed90da4c2ec76" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Kees Cook fra ChromeOS Security Team opdagede et bufferoverløb i pam_env, et 

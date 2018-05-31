@@ -2,7 +2,7 @@
 <define-tag release_date>2010-09-03</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c150f0c678b801d6dbdc6f9fb14df4d092c33e05"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2011-06-15
 
 <p>Das Debian-Projekt und die italienische Debian-Community freuen sich, 

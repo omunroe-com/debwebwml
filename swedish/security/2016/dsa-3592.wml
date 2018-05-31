@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="586ba635c6b1d7bc4a7c0883e3d32cd76e3fb65a" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att en NULL-pekardereferering i Nginx-koden som ansvarar

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="David Prévot"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc" maintainer="David Prévot"
 <define-tag abbr>TADM55</define-tag>
 <define-tag year>2009</define-tag>
 <define-tag pagetitle>55<sup>e</sup> rencontre Debian de la région de Tokyo</define-tag>

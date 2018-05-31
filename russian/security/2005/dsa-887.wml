@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ce28f9a2534cfcb23d5232d0487cc6f04d7f3f0f" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В антивирусе Clam, антивирусном сканере для Unix, спроектированном для

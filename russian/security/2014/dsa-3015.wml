@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3c38f14e389fee175d891dbf847f4ed0f3480959" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Lua, просто расширяемом встраиваемом языке программирования, был обнаружено

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8fbc21f00fdeecb5e07967a6296e12f43ad39eb0" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Et bufferoverløb blev opdaget i databaseserveren Firebird, hvilket kunne 

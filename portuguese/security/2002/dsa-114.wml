@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="748db6e403ebcfbbf2d23f6055689d5ef1fb3258" translation_maintainer="Michelle Ribeiro"
 <define-tag description>acesso não autorizado a arquivos</define-tag>
 <define-tag moreinfo>
 <p>Thomas Springer encontrou uma vulnerabilidade no GNUJSP, um servlet Java que 

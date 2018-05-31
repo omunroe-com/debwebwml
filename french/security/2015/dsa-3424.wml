@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a75593f4b49c73f166d6ea652d390e60f15232c0" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Ivan Zhakov a découvert un dépassement d'entier dans mod_dav_svn. Cela

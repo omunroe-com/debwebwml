@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-04-22" SUMMARY="DPL^2, DWN, Nowicjusze, Freebies, W3C, Multiarch, ReiserFS, Prawnicy, Debconf, Pebble, Konferencje, X86-64, UTF-8"
 # $id: index.wml,v 1.8 2003/02/26 09:08:24 joey Exp $
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>Witaj w piętnastym w tym roku numerze DWN, tygodniku dla osób
 zainteresowanych i związanych z Debianem. Steven Frank <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="08312bf138465123f9ba6def8d632f7acb5a70dc" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Toshifumi Sakaguchi a découvert que le correctif appliqué à pdns, un serveur

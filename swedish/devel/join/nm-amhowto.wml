@@ -1,5 +1,5 @@
 #use wml::debian::template title="Mini-HOWTO för handläggare"
-#use wml::debian::translation-check translation="1.41"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
 
 <p>
 <b>Notera:</b> Wikisidan <a href="https://wiki.debian.org/FrontDesk/AMTutorial">AM

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="e0e4cc924829d2d3fc67f138f9474a617547a7a4" maintainer="DFS Task Force"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans Squid, le cache d'objet

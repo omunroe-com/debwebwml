@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-1-25" SUMMARY="Problème de licence du logo, Debian lors des conférences, Grande réorganisation de X, Noms des paquets"
-#use wml::debian::translation-check translation="1.18" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous avons le <strong>plaisir</strong> de vous présenter la quatrième édition

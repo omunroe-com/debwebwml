@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d76177a04df2a7d1d7558b0253db36d06f629806"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>広く利用されている画像処理用ライブラリ ImageMagick

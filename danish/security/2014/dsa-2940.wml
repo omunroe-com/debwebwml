@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="619c722415d54b21d9a8785427f654eca0b29aee" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at manglende adgangskontroller i Struts' ActionForm-objekt kunne 

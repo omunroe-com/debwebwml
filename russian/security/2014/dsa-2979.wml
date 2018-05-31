@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5984a524ec5c1819b344e4b3c93ad1cae0b19dad" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Fail2ban, решении для блокировании узлов, которые предпринимают многократные неудачные

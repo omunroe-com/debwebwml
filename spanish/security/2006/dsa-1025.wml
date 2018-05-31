@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="e0ae5f3ac08b47e6dfd51159f4118d6979f72c14" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" descubrió tres desbordamientos de buffer en el código de

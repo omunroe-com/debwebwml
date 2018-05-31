@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="21b1db9e2d37144f0e19c50970a2146628cf167e" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 Павел Мачек обнаружил переполение буфера в программе постраничного просмотра `most'.

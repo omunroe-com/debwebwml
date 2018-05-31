@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="777c4005911fa865791b525565d7396a78cd9c99" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Тимо Сирайнен обнаружил, что cURL, библиотеке для передачи URL, имеет

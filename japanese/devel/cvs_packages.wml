@@ -1,5 +1,5 @@
 #use wml::debian::template title="CVS を使用した Debian パッケージ管理"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="96f316771fbc3b1856dfd14bb8d08815a3c6a843"
 
 <p>この短い文書は、パッケージの CVS
 管理への変換において簡単な手助けを与えることだけを目的としています。

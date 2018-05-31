@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="85d10c55e297373b7e843c8dc83452b6938e5558" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un problema en sail, un juego perteneciente al paquete

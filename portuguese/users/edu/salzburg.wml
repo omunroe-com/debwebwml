@@ -3,7 +3,7 @@
 <define-tag pagetitle>Institute of Computer Science, University of Salzburg, Áustria</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="866294a282a7e7ea99decf4d17f197da4d2afe83"
 
 <p>
   O Debian é usado para alguns dos servidores (web, cricket, snort,

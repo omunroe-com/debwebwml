@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7faeede538166c62dcbbd8ae66e933af0a613be9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В OpenJPEG, библиотеке для сжатия и распаковки изображений в формате JPEG 2000,

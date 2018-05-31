@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="3038f2c5d4858f2f82245cc5c45c078c802666c4" maintainer="Jean-Edouard Babin"
 <define-tag description>Vérification d'entrée manquante</define-tag>
 <define-tag moreinfo>
 <p>Masako Oono a découvert que phpMyAdmin, une interface web pour

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="39643cb48ad78ee12abce89d0624ad58dbc63c41"
 <define-tag description>誤った API の使用</define-tag>
 <define-tag moreinfo>
 <p>Liberty Alliance および SAML プロトコルライブラリ Lasso が OpenSSL の

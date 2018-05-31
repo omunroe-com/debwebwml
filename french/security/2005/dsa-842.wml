@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="28d8ff585668c08044e137eaa95a16971cd9bd42" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser a découvert une vulnérabilité dans les bibliothèques XML-RPC,

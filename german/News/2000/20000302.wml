@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian zu Compaqs Testdrive-Programm hinzugefügt</define-tag>
 <define-tag release_date>2000-03-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="78d0a50b854906e1c7fb5ab7ffa52420a7624263"
 # $Id$
 
 <p>Das Compaq Testdrive-Programm hat kürzlich Debians frozen GNU/Linux

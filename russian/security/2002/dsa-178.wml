@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="81ccd64b803dba5dae67d98dc92eb0abe181fc2a" maintainer="Lev Lamberov"
 <define-tag description>удалённое выполнение команд</define-tag>
 <define-tag moreinfo>
 <p>Команда безопасности SuSE проверила критические части пакета Heimdal,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3dba2ce8874659936ed5820dcd0b3d1aa5dda78a" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что ipplan, программа для управления и отслеживания IP-адресов

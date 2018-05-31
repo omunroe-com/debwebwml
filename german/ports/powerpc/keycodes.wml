@@ -1,7 +1,7 @@
 #use wml::debian::template title="PowerPC Tastencode-Änderung" NOHEADER="yes"
 #use wml::fmt::verbatim
 #include "$(ENGLISHDIR)/ports/powerpc/menu.inc"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="0cfff43768945b514bb734757927bbbd8b043626"
 # $Id$
 # Translator: Gerfried Fuchs <alfie@debian.org> 2002-02-13
 

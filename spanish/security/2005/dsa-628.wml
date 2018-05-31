@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="94e0f2ae63096eab3e72d162471c7eefa5268d74" maintainer="juanma"
 <define-tag description>desbordamientos de enteros</define-tag>
 <define-tag moreinfo>
 <p>Pavel Kankovsky descubrió que varios de los desbordamientos encontrados en

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Projet Debian Junior"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.64" maintainer="David Prévot"
+#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7" maintainer="David Prévot"
 
 # Premier traducteur : Martin Quinson, 2002.
 # puis : Pierre Machard, 2002.

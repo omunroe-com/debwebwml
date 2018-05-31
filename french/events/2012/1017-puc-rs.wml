@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="David Prévot"
+#use wml::debian::translation-check translation="f43c278a43a871a5435d56c2d9da827796e17280" maintainer="David Prévot"
 <define-tag abbr>PUC-RS</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>Présentation et débat : qu'est ce que le projet Debian</define-tag>

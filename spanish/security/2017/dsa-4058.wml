@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6197e6d210ec08b47593090051b386e6d9895590"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron dos vulnerabilidades en optipng, un optimizador de PNG

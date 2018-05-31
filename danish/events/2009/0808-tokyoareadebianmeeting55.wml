@@ -28,5 +28,5 @@ Debian-vedligeholdere og fremtidige bidragydere til Debian.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc"
 #Related Links here (free form)

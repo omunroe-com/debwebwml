@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Jr.s logo-sider modtager bidrag</define-tag>
 <define-tag release_date>2000-11-23</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Peter Crystal &lt;darke@debian.org&gt; har meldt sig frivilligt til at 
 vedligeholde en side med Debian Jr.-logobidrag, på:

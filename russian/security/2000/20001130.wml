@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1f3f4dde7f86f41fbc06311876c99a371732d2f7" maintainer="Lev Lamberov"
 <define-tag moreinfo>Колин Филиппс обнаружил интересную атаку через символические ссылки в
 fsh (инструменте для быстрого запуска удалённых команд через rsh/ssh/lsh). Когда запускается fshd,
 то она создаёт каталог в /tmp для хранения сокетов. Служба пытается делать это

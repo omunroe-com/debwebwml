@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>WireX обнаружили некоторые следы небезопасного открытия
 временных файлов в htdigest и htpasswd. Обе программы устанавливаются без
 флагов прав доступа, позволяющих запускать их от лица другого пользователя или группы, поэтому опасность этой уязвимости минимальна. Группа Apache

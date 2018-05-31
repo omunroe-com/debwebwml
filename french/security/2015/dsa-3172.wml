@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="0fe7b4d89a001d5b365d1daa42edfd4ac2d85a54" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Peter De Wachter a découvert que CUPS, le système d'impression pour Unix,

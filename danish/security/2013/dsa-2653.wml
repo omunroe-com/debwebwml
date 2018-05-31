@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2421089de56a30f2ce873a5215fd123fec79ba18" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Icinga, et system til overvågning af værter og netværk, 

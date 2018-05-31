@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="78a6226d7f04a78c2d50acb26a770b330cc36754"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma さんにより、サウンドモジュールトラッカー cheesetracker

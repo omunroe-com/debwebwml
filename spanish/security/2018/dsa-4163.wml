@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ff4d471d9fe8f1e94b997384dbf58528649e97b4"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que una condición de carrera en beep (si se configura como setuid

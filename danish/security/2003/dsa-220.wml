@@ -18,4 +18,4 @@ at blive klar.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-220.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="25d9591f4c70fb794d64922eef3b8940449d2009"

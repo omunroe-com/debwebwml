@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="197150da6daa0a6672bde1cff16543a6d64f58a7" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Кристоф Мартин заметил, что mason, который интерактивно создаёт

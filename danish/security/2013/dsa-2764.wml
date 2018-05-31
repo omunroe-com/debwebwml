@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="61a3bc9723007c7a51ba67bc0ec7b1eda76e3e62" mindelta="1"
 <define-tag description>programmeringsfejl</define-tag>
 <define-tag moreinfo>
 <p>Daniel P. Berrange opdagede at ukorrekt hukommelseshåndtering i funktionen 

@@ -11,7 +11,7 @@
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="1.5" maintainer="Arief S Fitrianto"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Arief S Fitrianto"
 
 
 <p>Setelah hampir selama 24 bulan pengembangan yang terus menerus, proyek Debian dengan bangga mempersembahkan versi stabil terbaru, versi 8 (kode: <q>Jessie</q>), yang akan didukung penuh selama 5 tahun ke depan. Terima kasih atas kerja sama yang baik antara <a href="http://security-team.debian.org/">Tim Debian Security

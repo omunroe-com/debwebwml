@@ -34,7 +34,7 @@ Den vil indeholde præsentationer af emner af generel interesse.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="fac261268f3a958c28bb81a6c6c5376088fb9ff8"
 #Related Links here (free form)
 <ul>
  <li><a href="http://debconf9.debconf.org/">Generel DebConf-hjemmeside</a></li>

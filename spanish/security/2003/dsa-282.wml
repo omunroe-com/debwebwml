@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1b3139b9743cfe4b6a178dd59effdf413e6b575c"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>eEye Digital Security descubrió un desbordamiento de entero en la

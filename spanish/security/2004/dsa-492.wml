@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e136c07d60b1dc9d8bfc53515faa156e45713880"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Herbert Xu informó de que los usuarios locales podían provocar

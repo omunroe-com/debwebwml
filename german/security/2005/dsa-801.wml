@@ -20,5 +20,5 @@ betroffen.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-801.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="421a414dc04575a5375adce728d473def0a93d7b" mindelta="1"
 # $Id$

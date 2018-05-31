@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-10-15" SUMMARY="Automake, OpenOffice, Módulos Perl, Webalizer, Fontes Truetype"
-#use wml::debian::translation-check translation="1.19" translation_maintainer="Gustavo Noronha"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" translation_maintainer="Gustavo Noronha"
 
 <p><strong>Tradução Alemã Mal-direcionada.</strong> Sentimos muito, mas por
 causa de um erro cometido pelo Joey o endereço To: foi digitado errado quando

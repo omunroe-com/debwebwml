@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d65b491227797196f2079e8ca7798c23668fd549"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Debian 版の Mozilla Thunderbird メール及びニュースクライアント

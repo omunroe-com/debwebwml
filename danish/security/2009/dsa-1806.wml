@@ -19,4 +19,4 @@ synkront.  Det vil snart blive rettet i version 15.6-2+etch1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1806.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6b8fa05b90c1104dbc30fe1657e7149bbd2f3f0d" mindelta="1"

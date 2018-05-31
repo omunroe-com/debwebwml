@@ -32,4 +32,4 @@ version 4:0.5+svn20090706-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2000.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="456cb5634cf7b178c8c210226302e22659ce40a2" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="60e4f0aaa7024a9ae56580af7650d852780c19ec" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В kde4libs, базовых библиотеках для всех приложений KDE 4, было

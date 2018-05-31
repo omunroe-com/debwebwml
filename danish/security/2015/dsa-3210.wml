@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e97d154ef8d535650e8b0e8ff8b0ade5410419c3" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sårbarheder er opdaget i dissektorer/fortolkere af WCP, pcapng og 

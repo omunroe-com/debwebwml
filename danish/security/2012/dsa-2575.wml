@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="817974f9e13d91b474004228c623c9e15ac6043f" mindelta="1"
 <define-tag description>heapbaseret bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at ppm2tiff fra TIFF tools, et værktøjssæt til redigering af 

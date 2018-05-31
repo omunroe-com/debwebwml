@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-04-15" SUMMARY="PopCon, meny, lag, borttagningar, utgivning, kategorier, analys, x86-64, NetBSD, Hurd, Alioth, SPI"
-#use wml::debian::translation-check translation="1.27"
+#use wml::debian::translation-check translation="8dba7ef8c7a857e37f21ea9355d7c02d91438d91"
 
 <p>
 Välkommen till årets 15:e utgåva av DWN, veckonyhetsbrevet för Debianfolk.

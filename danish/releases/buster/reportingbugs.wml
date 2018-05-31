@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 10 -- Problemrapportering" BARETITLE=true
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b6a7091f73c11a22a8f619653012ca182cd13179"
 
 # Translators: copy of stretch/reportingbug
 

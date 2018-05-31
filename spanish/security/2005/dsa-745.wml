@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="95dcbcbe97887a0730e528f9021fc3cab4056a36" maintainer="Juan M. Garcia"
 <define-tag description>errores en la validación de la entraada</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron dos errores en la validación de la entrada en Drupal

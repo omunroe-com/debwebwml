@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="164a6a38f1a152566ad8172ac34d33995a5dfcfa"
 <define-tag description>フォーマット文字列脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Peter Bieringer さんにより、拡張可能な汎用 Perl

@@ -22,6 +22,6 @@ sind bereits verfügbar.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-112.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7613d83e8542de4837c4fb151bcacc3fb9805c1e"
 # $Id$
 # Translator: Gerfried Fuchs <alfie@debian.org> 2002-02-18

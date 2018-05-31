@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="c471d1bcf6117ca423467b96e04a19d1a6328d6d" maintainer="Thomas Vincent"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>Le service kpasswd, tournant sur le port UDP 464, pourrait répondre à des

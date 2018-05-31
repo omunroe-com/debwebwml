@@ -1,6 +1,6 @@
 # From: "P. Toth Andras" <p.toth.andras@lanten.hu>
 # From: GyÃŒmÃ¶lcstÃ¡rhely ÃgyfÃ©lszolgÃ¡lat <ugyfelszolgalat@gyumolcstarhely.hu> (Bilics Andrea)
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="e65ec8e0ec856dc2d71b10f2c5960ed48138c6da" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <define-tag pagetitle>IT, Gy&uuml;m&ouml;lcst&aacute;rhely, Hungria</define-tag>
 <define-tag webpage>http://tudasbazis.gyumolcstarhely.hu/</define-tag>

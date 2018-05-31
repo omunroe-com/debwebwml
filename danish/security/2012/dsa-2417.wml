@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b9100c0cf0f50fdbcd068b3eb08e888b42d6f4c9" mindelta="1"
 <define-tag description>beregningsmæssigt lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at den interne hashing-rutine i libxml2, et bibliotek 

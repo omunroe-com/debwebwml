@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e6b3ac017c0c14787976a3dfbc7c4c45657c2d04" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Sharutils, наборе утилит для работы с архивами командной оболочки,

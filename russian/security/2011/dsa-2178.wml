@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translator="Alexander Reshetov"
+#use wml::debian::translation-check translation="add513c0d614ebf2beb7d42714296a3e66db73a3" translator="Alexander Reshetov"
 <define-tag description>разыменование нулевого указателя</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что в Pango не проверялись ошибки выделения

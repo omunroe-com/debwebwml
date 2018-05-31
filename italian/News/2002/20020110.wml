@@ -1,7 +1,7 @@
 <define-tag pagetitle>Rilasciata Debian GNU/Linux 2.2r5</define-tag>
 <define-tag release_date>2002-01-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Giuseppe Sacco"
 # $Id$
 
 <define-tag revision>2.2r5</define-tag>

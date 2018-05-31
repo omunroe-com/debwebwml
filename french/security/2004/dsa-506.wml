@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="670cb0b32537eae2091768fd5b015c576b27e561" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser a découvert un problème dans neon, une bibliothèque pour

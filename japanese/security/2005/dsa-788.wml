@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="57aca0fc4830c37294a49294b66c77626389b069"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>wireless 802.11b 監視ツール kismet にセキュリティ関連の問題が複数発見されました。

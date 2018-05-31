@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b6427fcfebfad93e49ff02bf1affda299b50e9a9"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>dokuwiki に脆弱性が2件発見されています。

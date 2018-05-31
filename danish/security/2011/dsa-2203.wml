@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="91cc87cd2ab1d8f51ad044ea6f2e4a914db52491" mindelta="1"
 <define-tag description>opdatering af ssl-certifikat-sortliste</define-tag>
 <define-tag moreinfo>
 <p>Denne opdatering af Network Security Service-bibliotekerne markerer flere 

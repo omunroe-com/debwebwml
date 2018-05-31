@@ -4,7 +4,7 @@
 <define-tag pagetitle>Debian-projektet takker Mythic Beasts for lånt hardware</define-tag>
 <define-tag release_date>2016-05-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e72023bbec9cc13120b5c264dfa596a4f5e49942"
 
 <p>Debian fremstiller jævnligt mange varianter af installeringsmedier i form af 
 cd'cd, dvd'er samt live- eller cloud-filaftryk (<q>images</q>) til sine brugere.  

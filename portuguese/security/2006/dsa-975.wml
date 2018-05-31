@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="aaee277daecab2a519ea829493a15c7dbb6aee1a" maintainer="Marco Carvalho"
 <define-tag description>estouro de pilha</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner descobriu que atacantes podem disparar um estouro de pilha

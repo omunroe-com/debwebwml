@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="35bf1caae4ad38a4bf3740ba2bd334240881bd3e" maintainer="David Prévot"
 <define-tag description>Vérifications insuffisantes</define-tag>
 <define-tag moreinfo>
 <p>

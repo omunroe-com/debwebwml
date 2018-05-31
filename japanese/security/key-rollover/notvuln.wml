@@ -1,5 +1,5 @@
 #use wml::debian::template title="Key Rollover - 脆弱ではないパッケージ"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f87577c169654b68bc6fa088ed7ac85de174a693"
 
 <p>このページに挙げられているソフトウェアは暗号の鍵を使用していますが、
 鍵の生成や交換に OpenSSL を使用していないため、<a href="index">OpenSSL

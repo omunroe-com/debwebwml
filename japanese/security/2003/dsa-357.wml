@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="06070ffaa8d2babd3ba830ad8c8c25826217fe29"
 <define-tag description>リモート root 悪用</define-tag>
 <define-tag moreinfo>
 <p>iSEC Security Research が、wu-ftpd の fb_realpath 関数に境界を

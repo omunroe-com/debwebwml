@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="69878d7ddaa663d85fe89121ea5162b86e8da149" mindelta="1"
 <define-tag description>stakbaseret bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Will Dormann og Jared Allar opdagede at importfilteret til Lotus Word 

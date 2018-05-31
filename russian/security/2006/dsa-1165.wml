@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fa773aff79020fe9a333937f6da3d92ec2341edb" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Лайонел Эли Маман обнаружил уязвимость, связанную с безопасностью, в

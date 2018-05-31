@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="fc4d242fafe367ecd998d9bb939f87b79840c417" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>이 업데이트는 imagemagick(그래픽 소프트웨어 제품군)에서 여러 취약점을 고칩니다.

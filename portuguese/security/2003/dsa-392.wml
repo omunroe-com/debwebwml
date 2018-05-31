@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3872ed130c684a6446cccc8c8d0d2de263a3777c"
 <define-tag description>estouros de buffer, exposição de arquivos de diretórios</define-tag>
 <define-tag moreinfo>
 <p>Jens Steube relatou duas vulnerabilidades no webfs , um servidor HTTP leve

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="814cd4331924b2591032efcf88b28ebdbcd0fa93" maintainer="Juan M. Garcia"
 <define-tag description>escape no suficiente</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto que netrik, un navegador WWW en modo texto con los

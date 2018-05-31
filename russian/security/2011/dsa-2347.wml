@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e70852539c5e80b10bd7327d3c5d146358ba0840" maintainer="Lev Lamberov"
 <define-tag description>неверное утверждение</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что BIND, сервер DNS, аварийно завершает работу при обработке

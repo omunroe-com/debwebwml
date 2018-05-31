@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="08ce0d259bb4acc1bcffe41a9d81ab67181646ae"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Timo Warns さんによって、ユーザー空間で動作する IEEE 802.11 AP と

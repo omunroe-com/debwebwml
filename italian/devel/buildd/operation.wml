@@ -1,5 +1,5 @@
 #use wml::debian::template title="Funzionamento della rete di buildd" BARETITLE="true"
-#use wml::debian::translation-check translation="1.9" maintainer="Giovanni Mascellani"
+#use wml::debian::translation-check translation="4094875c3a7aafc988b5f218b0a629fab415552a" maintainer="Giovanni Mascellani"
 
 <p>Il cuore del sistema è il database di <tt>wanna-build</tt>, che tiene traccia
 delle versioni e degli stati di ogni pacchetto. <tt>quinn-diff</tt> confronta

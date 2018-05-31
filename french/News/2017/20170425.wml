@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="84ede1208c98808ea39a461f115525dd3a87a989" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Fermeture des services FTP publics</define-tag>
 <define-tag release_date>2017-04-25</define-tag>
 #use wml::debian::news

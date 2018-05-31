@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="321fb2685d888a6d59e8402688a6676c20d12c8b"
 <define-tag description>различные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Обнаружены четыре уязвимости в squirrelmail:</p>

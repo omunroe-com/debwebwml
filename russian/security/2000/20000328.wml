@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba8fdddc9e6cca16be38a6f60d1b61a79f80fc04" maintainer="Lev Lamberov"
 <define-tag moreinfo>Было сообщено о том, что dump с флагом прав доступа, позволяющим запускать
 эту программу от лица другого пользователя, уязвима к переполнению буфера, что может приводить к компрометации суперпользователя. Пакет Debian
 dump <strong>не</strong> поставляет dump с таким флагом прав доступа и

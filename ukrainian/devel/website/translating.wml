@@ -1,6 +1,6 @@
 #use wml::debian::template title="Переклад веб-сторінок Debian" BARETITLE=true
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.52" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="63debed7d9f6d7ea6c3e932aea334d4e00d16662" maintainer="Borys Yanovych"
 
 <p>Щоб максимально полегшити роботу перекладачів, сторінки створюються
 дещо відмінним способом, ніж той, що є звичним для вас. Веб-сторінки

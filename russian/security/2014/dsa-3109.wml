@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a5dc01e85d756b308679d475768c28b942dab1c2" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дмитрий Коваленко обнаружил, что сервер баз данных Firebird содержит

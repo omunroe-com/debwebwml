@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c7003d187d2b40d56a19686797312bf4dcd8d350" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Kashyap Thimmaraju et Bhargava Shastry ont découvert une vulnérabilité

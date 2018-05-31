@@ -1,6 +1,6 @@
 # From: Remy Jette <rjette@wpi.edu>
 # Ping: Sun, 27 Nov 2011 01:22:44 -0500 <6D3DA5228573C944AD4FF7DCF969165A0F637210@S281.admin.wpi.edu>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bfc58c999cac6249a63c5062b206bd7a0a731275" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Клуб разработки игр, Вустерский политехнический институт, Вустер, Массачусетс, США</define-tag>
 <define-tag webpage>http://gdc.wpi.edu/</define-tag>

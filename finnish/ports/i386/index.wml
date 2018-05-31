@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux x86-koneille" BARETITLE=true
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="d7a1bebb761de4a995b5873ec0da2d0ed1b57602"
 
 <p>Koska tällä arkkitehtuurilla on eniten kehittäjiä, ja Debian tuki tätä
 arkkitehtuuria ensimmäisenä, valtaosa Debianin yleisistä verkkosivuista

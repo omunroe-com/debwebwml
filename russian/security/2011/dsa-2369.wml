@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="638f772e4005b633863222746372aa69406c9d4e" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что libsoup, реализация библиотеки HTTP на языке C,

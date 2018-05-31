@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="d4f996b3a39d3128b43a58d08d1e171650e895d7"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>GNU/Linux や Unix 類似システム用の LanManager

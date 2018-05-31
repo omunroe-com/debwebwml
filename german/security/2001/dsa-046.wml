@@ -11,5 +11,5 @@ Paket, das in der zweiten Ausgabe korrigiert wurde.</p>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2001/dsa-046.data'
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 # Translator: Nowl Koethe, noel@koethe.net, 2001-05-16

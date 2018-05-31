@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="328226469086dd2b533ff74349e6dab4650e88ee"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Danny Lungstrom descobriu uma vulnerabilidade no chbg, uma

@@ -14,4 +14,4 @@ beliebigen Code auszuführen.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1585.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="589149960cb0989bd719ffaabd07bc6c7024a67e"

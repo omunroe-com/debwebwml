@@ -28,5 +28,5 @@
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f0803a6b1673f8be2dafc80ac6e9843989decbf3"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-09-01

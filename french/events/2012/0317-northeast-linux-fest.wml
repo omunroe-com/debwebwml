@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="d0276858a6cdcd61e11672fd12a5eab7796cfce2" maintainer="David Prévot"
 <define-tag abbr>NELinFest2012</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>2<sup>e</sup> Northeast Linux Fest annuelle</define-tag>

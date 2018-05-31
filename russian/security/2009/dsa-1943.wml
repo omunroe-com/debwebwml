@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="24e7bc23a3179fc4339a544943e6b63081c9a674" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка входных данных</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что OpenLDAP, свободная реализация протокола Lightweight

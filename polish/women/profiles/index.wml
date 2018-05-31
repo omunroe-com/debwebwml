@@ -1,6 +1,6 @@
 #use wml::debian::template title="Profile Kobiet Debiana"
 #use wml::debian::users_list
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5a7438ba6c106936987d94d82cdd2d43dcf55062"
 
 <:= get_users_list ('$(ENGLISHDIR)/women/profiles', '.' , '(?!index).*') :>
 

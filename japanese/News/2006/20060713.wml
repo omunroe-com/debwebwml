@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian サーバの侵害からの復旧について</define-tag>
 <define-tag release_date>2006-07-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <p>Debian サーバの核となっているものの一つが侵害後に再インストールされ、
 サービスが復旧されました。7月12日に gluck.debian.org というホストが 

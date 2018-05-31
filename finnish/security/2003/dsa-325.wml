@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a4d72057621c5964c17229ff7da0ab7bf592edba"
 <define-tag description>epäluotettava väliaikaistiedosto</define-tag>
 <define-tag moreinfo>
 <p>eldav, Emacsin WebDAV-asiakasohjelma, luo väliaikaistiedostot tekemättä

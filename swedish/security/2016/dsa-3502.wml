@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a6c798962f43746a4767ae766f78699525541612" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ralf Schlatterbeck upptäckte ett informationsläckage i roundup, ett

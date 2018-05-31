@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="ccfac441ce2e390723f47b0effba9aecbafef9c0"
 <define-tag moreinfo>
 La versión de nfs-sever distribuída con GNU/Linux 2.1 tenía un desbordamiento
 de búfer en fh_buildpath(). Asumía que la longitud total de un camino nunca se

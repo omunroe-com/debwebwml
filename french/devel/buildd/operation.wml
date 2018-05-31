@@ -1,5 +1,5 @@
 #use wml::debian::template title="Schéma des opérations réalisées par le réseau de serveurs d'empaquetage automatique" BARETITLE="true"
-#use wml::debian::translation-check translation="1.9" maintainer="Guillaume Delacour"
+#use wml::debian::translation-check translation="4094875c3a7aafc988b5f218b0a629fab415552a" maintainer="Guillaume Delacour"
 
 # Premier traducteur: Mohammed Adnène Trojette, 2005.
 

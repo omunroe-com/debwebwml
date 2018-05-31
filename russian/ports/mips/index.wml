@@ -1,5 +1,5 @@
 #use wml::debian::template title="Перенос на MIPS"
-#use wml::debian::translation-check translation="1.108" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f52508a0e26e4a1223819a3385c85011e25d81c1" maintainer="Lev Lamberov"
 
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::toc

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="15b943442abaaff118af5edc3bbeb2aac5cc21f3"
 <define-tag description>не производится очистка входного текста</define-tag>
 <define-tag moreinfo>
 <p>Евгений Демидов обнаружил потенциальную возможность переполнения буфера

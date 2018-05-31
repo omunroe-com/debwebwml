@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.startsiden.no/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="46436f34130a6e842f16216bbe89b4a936e6a2cb" maintainer="Cédric Boutillier"
 
 <p>
 Debian fonctionne actuellement sur tous nos serveurs externes et

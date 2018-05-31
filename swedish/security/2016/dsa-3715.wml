@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b8ee77acd70375b27f7838c171cdbb5fdd74a044" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera sajtöverskridande skriptsårbarheter har upptäckts i moin, en

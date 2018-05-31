@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e87526db9a07481f7bf360e1fb47503df7529914" mindelta="1"
 <define-tag description>felaktig certifikatverifikation</define-tag>
 <define-tag moreinfo>
 <p>Nikos Mavrogiannopoulos från Red Hat upptäckte ett problem med

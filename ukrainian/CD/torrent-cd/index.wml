@@ -4,7 +4,7 @@
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="1.33" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Borys Yanovych"
 
 <p><a href="http://uk.wikipedia.org/wiki/BitTorrent_%28%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%29">BitTorrent</a>&nbsp;— 
 це система завантаження типу <q>точка-точка</q> (peer-to-peer, p2p), оптимізована

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="7d70ccd4e40fd43e308b858256ab75d0c7fe6165" maintainer="Thomas Vincent"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Un dépassement de tampon a été découvert dans l'extension Radius pour PHP.

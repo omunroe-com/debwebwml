@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f3a36390285bc6cf25eb56b98f126f7c43668ca4" maintainer="Lev Lamberov"
 <define-tag description>форматная строка</define-tag>
 <define-tag moreinfo>
 <p>Кевин Финистер обнаружил уязвимость форматной строки в gpsdrive,

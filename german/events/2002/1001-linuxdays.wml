@@ -41,7 +41,7 @@
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 # $Id$
 <ul>
  <li><a href="http://www.linuxday.lu/">Linuxdays</a>

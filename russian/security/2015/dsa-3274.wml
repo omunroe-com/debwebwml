@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1436961903a3e91bd912064f095bfab11d9ea7f5" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джейсон Геффнер обнаружил переполнение буфера в эмуляции дисковода,

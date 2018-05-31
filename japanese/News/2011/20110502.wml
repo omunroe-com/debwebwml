@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="86309e51d2991d97afcdc8c9bafe86b25a1ff648"
 
 <define-tag pagetitle>Debian Women がソースからパッケージをビルドするチュートリアルを提案しています</define-tag>
 

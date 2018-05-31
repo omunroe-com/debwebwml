@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-08-26" SUMMARY="Debian は 17 才になります、<tt>packages.debian.org</tt> に載るスクリーンショット、ARM 移植版開発者からの一言"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl

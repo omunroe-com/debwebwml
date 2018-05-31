@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Fungeren als spiegelserver voor Debian-CD-images" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.22"
+#use wml::debian::translation-check translation="9915f121e7a3f4086a61e3fc27b4b2ca96b34ca7"
 
 # Last Translation Update by $Author$
 # Last Translation Update at $Date$

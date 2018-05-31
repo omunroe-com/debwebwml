@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0582fd3a0ade138088175e76bca4b908e2e0e9ac" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Штефан Роас обнаружил способ при определённых условиях вызвать переполнение буфера в DBD-FireBird,

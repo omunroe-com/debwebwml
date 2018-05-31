@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="David Prévot"
 <define-tag pagetitle>FAQ sur les brevets à l'intention des distributions communautaires maintenant disponible</define-tag>
 <define-tag release_date>2011-07-09</define-tag>
 #use wml::debian::news

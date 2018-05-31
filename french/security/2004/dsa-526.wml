@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="629ef1689813ef4e1a6999ebe40e28ce1a4b9c72" maintainer="DFS Task Force"
 <define-tag description>Plusieurs failles de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Deux failles de sécurité ont été découvertes dans webmin&nbsp;:</p>

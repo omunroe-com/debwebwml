@@ -1,6 +1,6 @@
 #use wml::debian::template title="Port su PowerPC (CHRP)" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/inst/menu.inc"
-#use wml::debian::translation-check translation="1.12" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="cf494cce15b1c5c14c9d7c7f2f6226e11abb143a" maintainer="Luca Monducci"
 
 <h1 class="center">Pagina su Debian GNU/Linux PowerPC CHRP</h1>
 

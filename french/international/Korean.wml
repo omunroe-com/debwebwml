@@ -1,6 +1,6 @@
 #use wml::debian::template title="Les pages Debian en coréen"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.36" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a30a29c623a41f5803982a065ce0b4b95007f03b" maintainer="Jean-Pierre Giraud"
 
 # This contents of this page is completely the responsibility of
 # the translation team

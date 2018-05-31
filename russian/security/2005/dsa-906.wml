@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="07172a28f4c57fadc36d28d4b0d5a5fe3910a9d4" maintainer="Lev Lamberov"
 <define-tag description>переполнения буфера</define-tag>
 <define-tag moreinfo>
 <p>Колин Лерой обнаружил несколько переполнений буфера в ряде

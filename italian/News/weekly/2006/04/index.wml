@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-01-24" SUMMARY="GNOME, Installazione, Kaffe, Forum, Copyright, GPLv3, Archivio, Copie, Non-code"
-#use wml::debian::translation-check translation="1.9" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Daniele Venzano"
 
 <p>Benvenuti al quarto numero di quest'anno di DWN, il notiziario settimanale 
 per la comunità Debian.  I gestori delle liste Debian hanno deciso di <a

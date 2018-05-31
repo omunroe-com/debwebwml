@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a6e0ac6e9ab858d820943bf1d42eb71dc030a6de" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Isaac Boukris opdagede at cURL, et bibliotek til URL-overførsel, genbrugte 

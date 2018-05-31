@@ -1,7 +1,7 @@
 # From: Jerome Kieffer <Jerome.Kieffer@esrf.fr>
 # 2014 Audit. Current as of: Dec 12, 2014 2014 Audit.
 # Reference: https://lists.debian.org/20141210074712.95b42c68018f91357757303b@esrf.fr
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bfed0c1fdfa73179dab2d1fa2f2bfc45c7a74f96" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>ESRF (Европейский комплекс синхротронного излучения), Гренобль, Франция</define-tag>
 <define-tag webpage>http://www.esrf.eu/</define-tag>

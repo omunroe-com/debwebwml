@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-08" SUMMARY="Eleição, Distribuição, APT, Empacotamento, Buildds, Manpages"
-#use wml::debian::translation-check translation="1.9" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo a décima edição deste ano da DWN, o periódico semanal para
 a comunidade Debian.  Vários desenvolvedores usaram o período de campanha

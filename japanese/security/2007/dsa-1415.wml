@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1950c925ce7c7db7dd1b57e7e518ffb5d998825c"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>プラットフォーム非依存の Tcl 用グラフィカルツールキットである Tk に

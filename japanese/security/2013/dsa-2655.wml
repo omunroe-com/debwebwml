@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="82372bb07e8bae43e3e5a8f905e5ea8f245a9223"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>クロスサイトスクリプティングおよびサービス拒否の脆弱性が複数、

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Các địa chỉ máy bản sao Debian trên toàn thế giới" BARETITLE=true
-#use wml::debian::translation-check translation="1.9" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Trần Ngọc Quân"
 
 <p>Debian được phân phối (<em>nhân bản</em>) trên hàng trăm
 máy chủ trên mạng Internet. Việc dùng các máy chủ ở gần sẽ gần như chắc chắn

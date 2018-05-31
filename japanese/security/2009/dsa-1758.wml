@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="74a0bb305c49bb01b982062b8b85e4b878211014"
 <define-tag description>安全でない設定ファイルの生成</define-tag>
 <define-tag moreinfo>
 <p>Leigh James さんにより、LDAP をネームサービスとして用いる NSSモジュール

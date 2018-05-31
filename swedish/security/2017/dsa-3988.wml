@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4078ce9be4e6c560b634ffd8581a35ab68dfb2df" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhet för heltalsspill har upptäckts i decode_digit() i

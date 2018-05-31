@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e1f5f617f456b2c966c15caab145cdbaa45f7178"
 <define-tag description>puskurin ylivuotoja ja muitakin vikoja</define-tag>
 <define-tag moreinfo>
 <p>SuSEn tietoturvaryhmä kävi läpi openldap2:n, Lightweight Directory

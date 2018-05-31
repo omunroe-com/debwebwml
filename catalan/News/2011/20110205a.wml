@@ -1,7 +1,7 @@
 <define-tag pagetitle>Llançament de Debian 6.0 <q>Squeeze</q></define-tag>
 <define-tag release_date>2011-02-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7" maintainer="Guillem Jover"
 
 <p>Després de 24 mesos de desenvolupament constant, el projecte Debian
 es complau d'anunciar la nova versió estable 6.0 (nom en clau <q>Squeeze</q>).

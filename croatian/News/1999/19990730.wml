@@ -1,7 +1,7 @@
 <define-tag pagetitle>Objavljena nova knjiga o instaliranju i korištenju Debiana</define-tag>
 <define-tag release_date>1999-07-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="118d3fa3a56bc1cf8a876d1b4756fef3a1074e24"
 
 <P>Ovog mjeseca je objavljena nova knjiga o distribuciji Debian Linux,
 naslovljena "Debian GNU/Linux: Guide to Installation and Usage". Oba autora,

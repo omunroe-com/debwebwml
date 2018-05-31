@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian vil begynde kun at bruge frie versioner af X Window-systemet</define-tag>
 <define-tag release_date>1998-04-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="72eb3583bf159710fceca5f40fc6b3b9a879d260"
 
 <p>Vi er kede af den nylige diskussion i <q>Open Group</q> om at udgive fremtidige 
 ydgaver af X som fri software &mdash; der vil være begrænsninger på kommerciel 

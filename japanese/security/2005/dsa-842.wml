@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="28d8ff585668c08044e137eaa95a16971cd9bd42"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser さんが XML-RPC ライブラリに脆弱性を発見しました。

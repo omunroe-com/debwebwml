@@ -15,4 +15,4 @@ kaksi symbolisten linkkien väärinkäyttöä:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-090.data"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="dc3baf57db823133101ebe2f79d512fea6a6ceae"

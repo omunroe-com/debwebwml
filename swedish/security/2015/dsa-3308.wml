@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a24ba87fe1779b04a0d456e03e776ee157d96cd2" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera problem har upptäckts i databasservern MySQL. Sårbarheterna

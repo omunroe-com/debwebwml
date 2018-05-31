@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b1ce682bfee4093db7595142e3a877f479d00591" mindelta="1"
 <define-tag description>exekvering av skadlig kod</define-tag>
 <define-tag moreinfo>
 <p>Matt Ezell från Oak Ridge National Labs rapporterade en sårbarhet i

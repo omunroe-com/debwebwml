@@ -27,7 +27,7 @@ gratis av organisatörerna.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="11b10fc13d77e917de4124bc7f6640be7f6ad9a1"
 #Related Links here (free form)
 <ul>
   <li><a href="http://www.itevents.co.uk/registration/LinuxShow2001.asp">Registrering</a><br>

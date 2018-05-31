@@ -33,5 +33,5 @@ Version 5.8.4-5 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-620.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="374b4fd05c0393dc1fc7219aead08d65a10110c1"
 # $Id$

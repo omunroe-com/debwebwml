@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="55071b013cdfa962682f9efcae6ba93571aa2647"
 <define-tag description>冗長なエラーメッセージ</define-tag>
 <define-tag moreinfo>
 <p>David Maciejak さんは、PHP ベースのマルチユーザカレンダー webcalendar

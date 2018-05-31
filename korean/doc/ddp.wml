@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="데비안 문서 프로젝트"
-#use wml::debian::translation-check translation="1.51" maintainer="Sebul"
+#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618" maintainer="Sebul"
 
 <p>데비안 문서 프로젝트는 모든 효과를 조정하고 합치기 위해 만들어져서
 데비안 시스템을 위한 더 나은 문서를 씁니다.

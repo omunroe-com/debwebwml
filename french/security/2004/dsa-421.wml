@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f06f5534220af15956eed59167a676aeb03ebcf5" maintainer="DFS Task Force"
 <define-tag description>Expiration de mot de passe</define-tag>
 <define-tag moreinfo>
 <p>David B Harris a découvert un problème avec <i>mod-auth-shadow</i>, un 

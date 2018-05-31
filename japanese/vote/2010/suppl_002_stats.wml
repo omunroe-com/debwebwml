@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian プロジェクトメンバー" BARETITLE="true"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="40afc8271706d0a96bc11e2cbd7f500fae74b55f"
 #include "$(ENGLISHDIR)/vote/style.inc"
 
 #include "vote_002_index.src"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="13666d94bfc85d2ea2e78d7967a53e907c47f695" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jayachandran Palanisamy från Cygate AB rapporterade att BIND, en

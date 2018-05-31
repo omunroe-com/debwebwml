@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Philipe Gaspar"
+#use wml::debian::translation-check translation="957a5dc4200257b74a86dad78adcca3ba46ea859" translation_maintainer="Philipe Gaspar"
 
 <define-tag description>erro no malloc (duplo free)</define-tag>
 <define-tag moreinfo>

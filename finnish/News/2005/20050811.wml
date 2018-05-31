@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-projekti lisää tietoturvatuen AMD64:lle</define-tag>
 <define-tag release_date>2005-08-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <p>Debian-projekti lisää tietoturvatuen vakaalle amd64-jakelulle. Tämä
 siirros ei vielä ole osa Debian-arkistoa, mutta se tulee sisältymään

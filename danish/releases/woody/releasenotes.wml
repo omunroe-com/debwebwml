@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Linux 3.0 -- udgivelsesbemærkninger" BARETITLE=true
 #use wml::debian::release
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/woody/release.data"
 

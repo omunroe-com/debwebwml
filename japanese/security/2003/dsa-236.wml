@@ -28,7 +28,7 @@ sid 向けの KDE 3.1 の新パッケージが今年予定されています。<
 <p>すぐに kdelibs パッケージをアップグレードすることを勧めます。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-236.data"
 # $Id$

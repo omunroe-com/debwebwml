@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6d32495d1ea3eeace4c0f4c6bbc7fc70d11a7ea7" mindelta="1"
 <define-tag description>bristande gränskontroller</define-tag>
 <define-tag moreinfo>
 <p>Matthew Hall upptäckte att flera anropare av funktionen

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="389c97a2bfdd9e923be0236a29e4933dbcaa7df5" maintainer="Lev Lamberov"
               <h3>Условие большинства</h3>
               <ul>
                 <li>Для варианта 1 требование большинства выполнено.

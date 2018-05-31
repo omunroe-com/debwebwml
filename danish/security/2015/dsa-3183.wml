@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b1aa801c7db9d214b58e5c7cb6d8b2cc7e891ea5" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sårbarheder blev opdaget i Movable Type, et bloggingsystem.  

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="495692747d0d79bf24e1d8480b29ce5b4d198cbb" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Кори Даплэнтис обнаружил переполнение буфера в языке программирования

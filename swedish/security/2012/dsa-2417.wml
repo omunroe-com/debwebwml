@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b9100c0cf0f50fdbcd068b3eb08e888b42d6f4c9" mindelta="1"
 <define-tag description>beräkningsöverbelastning</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att den interna hashningsrutinen i libxml2,

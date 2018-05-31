@@ -45,5 +45,5 @@ dafür.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-165.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a087948ecd4b3d7de2a1c29ef95becc2f44d4097"
 # $Id$

@@ -1,6 +1,6 @@
 #use wml::debian::ddp title="SVN проекта Debian Documentation"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.41" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="01b1789e9ebd40d1c24729fcfe79a6b1f4baf15b" maintainer="Lev Lamberov"
 
 <p>Веб-страницы и большинство текстов руководств проекта документации Debian
 хранятся на Subversion-сервере Debian по адресу <strong>svn.debian.org</strong>

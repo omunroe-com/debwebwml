@@ -1,5 +1,5 @@
 #use wml::debian::template title="Documentazione"
-#use wml::debian::translation-check translation="1.111" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="755893e6e0cd2bdf43a98ad6c7d58a4d54b496a6" maintainer="Mirco Scottà"
 
 <p>Una parte importante di qualsiasi sistema operativo è la documentazione,
 cioè i manuali tecnici che descrivono le operazioni e l'uso dei programmi.

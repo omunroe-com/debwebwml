@@ -1,5 +1,5 @@
 #use wml::debian::template title="Aggiornare a Debian 2.0 su macchine x86"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <P>Per evitare problemi nell'aggiornare i pacchetti via dpkg, dselect,
 	  o dftp (dovuti a possibili conflitti libc5/libc6), è raccomandata una speciale procedura di 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a6652b1047d53af15ac92038a327380ec2f4420b"
 <define-tag description>安全でない一時ファイル</define-tag>
 <define-tag moreinfo>
 <p>Puppet、中央集中設定管理ツールに安全でない一時ファイルの利用が発見されています。

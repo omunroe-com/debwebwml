@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Участники проекта Zend обнаружили уязвимость в предыдущих
 версиях PHP4 (оригинальная рекомендация касается версии 4.0.4, хотя эти ошибки
 присутствуют и в версии 4.0.3). Можно указать директивы PHP для отдельных

@@ -19,5 +19,5 @@ Problemen mit dem Build-Rechner noch nicht verfügbar, </p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1220.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="05a9dbb8e5e0a02f3fa8dc9bdb2b34bbfb9ea726"
 # $Id$

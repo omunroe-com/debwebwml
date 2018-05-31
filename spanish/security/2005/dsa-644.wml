@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="328226469086dd2b533ff74349e6dab4650e88ee" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Danny Lungstrom descubrió una vulnerabilidad en chbg, una

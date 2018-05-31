@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="84fe08732afdb0b35a4d06e866fd277fffa92a10" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что компонент GridFTP из Globus Toolkit, наборе

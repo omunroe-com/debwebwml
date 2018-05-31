@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d8625ed48e19c7534139950640bd8e9bede7ba60" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sårbarheder blev opdaget i tomcat8, en servlet- og JSP-motor.</p>

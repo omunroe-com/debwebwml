@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8b235e83cfc5d63e3cba964a9ddf757cffc4a26c"
 <define-tag description>informationsläckage</define-tag>
 <define-tag moreinfo>
 <p>Ett informationsläckage upptäcktes i mod_jk, Tomcat Connector-modulen

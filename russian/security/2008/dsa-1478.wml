@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="45aec85357e975d60f2bbd9bb94fbb55f9ccbf2d" maintainer="Lev Lamberov"
 <define-tag description>переполнения буфера</define-tag>
 <define-tag moreinfo>
 <p>Луиджи Аурима обнаружил два переполнения буфера в YaSSL, реализации SSL

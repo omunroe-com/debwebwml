@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6d1691ee39a60573b90940b3195da572558a024f" mindelta="1"
 <define-tag description>utökning av privilegier</define-tag>
 <define-tag moreinfo>
 <p>Jann Horn upptäckte att användare av utskriftsystemet CUPS som är medlemmar

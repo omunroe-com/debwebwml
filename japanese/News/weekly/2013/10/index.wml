@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-05-13" SUMMARY="Debian 7.0 <q>Wheezy</q> がリリースされました、DebConf11 と 12 のビデオ、雲の上の Debian、Google Compute Engine での Debian"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Rev: 5008 $
 # Status: [content-frozen]

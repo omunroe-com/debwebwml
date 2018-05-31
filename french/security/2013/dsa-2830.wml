@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="814d157b203d98f3fd3173fe6e5a02a4479e3dd0" maintainer="Thomas Vincent"
 <define-tag description>Script intersite</define-tag>
 <define-tag moreinfo>
 <p>Peter McLarnan a découvert que le composant d'internationalisation de

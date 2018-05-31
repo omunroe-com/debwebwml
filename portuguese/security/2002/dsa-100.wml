@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="53bf82f3a92612287a30149abda57760f0abddc6" translation_maintainer="Michelle Ribeiro"
 <define-tag description>Potencial buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>GOBBLES encontrou um buffer overflow no gzip que ocorre na compactação

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b1f5ad375059df39dcddbd9099d367b488a696c2" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Матиас Свенссон обнаружил, что tex-common, пакет, поставляющий ряд

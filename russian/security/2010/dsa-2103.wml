@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bfd0e3e7d0a8a46331a0740ef9138bb41ee2c2d0" maintainer="Lev Lamberov"
 <define-tag description>SQL-инъекция</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что smbind, инструмент на основе PHP для управления зонами DNS

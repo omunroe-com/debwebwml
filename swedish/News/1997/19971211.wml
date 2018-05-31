@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian finns nu förinstallerat på nya datorer</define-tag>
 <define-tag release_date>1997-12-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="bd54b8a556f5fd1e77a083b5862dd373f2bd01ae"
 
 <p>Det är med glädje vi kan tillkännage att en datortillverkare stöder Debian.
 <a href="http://www.varesearch.com/">VA Research</a> tillhandahåller Debian

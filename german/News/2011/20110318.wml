@@ -2,7 +2,7 @@
 # $Id$
 # $Rev: 1849 $
 # $Id$
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="15a2ca53d4acf1c3102c38853746de21c8221ed6"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2011-03-30
 
 <define-tag pagetitle>Debian Derivatives Exchange-Projekt gestartet</define-tag>

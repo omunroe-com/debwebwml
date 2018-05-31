@@ -50,7 +50,7 @@ die Ankündigung</a>.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # Translator: Tobias Quathamer <toddy@debian.org> 2010-01-13
 #Related Links here (free form)
 <ul>

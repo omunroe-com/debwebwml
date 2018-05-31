@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="75232755915a97a2fdf3cce209244f91c56788e4"
 <define-tag description>olvido al sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>H.D. Moore descubrió varias incidencias de seguridad en el

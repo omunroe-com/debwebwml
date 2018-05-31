@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="392b2a99cac7e665e8640c896de228b8f038afbc" maintainer="Simon Paillard"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Un dépassement d'entier pouvant entraîner un dépassement de tampon a été

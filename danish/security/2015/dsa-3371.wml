@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="74d9ddddb4dae2bf6ff6b7b470ebf92b3a55f808" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Frediano Ziglio fra Red Hat opdagede flere sårbarheder i spice, en klient og 

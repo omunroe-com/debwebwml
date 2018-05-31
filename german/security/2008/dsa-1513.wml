@@ -15,4 +15,4 @@ unter bestimmten Umständen fehl schlug.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1513.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a6b0285f6a5040ef4c396df0c80251e46872bc24"

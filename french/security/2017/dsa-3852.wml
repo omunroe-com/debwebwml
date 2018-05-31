@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="1b34ebcb4abd858338f9851b95efa5dbbf31104c" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Dawid Golunski et Filippo Cavallarin ont découvert que squirrelmail, une

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="678b72dec9c2c4e3846a02814aced8b4ed542c09" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Dépassement par le bas de mémoire tampon</define-tag>
 <define-tag moreinfo>

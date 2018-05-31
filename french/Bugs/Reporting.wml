@@ -1,5 +1,5 @@
 #use wml::debian::template title="Suivi des bogues Debian — signaler les bogues" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.86" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="ace5b9358f0f4839bfd54cee02fa21e6a68a0a09" maintainer="Jean-Pierre Giraud"
 
 # Translators:
 # Christophe Le Bars, 1999, 2000.

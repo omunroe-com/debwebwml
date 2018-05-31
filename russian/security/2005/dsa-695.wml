@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="08991cabba204bc5aaa77bc8013ffb339d98d7f1" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера, очистка входных данных, переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>В xli, просмотрщике изображений для X11, было обнаружено несколько

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="72bc1ed400ff8d1f93e3c8e8bfbf7f57f932323a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sikkerhedsproblemer er opdaget i virtualiseringsløsningen Xen, hvilket 

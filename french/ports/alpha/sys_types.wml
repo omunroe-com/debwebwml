@@ -1,6 +1,6 @@
 #use wml::debian::template title="Portage pour Alpha -- Types de système" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
-#use wml::debian::translation-check translation="1.23" maintainer="Thomas Marteau"
+#use wml::debian::translation-check translation="efe2a380651d51ff9da2564cfbc4359842f9b975" maintainer="Thomas Marteau"
 
 <p>
 Cette liste n'est probablement pas complète, donc, si vous remarquez des

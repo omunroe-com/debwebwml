@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="dff10a6dc0798ee5a85f0ca5b24e1678b36628a7"
 <define-tag description>puskurin ylivuoto</define-tag>
 <define-tag moreinfo>
 <p>Ingo Saitz havaitsi mikmodissa vian, joka voi aiheuttaa puskurin ylivuodon

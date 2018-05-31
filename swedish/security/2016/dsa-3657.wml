@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5bb49bea821a14324309d962cf7be536d0194d78" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Hanno Boeck och Marcin Noga upptäckte flera sårbarheter i

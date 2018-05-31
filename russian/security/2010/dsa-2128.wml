@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7acec469bb05eecc13fc65f91bde2ac9cdaa2db1" maintainer="Lev Lamberov"
 <define-tag description>неправильный доступ к памяти</define-tag>
 <define-tag moreinfo>
 <p>Буи Куанг Мин обнаружил, что libxml2, библиотека для грамматического разбора и

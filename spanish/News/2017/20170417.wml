@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="b7a122dcf8c7e6eadb6aa6711cf455d2e2644829"
 <define-tag pagetitle>Comunicado a propósito del arresto de Dmitry Bogatov</define-tag>
 <define-tag release_date>2017-04-17</define-tag>
 #use wml::debian::news

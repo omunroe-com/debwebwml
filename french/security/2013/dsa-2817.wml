@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="d0a3dccdfc2500264bddbf6deb3dd22cba2e0dc7" maintainer="Thomas Vincent"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Timo Warns a signalé plusieurs vulnérabilités de dépassement d'entier dans

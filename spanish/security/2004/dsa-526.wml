@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="629ef1689813ef4e1a6999ebe40e28ce1a4b9c72" maintainer="juanma"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron dos vulnerabilidades en webmin:</p>

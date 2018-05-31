@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a2d7ee4fb8b60f2e470df15f368f6f4fe96fa4b7"
 <define-tag description>フォーマット文字列バグ</define-tag>
 <define-tag moreinfo>
 <p>Ulf H&auml;rnhammar さんにより、電子メール機能を持つグループウェア

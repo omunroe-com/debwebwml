@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="495692747d0d79bf24e1d8480b29ce5b4d198cbb" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Cory Duplantis upptäckte ett buffertspill i programmeringsspråket R.

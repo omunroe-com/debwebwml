@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7afafa2d17073754ef6731f3f0f580e520dc0d56"
 <define-tag description>安全でない標準の設定</define-tag>
 <define-tag moreinfo>
 

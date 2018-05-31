@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="95dcbcbe97887a0730e528f9021fc3cab4056a36"
 <define-tag description>入力検証の誤り</define-tag>
 <define-tag moreinfo>
 <p>入力検証の誤りが 2 件、drupal および同梱されている

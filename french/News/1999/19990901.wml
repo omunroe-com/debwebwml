@@ -2,7 +2,7 @@
 choisi Linux</define-tag>
 <define-tag release_date>1999-09-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="1e0bd0e88975911443eb84bee96011e8b606f4f2" translation_maintainer="Martin Quinson"
 
 <p>Le musée des sciences de l'institut Franklin de Philadelphie a
 installé un serveur web basé sur Debian GNU/Linux. Il prendra part au

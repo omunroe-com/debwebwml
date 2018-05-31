@@ -19,4 +19,4 @@ korisnika "ftp", već ćete to morati učiniti ručno.
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19981126.data'
 
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914"

@@ -18,4 +18,4 @@ Version 1.2-18 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-981.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="951b11af3b21e8e016add91df549590eb7e1cd2f"

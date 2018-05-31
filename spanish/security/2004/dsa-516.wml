@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="5c64781b1121766b4e6cb6ac9cf16b7d3a4babcf" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un desbordamiento de buffer en el controlador ODBC

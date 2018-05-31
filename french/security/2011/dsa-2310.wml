@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="David Prévot"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2" maintainer="David Prévot"
 <define-tag description>Augmentation de droits, déni de service, fuite d'informations</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <define-tag pagetitle>Debian Med が生物情報科学の講習会を行います</define-tag>
 <define-tag release_date>2011-01-24</define-tag>
 #use wml::debian::news

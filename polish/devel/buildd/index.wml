@@ -1,5 +1,5 @@
 #use wml::debian::template title="Sieć Autobuilder"
-#use wml::debian::translation-check translation="1.27"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>Sieć autobuilder to narzędzie Debiana, które zarządza kompilacją 
 pakietów dla wszystkich architektur 

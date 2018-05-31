@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8831a6ef73e2ab78e0b8524ca931ddb9b98c501e" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Авирам Йеник и Дамьян Иванов обнаружили переполнение буфера в

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="72054e441b6c0ba87adde711c05f78fc9eab5d70" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de l'installateur de Debian Jessie RC 1</define-tag>
 <define-tag release_date>2015-01-26</define-tag>
 #use wml::debian::news

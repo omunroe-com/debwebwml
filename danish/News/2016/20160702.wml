@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Edu / Skolelinux Jessie — en komplet Linux-løsning til din skole</define-tag>
 <define-tag release_date>2016-07-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <p>Administrerer du et computerlokale eller et helt skolenetværk?  Vil du gerne 
 installere servere, arbejdsmaskiner og bærbare computer, som dernæst arbejder 

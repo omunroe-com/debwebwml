@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8b42e1150c36058439d0d39d8f62352b3d2ae990"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un error de desbordamiento de entero en la biblioteca

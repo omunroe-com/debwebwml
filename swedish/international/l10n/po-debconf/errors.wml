@@ -1,6 +1,6 @@
 #use wml::debian::template title="Fel i översatta Debconf-mallar"
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="b339a77580e06b206bedadd0ee4df7dd5cae5ef8"
 
 <p>
 Du kan titta i en <a href="errors-by-pkg">alfabetisk lista efter

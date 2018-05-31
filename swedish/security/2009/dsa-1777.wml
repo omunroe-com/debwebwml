@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="41a6d459c77258b2fd767f1a301b8b323a07e733"
 <define-tag description>filrättighetsfel</define-tag>
 <define-tag moreinfo>
 <p>Peter Palfrader upptäckte att i revisionskontrollsystemet Git

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Полезные ссылки"
-#use wml::debian::translation-check translation="1.43" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Lev Lamberov"
 
 <p>Список информации, доступной в сети, которая
 может заинтересовать пользователей Debian.</p>

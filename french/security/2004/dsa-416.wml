@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="470e798a24b01632de220f669ffafc23926d8f52" maintainer="DFS Task Force"
 
 <define-tag description>Dépassement de tampon, traversée de répertoires</define-tag>
 <define-tag moreinfo>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="183f34493020548dae4614d014b35e7779d02799"
 <define-tag description>LTS セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Daniel Genkin さんと Itamar Pipman さん、Eran Tromer さんが、libgcrypt11

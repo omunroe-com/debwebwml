@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="f2f900d7593295d8cc57f50a2eb3cb892840a57c"
 <define-tag moreinfo>
 En las versiones de paquetes PHP 4 anteriores a la versión 4.0.3, algunas
 cadenas de formato contenían errores que podían permitir que peticiones

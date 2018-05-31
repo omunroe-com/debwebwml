@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="21f474d96b019f7a7dd12553e8a417b12bae72da" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Đã khám phá ra rằng unattended-upgrades, một văn lệnh để tự động

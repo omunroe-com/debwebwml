@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="50dd416221c1adf9b4244db818a6dfd2164ed74b" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>

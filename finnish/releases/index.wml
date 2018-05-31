@@ -1,6 +1,6 @@
 # Initial translation by Tommi Vainikainen <thv@iki.fi> on 2000-07-20
 #use wml::debian::template title="Debianin julkaisut"
-#use wml::debian::translation-check translation="1.67"
+#use wml::debian::translation-check translation="84ca2bf484c253718b61ee4deff8b94f3a2088fd"
 #include "$(ENGLISHDIR)/releases/info"
 
 <p>Debian ylläpitää aktiivisesti aina vähintään kolmea julkaisua: 

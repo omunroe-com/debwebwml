@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="bf007c0a3ef2daa342c3139797752c3ad93f3b40" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Aleksandar Nikolic de Cisco Talos a découvert une vulnérabilité de

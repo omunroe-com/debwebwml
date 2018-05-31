@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-12-12" SUMMARY="No Ports, FOSDEM, Acronyms, Apache, Testing FAQ, KDE, Menus"
 # $Id$
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p><strong>더 이상 포트가 없나?</strong> 몇몇 사람이 왜 데비안 메인 웹 페이지에 <a href="https://www.debian.org/ports/">Ports</a> 링크를 더 이상
 포함시키지 않는지 <a href="https://lists.debian.org/debian-www-0112/msg00010.html">궁금해하고

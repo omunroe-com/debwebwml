@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e2bc2d8acb09c62700ded3606ff7d260af3c4ea7" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Flere lammelsesangrebssårbarheder (denial of service) blev opdaget i dcraw's 

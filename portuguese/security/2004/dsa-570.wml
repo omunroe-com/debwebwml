@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8eeaf1cf227e27c8f24c314772e7bbcddcf451aa"
 <define-tag description>estouro de inteiro</define-tag>
 <define-tag moreinfo>
 <p>Vários estouros de inteiros foram encontrados pelos autores da libpng,

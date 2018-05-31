@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="485eef469fe7877ac6cf81b448b6fc01c1219776" maintainer="juanma"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron dos vulnerabilidades en php4:</p>

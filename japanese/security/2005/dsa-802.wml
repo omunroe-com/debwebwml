@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ee14aef76a50691665fa23e346cf2b449ca4b69a"
 <define-tag description>安全でない一時ファイル</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner さんが、人気のあるバージョン管理システム CVS に収録されている cvsbug

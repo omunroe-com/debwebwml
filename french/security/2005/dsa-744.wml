@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="d498086c27fc1692c530ffd8132b58fea07ad246" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Sven Tantau a découvert un problème de sécurité dans fuse, un système de

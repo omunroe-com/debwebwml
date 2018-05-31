@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="43282716a946badce7e86317c3cf55122ee5f909" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jesse Hertz från Matasano Security upptäckte att Mercurial, ett

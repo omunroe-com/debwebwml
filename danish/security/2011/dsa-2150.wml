@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7dde7bbb865c6da3112d79fb7280410292cd64bf" mindelta="1"
 <define-tag description>unsalted adgangskodehashing</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Request Tracker, et sagssporingssystem, gemte adgangskoder i

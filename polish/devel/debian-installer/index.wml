@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian-Installer" NOHEADER="true"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.283"
+#use wml::debian::translation-check translation="f36546f515e33fb0e590b3db17a516bf3d605f5f"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 

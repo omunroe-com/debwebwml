@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-10-25" SUMMARY="Publication, Installateur, Démarrage, Empaquetage, teTeX, uClibc, cURL, PEAR, Archive"
-#use wml::debian::translation-check translation="1.19" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 43e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian. Jörg

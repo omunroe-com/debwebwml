@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1ed1b439e193379ba0d00a4fee98b13d791a83d1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В ядре Linux было обнаружено несколько уязвимостей, которые могут

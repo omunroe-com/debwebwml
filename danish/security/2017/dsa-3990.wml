@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="895228aa91fa0709a0412b20408670a5307725a5" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Klaus-Peter Junghann opdagede at utilstrækkelig validering af RTCP-pakker i

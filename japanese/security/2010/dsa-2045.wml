@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="92e9ed888e99577317aae1e23f3391110151cdb1"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Bob Clary, Dan Kaminsky および David Keeler の各氏により、Ogg プロジ

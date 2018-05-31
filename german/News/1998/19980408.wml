@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian wird nur freie Versionen des X Window Systems verwenden</define-tag>
 <define-tag release_date>1998-04-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="72eb3583bf159710fceca5f40fc6b3b9a879d260"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-03-30
 
 Wir sind betroffen, dass die <q>Open Group</q> vor kurzem entschieden hat,

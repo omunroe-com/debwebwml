@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c6626648f9ec5ca3dd577e95ec3e1735b4f841bd" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at funktionen clean_html() i lxml (pythonske bindinger til 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5bdbe463a83e372791e016f80df5e6988e2d46eb"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数のSQLインジェクション脆弱性が Mantis

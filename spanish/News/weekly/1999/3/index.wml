@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-1-18" SUMMARY="elecciones LPD; datos de Debian; mutt, ¿un lector de correo estándar?"
-#use wml::debian::translation-check translation="1.24"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>
 <b>Bienvenido</b> a la tercera edición de las noticias semanales de Debian,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3c38f14e389fee175d891dbf847f4ed0f3480959"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>シンプルで拡張可能な組込み用プログラミング言語

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="ef2979d0210ace9389b35cb8d47babaedcc6dc3e" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans Libvirt, une

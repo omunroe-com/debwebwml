@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="c40d6bb1794605d91a9e3560c308158776a396a3" maintainer="Thomas Vincent"
 <define-tag description>Décalage</define-tag>
 <define-tag moreinfo>
 <p>Jueri Aedla a découvert un décalage dans libxml2 qui pourrait mener à

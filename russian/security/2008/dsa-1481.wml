@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4558f273ac032088b2333235bdd8dedb8e808dd5" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что уязвимость, связанная с переходом в произвольный каталог, в CherryPy,

@@ -165,4 +165,4 @@ It is also possible that the RSA host key has just been changed.
 #include "$(ENGLISHDIR)/security/2008/dsa-1576.data"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2009-06-29
 # $Id$
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2"

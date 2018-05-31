@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="a9f35abf9e0700ad8bf451283d93138dea156a76" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Mehdi Oudad y Kevin Fernandez descubrieron un desbordamiento de buffer en la

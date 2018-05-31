@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian går med i Gnome-stiftelsen rådgivande nämnd</define-tag>
 <define-tag release_date>2000-11-21</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e0fd60f5cacbd093e972e0671d5608a6919342fd"
 
 <p>Debianprojektet har inbjudits att gå med i den nyligen skapade
 Gnome-stiftelsen rådgivande nämnd

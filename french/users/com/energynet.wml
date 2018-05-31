@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.energi.net.ua/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="3939e0489501e3c53ec910f94f13be38e8e00693" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons la version Etch de Debian sur trois serveurs réels et des

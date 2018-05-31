@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f32c33721cc135a8a3048b45257dd549162f897b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Marvin S. Addison opdagede at Jasig phpCAS, et PHP-bibliotek til 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="023e9a5865378046d0558188ac70e4f701b186d1" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Stunnel, ett program som är designat för att fungera som en universell

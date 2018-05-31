@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e7fa285577bcf2cb96aef9f3fd7e6e7c2e72a96f" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Mike Daskalakis rapporterede om en lammelsesangrebssårbarhed (denial of 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bd349ae60f5540d8044c2019c1b599ca1054f3d0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джонатан Грей и Станислав Питуча обнаружили ошибку утверждения в

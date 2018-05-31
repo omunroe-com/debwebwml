@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="da0b40fd12ebf6ec47384e175c1fdb48c45c7c85" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Никлаус Робертс обнаружил, что модуль Reupload для Gallery 2, приложения

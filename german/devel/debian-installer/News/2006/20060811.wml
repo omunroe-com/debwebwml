@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Installer Etch Beta 3</define-tag>
 <define-tag release_date>2006-08-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2006-08-19
 
 <p>

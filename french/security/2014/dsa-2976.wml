@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="aeaa87494ad1d7aface2b55c443e3b0f83dc131e" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Stéphane Chazelas a découvert que la bibliothèque C de GNU (<q>GNU C

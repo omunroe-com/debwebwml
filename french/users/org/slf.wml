@@ -9,7 +9,7 @@
 <define-tag webpage>http://www.slf.ch/index_FR</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="c6e20b7c1e7d6c22fa4476bc1d65d311da78a6c4" maintainer="Jean-Paul Guillonneau"
 
 <p>
   Nous avons installé Debian sur environ 30&nbsp;serveurs, qui fournissent des

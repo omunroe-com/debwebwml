@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7b32c3703a94baceb03e81c056a1888d722ff7e7" maintainer="Lev Lamberov"
 <define-tag description>уязвимость форматной строки и переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В libgtop-daemon было обнаружено две проблемы:</p>

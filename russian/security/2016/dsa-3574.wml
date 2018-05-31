@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a023a3b5c20931409f57a99217e823a4103431d4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Рок Стивенс, Эндрю Раф и Марсин <q>Icewall</q> Нога обнаружили

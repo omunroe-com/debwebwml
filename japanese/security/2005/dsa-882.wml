@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4e049f9a2b94b208f2f1052cfb38addcbb88d835"
 <define-tag description>弱い暗号化</define-tag>
 <define-tag moreinfo>
 <p>大岩寛さんが、Open Secure Socket Layer

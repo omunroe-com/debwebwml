@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c22815846fe17ffc835124ceed29f9af6b38acc6" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att krypteringsstödet i BSD telnetd innehåller

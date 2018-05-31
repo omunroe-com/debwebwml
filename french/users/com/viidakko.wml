@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.viidakko.fi/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="c0ea98381b4cbab10f39cc57e3bc2e05936fe536" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous avons choisi Debian comme système d'exploitation pour nos serveurs pour sa

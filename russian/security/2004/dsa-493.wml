@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b42cb47116246fd5b87f6cbaf0c65d0e0db968a1"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Обнаружена возможность переполнения буфера в коде прокси Socks-5

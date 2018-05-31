@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="adac8c6d64fbffb33a62a73454a133c208c9c483"
 <define-tag description>уязвимость строки формата</define-tag>
 <define-tag moreinfo>
 <p>Макс Возелер (Max Vozeler) обнаружил уязвимость строки формата

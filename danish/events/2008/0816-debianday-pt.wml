@@ -31,7 +31,7 @@ gave til de frivillige, der holder et fordrag eller står for en workshop.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="776147ba7a19330519ffb80d31b4bc8d57917b5a"
 #Related Links here (free form)
 <ul>
  <li><a href="http://debianday.debianpt.org">generelt DebianDay PT-websted</a></li>

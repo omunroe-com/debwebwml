@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-05-26" SUMMARY="ARM64 a besoin d'aide, edos.debian.net devient qa.debian.org/dose, brèves de l'équipe de portage de Debian GNU/Hurd"
-#use wml::debian::translation-check translation="1.2" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="8fb751b7c1cfbe3cd729a336b64ae649edfd8b09" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 5634 $

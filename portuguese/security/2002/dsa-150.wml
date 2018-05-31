@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="f6ae9c6fa541c206c8d12c29b0ac8abac42c3c60" translation_maintainer="Michelle Ribeiro"
 <define-tag description>illegal file exposition</define-tag>
 <define-tag moreinfo>
 <p>Um problema foi descoberto no Interchange, um sistema de e-commerce 

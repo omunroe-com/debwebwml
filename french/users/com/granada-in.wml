@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.granada-in.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="f6d13af12b5c646635a82f471c3c53c6dffaf1bb" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous avons un serveur web fonctionnant sous Debian Sarge. Nous avons choisi

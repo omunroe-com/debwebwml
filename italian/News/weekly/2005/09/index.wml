@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-01" SUMMARY="Rilascio, Cluster, LinuxWorld, Hurd, Pacchettizzazione, AMD64"
-#use wml::debian::translation-check translation="1.5" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Daniele Venzano"
 
 <p>Benvenuti a questo nono numero dell'anno di DWN, il notiziario settimanale per la comunità Debian. Harald Welte ha <a
 href="http://gnumonks.org/~laforge/weblog/2005/02/23#20050223-olsson-newrecord">informato</a> di una velocità di inoltro di pacchetti UDP pari a 2.1&nbsp;M pps (pacchetti al secondo) su quattro porte ethernet gigabit, che è un nuovo record per Linux. Dopo che <a

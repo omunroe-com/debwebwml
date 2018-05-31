@@ -1,5 +1,5 @@
 #use tmpl::debian-zh::template area=devel title="Debian 中国語プロジェクトでの開発" NOHEADER=yes
-#use wml::debian::translation-check translation="1.5" original="chinese"
+#use wml::debian::translation-check translation="33dcfee033cea706abfa78d56461996ecc7c5910" original="chinese"
 
 # $Id$
 

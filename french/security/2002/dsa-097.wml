@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="83bbdaca47faf6e5a1249a8be8bf6b2fd7bad78f" maintainer="Pierre Machard"
 <define-tag description>Exécution non contrôlée de programme</define-tag>
 <define-tag moreinfo>
 <p>Patrice Fournier a découvert un bogue dans toutes les versions d'Exim 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Informació sobre el llançament de Debian «lenny»"
-#use wml::debian::translation-check translation="1.11" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="4e9bfc3f9b5e9b62ce93fd57a8881406e3cf4969" maintainer="Guillem Jover"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/lenny/release.data"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="430313f59ed8b7598bfc4ce2a4ac80e433ec952c" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder blev opdaget i dissektorerne til GTPv2, ASN.1 BER, PPP CCP, 

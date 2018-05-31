@@ -1,5 +1,5 @@
 #use wml::debian::template title="Port di Debian su altre architetture"
-#use wml::debian::translation-check translation="1.135" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="9d24e98217211bca46ce3e754528e6a10f1d9f3e" maintainer="Luca Monducci"
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::toc
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0f47bd6608152dc71a0b0a2a41911e92de3c6b19" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В веб-браузере Mozilla Firefox были обнаружены многочисленные проблемы

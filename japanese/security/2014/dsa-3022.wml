@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4b7726c46d58282680c98dcc34e5eff9886cc43d"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が2件、URL転送ライブラリ cURL に発見されました。

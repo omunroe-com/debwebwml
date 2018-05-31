@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c38b7354e2e3985b5e78c05461ebfa2977adbc22"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Um problema foi descoberto no typespeed, um jogo que mede seu tempo

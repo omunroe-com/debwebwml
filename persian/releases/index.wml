@@ -1,6 +1,6 @@
 #use wml::debian::template title="انتشار های دبیان"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.57" maintainer="Mohammad Rafiee"
+#use wml::debian::translation-check translation="cb7bfe41594bf1ebe8232a14e678dc504bed7b28" maintainer="Mohammad Rafiee"
 
 <p>دبیان همواره حداقل سه 
 نسخه فعال درحال نگهداری دارد : <q>پایدار</q>، <q>آزمایشی</q> و

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cf5b2d5df2577e171e1851e77f89421be1c1bfac" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jens Mueller upptäckte att ett felaktigt reguljärt uttryck i rack-cors

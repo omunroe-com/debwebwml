@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="054d6aa915451335db9afc6cae077cafee7f8a4f" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un problema en el componente IMAP de Dovecot, un servidor

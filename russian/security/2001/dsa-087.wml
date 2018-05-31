@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d9936be5b6634cdf82735e3c74c6d7a798e84c0d" maintainer="Lev Lamberov"
 <define-tag description>удалённый эксплоит суперпользователя</define-tag>
 <define-tag moreinfo>
 CORE ST сообщает об эксплоите, который был подготовлен для ошибки в коде wu-ftpd

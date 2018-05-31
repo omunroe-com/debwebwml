@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="248fee27f86f8502d019aae579d225118927c633" maintainer="Lev Lamberov"
 <define-tag description>обход каталога</define-tag>
 <define-tag moreinfo>
 <p>Дэн Розенберг обнаружил, что Transmission, легковесный клиент для

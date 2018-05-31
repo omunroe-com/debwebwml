@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="24e7bc23a3179fc4339a544943e6b63081c9a674" maintainer="David Prévot"
 <define-tag description>Validation des entrées insuffisante</define-tag>
 <define-tag moreinfo>
 <p>

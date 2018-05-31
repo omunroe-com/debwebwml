@@ -1,7 +1,7 @@
 <define-tag pagetitle>Tillkännagivande av Linux Compatibility Standards-projektet</define-tag>
 <define-tag release_date>1998-08-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="03c72fbb3ca27f3e1f70767e3ebea58f8367f216"
 
 <p>Debian och Red Hat samarbetar om en skriven specifikation av
 <span lang=en><q>Linux Compatibility Standard</q></span> (LCS).

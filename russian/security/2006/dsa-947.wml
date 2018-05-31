@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba8fdddc9e6cca16be38a6f60d1b61a79f80fc04" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>В ClamAV, антивирусный сканер, было обнаружено переполнение

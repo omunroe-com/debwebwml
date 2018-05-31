@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="470e798a24b01632de220f669ffafc23926d8f52"
 <define-tag description>przepełnienie bufora, trawersacja katalogu</define-tag>
 <define-tag moreinfo>
 <p>Znaleziono naruszenie bezpieczeństwa w fsp, aplikacji klienckiej dla File Service Protocol (FSP), za pomoca którego użytkownik

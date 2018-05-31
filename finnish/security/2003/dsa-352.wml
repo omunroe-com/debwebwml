@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4c9f52eca4c264c310453d2f72dfd4e2a4667f3c"
 <define-tag description>epäluotettava väliaikaishakemisto</define-tag>
 <define-tag moreinfo>
 <p>fdclone luo /tmp-hakemistoon väliaikaisen työhakemiston. Kuitenkin, jos

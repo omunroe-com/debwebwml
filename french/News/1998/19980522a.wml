@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="b5b8a873eb30a241ba638b0eed790d5068944103" maintainer="Frédéric Bothamy"
 <define-tag pagetitle>Hamm (la version de développement de 2.0) est maintenant profondément gelée</define-tag>
 <define-tag release_date>1998-05-22</define-tag>
 #use wml::debian::news

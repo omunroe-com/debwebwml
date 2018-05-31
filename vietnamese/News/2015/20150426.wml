@@ -7,7 +7,7 @@
 
 
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="e7db9cd42f01c8a26a5e3851c34657393d20ee02" maintainer="Trần Ngọc Quân"
 
 <p>Sau 24 tháng nỗ lực phát triển, dự án Debian
 hãnh diện giới thiệu phiên bản ổn định 8 (tên mã <q>Jessie</q>)

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d0a6e9a5584d388a82a110dffca28ce81cce9185" mindelta="1"
 <define-tag description>utilstrækkelig validering af certifikat</define-tag>
 <define-tag moreinfo>
 <p>Vreixo Formoso opdagede, at libgdata, en bibliotek som anvendes til at tilgå 

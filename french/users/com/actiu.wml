@@ -6,7 +6,7 @@
 <define-tag webpage>http://www.actiu.net/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="606911b1849e026754e40455109ea50e71b1b918" maintainer="Jean-Pierre Giraud"
 
 <p>
 Nous utilisons Debian sur divers serveurs pour fournir des services courants

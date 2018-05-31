@@ -19,4 +19,4 @@ påvirkede nogle andre nethack-pakker.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-350.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="02d736890c059a4081d20b8724fffc631709a810"

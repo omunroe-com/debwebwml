@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-07-31" SUMMARY="Perustuksen valmistelua, Debianin käyttö helpommaksi, arkiston koko"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="556b589eeea9338a9287e12938aac123b7122af6"
 
 <p><strong>Perustuksen viat ja jäädytys.</strong> Anthony Towns
 lähetti vielä yhden <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="b5da47d9c39f16fd0e3ee3927523ff3828af15b7" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p> lsyncd, un démon pour synchroniser des répertoires locaux avec rsync,

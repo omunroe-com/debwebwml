@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ce34faa219b58d22674325aeacf83721d1cc4e9e" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Петр Скленар и Томас Хогер обнаружили, что отсутствие очистки ввода в

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="b124fdf9b975ae9a73d57efce575b4f378d1c241" maintainer="Thomas Vincent"
 <define-tag description>Vérification d'entrées manquante</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser a découvert que Horde, un environnent d'application web fournissant

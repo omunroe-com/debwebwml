@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Simon Paillard"
 <define-tag pagetitle>Mise à jour de Debian GNU/Linux&nbsp;4.0r3</define-tag>
 <define-tag release_date>2008-02-17</define-tag>
 #use wml::debian::news

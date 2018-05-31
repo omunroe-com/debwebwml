@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="1e7fecbf66a9b8e2089efc33b331289cade4c231" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Kostya Kortchinsky de l'équipe de sécurité de Google a découvert un défaut

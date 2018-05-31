@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f6bbc3208f775ca92a109cb5f4965f2805e417ed" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Калле Олави Ниемитало обнаружил, что elinks, продвинутый текстовый WWW-браузер,

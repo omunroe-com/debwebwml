@@ -1,7 +1,7 @@
 # From: Actiu Informatica  <informatica@actiu.net>
 # <https://lists.debian.org/debian-www/2015/08/msg00058.html>
 # Current as of August 27, 2015. 2015 Who Audit
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="606911b1849e026754e40455109ea50e71b1b918" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Actiu Informatica, Жирона, Испания</define-tag>
 <define-tag webpage>http://www.actiu.net/</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="817974f9e13d91b474004228c623c9e15ac6043f" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что ppm2tiff из инструментов TIFF, набора утилит

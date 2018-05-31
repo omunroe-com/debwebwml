@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-02-22" SUMMARY="Traduzione, Moria, FTPMaster, Unstable, APT, Pacchettizzazione, MPlayer, Licenza, Esposizioni"
-#use wml::debian::translation-check translation="1.6" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Daniele Venzano"
 
 <p>Benvenuti all'ottavo numero di quest'anno di DWN, il notiziario settimanale per la comunità
  Debian.  Manoj Srivastava ha <a

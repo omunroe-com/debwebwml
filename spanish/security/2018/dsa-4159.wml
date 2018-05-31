@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8947832720a0069e4a9e475fc6007c31845d1daa"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Santosh Ananthakrishnan descubrió un «uso tras liberar» en remctl, un servidor

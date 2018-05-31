@@ -9,4 +9,4 @@ Rättningarna bakåtanpassades från version 2.0.2.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19981112.data'
-#use wml::debian::translation-check translation="1.7" mindelta="1"
+#use wml::debian::translation-check translation="383616a4b93204bda26a195398334ebdb79aab8a" mindelta="1"

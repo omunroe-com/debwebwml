@@ -22,7 +22,7 @@ triple-DES が使用されている場合に、認証されていない
 <p>krb4 パッケージを早急にアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6cc2922c8710f3e7d410ee831cd52b7e7b2c7783"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-273.data"
 # $Id$

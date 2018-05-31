@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="09ac89f3433e0e7f6573906b133c968eff7d51fc" mindelta="1"
 <define-tag description>saknade begränsningskontroller</define-tag>
 <define-tag moreinfo>
 <p>

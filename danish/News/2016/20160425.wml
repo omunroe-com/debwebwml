@@ -5,7 +5,7 @@
 <define-tag pagetitle>Wheezys sikkerhedsunderstøttelse overgivet til LTS-holdet</define-tag>
 <define-tag release_date>2016-04-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d0ea677694003bb7561809045b401f5dc5e6c7b6"
 
 <p>Pr. 25. april, et år efter udgivelsen af Debian 8, alias <q>Jessie</q>, og 
 næsten tre år efter udgivelsen af Debian 7, alias <q>Wheezy</q>, ophører den 

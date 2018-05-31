@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="13c452a4e1790e20bd9ca8396296691eadf9703d" maintainer="Pierre Machard"
 <define-tag description>Débordement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Les développeurs de la bibliothèque PNG ont corrigé un débordement

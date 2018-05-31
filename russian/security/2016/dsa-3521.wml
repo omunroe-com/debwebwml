@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="04ccf54e686c878d04e13650f00eff1d7d4ceecc" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Лаэль Селье обнаружил два переполнения буфера в git, быстрой

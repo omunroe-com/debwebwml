@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914" maintainer="Lev Lamberov"
 <define-tag moreinfo>Михель Кэмпф сообщил о проблеме безопасности в slocate
 (безопасной версии locate, инструмента для быстрого обнаружения файлов в файловой системе) через
 bugtraq, проблема изначально была обнаружена zorgon. Он обнаружил, что в коде чтения базы данных

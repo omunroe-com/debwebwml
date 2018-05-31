@@ -39,5 +39,5 @@ Version 1.5+20050712+1.6rc2-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-760.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3b1ba3d70a5fe4590f1f656354a1598dc252b69f" mindelta="1"
 # $Id$

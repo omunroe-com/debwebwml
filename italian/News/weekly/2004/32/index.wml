@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-08-17" SUMMARY="Sicurezza, Installer, Sarge, Rilascio, QA, KDE, Licenze, Caccia al bug, SPI."
-#use wml::debian::translation-check translation="1.17" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="8dba7ef8c7a857e37f21ea9355d7c02d91438d91" maintainer="Daniele Venzano"
 
 <p>Benvenuti a questo trentaduesimo numero di DWN, il notiziario
 settimanale per la comunit&agrave; Debian. Interessante per installazioni su larga 

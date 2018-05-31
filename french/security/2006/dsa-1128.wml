@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="1da9fa47138b542908eaa5a9fa7b1614a1dc81e1" maintainer="Simon Paillard"
 <define-tag description>Erreur de permissions</define-tag>
 <define-tag moreinfo>
 <p>Yan Rong Ge a découvert que de mauvaises permissions sur une page de mémoire

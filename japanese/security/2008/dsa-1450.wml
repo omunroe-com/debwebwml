@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="fc479fc1adbbfbd03a2e856398019df8504f014e"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>各種システムユーティリティを収録した util-linux の mount 及び umount コ

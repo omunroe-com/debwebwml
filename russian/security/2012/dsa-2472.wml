@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5686d663fa02c80d74b5364e641c926c9b9be279" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Дэйв Лав обнаружил, что пользователи, которым разрешено добавлять работы в

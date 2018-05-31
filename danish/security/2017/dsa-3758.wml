@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e903c121068164d357267c5de99c1ea401060d55" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere lammelsesangrebssårbarheder (assertionfejl) blev opdaget i BIND, en 

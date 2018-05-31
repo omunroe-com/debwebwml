@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="023e9a5865378046d0558188ac70e4f701b186d1" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Stunnel, et program designet med det formål at fungere som en universel 

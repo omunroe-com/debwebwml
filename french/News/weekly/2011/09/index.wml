@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-08" SUMMARY="LinuxTag 2011, nouveau matériel pour stable, migration d'Alioth, nouveaux miroirs"
-#use wml::debian::translation-check translation="1.6" maintainer="David Prévot"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

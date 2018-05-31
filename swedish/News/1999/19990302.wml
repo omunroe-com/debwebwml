@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 2.1 försenad en vecka</define-tag>
 <define-tag release_date>1999-03-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1"
 
 <p>På grund av några oväntade sista-minuten-fel har utgivningsdatumet
 för Debian 2.1 framflyttats en vecka till den 9 mars klockan 00.00 GMT.

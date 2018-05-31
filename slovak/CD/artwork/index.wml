@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Výtvarné diela pre CD Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.41" maintainer="Stanislav Valasek"
+#use wml::debian::translation-check translation="95c243c81514bf27ba01b6a583d56cfc6d7947eb" maintainer="Stanislav Valasek"
 
 <p>Oficiálne výtvarné prvky pre aktuálne a predchádzajúce vydania nájdete na stránke wiki
 <a href="https://wiki.debian.org/DebianArt/Themes">s témami vzhľadu</a>.

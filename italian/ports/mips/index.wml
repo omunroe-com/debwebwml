@@ -1,7 +1,7 @@
 #use wml::debian::template title="Port su MIPS"
 
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.108" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="f52508a0e26e4a1223819a3385c85011e25d81c1" maintainer="Luca Monducci"
 #use wml::debian::toc
 
 <toc-display/>

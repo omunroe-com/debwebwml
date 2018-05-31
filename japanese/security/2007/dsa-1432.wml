@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="ac5c4014dbc29a07c74a0612cee1e0e687d3c6e5"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Alin Rad Pop さんにより、Carnegie Mellon 大の英語のリンク文法パーザ

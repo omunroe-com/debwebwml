@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="17d7878435c8b115028437e93749fd8ceaddf8ef" maintainer="Thomas Vincent"
 <define-tag description>Contrefaçon de requête intersite</define-tag>
 <define-tag moreinfo>
 <p>John Leitch a découvert une vulnérabilité dans eXtplorer, un gestionnaire de

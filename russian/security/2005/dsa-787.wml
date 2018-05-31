@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ecd3ea1de517c95d3d590b94ff8f40431043bfa4" maintainer="Lev Lamberov"
 <define-tag description>небезопасные права доступа и временный файл</define-tag>
 <define-tag moreinfo>
 <p>В backup-manager, утилите для резервного копирования из командной строки,

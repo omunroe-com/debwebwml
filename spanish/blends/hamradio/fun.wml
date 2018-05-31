@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Diversión con Hamradio"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4" maintainer="Laura Arjona Reina"
 
 <h2>Servidor <code>convers</code></h2>
 

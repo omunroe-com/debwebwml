@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="878b8653453da10270cec8f226b0c69d9e52fadc" maintainer="Thomas Vincent"
 <define-tag description>Augmentation de droits</define-tag>
 <define-tag moreinfo>
 <p>Rafal Wojtczuk de Bromium a découvert que FreeBSD ne traitait pas correctement

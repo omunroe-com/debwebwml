@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="a8c6fc3c00ffb53630befe18bdb9c382a62ca99c" maintainer="Juan M. Garcia"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto dos vulnerabilidades en el programa para archivar

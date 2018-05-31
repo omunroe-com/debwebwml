@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4602d1179902824fc0539d20c3540a007b57022a" maintainer="Lev Lamberov"
 <define-tag pagetitle>Imagination придаёт импульс переносам Debian на MIPS</define-tag>
 <define-tag release_date>2015-03-27</define-tag>
 #use wml::debian::news

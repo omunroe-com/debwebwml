@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="19f098a697632062c3f6ad7ad259ba35857ecb61"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Hendrik Weimer さんにより、多機能ウェブサーバログアナライザ awstats

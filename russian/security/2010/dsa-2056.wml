@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="740e6c76789e8b4b3fb6d0fd10922021ea051bd0" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что в ZoneCheck, инструменте для проверки настроек DNS,

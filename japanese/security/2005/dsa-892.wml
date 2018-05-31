@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="584faa2a3070dfb30c55f7f325441f91037b79a1"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>Peter Vreugdenhil さんが、機能豊富なウェブサーバログアナライザ awstats

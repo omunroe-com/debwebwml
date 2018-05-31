@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="85962590dd1eb1a1b2ddd8912a5943d7ab7391fa" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En fejl blev fundet i funktionen test_compr_eb(), hvilket gjorde det muligt 

@@ -2,7 +2,7 @@
 #use wml::debian::release_info
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.64" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="47d86c96b85f8e1033fb7474df52371a32c00fba" maintainer="Szabolcs Siebenhofer"
 
 
 <p>

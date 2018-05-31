@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba5a5b857826aaf25d1d3138960dbfd6cd097d8a" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Команда Security Response из Red Hat обнаружила, что libproxy, библиотека

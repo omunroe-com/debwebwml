@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="51f3259fdeb32f341cd287297af0d1211f3c6fa4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Hanno Boeck opdagede adskillige sårbarheder i medieframeworket GStreamer og 

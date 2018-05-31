@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="211ba76dadb8608aa2057e8b5e3f3dfbf1786aa6" maintainer="DFS Task Force"
 <define-tag description>Défaut de conception</define-tag>
 <define-tag moreinfo>
 <p>Paul Szabo a découvert une autre vulnérabilité dans la fonction

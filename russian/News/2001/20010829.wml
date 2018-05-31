@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e7cdfdf8979491a3a6b925f29c5e20fcd3df2377" maintainer="Lev Lamberov"
 <define-tag pagetitle>Debian для бывших пользователей BeOS</define-tag>
 <define-tag release_date>2001-8-29</define-tag>
 #use wml::debian::news

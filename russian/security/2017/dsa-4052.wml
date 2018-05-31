@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7b6dc54720ca5e28df30eb20a59941c50a897011" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Адам Коллар обнаружил, что Bazaar, простая в использовании распределённая система

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Realizar una auditoría"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.19" maintainer="juanma"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9" maintainer="juanma"
 
 <p>Esta página le proporciona un vistazo somero de los pasos que son necesarios
  para afrontar la auditoría de un paquete.</p>

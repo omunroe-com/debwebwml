@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-02-20" SUMMARY="Incoming, Woody の進行, SPAM, 自動構築, バグ退治パーティ, ミラー"
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian 週刊ニュースの
 今年の第 8 号へようこそ。Woody リリースについての期待できそうなニュースを

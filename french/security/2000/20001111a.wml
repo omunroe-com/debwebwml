@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Proton a reporté sur bugtraq que <i>tcsh</i> ne manipule pas correctement
 les documents. La version de <i>tcsh</i> qui est distribuée dans la Debian

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bf745a3ef1eb7cd1daba8f1a6d005ff60eacbab0" maintainer="Lev Lamberov"
 <define-tag description>переход в каталог</define-tag>
 <define-tag moreinfo>
 <p>Райнер Коирикиви обнаружил уязвимость, заключающуюся в переходе в каталог с помощью

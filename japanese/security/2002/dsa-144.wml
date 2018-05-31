@@ -19,5 +19,5 @@ Contents-Length を含む入力を適切に扱っておらず、処理を行う�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-144.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a5c75317f556eef873742423188f6cd21a549e88"
 # $Id$

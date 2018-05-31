@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8a1a7fbf132f6d6a303a82d91e6f87a872b5b6b9" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера, переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>В Squid, кеше Интернет-объектов, популярном кеширующем WWW-прокси, было

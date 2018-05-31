@@ -4,7 +4,7 @@
 <define-tag webpage>http://physics.harvard.edu/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="99eb329974163d5e7bb92a933b33bd86a94c91ff" maintainer="Nicolas Bertolissio"
 
 <p>
 Pratiquement tous les serveurs principaux du département fonctionnent sous

@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="DDP Users' Manuals"
-#use wml::debian::translation-check translation="1.140" maintainer="Samsul Ma'arif"
+#use wml::debian::translation-check translation="5fddf46019961c825d8f55902b8139881ee43bd9" maintainer="Samsul Ma'arif"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
 

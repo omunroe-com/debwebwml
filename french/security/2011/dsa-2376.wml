@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="1d55958b60d7cd05467c146ddfd7ff466991945d" maintainer="David Prévot"
 <define-tag description>Fichier PID non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>

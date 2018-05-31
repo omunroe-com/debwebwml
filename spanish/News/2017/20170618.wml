@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="9351381414f64cddb54ed5d723830ed63dabcc57"
 <define-tag pagetitle>Debian Edu / Skolelinux Stretch - una solución Linux completa para su centro escolar</define-tag>
 <define-tag release_date>2017-06-18</define-tag>
 #use wml::debian::news

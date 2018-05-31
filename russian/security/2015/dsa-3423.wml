@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3b5bbb81f585bd9346e4c8078aeb8248efa8abec" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Cacti, интерфейсе для RRDTool на языке PHP, было обнаружено несколько

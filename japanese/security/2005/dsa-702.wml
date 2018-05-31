@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5c6840cc105c58658be7b4dbfc4db6533065cf5b"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>広く利用されている画像操作ライブラリ ImageMagick に複数の欠陥が発見されました。

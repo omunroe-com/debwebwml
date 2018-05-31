@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4f2a4678d1f7446ddbbe6cc9cbb075c38942c7f5" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Майкл Мэффи обнаружил проблемы безопасности в OpenAFS, распределённой файловой системе.

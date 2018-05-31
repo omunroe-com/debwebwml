@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="20070eff26d1dd1352138ec65aa05e0ec5dc02d8" mindelta="1"
 <define-tag description>temporära filer, städar inte indata</define-tag>
 <define-tag moreinfo>
 <p>

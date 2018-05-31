@@ -26,5 +26,5 @@ Sales Manager<br>
 
 #use wml::debian::past_event
 #Related Links
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="7ead2c31aef16da7cd78e827a8a5508df2f33276"
 # Translator: Noèl Köthe, noel@koethe.net, 2001-07-26

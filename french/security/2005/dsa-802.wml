@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="ee14aef76a50691665fa23e346cf2b449ca4b69a" maintainer="Simon Paillard"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner a découvert que le programme cvsbug du paquet CVS, le

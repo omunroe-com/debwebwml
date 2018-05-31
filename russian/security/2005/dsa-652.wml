@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dec8be4144e85848ed052e0b195dc0e53a1ef727" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В unarj, несвободной утилите для разархивирования ARJ, было обнаружено

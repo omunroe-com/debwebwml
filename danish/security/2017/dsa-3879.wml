@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="48ceaea0b05a187d894440ee57cbe3fa8d9451ec" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sikkerhedssårbarheder er fundet i oSIP, et bibliotek der 

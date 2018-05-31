@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Debian CD'leri" BARETITLE=true
 #use wml::debian::release_info
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.35" maintainer="Onur Aslan"
+#use wml::debian::translation-check translation="d9920ae4704d3e6aebe73f36974292bc23743924" maintainer="Onur Aslan"
 
 <p>Debian CD'lerini almak istiyorsanız, aşağıdaki seçeneklere
 bir göz atın. Sorun çıkarsa, lütfen <a

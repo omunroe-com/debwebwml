@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e4c2e8116544c6f848e5240f8e84de0ad1a9c836" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Blake Burkhart upptäckte att Git-hjälparen git-remote-ext felaktigt

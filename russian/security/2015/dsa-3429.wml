@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="19c96ce1202ef80dc6cfe6f7b9f296dfb48042cb" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Михал Ковальчик и Адам Честер обнаружили, что отсутствие очистки

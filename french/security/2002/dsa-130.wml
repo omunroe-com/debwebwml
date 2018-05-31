@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="827ff392fe84fdd8b558605cd87e1c418f267a53" maintainer="Pierre Machard"
 <define-tag description>Erreur d'allocation mémoire provoquée à distance</define-tag>
 <define-tag moreinfo>
 <p>Les versions d'ethereal antérieures à la&nbsp;0.9.3 sont vulnérables

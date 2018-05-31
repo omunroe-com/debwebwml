@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-13" SUMMARY="Debian UK, COCOMO, testing, balíčkování, Planet, sponzorování, uživatelské značky"
 # $Id$
-#use wml::debian::translation-check translation="1.16" maintainer="Ondrej Cecak"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Ondrej Cecak"
 
 <p>Vítejte u&nbsp;letošního 37. vydání DWN, týdenního zpravodaje pro komunitu
 okolo Debianu. Wouter Verhelst <a

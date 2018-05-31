@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" mindelta="1"
+#use wml::debian::translation-check translation="9fd7099ca63b6a5a4e732a92c9744bd1504bad0a" mindelta="1"
 <define-tag description>överbelastningsattack utifrån</define-tag>
 <define-tag moreinfo>
 Versionen av BIND som medföljde Debian GNU/Linux 2.2 är sårbar för

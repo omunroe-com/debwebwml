@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e1f305e8aecadfcd2daeb9430cc649b0fc1dd5a9"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>x86ハードウェア用の完全仮想化環境である

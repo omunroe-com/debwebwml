@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ce41b08aab83194a31d5a0b21a14084ef84b2775"
 <define-tag description>無限ループ</define-tag>
 <define-tag moreinfo>
 <p>Ruby の上流開発元らがこの言語用の CGI モジュール中の問題を修正しました。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0c1c5f2db0e2331d36bc0dacc6ba3543967d3674"
 <define-tag description>odmowa usługi</define-tag>
 <define-tag moreinfo>
 <p>Dr. Stephen Henson (<email "steve@openssl.org">), używając pakietu testującego

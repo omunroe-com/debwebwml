@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="35fa86050267928e001f172784774e515191e88b" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Команда безопасности KDE обнаружила несколько уязвимостей в коде для чтения изображений

@@ -16,4 +16,4 @@ version 1.2.10-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2101.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e8bb5cba307ee9eaeacff8eb2404aab188a87e06" mindelta="1"

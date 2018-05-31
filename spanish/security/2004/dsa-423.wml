@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="04cd993097ff55003617295306d2d7397b71ba10"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Los encargados de IA-64 corrigierom varios problemas de seguridad en

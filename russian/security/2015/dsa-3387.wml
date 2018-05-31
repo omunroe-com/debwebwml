@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="eff28793b8c0b99f033b2a7a36d3f822cef6185c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джон Стампо обнаружил, что OpenAFS, распределённая файловая система, не полностью

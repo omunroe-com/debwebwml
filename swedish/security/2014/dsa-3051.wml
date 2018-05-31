@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="80fcedffb55ea69b4f47eb4500d1d2bcff2059f1" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Stefan Horst upptäckte en sårbarhet i Drupals databasabstraktions-API,

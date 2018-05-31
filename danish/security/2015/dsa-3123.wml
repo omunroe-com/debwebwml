@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e2a3312d34e7d627dae59cfac14dd9c91efbe8be" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sikkerhedsproblemer er fundet i binutils, en værktøjskasse til 

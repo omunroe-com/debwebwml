@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="956e4d593026c81577427b835d4ff87ee74b595d" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Mauvaise validation d'entrées</define-tag>
 <define-tag moreinfo>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ae2f8ebabf9b59c698233dafb743d584d11fb4d5" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Pedro Ribeiro og Huzaifa S. Sidhpurwala opdagede flere sårbarheder i 

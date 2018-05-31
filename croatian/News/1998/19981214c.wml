@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian projekt usvaja ustav</define-tag>
 <define-tag release_date>1998-12-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian projekt je usvojio ustav koji se može vidjeti na
 <a href="$(HOME)/devel/constitution">https://www.debian.org/devel/constitution</a>.

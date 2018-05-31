@@ -1,6 +1,6 @@
 #use wml::debian::template title="Banner Debian" BARETITLE=true
 #include "$(ENGLISHDIR)/banners/index.tags"
-#use wml::debian::translation-check translation="1.26" maintainer="Samsul Ma'arif"
+#use wml::debian::translation-check translation="d6c46dd9023a0dbb2bbdfc4f9233580b48e9ba73" maintainer="Samsul Ma'arif"
 #Original translation by Samsul Ma'arif <samsul@samsul.web.id>
 
 <p>Banner ini mungkin digunakan untuk iklan di laman web Debian.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d664553ed976467c5155d8b2c3397280f3821e85"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Marios Nicolaides descubrió que la extensión («plugin») PHP en uWSGI, un servidor

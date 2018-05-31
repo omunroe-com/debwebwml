@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian BTS - pseudo-pacotes" NOHEADER="true" NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.13" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="482085cdd7ca98a1a3142933dbb60ab68c4c36e5" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <H1>Pseudo-Pacotes do Sistema de Gerenciamento de Bugs Debian</H1>
 

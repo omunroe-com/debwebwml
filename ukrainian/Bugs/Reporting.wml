@@ -1,5 +1,5 @@
 #use wml::debian::template title="Система відслідковування помилок Debian — як повідомити про помилку" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.70" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="a358fff63ae7bf537c122b90c744471501d9cf19" maintainer="Borys Yanovych"
 
 <h1>Як повідомити про помилку в Debian за допомогою reportbug</h1>
 

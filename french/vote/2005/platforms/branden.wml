@@ -1,5 +1,5 @@
 #use wml::debian::template title="Programme de Branden Robinson" BARETITLE="true" NOHEADER="true"
-#use wml::debian::translation-check translation="1.5" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="a2610c82c76ab83c26b4ace7a22f8dfe78b2729d" maintainer="Nicolas Bertolissio"
 #include "$(ENGLISHDIR)/vote/style.inc"
 
 <div style="text-align: center">

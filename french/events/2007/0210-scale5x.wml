@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="a8c2efe7f88347dfdf6cca2cc86f6199a54f3742" maintainer="Nicolas Bertolissio"
 
 <define-tag abbr>SCALE 5x</define-tag>
 <define-tag year>2007</define-tag>

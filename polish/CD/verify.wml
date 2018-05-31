@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Weryfikacja autentyczności płyt CD Debiana" BARETITLE=true
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d9920ae4704d3e6aebe73f36974292bc23743924"
 
 <p>
 Do oficjalnych wydań płyt CD dodawane są podpisane pliki 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Stati di wanna-build: una spiegazione" BARETITLE="true"
-#use wml::debian::translation-check translation="1.21" maintainer="Giovanni Mascellani"
+#use wml::debian::translation-check translation="1d141e6d199934e6f76dfc34f5fef8895fb35fcf" maintainer="Giovanni Mascellani"
 
 <p>Questa pagina tenta di spiegare qual è il significato di ciascuno degli stati
 di wanna-build e cosa succede ad un pacchetto quando è in ciascuno stato. È

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e86681c44c0b2e865637928ad943a25078cbf221" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Man opdagedem at Expat, et C-bibliotek til fortolkning af XML, var sårbar 

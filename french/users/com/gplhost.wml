@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.gplhost.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.5" maintainer="Pierre-Louis Vignot"
+#use wml::debian::translation-check translation="18c45db37bf7de6bf8536dacd123d22cc42ee5d3" maintainer="Pierre-Louis Vignot"
 
 <p>
 GPLHost exploite environ 100 serveurs qui fonctionnent (presque) tous sous Debian.

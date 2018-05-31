@@ -24,7 +24,7 @@ att bevista det.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="3e6e9589612760b5a0166be1ad0a5b902580f257"
 #Related Links here (free form)
 <ul>
  <li><A HREF="http://www.hpworld.org/conference/hpworld99/sessions/sn416/">

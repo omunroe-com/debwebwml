@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="57522ed06a3de36e4fe5fc3386728a4813c077db" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Nous avons reçu un rapport comme quoi <i>premail</i> utilise des fichiers
 temporaires dans <i>/tmp</i> et ce en utilisant des méthodes non sécurisées

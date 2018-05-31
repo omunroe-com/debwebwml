@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bd210e2f349f93b8afaa888b5f2727cc53b8e682"
 <define-tag description>städar inte indata</define-tag>
 <define-tag moreinfo>
 <p>Det upptäcktes att xapian-omega, ett CGI-gränssnitt för sökning i xapian-databaser,

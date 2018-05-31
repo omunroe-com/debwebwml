@@ -1,6 +1,6 @@
 # From: Professor D. J. Guan <guan@cse.nsysu.edu.tw>
 # Ping: Sun, 29 Apr 2012 09:54:55 +0800	<002a01cd25ab$12f788a0$38e699e0$@cse.nsysu.edu.tw>
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b957ec2d7cb968ef937a57cd39205b457ae412d0" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Лаборатория информационной безопасности, Департамент компьютерных наук, Национальный университет им. Сунь Ятсена, Тайвань</define-tag>
 <define-tag webpage>http://isl.cse.nsysu.edu.tw/</define-tag>

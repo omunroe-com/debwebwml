@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b24431ababc4fc9b7e3e2dd318ba982706802266"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Markus Oberhumer さんが、ファイルの圧縮、伸張に利用されるライブラリである

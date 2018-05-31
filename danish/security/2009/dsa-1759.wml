@@ -19,4 +19,4 @@ version 4.2.4-5+lenny1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1759.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="6afa0aa84260ae1468c97999d716ca879170cdaa" mindelta="1"

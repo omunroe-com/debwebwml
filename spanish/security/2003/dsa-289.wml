@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8bf3531048a034670269cb787d10b871b1a16925"
 <define-tag description>redimensionado de memoria incorrecto</define-tag>
 <define-tag moreinfo>
 <p>Sam Hocevar descubrió un problema de seguridad en rinetd, un servidor de

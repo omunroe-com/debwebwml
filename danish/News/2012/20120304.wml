@@ -3,7 +3,7 @@
 <define-tag pagetitle>Gør DebConf12 til en succes: Donér eller bliv sponsor</define-tag>
 <define-tag release_date>2012-03-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektets årlige konference nærmer sig så småt.  Siden år 2000 har 
 DebConf besøgt forskellige steder i verden og finder i år sted i Managua, 

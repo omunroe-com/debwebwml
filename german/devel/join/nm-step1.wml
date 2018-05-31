@@ -1,6 +1,6 @@
 #use wml::debian::template title="Schritt 1: Bewerbung" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.26"
+#use wml::debian::translation-check translation="0f3581ea8ff22d12b1665c2fb885ea6ccfe11f1c"
 # $Id$
 # Original-Translator: Frank Lichtenheld, frank@lichtenheld.de, 2003-03-04
 # Translator: Helge Kreutzmann, <debian@helgefjell.de>, 2005-09-30

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="8f44dade4fb2a0c9e4c8df56c1338451575b0d27" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Les ACL basées sur les motifs dans le courtier MQTT Mosquitto pourraient

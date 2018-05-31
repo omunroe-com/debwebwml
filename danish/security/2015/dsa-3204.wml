@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="77ed33d28e94c8cc1d61415552d1d3d6211fd56a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Daniel Chatfield opdagede at python-django, et Python-webudviklingsframework 

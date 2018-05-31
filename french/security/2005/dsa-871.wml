@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="34c55345d6786a4ac7fd763622da12933134bd3c" maintainer="Simon Paillard"
 <define-tag description>Chaîne de formatage</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp a découvert deux vulnérabilités des chaînes de formatage

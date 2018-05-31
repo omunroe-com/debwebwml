@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b6106efde23a1a3441a92b01a33c86c96a4f0c52"
 <define-tag pagetitle>RC 1 av Stretch-utgåvan av Debian Installer</define-tag>
 <define-tag release_date>2017-01-15</define-tag>
 #use wml::debian::news

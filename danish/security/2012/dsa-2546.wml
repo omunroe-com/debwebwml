@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="301c94628232b53ee41a0d3162065bdb4f9ce778" mindelta="1"
 <define-tag description>stakbaseret bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Timo Warns opdagede, at håndteringen af EAP-TLS i FreeRADIUS, en højtydende 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-07-04" SUMMARY="Python, Planeta Espanhol, DWN, Debian Live, DPL, Flash, LSB"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <p>Bem vindo à vigésima sétima edição da DWN, o periódico semanal para
 a comunidade Debian.  Andreas Barth <a

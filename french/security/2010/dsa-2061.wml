@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="dda59a527ea70166e95d5d28bf712840d7516732" maintainer="David Prévot"
 <define-tag description>Corruption de mémoire</define-tag>
 <define-tag moreinfo>
 <p>

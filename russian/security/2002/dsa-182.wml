@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b77a9ed31d1624d5e59b5b4ac87262c7e61d1673" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Zen-parse обнаружил переполнение буфера в gv, программе для просмотра

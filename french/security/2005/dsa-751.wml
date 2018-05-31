@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8045e409cf0d984e0830131382e10936d4c4da8d" maintainer="Simon Paillard"
 <define-tag description>Usurpation d'adresse IP</define-tag>
 <define-tag moreinfo>
 <p>Les développeurs amont ont découvert un bogue dans le code de résolution DNS

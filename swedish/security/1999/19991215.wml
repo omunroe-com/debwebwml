@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240"
 <define-tag description>buffertspill i qpopper</define-tag>
 <define-tag moreinfo> Ett buffertspill har rapporterats i
 betaversionen av Qualcomms qpopper version 3.  Denna version av

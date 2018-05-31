@@ -1,6 +1,6 @@
 # Status: [open-for-edit]
 # $Rev: 4401 $
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <define-tag pagetitle>Помогите нам выпустить <q>Wheezy</q>: участвуйте в нашем BSP-марафоне</define-tag>
 
@@ -8,7 +8,7 @@
 ## that it should also be reviewed and translated
 <define-tag release_date>2012-11-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Lev Lamberov"
 
 
 <p>

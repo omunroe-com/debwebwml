@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cfd287f5068aac1e849e6a9c60f8cd18d5215c9a"
 <define-tag description>przepełnienie bufora</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp odkrył kilka naruszeń bezpieczeństwa typu przepełnienie bufora

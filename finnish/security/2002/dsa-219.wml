@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="76a324c61bb4667b0a06505f93e9e3afd3da53d2"
 <define-tag description>etäkomennon suorittaminen</define-tag>
 <define-tag moreinfo>
 <p>Simon Kelly havaitsi haavoittuvuuden dhcpcd:ssä, RFC2131- ja

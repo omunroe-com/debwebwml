@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Рисунки для компакт-дисків Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.39" maintainer="Eugeniy Meshcheryakov"
+#use wml::debian::translation-check translation="0f56985fe2aa4e3c2d23cd2da38f210d59cf15a8" maintainer="Eugeniy Meshcheryakov"
 
 <p>Якщо ви створили власні рисунки для обкладинок компакт-дисків і хочете
 поділитися ними, <a

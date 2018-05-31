@@ -1,5 +1,5 @@
 #use wml::debian::template title="Использование CVS с пакетами Debian"
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="96f316771fbc3b1856dfd14bb8d08815a3c6a843" maintainer="Lev Lamberov"
 
 <p>Этот короткий документ предназначен для того, чтобы помочь в
 переводе пакетов под управление CVS. Вероятно, это

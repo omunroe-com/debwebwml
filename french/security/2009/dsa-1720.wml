@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="efe2a380651d51ff9da2564cfbc4359842f9b975" maintainer="Jean-Edouard Babin"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités distantes ont été découvertes dans le gestionnaire

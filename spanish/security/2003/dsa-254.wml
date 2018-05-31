@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="421f2075349590201c403c21bf545e4577937a94"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto una vulnerabilidad en NANOG traceroute, una versión

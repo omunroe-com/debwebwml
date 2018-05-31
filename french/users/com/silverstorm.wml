@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.silverstorm.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="9ea3b8cd4aa9655f158ff127d9ddf5e80583f8fa" maintainer="Nicolas Bertolissio"
 
 <p>
 SilverStorm fait fonctionner la majeure partie de son réseau et de ses serveurs

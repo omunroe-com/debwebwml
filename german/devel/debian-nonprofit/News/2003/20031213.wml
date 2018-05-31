@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-NP auf dem Weltgipfel zur Informationsgesellschaft</define-tag>
 <define-tag release_date>2003-12-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="57e257fa32ad4ee431a219bb7288b5262082357a"
 # $Id$
 
 <h2>Weltgipfel zur Informationsgesellschaft</h2>

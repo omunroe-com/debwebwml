@@ -21,4 +21,4 @@ betroffen.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1913.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="908a5e8ecb671929e618239c6fcf8420432a37fe"

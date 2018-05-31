@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="f99a932b5d8d6168ba8fe6e611c81cb247d244db" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert que le webmail Squirrelmail n'effectuait pas une

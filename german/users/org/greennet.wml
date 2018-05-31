@@ -1,7 +1,7 @@
 # From: Michael Moritz <michael@gn.apc.org>
 # 2014 Audit. Current as of: Dec 12, 2014
 # Email: https://lists.debian.org/5489AD48.2090702@gn.apc.org
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bfed0c1fdfa73179dab2d1fa2f2bfc45c7a74f96"
 # Translation: Helge Kreutzmann <debian@helgefjell.de> 2008-06-02
 
 <define-tag pagetitle>GreenNet Ltd., UK</define-tag>

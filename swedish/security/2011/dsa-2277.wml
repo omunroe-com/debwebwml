@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="46bf6720092b83042138166918649fa269497bc5" mindelta="1"
 <define-tag description>stack-baserat buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Det har upptäckts att xml-security-c, en implementation av specifikationerna

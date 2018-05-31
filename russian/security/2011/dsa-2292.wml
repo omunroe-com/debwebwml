@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ac94fa8eb3f65938712e862c7c89531b7e209cd6" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Дэвид Зич обнаружил, что ISC DHCP аварийно завершает свою работу при обработке

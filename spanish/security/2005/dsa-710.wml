@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="942b5c301b869b49f1d7528fa79c6d728257cb67" maintainer="juanma"
 <define-tag description>desreferencia de puntero nulo</define-tag>
 <define-tag moreinfo>
 <p>Alan Cox descubrió un problema en gtkhtml, un widget que

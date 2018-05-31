@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="18d5f46cf939eb6e73e520e85db0a333f08d64ea" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ник Уэллхофер обнаружил, что функция xsltFormatNumberConversion

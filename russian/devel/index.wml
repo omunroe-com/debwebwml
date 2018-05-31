@@ -1,5 +1,5 @@
 #use wml::debian::template title="Уголок разработчика Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.251" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="83e7c9d3117e07a0acc4360149be71547b0ec7a7" maintainer="Lev Lamberov"
 
 <p>Информация на этой странице, хотя и является общедоступной, интересна,
 прежде всего, разработчикам Debian.</p>

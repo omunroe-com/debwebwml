@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="98453cc8869027b4695d104b83f4acf9d4369b68" maintainer="Juraj Kubelka"
 <define-tag description>přetečení bufferu</define-tag>
 <define-tag moreinfo>
 <p>Danny Lungstrom objevil dvě přetečení bufferu v&nbsp;pcal, programu

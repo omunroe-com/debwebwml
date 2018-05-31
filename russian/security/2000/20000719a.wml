@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версия nfs-common, поставляемая в составе ещё не выпущенного
 Debian GNU/Linux 2.2 (potato), а также в составе
 нестабильного выпуска (woody) содержит удалённую уязвимость суперпользователя. В настоящее

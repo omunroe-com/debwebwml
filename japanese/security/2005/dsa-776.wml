@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="d36affe7a06c539365cdce017f6f477099838a04"
 <define-tag description>整数オーバフロー、無限ループ</define-tag>
 <define-tag moreinfo>
 <p>複数のバグが、メールサーバと協調して添付ファイルのスキャンを行うように設計された

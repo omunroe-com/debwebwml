@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e57e8a7d527825d1c59f9a76988b3333337eab66" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Альваро Мунос обнаружил инъекцию внешней сущности XML (XXE) в

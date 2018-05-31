@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cd1774d717aefd6053036edf9a84fa6b318f61a2" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sårbarheder blev opdaget i dissektorer/fortolkerne af SSL/TLS og 

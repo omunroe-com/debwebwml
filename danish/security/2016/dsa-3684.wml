@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="511449358990d64100b8cf6c2ac85f964eb84c59" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Pali Rohar opdagede at libdbd-mysql-perl, Perls DBI-databasedriver til MySQL 

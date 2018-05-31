@@ -1,7 +1,7 @@
 <define-tag pagetitle>Сервер Debian восстановлен после взлома</define-tag>
 <define-tag release_date>2006-07-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <p>Один из основных серверов Debian был переустановлен после взлома, и
 на нём были восстановлены сервисы. 12-го июля сервер gluck.debian.org был

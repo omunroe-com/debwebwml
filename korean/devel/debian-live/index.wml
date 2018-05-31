@@ -1,5 +1,5 @@
 #use wml::debian::template title="데비안 라이브" NOHEADER="true"
-#use wml::debian::translation-check translation="1.9" maintainer="Sebul"
+#use wml::debian::translation-check translation="8377a51d59273f2581a58118cb3505bcdc6fce1c" maintainer="Sebul"
 
 <h1>데비안 라이브 프로젝트</h1>
 

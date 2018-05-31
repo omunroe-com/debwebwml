@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a6e86ace0a17d6db21288f87a049a09a355768f1" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans opdagede at GStreamer-plugin'en til dekodning af VMwares screen 

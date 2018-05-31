@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-27" SUMMARY="Avvio, Librerie, libc5, pacchettizzazione, OpenSolaris, NTP"
-#use wml::debian::translation-check translation="1.9" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Daniele Venzano"
 
 <p>Benvenuti a questo trentanovesimo numero dell'anno in corso di DWN, il 
 notiziario settimanale per la comunità Debian.  Ben Hutchings ha <a

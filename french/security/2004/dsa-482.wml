@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f3246816448a10b7a691439956a118dc0f6bfb46" maintainer="DFS Task Force"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs problèmes sérieux ont été découverts dans le noyau Linux.

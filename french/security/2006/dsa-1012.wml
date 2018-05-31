@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="4e0e82d1d9d76979b4ad4f1a974d63fe43940610" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Un dépassement de tampon dans le traitement des paramètres fournis en ligne

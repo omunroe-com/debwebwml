@@ -1,7 +1,7 @@
 <define-tag pagetitle>Il progetto Debian cerca donazioni di hardware</define-tag>
 <define-tag release_date>2009-02-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Luca Monducci"
 
 <h2>Il progetto Debian è alla ricerca di donazioni di hardware</h2>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9869f562bb6d7a2d6e684cd646d6f93489262840"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Jonas Klempel informó de que tomcat-native, una biblioteca que da a Tomcat

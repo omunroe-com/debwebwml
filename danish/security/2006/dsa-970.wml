@@ -17,4 +17,4 @@ version 2.0.6-1 of kronolith2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-970.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5268204b6238b925e764d60124ff3251891f8475" mindelta="1"

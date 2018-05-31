@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="4e0b93b83f0b8c25828b4aa60e8c5d1698535ad1" maintainer="Simon Paillard"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;infamous41md&nbsp;» et Chris Evans ont découvert plusieurs

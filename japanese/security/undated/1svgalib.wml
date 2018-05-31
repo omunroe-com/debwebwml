@@ -16,4 +16,4 @@ svgalib 1.2.10 とそれ以前のものは適切に特権を無効にしませ�
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/undated/1svgalib.data'
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="1ef29ba7b707aeb90628e81b136054d370f76475"

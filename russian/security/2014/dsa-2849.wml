@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d0be637467cbd2e3bbec76e0e3c6193e1d2d811c" maintainer="Lev Lamberov"
 <define-tag description>раскрытие информации</define-tag>
 <define-tag moreinfo>
 <p>Парас Сетиа обнаружил, что libcurl, клиентская библиотека для передачи

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="908fbef566876813dbbc8ec2961ca64372cdb09a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>ホスト、サービスおよびネットワーク監視・管理システム nagios に、

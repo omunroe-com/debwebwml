@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="7ac7b61ae518437c0c45e55d8e28f51980b53222" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE descubrió un error de desbordamiento de buffer en la biblioteca

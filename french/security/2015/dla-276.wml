@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="86671147853f1aa7496dbefb479c46f912e19cc4" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Adam, l'auteur amont d'inspircd a découvert que le correctif de Debian

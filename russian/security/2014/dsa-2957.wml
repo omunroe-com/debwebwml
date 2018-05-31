@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5f7f04fa25d4ebc5b992a7d7e58b3d9cbc52d84f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Омер Икбал обнаружил, что Mediawiki, wiki-движок, неправильно выполняет

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5147acfa910f8396a8784cc2d30a52496d138019" mindelta="1"
 <define-tag description>felaktig exekvering med setuid root</define-tag>
 <define-tag moreinfo>
 <p>

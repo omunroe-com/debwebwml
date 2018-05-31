@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Дебиан на компактдиск" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b"
 
 <p>Ако желаете да се сдобиете с Дебиан на компактдиск или носител USB,
 вижте по-долу

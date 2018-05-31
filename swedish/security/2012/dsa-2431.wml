@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="32e1e7b9240cab7f8f294e2c4369bd91749f9091" mindelta="1"
 <define-tag description>formatsträngssårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Niko Tyni upptäckte två formatsträngssårbarheter i DBD::Pg, en

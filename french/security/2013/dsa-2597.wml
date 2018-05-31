@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="349785ad5458f20aa8440cd4ce811d1d37e2b184" maintainer="David Prévot"
 <define-tag description>Erreur de validation d'entrée</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-09-29" SUMMARY="Pillole dal team di rilascio e freeze di Jessie, relazioni da DebConf14, date e raccolta di fondi per DebConf15, discussioni su OpenPGP, relazioni su LTS, l'ambiente Cinnamon è adesso disponibile in testing, ricompilazione di Debian usando Clang, Debian compie 21 anni e festeggia, Google Summer of Code"
-#use wml::debian::translation-check translation="1.4" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="c6baec474b599b9da170df83c65e42d1cdf089c8" maintainer="Mirco Scottà"
 
 # $Rev: 5730 $
 # Status: content-frozen

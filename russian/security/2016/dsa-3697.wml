@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dd209b8486b48134f43113e89a2aba1cfb211c6c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ролан Тэпкен обнаружил, что недостаточная очистка входных данных в программе

@@ -1,5 +1,5 @@
 #use wml::debian::blends::hamradio
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4"
 
 {#alternate_navbar#:
    <div id="second-nav">

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Afegint nous proveïdors a la llista de proveïdors de CD"
-#use wml::debian::translation-check translation="1.5" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="36a5f3c2e6fc935d982de2a73e5e7bb1767f13ce" maintainer="Guillem Jover"
 
 <p>Si esteu considerant vendre CD de Debian, hauríeu de mirar a la pàgina
 <a href="info">d'informació de proveïdors</a> de Debian.</p>

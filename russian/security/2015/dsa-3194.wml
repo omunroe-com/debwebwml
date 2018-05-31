@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f4ca8fb95ed059776c50a87b17b02043b06f879c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Илья ван Шпундель, Алан Куперсмит и Уильям Рабине обнаружили

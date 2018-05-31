@@ -5,7 +5,7 @@
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-#use wml::debian::translation-check translation="1.33"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>
 <a href="http://sv.wikipedia.org/wiki/Bittorrent">BitTorrent</a> är ett

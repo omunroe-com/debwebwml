@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b083dc0c7dd0f109f192ac38e92e5f19fb32c80b"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" さんは、GD グラフィックライブラリでの PNG

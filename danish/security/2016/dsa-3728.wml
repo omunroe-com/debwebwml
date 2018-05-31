@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ec0a03e2e08f599985ff6f4e27b949934f538216" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhed i forbindelse med anvendelse efter frigivelse i SVG Animation 

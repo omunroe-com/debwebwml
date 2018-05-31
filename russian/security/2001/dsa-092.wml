@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f9efc9a3fa35e1c6d9ab31a07e6b6b7e674a28db" maintainer="Lev Lamberov"
 <define-tag description>локальная уязвимость суперпользователя</define-tag>
 <define-tag moreinfo>
 Николас Буле обнаружил проблему безопасности в пакете wmtv (подключаемый

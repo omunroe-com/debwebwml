@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3878f46832ca1929f2a7411af40c18d6ff0af5a1" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Felix Doerre och Vladimir Klebanov från Tekniska Institutet i Karlsruhe

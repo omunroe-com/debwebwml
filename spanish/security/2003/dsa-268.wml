@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2bff0d74c9b68122d7a811bef4daf1e95b9de4a9"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Core Security Technologies descubrió un desbordamiento de búfer en el

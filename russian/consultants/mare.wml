@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="MARE system"
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="59d581c9ce161f9c25646e0e8a8b23b6a10963be" maintainer="Lev Lamberov"
 
 <p>
 Мы предлагаем услуги хостинга на основе Linux (в основном Debian) для

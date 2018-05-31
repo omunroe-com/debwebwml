@@ -1,6 +1,6 @@
 #use wml::debian::template title="Port SPARC -- Errata" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="bc5a5b465aa5f94e13b4ed873d83cbd36b1a2f2b"
 
 <h1>Errata Debian SPARC</h1>
   <p>

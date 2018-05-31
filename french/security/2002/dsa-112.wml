@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="7613d83e8542de4837c4fb151bcacc3fb9805c1e" maintainer="Simon Paillard"
 # Original translation by Eric Jullien
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>

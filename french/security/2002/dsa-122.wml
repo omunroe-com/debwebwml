@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="957a5dc4200257b74a86dad78adcca3ba46ea859" maintainer="Simon Paillard"
 # Original translation by Eric Jullien
 <define-tag description>Erreur de malloc (double libération)</define-tag>
 <define-tag moreinfo>

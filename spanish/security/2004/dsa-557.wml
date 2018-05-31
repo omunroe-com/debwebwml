@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="7b31fcd8837d127519de423529bcf499c592b629" maintainer="juanma"
 <define-tag description>olvido al liberar los privilegios</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler descubrió una vulnerabilidad en pppoe, el controlador

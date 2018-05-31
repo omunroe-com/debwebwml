@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PAGENAME="Índice de 2006"
 #use wml::debian::weeklynews::index
-#use wml::debian::translation-check translation="1.2" maintainer="Luis Uribe"
+#use wml::debian::translation-check translation="a12eca87521474ee4852527d09718af5ea3fe1d8" maintainer="Luis Uribe"
 
 <p>
 Aquí están los números atrasados de las noticias semanales de Debian de 2006.

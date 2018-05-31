@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="82fd402bf7294043a6f95c08b8a2b6a6907ecd05" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах для WCCP и GSM DTAP были обнаружены многочисленные

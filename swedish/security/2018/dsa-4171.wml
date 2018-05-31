@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8b8fe789f79334d4f6dfc87817c6dce85f5578d3" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Shopify Application Security Team rapporterade att ruby-loofah, ett

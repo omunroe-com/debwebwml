@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="e5df5e4bf0db944aa620504db5d39bd722263ba8" maintainer="Pierre Machard"
 <define-tag description>Erreurs de débordements mathématiques</define-tag>
 <define-tag moreinfo>
 <p>Al Viro et Alan Cox ont découvert plusieurs erreurs de débordements 

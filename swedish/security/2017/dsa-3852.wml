@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1b34ebcb4abd858338f9851b95efa5dbbf31104c" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Dawid Golunski och Filippo Cavallarin upptäckte att squirrelmail, en

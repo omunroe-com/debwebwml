@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="15d51c7329dec3ea673f02ff79ee55c2fbe2024b"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Sean Larsson さんは、X フォントサーバ内の 2 つのコードパスが、

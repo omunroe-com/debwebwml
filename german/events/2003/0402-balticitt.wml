@@ -25,7 +25,7 @@ sein.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="68f0691c38e6e6615b243f85f85b6e65f6a3c550"
 # $Id$
 #Related Links here (free form)
 <ul>

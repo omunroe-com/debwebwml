@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c3a03448f2bf9e55f73b597b35fdf8d5e4d23f8c"
 <define-tag description>リモートからのコマンド実行</define-tag>
 <define-tag moreinfo>
 <p>Kevin Finisterre さんが、Linux で bluetooth

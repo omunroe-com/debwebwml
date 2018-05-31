@@ -1,7 +1,7 @@
 <define-tag pagetitle>Netscape wendet sich an Debian für Lizenzierungs-Hilfe!</define-tag>
 <define-tag release_date>1998-03-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-03-02
 
 Als Netscape sich entschied, Ihre Client-Software zu befreien, verwendeten

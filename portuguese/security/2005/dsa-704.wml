@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="20070eff26d1dd1352138ec65aa05e0ec5dc02d8"
 <define-tag description>Arquivo temporário, falta de sanitização de entrada</define-tag>
 <define-tag moreinfo>
 <p>Jens Steube descobriu várias vulnerabilidades no remstats, o

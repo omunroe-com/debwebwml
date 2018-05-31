@@ -1,6 +1,6 @@
 #use wml::debian::template title="S/390-Portierung"
 
-#use wml::debian::translation-check translation="1.39"
+#use wml::debian::translation-check translation="1336ab2d8cd9ffdd0d26768f61c3cd0763a8a70b"
 # $Id$
 # Updated: Holger Wansing <linux@wansing-online.de>, 2011, 2012, 2016.
 #use wml::debian::toc

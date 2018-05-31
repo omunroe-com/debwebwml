@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="598ff38eeae0fe3ef109fdfe81b906fadb2e5878"
 <define-tag pagetitle>Uppdaterad Debian 7: 7.9 utgiven</define-tag>
 <define-tag release_date>2015-09-05</define-tag>
 #use wml::debian::news

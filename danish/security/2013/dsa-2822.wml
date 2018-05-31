@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7106055027b649b348d3e2d77ee72a7b0c48ce28" mindelta="1"
 <define-tag description>heltalsunderløb</define-tag>
 <define-tag moreinfo>
 <p>Bryan Quigley opdagede et heltalsunderløb i Xorg X-serveren, hvilket kunne 

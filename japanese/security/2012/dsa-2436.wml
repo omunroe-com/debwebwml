@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="358925a61810f905a1cd2f138148de315485ea31"
 <define-tag description>リソース制限が動作しない問題</define-tag>
 <define-tag moreinfo>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="b20114ac24612d4491ea4981de2ccff9c3f95d90" maintainer="Giuseppe Sacco"
 <define-tag description>overflow di un buffer</define-tag>
 <define-tag moreinfo>
 <p>Nathan Wallwork <a href="http://linux-ha.org/security/sec01.txt">\

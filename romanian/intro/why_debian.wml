@@ -1,6 +1,6 @@
 #use wml::debian::template title="De ce să alegi Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.74" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858" maintainer="Ana Custura"
 
 <p>îți mulțumim că vrei să încerci sistemul Debian pe mașina ta. Dacă nu ești încă
 convins de ce trebuie să încerci Debian, ia în considerare următoarele: </p>

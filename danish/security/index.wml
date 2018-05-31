@@ -1,5 +1,5 @@
 #use wml::debian::template title="Sikkerhedsoplysninger" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.101"
+#use wml::debian::translation-check translation="94fd1c6cb95cf528040d57befa96eac2dd4d5d0f"
 #use wml::debian::toc
 #use wml::debian::recent_list_security
 #include "$(ENGLISHDIR)/releases/info"

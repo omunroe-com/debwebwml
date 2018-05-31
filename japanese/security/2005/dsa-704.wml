@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="20070eff26d1dd1352138ec65aa05e0ec5dc02d8"
 <define-tag description>一時ファイルおよび入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Jens Steube さんは、リモートサーバの情報収集用ツール remstats

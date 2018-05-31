@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b0f5083d462c0966be7495822eb88a13496facc4" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Кабэ Срирам обнаружил, что GnuPG, GNU Privacy Guard, недостаточно

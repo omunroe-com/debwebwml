@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="dfa038f5c48a2ac5a2ad0c9ff9ea505a94d508a4"
 <define-tag description>入力のサニタイズが不十分</define-tag>
 <define-tag moreinfo>
 <p>家系図データへのオンラインアクセスを可能とするアプリケーション

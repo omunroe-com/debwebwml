@@ -11,7 +11,7 @@
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="aefc4546404b2af3e1bf681db2fb90b234a77012" maintainer="Jean-Pierre Giraud"
 
 
 <p>Après 26 mois de développement, le projet Debian est fier d'annoncer sa

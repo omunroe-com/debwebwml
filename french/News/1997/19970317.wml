@@ -2,7 +2,7 @@
 <define-tag release_date>1997-03-17</define-tag>
 
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="f9fe4cec34b15e0a304de723280c5330100dd5a3" translation_maintainer="Martin Quinson"
 
 <p>
 Ian Murdock, le fondateur de Debian, a été élu président du comité des

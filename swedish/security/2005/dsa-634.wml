@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="0e248e3cc0255acdb2cac64b43e08665b631e6de" mindelta="1"
 <define-tag description>svag validering av värd- och användarnamn</define-tag>
 <define-tag moreinfo>
 <p>

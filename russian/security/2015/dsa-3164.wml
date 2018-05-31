@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3c51f2991eb07763c98b2bff91eb480756d6eb2b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Пиррик Каилон обнаружил, что в системе управления содержимым Typo 3 можно обойти

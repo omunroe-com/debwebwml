@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="29ea8d025f958bf1b3b25f0683a87d1be7b99405" maintainer="Baptiste Jammet"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski et Hanno Boeck ont découvert plusieurs vulnérabilités dans

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="f7ffd50d849671e982c17dc6a11074af21eb6e61" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs problèmes de sécurité ont été découverts dans Thunderbird. Cela peut permettre l'exécution de code arbitraire ou un déni de service.</p>

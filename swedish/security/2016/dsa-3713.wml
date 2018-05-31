@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fabc19d49f7fe3bbd9e168e4b4fe6ad713df97e5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans upptäckte att insticksmodulen GStreamer 0.10 för att koda av

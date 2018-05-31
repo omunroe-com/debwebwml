@@ -3,7 +3,7 @@
 <define-tag pagetitle>Omega-97, Moscou, Russie</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="7b8acd1a22b4358eb8356bee6e43134c6efa1c20" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons les versions Woody et Etch de Debian GNU/Linux dans une

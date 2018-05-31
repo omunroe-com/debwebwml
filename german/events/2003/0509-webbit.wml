@@ -48,7 +48,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="e802eaaeb474dd7676a25e5843225f38bcd32ff9"
 # $Id$
 # Translator: Frank Lichtenheld <frank@lichtenheld.de>, 2003-04-18
 #Related Links here (free form)

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d0be637467cbd2e3bbec76e0e3c6193e1d2d811c" mindelta="1"
 <define-tag description>informationsafsløring</define-tag>
 <define-tag moreinfo>
 <p>Paras Sethia opdagede at libcurl, et URL-overførselsbibliotek på klientsiden, 

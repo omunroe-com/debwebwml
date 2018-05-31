@@ -1,7 +1,7 @@
 <define-tag pagetitle>Sun Debianu iznajmljuje Ultra30 sustave</define-tag>
 <define-tag release_date>1998-11-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="cd18be6b804dcc76a6a3aaf00dad207d80638b9b"
 
 <P><A HREF="http://sun.com">Sun Microsystems</A> je iznajmio tri UltraSPARC
 sustava Debian projektu. To su 64-bitne Ultra30 radne stanice, svaka s

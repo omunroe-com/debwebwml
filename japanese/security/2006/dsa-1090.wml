@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="046fcb7a2ab255a42d9a58f165bd4f90d5abc48f"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Perl ベースのテキスト解析型スパムフィルタ SpamAssassin

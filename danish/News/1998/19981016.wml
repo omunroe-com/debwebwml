@@ -1,7 +1,7 @@
 <define-tag pagetitle>"Linux Actual" indeholder Debian GNU/Linux 2.0 "Hamm" cd'er</define-tag>
 <define-tag release_date>1998-10-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="6b2aae6e7e06bb8666c32bebb1d01bd6f98c23a3"
 
 <p>Det spanske magasin <q>Linux Actual</q> er pt. det eneste magasiner for folk der
 taler spansk og bruger Linux.  I dets septemberudgave er der tre hovedartikler

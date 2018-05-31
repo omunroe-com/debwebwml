@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/squeeze/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.15" maintainer="T. Surya Fajri"
+#use wml::debian::translation-check translation="0dfbbecbd60a361b01cb9363261389d295aa8f3a" maintainer="T. Surya Fajri"
 # Translator: T. Surya Fajri <kilelme@gmail.com>
 
 

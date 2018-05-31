@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5147acfa910f8396a8784cc2d30a52496d138019"
 <define-tag description>неправильная установка setuid-root</define-tag>
 <define-tag moreinfo>
 <p>Морис Масар (Maurice Massar) обнаружил, что в результате ошибки,

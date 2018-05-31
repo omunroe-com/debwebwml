@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="50dcc63d4c73a8c154f16df5f382af1428cc806d"
 <define-tag description>クロスサイトリクエストフォージェリ</define-tag>
 <define-tag moreinfo>
 <p>

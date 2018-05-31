@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian-Webseiten übersetzen" BARETITLE=true
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.52"
+#use wml::debian::translation-check translation="63debed7d9f6d7ea6c3e932aea334d4e00d16662"
 # $Id$
 
 <p>Um die Arbeit für die Übersetzer so einfach wie möglich zu machen, werden

@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian na CD" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.40" maintainer="Matej Kovac"
+#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b" maintainer="Matej Kovac"
 <p>Ak chcete získať Debian na CD alebo na disku USB, pozrite si nižšie
 dostupné možnosti. Ak narazíte na problém, prečítajte si
 <a href="faq/">Často kladené otázky o CD Debianu</a>.</p>

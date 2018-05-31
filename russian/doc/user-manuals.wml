@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Пользовательские руководства Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="1.151" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="89452b91283c66fe196874b0444b28b819d16d7d" maintainer="Lev Lamberov"
 
 <document "ЧаВО по Debian GNU/Linux" "faq">
 

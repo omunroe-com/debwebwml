@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4d60b553e2fc2e049569ddfdadbce9eb4011d97c" maintainer="Lev Lamberov"
 <define-tag description>отсутствие проверки имени узла в сертификате ssl</define-tag>
 <define-tag moreinfo>
 <p>Скотт Кантор обнаружил, что curl, инструмент для загрузки файлов, отключает

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-16" SUMMARY="APT, installationsprogram, XFS, Woody, AMD64, *BSD, paketering, Debian Spanien, KDE, tmpfs"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="6df448e0976da574b5e1329749403e73eeba663b"
 
 <p>Välkommen till årets 50:e utgåva av DWN, veckonyhetsbrevet för Debianfolk.
 <a href="https://anonscm.debian.org/viewvc/webwml/webwml/">CVS-arkivet</a> för

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c371429c7a2c0e812d09977961ce80d0838cc8ef" maintainer="Lev Lamberov"
 <define-tag moreinfo>Было сообщено о следующих програмах в версии
 proftpd, поставляемой в составе Debian 2.2 (potato):
 <ol>

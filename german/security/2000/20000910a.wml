@@ -15,5 +15,5 @@ umgehend ein Upgrade Ihres xpdf-Pakets durchführen.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20000910a.data'
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914"
 # $Id$

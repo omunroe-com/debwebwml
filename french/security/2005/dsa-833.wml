@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="bfd723b4be0ce015c6721bfd3c8fc2056603b9f7" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Cette mise à jour concerne uniquement les paquets binaires destinés à

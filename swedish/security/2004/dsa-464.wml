@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="178c1fc5fcef8ac7560d128463690fb33188f703" mindelta="1"
 <define-tag description>felaktig hantering av bilder</define-tag>
 <define-tag moreinfo>
 <p>

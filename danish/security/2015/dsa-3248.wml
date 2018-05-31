@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="874f19b4bc65d0230a727936ed3df09af1eee8b9" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at manglende fornuftighedskontrol af inddata i Snoopy, en 

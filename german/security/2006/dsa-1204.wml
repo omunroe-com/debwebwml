@@ -16,5 +16,5 @@ Shell-Kommandos erlaubt.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1204.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="162d8b2eb786c9b2c443e5b675aeba134e3b1cbc"
 # $Id$

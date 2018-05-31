@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="b6efdb9b284a4def8da7e043b8e598ad211fdea7" maintainer="Juan M. Garcia"
 <define-tag description>error de alineación de memoria</define-tag>
 <define-tag moreinfo>
 <p>Szymon Zygmunt y Michal Bartoszkiewicz descubrieron un error de

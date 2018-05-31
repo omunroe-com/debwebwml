@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="dfced456302c08a13588adef698869b73c06322d"
 <define-tag description>バッファオーバフロー、不正なファイル権限</define-tag>
 <define-tag moreinfo>
 <p>nethack および slashem パッケージは長い「-s」コマンドラインオプションを\

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="da373818ddab84d18b2c75f0f24ea537f759b36d"
 <define-tag description>Format-Zeichenketten-Verwundbarkeiten</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp entdeckte zwei Format-Zeichenketten-Verwundbarkeiten in

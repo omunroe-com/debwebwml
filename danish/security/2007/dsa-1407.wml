@@ -25,4 +25,4 @@ Vi anbefaler at du opgraderer dine cupsys-pakker.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2007/dsa-1407.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="7c0d1b0814003ff80bbb35fcb15efaeba7ca9a7c" mindelta="1"

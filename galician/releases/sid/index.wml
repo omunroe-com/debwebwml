@@ -1,5 +1,5 @@
 #use wml::debian::template title="A distribución «unstable» (inestábel): «sid»"
-#use wml::debian::translation-check translation="1.9" maintainer="Jorge Barreiro González"
+#use wml::debian::translation-check translation="e47851b5ac1543503f7d4c10dc68bcdb9e2cbb68" maintainer="Jorge Barreiro González"
 
 <p>O nome en clave para a distribución de desenvolvemento de Debian é <q>«sid»</q>, ligada
 #include "$(ENGLISHDIR)/releases/arches.data"

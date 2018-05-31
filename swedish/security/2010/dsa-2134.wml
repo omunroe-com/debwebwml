@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3126379c188d1c17fb83967a5f21ea18ea669e2a"
 <define-tag description>kommande förändringar i bulletinformatet</define-tag>
 <define-tag moreinfo>
 <p>Tidigare har Debians säkerhetsbulletiner innehållit MD5-kontrollsummor

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d3370c40d84fab707c969cd7d271778bbd1cfdcf"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Marcin Noga descubrió múltiples vulnerabilidades en readxl, un paquete

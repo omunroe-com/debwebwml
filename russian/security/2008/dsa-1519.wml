@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9cb833ba84fbdd2a76b926b93cafa01e759b832e" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что инфраструктура веб-приложений Horde позволяет удалённому

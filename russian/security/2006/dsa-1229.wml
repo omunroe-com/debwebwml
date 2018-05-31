@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fb7f3b9f3b82769b01bb3e437da6e147fca08f12" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Адам Билу обнаружил переполнение целых чисел в драйвере канала Skinny

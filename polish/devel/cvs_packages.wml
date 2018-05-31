@@ -1,5 +1,5 @@
 #use wml::debian::template title="Używanie CVS z pakietami Debiana"2
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="96f316771fbc3b1856dfd14bb8d08815a3c6a843"
 
 <p>Celem tego krótkiego dokumentu jest dostarczenie zwięzłej
 pomocy w konwersji pakietów, aby można było nimi zarządzać 

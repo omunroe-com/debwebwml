@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3e04347844f1889b0e3e77ca62857b31e05b5119"
 <define-tag description>Explotación de root local</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer de SuSE encontró una vulnerabilidad en <code>sudo</code>,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1d62dd886062da12519eec32eacba73cbb179380" maintainer="Lev Lamberov"
 <define-tag description>объявление о долгосрочной поддержке предыдущего стабильного выпуска Debian</define-tag>
 <define-tag moreinfo>
 <p>

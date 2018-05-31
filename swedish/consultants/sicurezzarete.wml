@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Sicurezzarete"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="18d575df657bd8e2acf652e5671f859d1dd3b189"
 
 <p>
 Tillhandahåller administration och stöd för Linuxservrar, brandväggar, routrar,

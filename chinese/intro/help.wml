@@ -1,5 +1,5 @@
 #use wml::debian::template title="你如何協助 Debian？"
-#use wml::debian::translation-check translation="1.31" maintainer="Boyuan Yang"
+#use wml::debian::translation-check translation="167c966b63631bcd2668bf5d49ae21952f6d11c7" maintainer="Boyuan Yang"
 
 <p>如果你考慮協助 Debian 的開發，其开发工作有許多可以下手的方面。
 无论是有經驗还是沒有經驗的使用者都可以參與进来：</p>

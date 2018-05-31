@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="b49183bc5f071847b27ee5b360df9157639576a7" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Alexander Izmailov a découvert que didiwiki, une implémentation de wiki,

@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/jessie/release.data"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="e7a43e9d7fba0dacfd02fa428fb89faf507617cf"
 
 # Last Translation Update by $Author$
 # Last Translation Update at $Date$

@@ -25,4 +25,4 @@ biblioteker.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1970.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="01acd26b61e964880ac4a2935927cf3b5ce281e9" mindelta="1"

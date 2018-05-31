@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c2f34cde776c5a09d26db08117033caf75315916"
 <define-tag pagetitle>Wydarzenia w 2004 roku</define-tag>
 #use wml::debian::template title="Wydarzenia w 2004 roku"
 #use wml::debian::recent_list

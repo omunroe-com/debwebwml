@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="d76177a04df2a7d1d7558b0253db36d06f629806" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se ha informado de que hay una vulnerabilidad en ImageMagick, una

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 易变（volatile）仓库被新的 updates 套件替代</define-tag>
 <define-tag release_date>2011-02-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Boyuan Yang"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Boyuan Yang"
 
 <p> Debian 易变（Volatile）仓库自即将到来的 Debian 6.0 发布版本（<q>Squeeze</q>）
 起将不再继续提供。它由官方镜像中的 squeeze-updates 套件所替代。

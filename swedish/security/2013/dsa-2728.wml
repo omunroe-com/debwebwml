@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fae708b249723001636f8ac7412e8dd65f5e580f" mindelta="1"
 <define-tag description>överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Maxim Shudrak och HP Zero Day-initiativet rapporterade en såbarhet för 

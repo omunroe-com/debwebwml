@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian tilbyder integreret SGML-miljø</define-tag>
 <define-tag release_date>1999-03-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian 2.1, som nu er udgivet, indeholder en integreret SGML-, XML- og 
 DSSSL-infrastruktur og -pakker.  Debian nyskabende SGML-undersystem placerer

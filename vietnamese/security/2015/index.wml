@@ -1,7 +1,7 @@
 <define-tag pagetitle>Cố vấn bảo mật từ năm 2015</define-tag>
 #use wml::debian::template title="<pagetitle>" GEN_TIME="yes"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.2" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="ed54eda7d637b53fe29a2c72db3fc396fd5cd983" maintainer="Trần Ngọc Quân"
 
 <:= get_recent_list ('.', '0', '$(ENGLISHDIR)/security/2015', '', 'dsa-\d+' ) :>
 

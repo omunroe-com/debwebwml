@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5984a524ec5c1819b344e4b3c93ad1cae0b19dad" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Två sårbarheter upptäcktes i Fail2ban, en lösning för att banna värdar 

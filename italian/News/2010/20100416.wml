@@ -1,7 +1,7 @@
 <define-tag pagetitle>Il progetto Debian elegge Stefano Zacchiroli come prossimo Project Leader</define-tag>
 <define-tag release_date>2010-04-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Giuseppe Sacco"
 
 <p>Seguendo la propria <a href="$(HOME)/devel/constitution">
 costituzione</a> il progetto Debian ha eletto Stefano

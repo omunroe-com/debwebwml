@@ -1,5 +1,5 @@
 #use wml::debian::template title="Le Chef du Projet Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.23" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="c6d6679a692493cb18a61634dd830b498c3306bd" maintainer="Jean-Paul Guillonneau"
 
 #include "$(ENGLISHDIR)/devel/leader.data"
 

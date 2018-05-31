@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cda6c5b3b9c40c2e777b713615d3e45ab49ffe78" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Маркус Майснер обнаружил, что samba создаёт временные файлы небезопасным
 способом в двух местах:

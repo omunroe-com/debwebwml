@@ -1,5 +1,5 @@
 #use wml::debian::template title="Общее решение: Статус секции несвободного ПО" BARETITLE="true"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f32f01938bacd6c25e4a0bcc7f0b7a8037ff8588"
 #include "$(ENGLISHDIR)/vote/style.inc"
 
 

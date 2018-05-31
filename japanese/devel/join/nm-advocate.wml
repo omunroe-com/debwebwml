@@ -1,5 +1,5 @@
 #use wml::debian::template title="メンバー志願者の支持者になる"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="4dd7722518f7209a9a4e910699793b5a382779f9"
 
 <p>メンバー志願者の支持者になる前に、彼らが <a href="./nm-checklist">NM
 チェックリスト</a>に挙げられている項目すべてを満たしているか確認すべきです。

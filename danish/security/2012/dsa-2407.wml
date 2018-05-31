@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="36f6973bc94ec2c71affe56e5fd3faac4a6d5ba2" mindelta="1"
 <define-tag description>heapoverløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at en ondsindet CVS-server kunne forårsage et heapoverløb i 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="c9b38392dbd3a776a0d1d239dcb72326da1ca94a"
 <define-tag description>Sällsynt problem med förstörda filrättigheter</define-tag>
 <define-tag moreinfo>Rsyncs författare, Andrew Tridgell, har rapporterat att
 tidigare versioner av rsync innehöll ett säkerhetsrelaterat fel.

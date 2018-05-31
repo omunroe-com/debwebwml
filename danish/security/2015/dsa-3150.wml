@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c22b8579d06c856c7d910f4993a6ef81d4584944" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Fabian Yamaguchi opdagede adskillige sårbarheder i VLC, en 

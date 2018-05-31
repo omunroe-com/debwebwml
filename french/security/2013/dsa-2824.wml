@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="143c3e1844802f89bdcd0235f64b3f3b97e310e2" maintainer="Thomas Vincent"
 <define-tag description>Nom d'hôte de certificat TLS ou SSL non vérifié</define-tag>
 <define-tag moreinfo>
 <p>Marc Deslauriers a découvert que curl, un outil de récupération de fichiers,

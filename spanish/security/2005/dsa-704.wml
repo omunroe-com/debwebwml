@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="20070eff26d1dd1352138ec65aa05e0ec5dc02d8" maintainer="juanma"
 <define-tag description>archivo temporal, olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Jens Steube descubrió varias vulnerabilidades en remstats, el

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-02-24" SUMMARY="RRD, XFree86, Патент GIF, События, Выпуск, AMD64, Firefox, Страницы руководств"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Приветствуем вас в восьмом за этот год выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian. Наконец, мы можем послать

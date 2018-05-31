@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5219b29d9a6379557fe3c9d40294cc91ddb0c350" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Agostino Sarubbo og AromalUllas opdagede at ettercap, et 

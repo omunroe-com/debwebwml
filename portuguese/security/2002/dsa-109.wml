@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="6678c1dff7786db40b2b3b267875555883a33315" translation_maintainer="Michelle Ribeiro"
 <define-tag description>vulnerabilidade cross-site scripting</define-tag>
 <define-tag moreinfo>
 <p>Devido a código HTML sem escapes, Faq-O-Matic retorna códigos de script não

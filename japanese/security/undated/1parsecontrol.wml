@@ -22,4 +22,4 @@ Debian で送り出している INN の現在のバージョンは、1.4unoff4 �
 </define-tag>
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/undated/1parsecontrol.data'
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="0c2765d6332ad131ec7915c4b714b26dee871b2b"

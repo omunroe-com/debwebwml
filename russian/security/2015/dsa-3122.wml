@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="72f0a5530a35cd67e06595c41cee039843ba5d11" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Андрей Лабунец из Facebook обнаружил, что cURL, библиотека передачи

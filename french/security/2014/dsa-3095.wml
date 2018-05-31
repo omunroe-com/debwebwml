@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="b7ef0f851ee858310da27fe5eacfa946fdb8db22" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Ilja van Sprundel de IOActive a découvert plusieurs problèmes de sécurité

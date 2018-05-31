@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e477ea2c0e439734b9633e3a572fa426c37ac33f" maintainer="Lev Lamberov"
 <define-tag description>форматная строка</define-tag>
 <define-tag moreinfo>
 <p>"Seregorn" обнаружил уязвимость форматной строки в функции ведения

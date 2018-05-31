@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-10-28" SUMMARY="Bits fra Release Team, s390 fjernet fra arkivet til fordel for s390x, manpages.debian.net er nu en officiel tjeneste, Debian forøger sin popularitet på webservere"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="b957ef04bc96fcdb0d615f62e312c0c1c622bdef"
 
 # $Id$
 # $Rev: 5281 $

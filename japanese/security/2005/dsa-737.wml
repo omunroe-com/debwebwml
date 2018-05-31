@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="af888a84e301412e943f1488f3fdc97db17338e2"
 <define-tag description>リモートサービス拒否</define-tag>
 <define-tag moreinfo>
 <p>ClamAV に潜在的なリモートサービス拒否の脆弱性がいくつか見つかっています。

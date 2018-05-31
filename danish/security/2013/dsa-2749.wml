@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8192d7d9566511564538e38abd90d805142622be" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Colin Cuthbertson og Walter Doekes opdagede to sårbarheder i 

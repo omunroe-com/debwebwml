@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="94aa200f735529f8913f579989d8c615c1ceabf5" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Габриэль Корона сообщил, что sensible-browser из пакета sensible-utils,

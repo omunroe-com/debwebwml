@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="705cbd813afad6975f63cc5ccd628d979205f9f0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Йорг-Томас Фогт обнаружил, что проверка SecureMode в системе билетов OTRS

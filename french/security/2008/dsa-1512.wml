@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="a2d7ee4fb8b60f2e470df15f368f6f4fe96fa4b7" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Chaîne de formatage</define-tag>
 <define-tag moreinfo>

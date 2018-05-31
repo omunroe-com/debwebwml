@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="6d061a2e3bf0ec68018dc29ab1552cce2f4d1f4c" maintainer="juanma"
 <define-tag description>vulnerabilidad de enlace simbólico</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un problema de seguridad en getmail, una

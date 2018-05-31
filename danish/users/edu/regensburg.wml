@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.uni-regensburg.de/e/r/Benutzer/Speziell/Linux/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="56ad19569d2931f708e6658693841645565d0c1b"
 
 <p>
     I øjeblikket har vi over 400 arbejdsmaskiner med Linux til den 

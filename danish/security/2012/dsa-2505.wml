@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0470c6ff2375bb0325b1adc2e045da5b69eaa2d0" mindelta="1"
 <define-tag description>informationsafsløring</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhed i forbindelse med medtagelse af XML External Entities, blev 

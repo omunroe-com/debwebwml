@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="dcdd03851973fa1e2459548fbf7af29086a57d7e" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Ben Hawkes a découvert qu'un traitement incorrect des messages de pairs dans

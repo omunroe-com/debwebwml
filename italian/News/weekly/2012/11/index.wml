@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-05-28" SUMMARY="Pillole dal team di rilascio, rimozione di Qt3 da Debian, relazione dal Debian Utsavam" 
-#use wml::debian::translation-check translation="1.8" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mirco Scottà"
 
 # $Rev: 3830 $
 # Status: [open-for-edit]

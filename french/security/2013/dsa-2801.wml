@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="c1c25263267467b181523864aaa70cd144954fd6" maintainer="Baptiste Jammet"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>Jonathan Dolle a signalé une erreur de conception dans HTTP::Body, un module Perl pour

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="450b5dd3786d560d1d2248949ee1914543fec82c"
 <define-tag description>estouro de inteiro</define-tag>
 <define-tag moreinfo>
 <p>Mais estouros de inteiro em potencial que não foram cobertos

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0ffe2ac8e152c33ae8b54e87dfe2628a9df94166" maintainer="Lev Lamberov"
 <define-tag description>проблема проектирования</define-tag>
 <define-tag moreinfo>
 <p>Акира Танака обнаружил уязвимость в Hiki Wiki, Wiki-движке, написанном на

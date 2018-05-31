@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-07-22" SUMMARY="Bits fra DPL'en, fællesskabsdistribution"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97"
 
 <intro issue="femtende" />
 <toc-display/>

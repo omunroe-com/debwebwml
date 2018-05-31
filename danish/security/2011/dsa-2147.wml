@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" mindelta="1"
 <define-tag description>usikre midlertidige filer</define-tag>
 <define-tag moreinfo>
 <p>Vincent Bernat opdagede at pimd, en multicast-routing-dæmon, oprettede filer

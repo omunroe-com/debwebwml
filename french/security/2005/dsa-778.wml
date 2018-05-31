@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="59434c9c9a7bd646724d52f6c1409f97ecb16bd4" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Deux problèmes de sécurité ont été découverts dans Mantis, un système de

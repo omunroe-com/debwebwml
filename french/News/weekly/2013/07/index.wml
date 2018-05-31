@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-04-01" SUMMARY="Brèves de l'équipe de publication, brèves de l'équipe des administrateurs système Debian"
-#use wml::debian::translation-check translation="1.8" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="7b03bd081c95cb0fe0996febbd8d40941d05e054" maintainer="Cédric Boutillier"
 
 <intro issue="septième" />
 <toc-display/>

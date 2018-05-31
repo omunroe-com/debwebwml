@@ -1,6 +1,6 @@
 #use wml::debian::template title="Programme de Margarita Manterola" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.5" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="28fc5a8b26247a4f468b323ae53ff6d0b250f637" maintainer="Thomas Vincent"
 
 <h3>Objectifs</h3>
 

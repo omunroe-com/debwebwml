@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4c5f526748e99fac0cb0b5df07ccd4a52636a142"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>マルチスレッドなダウンロードアクセラレータ、prozilla

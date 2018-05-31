@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PAGENAME="1999 年発行のバックナンバー"
 #use wml::debian::weeklynews::index
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="ace3fea2952f4fc09d521b12e0cd191455705b0c"
 
 <p>
 こちらは 1999 年に発行された Debian ウィークリーニュースのバックナンバーです。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="16dec6472f40a8211c2256fe4bbb4c30f2d855c9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Pound, обратный HTTP-прокси и балансировщик нагрузки, содержит несколько проблем,

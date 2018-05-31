@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-05-04" SUMMARY="Resolução Geral, Instalação, Planet, Debconf, PEAR, Tags, GFDL, Gerenciamento de Energia"
-#use wml::debian::translation-check translation="1.11" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo a décima oitava edição deste ano da DWN, o periódico semanal para
 a comunidade Debian. A lista <a

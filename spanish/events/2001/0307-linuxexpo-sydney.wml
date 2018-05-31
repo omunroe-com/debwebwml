@@ -25,7 +25,7 @@
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="a10db20a803d3ee5825ce0e5d73ca75b4cf68a48"
 <ul>
   <li><a href="http://www.linuxexpo.com.au/">Linux Business Expo</a></li>
   <li><a href="http://www.interop.com.au/">Network+Interop &amp; ITExpo/Comdex</a></li>

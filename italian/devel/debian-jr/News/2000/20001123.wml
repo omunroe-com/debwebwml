@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Cristian Rigamonti" 
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Cristian Rigamonti" 
 <define-tag pagetitle>Pagina per le proposte di logo per Debian Jr.</define-tag>
 <define-tag release_date>2000-11-23</define-tag>
 #use wml::debian::news

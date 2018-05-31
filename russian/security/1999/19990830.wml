@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73" maintainer="Lev Lamberov"
 <define-tag moreinfo>Cron отправляет почту от лица суперпользователя, не проверяя параметры,
 передаваемые sendmail в командной строке. Эта проблема может приводить к компрометации суперпользователя. Мы
 рекомендуем как можно скорее обновить пакеты cron.</define-tag>

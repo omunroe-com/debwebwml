@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="957a5dc4200257b74a86dad78adcca3ba46ea859" maintainer="Lev Lamberov"
 <define-tag description>ошибка выделения памяти (двойное освобождение памяти)</define-tag>
 <define-tag moreinfo>
 <p>Библиотека сжатия zlib содержит ошибку, из-за которой при определённых условиях

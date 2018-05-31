@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c4a5b59e3a18ebc6f57c09e43474b4217dc2c389" mindelta="1"
 <define-tag description>osäkra paketfiltreringsregler</define-tag>
 <define-tag moreinfo>
 <p>

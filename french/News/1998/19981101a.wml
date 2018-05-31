@@ -1,7 +1,7 @@
 <define-tag pagetitle>Miroirs Debian</define-tag>
 <define-tag release_date>1998-11-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1" translation_maintainer="Martin Quinson"
 
 <p>Un audit des miroirs Debian a révélé des problèmes sur certains
 miroirs secondaires. Tout le monde ne peut pas prendre master

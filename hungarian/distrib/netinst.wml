@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian telepítése az Interneten keresztül" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.25" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="717d85ad546169c82332f68ecc5db3644c9f86fd" maintainer="Szabolcs Siebenhofer"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
 

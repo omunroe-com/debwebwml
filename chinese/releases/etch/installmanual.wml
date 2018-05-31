@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 4.0 -- 安裝手冊" BARETITLE=true
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="5da24af6fe90ea90f041aa0847b78c96f343a424"
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/info"

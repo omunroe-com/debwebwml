@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="fc8c9b419d532b5615b364c03c1d87ad72fb0066" mindelta="1"
 <define-tag description>rettighedsforøgelse</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhed er opdaget i Open Ticket Request System, og den kunne udnyttes 

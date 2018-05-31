@@ -57,7 +57,7 @@ Common Vulnerabilities and Exposures にて、以下のように分類されて�
 <p>すぐに gaim パッケージをアップグレードすることを勧めます。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-434.data"
 # $Id$

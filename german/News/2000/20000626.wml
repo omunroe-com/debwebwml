@@ -1,7 +1,7 @@
 <define-tag pagetitle>Erstes Test-Release der Embedded-Debian Cross-Entwickungsumgebungen</define-tag>
 <define-tag release_date>2000-06-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8cb641d10f4c620ccf411a55dde676d84539dd87"
 # $Id$
 
 <p>Beachten Sie: Diese Ankündigung wurde von Frank Smith

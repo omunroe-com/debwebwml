@@ -70,7 +70,7 @@ root 特権が奪われる可能性があります。
 <p>直ちに xfree86 パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ebb0426f3f26a39f7e4cefc55eefb4482ca6fba6"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-443.data"
 # $Id$

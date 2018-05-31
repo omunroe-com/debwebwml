@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="97dfe4170725c2f076dd47e272ebd749cd0b40e6" maintainer="Lev Lamberov"
 <define-tag pagetitle>Akira</define-tag>
 #use wml::debian::profiles
 #include "$(ENGLISHDIR)/women/profiles/profiles.def"

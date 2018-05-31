@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="a7b9812e9ac869a3471afcd13b5e6c3f2b1c902b" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Isaac Wilcox descubrió que fetchmail, una utilidad muy conocida para

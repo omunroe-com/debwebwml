@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="36019994be1329108c31718380dc3d62bc84fa98" maintainer="David Prévot"
 <define-tag description>Manque de propagation d'indication de souillure</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="50cf8f102eb8a72dcbf06fce199ef917b9d71862"
 <define-tag description>特権チェックの欠落</define-tag>
 <define-tag moreinfo>
 <p>Ruby 言語のインタープリタが、エイリアス、

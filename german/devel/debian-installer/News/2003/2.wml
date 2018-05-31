@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Installer Beta 1 veröffentlicht</define-tag>
 <define-tag release_date>2003-11-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2"
 # $Id$
 
 <p>Wir sind froh, das erste Beta-Release des Debian-Installer, des 

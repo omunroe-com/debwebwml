@@ -22,7 +22,7 @@
 ## that it should also be reviewed and translated
 <define-tag release_date>2015-04-24</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Laura Arjona Reina"
 
 
 

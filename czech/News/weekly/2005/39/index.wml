@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-27" SUMMARY="Zavádění, Knihovny, libc5, Balíčkování, OpenSolaris, NTP"
-#use wml::debian::translation-check translation="1.9" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Miroslav Kure"
 
 <p>Vítejte u&nbsp;letošního 39. vydání DWN, týdenního zpravodaje pro
 komunitu okolo Debianu. Ben Hutchings <a

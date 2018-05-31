@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="97226f87b9ad4fd80baa5b170b843cb6fe2e6cc0"
 <define-tag description>revelação de código</define-tag>
 <define-tag moreinfo>
 <p>Uma vulnerabilidade foi confirmada no Apache Tomcat, releases 4.0.x, 

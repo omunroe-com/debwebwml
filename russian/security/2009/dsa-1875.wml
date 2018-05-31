@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5c9f6625eceb1ef917778df930e384790cd81922" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Джош Триплет обнаружил, что список для игнорирования потенциально опасного кода TeX,

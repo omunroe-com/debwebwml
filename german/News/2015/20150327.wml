@@ -1,7 +1,7 @@
 <define-tag pagetitle>Imagination fördert Debians MIPS-Portierung</define-tag>
 <define-tag release_date>2015-03-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="4602d1179902824fc0539d20c3540a007b57022a" maintainer="Erik Pfannenstein"
 
 <p>
 Im Oktober 2014 ließ Imagination Technologies der Entwicklung von Debian 

@@ -78,4 +78,4 @@ omgående opgraderer dine X-pakker.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2001/dsa-030.data'
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1e50ac3d41b5e280b3bfeec438669c049126f9d6"

@@ -1,7 +1,7 @@
 # From: "Tomasz Z. Napierala" <zen@maroonpoint.com>  Note from submission 
 # e-mail on debian-www: "I'm not connected in any way with this institution. 
 # However, this information are widely known, and are placed on website."
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="866294a282a7e7ea99decf4d17f197da4d2afe83"
 # Translation: Helge Kreutzmann <kreutzm@itp.uni-hannover.de> 2005-09-15
 
 <define-tag pagetitle>Informationstechnik-Zentrum, Trojmiasto Akademisches-Computer-Netzwerk (TASK), Polen</define-tag>

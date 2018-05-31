@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="e2a9a7eccc5f11e94b9a6f0e230cba5a03e31285" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>«Supernaut» advirtió que shorewall, el cortafuegos de Shoreline,

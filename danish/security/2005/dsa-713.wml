@@ -31,4 +31,4 @@ junkbuster-pakken.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-713.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="0129ff42afd95f71a6f7890ec4ed7d954e7d2939" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bdc65ad5e58e52e7274b510f163648562efbe0ee"
 <define-tag description>escape de informação</define-tag>
 <define-tag moreinfo>
 <p>Thorsten Kukuck descobriu um problema no programa ypserv que é uma parte

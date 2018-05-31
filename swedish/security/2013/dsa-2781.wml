@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cf6a93b6e5d1a4cf12a8f7ed1132898c1c6370cc" mindelta="1"
 <define-tag description>felaktig återsådd av PRNG i vissa situationer</define-tag>
 <define-tag moreinfo>
 <p>En kryptografisk sårbarhet har upptäckts i pseudoslumptalsgeneratorn i

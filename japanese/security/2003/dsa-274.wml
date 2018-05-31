@@ -19,7 +19,7 @@ off-by-one バッファオーバーフローが発見されました。
 
 <p>mutt パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d15ea2b06e7bffc711e747e60fc8ed7f30fc2773"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-274.data"
 # $Id$

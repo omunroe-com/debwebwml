@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="571176afeaeecd5cfd996e1bf7554cf533639b72" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Yves Younan från Cisco Talos upptäckte flera sårbarheter i

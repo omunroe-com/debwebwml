@@ -1,6 +1,6 @@
 #use wml::debian::ddp title="데비안 문서 프로젝트 SVN"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.41" maintainer="Sebul"
+#use wml::debian::translation-check translation="01b1789e9ebd40d1c24729fcfe79a6b1f4baf15b" maintainer="Sebul"
 
 <p>데비안 문서 프로젝트는 웹 페이지와 많은 매뉴얼 텍스트를
 <strong>svn.debian.org</strong>에 있는 데비안 Subversion 서버와

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ea3369a6ef085c36dc2c1d98a429e88f8d0b29bf" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В strongSwan, наборе IKE/IPsec, с помощью проекта Google OSS-Fuzz, непрерывного

@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.sara.nl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="80c5e49ddca6cde5300bfbb9b7af386667ff831b"
 
 <p>
   SARA é um dos centros de computação e rede mais avançados da Holanda,

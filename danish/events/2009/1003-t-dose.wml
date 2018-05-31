@@ -26,5 +26,5 @@ præsenteres, spørgsmål besvares og de populære Debian-t-shirts sælges.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1e9352d5c4652e000a4c5c76455d81518cf014db"
 #Related Links here (free form)

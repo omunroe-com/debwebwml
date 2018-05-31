@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="3fca68678ea6ba7ddb95e5662a84ce47833c69ba" maintainer="Jean-Edouard Babin"
 <define-tag description>Création des fichiers temporaires peu sûrs</define-tag>
 <define-tag moreinfo>
 <p>Javier Fernandez-Sanguino Pena a découvert que updatejail, un élément de

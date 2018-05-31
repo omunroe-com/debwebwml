@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7cd16b61e65e2f2246f6cec4815ede33476644f2" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка ввода</define-tag>
 <define-tag moreinfo>
 

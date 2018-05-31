@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="237b15e781d1769cd377fc0518929572027e1c46"
 <define-tag description>falha de validação de entrada</define-tag>
 <define-tag moreinfo>
 <p>O time de segurança da SuSE, durante uma auditoria, descobriu uma falha no

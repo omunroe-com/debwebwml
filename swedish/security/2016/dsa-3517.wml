@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="39036c41484b4173cf0be15988e58643a5851320" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En lokal sårbarhet för rootutökning av privilegier har upptäckts i Exim,

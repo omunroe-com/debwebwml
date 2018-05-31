@@ -2,7 +2,7 @@
 <define-tag release_date>2002-06-26</define-tag>
 {#style#:<link rel="stylesheet" href="../../talks.css" type="text/css" />:#style#}
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1c27b6ff87e758d1b5b224e8db918e7b29097e82"
 
 <p>
  Två nya med-paket nådde Incomingkatalogen på ftp-master och kommer vara

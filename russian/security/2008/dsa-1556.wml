@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6131fd45422f4da95c389b4bd2ef054022891657" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что работа интерпретатора Perl может приводить к

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="62b38eb66fe93b5d005bf1e3f10f2caad2b162a2" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Débordement de mémoire tampon</define-tag>
 <define-tag moreinfo>

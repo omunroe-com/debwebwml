@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c11be6f246a7cbf046ad495f48f8755591c840f0"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が仮想化抽象化ライブラリ Libvirt に発見されています。The Common

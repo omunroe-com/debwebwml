@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e8b309c316a3a49c5d324a042d8fb9c62c8b19a4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Clément Berthaux fra Synaktiv opdagede en signaturforfalskningssårbarhed i 

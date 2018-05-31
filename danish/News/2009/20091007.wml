@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian giver udviklinge af kFreeBSD et skub fremad</define-tag>
 <define-tag release_date>2009-10-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian Release Team er stolt over at kunne annoncere, at de anser 
 tilpasningen af FreeBSD-kernen til Debian-systemet, klar til at blive håndteret

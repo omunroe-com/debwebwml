@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="908fbef566876813dbbc8ec2961ca64372cdb09a" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un desbordamiento de buffer en nagios, un sistema de gestión

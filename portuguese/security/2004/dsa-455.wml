@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="23ff658118ba35b8c7c48573709831c1f4e1ce89"
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
 <p>libxml2 é uma biblioteca para a manipulação de arquivos XML.</p>

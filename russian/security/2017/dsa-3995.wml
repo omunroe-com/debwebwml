@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d24d251e885cedb77f0d35039dd4904fc1d0c145" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В libXfont, X11-библиотеке для растеризации шрифтов, были обнаружены две уязвимости,

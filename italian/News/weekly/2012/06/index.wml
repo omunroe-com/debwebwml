@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-03-20" SUMMARY="Elezioni DPL 2012, rilasciata la prima Debian Edu basata su <q>Squeeze</q>, relazioni dai recenti Bug Squashing Party"
-#use wml::debian::translation-check translation="1.7" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mirco Scottà"
 
 # $Id$
 # $Rev$

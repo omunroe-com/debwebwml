@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="298288e3ea6445681fee7fa3ba935b13aebb35de" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Michal Marek opdagede at ruby-archive-tar-minitar, et Ruby-bibliotek som 

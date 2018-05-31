@@ -34,4 +34,4 @@ den oven for beskrevne kommando.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1627.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="dedec0b6a97af0a07a5f494eb2817d54f4cc95ea" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f471b93710b6633acb468260a24e6d52c502002d" maintainer="DFS Task Force"
 <define-tag description>Entrées non vérifiées</define-tag>
 <define-tag moreinfo>
 <p>Rudolf Polzer a découvert une vulnérabilité dans a2ps, un convertisseur et

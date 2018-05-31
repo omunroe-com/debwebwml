@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Immunix сообщил о том, что mgetty не создаёт временные
 файлы безопасным способом, что может приводить к атаке через символические ссылки. Эта проблема
 была исправлена в mgetty 1.1.21-3potato1

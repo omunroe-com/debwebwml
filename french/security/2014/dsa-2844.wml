@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="e153d8338e79b8967c02d2ea8cd1e068f21ad572" maintainer="Jean-Pierre Giraud"
 <define-tag description>Exécution de code arbitraire</define-tag>
 <define-tag moreinfo>
 <p>djvulibre, le projet Open Source d'implémentation de DjVu, peut

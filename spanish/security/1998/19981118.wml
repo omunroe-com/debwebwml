@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="a61693d1249291988800494434ea1cb39599df6f"
 <define-tag moreinfo>
 Han informado de varias distribuciones de Linux afectadas por una
 vulnerabilidad de samba. Hay dos cuestiones:

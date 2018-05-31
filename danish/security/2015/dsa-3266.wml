@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="98034b1d605d9eda5283f71ca2b93d33d9e790ea" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy opdagede at FUSE, et filsystem i brugerrummet, ikke tømte 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="8c2ad705e3441967cc645ddf9bbbd806b0ad3c91"
 <define-tag pagetitle>RC 2 av Jessie-utgåvan av Debian Installer</define-tag>
 <define-tag release_date>2015-03-27</define-tag>
 #use wml::debian::news

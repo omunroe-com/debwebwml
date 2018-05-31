@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5d2b47c8dcfe6d4f095b7b0a5bdc4a0ab1fdf859" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Antoine Delignat-Lavaud och Karthikeyan Bhargavan  upptäckte att det var

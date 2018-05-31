@@ -15,5 +15,5 @@ in Version 1.0.2-1woody1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-390.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b985197f8e2819fc7410c3bb0db06fce51b2378c"
 # $Id$

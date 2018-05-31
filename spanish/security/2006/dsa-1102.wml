@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="e313cf52513e0ee4771b2d817836d75e2cb0c36e" maintainer="Juan M. Garcia"
 <define-tag description>error de diseño</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp, del proyecto de auditoría de seguridad de Debian, descubrió

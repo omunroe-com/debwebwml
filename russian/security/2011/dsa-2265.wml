@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="36019994be1329108c31718380dc3d62bc84fa98" maintainer="Lev Lamberov"
 <define-tag description>отсутствие передачи флага заражения</define-tag>
 <define-tag moreinfo>
 <p>Марк Мартинек обнаружил, что Perl некорректно выполняет очистку флага заражения

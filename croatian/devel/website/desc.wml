@@ -1,6 +1,6 @@
 #use wml::debian::template title="Kako se pravi www.debian.org"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.28"
+#use wml::debian::translation-check translation="0faec48d6b7457512e3a14bf38688e69861b8b4d"
 
 <p>Debian <em><q>webtree</q></em>, skup direktorija i datoteka koje čine naš
 web site, se nalazi u direktoriju <tt>/org/www.debian.org/www</tt> na

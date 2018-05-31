@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-09-03" SUMMARY="Lintian, archives"
-#use wml::debian::translation-check translation="1.17" maintainer="Guillaume Estival"
+#use wml::debian::translation-check translation="2d59aef33dafdeac2208fa5aca2f3cf72e47800a" maintainer="Guillaume Estival"
 
 <p><strong>Debian pour les professionnels.</strong> Le journal allemand
 c't a publié un <a

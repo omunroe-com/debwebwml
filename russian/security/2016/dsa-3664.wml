@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ab05aaf3901c6a21967ce5b3aae4453817eb2094" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В pdns, авторитетном DNS-сервере, были обнаружены многочисленные

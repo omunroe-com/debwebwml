@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a"
 <define-tag pagetitle>Debian-Installer beta 2 lançado</define-tag>
 <define-tag release_date>2004-01-14</define-tag>
 #use wml::debian::news

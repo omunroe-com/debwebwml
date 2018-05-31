@@ -101,5 +101,5 @@ hochgeladenen Paketen behoben sein.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-423.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="04cd993097ff55003617295306d2d7397b71ba10"
 # $Id$

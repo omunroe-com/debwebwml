@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.exercito.gov.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="0f8488583fcd141c32d63aef29c56c07b0fcc9a1" maintainer="Nicolas Bertolissio"
 
 <p>
 L'armée brésilienne utilise Debian sur des serveurs réseau. La distribution

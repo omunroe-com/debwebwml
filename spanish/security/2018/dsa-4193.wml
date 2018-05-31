@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e2214dc3d0ff1a992dbfc9dd7daa14ab63882423"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron varias vulnerabilidades en wordpress, una herramienta

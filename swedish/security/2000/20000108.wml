@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" mindelta="1"
+#use wml::debian::translation-check translation="9f9bab42f6a09073500f73d102130ca5dfbf503b" mindelta="1"
 <define-tag description>inkorrekt filborttagning i startskript</define-tag>
 <define-tag moreinfo>Versionen av nvi som medföljde Debian GNU/Linux 2.1 har
 ett fel i det medsända /etc/init.d/nviboot-skriptet:

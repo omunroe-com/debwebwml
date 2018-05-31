@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-09-07" SUMMARY="Aktualisierung, Sarge, PAM, Umgebung, RFC, Buildds, Cron, Sender ID, Knoppix, FAI"
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2"
 # $Id$
 
 <p>Willkommen zur 35. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8e425863ccd6f0497d14d178d29ceddf830cb93b"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 Wolfram Kleff encontró un problema en fetchmail: podría caer al procesar

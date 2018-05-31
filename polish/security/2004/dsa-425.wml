@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4269245ddfabf9314ad87a97060ac25941bc9f9d"
 <define-tag description>kilka naruszeń bezpieczeństwa</define-tag>
 <define-tag moreinfo>
 <p>Znaleziono kilka naruszeń bezpieczeństwa w tcpdump, narzędziu służącym

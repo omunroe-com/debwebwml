@@ -18,4 +18,4 @@ version 2.6.5-6etch1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1482.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" mindelta="1"

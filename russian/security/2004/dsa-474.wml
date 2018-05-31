@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4b8fa197a23da6aca91efe86a11d2423a1d6239e"
 <define-tag description>обход ACL</define-tag>
 <define-tag moreinfo>
 <p>Обнаружена уязвимость в squid, кэше содержимого Интернет. Списки

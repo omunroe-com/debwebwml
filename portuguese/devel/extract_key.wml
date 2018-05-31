@@ -1,5 +1,5 @@
 #use wml::debian::template title="Extraindo a chave PGP/GPG de um desenvolvedor"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="e0e8489e695219a95c1630c9211978a2eaee0637"
 
 <p>Procure pelo desenvolvedor no <a href="https://db.debian.org/">Banco de 
 Dados dos Desenvolvedores</a> e clique no(s) link(s) 

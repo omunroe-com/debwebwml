@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fd86e42dd04afcc50b2cac1409df92cf18570a6d"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>セキュリティ問題が複数 Iceweasel、Debian 版の

@@ -20,4 +20,4 @@ version 2.2.3dfsg-4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-817.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="392b2a99cac7e665e8640c896de228b8f038afbc" mindelta="1"

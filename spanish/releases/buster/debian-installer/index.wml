@@ -1,7 +1,7 @@
 #use wml::debian::template title="Información de instalación de Debian &ldquo;buster&rdquo;" NOHEADER="true"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/buster/release.data"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f36546f515e33fb0e590b3db17a516bf3d605f5f"
 
 <h1>Instalar Debian <current_release_buster></h1>
 

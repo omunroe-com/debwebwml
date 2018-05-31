@@ -25,7 +25,7 @@ GNU/Linux.</p>
 
 </define-tag>
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="56a1208ec61483cabeba1c723937aa496cde2c1c"
 #Related Links here (free form)
 <ul>
   <li><a href="https://france.debian.net/">Debian France (kun på fransk)</a></li>

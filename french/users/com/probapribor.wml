@@ -4,7 +4,7 @@
 <define-tag webpage>http://probapribor.spb.ru/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="588471ba019829384d27ee246e42bc400549a4a1" maintainer="Nicolas Bertolissio"
 
 <p>
 Probanauchpribor LLC utilise Debian en tant que serveurs Internet et de réseau

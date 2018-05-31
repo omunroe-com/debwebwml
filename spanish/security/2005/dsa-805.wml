@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="a0c4171d6c81bedeb59d5d9a10e1141c0d317e22" maintainer="Juan M. Garcia"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varios problemas en Apache2, el servidor web de

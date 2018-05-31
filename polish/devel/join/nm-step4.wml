@@ -1,6 +1,6 @@
 #use wml::debian::template title="Krok 4: Zadania i Umiejętności" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.20"
+#use wml::debian::translation-check translation="7606615ccc824d084b77b8389bc4b0de77974b15"
 
 <p>Informacje zawarte na tej stronie, mimo że dostępne publicznie, 
 będą interesujące głównie dla przyszłych Deweloperów Debiana.</p>

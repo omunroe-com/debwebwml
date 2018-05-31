@@ -1,5 +1,5 @@
 #use wml::debian::template title="Recouvrement des clefs &ndash; paquets non vulnérables"
-#use wml::debian::translation-check translation="1.5" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="f87577c169654b68bc6fa088ed7ac85de174a693" maintainer="Nicolas Bertolissio"
 
 <p>
 Les logiciels listés sur cette page utilisent des clefs de chiffrement mais ne

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f7ebe706f87556901da0a77cbb59a04c11967ed7" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Бенджамин Уили Ситлер обнаружил, что repr() в интерпретаторе

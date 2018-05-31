@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="19cc2f98dfc16f29bd8333210c1b02d57cd2ddc4" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Дэниель Даннер обнаружил, что tmux, мультиплексор терминала, неправильно

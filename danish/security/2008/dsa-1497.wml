@@ -33,4 +33,4 @@ distribution (ikke-fri RAR-håndteringskode er fjernet).</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1497.data"
-#use wml::debian::translation-check translation="1.5" mindelta="1"
+#use wml::debian::translation-check translation="7fff5583c1ba1038e83c9ec9437aa804adf18aab" mindelta="1"

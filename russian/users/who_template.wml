@@ -1,5 +1,5 @@
 # From: Submiter Name  <submitter@submitter.com>
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a59cd4982099f399edbf21d52737ec88f2d3fa07" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Название компании/организации/образовательного учреждения</define-tag>
 <define-tag webpage>http://www.foo.com/</define-tag>

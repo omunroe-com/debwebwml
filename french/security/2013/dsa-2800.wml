@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="497797c5ee35bad8a14dae3fd536775a9756bcb2" maintainer="Baptiste Jammet"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Andrew Tinits a signalé un dépassement de tampon potentiellement exploitable dans la

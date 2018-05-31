@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ff1b78cc37a15dd28c23c72b02812f96707ce861" maintainer="Juan M. Garcia"
 <define-tag description>sobreescritura de variable</define-tag>
 <define-tag moreinfo>
 <p>James Bercegay, de <em>GulfTech Security Research</em>, descubrió una

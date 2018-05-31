@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2f4aa66a2a9d81c42d0cfc036d6829021e5c428f"
 <define-tag pagetitle>2013 年のイベント</define-tag>
 #use wml::debian::template title="2013 年のイベント"
 #use wml::debian::recent_list

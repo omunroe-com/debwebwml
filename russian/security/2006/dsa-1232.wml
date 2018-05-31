@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c6a0f49003fbc426b77eacfb48bb58c870b65376" maintainer="Lev Lamberov"
 <define-tag description>отсутствие проверок на чистоту</define-tag>
 <define-tag moreinfo>
 <p>Штефан Гран обнаружил, что некорректные MIME-вложения, закодированные base64,

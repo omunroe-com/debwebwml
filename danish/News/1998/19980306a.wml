@@ -1,7 +1,7 @@
 <define-tag pagetitle>Annoncering vedr. Debian-varemærket</define-tag>
 <define-tag release_date>1998-03-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="78668b74c32262fb3ec8bd4ff80d095c045eb172"
 
 <p>Debian mål er at behandle alle virksomheder lige. En del af det er ikke at
 give en virksomhed fordele som en anden ikke får.</p>

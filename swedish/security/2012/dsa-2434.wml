@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4f00af446769c7ac488a3221255daa5ef0475f51" mindelta="1"
 <define-tag description>känsligt informationsläckage</define-tag>
 <define-tag moreinfo>
 <p>Matthew Daley upptäckte en sårbarhet för minnesavslöjande i nginx. I

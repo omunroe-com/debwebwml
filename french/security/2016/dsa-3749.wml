@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="e16de36699e0bbb38f9d1cb42cf82d61011ebd3b" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Gjoko Krstic de Zero Science Labs a découvert que dcmtk, une collection

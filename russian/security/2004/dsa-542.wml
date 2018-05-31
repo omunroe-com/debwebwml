@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d70164e0c586dc45629827285436626e8f92949b"
 <define-tag description>не производится очистка входного текста</define-tag>
 <define-tag moreinfo>
 <p>Обнаружено несколько уязвимость в последних версиях Qt, широко

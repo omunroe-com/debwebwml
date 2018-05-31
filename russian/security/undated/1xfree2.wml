@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b76af358a84f5c3bd509f1b8fed21d7078642fc5" maintainer="Lev Lamberov"
 <define-tag description>небезопасная обработка файла</define-tag>
 <define-tag moreinfo>
 Серверы XF86_* не проверяют права доступа к дополнительным файлам настроек.

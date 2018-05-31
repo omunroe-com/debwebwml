@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-12-01" SUMMARY="DebConf15 accoglie i suoi primi undici sponsor!, Debian in esecuzione su una calcolatrice grafica, voto sulla risoluzione generale sull'accoppiamento del sistema di init, pillole dal team Debian Med, terza relazione di Freexian sul Supporto a Lungo Termine di Debian, il tag Newcomer nel BTS, Outreach Program for Women di FOSS, risultati dello sprint del Release Team, Allegria e sanità mentale in Debian, note sulla Mini-DebConf di Cambridge, relazione finale sulla DebConf14, Debian Description Translation Project, Bug Squashing Party LiMux a Monaco, DPN chiede: Radioamatori, cosa fate?"
-#use wml::debian::translation-check translation="1.4" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="291c6b80d7cebf7b4fe54748edec55c1aad7fc2b" maintainer="Mirco Scottà"
 
 # $Rev: 5730 $
 # Status: [content-frozen]

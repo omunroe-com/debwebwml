@@ -1,7 +1,7 @@
 #use wml::debian::blend title="О смеси"
 #use "navbar.inc"
 # $Id$
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Lev Lamberov"
 
 <p><b>Чистая смесь Debian Hamradio</b> представляет собой проект <a
 href="https://wiki.debian.org/DebianHams/">команды сопровождающих Debian Hamradio</a>,

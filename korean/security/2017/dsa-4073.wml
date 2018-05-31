@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Sebul"
+#use wml::debian::translation-check translation="31a8c119aea5d07630c347cb815b6f825446e5aa" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>권한 상승, 서비스 거부 또는 정보유출을 이끌 수 있는 여러 취약점이 리눅스 커널에서 발견되었습니다.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="34aac100db750a39d2e70298622025d2736b0702"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Red Hat の Paolo Bonzini さんが、x86ハードウェア用の完全仮想化環境である qemu-kvm

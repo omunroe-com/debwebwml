@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="5f7f04fa25d4ebc5b992a7d7e58b3d9cbc52d84f" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Omer Iqbal a découvert que Mediawiki, un moteur de wiki, analyse des noms

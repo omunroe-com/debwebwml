@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="bcf42ed8d94df5e6dfe756075440c9df7b3779ea" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>이 업데이트는 gcc 자체의 취약점을 고치지는 않지만, 대신

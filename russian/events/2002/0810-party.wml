@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8f911da1362b4bef3e88c3f9c60cf76bd4e655cf" maintainer="Lev Lamberov"
 <define-tag abbr>Party2002</define-tag>
 <define-tag year>2002</define-tag>
 <define-tag pagetitle>Debian Release Party 2002</define-tag>

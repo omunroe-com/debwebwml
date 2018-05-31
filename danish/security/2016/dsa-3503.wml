@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" mindelta="1"
+#use wml::debian::translation-check translation="f64182a1f336ea69c7c3d3d6530a348aeeaf2ff0" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sårbarheder er opdaget i Linux-kerne, hvilke kunne føre til en 

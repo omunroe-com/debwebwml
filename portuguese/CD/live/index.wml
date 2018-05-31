@@ -2,7 +2,7 @@
 #use wml::debian::release_info
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.18" maintainer="Paulo Henrique de Lima Santana (phls)"
+#use wml::debian::translation-check translation="566eb2b064b9f0ba2857df0113835d39cd34e5c2" maintainer="Paulo Henrique de Lima Santana (phls)"
 
 <p>Uma imagem de <q>instalação live</q> contém um sistema Debian que pode
 inicializar sem modificar qualquer arquivo no disco rígido e também

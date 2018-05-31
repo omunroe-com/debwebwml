@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="ea7bd894c29fce0ef0ed2558c46e37662aeed4ad" maintainer="DFS Task Force"
 <define-tag description>Manque de vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Primoz Bratanic a découvert un bogue dans libpam-pgsql, un module PAM pour

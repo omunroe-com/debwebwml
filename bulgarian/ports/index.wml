@@ -1,5 +1,5 @@
 #use wml::debian::template title="Архитектури"
-#use wml::debian::translation-check translation="1.114"
+#use wml::debian::translation-check translation="1861e1634ef2e31816d5a9dff8f3d8b91a081a38"
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::toc
 

@@ -1,6 +1,6 @@
 # Translated by Markku Verkkoniemi on 1999-06-16
 #use wml::debian::template title="Miksi valita Debian?"
-#use wml::debian::translation-check translation="1.74"
+#use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858"
 #include "$(ENGLISHDIR)/releases/info"
 
 <p>Kiitos siitä, että aiot käyttää Debiania tietokoneesi käyttöjärjestelmänä.

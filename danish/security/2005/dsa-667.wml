@@ -43,4 +43,4 @@ version 2.5.7-7.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-667.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="e0e4cc924829d2d3fc67f138f9474a617547a7a4" mindelta="1"

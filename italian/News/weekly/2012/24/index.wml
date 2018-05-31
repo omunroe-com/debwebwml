@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-12-10" SUMMARY="Record di partecipanti alla Mini Debconf di Parigi, Debian sui dispositivi mobili, le immagini ufficiali Debian su AWS Marketplace, relazioni dagli ultimi Bug Squashing Party"
-#use wml::debian::translation-check translation="1.6" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mirco Scottà"
 
 # $Rev: 4487 $
 # Status: [content-frozen]

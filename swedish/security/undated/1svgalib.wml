@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="1ef29ba7b707aeb90628e81b136054d370f76475"
 <define-tag description>Lokal root-attack</define-tag>
 <define-tag moreinfo>
 svgalib övergav inte rootbehörighet korrekt.

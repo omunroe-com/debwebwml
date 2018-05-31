@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="facc3b3a6a2b97d5135e47b141ef031aaed7d916" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Майк Эштон обнаружил, что splitvt, утилита для запуска двух программ в режиме

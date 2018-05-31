@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="f09576d8bbd2b2ec2ae0e4921bd0b3254cd1ad21" maintainer="Juan M. Garcia"
 <define-tag description>no se valida la entrada</define-tag>
 <define-tag moreinfo>
 <p>Andreas Nolden descubrió un error en las rutinas de decodificación en

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="fd370490c836ab6bb8495204dc13fc5e24fc9c50" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de l'installateur Debian Stretch RC 3</define-tag>
 <define-tag release_date>2017-04-10</define-tag>
 #use wml::debian::news

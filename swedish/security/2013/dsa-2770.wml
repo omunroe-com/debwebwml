@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="07f53e915b829ca3c842faf426e69f234def8382" mindelta="1"
 <define-tag description>autentiseringsförbigång</define-tag>
 <define-tag moreinfo>
 <p>John Fitzpatrick från MWR InfoSecurity upptäckte en 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-04-19" SUMMARY="Nasazení, DPL, Stable, non-free, Setkání, Licence, Firmware, Ichtux"
-#use wml::debian::translation-check translation="1.14" maintainer="Martin Kysela"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Martin Kysela"
 
 <p>Vítejte u letošního 16. vydání DWN, týdenního zpravodaje pro komunitu okolo Debianu. Micah Anderson <a href="https://lists.debian.org/debian-devel/2005/02/msg00971.html">oznámil</a>, že počet nejstarších otevřených <a href="https://bugs.debian.org/725">bug</a> <a href="https://bugs.debian.org/825">reportů</a> překročil v&nbsp;tomto týdnu desítku. Brian Proffitt <a href="http://linuxtoday.com/developer/2005041501526OPBZDV">komentovat</a> <a href="http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&amp;newsId=20050413005236&amp;newsLang=en">zprávu</a>, která tvrdí, že v&nbsp;roce 2005 by většina vývojářů svobodného software upřednostňovala komunitní distribuce.</p>
 

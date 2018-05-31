@@ -1,6 +1,6 @@
 <define-tag pagetitle>Evenemang 2000</define-tag>
 #use wml::debian::template title="Evenemang 2000"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9c07b0835cf9c381805b4aefb3f921043c981946"
 
 <:= get_recent_list ( '.', '0', '$(ENGLISHDIR)/events/2000', 'table', '\d+.*' ) :>

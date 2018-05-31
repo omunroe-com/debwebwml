@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="94bc0cfa49a2c8f942c6de66e7d6742efc3f16df" maintainer="Lev Lamberov"
 <define-tag description>утечка информации</define-tag>
 <define-tag moreinfo>
 <p>Джулиано Риццо и Тай Донг обнаружили уязвимость в протоколе TLS/SSL,

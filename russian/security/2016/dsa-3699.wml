@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a50ae30168c0da5dafe1dcb6468742a9cde97e84" maintainer="Lev Lamberov"
 <define-tag description>окончание жизненного цикла</define-tag>
 <define-tag moreinfo>
 <p>Поддержка серии выпусков 4.3 в основой ветке разработки прекращена. Так как

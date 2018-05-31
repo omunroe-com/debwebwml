@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="746a4c24b87d3e19f91bcd864c9cc097f25c71ea" maintainer="Giuseppe Sacco"
 <define-tag description>esposizione di pipe</define-tag>
 <define-tag moreinfo>
 <p>Solar Designer ha trovato un problema in xinetd, un sostituto per la

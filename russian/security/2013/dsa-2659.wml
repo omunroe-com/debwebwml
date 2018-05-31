@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8257097da4e4ec8b1f6a43752f47d486618a067b" maintainer="Lev Lamberov"
 <define-tag description>узявимость обработки внешней сущности XML</define-tag>
 <define-tag moreinfo>
 <p>Тимур Юсунов и Алексей Осипов из Positive Technologies обнаружили,

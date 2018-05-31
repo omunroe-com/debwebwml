@@ -1,7 +1,7 @@
 <define-tag pagetitle>Sikkerhedsunderstøttelsen af Debian 4.0 ophører</define-tag>
 <define-tag release_date>2010-01-21</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <h2>Sikkerhedsunderstøttelsen af Debian GNU/Linux 4.0 ophører den 15. februar</h2>
 

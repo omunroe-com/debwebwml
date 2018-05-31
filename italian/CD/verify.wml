@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Verificare l'autenticità dei CD Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.6" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="553c55e0ca1d5d45ffeaab254ac5430bed284238" maintainer="Mirco Scottà"
 
 <p>
 I rilasci ufficiali dei CD sono accompagnati da file di controllo firmati;

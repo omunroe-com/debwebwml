@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="1f087b48a943d8c7022e35e59d30369e20ce6c75" mindelta="1"
 <define-tag description>lokal filöverskrivning</define-tag>
 <define-tag moreinfo>
 Ethan Bensom hittade ett fel i man-db-paketen som medföljde Debian

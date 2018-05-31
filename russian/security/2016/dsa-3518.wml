@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="adbecfdd1c91fdc4713619cf52c8370f7ea14552" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В SPIP, движке веб-сайта для издательской деятельности, было обнаружено

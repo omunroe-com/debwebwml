@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="78bc2a565e951ed011658368c40487ad890c1a73" mindelta="1"
 <define-tag description>SQL-indsprøjtning</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at libapache2-mod-authnz-external, et autentifikationsmodul til 

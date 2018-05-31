@@ -2,7 +2,7 @@
 #use wml::debian::release_info
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.13" maintainer="chals"
+#use wml::debian::translation-check translation="93aa8a890c3df2a3987b6729b23bc2ae231c2b91" maintainer="chals"
 
 <p>Una imatge d'instal·lació <q>en viu</q> conté un sistema Debian que pot
 arrencar sense modificar els fitxers del disc dur i també permet la instal·lació de Debian

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="83923a54aeb3fbeae6a35a03afb80eee74a4abb2" maintainer="Thomas Vincent"
 <define-tag description>Divulgation d'informations</define-tag>
 <define-tag moreinfo>
 <p>Le cadriciel Spring contient une vulnérabilité de divulgation d'informations 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="b3f97b721a5b6b5466555815e0d34a44463ebbd8" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Andy Lutomirski a découvert que l'appel système ptrace ne vérifiait pas

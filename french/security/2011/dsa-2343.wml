@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="0da5d1f8eb5ae91d9a97bed2b48399c302ea4d51" maintainer="David Prévot"
 <define-tag description>Révocation de confiance en une autorité de certification</define-tag>
 <define-tag moreinfo>
 <p>

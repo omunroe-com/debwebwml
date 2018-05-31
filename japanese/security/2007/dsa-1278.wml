@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d9fdc7911d30dec8a421580b7df64ba3c920f6a1"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>バッファオーバフローが man コマンドに発見されました。特別に細工した引数を -H

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c885f752d0586562900722860bab8fdbdf57ab3c"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>두 취약점이 Vorbis 오디오 압축 코덱의 라이브러리에서 발견되었으며,

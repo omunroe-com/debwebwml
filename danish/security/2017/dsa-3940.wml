@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e90bd5b5bbba8642fd0c2a368859e2a85789c050" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at CVS, et centraliseret versionsstyringssystem, ikke på korrekt 

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Depot zu subversion gewechselt</define-tag>
 <define-tag release_date>2004-03-21</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="57906d70d1439c1c0d3fdbdda3cbfcc29229871e"
 # $Id$
 
 <p>Das Depot des Debian-Installers ist von CVS zu Subversion

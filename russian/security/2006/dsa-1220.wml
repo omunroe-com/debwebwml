@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="05a9dbb8e5e0a02f3fa8dc9bdb2b34bbfb9ea726" maintainer="Lev Lamberov"
 <define-tag description>небезопасное закавычивание имени файла</define-tag>
 <define-tag moreinfo>
 <p>Брайн Мэй обнаружил, что pstotext, утилита для извлечения обычного текста из

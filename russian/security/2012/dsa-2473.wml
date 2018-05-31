@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3849aa2a6cd04d5ac3de874f85ad2ee6975b22c3" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Тилай Ванг обнаружил, что OpenOffice.org не выделяет достаточный

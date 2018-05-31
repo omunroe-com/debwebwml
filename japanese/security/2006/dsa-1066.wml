@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="21886a4e9fcb635830b5b055a2ff5e6439ac9c6a"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>ウェブベースの掲示版プログラム phpbb2 で、"Font Colour 3"

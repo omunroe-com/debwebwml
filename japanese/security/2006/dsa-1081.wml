@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="61adf0d4782c5ac3bd21c948361798341dd555ec"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma さんにより、

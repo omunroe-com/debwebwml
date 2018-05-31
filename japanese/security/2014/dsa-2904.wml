@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0744ddd0daeaccea007cbcaa86b411dd4f627b7d"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Francisco Falcon さんが virtualbox

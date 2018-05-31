@@ -2,7 +2,7 @@
 <define-tag release_date>1998-03-16</define-tag>
 #use wml::debian::news
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="e92b829243f5791757e904bb5f1ef91a5afbc3b6"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-03-02
 
 Bruce Perens wird auf der Konferenz <q>The Challenge of Modern Democracy</q> der

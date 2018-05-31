@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d32ff6c0d603791107e64e31aaa2aebc870915d5"
 <define-tag description>入力のサニタイズ不足</define-tag>
 <define-tag moreinfo>
 <p>PHP テンプレートエンジン Smarty の regex モジュールに欠陥があり、

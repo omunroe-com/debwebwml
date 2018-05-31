@@ -25,4 +25,4 @@ Ovo znači da možete lagano zamijeniti uucico/uuxqt/itd svojim skriptama).
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1997/19970210.data'
 
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="f4424b27037553814e1f2ec9d3c8ac15d2eaef6c"

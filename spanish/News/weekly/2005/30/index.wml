@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-26" SUMMARY="greylisting, empaquetado, debconf, multiarquitecturas, logo, BTS, reunión, DebConf, debtags"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 
 <p>Bienvenidos a la trigésima edición de este año de las DWN, el boletín
 semanal de la comunidad de Debian. El alojamiento ofrecido para dos importantes

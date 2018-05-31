@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="91595b39343ddab71116d8471f5f5789db624810"
 <define-tag description>arquivo temporário inseguro</define-tag>
 <define-tag moreinfo>
 <p>Uma vulnerabilidade foi descoberta no cscope, um programa para

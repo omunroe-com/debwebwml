@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>PkC обнаружил переполнение динамической памяти в tinyproxy, которое может использоваться удалённо.  Злоумышленник может удалённо получить доступ к командной оболочке (пользователь nobody).
 
 <p>Рекомендуется как можно скорее обновить пакет tinyproxy.</define-tag>

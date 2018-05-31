@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="777c4005911fa865791b525565d7396a78cd9c99" mindelta="1"
 <define-tag description>heapbaserat bufferspill</define-tag>
 <define-tag moreinfo>
 <p>Timo Sirainen upptäckte att cURL, ett URLöverföringsbibliotek, är sårbart

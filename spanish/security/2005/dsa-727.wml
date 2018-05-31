@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="48ba54338ccecbf351024e39334494a8258bce25" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Mark Martinec y Robert Lewis descubrieron un desbordamiento de

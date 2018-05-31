@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a1382ef6dd20a6a4258f1e46710e79a01a13890f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Чунгву Хань обнаружил, что ошибка программирования в инструменте wrestool из набора

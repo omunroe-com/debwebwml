@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8cf2b3fbbd743758da58aa1e4b3711df9f33f96b" maintainer="Lev Lamberov"
 <define-tag description>небезопасный временный файл</define-tag>
 <define-tag moreinfo>
 <p>Эрик Романг обнаружил, что centericq, текстовый клиент обмена мгновенными сообщениями

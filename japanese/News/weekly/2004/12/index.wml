@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-23" SUMMARY="FOSDEM, MPlayer, 選挙, non-free, フリーズ, Linux 2.6, カーネル, Init, OSCAR, 3.7&nbsp;GHz, 使い勝手"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 12 号へようこそ。もし Debian GNU/Linux

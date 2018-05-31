@@ -1,6 +1,6 @@
 #use wml::debian::template title="Schritt 2: Identitätsprüfung" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.38"
+#use wml::debian::translation-check translation="b59849318da01faabdbc1d5bb5e05f99c4f7a61a"
 # $Id$
 # Translator: Frank Lichtenheld, frank@lichtenheld.de, 2003-01-28
 # Updated: Holger Wansing <linux@wansing-online.de>, 2012

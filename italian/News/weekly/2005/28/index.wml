@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-12" SUMMARY="LSB, GCC, Consulenti, Ada, Transizioni, Dipendenze, Archivio, Documentazione"
-#use wml::debian::translation-check translation="1.6" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Daniele Venzano"
 
 <p>Benvenuti al ventottesimo numero di quest'anno di DWN, il bollettino settimanale per la comunità Debian.  Bill Allombert sta <a
 href="https://lists.debian.org/debian-devel/2005/06/msg02112.html">cercando</a>

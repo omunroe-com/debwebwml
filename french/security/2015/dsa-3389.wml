@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="e401fddafb1eda4d1e6757d80243260e8e5721a9" maintainer="Thomas Vincent"
 <define-tag description>Fin de vie</define-tag>
 <define-tag moreinfo>
 <p>La prise en charge de la sécurité pour elasticsearch dans Jessie est

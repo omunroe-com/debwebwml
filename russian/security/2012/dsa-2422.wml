@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d61623bcab3e21765058a1d4dd1ccefc152632c2" maintainer="Lev Lamberov"
 <define-tag description>отсутсвие проверок границ массивов</define-tag>
 <define-tag moreinfo>
 <p>Инструмент определения типа файла, file, и связанная с ним библиотека,

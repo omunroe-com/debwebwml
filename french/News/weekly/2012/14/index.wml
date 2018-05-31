@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-07-12" SUMMARY="Nouveau thème graphique, Debcamp, renouvellement d'UDD, brèves du chef de projet"
-#use wml::debian::translation-check translation="1.8" maintainer="David Prévot"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

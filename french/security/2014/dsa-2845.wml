@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="909c4503c7c54687bd06a11ee859b54249493b25" maintainer="Jean-Pierre Giraud"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Ce bulletin d'alerte Debian concerne la mise à jour de la base de données MySQL 5.1 vers la version 5.1.73. Cette mise à jour corrige de multiples problèmes de sécurité non spécifiés dans MySQL : 

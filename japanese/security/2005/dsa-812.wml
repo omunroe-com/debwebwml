@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="075d3f96a5b95b1769aa556d9905ef1601205648"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Peter Karlsson さんが、Fidonet および Usenet から統計情報を収集するプログラム

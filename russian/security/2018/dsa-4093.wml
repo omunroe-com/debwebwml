@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="19269fe99356650d39bc4a5c1ae56e1a7f6fb028" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Йозеф Гайдушек обнаружил, что OpenOCD, JTAG-отладчик для ARM и MIPS,

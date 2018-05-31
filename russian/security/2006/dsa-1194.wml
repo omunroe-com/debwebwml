@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="96e9168c004e655c10692fb5d43ad59f0e9982be" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что переполнение буфера в libwmf, библиотеке для чтения

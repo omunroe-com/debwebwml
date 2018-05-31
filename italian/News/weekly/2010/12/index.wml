@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-09-21" SUMMARY="Linux Mint Debian Edition, <q>seri</q> bug dei programmi, Debian dà il benvenuto ai non-sviluppatori"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 <!--
 $Id$
 $Rev: 949 $

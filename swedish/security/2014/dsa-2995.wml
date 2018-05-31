@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="11c19da83bd50b10d5848055dd789406a1d9e637" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Don A. Bailey från Lab Mouse Security upptäckte ett heltalsspill

@@ -1,6 +1,6 @@
 #use wml::debian::template title="ЧАВО по безопасности в Debian"
 #include "$(ENGLISHDIR)/security/faq.inc"
-#use wml::debian::translation-check translation="1.98" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="84ede1208c98808ea39a461f115525dd3a87a989" maintainer="Lev Lamberov"
 
 <maketoc>
 

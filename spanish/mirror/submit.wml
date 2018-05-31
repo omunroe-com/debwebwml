@@ -1,5 +1,5 @@
 #use wml::debian::template title="Enviar información del sitio de réplica"
-#use wml::debian::translation-check translation="1.88" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="71fcd13c2f4a67e7c67a1d95e58021a7df5be462" maintainer="Laura Arjona Reina"
 #include "$(ENGLISHDIR)/mirror/submit.inc"
 
 <p>Si le gustaría enviar información acerca de un sitio de réplica de Debian

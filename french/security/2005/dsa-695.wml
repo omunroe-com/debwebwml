@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="08991cabba204bc5aaa77bc8013ffb339d98d7f1" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon, entrée non vérifiée, dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans xli, un visualiseur

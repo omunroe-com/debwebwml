@@ -1,5 +1,5 @@
 #use wml::debian::template title="Состояние локализации в Debian&nbsp;&mdash; сравнение количества PO-файлов для разных языков"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="9b292f44a39541d2f3e00486d1f6076c676fdd1f"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
 
 #include "$(ENGLISHDIR)/international/l10n/po/menu.inc"

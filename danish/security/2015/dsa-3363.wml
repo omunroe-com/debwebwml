@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="795159b4bbd13f764dd8e8628690d7c9f514bbc4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Johannes Kliemann opdagede en sårbarhed i ownCloud Desktop Client, 

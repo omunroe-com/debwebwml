@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c3782a3d2c53086a6713eaed1d0f4607a5b2b92d"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>X のディスプレイマネージャ gdm に、ローカルの攻撃者が .ICEauthority

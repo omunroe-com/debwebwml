@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8cf2b3fbbd743758da58aa1e4b3711df9f33f96b" maintainer="Simon Paillard"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Eric Romang a découvert que centericq, un client de messagerie instantanée

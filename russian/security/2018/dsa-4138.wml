@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8021162d65eaefb9beb259748799b6f52088d678" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В mbed TLS, легковесной библиотеке поддержки шифрования и SSL/TLS,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="15ae7cd5e3ba581d7aca2fe1ab43b9d0825ac2bb" maintainer="Lev Lamberov"
 <define-tag pagetitle>Debian в новостях: в прямом эфире на BBC?</define-tag>
 <define-tag release_date>1998-08-26</define-tag>
 #use wml::debian::news

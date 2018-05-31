@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c9c6c0d2be0a5b7f5eeeaa333686bc7347a4cd35" maintainer="Juan M. Garcia"
 <define-tag description>lectura fuera de los límites</define-tag>
 <define-tag moreinfo>
 <p>Andrey Kiselev descubrió un problema en la biblioteca TIFF que podía permitir

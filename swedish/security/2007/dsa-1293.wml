@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="66cbcd32eb97143605d4699861561484c2c371c6" mindelta="1"
 <define-tag description>läser utanför gränser</define-tag>
 <define-tag moreinfo>
 <p>

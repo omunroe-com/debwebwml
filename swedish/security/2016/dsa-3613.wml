@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="754f785153be5c3f4eb72eea0e44982e9247b8a4" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Vivian Zhang och Christoph Anton Mitterer upptäckte att om man sätter

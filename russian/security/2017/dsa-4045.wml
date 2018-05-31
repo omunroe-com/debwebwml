@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3caef406fd7c0df67e69b79f2423af935af97899" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В VLC, проигрывателе мультимедиа от проекта VideoLAN, было обнаружено несколько

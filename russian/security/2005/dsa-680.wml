@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba9e252891916576643ba6f9c19f3dd78403743a" maintainer="Lev Lamberov"
 <define-tag description>неочищеный ввод</define-tag>
 <define-tag moreinfo>
 <p>Майкл Кракс обнаружил возможность межсайтового скриптинга в

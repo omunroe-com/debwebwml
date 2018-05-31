@@ -1,5 +1,5 @@
 # From: Carlo Vinante <carlo.vinante@unipd.it>
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="b02e65a96e86008ae63eb9e07f39657b98421db9" maintainer="Thomas Péteul"
 
 <define-tag pagetitle>Département de Géoscience, Università degli Studi di Padova, Italie</define-tag>
 <define-tag webpage>http://www.geoscienze.unipd.it/</define-tag>

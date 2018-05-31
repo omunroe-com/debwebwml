@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c4a5b59e3a18ebc6f57c09e43474b4217dc2c389"
 <define-tag description>небезопасные правила фильтрации пакетов</define-tag>
 <define-tag moreinfo>
 <p>ipmasq&nbsp;&mdash; это пакет, упрощающий конфигурирование

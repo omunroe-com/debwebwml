@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-05" SUMMARY="Vydání, Instalátor, XML, Obchodní známka, Glade, Pohoršení, Balíčkování, Debconf"
-#use wml::debian::translation-check translation="1.14" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Miroslav Kure"
 
 <p>Vítejte u&nbsp;letošního 27. vydání DWN, týdenního zpravodaje pro
 komunitu okolo Debianu. David Nusinow <a

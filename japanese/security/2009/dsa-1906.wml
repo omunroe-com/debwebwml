@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 <define-tag description>lamav の安定版ディストリビューション (lenny) および
 旧安定版ディストリビューション (etch) 向けのサポート打ち切りのアナウンス</define-tag>
 <define-tag moreinfo>

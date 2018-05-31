@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2007-04-24" SUMMARY="Succès, Summer of Code, GNU/kFreeBSD, DPL, Publication, DebConf, TeX, Images de CD/DVD"
-#use wml::debian::translation-check translation="1.13" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="162af5b01678aca1c64196f46791ebd35386eabc" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 5e&nbsp;<em>DWN</em> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. Roland Mas a <a

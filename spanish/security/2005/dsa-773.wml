@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="f71b5cc85bbb44bc9126b8508d321661176721ff" maintainer="Juan M. Garcia"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Este aviso añade el soporte para seguridad en la distribución estable

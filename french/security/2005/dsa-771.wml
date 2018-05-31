@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="acfad9e19c596da7eb800c848b7074ddd86044d3" maintainer="Mohammed Adnène Trojette"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs problèmes ont été découverts dans pdns, un serveur de noms

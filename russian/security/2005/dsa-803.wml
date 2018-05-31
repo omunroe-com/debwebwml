@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="acfad9e19c596da7eb800c848b7074ddd86044d3" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В веб-сервере Apache была обнаружена уязвимость.  Когда веб-сервер

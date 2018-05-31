@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="19d1e5e08c93c5d16b4818747d43306e6f806e4b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Давид Голунский из LegalHackers обнаружил, что сценарий инициализации Tomcat

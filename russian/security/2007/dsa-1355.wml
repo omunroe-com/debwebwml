@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8f5479868dd54dbeff78f96b07a66afb10eb7174" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что переполнение целых чисел в xpdf, программе просмотра PDF,

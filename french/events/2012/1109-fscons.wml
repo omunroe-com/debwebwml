@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="3fdf17f5cb1bec2b5d75006918d832904897ac84" maintainer="Cédric Boutillier"
 <define-tag abbr>FSCONS</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>Conférence de la société libre et sommet nordique (FSCONS)</define-tag>

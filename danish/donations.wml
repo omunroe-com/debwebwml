@@ -1,5 +1,5 @@
 #use wml::debian::template title="Donationer"
-#use wml::debian::translation-check translation="1.96"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>Donationer varetages af <a href="$(HOME)/devel/leader">Debians 
 projektleder</a> (DPL), og gør det muligt for Debian at have 

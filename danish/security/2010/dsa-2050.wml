@@ -16,4 +16,4 @@ Okular, linker mod PDF-biblioteket poppler.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2050.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f48b75ad34ae102b80841290f25fb1e48d1cce6b" mindelta="1"

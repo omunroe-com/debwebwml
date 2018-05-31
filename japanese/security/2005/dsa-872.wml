@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2b1d16e6a43c1650860788971d6d164011e27691"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans さんが、KDE オフィススイート用のワードプロセッサ

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="9917551b09d08e494c219ae1855cb06e9ada1ae2"
 <define-tag moreinfo>BIND 8 sufría algunos desbordamientos de búfer. Es
 posible construir una consulta inversa que permita al que la pila sea leída
 remotamente exponiendo las variables de entorno. CERT ha revelado información

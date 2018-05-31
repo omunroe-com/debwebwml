@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240"
 <define-tag moreinfo>
 Se ha informado de un error serio en cfingerd previo a la versión 1.4.0. Se
 presenta en todas las versiones de cfingerd desde la 1.2.0 hasta cualquier

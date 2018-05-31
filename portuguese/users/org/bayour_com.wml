@@ -4,7 +4,7 @@
 <define-tag webpage>http://bayour.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="abf3e741c7a6a14731a2d6c1f3a2527895dfc2c5"
 
 <p>
   Eu estou usando o Debian GNU/Linux em todos os servidores de usuários

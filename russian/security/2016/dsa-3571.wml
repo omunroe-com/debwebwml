@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e37a01afc1a0ab4aa1472d070207873af2c024bb" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Саймон Маквитти обнаружил межсайтовый скриптинг в интерфейсе

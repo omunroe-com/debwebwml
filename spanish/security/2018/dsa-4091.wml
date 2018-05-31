@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c22141e5ac34b5218123ffcff5b9f57381cbbbc7"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varios problemas en el servidor de bases de datos MySQL. Las

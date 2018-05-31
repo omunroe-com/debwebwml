@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="eb155426b4699837c9fb88b6e695cb70e2e0fd39" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Бас фон Шаик обнаружил, что WebSVN, инструмент для просмотра репозиториев

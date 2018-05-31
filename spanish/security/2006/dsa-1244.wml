@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="d94a151d9ea41f5b3d9c87b7030a09b53602064c" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que la biblioteca multimedia Xine no realizaba un saneamiento

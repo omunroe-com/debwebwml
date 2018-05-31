@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7e7511c8bfc6245c58db2a37ea225d7e857592de" maintainer="Lev Lamberov"
 <define-tag description>инъекция EL</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Mojarra, реализация JavaServer Faces,

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PAGENAME="Contribuer"
-#use wml::debian::translation-check translation="1.42" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Jean-Paul Guillonneau"
 
 <p>
 Les « Nouvelles du projet Debian » (« <i>Debian Project News</i> »)

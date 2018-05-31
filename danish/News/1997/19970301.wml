@@ -1,7 +1,7 @@
 <define-tag pagetitle>Bestyrelse valgt</define-tag>
 <define-tag release_date>1997-02-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1"
 
 <p>Debian-udviklerne har valgt en <em>bestyrelse</em> til at lede den fremtidige
 udvikling af Debian GNU/Linux og til at støtte den forhenværende projektleder

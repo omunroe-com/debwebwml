@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="15f5bf8cf5166694936e92d364512e81102dbc95"
 <define-tag description>desbordamiento del montón</define-tag>
 <define-tag moreinfo>
 <p>El equipo de rsync, un programa rápido para copia de archivos remotos,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6035859306f1c9e96e9a85503a3335dbf41fa2b6" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Patrick Coleman opdagede at manglende fornuftighedskontrol af inddata i 

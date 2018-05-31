@@ -2,7 +2,7 @@
 <define-tag release_date>2010-06-29</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2010-12-30
 
 <p>Seit 1993, und damit als eine der ersten Linux-Distributionen überhaupt, 

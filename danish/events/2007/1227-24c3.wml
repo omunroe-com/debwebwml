@@ -28,7 +28,7 @@ doneret.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 #Related Links here (free form)
 <ul>
  <li><a href='http://events.ccc.de/congress/2007/'>24C3's offentlige wiki</a></li>

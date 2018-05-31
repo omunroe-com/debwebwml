@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="7b05b6002d3ac6d328ca5007bde753aa76a736b3" maintainer="Marco Carvalho"
 <define-tag description>arquivo temporário inseguro</define-tag>
 <define-tag moreinfo>
 <p>Will Aoki descobriu que o snmptrapfmt, um "daemon" para capturar e 

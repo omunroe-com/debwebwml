@@ -1,7 +1,7 @@
 <define-tag pagetitle>Evenementen in 2004</define-tag>
 #use wml::debian::template title="Evenementen in 2004"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c2f34cde776c5a09d26db08117033caf75315916"
 
 # Last Translation Update by $Author$
 # Last Translation Update at $Date$

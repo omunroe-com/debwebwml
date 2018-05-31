@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="487dda856f92f6f5f76c0266911099d0832304d4" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>nss 3.12.8-1+squeeze11 corrige deux problèmes de sécurité :</p>

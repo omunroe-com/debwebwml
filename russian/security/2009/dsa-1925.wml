@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="299a73094a8679c55579acac791ee934866a308c" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что proftpd-dfsg, служба виртуального хостинга FTP,

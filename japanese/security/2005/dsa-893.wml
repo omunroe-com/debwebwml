@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="addc61ecdf4acb05991f97207f3eb3ff93df5b93"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>Remco Verhoef さんが、侵入データベース用分析コンソール (Analysis Console

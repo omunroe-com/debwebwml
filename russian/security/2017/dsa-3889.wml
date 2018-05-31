@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5c8aef6aa3374d4ee2c1c598f9ac4c2d3443fc35" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>libffi, библиотека для вызова кода, написанного на одном языке, из кода, написанного

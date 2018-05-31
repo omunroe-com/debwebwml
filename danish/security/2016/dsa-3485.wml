@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b49183bc5f071847b27ee5b360df9157639576a7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Alexander Izmailov opdagede at didiwiki, et wikiimplementering, ikke 

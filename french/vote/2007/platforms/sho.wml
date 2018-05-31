@@ -1,6 +1,6 @@
 #use wml::debian::template title="Programme de Sam Hocevar" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.11" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="e2b1e8a0352a11eb78ad0faa56c5bc7265c2be99" maintainer="Nicolas Bertolissio"
 
 <h1>À mon sujet</h1>
 

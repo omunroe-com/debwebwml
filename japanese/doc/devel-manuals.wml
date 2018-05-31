@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Debian 開発者向けマニュアル"
-#use wml::debian::translation-check translation="1.73"
+#use wml::debian::translation-check translation="72af2309b6e70c54dd81bbacd4517f5c985728e0"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
 

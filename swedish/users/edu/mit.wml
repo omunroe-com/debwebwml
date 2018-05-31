@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.ai.mit.edu/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9f3c17a16f57631a165fb3ded537883908bdbc18"
 
 
 <p>

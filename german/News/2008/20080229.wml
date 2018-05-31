@@ -1,7 +1,7 @@
 <define-tag pagetitle>Sicherheitsunterstützung für Debian 3.1 wird eingestellt</define-tag>
 <define-tag release_date>2008-02-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # Translator: Kai Wasserbäch <debian@carbon-project.org> 2008-03-02
 # $Id$
 

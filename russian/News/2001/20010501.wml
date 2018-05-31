@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="655d20ade42c65db179f8672b31111e0a199a473" maintainer="Lev Lamberov"
 <define-tag pagetitle>Проект Debian на двух выставках</define-tag>
 <define-tag release_date>2001-05-01</define-tag>
 #use wml::debian::news

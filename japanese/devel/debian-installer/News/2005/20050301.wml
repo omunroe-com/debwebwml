@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="240ad782b070da8eb5d8dec23f74f47ce4189ad5"
 <define-tag pagetitle>リリース候補 3 (rc3) への準備によって、いくつかの rc2 イメージが壊れています</define-tag>
 <define-tag release_date>2005-03-01</define-tag>
 #use wml::debian::news

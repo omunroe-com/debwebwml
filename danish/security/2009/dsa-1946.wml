@@ -19,4 +19,4 @@ version 2.6.0-6, som allerede er indeholdt i udgivelsen lenny.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1946.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f51f6e5dac5c76c2f97745b9ea1c26c54e71fb26" mindelta="1"

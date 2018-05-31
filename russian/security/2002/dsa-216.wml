@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d38b6c8f3f51be5865ceb7a47dc24ce2e40d424d"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Стефан Эссер (Stefan Esser) из e-matters обнаружил переполнение

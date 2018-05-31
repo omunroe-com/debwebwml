@@ -1,6 +1,6 @@
 #use wml::debian::template title="Пощенски списъци"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.51"
+#use wml::debian::translation-check translation="4ec1ce04da948dcf372b4df03224506807d8a980"
 
 <toc-display/>
 

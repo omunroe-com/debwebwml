@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1b6c2f24e58a399c9664d43d2ee533f6153fb512"
 <define-tag description>フォーマット文字列脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Peter Bieringer さんにより、Postfix のグレイリスティング実装 postgrey

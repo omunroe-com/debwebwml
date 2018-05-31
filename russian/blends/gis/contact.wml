@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Свяжитесь с нами"
 #use "navbar.inc"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="119bc3a5217d95aec18b7362bcbdc917ec862ce8" maintainer="Lev Lamberov"
 
 <p>Главным контактом по связанным с ГИС темам в Debian является
 команда чистой смеси Debian GIS. Вы можете связаться с командой по электронной почте или

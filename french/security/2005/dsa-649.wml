@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="332a499ec7edb037dcd4f69f22ebc11704ab37fc" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Un dépassement de tampon a été découvert dans xtrlock, un programme

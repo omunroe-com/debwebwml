@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9d1defa1fad13565dea8b60c524b719b6a5ccaa6" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ян Хорн обнаружил, что вспомогательная утилита mount.ecryptfs_private, имеющая

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 7 &mdash; Errata" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.17" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="e673bc1c67aefd757c294a7f38eb9aa9f501bd2e" maintainer="Baptiste Jammet"
 
 #include "$(ENGLISHDIR)/releases/info"
 

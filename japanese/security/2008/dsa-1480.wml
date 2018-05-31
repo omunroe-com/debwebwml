@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="42aecd6f7d3beab023a16a76234d15ed8c6f9265"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Alin Rad Pop さんにより、Poppler PDF ライブラリに複数のバッファオーバフ

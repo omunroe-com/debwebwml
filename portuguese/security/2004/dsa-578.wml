@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="016cd4d907a7ec082df314b5e56e49dcdc9fb496"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Carlos Barros descobriu um estouro de buffer na rotina de autenticação

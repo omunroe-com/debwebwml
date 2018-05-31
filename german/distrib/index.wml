@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian besorgen"
 #use wml::fmt::isolatin
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.59"
+#use wml::debian::translation-check translation="0258a9ad572cf94a4162601989a462256f69df0f"
 # $Id$
 # Translator: Hans-Peter Hinrichs <hp@hphinrichs.de>
 # Updated by: Thimo Neubauer <thimo@debian.org>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="eb6faa110429df9789911b30a778266b4e096da4"
 <define-tag description>выполнение произвольных команд</define-tag>
 <define-tag moreinfo>
 <p>Команда безопасности SuSE обнаружила уязвимое место в библиотеке

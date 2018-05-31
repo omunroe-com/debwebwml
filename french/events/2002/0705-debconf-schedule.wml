@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian Conférence 2002 -- Programme"
-#use wml::debian::translation-check translation="1.4" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="5975111473683ceb3e7854dba8ba421a8876787f" maintainer="Pierre Machard"
 
 <define-tag day>
 <preserve date title>

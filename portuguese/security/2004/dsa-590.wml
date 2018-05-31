@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cd7ce16a39894a629551f97ae787d1ac1fbc56ab"
 <define-tag description>vulnerabilidade de formatação de string</define-tag>
 <define-tag moreinfo>
 <p>Khan Shirani descobriu uma vulnerabilidade de formatação de string no

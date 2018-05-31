@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c39aa849f8b06e7bec9b253caf77ba75648ab04e" maintainer="Lev Lamberov"
 <define-tag description>форматная строка</define-tag>
 <define-tag moreinfo>
 <p>Несколько уязвимостей форматной строки были обнаружены в xine-ui,

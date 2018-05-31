@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.santiagoengenharia.com.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8a342cc8b67908c2e52bf433131c16ba1e9d9a02"
 
 <p>
     Nossa organização usa o Debian como proxy de internet e firewall. 

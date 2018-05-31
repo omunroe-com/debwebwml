@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="be5604dd5cce5f0ce36b3188c83616fae19d4f3d"
 <define-tag description>przepełnienia buforów</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" oraz Chris Evans odnaleźli kilka przepełnień buforów opartych na stosach w pakiecie xpdf, narzędziu do obsługi plików PDF (Portable Document Format), które są także obecne w libextractor, bibliotece do wyciągania dowolnych meta-danych z plików, które mogą prowadzić do odmowy wykonania zadania poprzez rozbicie się aplikacji, bądź też do uruchomienia dowolnego kodu.</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0fa23206c72c9c543a94218c3c5486e87d43577c" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>В varnish, передовом высокопроизводительном ускорителе веб, была обнаружена

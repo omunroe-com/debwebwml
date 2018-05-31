@@ -45,4 +45,4 @@ version 2.0.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-851.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a0d600d01715dbbf4914085465813e3a9593ddd4" mindelta="1"

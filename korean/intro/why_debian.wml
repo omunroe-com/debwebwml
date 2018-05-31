@@ -1,6 +1,6 @@
 #use wml::debian::template title="데비안을 선택하는 까닭"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.74" maintainer="Sebul"
+#use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858" maintainer="Sebul"
 
 <P>데비안 GNU/리눅스를 사용하여 자신의 컴퓨터를 운용하는 것에 대해
 고맙습니다. 왜 데비안을 시험해 봐야 하는지 그다지 확신이 서지 않는다면

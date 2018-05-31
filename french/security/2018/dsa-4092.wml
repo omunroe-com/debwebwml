@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d1daec46a7071f3b5d7189aae311b0ffd8bd4ed7" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>L'équipe de sécurité de cPanel a découvert que awstats, un analyseur

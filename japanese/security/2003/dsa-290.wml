@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b0729cb4d784cb3f2895f682b67be6e030f369fa"
 <define-tag description>char 型から int 型への変換時の問題</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski さんは、sendmail 中のアドレス解析コードに char 型から int

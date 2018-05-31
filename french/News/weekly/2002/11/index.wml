@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.14" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Pierre Machard"
 #use wml::debian::weeklynews::header PUBDATE="2002-03-13" SUMMARY="Publication Woody, débat pour le leader du projet Debian, disquettes XFS, l'or paralympique, licence de TeX"
 
 <p>Bienvenue pour la onzième publication de la <i>DWN</i> de l'année, la lettre

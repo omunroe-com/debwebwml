@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="cbc98d6bb8d3a82b9f813aa4833b25e03ef1df64" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Débordement de mémoire tampon par le bas</define-tag>
 <define-tag moreinfo>

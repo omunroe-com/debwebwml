@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="7da51ca6775295150d7cb37e97be72d7507891dd" maintainer="Frédéric Bothamy"
 <define-tag pagetitle>Projets associés à Debian</define-tag>
 <define-tag release_date>1998-01-25</define-tag>
 #use wml::debian::news

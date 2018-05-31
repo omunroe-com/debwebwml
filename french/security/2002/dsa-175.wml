@@ -19,4 +19,4 @@ immédiatement.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-175.data"
-#use wml::debian::translation-check translation="1.3" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="e85141ac1c6f4d0e84afa75b735869a9823c34ec" maintainer="DFS Task Force"

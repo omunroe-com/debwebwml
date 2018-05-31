@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8656611c0ec97bc22445bbab6e9b240772c6cd6e" maintainer="Lev Lamberov"
 <define-tag pagetitle>Обновлённый Debian 7: выпуск 7.7</define-tag>
 <define-tag release_date>2014-10-18</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ee567afb1b94624f13e9e74a2f2396eae4093a54"
 <define-tag description>escalada de privilegios</define-tag>
 <define-tag moreinfo>
 <p>Joey Hess descubrió que fuzz, una herramienta de pruebas de estrés para

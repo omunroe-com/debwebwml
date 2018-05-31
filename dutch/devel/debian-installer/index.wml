@@ -2,7 +2,7 @@
 #use wml::debian::recent_list
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="1.283"
+#use wml::debian::translation-check translation="f36546f515e33fb0e590b3db17a516bf3d605f5f"
 
 <h1>Nieuws</h1>
 

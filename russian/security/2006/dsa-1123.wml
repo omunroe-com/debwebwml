@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4e05c81cbe77a19ad1264049515edaebe2ca8ba4" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Луиджи Аурема обнаружил, что DUMB, библиотека для отслеживания музыки, выполняет

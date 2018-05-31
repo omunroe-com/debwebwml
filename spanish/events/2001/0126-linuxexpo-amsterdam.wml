@@ -23,7 +23,7 @@
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 <ul>
   <li><a href="http://panic.et.tudelft.nl/~costar/linuxexpoamsterdam2001/">Coordination page</a></li>
   <li><a href="mailto:debian-events-eu@lists.debian.org">debian-events-eu mailing list</a>

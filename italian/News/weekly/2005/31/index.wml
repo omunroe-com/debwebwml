@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-08-02" SUMMARY="Descrizioni, PopCon, Accessibilità, Init, ARM, Alioth, Brevetti, Abilità, Eventi"
-#use wml::debian::translation-check translation="1.14" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="88253d82bf691f2bb09a4b9526f024cab1de845f" maintainer="Daniele Venzano"
 
 <p>Benvenuti al trentunesimo numero di quest'anno di DWN, il notiziario 
 settimanale per la comunità Debian. Geert Stappers ha <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="30bc9cbd06621fb0efd2f0dc5e7678f5fc455b79"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Michael Niedermayer さんが xbuffy、メールやニュースグループアカウントの

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="09bb9d549a46131936f0ac5ec411977eb1bae5f7" maintainer="DFS Task Force"
 <define-tag description>Paramètres non respectés</define-tag>
 <define-tag moreinfo>
 <p>Haris Sehic a découvert plusieurs vulnérabilités dans viewcvs, un outil de

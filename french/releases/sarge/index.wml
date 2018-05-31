@@ -1,5 +1,5 @@
 #use wml::debian::template title="Informations sur la version «&nbsp;Sarge&nbsp;»" de Debian
-#use wml::debian::translation-check translation="1.31" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714" maintainer="Nicolas Bertolissio"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/sarge/release.data"

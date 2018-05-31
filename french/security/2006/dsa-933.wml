@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="850a591401504087280fc81128012e6a2ee22168" maintainer="Simon Paillard"
 <define-tag description>Exécution de commande arbitraire</define-tag>
 <define-tag moreinfo>
 <p>Patrice Fournier a découvert que hylafax passait des données non vérifiées

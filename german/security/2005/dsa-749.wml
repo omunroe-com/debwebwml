@@ -18,5 +18,5 @@ Version 0.7.1-1sarge1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-749.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="0e442c640efc207e6b89ad6e23eb8ac0edc17a1f" mindelta="1"
 # $Id$

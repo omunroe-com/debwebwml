@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2d9e99166ee2dccf1e88363126a524dc080fe523" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Эмилиан Гаспар обнаружил, что collectd, служба мониторинга и

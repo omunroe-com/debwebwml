@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian セキュリティ FAQ"
 #include "$(ENGLISHDIR)/security/faq.inc"
-#use wml::debian::translation-check translation="1.94"
+#use wml::debian::translation-check translation="63b352d61da22830330cb6949d9f0c9cd42f2afb"
 
 <maketoc>
 

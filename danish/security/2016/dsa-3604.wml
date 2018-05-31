@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="616b9b70dde0941ba153de8b300a241747d1b964" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En rettighedsforøgelsessårbarhed er fundet i User-modulet i 

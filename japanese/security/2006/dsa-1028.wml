@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="efe2a380651d51ff9da2564cfbc4359842f9b975"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>Kjetil Kjernsmo さんが、24 ビット画像を生成する Perl 拡張

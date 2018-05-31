@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="4f00af446769c7ac488a3221255daa5ef0475f51" maintainer="David Prévot"
 <define-tag description>Fuite d'informations sensibles</define-tag>
 <define-tag moreinfo>
 <p>

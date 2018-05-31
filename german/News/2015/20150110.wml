@@ -2,7 +2,7 @@
 <define-tag release_date>2015-01-10</define-tag>
 #use wml::debian::news
 # $Id:
-#use wml::debian::translation-check translation="1.3" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="b8b626e6285b4b47e07ec3c18194a5ac0d6efcb1" maintainer="Erik Pfannenstein"
 #in sync with svn revision 6055, ready to be published
 
 <define-tag release>7</define-tag>

@@ -1,6 +1,6 @@
 #use wml::debian::language_names
 #use wml::debian::common_tags
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="a1e8656d43afe0da1fe31c91bbecc3ce19cd9da3"
 
 <bind-gettext-domain domain="distrib" />
 

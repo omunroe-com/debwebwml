@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="677083ec192c1c2f8d03b17c2b44a811aa718ad8" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Harry Sintonen upptäckte att wget, ett nätverksverktyg för att hämta

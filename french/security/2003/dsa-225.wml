@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="97226f87b9ad4fd80baa5b170b843cb6fe2e6cc0" maintainer="Pierre Machard"
 <define-tag description>Affichage du code source</define-tag>
 <define-tag moreinfo>
 <p>Il a été confirmé qu'il existait une faille de sécurité dans les

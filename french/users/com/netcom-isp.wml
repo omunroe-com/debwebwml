@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.netcom-isp.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="a5d0741ca522d20994f955cc8ce772b3920b94e3" maintainer="Thomas Vincent"
 
 <p>
 Nous utilisons Debian sur la plupart de nos serveurs pour fournir des services 

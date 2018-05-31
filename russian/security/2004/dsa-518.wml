@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f72ecb05af157932762ce3147d679c2c66050dad"
 <define-tag description>не производится очистка входного текста</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE обнаружили уязвимость в web-браузере Opera, которая может

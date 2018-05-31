@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ebd60a0bed0ff6b760916c52463770741c41da7e" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Et heapbaseret bufferoverløb blev opdaget i bogofilter, en programpakke til 

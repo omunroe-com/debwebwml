@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Treball artístic per als CD de Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.39" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="0f56985fe2aa4e3c2d23cd2da38f210d59cf15a8" maintainer="Guillem Jover"
 
 <p>Si heu fet les vostres pròpies imatges per a les caràtules dels CD i
 voleu compartir-les amb nosaltres, <a

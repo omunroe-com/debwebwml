@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="58da8a44b5513985c2c6f73c994d18480340333f" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder blev opdaget i Mojolicious, et Perl Web Application 

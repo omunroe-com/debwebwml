@@ -37,7 +37,7 @@ allmänheten.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="1464c21fbb68d020a5f810a9cb0e835b972dde9d"
 #Related Links here (free form)
 <ul>
   <li><a href="http://meeting.pluto.linux.it/">Plutomötet 2001</a><br>

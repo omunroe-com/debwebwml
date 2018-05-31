@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="5e8718a8df545a90617136381dd92ea18c422588" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités ont été découvertes dans le serveur DNS BIND d'ISC.</p>

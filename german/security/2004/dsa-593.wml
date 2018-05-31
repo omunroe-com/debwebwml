@@ -17,5 +17,5 @@ Version 6.0.6.2-1.5 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-593.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d76177a04df2a7d1d7558b0253db36d06f629806"
 # $Id$

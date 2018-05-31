@@ -98,5 +98,5 @@ selbstkompilierten.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-495.data"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="6ef5cda8978a4e9efb4e46f33581b5ec99a99451"
 # $Id$

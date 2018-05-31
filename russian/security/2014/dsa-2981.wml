@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ea9cc23e8850767ce4cccf72f84d7c4cec6261e5" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В PolarSSL, облегчённой библиотеке для шифрования и SSL/TLS, была

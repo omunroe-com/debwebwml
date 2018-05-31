@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="1f56ea60b482e10bcccbbc0e9d2ebdffc110e1ca" maintainer="Thomas Vincent"
 <define-tag description>Traversée de répertoires</define-tag>
 <define-tag moreinfo>
 <p>znc, un proxy IRC, ne traite pas correctement certaines requêtes

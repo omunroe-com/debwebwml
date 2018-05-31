@@ -1,6 +1,6 @@
 #use wml::debian::template title="La distribuzione Debian <q>testing</q>" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.40" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2" maintainer="Luca Monducci"
 
 <p>Per informazioni di base sulla distribuzione testing, destinate al semplice utente,
 si vedano le <a href="$(DOC)/manuals/debian-faq/ch-ftparchives#s-testing">FAQ Debian</a>.</p>

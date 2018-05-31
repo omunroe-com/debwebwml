@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="77ae07f8a2af63a8ba978637f20f741059c7a62e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В расширении для поддержки TLS/DTLS Heartbeat в OpenSSL была

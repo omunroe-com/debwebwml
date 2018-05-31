@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="1c68ff4e617748edd68f3562f2da53b3a7138a59" maintainer="Pierre Machard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Un dépassement de tampon a été trouvé dans le « <i>globing code</i> »

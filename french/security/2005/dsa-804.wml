@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="891ab1709d6a8f23285950566eb8b497d37f4042" maintainer="Simon Paillard"
 <define-tag description>Permissions non sécurisées</define-tag>
 <define-tag moreinfo>
 <p>Des développeurs KDE ont signalé une vulnérabilité dans la gestion de la

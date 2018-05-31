@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4ba126cb5b00dec2f12d84180945b9e1e7db932f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В OpenSSL, наборе инструментов Secure Sockets Layer, были обнаружены

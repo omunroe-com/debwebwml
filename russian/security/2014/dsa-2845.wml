@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="909c4503c7c54687bd06a11ee859b54249493b25" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Данная рекомендация представляет собой обновление базы данных MySQL 5.1 до версии 5.1.73, это исправляет многочисленные

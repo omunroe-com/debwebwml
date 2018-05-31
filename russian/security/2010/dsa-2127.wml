@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cf325132059eb44a9487d039767eaadac9d41e5f" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>В wireshark, анализаторе сетевых протоколов, была обнаружена уязвимость.</p>

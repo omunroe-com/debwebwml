@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="5f138a7be1d2647b78d40676578d6cf82af9320f" mindelta="1"
 <define-tag description>serveröverskridande skriptproblem</define-tag>
 <define-tag moreinfo>
 <p>

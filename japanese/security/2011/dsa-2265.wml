@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="36019994be1329108c31718380dc3d62bc84fa98"
 <define-tag description>tainted フラグ伝播のミス</define-tag>
 <define-tag moreinfo>
 

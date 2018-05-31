@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Debian CD-kansitaidetta" BARETITLE=true
-#use wml::debian::translation-check translation="1.41"
+#use wml::debian::translation-check translation="95c243c81514bf27ba01b6a583d56cfc6d7947eb"
 
 <p>Virallista taidetta nykyiselle ja tuoreimmille julkaisuille saattaa löytyä
 <a href="https://wiki.debian.org/DebianArt/Themes">teemojen</a> wiki-sivulta.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="77e46e54b7c8a16a475c71454166adcf381f9019"
 <define-tag description>przepełnienie buforu</define-tag>
 <define-tag moreinfo>
 <p>Przepełnienie buforu zostało odkryte w ethereal, powszechnie

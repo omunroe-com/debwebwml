@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7e248ab1143f1d53baccaadd6cc28f814f1da70c" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Дэниель Дрейк обнаружил проблему в fetchmail, программе для сборки и перенаправления почты по

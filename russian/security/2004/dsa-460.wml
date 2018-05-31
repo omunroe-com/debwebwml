@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1b3646562c6ac50d777b87d91753a389cffad246"
 <define-tag description>небезопасный временный файл</define-tag>
 <define-tag moreinfo>
 <p>Алан Кокс (Alan Cox) обнаружил, что утилита isag (создающая графическое

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="bcf2b536beec3a9d510c6af2257c4cbd9ead5109" maintainer="Juan M. Garcia"
 <define-tag description>ejecución de programa inseguro</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp, del proyecto de auditoría de seguridad de Debian, 

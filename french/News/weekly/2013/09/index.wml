@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-04-29" SUMMARY="Annonce de la date de publication de Wheezy, premiers paquets de Qt 5 dans experimental, Debian Edu Wheezy alpha"
-#use wml::debian::translation-check translation="1.6" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="2d59aef33dafdeac2208fa5aca2f3cf72e47800a" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 1641 $

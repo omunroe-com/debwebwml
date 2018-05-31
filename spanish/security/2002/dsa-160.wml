@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5d267c0764bc80766193a9540f065a54ddfc9f84"
 <define-tag description>creación de archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Spybreak descubrió un problema en scrollkeeper, un sistema libre de

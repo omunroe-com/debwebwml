@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="889dc8a1259b47ea6bdda9a1d8702e98782b2ee5"
 <define-tag description>explotación remota</define-tag>
 <define-tag moreinfo>
 <p>Steve Langasek encontró un error explotable en el código de gestión de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8a117fc12e8f13336885d380aca87997d6ceca41" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Bernhard R. Link a découvert que l'interface de navigation CVS de Gforge, un

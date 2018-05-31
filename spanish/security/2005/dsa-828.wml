@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="1df4260bcb82db4954543d438dfed4c1181d60be" maintainer="Juan M. Garcia"
 <define-tag description>gestión de la autenticación</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores de squid, el conocido proxy caché WWW, han

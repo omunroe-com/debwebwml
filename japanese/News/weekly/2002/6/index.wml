@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-02-06" SUMMARY="Woody, 寄付, テスト版, バグ, Loki, LSB, ブース, Debian Jr., ブートフロッピー"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian 週刊ニュースの
 2002 年第 6 号へようこそ。別のメールフォーマットをためしてから受け取った

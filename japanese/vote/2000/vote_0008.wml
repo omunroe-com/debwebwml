@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="0efa94b42a1c416b546fec5794d5036523c9c0e6"
 <define-tag pagetitle>Superseded: Non-free アーカイブの削除</define-tag>
 <define-tag status>期限切れ</define-tag>
 

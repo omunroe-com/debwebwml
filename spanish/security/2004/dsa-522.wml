@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="adac8c6d64fbffb33a62a73454a133c208c9c483" maintainer="juanma"
 <define-tag description>vulnerabilidad en cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler descubrió una vulnerabilidad de cadena de formato en super,

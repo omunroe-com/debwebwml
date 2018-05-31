@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>Hay un error en la cadena de formato en todas las
 versiones de xlockmore/xlockmore-gl.  Debian GNU/Linux 2.1 (slink) instala
 xlock con setgui por defecto, y esta explotación puede usarse para ganar

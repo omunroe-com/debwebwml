@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="91b91f573a6f9b0eb1316130f1588b7b69095097" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Хуан Пабло Лопес Якубан обнаружил, что неправильная обработка некорректных

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian tritt dem GNOME Foundation Advisory Board bei</define-tag>
 <define-tag release_date>2000-11-21</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e0fd60f5cacbd093e972e0671d5608a6919342fd"
 # Translator: Helge Kreutzmann, debian@helgefjell.de, 2005-07-31
 # $Id$
 

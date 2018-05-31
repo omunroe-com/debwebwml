@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="842f44e93fa539a73fa7939d95f4da6587ef45a2" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Mark Dowd a découvert un défaut dans la gestion des signaux asynchrones dans

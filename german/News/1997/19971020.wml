@@ -1,7 +1,7 @@
 <define-tag pagetitle>Erstes Buch über Debian veröffentlicht</define-tag>
 <define-tag release_date>1997-10-20</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="af1a0fc0fbe10d9d2f9c8a56a180f0c6d1bf7336"
 # Translator: Helge Kreutzmann <debian@helgefjell.de>, 2006-07-02
 # $Id$
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="70e57ac8571d90d234a174115669f10bd52f58de" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Java-messagebrokeren ActiveMQ udførte utilstrækkelig 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d0a6e9a5584d388a82a110dffca28ce81cce9185" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка сертификатов</define-tag>
 <define-tag moreinfo>
 <p>Врейксо Формозо обнаружил, что libgdata, библиотека, используемая для обращения

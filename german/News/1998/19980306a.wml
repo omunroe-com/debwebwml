@@ -1,7 +1,7 @@
 <define-tag pagetitle>Ankündigung zum Debian-Markenzeichen</define-tag>
 <define-tag release_date>1998-03-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="78668b74c32262fb3ec8bd4ff80d095c045eb172"
 # $Id$
 
 <p>Debians Ziel besteht darin, zu allen Firmen fair zu sein.  Daher

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="e8d5bd2ac6b5bc602a78c109d0615bc1799b9f9e" maintainer="Pierre Machard"
 <define-tag description>Format de chaînes de caractères</define-tag>
 <define-tag moreinfo>
 <p><email jaguar@felinemenace.org> a découvert une

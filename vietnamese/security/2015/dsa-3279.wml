@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="f35895f313f0f66487cd8ae4096361558130cae4" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Đã khám phá ra redis, cơ sở dữ liệu khóa-giátrị cố định, có thể

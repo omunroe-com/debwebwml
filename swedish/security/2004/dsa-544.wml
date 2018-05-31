@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c6a84fd28be72f30424f2b65a5bd2dfadbbe202c" mindelta="1"
 <define-tag description>osäker temporär katalog</define-tag>
 <define-tag moreinfo>
 <p>

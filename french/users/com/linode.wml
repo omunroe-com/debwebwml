@@ -1,6 +1,6 @@
 # From: David Roesch <droesch@linode.com>
 # Current as of 2016/03/03
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="8c9eb47dc4977f5b0a902d82f0d8c73f359cdf19" maintainer="Jean-Paul Guillonneau"
 
 <define-tag pagetitle>Linode, USA</define-tag>
 <define-tag webpage>http://www.linode.com/</define-tag>

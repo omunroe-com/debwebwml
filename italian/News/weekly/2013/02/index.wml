@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-01-21" SUMMARY="Pillole da Debian Med, uno sguardo al kernel Linux di Debian <q>Wheezy</q>"
-#use wml::debian::translation-check translation="1.5" maintainer="Francesca Ciceri"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Francesca Ciceri"
 # $Id$
 # $Rev: 4557 $
 # Status: [content-frozen]

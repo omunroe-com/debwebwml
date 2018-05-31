@@ -5,7 +5,7 @@
 <define-tag webpage>http://stabilys.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2d6a511207c61a5cda78ad54e9442d6bc9a043a8"
 
 <p>
     Hovedparten af vores SME-backbones infrastruktur kører Debian.

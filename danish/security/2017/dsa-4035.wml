@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="86ef9067e9b6040fec6c22be00611aba2f01566f" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sikkerhedsproblemer er fundet i webbrowseren Mozilla Firefox:  

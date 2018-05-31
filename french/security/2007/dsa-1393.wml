@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="950a71b48aab827d9a7af3d3a2b0369e696fe573" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Exécution peu sûre</define-tag>
 <define-tag moreinfo>

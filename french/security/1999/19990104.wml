@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.11" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="d623d1ffc2b1ff9c62f4e34d213291e515d408b0" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon dans bootp et ftp</define-tag>
 
 <define-tag moreinfo>

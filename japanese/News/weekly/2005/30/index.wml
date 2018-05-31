@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-26" SUMMARY="graylisting, パッケージング, Debconf, マルチアーキテクチャ, ロゴ, BTS, ミーティング, DebConf, Debtags"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリニュースの今年の第 30 号へようこそ。2 台の重要な Debian

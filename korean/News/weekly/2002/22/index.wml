@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-05-29" SUMMARY="Bandwidth Monitoring, Apt preferences, WineX, Flyers"
 # $Id$
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>데비안 공동체를 위한 데비안 주간뉴스 제22호다. 내용이 적어서 
 미안하지만 Joey가 현재 다른 일로 매우 바쁜 상태이다. 다음주에 이슈를

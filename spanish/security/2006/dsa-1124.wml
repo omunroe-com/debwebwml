@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="4e05c81cbe77a19ad1264049515edaebe2ca8ba4" maintainer="Juan M. Garcia"
 <define-tag description>error tipográfico</define-tag>
 <define-tag moreinfo>
 <p>Toth Andras descubrió que fbgs, el visor postcript y PDF para framebuffer

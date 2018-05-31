@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="64f1bdd05970d2e3a6e32b4883f83cf8a5472d91"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>dpkg に複数の脆弱性が発見されています。

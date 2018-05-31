@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8cc2a5470ec79874964656d8be1fbd1ab8b8c4b7"
 <define-tag description>различные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Стив Кемп (Steve Kemp) и Ягуар обнаружили несколько возможностей

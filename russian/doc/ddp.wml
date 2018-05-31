@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Проект Документации Debian"
-#use wml::debian::translation-check translation="1.51" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618" maintainer="Lev Lamberov"
 
 <p>Проект Документирования Debian был создан для координирования и объединения
 всех усилий по написания документации по системе Debian большего качества и

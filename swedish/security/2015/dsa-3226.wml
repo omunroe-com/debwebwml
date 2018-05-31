@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9f3303af2ae4e6c054d1cd3a9cdd1c0d49e0e7a7" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Adam upptäckte flera problem i inspircd, en IRC-daemon:</p>

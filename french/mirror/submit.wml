@@ -1,5 +1,5 @@
 #use wml::debian::template title="Entrer des informations concernant un miroir"
-#use wml::debian::translation-check translation="1.88" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="71fcd13c2f4a67e7c67a1d95e58021a7df5be462" maintainer="Jean-Paul Guillonneau"
 #include "$(ENGLISHDIR)/mirror/submit.inc"
 
 #traducteurs :voir journal

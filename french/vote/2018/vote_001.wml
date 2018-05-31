@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d77528e722e9676e8e59c37867eb7fde72264fdc" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Élection du responsable du projet Debian 2018</define-tag>
 <define-tag status>F</define-tag>
 # signification des balises <status> :

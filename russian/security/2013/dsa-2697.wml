@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a0acabec6cdd1a7a7acb0fd1372e3096cedbb808" maintainer="Lev Lamberov"
 <define-tag description>чтение за пределами массива</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что вредоносный клиент может вызвать аварийное завершение сервера GNUTLS,

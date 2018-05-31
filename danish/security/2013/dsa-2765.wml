@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d0d009e5396066efaf4ba889c111b0ab849a22eb" mindelta="1"
 <define-tag description>rettighedsforøgelse</define-tag>
 <define-tag moreinfo>
 <p>Davfs2, en filsystemklient til WebDAV, kaldte funktionen system() på usikker 

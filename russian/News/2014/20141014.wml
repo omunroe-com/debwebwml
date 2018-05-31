@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="35ec675e3077d20d739cacf7a8d93fd2cd46469c" maintainer="Lev Lamberov"
 <define-tag pagetitle>Проект Debian выбирает LeaseWeb для предоставления глобального архива срезов</define-tag>
 <define-tag release_date>2014-10-14</define-tag>
 #use wml::debian::news

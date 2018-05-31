@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="7ba6d096ca817a638fbc3a3c11cf8cdfcc72ce2d" maintainer="Thomas Vincent"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>La bibliothèque unicode ICU réalisait un traitement incorrect 

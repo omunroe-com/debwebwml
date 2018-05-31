@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="331ad288d42e0eef51cc4059c52db8833771d2bd" maintainer="Juan M. Garcia"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores de eric, un IDE para Python con muchas prestaciones,

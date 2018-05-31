@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Par défaut, il n'y aucun risque. Mais si l'utilisateur «&nbsp;nobody&nbsp;» 
 possède l'uid 65535, ce problème de sécurité peut être exploité.

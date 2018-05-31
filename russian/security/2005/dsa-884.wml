@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="64abbc5bd95032249f8946884416961bbe78f258" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Майк О'Коннор обнаружил, что по умолчанию Horde3 на

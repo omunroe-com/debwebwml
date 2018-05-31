@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Andrea Scarso"
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="69384d8ce47f0e18730f463e2114618dd8f089ec" maintainer="Lev Lamberov"
 
 <p>Системный администратор Linux, в настоящее время я работаю в компании, занимающейся предоставлением
 Интернета. Почта, DNS, proxy, веб, безопасность, сетевые настройки:

@@ -31,6 +31,6 @@ ia64-Architekturen und HPs laufenden Beziehungen mit Debian halten.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bf2af2ff0b5038dce12473af3e186af74600419e"
 # $Id$
 #Related Links here (free form)

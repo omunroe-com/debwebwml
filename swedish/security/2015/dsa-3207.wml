@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="955b80d1fede6de5f1270b132c0b08ba3c9f7435" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En överbelastningssårbarhet har upptäckts i tjänstleverantören

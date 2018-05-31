@@ -1,5 +1,5 @@
 #use wml::debian::template title="Informació sobre el llançament de Debian «squeeze»"
-#use wml::debian::translation-check translation="1.12" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="1ed219e1746aa05f8c8504510607ef6f68ff5d5d" maintainer="Guillem Jover"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/squeeze/release.data"

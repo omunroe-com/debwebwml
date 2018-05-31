@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="9ed6c472aed0557d35aac94f8a5a1a4f3f0c57dd" maintainer="Thomas Vincent"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Stefan Kaltenbrunner a découvert que ldns, une bibliothèque et un ensemble d'utilitaires

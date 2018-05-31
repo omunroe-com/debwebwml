@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="497797c5ee35bad8a14dae3fd536775a9756bcb2" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Эндрю Тинитс сообщил о потенциально опасном переполнении буфера в

@@ -15,4 +15,4 @@ miljø.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-076.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="21b1db9e2d37144f0e19c50970a2146628cf167e"

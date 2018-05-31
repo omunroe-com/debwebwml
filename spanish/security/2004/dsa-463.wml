@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="68d1a7b16de584b73da2ff5389fe0013174a7770"
 <define-tag description>escalada de privilegios</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que Samba, un servidor de archivos e impresión para

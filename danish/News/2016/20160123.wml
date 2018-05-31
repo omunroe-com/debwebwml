@@ -1,7 +1,7 @@
 <define-tag pagetitle>Opdateret Debian 8: 8.3 udgivet</define-tag>
 <define-tag release_date>2016-01-23</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="eb5af839d6ab3d388e49f0f9602064b97f587406"
 # $Id:
 
 <define-tag release>8</define-tag>

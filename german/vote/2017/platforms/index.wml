@@ -1,7 +1,7 @@
 #use wml::debian::template title="Wahlreden der Projektleiter-Kandidaten" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9946b3f45e0745870fdd1226bb7ff24bd2787367"
 
     <p>
       Das Folgende sind die Wahlreden für jeden der Kandidaten der

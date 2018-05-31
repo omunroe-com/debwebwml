@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-23" SUMMARY="Installation, Installer, Bücher, Forum, SSH, Kernel, Lustre, Abhängigkeiten, Veranstaltungen, HP"
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 # $Id$
 
 <p>Willkommen zur 51. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

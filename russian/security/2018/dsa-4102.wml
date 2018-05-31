@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c8c7ddf465f6cfa73d4a7c3e1e14d978d3422c91" maintainer="Lev Lamberov"
 <define-tag description>обновение безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Thunderbird были обнаружены многочисленные проблемы безопасности, которые могут

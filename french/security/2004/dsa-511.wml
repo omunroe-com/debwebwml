@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="338b5c1939274e9adabcc1dd20f212f11f97085c" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs dépassements de tampon ont été découverts dans <i>ethereal</i>, un

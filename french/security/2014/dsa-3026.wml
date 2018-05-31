@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="fe919c2ae8796f4207eecffd76a224a2e73468fb" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Alban Crequy et Simon McVittie ont découvert plusieurs vulnérabilités dans

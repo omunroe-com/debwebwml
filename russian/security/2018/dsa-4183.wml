@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8c0bdafd19082d2b3c310459809cbb738d0bf7e9" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Tor, анонимная система взаимодействия на основе соединений

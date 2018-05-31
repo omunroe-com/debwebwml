@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>Хавьер Фернандез-Сангуино Пена из проекта Debian Security Audit

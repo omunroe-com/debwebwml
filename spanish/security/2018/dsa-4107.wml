@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b9349e7a94d8d7e7197915be100f13bf80e0b04f"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que la validación de webhooks de Anymail, un backend de correo electrónico

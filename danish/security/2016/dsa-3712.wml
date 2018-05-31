@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8501c30ff4055e4aaad5c69c058103e4095cfd09" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Nicolas Braud-Santoni opdagede at ukorrekt fornuftighedskontrol af tegns 

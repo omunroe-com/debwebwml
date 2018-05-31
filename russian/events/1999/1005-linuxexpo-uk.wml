@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b97a4e3187970c17acf50163a146cd0b9113649a" maintainer="Lev Lamberov"
 <define-tag abbr>linuxexpo-uk</define-tag>
 <define-tag year>1999</define-tag>
 <define-tag pagetitle>UK Linux Expo</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f069cd6d7f5fe46668ca0f4b7891b4ff64427acb" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at en XML-sårbarhed i forbindelse med eksterne entiteter i 

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-11-26" SUMMARY="Debian インストーラの翻訳を完了させる手助け、Debian インストーラ 7.0 ベータ 4 リリース、Debian の新規参加者アンケート"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97"
 
 # $Rev: 4441 $
 # Status: [content-frozen]

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="acce4c7cd463268056390d131b60eb9a1ab320b8" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что libgtk2-perl, интерфейс Perl к библиотекам GIMP Toolkit

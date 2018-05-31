@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="36cf7de56713c5101e60ee8a34e607ebf01286ef"
 <define-tag description>ローカル root 悪用</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE が PacMan (パックマン) アーケードゲームに似た GNU/Linux

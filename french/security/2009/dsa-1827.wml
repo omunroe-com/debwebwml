@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="3dba2ce8874659936ed5820dcd0b3d1aa5dda78a" maintainer="Thomas Vincent"
 <define-tag description>Vérification d'entrées manquante</define-tag>
 <define-tag moreinfo>
 <p>ipplan, un gestionnaire et traqueur web d'adresses IP, n'échappe pas suffisamment

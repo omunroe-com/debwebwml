@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="494dbe8f269595f7acb06aeded752a47fa9a9d35" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Situation de concurrence</define-tag>
 <define-tag moreinfo>

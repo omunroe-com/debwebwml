@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="db5ac4d1c42493930fdb30d7b97a667c3b4e73dd" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Två användning efter frigörningsproblem har upptäckts i DBD::mysql,

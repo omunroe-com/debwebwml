@@ -16,4 +16,4 @@ verarbeitet werden.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1600.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="995698b1afb7c4734bfa84779c159e3fb0b9c98f"

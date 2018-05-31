@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="COLIVRE"
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="db662e6a5ba4eeb74102f3103c6ae4eef0baa744" maintainer="Jean-Pierre Giraud"
 
 <p>
 Assistance de haut niveau, conception d'architectures, développement, conseils

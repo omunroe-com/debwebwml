@@ -23,4 +23,4 @@ version 2:0.1~bzr20080308-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1561.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dfa14f2b5645b5b0902b4da8f0466448817c85ea" mindelta="1"

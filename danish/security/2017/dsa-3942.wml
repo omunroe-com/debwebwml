@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="63acfe388c39a5265ed75347ca8b6a3f2bd36516" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Calum Hutton rapporterede at XML-RPC-serveren i supervisor, et system til 

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2008-09-01" SUMMARY="Debian Live Lenny Beta1, Debian-Übersetzungen für Französisch und Deutsch erreichen 100%, Richtlinien für die Speicherung von Sitzungsdaten von Webanwendungen?"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 #use wml::debian::acronyms
 
 <!--

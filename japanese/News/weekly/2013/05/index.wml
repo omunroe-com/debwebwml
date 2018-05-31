@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-03-04" SUMMARY="Debian 6.0.7 の公開、 GSoC 2013 のプロジェクトとメンター募集のお知らせ、Wheezy リリースの進捗、arm64 用のイメージ"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Rev: 4710 $
 # Status: [content-frozen]

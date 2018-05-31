@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="aaee277daecab2a519ea829493a15c7dbb6aee1a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner さんが、シンボリックリンクを作成、

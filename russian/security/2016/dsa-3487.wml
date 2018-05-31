@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bba7ed9d6b0f1d96ba874f6ed9cfe7cfab23df97" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Андреас Шнайдер сообщил, что libssh2, клиентская библиотека SSH2,

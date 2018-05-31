@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Stand auf dem Pluto-Treffen, Padova, Italien</define-tag>
 <define-tag release_date>1999-09-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 # Translator: Helge Kreutzmann <kreutzm@itp.uni-hannover.de>, 2005-12-17
 # $Id$
 

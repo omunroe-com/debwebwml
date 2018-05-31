@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="97a784255c1487084e5b0ecac5e417d86c172e65" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Andrew Carpenter från Critical Juncture upptäckte en sajtöverskridande

@@ -12,6 +12,6 @@ root-Zugriff auf dem Rechner zu erlangen, der als NFS-Server dient.</p>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19980904.data'
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 # $Id$
 # Translator: Helge Kreutzmann, Helge.Kreutzmann@itp.uni-hannover.de, 2003-08-27

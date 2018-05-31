@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="02539375cf4e79fedbabd127ef30c14bb4541366" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Qualys säkerhetsgrupp upptäckte två sårbarheter i roamingkoden i

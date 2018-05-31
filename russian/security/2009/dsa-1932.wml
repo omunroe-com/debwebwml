@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f3e2cfe6e8da335570f4902d7152b44f9b052c39" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что некорректная обработка указателей в библиотеке purple,

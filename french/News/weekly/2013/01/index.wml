@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-01-07" SUMMARY="Faille de sécurité de <tt>wiki.debian.org</tt>, brèves du chef de projet"
-#use wml::debian::translation-check translation="1.5" maintainer="David Prévot"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="195e138bca88b419d3b59cb7899c2b884a45cd98" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Blake Burkhart opdagede en fejl i forbindelse med udførelse af vilkårlig kode 

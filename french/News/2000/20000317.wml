@@ -1,7 +1,7 @@
 <define-tag pagetitle>Un UltraSPARC60 offert à Debian</define-tag>
 <define-tag release_date>2000-03-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="f495c9852e54ba7fd1a765e4c5ba1bb3e5112dfc" maintainer="Martin Quinson"
 
 <p>Debian a récemment ajouté une machine de plus a sa puissance de
 calcul. Le système est un UltraSPARC 60 doté de deux processeurs

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dedb024363047e5e688a166967671d14747ff2ad" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>David Golunski upptäckte att mysqld_safe-wrappern som tillhandahålls av

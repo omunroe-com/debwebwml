@@ -23,5 +23,5 @@ von fetchmail und fetchmail-ssl behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-216.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d38b6c8f3f51be5865ceb7a47dc24ce2e40d424d"
 # $Id$

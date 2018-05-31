@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0e248e3cc0255acdb2cac64b43e08665b631e6de"
 <define-tag description>ホスト名およびユーザ名の不十分なチェック</define-tag>
 <define-tag moreinfo>
 <p>Patrice Fournier さんは、柔軟なクライアントサーバ FAX システムである hylafax

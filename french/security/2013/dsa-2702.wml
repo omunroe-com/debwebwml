@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="ed43effc6df249a689fee1f7e63935bb1402972d" maintainer="Thomas Vincent"
 <define-tag description>Contournement de vérification TLS</define-tag>
 <define-tag moreinfo>
 <p>Maksim Otstavnov a découvert que le sous module Wocky utilisé par

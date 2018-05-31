@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="58bc02c898a6df1e4cb6eba970a95c277d81dc4c"
 <define-tag description>ファイル漏洩</define-tag>
 <define-tag moreinfo>
 <p>Julien Cayzac さんにより、最小のメモリフットプリントで動作する高速なウェ

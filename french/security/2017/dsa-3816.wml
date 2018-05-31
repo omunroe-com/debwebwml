@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="57babdceb4f1665773aa4a2dff7f536c252a9a3c" maintainer="Baptiste Jammet"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Jann Horn de Google a découvert une situation de compétition entre

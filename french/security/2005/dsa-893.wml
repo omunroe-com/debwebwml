@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="addc61ecdf4acb05991f97207f3eb3ff93df5b93" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Remco Verhoef a découvert une vulnérabilité dans acidlab, <i>Analysis

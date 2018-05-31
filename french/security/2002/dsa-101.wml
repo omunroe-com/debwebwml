@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="3e04347844f1889b0e3e77ca62857b31e05b5119" maintainer="Pierre Machard"
 <define-tag description>Accès local en root abusif</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer de SuSE a trouvé une faille dans <code>sudo</code>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="3849e632e159ad71ff33e9ac7435af4ecd8bbffc" mindelta="1"
 <define-tag description>överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Aki Helin från OUSPG upptäckte flera problem med läsning utanför gränserna i

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Общее решение: почему GNU Free Documentation License не подходит для Debian main" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9a6c4e187fcf3ed4341595dcebb3dd8d0a9d2e56" maintainer="Lev Lamberov"
 
 
     <table width="90%">

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="80da9320a8b0ed15ce47d4bcaa76bcc122fd748b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Гвидо Вранкен обнаружил, что неправильное управление памятью в libtirpc,

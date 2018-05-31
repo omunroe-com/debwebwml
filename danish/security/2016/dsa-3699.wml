@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a50ae30168c0da5dafe1dcb6468742a9cde97e84" mindelta="1"
 <define-tag description>ophør af livsforløb</define-tag>
 <define-tag moreinfo>
 <p>Opstrømsunderstøttelse af 4.3-udgivelsesserien er ophørt, og da der ikke er 

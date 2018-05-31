@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-9-21" SUMMARY="Debconf publié, Corel proche de la version bêta, une idée folle"
-#use wml::debian::translation-check translation="1.24" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Thomas Huriaux"
 
 <p>Nous avons le plaisir de vous présenter la 36e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian.

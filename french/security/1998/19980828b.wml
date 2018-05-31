@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f0ec8942dbe43e07744303cf2c915c9eba3d548e" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Nous avons reçu un rapport concernant un nouveau genre d'attaque en déni de 
 service. Il désactive les systèmes de news <i>INN</i>. Quelqu'un envoie des

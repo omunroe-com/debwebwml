@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="91cc87cd2ab1d8f51ad044ea6f2e4a914db52491" maintainer="Lev Lamberov"
 <define-tag description>обновление чёрного списка сертификатов ssl</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление библиотек Network Security Service отмечает несколько

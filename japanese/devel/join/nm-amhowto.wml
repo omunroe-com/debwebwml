@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 新メンバー応募管理者 (AM) のための Mini-HOWTO"
-#use wml::debian::translation-check translation="1.41"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
 
 <p><b>注意:</b> このページよりも wiki ページ
 <a href="https://wiki.debian.org/FrontDesk/AMTutorial">\

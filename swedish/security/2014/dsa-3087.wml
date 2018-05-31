@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d661f5778ba95708582516b6a8e76833def93442" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Paolo Bonzini från Red Hat upptäckte att kontrollen av blitregioner

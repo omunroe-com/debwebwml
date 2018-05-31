@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b0aa4eea357692d2fcff9d8a5f37d3d58462ebb6" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at specifikke APL RR-data kunne udløse en i INSIST-fejl i 

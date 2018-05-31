@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="ecd3ea1de517c95d3d590b94ff8f40431043bfa4" maintainer="Simon Paillard"
 <define-tag description>Permissions et fichier temporaire non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Deux bogues ont été découverts dans backup-manager, un utilitaire de

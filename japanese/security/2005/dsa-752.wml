@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>GNU 圧縮ユーティリティ gzip に問題が 2 件、発見されました。

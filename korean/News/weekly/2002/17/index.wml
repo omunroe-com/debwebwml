@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-04-24" SUMMARY="Debian/FreeBSD, Thanks, XFree86 4.2, Hurd, Additional Keys, Potato"
 # $Id$
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>데비안 공동체를 위한 올해 열일곱 번째 DWN. 데비안 프로젝트는 <a href="http://www.oasis-open.org/">OASIS</a>(Organization for the Advancement
 of Structured Information Standards)에 들어갔기 때문에 이 곳에도

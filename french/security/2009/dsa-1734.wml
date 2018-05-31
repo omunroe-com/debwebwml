@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="b9a9eec77394c4d79d827b9f35ea4d5f9a5643a6" maintainer="Thomas Vincent"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>b.badrignans a découvert qu'OpenSC, une ensemble d'utilitaires pour cartes à puces,

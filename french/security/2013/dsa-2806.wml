@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="c88ef48986a56b23281b8b7643a5e2894072d76b" maintainer="Thomas Vincent"
 <define-tag description>Augmentation de droits</define-tag>
 <define-tag moreinfo>
 <p>nbd-server, le serveur du protocole <q>Network Block Device</q>, traitait de

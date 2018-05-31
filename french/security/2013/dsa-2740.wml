@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="29b02b42199757574b8261270eff22d3390eaa7a" maintainer="Thomas Vincent"
 <define-tag description>Vulnérabilité de script intersite</define-tag>
 <define-tag moreinfo>
 <p>Nick Brunn a signalé une potentielle vulnérabilité de script intersite

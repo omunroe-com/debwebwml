@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-06-11" SUMMARY="Debian hilser mangfoldighed velkommen, arkivgenopbygninger på AWS, armhf og s390x som udgivelsesarkitekturer"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Id$
 # $Rev: 3888 $

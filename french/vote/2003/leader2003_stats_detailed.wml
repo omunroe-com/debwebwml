@@ -1,5 +1,5 @@
 #use wml::debian::template title="Statistiques de l'élection 2003 du responsable du projet Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="c821b0de7daec6cd93efb0fff77c514cc56ddec8" maintainer="Nicolas Bertolissio"
 
 <table width="90%">
   <tbody>

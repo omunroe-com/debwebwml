@@ -1,5 +1,5 @@
 #use wml::debian::template title="Conférence du logiciel libre et à source ouvert &mdash; compte-rendu"
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="b62500fbc21330b61f93e721b5957dfc1c6824f1" maintainer="Thomas Péteul"
 
 <p>La <a href="http://www.froscon.de/">Conférence du logiciel libre et à
 source ouvert</a> (FrOSCon) est un événement à destination de la communauté et

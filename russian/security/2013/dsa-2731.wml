@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="14db61b81cc4b11338ac03d4bed3f74b4bd384a6" maintainer="Lev Lamberov"
 <define-tag description>утечка информации</define-tag>
 <define-tag moreinfo>
 <p>Yarom и Falkner обнаружили, что секретные ключи RSA в приложениях, использующих

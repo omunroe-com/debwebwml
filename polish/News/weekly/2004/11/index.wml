@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-16" SUMMARY="Sukces, non-free, init, USB Flash, Subversion, BTS, instalacja, sprzęt, CeBIT, płyty CD, BSP"
-#use wml::debian::translation-check translation="1.9" maintainer=""
+#use wml::debian::translation-check translation="6e323e6863dfd693fe262e55a63a510f1c56ac72" maintainer=""
 
 <p>Witaj w jedenastym w tym roku numerze DWN, tygodnika dla osób
 zainteresowanych i związanych z Debianem.  Ludovic Brenta <a

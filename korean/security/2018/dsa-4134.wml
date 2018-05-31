@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="e24a7b27210cba3237ad1f504cabccd01d801e8d" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>Bjorn Bosselmann는 util-linux의 umount bash 완성이 

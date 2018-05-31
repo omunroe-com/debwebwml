@@ -4,7 +4,7 @@
 <define-tag pagetitle>DebConf15 - Debian-konference i Heidelberg</define-tag>
 <define-tag release_date>2015-08-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="7b1fc7144274a4b97b70e1ff0a81335142256ebb"
 
 <ul>
     <li>Den 16. Debian-konference, for første gang i Tyskland, 15.-22. august 

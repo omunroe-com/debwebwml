@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dfa0f5b7123833f112ba15d483c8072455e06c11" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Aleksandar Nikolic opdagede at en fejl i x509-fortolkeren i det 

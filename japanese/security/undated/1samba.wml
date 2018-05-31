@@ -15,4 +15,4 @@ Samba の問題により、ユーザがリモートから root 特権を得ら�
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/undated/1samba.data'
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="afde4d9b3c02ef48c74185df651d828319d78c2a"

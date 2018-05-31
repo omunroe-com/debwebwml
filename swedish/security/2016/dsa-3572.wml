@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d46566b6bf0d4629418e9552c6568597efe9718c" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Nitin Venkatesh upptäckte att websvn, en webvisare för Subversionförråd

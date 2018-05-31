@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4" maintainer="Jean-Paul Guillonneau"
 <define-tag pagetitle>Brèves des responsables radioamateurs de Debian</define-tag>
 <define-tag release_date>15/09/2015</define-tag>
 #use wml::debian::news

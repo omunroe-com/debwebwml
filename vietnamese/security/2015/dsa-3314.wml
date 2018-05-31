@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="99c9266fae57b82da1a40cc59d483ce6d5f302df" maintainer="Trần Ngọc Quân"
 <define-tag description>hết vòng đời</define-tag>
 <define-tag moreinfo>
 <p>Hỗ trợ bảo mật thượng nguồn cho Typo3 4.5.x đã chấm dứt ba tháng trước và

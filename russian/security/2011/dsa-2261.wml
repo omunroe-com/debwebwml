@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="957ba648525828b505241cd8cfc54f64eca0c91c" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Йорнхен из Phenoelit обнаружил несколько уязвимостей в Redmine,

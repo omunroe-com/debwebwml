@@ -37,7 +37,7 @@ introduktion till hur Debianprojektet arbetar och hur det är uppbyggt.
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0ecacfcfc92745d94c35fc25689c833fbe903126"
 <ul>
  <li><a href="http://otstavnov.com/fsr/" hreflang="ru">Ingångssida</a> (ryska)
  <li><a href="http://otstavnov.com/fsr/fsr-photos.phtml" hreflang="ru">Rapport och bilder</a> (ryska)

@@ -18,4 +18,4 @@ i samba, en populær SMB/CIFS-implementering. Problemerne er:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-262.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="03be4e124eb885e906d28006cf4bf10fb15aa45e"

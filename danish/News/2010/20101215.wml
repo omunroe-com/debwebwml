@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 6.0 <q>Squeeze</q> vil blive udgivet med en helt fri Linux-kerne</define-tag>
 <define-tag release_date>2010-12-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Gennem de sidste to udgivelsescyklusser har Debian-projektet har arbejdet på 
 at fjerne ikke-fri firmware fra Linux-kernen, der leveres med Debian.  Ved 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="73d0acfaa105083296c2192c98c8ff5329618ccc" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Александр Патраков обнаружил проблему в strongSwan, наборе IKE/IPsec,

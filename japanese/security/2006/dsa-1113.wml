@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6d942f26f1cc6bc7a19ca1f102c6ecb01eb0815b"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Zope ウェブアプリケーションサーバで、"restructured text (reStructuredText)"

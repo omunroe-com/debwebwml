@@ -1,5 +1,5 @@
 #use wml::debian::template title="Извещение о неограниченном доступе к исходному коду ПО для шифрования" BARETITLE=true
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Lev Lamberov"
 
 # Nota bene! This is basically draft text from the lawyers, and it must
 # _not_ be modified for spelling errors and such. Formatting changes are

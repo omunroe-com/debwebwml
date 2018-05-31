@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f480635ff88d0c07a5c2066b34ec3c624afcc8dd" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Två sårbarheter upptäcktes i quagga, en BGP/OSPF/RIP-routingdemon.</p>

@@ -15,7 +15,7 @@ libapache-mod-dav のバージョン 1.0.3-10 および Apache 2 のバージョ
 <p>直ちに mod_dav パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="45a133052dae9c3da2214064efdae484da514775"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-558.data"
 # $Id$

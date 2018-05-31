@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.unisul.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="89cd672a886afa1e47847e132ec55e7d4a69fbe1" maintainer="Nicolas Bertolissio"
 
 <p>
 Debian est utilisée comme serveur pour partager images, base de données,

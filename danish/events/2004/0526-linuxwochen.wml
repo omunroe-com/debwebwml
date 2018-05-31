@@ -20,7 +20,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="b626de1e77a5434982c61266b988455b3ff4f83b"
 #Related Links here (free form)
 <ul>
   <li><a href="0526-linuxwochen-report">Rapport</a></li>

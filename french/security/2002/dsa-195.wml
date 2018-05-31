@@ -62,4 +62,4 @@ immédiatement.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-195.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="891ef4d5e1068c7947c1642f919f6caef4132d17" maintainer="DFS Task Force"

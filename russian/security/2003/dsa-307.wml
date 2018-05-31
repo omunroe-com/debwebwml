@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="43951ab8a6b959d285b04871474f2a9b13309751"
 <define-tag description>много ошибок</define-tag>
 <define-tag moreinfo>
 <p>gPS&nbsp;&mdash; это графическое приложение для просмотра информации

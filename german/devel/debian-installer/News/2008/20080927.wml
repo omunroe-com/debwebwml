@@ -1,7 +1,7 @@
 <define-tag pagetitle>Bekanntermaßen funktionieren durch die Veröffentlichung des Lenny Veröffentlichungskandidaten 1 einige Installationsmedien von Beta 2 und Etch-and-a-half nicht mehr</define-tag>
 <define-tag release_date>2008-09-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d0b034ac4423c229c439b2fd32e6531c27fc9aa2"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2008-09-30
 
 <p>

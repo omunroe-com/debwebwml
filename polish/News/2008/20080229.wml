@@ -1,7 +1,7 @@
 <define-tag pagetitle>Zakończone wsparcie bezpieczeństwa dla wersji 3.1 Debiana</define-tag>
 <define-tag release_date>2008-02-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 
 <h2>Wsparcie bezpieczeństwa dla Debiana GNU/Linux 3.1 zostanie zakończone

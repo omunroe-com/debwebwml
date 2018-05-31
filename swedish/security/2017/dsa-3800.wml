@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0e79e151cdf7ae8eb1e7dd3d5fbba2b03d6f4c29" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Marco Romano upptäckte att libquicktime, ett bibliotek för läsning och

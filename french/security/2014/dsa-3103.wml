@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="72153d0bb9551bb4754557dd5c085e84fffcd21a" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Jonathan Gray et Stanislaw Pitucha ont découvert un échec d'assertion dans

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="566423828a5c39d0bc96ad606430af5bb1e47162"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Alfred Farrugia y Sandro Gauci descubrieron un desbordamiento por uno («off-by-one») de la memoria dinámica («heap»)

@@ -20,4 +20,4 @@ at vælge et link i en webbrowser).</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-342.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6e2bbca2d4cd3a98a37e13db5b85e544d5e25b4e"

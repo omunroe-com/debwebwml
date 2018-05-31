@@ -21,4 +21,4 @@ la version&nbsp;1.0.0+cvs.20030321-1 de <i>ecartis</i>.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-271.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="6ff0e0e23e8e238982ba6f42dce5d7a7544e72cc" maintainer="DFS Task Force"

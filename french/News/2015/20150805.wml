@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="7b1fc7144274a4b97b70e1ff0a81335142256ebb" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>DebConf15 - Conférence Debian à Heidelberg</define-tag>
 <define-tag release_date>2015-08-05</define-tag>
 #use wml::debian::news

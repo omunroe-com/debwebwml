@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="778bbfaac229c1ea008e58777ccb97f94fd1158c" mindelta="1"
 <define-tag description>omgåelse af begrænsning</define-tag>
 <define-tag moreinfo>
 <p>Ivan Fratric fra Google Security Team opdagede en fejl i nginx, en webserver, 

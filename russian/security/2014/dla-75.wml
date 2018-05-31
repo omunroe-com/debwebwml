@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c56b457d31a35cdfc3ec5ac83b867afb9606987b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление исправляет одну важную уязвимость (<a href="https://security-tracker.debian.org/tracker/CVE-2014-4274">CVE-2014-4274</a>), а также

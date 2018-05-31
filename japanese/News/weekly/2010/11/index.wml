@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-09-08" SUMMARY="Debian Women プロジェクトからの一言、DPL による DebConf10 の報告、バックポートサービスが公式に"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="f3d5ed6297fc8b7e45a2ab7501f5d88ba8a328cf"
 
 <!--
 $Rev: 844 $

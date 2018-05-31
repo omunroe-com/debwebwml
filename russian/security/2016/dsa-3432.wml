@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7e76c712f7c9f550222b7f0a7060219d5eac5aae" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Icedove, версии почтового клиента Mozilla Thunderbird для Debian,

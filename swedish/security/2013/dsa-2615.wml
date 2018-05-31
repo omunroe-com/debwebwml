@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="088e040ce6038d6d3f669175ef7e7ee3c2006aeb" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Flera stack-baserade buffertspill upptäcktes i libupnp4, ett bibliotek

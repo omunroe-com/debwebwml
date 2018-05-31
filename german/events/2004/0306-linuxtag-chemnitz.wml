@@ -25,7 +25,7 @@ Loschwitz wird einen allgemeinen Vortrag über Debian halten.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 # $Id$
 #Related Links here (free form)
 <ul>

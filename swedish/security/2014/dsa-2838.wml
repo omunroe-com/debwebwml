@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4845ecdd5643e5e38661ccfb33053fdce3cc2956" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att ett buffertspill i behandlingen av Glyph

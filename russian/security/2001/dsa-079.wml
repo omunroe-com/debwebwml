@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="953c5b433a7726472cff70c853f9f44ac2a7608c" maintainer="Lev Lamberov"
 <define-tag description>uucp-доступ с флагами uid/gid</define-tag>
 <define-tag moreinfo>
 <p>Зенит Парсек обнаружил уязвимость в Taylor UUCP 1.06.1.  Она

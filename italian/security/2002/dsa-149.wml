@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="552816a6040161e20725b9cb48238a60a97e2e47" maintainer="Giuseppe Sacco"
 <define-tag description>overflow di intero</define-tag>
 <define-tag moreinfo>
 <p>Un bug relativo ad un overflow di intero è stato scoperto nella libreria

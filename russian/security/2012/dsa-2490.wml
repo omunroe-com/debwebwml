@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="59ad478560f2ab5bafa51e3856c78ffb18e7a957" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Каспар Бранд обнаружил, что библиотеки Mozilla Network Security Services (NSS)

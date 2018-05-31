@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8560a19ebc97007b93ee5c1a15cd299b82810b23"
 <define-tag description>explotación de root remota</define-tag>
 <define-tag moreinfo>
 La citación impropia de datos de usuario en mgetty permitía a los usuarios

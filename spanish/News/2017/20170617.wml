@@ -5,7 +5,7 @@
 <define-tag pagetitle>Debian 9 <q>Stretch</q> publicado</define-tag>
 <define-tag release_date>2017-06-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Javier Fernández-Sanguino"
+#use wml::debian::translation-check translation="aefc4546404b2af3e1bf681db2fb90b234a77012" maintainer="Javier Fernández-Sanguino"
 
 
 <p>Después de 26 meses de desarrollo, el proyecto Debian se 

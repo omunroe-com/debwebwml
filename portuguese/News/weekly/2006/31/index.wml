@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-01" SUMMARY="Empacotamento, Responsabilidade, Xen, Marca, APT Seguro, Exim, Documentação, Traduções"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="468a03db54efe3303f84ef8261dd6078cce0a411"
 
 <p>Bem vindo à trigésima primeira edição da DWN, o periódico semanal
 para a comunidade Debian.  Christoph Berg <a

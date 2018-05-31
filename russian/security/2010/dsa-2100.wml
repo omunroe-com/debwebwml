@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b3e5911074dcfdf607f971b90f268a21aa04758d" maintainer="Lev Lamberov"
 <define-tag description>двойное освобождение</define-tag>
 <define-tag moreinfo>
 <p>Джордж Ганински обнаружил двойное освобождение в коде ECDH из состава библиотека

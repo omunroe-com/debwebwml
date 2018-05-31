@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="e16de36699e0bbb38f9d1cb42cf82d61011ebd3b" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Gjoko Krstic från Zero Science Labs upptäckte att dcmtk, ett samling

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d3946a3c26478aebb6f7c871681bb7a25221fcc0"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>整数オーバフローが helix 音楽およびビデオプレーヤ helix-player に発見されました。

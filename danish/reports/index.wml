@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian-rapporter" BARETITLE="true"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="837e12c68494152286a980220c723c0686bc1bcb"
 
 <p>Debian udgiver og udbreder rapporter og standpunktserklæringer om emner i 
 forbindelse med fri software og projektets distribution.</p>

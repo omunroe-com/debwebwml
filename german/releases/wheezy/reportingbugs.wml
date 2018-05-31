@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian 7 -- Probleme berichten" BARETITLE=true
 
 # Translators: copy of squeeze/reportingbug
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8844e216b88b5bab6744f5ffb34f62f802cff3fc"
 # $Id$
 # Translator: Holger Wansing <linux@wansing-online.de>, 2013
 

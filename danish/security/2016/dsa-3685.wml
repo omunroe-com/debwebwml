@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="585b92880ed46906ea56c322fe33d0f8e299d395" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sikkerhedsproblemer er rettet i adskillige demuxere og dekodere i 

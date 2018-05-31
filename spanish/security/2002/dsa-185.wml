@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a15338d260bec7f6eaddec5ddc88d750416cd45c"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un desbordamiento de búfer en la función

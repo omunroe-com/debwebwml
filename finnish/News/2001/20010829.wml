@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian entisille BeOS-käyttäjille</define-tag>
 <define-tag release_date>2001-8-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="e7cdfdf8979491a3a6b925f29c5e20fcd3df2377"
 
 <p>Stephen van Egmond kirjoitti artikkelin arvioiden Debiania
 BeOS-käyttäjille.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3038f2c5d4858f2f82245cc5c45c078c802666c4"
 <define-tag description>入力のサニタイズ不足</define-tag>
 <define-tag moreinfo>
 <p>大野雅子さんにより、ウェブベースの MySQL 管理インターフェース phpMyAdmin

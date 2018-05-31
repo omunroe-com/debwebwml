@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7477a4e0ec5b3a06fde28c5b88b87c6e43901445" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Эйнар Лонн обнаружил, что при определённых обстоятельствах bind9, сервер DNS,

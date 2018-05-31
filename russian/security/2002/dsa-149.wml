@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="552816a6040161e20725b9cb48238a60a97e2e47" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>В библиотеке RPC, используемой GNU libc и созданной на основе библиотеки

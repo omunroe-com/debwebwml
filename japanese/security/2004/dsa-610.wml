@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="91595b39343ddab71116d8471f5f5789db624810"
 <define-tag description>安全でない一時ファイルの作成</define-tag>
 <define-tag moreinfo>
 <p>対話形式で C のソースコードを検査するプログラム cscope に、

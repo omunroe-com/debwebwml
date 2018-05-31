@@ -11,7 +11,7 @@
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="aefc4546404b2af3e1bf681db2fb90b234a77012" maintainer="Lev Lamberov"
 
 <p>После 26 месяцев разработки Проект Debian с гордостью представляет
 новую стабильную версию 9 (кодовое имя <q>Stretch</q>), которая будет

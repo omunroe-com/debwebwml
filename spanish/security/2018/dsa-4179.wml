@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="287c3173ff11dc88fd9ccabc720efb6cf4c36a70"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Esta actualización no corrige una vulnerabilidad en linux-tools, sino que proporciona

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="1c0435747eeb278d81c64ad161fd29f96a9b2a07" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera säkerhetsproblem har upptäckts i webbapplikationsutvecklingsramverket

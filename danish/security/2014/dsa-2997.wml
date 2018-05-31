@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d514bdf2eabaab9aa108afa8f00b13f8cf85a64f" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jakub Wilk opdagede en fejl i forbindelse med fjernudførelse af kommandoer i 

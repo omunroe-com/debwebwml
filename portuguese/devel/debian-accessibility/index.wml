@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian-Accessibility"
-#use wml::debian::translation-check translation="1.8" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="93df7fbeba4a53bfcba7f650f2c1c604c1fb2f09" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 {#style#:<link rel="stylesheet" href="style.css" type="text/css" />:#style#}
 
 <h2>Descrição do Projeto</h2>

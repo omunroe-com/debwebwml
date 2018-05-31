@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="99d9281ec114bc899622b2b4aa3ce542cab01e5b"
 <define-tag description>XConsole にファイル作成および破損のバグ</define-tag>
 <define-tag moreinfo>
 <p>procps 1.2.6 には XConsole

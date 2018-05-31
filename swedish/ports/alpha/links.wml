@@ -1,6 +1,6 @@
 #use wml::debian::template title="Alpha-anpassningen -- Länkar" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
-#use wml::debian::translation-check translation="1.44"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 
 <h1>Alpha-länkar</h1>
 

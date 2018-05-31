@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="24c84538bf5e1d6fc6a3fd47db2e3625901c7d2d" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Movable Type, ett webbloggpubliceringssystem,

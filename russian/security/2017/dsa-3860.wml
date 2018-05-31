@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c25d6a41f1c722e4e401032bc11713d66a457a37" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>steelo обнаружил возможность удалённого выполнения кода в Samba, файловом сервере,

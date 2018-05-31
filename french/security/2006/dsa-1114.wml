@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="b864ddb3883b24e3f16bffa284c09ac4113bae15" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Andreas Seltenreich a découvert un dépassement de tampon dans hashcash, un

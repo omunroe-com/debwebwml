@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f57dacf8fb816f017712abac86bc0909711b8da0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тошифуми Сакагучи обнаружил, что заплата для pdns-recursor,

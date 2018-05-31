@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b19b5b6547dc3534df9ad91f2cb5d7c5614224f5" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версия samba, поставляемая в составе Debian GNU/Linux
 2.1, содержит несколько проблем безопасности:
 <ul>

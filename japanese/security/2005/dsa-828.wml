@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1df4260bcb82db4954543d438dfed4c1181d60be"
 <define-tag description>認証処理の誤り</define-tag>
 <define-tag moreinfo>
 <p>人気のあるウェブプロキシキャッシュ squid の上流の開発者が、NTLM

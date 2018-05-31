@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian BTS - сервер запитів" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.25" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="a946a95799b41275199f1fe578015847e4a1d0e4" maintainer="Borys Yanovych"
 
 <h1><a name="introduction">Ознайомлення з роботою сервера запитів системи відслідковування помилок Debian</a></h1>
 

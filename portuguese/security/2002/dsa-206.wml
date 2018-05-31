@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2261cd325d9f26ff6d8b3bf65e48ac8493b73716"
 <define-tag description>negação de serviço</define-tag>
 <define-tag moreinfo>
 <p>As rotinas de decodificação BGP do tcpdump usava uma checagem incorreta de 

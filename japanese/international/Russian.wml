@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian ロシア語ページ"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.39"
+#use wml::debian::translation-check translation="717a38afebdec30ca4ea504355607d616ce60b6e"
 
 <p>このページは Debian のロシア語関係のものすべてについてです。
 何か含まれていない情報に気づかれた方は、<a href="#site">ウェブサイト

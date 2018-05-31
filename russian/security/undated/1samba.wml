@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="afde4d9b3c02ef48c74185df651d828319d78c2a" maintainer="Lev Lamberov"
 <define-tag description>уязвимость удалённого суперпользователя</define-tag>
 <define-tag moreinfo>
 Проблема с Samba позволяет удалённым пользователям получить доступ от лица суперпользователя.

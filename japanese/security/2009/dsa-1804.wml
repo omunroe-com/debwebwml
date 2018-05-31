@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2"
 <define-tag description>ヌルポインタ参照, メモリリーク</define-tag>
 <define-tag moreinfo>
 <p>ipsec-tools のインターネット鍵交換デーモン racoon に、リモートから攻撃可

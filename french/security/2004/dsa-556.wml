@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="4b2ca5e9bb4461a7af4cb9cd8fb104b521d520cb" maintainer="DFS Task Force"
 <define-tag description>libération invalide</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski a découvert un bug dans le serveur netkit-telnet (telnetd)

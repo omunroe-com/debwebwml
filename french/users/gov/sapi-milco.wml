@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.sapi.gob.ve/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="b903c0719136b83e7b255326260a973b1676bc22" maintainer="Nicolas Bertolissio"
 
 <p>
 Utilisation exclusive de Debian depuis&nbsp;2004 dans tous les services,

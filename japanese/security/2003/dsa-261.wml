@@ -17,7 +17,7 @@
 <p>tcpdump パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3c13f2e596f6bb169eaa05fae5a66e6d1860b87d"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-261.data"
 # $Id$

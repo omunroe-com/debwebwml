@@ -4,7 +4,7 @@
 <define-tag webpage>http://medicina.uncoma.edu.ar/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="608c3607b0953aff0c52b0d3e01c4163d663b03f"
 
 <p>
     Vi anvender en Debian GNU/Linux-computer til at køre Apache-webserveren, 

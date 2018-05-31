@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Debian CD-vedosten rsync-peilit" BARETITLE=true
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="d15cbd4e121ea975532c1dda0bc1b79f69cee45d"
 
 <p>Nämä ovat Debian CD-vedosten 
 <a href="http://rsync.samba.org/">rsync</a>-peilien osoitteet.  

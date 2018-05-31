@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="34515294169f5d714f31da3337f70a718963763c"
 <define-tag description>överbelastning (krasch)</define-tag>
 <define-tag moreinfo>
 <p>Auke van Slooten upptäckte att PHP&nbsp;5, en hypertextpreprocessor,

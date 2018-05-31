@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6035859306f1c9e96e9a85503a3335dbf41fa2b6" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Патрик Коулмен обнаружил, что отсутствие очистки входных данных в декодере

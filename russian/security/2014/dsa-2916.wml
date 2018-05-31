@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="746c70c87d1f0fd4947480fd25a3081a6140d079" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Алекс Чапмэн обнаружил, что переполнение буфера при обработке сообщений <q>MMS через

@@ -17,5 +17,5 @@ Ihr qpopper-Paket unverzüglich zu aktualisieren.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-259.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="eb802383e972013e2be59e88e35cfa088968a164"
 # $Id$

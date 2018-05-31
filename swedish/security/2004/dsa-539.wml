@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c79f39d339d827cd1bd95ea2e6b7d49b2cc7db95" mindelta="1"
 <define-tag description>sårbar temporär katalog</define-tag>
 <define-tag moreinfo>
 <p>

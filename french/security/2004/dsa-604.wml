@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="ca0f712ac8e102dc911ee4a21c3a32ce36ba2847" maintainer="DFS Task Force"
 <define-tag description>Absence de vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;infamous41md&nbsp;» a découvert un dépassement de tampon dans

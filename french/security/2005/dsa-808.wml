@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="bafd3e37a371188d1e0971bceff1e655503945ec" maintainer="Simon Paillard"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>Yutaka Oiwa et Hiromitsu Takagi ont découvert une vulnérabilité par

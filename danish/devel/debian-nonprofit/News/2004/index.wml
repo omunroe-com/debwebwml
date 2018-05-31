@@ -1,6 +1,6 @@
 #use wml::debian::template title="Nyheder om Debian Non-Profit fra 2004"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0b009b019b5abe62fa20a37120a6c6881f9f53bc"
 
 <:= get_recent_list ('.', '0', '$(ENGLISHDIR)/devel/debian-nonprofit/News/2004',
 '', '\d+\w*') :>

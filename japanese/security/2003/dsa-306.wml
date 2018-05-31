@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="40d80b49542f29ec5e0dfac464e362069a94d837"
 <define-tag description>バッファオーバフローs, 整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Timo Sirainen さんが、人気のあるインターネットリレーチャット (Internet

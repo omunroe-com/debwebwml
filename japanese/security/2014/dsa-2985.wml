@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9756ed13b077c72645cdd5cf18e17f8683992b0f"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>MySQL データベースサーバに複数の問題が発見されています。脆弱性は MySQL

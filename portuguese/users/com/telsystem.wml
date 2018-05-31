@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.telsystem.com.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="42317b46688bd42bed5681d4582a59f30ee8a899"
 
 <p>
     Usamos o Debian exclusivamente para Gateway e Firewall para acesso a 

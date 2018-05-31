@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="69878d7ddaa663d85fe89121ea5162b86e8da149" maintainer="David Prévot"
 <define-tag description>Débordement de mémoire tampon basée sur la pile</define-tag>
 <define-tag moreinfo>
 <p>

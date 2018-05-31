@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ffbe9426c64ff19b2983afc0eba5588a486c7cdb" maintainer="Lev Lamberov"
 <define-tag description>доступ к произвольному файлу</define-tag>
 <define-tag moreinfo>
 <p>Давид Киржновски обнаружил, что libcurl, библиотека передачи файлов с поддержкой

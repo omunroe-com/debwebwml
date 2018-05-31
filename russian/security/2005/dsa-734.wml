@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="87b42c2b0234fa250cca74ea81948b2ccfc66d5b" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Две проблемы, приводящие к отказу в обслуживании, были обнаружены в Gaim,

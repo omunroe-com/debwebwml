@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="110c362af86c1824259b016837baaed49f7c64ac" maintainer="Lev Lamberov"
 <define-tag pagetitle>Продолжаются работы по подбору логотипа Debian</define-tag>
 <define-tag release_date>1997-03-26</define-tag>
 #use wml::debian::news

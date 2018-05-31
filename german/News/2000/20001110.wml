@@ -1,7 +1,7 @@
 <define-tag pagetitle>Neuer Debian New-Maintainer-Prozess schafft die 100er Marke</define-tag>
 <define-tag release_date>2000-11-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="016101921e3277b0722c7063b21dfc5fbd1db807"
 # $Id$
 
 <p>Letzte Woche hat die Zahl der neu zugelassenen Debian-Mitglieder durch den

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="eef6471b586d9aaa5a2a980e0553c059343923f6" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Guido Vranken opdagede flere sårbarheder i dhcpcd, en DHCP-klient, hvilke 

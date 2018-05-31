@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="955b80d1fede6de5f1270b132c0b08ba3c9f7435" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Shibboleth (интегрированной инфраструктуре идентификации) Service Provider был

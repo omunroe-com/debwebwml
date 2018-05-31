@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="9be537189e8e664c1aef58b02ec3173b2c11388b" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera forskare har upptäckt en sårbarhet i Intelprocessorer, som tillåter

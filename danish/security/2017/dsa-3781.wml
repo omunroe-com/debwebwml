@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="12f77221986f631cd57de76c3db3ee05d3323335" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Luc Lynx opdagede at SVG Salamander, en SVG-motor til Java, var sårbar over 

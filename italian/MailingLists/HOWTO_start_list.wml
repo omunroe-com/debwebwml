@@ -1,5 +1,5 @@
 #use wml::debian::template title="HOWTO su come richiedere una mailing list"
-#use wml::debian::translation-check translation="1.17" maintainer="Johan Haggi"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc" maintainer="Johan Haggi"
 
 <P>Lo scopo di questo documento è aiutare nella creazione di una mailing
 list su <a href="https://lists.debian.org/">lists.debian.org</a>.</p>

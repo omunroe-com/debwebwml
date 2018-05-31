@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-07-31" SUMMARY="Sistema base in preparazione, rendere Debian più facile da usare, dimensione dell'archivio"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="556b589eeea9338a9287e12938aac123b7122af6"
 
 <p><strong>I bug del sistema di base e il freeze.</strong> Anthony Towns ha
 inviato un altro <a

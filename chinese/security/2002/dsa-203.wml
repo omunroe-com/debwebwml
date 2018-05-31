@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="39e4bee06fdab8b723c7e77db178c08e7b4f74b8"
 
 #<define-tag description>arbitrary command execution</define-tag>
 <define-tag description>任意執行指令</define-tag>

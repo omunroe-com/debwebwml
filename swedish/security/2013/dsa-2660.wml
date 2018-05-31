@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fceebc5888fd750f4089685d9e1ab2c6f335592c" mindelta="1"
 <define-tag description>exponering av känslig information</define-tag>
 <define-tag moreinfo>
 <p>Yamada Yasuharu upptäckte att cURL, ett URL-överföringsbibliotek, är

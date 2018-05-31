@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2b172160dd0bc862fc258e09ba704c44298b2d50" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Michal Kowalczyk opdagede at manglende fornuftighedskontrol af inddata i 

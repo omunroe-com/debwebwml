@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Edu / Skolelinux Wheezy — en komplet Linux-løsning til din skole</define-tag>
 <define-tag release_date>2013-09-28</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian Edu er et komplet styresystem til skoler.  Ved hjælp af sine 
 forskellige installeringsprofiler, kan man installere servere, workstations og 

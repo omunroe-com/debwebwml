@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="349785ad5458f20aa8440cd4ce811d1d37e2b184"
 <define-tag description>入力検証の誤り</define-tag>
 <define-tag moreinfo>
 <p>Phenoelit の joernchen さんが、ウェブアプリケーション開発向けの MVC ruby

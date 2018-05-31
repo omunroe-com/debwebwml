@@ -1,7 +1,7 @@
 <define-tag pagetitle>DebConf16 đã kết thúc ở Cape Town và công bố ngày diễn ra DebConf17</define-tag>
 <define-tag release_date>2016-07-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
+#use wml::debian::translation-check translation="c9c0b35ea350445ddeb76c0f8b58d810380ae4ab" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
 
 <p>
 Hôm nay, thứ bảy ngày 9 tháng bảy năm 2016, Hội Thảo Người Đóng Góp và Phát Triển Debian

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="02b0a13d14075dafdc818d411b2d581b4da0fd96" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В мультиплексорах и декодерах мультимедиа-библиотеки libav были

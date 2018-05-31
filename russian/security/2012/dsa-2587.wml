@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="668665228916b41f11148b3119f511999e65c608" maintainer="Lev Lamberov"
 <define-tag description>инъекция заголовка HTTP</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что модуль CGI для Perl не фильтрует символы LF

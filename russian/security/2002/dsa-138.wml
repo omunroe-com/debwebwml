@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4f7cabc58e2e8775aa994f0ae2de81e1f3149a89" maintainer="Lev Lamberov"
 <define-tag description>удалённый эксплоит</define-tag>
 <define-tag moreinfo>
 <p>Была обнаружена проблема в gallery (набор инструментов для создания фотоальбомов на основе веб):

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Outline of operation of the autobuilder network" BARETITLE="true"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="4094875c3a7aafc988b5f218b0a629fab415552a"
 
 <p>Centraal in het systeem bevindt zich de <tt>wanna-build</tt>
 databank, dewelke informatie over pakketversies en -states bijhoudt.

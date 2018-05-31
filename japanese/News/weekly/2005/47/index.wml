@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-11-22" SUMMARY="パッケージ化, 開示, 委任, Debtags, イベント, テスト, アーカイブ, Alioth, ライセンス"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="5071269aa2523da77fe4ff2dfb57afef26552be8"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 47 号へようこそ。Nathanael Nerode さんは、

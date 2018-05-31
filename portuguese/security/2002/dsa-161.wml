@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f57c8a58d075a95019fa91ec673df38f845d6200"
 <define-tag description>escalonamento de privilégio</define-tag>
 <define-tag moreinfo>
 <p>Um problema com os privilégios de usuários foi descoberto no pacote

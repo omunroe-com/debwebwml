@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06"
 <define-tag moreinfo>
 En las versiones de los paquetes PHP 3 anteriores a la versión 3.0.17, varios
 errores de cadena de formato permitían a peticiones propiamente modificadas

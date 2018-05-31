@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0e7bc885231037690c577429814479f18852fb45" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Марцин Нога обнаружил переполнение буфера в загрузчике JPEG из библиотеки

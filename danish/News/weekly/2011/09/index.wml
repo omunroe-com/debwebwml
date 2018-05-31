@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-08" SUMMARY="LinuxTag 2011, understøttelse af ny hardware i stable, Alioth-migrering, nye mirrors"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 # $Id$
 # $Rev: 2252 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c40d6bb1794605d91a9e3560c308158776a396a3" maintainer="Lev Lamberov"
 <define-tag description>логическая ошибка проверки условия цикла</define-tag>
 <define-tag moreinfo>
 <p>Юри Эдла обнаружил логическую ошибку проверки условия цикла в libxml2, которая может приводить

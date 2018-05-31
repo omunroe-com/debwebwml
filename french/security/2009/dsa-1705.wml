@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="ee863f5e660da19991a12f139465b06f6af580fb" maintainer="Jean-Edouard Babin"
 <define-tag description>Nettoyage des entrées manquante</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert que netatalk, une mise en oeuvre d'AppleTalk, est affecté

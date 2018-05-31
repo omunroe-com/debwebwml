@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="bfe36bb70fd1c63439725965e0ca3dd4a299dd2a" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Kevin Finisterre descubrió un desbordamiento de buffer en luxman,

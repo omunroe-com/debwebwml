@@ -4,7 +4,7 @@
 <define-tag webpage>http://davescomputerandconsole.com//</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="678fa5c39c5f1724272ac5c5714c518395b1dd7f" maintainer="Baptiste Jammet"
 
 <p>
     Debian est notre système d'exploitation préféré grâce à sa simplicité et sa 

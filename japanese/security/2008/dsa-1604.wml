@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e9bafcd753e828e83ea8a21cadc900565a610f85"
 <define-tag description>DNS キャッシュポイゾニング攻撃</define-tag>
 <define-tag moreinfo>
 

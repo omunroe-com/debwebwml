@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b21103f97626cf29b2e4b3cd500c7f27e3339243" maintainer="Lev Lamberov"
 <define-tag description>изменение каталога</define-tag>
 <define-tag moreinfo>
 <p>Вячеслва Тихановский обнаружил уязвимость, проявляющуюся в изменении каталога, в

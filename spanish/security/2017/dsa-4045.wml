@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3caef406fd7c0df67e69b79f2423af935af97899"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han encontrado varias vulnerabilidades en VLC, el reproductor multimedia

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="777c4005911fa865791b525565d7396a78cd9c99"
 <define-tag description>ヒープオーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>Timo Sirainen さんが、URL 転送ライブラリ cURL が

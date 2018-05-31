@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="3a5e003b8d278d472bcafefd339ffd7ac771019b" maintainer="Baptiste Jammet"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Olivier Fourdan a découvert que des validations insuffisantes des entrées dans le

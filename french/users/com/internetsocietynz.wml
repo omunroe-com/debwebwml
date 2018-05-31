@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.internetnz.net.nz/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="866294a282a7e7ea99decf4d17f197da4d2afe83" maintainer="Nicolas Bertolissio"
 
 <p>
 Depuis le 14&nbsp;octobre&nbsp;2002, le système pour l'enregistrement de

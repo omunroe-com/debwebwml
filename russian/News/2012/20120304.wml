@@ -1,7 +1,7 @@
 <define-tag pagetitle>Внесите лепту в успех DebConf12: сделайте пожертвование или станьте спонсором</define-tag>
 <define-tag release_date>2012-03-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Lev Lamberov"
 
 
 <p>До начала ежегодной конференции Проекта Debian осталось совсем немного.

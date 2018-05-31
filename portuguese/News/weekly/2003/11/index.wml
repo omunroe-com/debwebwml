@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-03-18" SUMMARY="Eleições para DPL, OpenOffice.org, Instalador, Listas de Email, PAM, LSB, IPv6, Acessibilidade, Licença"
 # $id: index.wml,v 1.8 2003/02/26 09:08:24 joey Exp $
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>Bem-vindo à décima primeira edição da DWN, o periódico semanal para a
 comunidade Debian.  Por algum tempo, uma associação francesa (<a href="http://www.april.org/">APRIL</a>) e a <a 

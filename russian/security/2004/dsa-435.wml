@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="15fd395f29730d842dc03f6a195f15b2163d0ab9"
 <define-tag description>переполнение кучи</define-tag>
 <define-tag moreinfo>
 <p>Обнаружена уязвимость в mpg123, программе проигрывания файлов mp3

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c6a0f49003fbc426b77eacfb48bb58c870b65376" maintainer="Juan M. Garcia"
 <define-tag description>comprobaciones de seguridad no realizadas</define-tag>
 <define-tag moreinfo>
 <p>Stephen Gran descubrió que los adjuntos MIME codificados en base 64 y mal

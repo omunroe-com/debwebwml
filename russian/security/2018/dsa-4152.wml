@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a422f029b9ffa189853ff67e39f6886a1130d2e3" mindelta="1"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В MuPDF, программе для просмотра PDF и XPS, были обнаружены две уязвимости,

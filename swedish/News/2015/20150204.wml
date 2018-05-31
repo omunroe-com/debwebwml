@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debianprojektet sörjer förlusten av Clytie Siddall</define-tag>
 <define-tag release_date>2015-02-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" 
+#use wml::debian::translation-check translation="843c66f604e874d00a4c05ab97b84e1474149d14" 
 # $Id$
 
 <p>Debianprojektet tillkännager med sorg att det har förlorat en medlem

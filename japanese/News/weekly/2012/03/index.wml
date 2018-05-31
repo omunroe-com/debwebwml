@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-06" SUMMARY="Debian 6.0 のアップデート: 6.0.4 の公開、リリースチームからの一言、piuparts メンテナからの一言、Debian Med スプリントの報告"
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="2697fab4800f65319b173522ff23d6777344f3a1"
 
 # $Rev: 3093 $
 # Status: [content frozen]

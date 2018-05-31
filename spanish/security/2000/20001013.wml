@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06"
 <define-tag moreinfo>
 En las versiones del paquete traceroute anteriores a la 1.4a5-3, es posible
 para un usuario local ganar acceso de root explotando un error de análisis en

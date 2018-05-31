@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9ea958f8dfb0f3acd892045bc9e0e7e48aa71504" mindelta="1"
 <define-tag description>serveröverskridande skriptsårbarhet</define-tag>
 <define-tag moreinfo>
 <p>Sergey Nartimov upptäckte att Rails, ett Ruby-baserat ramverk för

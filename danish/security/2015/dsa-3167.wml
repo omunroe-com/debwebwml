@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b4e0fbde00690e6ea544bea09c3a47225783db9d" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jakub Wilk rapporterede at sudo, et program der har til formål at give 

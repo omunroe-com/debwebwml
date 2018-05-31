@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f5359956a289e21974beaa3f87121877aa96315b"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 infamous41md さんと Chris Evans さんが、Portable Document Format (PDF)

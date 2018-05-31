@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="David Prévot"
+#use wml::debian::translation-check translation="402612bd7a2b8129d48578f9493bf8f18c58e82f" maintainer="David Prévot"
 <define-tag abbr>DUCC-IT</define-tag>
 <define-tag year>2013</define-tag>
 <define-tag pagetitle>Conférence de la communauté Debian et Ubuntu Italie 2013</define-tag>

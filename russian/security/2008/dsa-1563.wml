@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bef16ff60e6c22268f7e9878f386d85126cb548e" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Джоэль Восс обнаружил, что модель IAX2 из Asterisk, свободного

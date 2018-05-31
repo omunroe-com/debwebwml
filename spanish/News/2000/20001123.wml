@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="e12c94c1bd26a24ae67d1359239e6c2d7a6c8f75"
 <define-tag pagetitle>Debian/ARM funciona en LART</define-tag>
 <define-tag release_date>2000-11-23</define-tag>
 #use wml::debian::news

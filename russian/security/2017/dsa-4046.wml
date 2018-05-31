@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="de983994dff75a4fa7599cd8278faacb94b9225b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тобиас Шнайдер обнаружил, что libspring-ldap-java, Java-библиотека

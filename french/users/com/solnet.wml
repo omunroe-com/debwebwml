@@ -6,7 +6,7 @@
 <define-tag webpage>http://www.solnet.cz/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Steve Petruzzello"
+#use wml::debian::translation-check translation="ddb51a55dd6fd2abfb8943df8f248a1b87e28d7d" maintainer="Steve Petruzzello"
 
 <p>
 Nous sommes une entreprise qui installe et administre des machines

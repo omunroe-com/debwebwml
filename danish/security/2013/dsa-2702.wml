@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ed43effc6df249a689fee1f7e63935bb1402972d" mindelta="1"
 <define-tag description>omgåelse af TLS-verifikation</define-tag>
 <define-tag moreinfo>
 <p>Maksim Otstavnov opdagede at Wocky-undermodulet, som anvendes af 

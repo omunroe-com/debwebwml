@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="f87c985a28c504f3f4f50db31b191bf00372d663" maintainer="Jean-Paul Guillonneau"
            <p class="center">
              <a style="margin-left: auto; margin-right: auto;" href="vote_003_results.dot">
                <img src="vote_003_results.png" alt="Graphical rendering of the results">

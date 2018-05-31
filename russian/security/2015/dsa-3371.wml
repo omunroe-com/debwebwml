@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="74d9ddddb4dae2bf6ff6b7b470ebf92b3a55f808" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Фредиано Зиглио из Red Hat обнаружил несколько уязвимостей в spice,

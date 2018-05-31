@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/kFreeBSD"
 
-#use wml::debian::translation-check translation="1.30" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="5c4553ad6eb80cbc9bebfbd2f6b541ddd4a4d746" maintainer="Luca Monducci"
 #use wml::debian::toc
 
 <toc-display/>

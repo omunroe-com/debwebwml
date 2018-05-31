@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f8b356fe6a46ae8ce64d8d433ec3f7074e46ddc9" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Арк Райли обнаружил, что py2play, игровой движок для одноранговой сети,

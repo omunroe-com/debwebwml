@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c623b056acc689175dea5a3f86b59566455a7702" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Вернфрид Хаас обнаружил, что centericq, текстовый клиент для обмена мгновенными

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Координаторы перевода web-страниц Debian"
-#use wml::debian::translation-check translation="1.18" 
+#use wml::debian::translation-check translation="aec9bd32cb1297da4807ff00e40cacb5b77b0a77" 
 #include "$(ENGLISHDIR)/devel/website/tc.data" 
 
 <:list_translators:>

@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Projeto de Documentação Debian"
-#use wml::debian::translation-check translation="1.42" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="a0cc8c3385af9f3790e533474ed61d82d4cbf991" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>O Projeto de Documentação Debian foi formado para coordenar e unificar
 todos os esforços para escrever documentação de maior qualidade em maior

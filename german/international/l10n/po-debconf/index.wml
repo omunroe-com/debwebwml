@@ -1,6 +1,6 @@
 #use wml::debian::template title="PO-Dateien zur Übersetzung von Debconf templates für jede Sprache"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2c70a662201fba2f47fce7ff1cba5d28691e194e"
 # $Id$
 # Translation: Gerfried Fuchs <alfie@debian.org> 2002-10-07
 

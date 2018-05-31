@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian &ldquo;jessie&rdquo; インストール情報" NOHEADER="true"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/jessie/release.data"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="76c5b5da49d41139d8cdbe179c6e1c1ec6227aea"
 
 <h1>Debian <current_release_jessie> のインストール</h1>
 

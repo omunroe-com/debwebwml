@@ -1,5 +1,5 @@
 #use wml::debian::template title="Pregledavanje PGP ključa razvijatelja"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="e0e8489e695219a95c1630c9211978a2eaee0637"
 
 <p>Razvijatelje možete tražiti putem
 <a href="https://db.debian.org/">baze podataka Debian razvijatelja</a>,

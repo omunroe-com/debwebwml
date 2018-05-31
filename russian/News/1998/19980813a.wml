@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1b22fcf74cb1c92c62b422a416905983eecff303" maintainer="Lev Lamberov"
 <define-tag pagetitle>Debian в новостях: головная боль следующего тысячелетия</define-tag>
 <define-tag release_date>1998-08-13</define-tag>
 #use wml::debian::news

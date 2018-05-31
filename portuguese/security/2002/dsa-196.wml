@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="e12c94c1bd26a24ae67d1359239e6c2d7a6c8f75"
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>[O Bind versão 9, pacote bind9, não é afetado por estes problemas.]</p>

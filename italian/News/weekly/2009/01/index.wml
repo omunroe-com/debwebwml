@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2009-01-12" SUMMARY="Bits dal gruppo Debian CD, Bits dal gruppo Debian Installer, Risultati della General Resolution per il rilascio di Lenny"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.13" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Daniele Venzano"
 
 <!--
  Copyright (c) 2008 Thomas Viehmann

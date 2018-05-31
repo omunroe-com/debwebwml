@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Hsin-lin Cheng"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2" maintainer="Hsin-lin Cheng"
 <define-tag description>多個安全漏洞</define-tag>
 <define-tag moreinfo>
 

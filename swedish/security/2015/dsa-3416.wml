@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="da92ae594a5343f5177264fa4481c5e21f8362cb" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Takeshi Terada upptäckte en sårbarhet i PHPMailer, ett PHP-bibliotek för

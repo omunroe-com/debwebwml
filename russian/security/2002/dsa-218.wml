@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bac0e67f421554edea5609a46fb7d115efbe5707"
 <define-tag description>перекрёстные между сайтами скрипты</define-tag>
 <define-tag moreinfo>
 <p>Было сообщено об уязвимости, позволяющей писать скрипты, перекрёстные между

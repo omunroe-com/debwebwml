@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2f4caff92d8044a534b57374200971a44d158471"
 	  <p class="center">
 	    <a style="margin-left: auto; margin-right: auto;" href="vote_001_results.dot">
 	      <img src="vote_001_results.png" alt="結果を視覚化した図">

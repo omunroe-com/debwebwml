@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0e0422a7766808e5f94538fd9d0ee82b77257ba7" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i OpenJDK, en implementation av Oracle 

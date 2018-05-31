@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5f3b498511139678e4933c68b3dd0b1e4b0d1df4" mindelta="1"
 <define-tag description>programmeringsfel</define-tag>
 <define-tag moreinfo>
 <p>Tim Zingelmann upptäckte att på grund av ett felaktigt configure-skript

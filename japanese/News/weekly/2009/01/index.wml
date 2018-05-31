@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2009-01-12" SUMMARY="Debian CD チームからの一言、Debian インストーラチームからの一言、<q>Lenny リリース一般決議</q>の結果"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <!--
  Copyright (c) 2008 Thomas Viehmann

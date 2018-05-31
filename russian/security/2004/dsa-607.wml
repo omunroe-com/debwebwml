@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bc9ed454198c2eedd42a2b7a566501514a8945fd" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Несколько разработчиков обнаружили ряд проблем в библиотеке libXpm,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Juan M. Garcia"
 <define-tag pagetitle>Avisos de seguridad de 2004</define-tag>
 #use wml::debian::template title="<pagetitle>" GEN_TIME="yes"
 #use wml::debian::recent_list

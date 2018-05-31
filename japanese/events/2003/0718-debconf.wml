@@ -24,7 +24,7 @@ Debian 開発者のための会議です。開発者でない人の参加も大�
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="ac9b569906cd99349198e6a3529a7502efd82671"
 # $Id$
 #Related Links here (free form)
 <ul>

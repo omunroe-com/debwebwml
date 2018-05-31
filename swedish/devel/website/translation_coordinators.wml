@@ -1,6 +1,6 @@
 #use wml::debian::template title="Samordnare för översättningarna av Debians webbsidor"
 #include "$(ENGLISHDIR)/devel/website/tc.data"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="aec9bd32cb1297da4807ff00e40cacb5b77b0a77"
 
 <:list_translators:>
 

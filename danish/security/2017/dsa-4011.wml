@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1df63e1f5a4deefbef2ec8efa796a3f49cb2ed44" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at bgpd-dæmonen i routingsuiten Quagga, ikke på korrekt vis 

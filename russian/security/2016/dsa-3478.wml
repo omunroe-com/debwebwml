@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="32856a5cedf68bfa3ec7267e14e4b416863fb8b1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Даниэль Генкин, Лев Пачманов, Итмар Пипман и Эран Тромер обнаружили,

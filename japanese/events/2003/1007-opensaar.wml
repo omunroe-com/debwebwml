@@ -6,7 +6,7 @@
 <define-tag enddate>2003-10-08</define-tag>
 <define-tag infolink>http://www.opensaar.de/</define-tag>
 <define-tag coord><a href="mailto:mjung@mpi-sb.mpg.de">Marko Jung</a></define-tag>
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="dfb78b1f850726ef4ae20e8b1f89a71d69b92eb4"
 
 <define-tag intro>
 

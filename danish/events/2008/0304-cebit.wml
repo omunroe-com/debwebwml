@@ -23,7 +23,7 @@ vil være i stand G 51/1.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.linux-events.de/LinuxPark_2008">LinuxPark</a></li>

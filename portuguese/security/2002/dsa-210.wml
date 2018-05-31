@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="08895f3ef12ef09e6ba458efde39aed3f81eff44"
 <define-tag description>injeção CRLF</define-tag>
 <define-tag moreinfo>
 <p>lynx (um navegador que suporta somente textos) não realiza uma checagem adequada

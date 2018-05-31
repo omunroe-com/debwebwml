@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ec2fb54b2aa898630f9f324f8e34cb7d671c2f07" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Ivan Fratric fra Google Security Team opdagede en heapbaseret 

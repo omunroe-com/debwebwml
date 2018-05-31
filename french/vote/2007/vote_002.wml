@@ -10,7 +10,7 @@
 #use wml::debian::template title="<pagetitle>" BARETITLE="true" NOHEADER="true"
 #use wml::debian::toc
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.9" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="0a8aa767f51864c5e1e1e383b7b0a7493ef36ad2" maintainer="Nicolas Bertolissio"
 
 
 <h1><pagetitle></h1>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="eb22fddc523a7a9a4544a7c1ef144e415b8d2d73" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Nous avons reçu un rapport concernant le script <i>faxsurvey</i> qui était
 incorporé dans les anciennes versions de <i>hylafax</i>. Il exécuterait des

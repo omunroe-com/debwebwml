@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-16" SUMMARY="APT, Installateur, XFS, Woody, AMD64, *BSD, Empaquetage, Debian Espagne, KDE, tmpfs"
-#use wml::debian::translation-check translation="1.14" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="6df448e0976da574b5e1329749403e73eeba663b" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 50e&nbsp;<i>DWN</i> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. Le <a

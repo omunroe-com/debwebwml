@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="467c7941e519cf51d92f85b3e7c51007a6a1eeed" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sårbarheder blev opdaget i dissektorerne/fortolkerne af LBMR, 

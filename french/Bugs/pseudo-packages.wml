@@ -1,6 +1,6 @@
 #use wml::debian::template title="Suivi des bogues Debian — pseudopaquets" NOHEADER="true" NOCOPYRIGHT=true
 
-#use wml::debian::translation-check translation="1.13" maintainer="Christian Couder"
+#use wml::debian::translation-check translation="482085cdd7ca98a1a3142933dbb60ab68c4c36e5" maintainer="Christian Couder"
 
 <H1>Pseudopaquets du système de suivi des bogues Debian</H1>
 

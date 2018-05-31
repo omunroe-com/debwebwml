@@ -1,6 +1,6 @@
 #use wml::debian::template title="Перенос на платформу IA-64 -- Новости" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/ia64/menu.inc"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="f832fa04df640fc3eba2bdbd0d92b593c3b68afd"
 
 <h1>Новости о Debian для IA-64</h1>
 

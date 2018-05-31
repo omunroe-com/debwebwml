@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="71c27f2d9bad50138020836886e1fbed4a7aefac"
 <define-tag description>olvido al liberar privilegios</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descubrió un problema en trr19, una aplicación de

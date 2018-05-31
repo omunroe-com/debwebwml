@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="778bbfaac229c1ea008e58777ccb97f94fd1158c" maintainer="Lev Lamberov"
 <define-tag description>обход ограничения</define-tag>
 <define-tag moreinfo>
 <p>Иван Фратрик из Google Security Team обнаружил ошибку в веб-сервере nginx,

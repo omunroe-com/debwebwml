@@ -1,6 +1,6 @@
 #use wml::debian::template title="Como o www.debian.org é feito"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.35" maintainer="Eder L. Marques (frolic)"
+#use wml::debian::translation-check translation="f4a553b77d7d268cc8964f792c054a7827ccfd39" maintainer="Eder L. Marques (frolic)"
 
 
 <p>A <em>&ldquo;árvore web&rdquo;</em> do Debian, uma coleção de

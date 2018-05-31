@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Johan Haggi"
+#use wml::debian::translation-check translation="efe72561a0dd93de5271ac1291ee10b9c2d16458" maintainer="Johan Haggi"
 <define-tag abbr>LTST</define-tag>
 <define-tag year>2005</define-tag>
 <define-tag pagetitle>1. Stralsunder LinuxTage</define-tag>

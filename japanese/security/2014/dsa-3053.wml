@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="eb07ed1d1aa3fba5629a6141af3070f9506707bd"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が Secure Sockets Layer

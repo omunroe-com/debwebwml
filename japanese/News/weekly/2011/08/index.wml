@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-05-17" SUMMARY="DebConf10 の最終報告、DNS セキュリティ拡張、<q>Build it</q>イベント報告、なぜ DebConf に参加するのか、<q>testing</q> をユーザ指向に"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>今年 8 号目の DPN、debian コミュニティの会報、にようこそ。この号で取り上げられている話題は:</p>
 <toc-display/>

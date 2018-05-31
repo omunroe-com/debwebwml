@@ -2,7 +2,7 @@
 <define-tag release_date>2010-05-19</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8933c76fb4d966775ab8b9742040a20b78902e0e"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2010-12-30
 
 <p>Die DebConf ist die Entwicklerkonferenz des Debian-Projektes. Neben 

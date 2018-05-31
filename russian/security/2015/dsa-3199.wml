@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0fcf9a248ef4a2bc56c7f3d1c5a22ce2824264de" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Антон Рэйджер и Джонатан Бросард из the Salesforce.com Product

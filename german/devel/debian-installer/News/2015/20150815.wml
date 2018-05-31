@@ -1,6 +1,6 @@
 <define-tag pagetitle>Debian-Installer Stretch-Alpha2-Veröffentlichung</define-tag>
 <define-tag release_date>2015-08-15</define-tag>
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="86ea4fa3d9e2117496fe9087ec8a0d3d2c9ab02d"
 # Translation: Holger Wansing <linux@wansing-online.de>, 2015.
 #use wml::debian::news
 

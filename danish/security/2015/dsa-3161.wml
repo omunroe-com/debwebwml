@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c4cb67abd88943406a4a8f49e4c1075ba8629d9a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Simon McVittie opdagede en lokal lammelsesangrebsfejl (denial of service) i 

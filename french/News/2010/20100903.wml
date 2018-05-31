@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="David Prévot"
+#use wml::debian::translation-check translation="c150f0c678b801d6dbdc6f9fb14df4d092c33e05" maintainer="David Prévot"
 <define-tag pagetitle>Conférence 2010 de la communauté Debian italienne - du 17 au 19 septembre à Pérouse, Italie</define-tag>
 <define-tag release_date>2010-09-03</define-tag>
 #use wml::debian::news

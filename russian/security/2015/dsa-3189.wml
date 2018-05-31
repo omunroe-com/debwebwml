@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="01aa1b88f5f61e0e91e10a816cc0e4fc0fe92bab" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В многочисленных мультиплексорах и декодерах мультимедиа библиотеки

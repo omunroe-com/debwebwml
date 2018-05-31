@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6eed95190dfcaa10a94d1fd54ddff793765ff467"
 <define-tag description>travesía por directorio</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad en rsync, un programa de 

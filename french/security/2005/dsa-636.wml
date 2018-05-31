@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a6d46c4175b30d9628d48f2899c039d8eac9e044" maintainer="DFS Task Force"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs utilisations non sécurisées de fichiers temporaires ont été

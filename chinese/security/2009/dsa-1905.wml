@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Hsin-lin Cheng"
+#use wml::debian::translation-check translation="1f8a4b3311f317330ee3c3ecc83043b2102825d1" maintainer="Hsin-lin Cheng"
 <define-tag description>輸入驗證不足</define-tag>
 <define-tag moreinfo>
 <p>python-django 的表單函式庫，一個高階 Python 網站開發框架，

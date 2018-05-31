@@ -1,5 +1,5 @@
 #use wml::debian::template title="Требования к выставочному стенду"
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fbb69c19d5d26ddbf92456e6913376d5fcaa9c16" maintainer="Lev Lamberov"
 
 <p>В прошлом имели место многочисленные проблемы с организацией
 выставочных стендов. Этот документ нацелен на то, чтобы пролить свет на эти проблемы.

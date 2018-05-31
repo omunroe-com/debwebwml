@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="cc2d55e7ed75272c54c04d052b277129e0b55e79" maintainer="Baptiste Jammet"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Ioquake3, une version modifiée du moteur de jeu ioQuake3 réalise des

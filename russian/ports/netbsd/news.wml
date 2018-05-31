@@ -1,6 +1,6 @@
 #use wml::debian::template title="Новости Debian GNU/*BSD" BARETITLE="yes" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/netbsd/menu.inc"
-#use wml::debian::translation-check translation="1.16" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Lev Lamberov"
 
 
 <h1>Новости Debian GNU/*BSD</h1>

@@ -18,4 +18,4 @@ version 2.6.9-1sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1520.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="d32ff6c0d603791107e64e31aaa2aebc870915d5" mindelta="1"

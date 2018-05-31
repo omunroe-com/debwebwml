@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4bf523d9a79c12059040afffd7de6a9b9c840cae" mindelta="1"
 <define-tag description>sårbara formatsträngar</define-tag>
 <define-tag moreinfo>
 <p>

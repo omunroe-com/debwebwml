@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="e12c94c1bd26a24ae67d1359239e6c2d7a6c8f75"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>[Bind バージョン 9、bind9 パッケージにはこの問題は影響しません。]</p>

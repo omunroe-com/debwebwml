@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c7c3136608828fcd1fc96d31451eaaf3b5dd4ee7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Javantea обнаружил, что pygments, ПО для подсвечивания синтаксиса общего назначения,

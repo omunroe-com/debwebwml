@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.ae.poznan.pl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 
 <p>
   Der er fire Debian-servere i serverrummet.  Serverne kører SMTP-software

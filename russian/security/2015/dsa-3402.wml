@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="747c204b71c06a81e6cd84f04e819d0672adb5a4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В symfony, инфраструктуре для создания веб-сайтов и веб-приложений, было

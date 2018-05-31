@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="de983994dff75a4fa7599cd8278faacb94b9225b"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Tobias Schneider descubrió que libspring-ldap-java, una biblioteca de Java

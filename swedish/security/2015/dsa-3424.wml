@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a75593f4b49c73f166d6ea652d390e60f15232c0" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ivan Zhakov upptäckte ett heltalsspill i mod_dav_svn, som tillåter

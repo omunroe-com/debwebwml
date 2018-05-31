@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="736335fcd5d633eaa7f011aabf9de1590ef4e748"
 <define-tag description>特権の昇格</define-tag>
 <define-tag moreinfo>
 <p>David Watson さんが、util-linux や、loop-aes-utils

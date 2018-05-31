@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d3370c40d84fab707c969cd7d271778bbd1cfdcf" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Марцин Нога обнаружил многочисленные уязвимости в readxl, пакете GNU R

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Panduan Instalasi - Debian Squeeze" BARETITLE=true
-#use wml::debian::translation-check translation="1.4" maintainer="T. Surya Fajri"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2" maintainer="T. Surya Fajri"
 # Translator: T. Surya Fajri <kilelme@gmail.com>
 
 #use wml::debian::release

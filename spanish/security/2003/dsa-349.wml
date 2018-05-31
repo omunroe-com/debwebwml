@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="523fde476a39f78b0651d5a9bce23bcfd1c59815"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>El código de registro de nfs-utils contenía un desbordamiento del buffer

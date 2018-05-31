@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="638ee10e8a5b6508526f43628582776c6888d874"
 <define-tag moreinfo>Dos errores han sido encontrados recientemente en GnuPG:
 
 <ol>

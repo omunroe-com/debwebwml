@@ -20,4 +20,4 @@ version 0.8-4 by switching to poppler.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-972.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d664bcd19d13661fc9b77a1940e4f2430e6a8a82" mindelta="1"

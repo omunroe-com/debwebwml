@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="df62401369c4b84ae11ef42d55c67bc85c7b01ad" maintainer="juanma"
 <define-tag description>manipulador de señal erróneo</define-tag>
 <define-tag moreinfo>
 <p>SGI ha descubierto que rpc.statd, el monitor de estado de red del paquete

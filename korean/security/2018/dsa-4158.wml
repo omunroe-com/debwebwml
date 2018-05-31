@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="166ca19a40301ba433f02a362644984b497a5bdf" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>재귀 정의를 가진 생성된 ASN.1 타입이 스택을 넘어, 잠재적 서비스 거부를 이끌 수 있음을 발견했습니다.

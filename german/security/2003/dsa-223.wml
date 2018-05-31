@@ -20,5 +20,5 @@ behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-223.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1eecc5cc1832ee0777f3a53edb8aba1c32232328"
 # $Id$

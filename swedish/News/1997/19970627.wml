@@ -1,7 +1,7 @@
 <define-tag pagetitle>Kongress om Debian GNU/Linux hålls denna höst</define-tag>
 <define-tag release_date>1997-06-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="965b73427f23eb143ca7081db6a260da56fa1856"
 
 <p>Den tyska föreningen
 <a href="http://www.individual.net/">Individual Network e.V.</a>

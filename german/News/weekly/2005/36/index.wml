@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-06" SUMMARY="KDE, Wiki, Lizenzen, Paketieren, Runlevel, API-Änderungen, README, Speicher, QA-Treffen"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 # $Id$
 
 # From: Christoph Berg <cb@df7cb.de>

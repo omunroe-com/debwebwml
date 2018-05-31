@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2188819dfdd7422591ad1f6d24fdf7ee56624d63" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Алекс Руссков из The Measurement Factory обнаружил, что Squid3,

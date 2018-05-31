@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="f32adc0e456359827bb348333e680a0f2a502894"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en el navegador web Chromium.</p>

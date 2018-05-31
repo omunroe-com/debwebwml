@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="3e04347844f1889b0e3e77ca62857b31e05b5119" translation_maintainer="Michelle Ribeiro"
 <define-tag description>exploração local da conta root</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer da SuSE encontrou uma vulnerabilidade no

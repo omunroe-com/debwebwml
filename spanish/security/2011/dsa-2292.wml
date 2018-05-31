@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Luis Uribe"
+#use wml::debian::translation-check translation="ac94fa8eb3f65938712e862c7c89531b7e209cd6" maintainer="Luis Uribe"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>David Zych descubrió que el ISC DHCP se bloquea al procesar ciertos

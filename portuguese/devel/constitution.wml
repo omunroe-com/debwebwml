@@ -1,6 +1,6 @@
 #use wml::debian::template title="Constituição Debian" BARETITLE="true"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.29" mindelta="1" maxdelta="1" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" mindelta="1" maxdelta="1" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <h1>Constituição para o Projeto Debian (v1.7)</h1>
 

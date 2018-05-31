@@ -29,7 +29,7 @@ info@linux-kongress.de<br>
 <define-tag coord>Roman Hodek och Martin Schulze</define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="2ea67131311f18ef30af96033c65087b9d1cc7e5"
 #Related Links
 <ul>
   <li><A HREF="http://www.linux-kongress.org/">Internationella Linux Kongress</A><BR>

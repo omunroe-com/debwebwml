@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.anykey.se/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="3bc8a214b5e7dfb9480bebbdcbb68c8200118e19" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous sommes un fournisseur d'accès internet et nous utilisons Debian sur

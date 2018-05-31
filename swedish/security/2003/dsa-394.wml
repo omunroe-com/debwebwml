@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="c0d8250df61ba4f1733be9ffdbb75f6fc233ae31" mindelta="1"
 <define-tag description>sårbarhet i ASN.1-tolkning</define-tag>
 <define-tag moreinfo>
 <p>

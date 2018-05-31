@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="69fbf206e427f7dd051e77659b1d9319cae6df71" maintainer="Juan M. Garcia"
 <define-tag description>entrada mal saneada</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un error en el código de gestión de tipografías en

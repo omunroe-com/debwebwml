@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a9b7bd7fe55f183a6167efe3d261d8a8d40452f4"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" descobriu um estouro de buffer no htget, um software

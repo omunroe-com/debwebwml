@@ -26,7 +26,7 @@ flere tidligere og den nuværende Debian-projektleder.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="f07f13607cef44a50d3af4252ab7ab2b182b0dea"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.opensourceworldconference.com/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=105">\

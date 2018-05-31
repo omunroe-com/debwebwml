@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="70095cb4f5eaa2f5ad27f78ae5565da30fd0e976" maintainer="Juan M. Garcia"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Jan Braun descubrió que el guión fbgs de fbi, un visor de imágenes para el

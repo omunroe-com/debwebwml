@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="59aa33950f457e2e93aed78d1a15af54d550acc5"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>PHP4 で書かれたウェブベースのフォトアルバムである gallery に複数の脆弱性が発見されました。

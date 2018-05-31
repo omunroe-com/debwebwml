@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-NP bootfähige CD veröffentlicht</define-tag>
 <define-tag release_date>2003-11-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc"
 # $Id$
 
 <p>In Vorbereitung auf die Konferenz

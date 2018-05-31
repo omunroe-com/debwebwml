@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2cfdd3ad39f658e44565e6e18b3b098287e9ed44"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Tom Lane descubrió un desbordamiento de buffer en la función

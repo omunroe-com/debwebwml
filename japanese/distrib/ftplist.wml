@@ -1,5 +1,5 @@
 #use wml::debian::template title="インターネットから Debian を取得する" BARETITLE=true
-#use wml::debian::translation-check translation="1.32"
+#use wml::debian::translation-check translation="9bc7028aecff09464573558f6c4618c566a3d84b"
 
 <p>Debian は、インターネットからダウンロードして利用できます。</p>
 

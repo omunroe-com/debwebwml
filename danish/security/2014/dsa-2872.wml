@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="27894e5d054d19341491f3ac090577803ecb8047" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer opdagede et bufferoverløb i udisks' kode til fortolkning af 

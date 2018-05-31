@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7b9acd4471e9374b2b2b64208c7501134cd75889" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что переполнение буфера в коде грамматического разбора изображений GIF

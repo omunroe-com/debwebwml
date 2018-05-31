@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b74c9322e47cd1fbfb667e68d0f96547618d659d" maintainer="Lev Lamberov"
 <define-tag description>неправильная передача данных учётной записи клиента</define-tag>
 <define-tag moreinfo>
 <p>Ричард Сильвермэн обнаружил, что при выполнении аутентификации через GSSAPI, libcurl

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7fd0a1579b23de7f9b7f823b02420cca01005497"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Google セキュリティチームの Josh Duart さんが、JPEG-2000 ファイルを操作するライブラリ

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Élection du responsable du projet Debian 2012" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="bf0c70f822b067c2fd85a67f9e913bb62b422baf" maintainer="David Prévot"
 
 
 <table width="90%">

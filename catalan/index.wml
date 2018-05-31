@@ -1,6 +1,6 @@
 #use wml::debian::mainpage title="El Sistema Operatiu Universal"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.93" maintainer="Jordi Mallach"
+#use wml::debian::translation-check translation="7f5feef4c8e00dce1b1fca0a8c7cf9e5dbcc69bf" maintainer="Jordi Mallach"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
 

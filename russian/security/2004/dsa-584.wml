@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c3f2fc874c4fcdf8035dfc039448cd075130537a" maintainer="Lev Lamberov"
 <define-tag description>уязвимость форматной стрки</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" заметил, что функции записи журнала в dhcp 2.x, который

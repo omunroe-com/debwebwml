@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d2551164b92a8291923a6a1f86d3c6a51bb17c1d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В рекомендации по безопасности Debian под номером 3918 пакеты с Thunderbird

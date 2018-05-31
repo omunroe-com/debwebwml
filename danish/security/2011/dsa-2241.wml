@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="002fc86db471bd9a7b618b25545192e64526665f" mindelta="1"
 <define-tag description>implementeringsfejl</define-tag>
 <define-tag moreinfo>
 <p>Nelson Elhage opdagede at ukorrekt hukommelseshåndtering under fjernelse af 

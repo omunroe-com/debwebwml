@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="79472e8a7b149ba84f4bda680ab9791ebd1fb348" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Сергей Бобров обнаружил, что грамматический разбор куки в Django и Google

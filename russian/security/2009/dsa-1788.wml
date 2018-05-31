@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a93c2621cebe96d479eae8e01c2c94b21b200be0" maintainer="Lev Lamberov"
 <define-tag description>некорректное утверждение</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Quagga, служба IP-маршрутизации, не может более

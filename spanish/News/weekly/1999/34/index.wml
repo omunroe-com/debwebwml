@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-9-7" SUMMARY="Decisión sobre el FHS. Problemas con BIND. Adopción de GPG."
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 
     <p>

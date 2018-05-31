@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="juanma"
+#use wml::debian::translation-check translation="f6f6560beebcd26ac936d6edaae403e694b31d13" maintainer="juanma"
 <define-tag description>desbordamientos de buffer, entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en zgv, un visor de gráficos

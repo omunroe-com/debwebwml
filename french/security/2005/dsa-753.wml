@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="cdf111328808f00dab8ee9d3fe94d372639c3742" maintainer="Simon Paillard"
 <define-tag description>Format de chaînes de caractères</define-tag>
 <define-tag moreinfo>
 <p>Une vulnérabilité sur le format de chaînes de caractères a été découverte

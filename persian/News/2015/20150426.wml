@@ -5,7 +5,7 @@
 <define-tag pagetitle>دبیان ۸ <q>جِسی</q> منتشر شد</define-tag>
 <define-tag release_date>2015-04-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Mohammad Rafiee"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Mohammad Rafiee"
 
 <p>پس از ۲۴ ماه توسعه مداوم پروژه دبیان مفتخر است انتشار نسخه ۸ام پایدار خود را (با نام مستعار جسی -Jessie) اعلام  نماید. این نسخه به شکر فعالیت‌ های دو <a href="http://security-team.debian.org/">تیم امنیت
 </a> و <a href="https://wiki.debian.org/LTS">تیم پشتیبانی بلند مدت</a> تا ۵ سال آینده مورد پشتیبانی بلند مدت قرار خواهد گرفت.

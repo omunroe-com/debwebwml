@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-09" SUMMARY="Support, Charte Web, Récupération, Sarge, Anaconda, Signatures, Entreprise, UserLinux, Installation, CD"
-#use wml::debian::translation-check translation="1.7" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 49e&nbsp;<i>DWN</i> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. Les serveurs

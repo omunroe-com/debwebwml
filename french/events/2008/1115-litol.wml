@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="c9d8c9e42638e982996c5d264439a2abe47b7c74" maintainer="Thomas Péteul"
 <define-tag abbr>LITOL</define-tag>
 <define-tag year>2008</define-tag>
 <define-tag pagetitle>Journées d'information sur Linux d'Oldenburg</define-tag>

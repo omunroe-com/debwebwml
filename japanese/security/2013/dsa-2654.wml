@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="70788fbaf28de6b365aa8738f5f848738d2a1902"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Nicolas Gregoire さんが、XSLT を処理する実行時ライブラリ libxslt が細工した XSL

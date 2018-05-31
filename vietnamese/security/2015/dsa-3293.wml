@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="cb7221a068b4863e1d853c8cc1076bb3b8390e8c" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Tim McLean đã khám phá ra rằng pyjwt, mã thực thi Python của Thẻ Web JSON,

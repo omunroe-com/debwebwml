@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="63b88a24795c921f1f53c0f679cab90b207cf406" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Хартмут Гёбель обнаружил, что MAT, набор инструментов для анонимизации/удаления

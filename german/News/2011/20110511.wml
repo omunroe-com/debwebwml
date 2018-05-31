@@ -2,7 +2,7 @@
 <define-tag release_date>2011-05-11</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3ae1a94fef18fb6c5a45c172c62bcab2013331f4"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2011-05-11
 
 

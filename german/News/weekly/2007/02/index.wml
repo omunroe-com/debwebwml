@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2007-01-30" SUMMARY="FHS, Sozialer Ausschuss, l10n, d-i, UTF-8, Bildschirmfotos, Veranstaltungen, Etch, Veröffentlichung"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 #use wml::debian::acronyms
 # $Id$
 

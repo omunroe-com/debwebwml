@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c571d0478d54bbe3bbaa59dfaa05dead54815a5d" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Ben Hayak opdagede at objekter indlejret i Writer- og Calc-dokumenter, kunne 

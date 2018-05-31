@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="aa4c5bfb61791d854fa3e74e2ebcf9f55d532882" maintainer="Jean-Pierre Giraud"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Laurent Butti et Garming Sam ont découvert de multiples vulnérabilités

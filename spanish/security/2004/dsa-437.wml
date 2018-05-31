@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c01de03ecf0686d7360fd08aafe3d18c6ef9c707"
 <define-tag description>repetidor de correo abierto</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad en cgiemail, un programa CGI usado

@@ -20,4 +20,4 @@ distribution (sid), er dette problem rettet i version
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1714.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ba24834eb3910e05e508f4d6bc7798581617627e" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b5b8a873eb30a241ba638b0eed790d5068944103" maintainer="Lev Lamberov"
 <define-tag pagetitle>Hamm (разрабатываемая версия под номером 2.0) переходит на стадию глубокой заморозки</define-tag>
 <define-tag release_date>1998-05-22</define-tag>
 #use wml::debian::news

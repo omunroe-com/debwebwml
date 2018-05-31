@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-11-11" SUMMARY="DFSG, Jr., Contrat Social, SPI, Versions, Apache, XML/SGML, MiniConf, FHS, Récompenses"
-#use wml::debian::translation-check translation="1.15" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 45e&nbsp;<i>DWN</i> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. Selon les

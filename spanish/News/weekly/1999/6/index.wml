@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-2-8" SUMMARY="Wichert Akkerman elegido LPD; el uso de debhelper alcanza el 50%"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>
 <b>Bienvenido</b> a la sexta edición de las noticias semanales de Debian,

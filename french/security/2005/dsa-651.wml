@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="8a1a7fbf132f6d6a303a82d91e6f87a872b5b6b9" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon, dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans Squid, le cache d'objet

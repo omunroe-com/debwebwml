@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.galliera.it/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a59cd4982099f399edbf21d52737ec88f2d3fa07"
 
 <p>
     Galliera er et stort italiensk sygehus med over 2.000 ansatte og 2.000

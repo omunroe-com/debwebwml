@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.23"
+#use wml::debian::translation-check translation="12fda280a7ac684eae6248116d756114455bc2df"
 <define-tag pagetitle>Общее решение: Статус секции несвободного ПО</define-tag>
 <define-tag status>F</define-tag>
 #use wml::debian::template title="<pagetitle>" BARETITLE="true" NOHEADER="true"

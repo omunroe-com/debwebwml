@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="bb1aad2d90a180c967f3cb68301aa7049419e029" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Alex Rousskov của The Measurement Factory đã khám phá ra rằng Squid3, một ứng

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-11-15" SUMMARY="ARM, DebConf, イベント, ClamAV, インストーラ, ライセンス, FOSDEM, パッケージング"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 46 号へようこそ。Debian-Edu

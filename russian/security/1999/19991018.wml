@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="14ab6ac0d7b707530cf1dd241af96e704c2a2f19" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Мы получили сообщения о том, что версия mirror, поставляемая в составе Debian
 GNU/Linux 2.1, может быть атакована удалённо. При выполнении зеркалирования удалённого сайта

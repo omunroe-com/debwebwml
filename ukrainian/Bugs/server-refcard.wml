@@ -1,6 +1,6 @@
 #use wml::debian::template title="Система відслідковування помилок Debian — пам'ятка команд поштових серверів" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="1.39" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="d57880fc68c4033938ec5f4b76af957cf31ea743" maintainer="Borys Yanovych"
 
 <h1>Пам'ятка команд поштових серверів</h1>
 

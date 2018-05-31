@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="a89bd261bce1ed1e89c6a779e28625bf4f26aa90"
 <define-tag moreinfo>
 Hemos recibido un informe de Paul Boehm afirmando que Mutt tiene un búfer
 desbordable en parse.c.  Al mandar correo malvado puede ejecutar código

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ports"
-#use wml::debian::translation-check translation="1.85"
+#use wml::debian::translation-check translation="64e0e3ba5fcdd9049e6d5bc22e3c27eaa13cd132"
 
 <ul class="toc">
  <li><a href="#intro">Introducció</a></li>

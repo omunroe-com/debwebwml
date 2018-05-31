@@ -16,4 +16,4 @@ version 2.6.3-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1932.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f3e2cfe6e8da335570f4902d7152b44f9b052c39" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 <define-tag pagetitle>Ha comenzado la congelación de código para Debian GNU/Linux 2.2</define-tag>
 <define-tag release_date>2000-01-16</define-tag>
 #use wml::debian::news

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 7 -- Fe de erratas" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.7" maintainer="Jorge Barreiro González"
+#use wml::debian::translation-check translation="06e1cde7a61d62ac8b943708b1cc130e34c6a28e" maintainer="Jorge Barreiro González"
 
 #include "$(ENGLISHDIR)/releases/info"
 

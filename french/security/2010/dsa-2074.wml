@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="4309da261bdb35bfd245919c1763bd4caaf710de" maintainer="David Prévot"
 <define-tag description>Débordement d'entier par le bas</define-tag>
 <define-tag moreinfo>
 <p>

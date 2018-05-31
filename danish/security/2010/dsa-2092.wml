@@ -18,4 +18,4 @@ websteder.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2092.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="399355d7485b8de93c65786c3024c892a6896285" mindelta="1"

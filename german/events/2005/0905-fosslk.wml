@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b06f792bba764f71c360826c227a6e96c50487f3"
 # Translator: Helge Kreutzmann <kreutzm@itp.uni-hannover.de> 2005-08-26
 <define-tag abbr>FOSS LK</define-tag>
 <define-tag year>2005</define-tag>

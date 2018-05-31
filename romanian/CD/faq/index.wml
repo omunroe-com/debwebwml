@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="FAQ - Întrebări frecvente despre CD-uri Debian" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.133" 
+#use wml::debian::translation-check translation="f7c912d1ad6328184b17b767fe1b0b861610d87a" 
 #include "$(ENGLISHDIR)/releases/info"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">

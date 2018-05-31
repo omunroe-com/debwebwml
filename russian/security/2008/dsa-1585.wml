@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="589149960cb0989bd719ffaabd07bc6c7024a67e" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что speex, инструменты командной строки для кодека Speex, неправильно

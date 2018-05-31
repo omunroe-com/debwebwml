@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="986f69a1321a8d4c6c51eaa2ef672c6b080c2f85" maintainer="Lev Lamberov"
 <define-tag description>логическая ошибка</define-tag>
 <define-tag moreinfo>
 <p>Камеш Джаячандран и Майкл Пилат обнаружили, что модуль mod_dav_svn

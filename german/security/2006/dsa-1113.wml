@@ -15,5 +15,5 @@ Version 2.7.5-2sarge2 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1113.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6d942f26f1cc6bc7a19ca1f102c6ecb01eb0815b" mindelta="1"
 # $Id$

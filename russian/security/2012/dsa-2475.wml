@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b915a9f101c9a3f442e7316c2c57703c326a9294" maintainer="Lev Lamberov"
 <define-tag description>отрицательное переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что openssl некорректно обрабатывает явную

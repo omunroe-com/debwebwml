@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d0be637467cbd2e3bbec76e0e3c6193e1d2d811c"
 <define-tag description>情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>Paras Sethia さんが libcurl、クライアント側 URL 転送ライブラリが

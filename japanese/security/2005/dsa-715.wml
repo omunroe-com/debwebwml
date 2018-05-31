@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="0129ff42afd95f71a6f7890ec4ed7d954e7d2939"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>人気のあるバージョン管理システム CVS サーバに複数の問題が発見されました。

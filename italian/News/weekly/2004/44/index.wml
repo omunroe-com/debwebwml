@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-11-09" SUMMARY="Firmware, Alioth, Licenze, Desktop, Conferenze, Installazione, Qualità"
-#use wml::debian::translation-check translation="1.13" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776" maintainer="Daniele Venzano"
 
 <p>Benvenuti al quarantaquattresimo numero di DWN, il notiziario settimanale per la 
 comunità Debian.  Anibal Monsalve Salazar ha

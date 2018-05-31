@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="552686a10b02cd905edda8597ad6abd9243d30a2" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версия userv, поставляемая в составе Debian
 GNU/Linux 2.1 (slink), содержит проблему в алгоритме подкачки fd: иногда
 возможно создание указателя за пределы массива. Локальные пользователи могут

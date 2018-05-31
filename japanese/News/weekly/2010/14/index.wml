@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-10-18" SUMMARY="Debian 6.0 <q>Squeeze</q> の現状、ask.debian.net、最新の DebianEdu、新しい <q>sloppy</q> バックポート、Debian プロジェクトメンバーシップ"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl

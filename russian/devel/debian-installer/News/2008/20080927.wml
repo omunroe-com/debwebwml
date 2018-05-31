@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d0b034ac4423c229c439b2fd32e6531c27fc9aa2" maintainer="Lev Lamberov"
 <define-tag pagetitle>Подготовка кандидата на выпуск 1 для выпуска lenny привела к поломке некоторых установочных образов версии beta 2 и etch-and-a-half</define-tag>
 <define-tag release_date>2008-09-27</define-tag>
 #use wml::debian::news

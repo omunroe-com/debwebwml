@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c623b056acc689175dea5a3f86b59566455a7702" maintainer="Juan M. Garcia"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Wernfried Haas descubrió que centericq, un cliente de mensajería

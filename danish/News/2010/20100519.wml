@@ -1,7 +1,7 @@
 <define-tag pagetitle>En bedre DebConf10 med din hjælp: giv et bidrag eller bliv sponsor</define-tag>
 <define-tag release_date>2010-05-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8933c76fb4d966775ab8b9742040a20b78902e0e"
 
 <p>DebConf er Debian-projektets udviklerkonference.  Ud over et fuldt program 
 med tekniske, sociale og retningslinkeforedrag, giver DebConf også muligt for, 

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian プロジェクトリーダー選挙 2004" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f32f01938bacd6c25e4a0bcc7f0b7a8037ff8588"
 
 
     <table width="90%">

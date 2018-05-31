@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fe29fd30060dae958b2cb5e2c2a8b5871a244103" maintainer="Lev Lamberov"
 <define-tag description>небезопасный протокол взаимодействия</define-tag>
 <define-tag moreinfo>
 

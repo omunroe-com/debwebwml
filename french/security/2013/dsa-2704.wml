@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="b6a7948fa22eb40076a6bfdcaad690461f19b7c5" maintainer="David Prévot"
 <define-tag description>Accès hors limites</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="438c4dd992dbc3e81ec2ee12a7eaf908bf42edfd" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Два проблемы безопсности (SQL-инъекция и инъекция командной строки через настройки

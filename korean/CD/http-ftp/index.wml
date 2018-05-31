@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="데비안 CD/DVD 이미지를 HTTP/FTP 를 통해 내려받기" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.58" maintainer="Sebul"
+#use wml::debian::translation-check translation="a2a93c6af14d9de0d3c3aa2b2d7fa4d06a48ee43" maintainer="Sebul"
 
 <div class="tip">
 <p><strong>웹 브라우저에서 CD나 DVD 이미지를 다른 파일 내려받듯이 내려받지 마세요!</strong>

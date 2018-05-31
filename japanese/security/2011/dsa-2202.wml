@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f282ff3a428a76b63648c6136bac62b57921cd57"
 <define-tag description>ルート特権を落とす処理抜け</define-tag>
 <define-tag moreinfo>
 

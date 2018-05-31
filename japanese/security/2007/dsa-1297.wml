@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8a117fc12e8f13336885d380aca87997d6ceca41"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Bernhard R. Link さんは、コラボレーション開発ツール gforge の CVS 

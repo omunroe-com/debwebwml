@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6e8fd4c3a33ed592e540949922cefbc0c1c9fcd7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Скотт Гири из VendHQ обнаружил, что HTTPD-сервер Apache использует

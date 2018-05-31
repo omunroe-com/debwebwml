@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="0e248e3cc0255acdb2cac64b43e08665b631e6de" maintainer="DFS Task Force"
 <define-tag description>Faible validation des noms de domaine et
 d'utilisateur</define-tag>
 <define-tag moreinfo>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="bd2a3dbffc3097788619365c9e876c68b3524312" maintainer="Simon Paillard"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>Akira Yoshiyama a remarqué que ipmenu, une interface graphique à

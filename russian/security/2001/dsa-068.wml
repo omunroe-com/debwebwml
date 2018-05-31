@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7661580dae5bf4b72bf4fe924e85cb3c41b89153" maintainer="Lev Lamberov"
 <define-tag description>удалённая атака, вызывающая отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 Среди рекомендаций CERT приводится ряд уязвимостей в различных

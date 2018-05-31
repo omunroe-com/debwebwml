@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-05-02" SUMMARY="Bits fra DPL'en, nye og kommende ændringer til Linux-kernen, Debian Project sørger over tabet af Adrian von Bidder"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="3d8a59c4b4e7d46cc3c4e918efed091d71ecacd8"
 
 <p>Velkommen til årets syvende udgave af DPN, Debian-fællesskabets nyhedsbrev.
 Emnerne i denne udgave er blandt andre:</p>

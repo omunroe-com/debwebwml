@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>Los núcleos 2.2.x de Linux tenían un problema con el
 análisis de las opciones IP, lo que les hacía susceptibles de un ataque DdS
 (de denegación de servicio). La versión de Debian GNU/Linux 2.1 (slink) para

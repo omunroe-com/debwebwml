@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 2.1 fertig gestellt</define-tag>
 <define-tag release_date>1999-03-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="3f781466c4f44128d1e35cd1895a00e7fc651069"
 
 <p>Genau wie vor einer Woche angekündigt ist Debian 2.1
 (Codename Slink) am 9. März um 00:00 Uhr GMT erschienen. Hier

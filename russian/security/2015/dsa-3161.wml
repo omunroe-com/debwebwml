@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c4cb67abd88943406a4a8f49e4c1075ba8629d9a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Саймон Маквити обнаружил локальный отказ в обслуживании в dbus,

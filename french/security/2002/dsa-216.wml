@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="d38b6c8f3f51be5865ceb7a47dc24ce2e40d424d" maintainer="Pierre Machard"
 <define-tag description>Débordement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser d'e-matters a découvert un débordement de tampon dans 

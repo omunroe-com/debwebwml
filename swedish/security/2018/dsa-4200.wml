@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="80a98df1d729d8acbd9526fa5393a1f77573c7f7" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Fabian Vogt upptäckte att felaktig rättighetshantering i PAM-modulen

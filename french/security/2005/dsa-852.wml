@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="da373818ddab84d18b2c75f0f24ea537f759b36d" maintainer="Simon Paillard"
 <define-tag description>Format de chaînes de caractères</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp a découvert deux vulnérabilités de format de chaînes de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1b5d5d1de20b4e80c9575e451fbc613e3e1bf3f6"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>libssh、小さな C SSH ライブラリが接続を受け付けた後に PRNG

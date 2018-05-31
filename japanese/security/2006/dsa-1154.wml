@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ff1b78cc37a15dd28c23c72b02812f96707ce861"
 <define-tag description>変数の上書き</define-tag>
 <define-tag moreinfo>
 <p>GulfTech Security Research の James Bercegay さんにより、SquirrelMail の compose

@@ -20,4 +20,4 @@ IRC クライアントを再起動することをお勧めします。</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-156.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4ce2f1ea053de49d2adede9a58d9bf648e6f229f"

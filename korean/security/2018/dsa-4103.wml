@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Sebul"
+#use wml::debian::translation-check translation="f32adc0e456359827bb348333e680a0f2a502894" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>여러 보안취약점이 크로미엄 웹 브라우저에서 발견되었습니다.

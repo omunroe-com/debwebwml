@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="40fd790b1ec0c5522b743cdbbdcbe11e4b771856" maintainer="Jean-Pierre Giraud"
 <define-tag description>Disponibilité de la prise en charge à long terme pour Debian 6.0 / squeeze</define-tag>
 <define-tag moreinfo>
 <p>L'organisation initiale et les préparatifs de Squeeze LTS sont maintenant

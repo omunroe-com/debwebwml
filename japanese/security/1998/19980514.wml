@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="a5d6af41558dd8bf8106ed8fd92339e78c089775"
 <define-tag description>gzexe が任意のプログラムの実行を許可</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski さんにより、gzip に収録されている gzexe

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Conferenza Annuale Debian 2010 - La conferenza di sviluppatori della maggiore distribuzione di GNU/Linux sta per iniziare</define-tag>
 <define-tag release_date>2010-07-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Mark Caglienzi"
+#use wml::debian::translation-check translation="51579e3c619a71b9add42d8af798d74c926cd25d" maintainer="Mark Caglienzi"
 
 <p>Il progetto Debian, il team dietro il sistema operativo libero Debian
 GNU/Linux, è lieto di invitarvi a partecipare alla prossima Debian Conference,

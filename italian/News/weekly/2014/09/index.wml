@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-05-26" SUMMARY="Richiesta di aiuto per ARM64, edos.debian.net torna ad essere qa.debian.org/dose, pillole dai porter di Debian GNU/Hurd"
-#use wml::debian::translation-check translation="1.2" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="8fb751b7c1cfbe3cd729a336b64ae649edfd8b09" maintainer="Mirco Scottà"
 
 # $Rev: 5634 $
 # Status: [content-frozen]

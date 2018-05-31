@@ -19,4 +19,4 @@ beliebigen Codes führen könnten.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1469.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3d8d1e08ba0afff97ba52ec25f7925b703b6d4c4"

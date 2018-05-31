@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9" maintainer="Lev Lamberov"
 <define-tag description>обход ограничений</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что модуль Safe для Perl, модуль для компиляции и

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="97b8ff2bd6d60ba794da1bddafc016083a7eac27" maintainer="Thomas Vincent"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>Kingcope a découvert que les modules mod_sftp et mod_sftp_pam de proftpd,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="19cc2f98dfc16f29bd8333210c1b02d57cd2ddc4" mindelta="1"
 <define-tag description>rettighedsforøgelse</define-tag>
 <define-tag moreinfo>
 <p>Daniel Danner opdagede at tmux, en terminal-multiplexer, ikke på korrekt vis

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 3.1 opdateret (r2)</define-tag>
 <define-tag release_date>2006-04-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <define-tag revision>3.1r2</define-tag>
 

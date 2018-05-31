@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="29ee23a04d844faa77787aa51e48c10ddd3d4db4" maintainer="Lev Lamberov"
 <define-tag description>ошибка авторизации</define-tag>
 <define-tag moreinfo>
 <p>В webcalendar, многопользовательском календаре на основе PHP, была

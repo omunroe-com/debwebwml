@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e1ea6be86d11213c8e26417a0e24234f8ad3eae1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тильман Хаак из xing.com обнаружил, что XML::LibXML, интерфейс для Perl

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d20934ce8becc701685ac68ee9d968eb67708f41" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Антуан Дэлине-Лаву из Inria обнаружил проблему в используемом в NSS

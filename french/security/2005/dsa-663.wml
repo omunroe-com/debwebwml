@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="4c5f526748e99fac0cb0b5df07ccd4a52636a142" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs dépassements de tampon ont été découverts dans prozilla, un

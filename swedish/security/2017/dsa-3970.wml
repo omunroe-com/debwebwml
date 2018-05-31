@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0f883137a1477df2ec9d765faa89a59d74d56487" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Charles A. Roelli upptäckte att Emacs är sårbar för exekvering

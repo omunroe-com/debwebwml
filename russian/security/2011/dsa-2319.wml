@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1387312f67ee8c570374bf47fc41a693c881cfda" maintainer="Lev Lamberov"
 <define-tag description>состояние гонки</define-tag>
 <define-tag moreinfo>
 <p>Нил Мехта обнаружил, что состояние гонки в Policykit, инфраструктуре

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="73898fa14fae4862813c59ba871518a356e84039" maintainer="Giuseppe Sacco"
 <define-tag description>denial of service</define-tag>
 <define-tag moreinfo>
 <p>Bindview <a href="http://razor.bindview.com/publish/advisories/adv_ipsec.html">\

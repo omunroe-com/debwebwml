@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2008-08-04" SUMMARY="Lenny gelée, Debian GNU/Linux 4.0 mise à jour pour intégrer la prise en charge de matériels plus récents, Annonce du programme de la 8ème conférence annuelle Debian, Debian Days dans le monde entier"
-#use wml::debian::translation-check translation="1.11" maintainer="Arnaud Bonvallet"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Arnaud Bonvallet"
 
 <p>Nous avons le plaisir de vous présenter le huitième numéro de l'année des
  « Nouvelles du Projet Debian », la lettre d'information de la communauté

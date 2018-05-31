@@ -28,4 +28,4 @@ Vi anbefaler at du opgraderer din syslog-ng-pakke.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1464.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="30c51b2d1994b30ed2daa7cc14415ad0251ba607" mindelta="1"

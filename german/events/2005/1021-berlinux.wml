@@ -27,7 +27,7 @@ mehreren Mitgliedern des Debian-Projekts geben.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8875f0c218326a3ff0815ed5305d001ba30b91c2"
 #Related Links here (free form)
 <ul>
 <li><a href="1021-berlinux-report">Bericht</a></li>

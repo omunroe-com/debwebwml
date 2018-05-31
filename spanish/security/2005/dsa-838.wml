@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="083b632dcdce42d1686d3521096de47792bab45e" maintainer="Juan M. Garcia"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Se han identificado varias vulnerabilidades de seguridad en el navegador

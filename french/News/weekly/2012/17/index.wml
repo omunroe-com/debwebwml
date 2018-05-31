@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-09-03" SUMMARY="Présence de Debian aux RMLL 2012, PC 64 bits : principale architecture Debian, nouveaux miroirs"
-#use wml::debian::translation-check translation="1.9" maintainer="David Prévot"
+#use wml::debian::translation-check translation="64a931c5064583fdfbe7bf218bffe9344e4ae65a" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

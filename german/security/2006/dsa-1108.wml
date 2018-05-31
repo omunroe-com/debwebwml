@@ -16,5 +16,5 @@ Version 1.5.11+cvs20060403-2 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1108.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="076556af2ddd82711181a480d385bcfc02a804bf" mindelta="1"
 # $Id$

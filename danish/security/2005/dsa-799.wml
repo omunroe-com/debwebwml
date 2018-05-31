@@ -16,4 +16,4 @@ version 0.9.45-4sarge2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-799.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="478a94b7d21f2ff6077ae27683ec1c758849c1b4" mindelta="1"

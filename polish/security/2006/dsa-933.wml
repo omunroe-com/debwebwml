@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="850a591401504087280fc81128012e6a2ee22168"
 <define-tag description>wykonywanie dowolnego polecenia</define-tag>
 <define-tag moreinfo>
 <p>Patrice Fournier odkrył, że pakiet hylafax przekazuje użytkownikowi niezdrowe dane w skrypcie powiadamiającym, umożliwiając użytkownikom na wysłanie zadaniom dowolnych komend do uruchomienia z przywilejami serwera hylafax.</p>

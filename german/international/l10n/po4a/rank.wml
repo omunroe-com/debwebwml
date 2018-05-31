@@ -1,6 +1,6 @@
 #use wml::debian::template title="Status von l10n in Debian &ndash; Rangliste der PO-Dateien, die mit po4a verwaltet werden, zwischen den Sprachen"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5959963cef46e37f246a18bde82aed163915e2e1"
 # Translator: Helge Kreutzmann <kreutzm@itp.uni-hannover.de>, 2006-02-26
 # $Id$
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="86edebaba31f30e6f6f9937dc2d9c75400e06b62" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Stefano Zacchiroli a découvert une vulnérabilité dans exuberant-ctags, un

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="5c9f6625eceb1ef917778df930e384790cd81922" maintainer="Thomas Vincent"
 <define-tag description>Absence de vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Josh Triplett a découvert que la liste noire du code TeX éventuellement dangereux

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="da344fab0612b0b7f67cbd28c5cd44cf3b7eb771" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>"unsticky" обнаружил, что b2evolution, движок блогов, выполняет недостаточную

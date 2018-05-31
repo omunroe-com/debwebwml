@@ -1,5 +1,5 @@
 #use wml::debian::mainpage title="ஞாலமனைத்திற்குமான இயங்குதளம்"
-#use wml::debian::translation-check translation="1.79"
+#use wml::debian::translation-check translation="d1722c7641f17f8bcf3ec4f1f741624b870337c1"
 #use wml::debian::recent_list
 #include "$(ENGLISHDIR)/releases/info"
 

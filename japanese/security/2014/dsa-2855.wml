@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="02b0a13d14075dafdc818d411b2d581b4da0fd96"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>libav マルチメディアライブラリの複数のデマルチプレクサや

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Mohammed Adnène Trojette"
 <define-tag abbr>DC1IN</define-tag>
 <define-tag year>2005</define-tag>
 <define-tag pagetitle>Debian Conference en Inde</define-tag>

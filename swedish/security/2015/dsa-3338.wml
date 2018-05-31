@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f8cf58e80954c19d30f266c0af7f20e7bdc7e11e" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Lin Hua Cheng upptäckte att en session kunde skapas vid anonym

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b0729cb4d784cb3f2895f682b67be6e030f369fa"
 <define-tag description>символьно-числовое преобразование</define-tag>
 <define-tag moreinfo>
 <p>Михал Залевски (Michal Zalewski) обнаружил возможность переполнения

@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.dellapaschoa.com.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="c5a49b4e92f0a7d71307bb64985f7ff0c3f51cfb" maintainer="Nicolas Bertolissio"
 
 <p>
 Actuellement nous disposons d'un serveur, de trois stations de travail pour le

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="019cd3b809959b8e21b9b66c3bfd4660ffc8dace" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En överbelastningssårbarhet har rapporterats för Prosody, en XMPP-server.

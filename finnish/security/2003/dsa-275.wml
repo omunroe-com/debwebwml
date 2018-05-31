@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b2db128b1c1aedfea85014427385efa259c63bbb"
 <define-tag description>puskurin ylivuoto</define-tag>
 <define-tag moreinfo>
 <p>lpr:ssä, BSD:n lpr/lpd-tulostusjärjestelmässä, on havaittu puskurin

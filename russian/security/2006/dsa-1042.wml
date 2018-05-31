@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e62fb8013b11944cc4b00f10f1dfd189197e0f47" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Исследовательская команда Mu Security обнаружила отказ в обслуживании в

@@ -12,4 +12,4 @@ vous recommandons de mettre à jour votre paquet w3m.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-064.data"
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="47dab89886b1a634b9c1913fa847ab2affa7022a" maintainer="DFS Task Force"

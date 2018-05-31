@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="29ee23a04d844faa77787aa51e48c10ddd3d4db4"
 <define-tag description>認証不履行</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が PHP ベースのマルチユーザカレンダー webcalendar に発見されました。

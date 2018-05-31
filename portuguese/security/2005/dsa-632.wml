@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="16548bb1fed395ed46385bf7d11face05600c033"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Stephen Dranger descobriu um estouro de buffer no linpopup,

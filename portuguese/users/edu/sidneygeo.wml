@@ -1,7 +1,7 @@
 # From: Ivan Teliatnikov <ivan@geosci.usyd.edu.au>
 # Date: Thu, 09 Jun 2005 15:10:15 +1000
 # Message-Id: <1118293815.14763.99.camel@cobalt.es.usyd.edu.au>
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="866294a282a7e7ea99decf4d17f197da4d2afe83" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <define-tag pagetitle>School of Geosciences, University of Sydney, Austr&aacute;lia</define-tag>
 <define-tag webpage>http://www.geosci.usyd.edu.au/</define-tag>

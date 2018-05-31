@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7565caaa9da7e26b6cf474dd0dcd418c7ee2d112" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Мишель Спагнуоло из Google Security Team обнарули два переполнения

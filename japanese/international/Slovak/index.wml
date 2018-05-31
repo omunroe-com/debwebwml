@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian のスロバキア語への地域化"
-#use wml::debian::translation-check translation="1.15" original="slovak"
+#use wml::debian::translation-check translation="b5da34fa672b0ffb29ed0a5d9126ed32c99ef93f" original="slovak"
 #use wml::debian::translation-check translation="1.14"
 
 <p>Debian のスロバキア語翻訳は debian-l10n-slovak@lists.debian.org

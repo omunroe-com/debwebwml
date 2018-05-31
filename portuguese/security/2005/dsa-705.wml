@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2be335f2516da8f084f4ae82013b9a05ef098f05"
 <define-tag description>Falta sanitização da entrada</define-tag>
 <define-tag moreinfo>
 <p>Várias condições de negação de serviços foram descobertas no

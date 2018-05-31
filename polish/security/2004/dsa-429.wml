@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9b5b07270d85df00d77b2e58039b97b7d76a1d57"
 <define-tag description>usterka w szyfrowaniu</define-tag>
 <define-tag moreinfo>
 <p>Phong Nguyen rozpoznał poważny błąd w sposobie tworzenia i używania

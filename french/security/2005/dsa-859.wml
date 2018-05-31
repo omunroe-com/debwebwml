@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="0a3164efd9990ff9cbb981ec243d872ca0c2d395" maintainer="Simon Paillard"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo> 
 <p>Ariel Berkman a découvert plusieurs dépassements de tampon dans xloadimage,

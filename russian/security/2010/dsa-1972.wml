@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0b6ae19fedbf1f7016840a79ad3c3c92e5c98e5b" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Макс Келлерман обнаружил переполнение динамической памяти в коде для обработки

@@ -1,6 +1,6 @@
 <define-tag pagetitle>Le Projet Debian au LinuxTag 2011</define-tag>
 <define-tag release_date>2011-05-11</define-tag>
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="3ae1a94fef18fb6c5a45c172c62bcab2013331f4" maintainer="David Prévot"
 #use wml::debian::news
 
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6b2c12b0005ce2e18afc3dbbc31c9a2ed23d62dc" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Gustavo Grieco upptäckte att xerces-c, ett validerande XML-tolkningsbibliotek

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Было сообщено о серьёзной ошибке в cfingerd
 до версии 1.4.0. Она присутствует во всех версиях cfingerd от 1.2.0 до любой

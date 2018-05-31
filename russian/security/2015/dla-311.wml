@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="86671147853f1aa7496dbefb479c46f912e19cc4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>Использование указателей после освобождения памяти в rpcbind приводит к аварийным остановкам,

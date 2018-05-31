@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="5d19754129fa25321fad316595d534d5ad132da9" maintainer="DFS Task Force"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler a découvert un dépassement d'entier dans l'application d'aide

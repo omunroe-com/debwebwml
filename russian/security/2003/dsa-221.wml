@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="86e0bec820f9d99dc7fe20330f8b868c82943d9c"
 <define-tag description>перекрёстные между сайтами скрипты</define-tag>
 <define-tag moreinfo>
 <p>Эарл Худ (Earl Hood), автор mhonarc, конвертера почты в формат HTML,

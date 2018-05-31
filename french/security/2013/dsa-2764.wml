@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="61a3bc9723007c7a51ba67bc0ec7b1eda76e3e62" maintainer="Thomas Vincent"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Daniel P. Berrange a découvert qu'un traitement incorrect de la mémoire dans

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2421089de56a30f2ce873a5215fd123fec79ba18"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>ホストおよびネットワーク監視システム Icinga の CGI プログラム

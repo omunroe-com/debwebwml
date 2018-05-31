@@ -1,6 +1,6 @@
 #use wml::debian::template title="Allgemeiner Beschluss: Bestätigung der Unterstützung des Debian Projektleiters" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e6c389a30691c723e5d8bc1592da0c342a595ec0"
 # $Id$
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2006-12-17
 

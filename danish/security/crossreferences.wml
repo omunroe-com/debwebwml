@@ -1,6 +1,6 @@
 #use wml::debian::template title="Sikkerhedskrydsreferencer" GEN_TIME="yes" NOHEADER="ja"
 #use wml::debian::securityreferences
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="642ec8f30a9387cf157c220f2bdc34f844689aaf"
 
 <h1>Krydsreferencer til Debians sikkerhedsbulletiner</h1>
 

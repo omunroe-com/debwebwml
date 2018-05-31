@@ -1,7 +1,7 @@
 <define-tag pagetitle>Sun が Ultra30 システムを Debian に提供</define-tag>
 <define-tag release_date>1998-11-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="cd18be6b804dcc76a6a3aaf00dad207d80638b9b"
 
 <P><A HREF="http://sun.com">Sun Microsystems</A> は 3 台の UltraSPARC
 システムを Debian project に提供しました。これらはそれぞれ 

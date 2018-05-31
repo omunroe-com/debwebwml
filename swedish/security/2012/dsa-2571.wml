@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ba5a5b857826aaf25d1d3138960dbfd6cd097d8a" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Red Hat Security Response Team upptäckte att libproxu, ett bibliotek

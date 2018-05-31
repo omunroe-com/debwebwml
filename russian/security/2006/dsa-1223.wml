@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fac6b8b2be0776f0d517928e7c45bb6d94aed294" maintainer="Lev Lamberov"
 <define-tag description>ошибка проверки ввода</define-tag>
 <define-tag moreinfo>
 <p>Теему Салмела обнаружил уязвимость в GNU tar, которая может позволить

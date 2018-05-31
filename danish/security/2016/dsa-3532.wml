@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f0c3ab552e49d4a8e3cd7af62469ae633b566b4b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Kostya Kortchinsky opdagede en stakbaseret bufferoverløbssårbarhed i 

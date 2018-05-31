@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian convertida a <q>GNU libc 6</q></define-tag>
 <define-tag release_date>1997-07-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>
 El grupo Debian está construyendo afanosamente Debian 2.0, su primera

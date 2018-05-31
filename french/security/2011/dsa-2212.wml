@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="19cc2f98dfc16f29bd8333210c1b02d57cd2ddc4" maintainer="David Prévot"
 <define-tag description>Augmentation de droits</define-tag>
 <define-tag moreinfo>
 <p>

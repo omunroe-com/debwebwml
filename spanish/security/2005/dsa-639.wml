@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="317f9a8458898f66d75f1b8d8bb19b7353d38702" maintainer="juanma"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Andrew V. Samoilov ha advertido que hay varias de las correcciones

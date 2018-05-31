@@ -1,5 +1,5 @@
 #use wml::debian::template title="Konzultanti" NOCOMMENTS="yes" GENTIME="yes"
-#use wml::debian::translation-check translation="1.23"
+#use wml::debian::translation-check translation="a4f563b77c38e3f75f2d904dc83ad2a95bbd5e51"
 
 <p>Debian je slobodan softver te nudi besplatnu pomoć preko
 <a href="../MailingLists/">mailing listi</a>. Neki ljudi nemaju

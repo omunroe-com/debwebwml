@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="cf6a93b6e5d1a4cf12a8f7ed1132898c1c6370cc" maintainer="Thomas Vincent"
 <define-tag description>Initialisation incorrecte du générateur de nombres pseudoaléatoires dans certains cas</define-tag>
 <define-tag moreinfo>
 <p>Une vulnérabilité de cryptographie a été découverte dans le générateur de

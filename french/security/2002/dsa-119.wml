@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8d37ef50b0f1cd1d0cd0e8a651f1b6a719fde006" maintainer="Simon Paillard"
 # Original translation by Eric Jullien
 <define-tag description>Exploitation root locale, exploitation distante du client</define-tag>
 <define-tag moreinfo>

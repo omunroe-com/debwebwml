@@ -2,7 +2,7 @@
 #use wml::debian::toc
 
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="733099de17cfc0457fd3bc1709a74fd22f1a8e53"
 
 # Translator: Holger Wansing <linux@wansing-online.de>, 2011 - 2014.
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1335cc4541e7a7fc86189194ffa2aaffdc00df0a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Жан-Рене Рейнхард, Оливье Левилайн и Флориан Маури сообщили, что

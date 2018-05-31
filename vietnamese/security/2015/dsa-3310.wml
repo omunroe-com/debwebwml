@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="5b6fb0dc8365bdc3e64cc20f289ea2d3b4a9cdcc" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Đã phát hiện có việc tràn số nguyên trong freexl, một thư viện phân tích cú pháp

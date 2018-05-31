@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="51579e3c619a71b9add42d8af798d74c926cd25d"
 <define-tag pagetitle>2010 年 Debian カンファレンス - 世界最大の GNU/Linux
  ディストリビューションの開発者カンファレンスが始まろうとしています</define-tag>
 <define-tag release_date>2010-07-30</define-tag>

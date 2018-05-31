@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2b172160dd0bc862fc258e09ba704c44298b2d50" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Михал Ковалчик обнаружил, что отсутствие очистки вводных данных в

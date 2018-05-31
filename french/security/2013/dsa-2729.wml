@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="3d74fbe35803c7c96c63c8f6d6489d6a6d75bf10" maintainer="Thomas Vincent"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>OpenAFS, l'implémentation du système de fichiers distribué AFS, a été mis à

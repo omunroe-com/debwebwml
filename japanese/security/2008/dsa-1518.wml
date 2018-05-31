@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="abab0b5e5a4174396129af1bc5155b4782757827"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>Micha Lenk さんにより、コマンドラインバックアップツール backup-manager が、

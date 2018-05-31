@@ -1,6 +1,6 @@
 #use wml::debian::template title="Architektúrák"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.85" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="64e0e3ba5fcdd9049e6d5bc22e3c27eaa13cd132" maintainer="Szabolcs Siebenhofer"
 
 # <!-- originally translated by Péter Mamuzsics <zumu@mentha.hu> -->
 # <!-- updated by Viktor Nagy <chaotix@freemail.hu> -->

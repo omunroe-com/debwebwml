@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="983f688b1f4324d62b0d84bb8852627983993f05" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Protection insuffisante</define-tag>
 <define-tag moreinfo>

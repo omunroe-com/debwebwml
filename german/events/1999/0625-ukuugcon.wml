@@ -33,6 +33,6 @@ niemand<br>
 
 #use wml::debian::past_event
 #Related Links
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="f266e326547809ae3cb74d078f66a35cb3baaacd"
 # Translator: Noèl Köthe, noel@koethe.net, 2001-08-23
 # $Id$

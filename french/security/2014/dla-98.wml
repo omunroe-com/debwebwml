@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="2c3b034629f897e9b9ab97de3b6094129886b989" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Dragana Damjanovic a découvert qu’un client non authentifié pourrait planter

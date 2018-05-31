@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c9c6c0d2be0a5b7f5eeeaa333686bc7347a4cd35"
 <define-tag description>範囲外に対する読み込み</define-tag>
 <define-tag moreinfo>
 <p>Andrey Kiselev さんにより、TIFF ライブラリに問題が発見されました。

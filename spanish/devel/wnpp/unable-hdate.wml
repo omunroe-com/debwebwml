@@ -1,6 +1,6 @@
 #use wml::debian::template title="No pueden ser empaquetados: hdate"
 # $Id$
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9"
 
 <h3>hdate &mdash; Imprime fechas, calendarios y tiempos de oración islámca en Hijra (calendario lunar del Islam)</h3>
 

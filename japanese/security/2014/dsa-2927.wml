@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cb796037bf3028c075b1b1d4e737893d43c775bf"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>IOActive の Ilja van Sprundel さんが X.Org の

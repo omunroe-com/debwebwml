@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer=""
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2" maintainer=""
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Vários problemas de segurança foram encontrados no elog, um diário 

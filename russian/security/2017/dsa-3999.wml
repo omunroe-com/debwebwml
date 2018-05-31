@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5bf6135126914686f0fce456a2022161ac3e07fd" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Мати Ванхоф из исследовательской группы imec-DistriNet Лёвенского католического

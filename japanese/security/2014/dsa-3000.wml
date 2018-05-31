@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f30d01b3c321cffe8811272611d8977ba52e1d38"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が Kerberos の MIT 実装 krb5 に発見されました。The Common

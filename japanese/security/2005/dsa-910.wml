@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2b87058c4ff688b1742c10e25f8916b44b84a345"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>脆弱性がオープンソースのウェブアプリケーションサーバ zope 2.7

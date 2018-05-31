@@ -5,7 +5,7 @@
 <define-tag webpage>http://tudasbazis.gyumolcstarhely.hu/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="e65ec8e0ec856dc2d71b10f2c5960ed48138c6da" maintainer="Nicolas Bertolissio"
 
 <p>
 Utiliser Debian sur tous nos serveurs a sans doute été l'une des meilleures

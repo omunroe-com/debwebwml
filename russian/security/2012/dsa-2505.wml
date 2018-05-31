@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0470c6ff2375bb0325b1adc2e045da5b69eaa2d0" maintainer="Lev Lamberov"
 <define-tag description>раскрытие информации</define-tag>
 <define-tag moreinfo>
 <p>В Zend Framework, библиотеке PHP, была обнаружена уязвимость, связанная с включением внешних

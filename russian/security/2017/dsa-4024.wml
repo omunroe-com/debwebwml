@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2fa8abdc74890870a5d9e294b3b8c1d23fae99a9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В браузере chromium было обнаружено несколько уязвимостей.</p>

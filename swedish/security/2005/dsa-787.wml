@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ecd3ea1de517c95d3d590b94ff8f40431043bfa4" mindelta="1"
 <define-tag description>osäkra behörigheter och temporär fil</define-tag>
 <define-tag moreinfo>
 <p>

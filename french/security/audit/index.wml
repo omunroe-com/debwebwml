@@ -1,6 +1,6 @@
 #use wml::debian::template title="Projet d'audit de sécurité de Debian"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.15" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="57f73cd8cc7f0c94f280e3444c075d201e8d42a8" maintainer="Simon Paillard"
 
 <p>Le projet d'audit de sécurité de Debian (<em>Debian Security Audit
 Project</em>) est un projet qui se concentre sur l'audit des

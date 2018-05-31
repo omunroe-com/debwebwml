@@ -23,5 +23,5 @@ wurde in Version 1.3.10-1.1 korrigiert.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-089.data"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="bbee56b8439219ab61abedae84c557d18f42baf9"
 # $Id$

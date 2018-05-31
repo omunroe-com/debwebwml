@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="7bab9156b6f9ddcd9a4d47cd6fa2f4a0d4fb8b32" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Une attaque par canal auxiliaire dans le traitement des clés de session

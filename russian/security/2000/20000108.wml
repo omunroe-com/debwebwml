@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9f9bab42f6a09073500f73d102130ca5dfbf503b" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версия nvi, поставляемая в составе Debian
 GNU/Linux 2.1, содержит ошибку в сценарии /etc/init.d/nviboot по умолчанию: программа
 некорректно обрабатывает имена файлов, содержащие пробелы. Поэтому можно

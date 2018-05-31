@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="02d736890c059a4081d20b8724fffc631709a810"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>El paquete falconseye es vulnerable a un desbordamiento de buffer que se

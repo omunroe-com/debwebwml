@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="08-11-2005" SUMMARY="GPLv3, eventos, kFreeBSD, SSL, DebConf, sistemas, fallos, popCon, gnuTLS"
-#use wml::debian::translation-check translation="1.9" maintainer="Juan Javier Martínez"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Juan Javier Martínez"
 
 <p>Bienvenidos a la cuadragésimo quinta edición de este año de las DWN, el boletín
 semanal de la comunidad de Debian. Nathanael Nerode <a

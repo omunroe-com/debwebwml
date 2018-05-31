@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hur du kan hjälpa till"
-#use wml::debian::translation-check translation="1.49"
+#use wml::debian::translation-check translation="aedba88f0c7572ec26770e786608b2be7d5e3001"
 
 <p>Debianprojektet består av frivilliga, och våra produkter utvecklas helt
 på frivillig basis. Normalt sett <a href="$(HOME)/intro/diversity">letar vi efter nya bidragslämnare</a> som har ett

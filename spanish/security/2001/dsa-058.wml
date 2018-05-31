@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="e17774880210f44e0f35f3d149197f63f96d463e"
 <define-tag description>ataque de formato de printf local</define-tag>
 <define-tag moreinfo>
 Megyer Laszlo encontró un error de formato de printf en el agente de

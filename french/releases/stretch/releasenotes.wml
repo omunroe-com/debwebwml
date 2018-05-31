@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="3f60e9ab95c589dd5a1ca0b0d443957dfc33a362" maintainer="Jean-Pierre Giraud"
 #use wml::debian::template title="Debian 9 – Notes de publication" BARETITLE=true
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/arches.data"

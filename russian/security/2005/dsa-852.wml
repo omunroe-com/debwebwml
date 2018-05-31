@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="da373818ddab84d18b2c75f0f24ea537f759b36d" maintainer="Lev Lamberov"
 <define-tag description>уязвимости форматной строки</define-tag>
 <define-tag moreinfo>
 <p>Стив Кэмп обнаружил две уязвимости форматной строки в

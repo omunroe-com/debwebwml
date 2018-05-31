@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="3adcbf799534c4e3491fd453a8e6dccb3a48325d" maintainer="Thomas Péteul"
 <define-tag description>Gestion non sécurisée de fichier temporaire</define-tag>
 <define-tag moreinfo>
 <p>Dmitry E. Oboukhov a découvert que le plugin « to-upgrade » de Feta, une

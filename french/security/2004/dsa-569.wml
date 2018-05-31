@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="563d6184f4f3ef67d1a0c600de6f6eb1dfc17a99" maintainer="DFS Task Force"
 <define-tag description>Libération invalide</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski a découvert un bogue dans le serveur netkit-telnet

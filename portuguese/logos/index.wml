@@ -1,6 +1,6 @@
 #use wml::debian::template title="Logotipos Debian" BARETITLE=true
 #include "$(ENGLISHDIR)/logos/index.data"
-#use wml::debian::translation-check translation="1.57" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="843e4fc4254046482055bc3426b7a1995c9b10cf" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>
 Apesar de ser possível obter o Debian livremente, e isso será sempre

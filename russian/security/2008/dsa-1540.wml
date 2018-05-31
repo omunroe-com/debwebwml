@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b3a667ddeed074d41a85cf384dd29754984ca4e3" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что lighttpd, быстрый веб-сервер с минимальным потреблением

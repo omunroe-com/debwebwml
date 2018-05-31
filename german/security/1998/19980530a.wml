@@ -10,6 +10,6 @@ Konfiguration als root und nicht als regulärer Benutzer abspeicherte.</p>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19980530a.data'
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="db1de9b4d182abe0614b8e9fa5648020926d480e"
 # $Id$
 # Translator: Helge Kreutzmann, Helge.Kreutzmann@itp.uni-hannover.de, 2003-09-26

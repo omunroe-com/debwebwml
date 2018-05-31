@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="7015ee157604c28139577b3308ca1c49821f6215" maintainer="Juan M. Garcia"
 <define-tag description>valor predefinido no adecuado</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto una vulnerabilidad en ruby1.8 que podía permitir la

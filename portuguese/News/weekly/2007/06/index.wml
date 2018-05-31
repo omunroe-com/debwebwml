@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2007-07-03" SUMMARY="Eventos, Entrevistas, Arte, PHP4, Equipe de Lançamento, Lembrete, Segurança, Backportes, GCC"
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 
 <p>Ben vindo à sexta edição deste ano da DWN, o boletim da
 comunidade Debian.  Ulrich Hansen criou um conjunto de <a

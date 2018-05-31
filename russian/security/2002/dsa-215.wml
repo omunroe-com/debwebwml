@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f1ec4f64a065e50009b31fe90c8a954bef502d54"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Тимо Сирайнен (Timo Sirainen) обнаружил возможность переполнения

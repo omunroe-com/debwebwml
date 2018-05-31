@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="ff536b78404e9cbbbac72a0340bd65e4c0441b72"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron múltiples <a href="http://www.idefense.com/advisory/12.19.02.txt">\

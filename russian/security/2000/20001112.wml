@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9fd7099ca63b6a5a4e732a92c9744bd1504bad0a" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Версия BIND, поставляемая в составе Debian GNU/Linux 2.2, уязвима к
 удалённым атакам по принципу отказа в обслуживании, которые могут привести к аварийной остановке сервера

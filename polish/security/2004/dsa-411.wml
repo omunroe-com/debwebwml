@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="db187a49a761707642e0818f85a3350d70f09b7c"
 <define-tag description>podatność łańcucha formatującego</define-tag>
 <define-tag moreinfo>
 <p>Odkryto naruszenie bezpieczeństwa w mpg321, odtwarzaczu mp3 linii poleceń,

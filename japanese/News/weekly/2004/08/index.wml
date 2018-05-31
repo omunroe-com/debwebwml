@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-02-24" SUMMARY="RRD, XFree86, GIF 特許, イベント, リリース, AMD64, Firefox, マニュアルページ"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 8 号へようこそ。ついに<a

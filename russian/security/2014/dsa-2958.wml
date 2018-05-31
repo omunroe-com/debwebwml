@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e2b8ec27908c79328c03337d2c589f1e9072b418" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Якуб Вилк обнаружил, что APT, высокоуровневый менеджер пакетов,

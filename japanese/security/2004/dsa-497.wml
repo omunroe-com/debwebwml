@@ -18,7 +18,7 @@ Midnight Commander にいくつかの欠陥が発見されました。これら�
 <p>直ちに mc パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4deaea8ab71127b2b49d892404d43c45db20f692"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-497.data"
 # $Id$

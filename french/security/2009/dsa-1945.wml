@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="34ca17a4ef1d910fb3f3e90d76731b42d14bd2bf" maintainer="David Prévot"
 <define-tag description>Attaque de lien symbolique</define-tag>
 <define-tag moreinfo>
 <p>

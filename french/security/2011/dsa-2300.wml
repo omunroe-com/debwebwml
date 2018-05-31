@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="4deee97a3fb1766eeeba3bf14e3787bd6cc8dc27" maintainer="David Prévot"
 <define-tag description>Autorité de certification compromise</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,5 +1,5 @@
 # From: "Jean-Noël BOUVIER" <Jean-Noel.Bouvier@imag.fr>
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="bf9be73e7ab2b445cd1ad1e9a17b5946a907d69c" maintainer="Thomas Vincent"
 
 <define-tag pagetitle>Laboratoire VERIMAG, CNRS/Grenoble INP/Université Joseph Fourier, France</define-tag>
 <define-tag webpage>http://www-verimag.imag.fr/</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="4e05c81cbe77a19ad1264049515edaebe2ca8ba4" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma a découvert que DUMP, une bibliothèque de lecture de musique

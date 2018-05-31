@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5198ca18878fd7be0a0c96aeb74914e084800864" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Witold Baryluk opdagede at MaraDNS, en simpelt sikkerhedsfokuseret Domain 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Luis Uribe"
+#use wml::debian::translation-check translation="c31b56385660b4e84baa093b68c9ff0c34615520" maintainer="Luis Uribe"
 <define-tag description>Denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que BIND, un servidor DNS, no procesa correctamente algunas

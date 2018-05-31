@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debians websted får 'Best of the Net'-prisen</define-tag>
 <define-tag release_date>1998-10-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="12c5f20915451d16c3d80396d10050544e744ab1"
 
 <p><a href="http://www.miningco.com">The Mining Co.</a> har tildelt Debians
 websted prisen <q>Best of the Net</q> (<q>Bedst på nettet</q>).  Kriterierne er blandt

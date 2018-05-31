@@ -3,7 +3,7 @@
 <define-tag pagetitle>Concurso para arte gráfico de <q>Wheezy</q>: llamado para propuestas</define-tag>
 <define-tag release_date>2012-02-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>
 Una parte importante de cualquier sistema operativo es su apariencia. Debian no

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b1042b16690fce69511e94520a64624672dadb63"
 <define-tag description>posible vulnerabilidad remota</define-tag>
 <define-tag moreinfo>
 <p>Se han encontrado varios errores en la gestión del buffer de OpenSSH.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="f77dcec74045c09894712fc60c9fa2a617752580" translation_maintainer="Michelle Ribeiro"
 <define-tag description>ataque DoS</define-tag>
 <define-tag moreinfo>
 <p>Larry McVoy encontrou uma falha no pacote de tratamento de código do pacote

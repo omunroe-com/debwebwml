@@ -3,7 +3,7 @@
 <define-tag pagetitle>Safe Format Network Solutions Inc.</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="4199ece05b9abefab97249d024ae450528a70ace" maintainer="Thomas Vincent"
 
 <p>
 J'utilise des systèmes Debian depuis cinq ans et c'est un aspect clé de mon

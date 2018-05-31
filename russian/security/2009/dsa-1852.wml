@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8e53807fdc57617d3cc04b2ca798e581353cfc1f" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка входных данных</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что fetchmail, полнофункциональная утилита для получения и пересылки

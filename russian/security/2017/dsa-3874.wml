@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5219b29d9a6379557fe3c9d40294cc91ddb0c350" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Агостино Саруббо и AromalUllas обнаружили, что ettercap, инструмент

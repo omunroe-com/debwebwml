@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ed7ce948c00ffb8f264a04d83a8ac9ba58ade168" maintainer="Lev Lamberov"
 <define-tag description>разыменование null-указателя</define-tag>
 <define-tag moreinfo>
 <p>В RAR VM из Clam Antivirus (ClamAV) было обнаружено разыменование NULL-указателя,

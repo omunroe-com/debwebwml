@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="aaee277daecab2a519ea829493a15c7dbb6aee1a" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Маркус Майснер обнаружил, что злоумышленники могут вызывать переполнение буфера

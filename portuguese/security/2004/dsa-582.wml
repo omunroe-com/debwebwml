@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="058b926b92f7ee211f02d2194c43ea0c9612659c"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" descobriu vários estouros de buffer na libxml e na

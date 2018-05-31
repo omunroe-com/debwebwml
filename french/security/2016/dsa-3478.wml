@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="32856a5cedf68bfa3ec7267e14e4b416863fb8b1" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Daniel Genkin, Lev Pachmanov, Itamar Pipman et Eran Tromer ont découvert

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Các bản phát hành Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.67" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="84ca2bf484c253718b61ee4deff8b94f3a2088fd" maintainer="Trần Ngọc Quân"
 
 <p>Debian luôn luôn có ít nhất là ba bản phát hành
 được bảo trì tích cực: <q>stable</q>, <q>testing</q> và

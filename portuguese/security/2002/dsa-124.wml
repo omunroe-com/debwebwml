@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9" translation_maintainer="Michelle Ribeiro"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Os autores do mtr lançaram uma nova versão, apontando um buffer overflow

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="37fe77ae447a66adfd136fb9097d02e494e59e24" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Hubert Kario opdagede at GnuTLS, et bibliotek der implementerer protokollerne 

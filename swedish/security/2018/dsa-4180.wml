@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="eccde3d78a9d63d38d558f6c29a7f1edf3eb2b60" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhet för fjärrkodsexekvering har upptäckts i Drupal, ett

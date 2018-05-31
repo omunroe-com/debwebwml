@@ -2,7 +2,7 @@
 <define-tag release_date>2010-03-24</define-tag>
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2010-05-30
 # $Id$
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 #use wml::debian::news
 
 <p>Die Registrierung für DebConf10 läuft weiter. Donnerstag, den 15. April, ist

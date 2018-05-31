@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a60e75fcd40b85f01c2ca0e77106b28cc578389d"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Adam Zabrocki さんは Atari エミュレータの atari800

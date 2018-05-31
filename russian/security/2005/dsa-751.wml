@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8045e409cf0d984e0830131382e10936d4c4da8d" maintainer="Lev Lamberov"
 <define-tag description>перехват IP</define-tag>
 <define-tag moreinfo>
 <p>Разработчики основной ветки разработки обнаружили ошибку в коде просмотра DNS

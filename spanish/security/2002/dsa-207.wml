@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="eb6faa110429df9789911b30a778266b4e096da4"
 <define-tag description>ejecución de comando arbitrario</define-tag>
 <define-tag moreinfo>
 <p>El equipo de seguridad de SuSE descubrió una vulnerabilidad en la

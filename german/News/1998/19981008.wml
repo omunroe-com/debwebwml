@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debians Haltung zum Copyright und Lizenzierungsproblemen von KDE</define-tag>
 <define-tag release_date>1998-10-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-04-01
 
 <p>Es gab große Kontroversen über die verschiedenen Lizenzbedingungen unter 

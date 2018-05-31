@@ -1,7 +1,7 @@
 <define-tag pagetitle>Quoi de neuf pour Debian Med dans Lenny&nbsp;?</define-tag>
 <define-tag release_date>2009-02-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Charles Plessy"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc" maintainer="Charles Plessy"
 
 <p>
   Nous sommes fiers d'annoncer la première publication de Debian Med au sein de

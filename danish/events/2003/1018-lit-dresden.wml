@@ -23,7 +23,7 @@ Schmehl.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="31b32d002b5a0bc52afb3d86de8eeb93ba6b747d"
 #Related Links here (free form)
 <ul>
  <li><a href="1018-lit-dresden-report">Rapport</a></li>

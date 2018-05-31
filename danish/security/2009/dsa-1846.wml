@@ -16,4 +16,4 @@ kernemoduler, du har opbygget fra en kvm-source-pakkeversion.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1846.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="eb43c907a09c006ec7c0cd4b77433b8675e27ace" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1a67a7185ac77e7dfa2fb3b46cea3ee6a7feb9b6" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 

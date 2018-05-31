@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="852b8a6329e63e144544320a209c37462a74058d" maintainer="Simon Paillard"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma a découvert une condition de déni de service dans le serveur

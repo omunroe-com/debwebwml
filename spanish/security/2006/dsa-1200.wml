@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="f14732fea42a9ec7ae765acd4837d06a9e06bcab" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un desbordamiento de entero en las rutinas de gestión de

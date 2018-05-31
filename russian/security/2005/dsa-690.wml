@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b46e30af0bfe747fa5c3f362164f44aa706edc68" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Бастиан Бланк обнаружил уязвимость в bsmtpd, пакетной программе для работы с SMTP

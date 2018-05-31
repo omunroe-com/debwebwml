@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="10a9f4b1313fe404218d52cd7a058059ca96f26b" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что некоторые специально сформированные SNAC-пакеты, отправляемые

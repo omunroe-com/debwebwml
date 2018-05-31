@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 2.1 リリース</define-tag>
 <define-tag release_date>1999-03-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="3f781466c4f44128d1e35cd1895a00e7fc651069"
 
 <p>1999 年 3 月 9 日 00:00 GMT、
 再スケジュール後の予定通り Debian 2.1 (コードネーム slink)

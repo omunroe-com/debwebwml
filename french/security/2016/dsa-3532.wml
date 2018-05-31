@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="f0c3ab552e49d4a8e3cd7af62469ae633b566b4b" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Kostya Kortchinsky a découvert une vulnérabilité de dépassement de pile

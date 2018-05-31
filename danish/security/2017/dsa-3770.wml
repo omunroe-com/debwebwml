@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bfcc262c4218fb247e15119c04a3f58d58883745" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere problemer er opdaget i databaseserveren MariaDB.  Sårbarhederne er løst 

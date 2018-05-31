@@ -3,7 +3,7 @@
 <define-tag pagetitle>Red Sucker Lake School, Canada</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="07b747b218f82dfe45d19b317344de27f9c6f7e3"
 
 <p>
     Skolen har 75 arbejdsmaskiner (20 flere er på vej), de fleste kører Debian 

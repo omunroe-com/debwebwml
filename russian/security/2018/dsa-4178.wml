@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="79c885fa549e1260fdff78810418ffbfc3df2580" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В коде LibreOffice для выполнения грамматического разбора файлов

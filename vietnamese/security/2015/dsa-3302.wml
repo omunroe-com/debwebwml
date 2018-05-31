@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="0cb6787641fb038366aec6e1569b18459a2a274d" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Việc thiếu dọn dẹp vệ sinh đầu vào trong libwmf, một thư viện xử lý dữ liệu

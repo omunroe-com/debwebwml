@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-03-07" SUMMARY="Subproyectos, BSD, CDD, elección, adaptaciones a versiones anteriores, QA, servicio, registros"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 
 <p>Bienvenidos a la décima edición de este año de las DWN, el boletín
 semanal de la comunidad de Debian. Si tiene dudas acerca de la

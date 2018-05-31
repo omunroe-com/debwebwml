@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="765f538c8153ec02bfed3f807356ba2e7b4eb854" maintainer="Simon Paillard"
 # Original translation by Eric Jullien
 <define-tag description>Mauvaise vérification des limites et autres</define-tag>
 <define-tag moreinfo>

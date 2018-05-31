@@ -17,6 +17,6 @@ Version 1.30-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-990.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3bffea2dd8c3d1696264925f4857d667f1c8333b" mindelta="1"
 # $Id$
 # Translator: Florian Ernst <florian@debian.org> 2006-03-10

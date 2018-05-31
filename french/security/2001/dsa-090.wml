@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="dc3baf57db823133101ebe2f79d512fea6a6ceae" maintainer="Pierre Machard"
 <define-tag description>Attaque par des liens symboliques</define-tag>
 <define-tag moreinfo>
 <p>Le paquet xtel (un émulateur de minitel pour X) qui est distribué avec

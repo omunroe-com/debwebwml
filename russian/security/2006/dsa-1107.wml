@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e4156ce61f4484abec0407c2629fc564d7400f42" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Евгений Легеров обнаружил, что gnupg, GNU privacy guard, свободная

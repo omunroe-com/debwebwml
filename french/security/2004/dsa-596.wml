@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="84c60c5e2236e18a643b7da10712d9d17f0bf9f3" maintainer="DFS Task Force"
 <define-tag description>Manque de vérifications des entrées</define-tag>
 <define-tag moreinfo>
 <p>Liam Helmer a remarqué que sudo, un programme qui fournit des privilèges 

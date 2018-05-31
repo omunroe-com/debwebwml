@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="06ae48f6f25aa18b6637b6687d9e0c6d6cb4f301" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Штефан Корнелиус и Раймар Дёффингер обнаружили, что MPlayer, проигрыватель

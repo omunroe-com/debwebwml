@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bd3160ec61091391267c7cdc3700ffa015a4d0d3" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Två sårbarheter har upptäckts i MySQL Connector/J JDBC-drivrutinen.</p>

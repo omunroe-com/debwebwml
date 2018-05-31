@@ -2,7 +2,7 @@
 
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.108" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="f52508a0e26e4a1223819a3385c85011e25d81c1" maintainer="Jean-Paul Guillonneau"
 
 # Premier traducteur : Thomas Marteau
 # Deuxième traducteur : Nicolas Bertolissio

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="35a1b12daaaa91e020f225b58b19bf8488498c74" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at et bufferoverløb i koden til XMLRPC-svarenkodning af Atheme 

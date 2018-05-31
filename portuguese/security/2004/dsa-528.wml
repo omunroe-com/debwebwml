@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bf0b010c2d9fdaf138b33c7cb8c8cb03f22ba0ab"
 <define-tag description>denial of service</define-tag>
 <define-tag moreinfo>
 <p>Muitas vulnerabilidades de negação de serviço foram descobertas em ethereal,

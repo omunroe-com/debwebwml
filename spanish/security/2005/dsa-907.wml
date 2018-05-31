@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="bd2a3dbffc3097788619365c9e876c68b3524312" maintainer="Juan M. Garcia"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Akira Yoshiyama de dio cuenta de que ipmenu, un GUI cursel para

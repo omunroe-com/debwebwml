@@ -14,4 +14,4 @@ version 2.0pl5-19.1sarge2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1143.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a3d3d5a0ff413c154bb2ea294d254f25220fc2f1" mindelta="1"

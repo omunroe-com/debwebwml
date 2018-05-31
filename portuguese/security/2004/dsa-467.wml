@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="80023557ba1df134f9828ae9299a7007ee1793c3"
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Timo Sirainen descobriu duas vulnerabilidades no ecartis, um gerenciador de listas.</p>

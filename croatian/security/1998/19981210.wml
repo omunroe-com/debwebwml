@@ -18,4 +18,4 @@ je plutao na usenetu) za sustave koji nemaju vsnprintf u njihovom libcu.
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19981210.data'
 
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="383616a4b93204bda26a195398334ebdb79aab8a"

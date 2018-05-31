@@ -1,5 +1,5 @@
 #use wml::debian::template title="ウェブサイトの翻訳を最新に保つ"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="5906c5c1a380b2b57c9650ad00be21b432a3be04"
 
 <P>ウェブページは静的なものではないので、ある翻訳ページがどの
 オリジナルバージョンを参照しているのかを見失なわないようにする

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a0acabec6cdd1a7a7acb0fd1372e3096cedbb808" mindelta="1"
 <define-tag description>läsning utanför gränserna</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att en illasinnad klient kunde krascha en GNUTLS-server och

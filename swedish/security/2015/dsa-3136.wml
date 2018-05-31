@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9aa2571f0bb79d51eab41aacfc17bd0f6a8379bc" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhet upptäcktes i PolarSSL, ett lättviktigt krypterings-

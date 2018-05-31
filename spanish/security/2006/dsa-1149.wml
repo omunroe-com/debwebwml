@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="678b72dec9c2c4e3846a02814aced8b4ed542c09" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy, del equipo de seguridad de Google, descubrió que no se

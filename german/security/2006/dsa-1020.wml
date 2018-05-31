@@ -22,5 +22,5 @@ Version 2.5.33-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1020.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a0ae968313bb594638ab0acaed7855e7d3137c69" mindelta="1"
 # $Id$

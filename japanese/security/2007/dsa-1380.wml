@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f6bbc3208f775ca92a109cb5f4965f2805e417ed"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>Kalle Olavi Niemitalo さんは、高機能なテキストウェブブラウザ elinks 

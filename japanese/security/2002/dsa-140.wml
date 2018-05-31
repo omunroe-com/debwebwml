@@ -35,4 +35,4 @@ potato には、この問題はないようです。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-140.data"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="13c452a4e1790e20bd9ca8396296691eadf9703d"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f8d1443ec5293fdf40616c8eec82c95972fc6cbf" maintainer="Lev Lamberov"
 <define-tag pagetitle>Приближается окончание жизненного цикла долговременной поддержки Debian 6.0</define-tag>
 <define-tag release_date>2016-02-12</define-tag>
 #use wml::debian::news

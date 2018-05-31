@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="942b5c301b869b49f1d7528fa79c6d728257cb67"
 <define-tag description>referência a ponteiro nulo</define-tag>
 <define-tag moreinfo>
 <p>Alan Cox decobriu um problema no gtkhtml, um widget de renderização

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1eecc5cc1832ee0777f3a53edb8aba1c32232328"
 <define-tag description>Exposição de Informação</define-tag>
 <define-tag moreinfo>
 <p>Uma falha de segurança foi descoberta por Daniel de Rauglaudre, o autor

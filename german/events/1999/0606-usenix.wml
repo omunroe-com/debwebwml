@@ -18,7 +18,7 @@
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # Translator: Noèl Köthe, noel@koethe.net, 2001-07-26
 # $Id$
 Eine BOF wurde geformt: <a href="$(HOME)/News/weekly/1999/23/mail#4">https://www.debian.org/News/weekly/1999/23/mail#4</a>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="046fcb7a2ab255a42d9a58f165bd4f90d5abc48f" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В SpamAssassin, спам-фильтре на основе Perl, использующем

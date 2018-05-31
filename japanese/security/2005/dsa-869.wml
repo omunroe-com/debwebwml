@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="331ad288d42e0eef51cc4059c52db8833771d2bd"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>機能満載の Python IDE である eric の開発者が、

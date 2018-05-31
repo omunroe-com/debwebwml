@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="02d736890c059a4081d20b8724fffc631709a810"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Пакет falconseye уязвим к переполнению буфера, вызываемому длинным

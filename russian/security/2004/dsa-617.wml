@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e326681ef12ae8f10617fb80cfe62805b5e0a9ff" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка ввода</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" обнаружил проблему в libtiff, библиотеке Tag Image File

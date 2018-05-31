@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0232c2c51c21fb3ca8c36882e054b1a007382df8" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Rubys OpenSSL-udvidelse, som er en del af fortolkeren af 

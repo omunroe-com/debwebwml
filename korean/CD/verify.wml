@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="데비안 CD의 신뢰성 확인" BARETITLE=true
-#use wml::debian::translation-check translation="1.6" maintainer="Sebul"
+#use wml::debian::translation-check translation="553c55e0ca1d5d45ffeaab254ac5430bed284238" maintainer="Sebul"
 
 <p>데비안 CD의 공식 릴리스는 서명된 체크섬 파일과 함께 온다;
 <code>iso-cd</code>, <code>jigdo-dvd</code>, <code>iso-hybrid</code> 등에서

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8f119c1c6e76e357c7a215dca17533ca68ee1559"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>PHP、ウェブアプリケーション開発用に広く利用されている多目的スクリプティング言語が、

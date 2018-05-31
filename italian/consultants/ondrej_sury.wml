@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Ond&#345;ej Sur&yacute;"
-#use wml::debian::translation-check translation="1.2" maintainer="skizzhg"
+#use wml::debian::translation-check translation="c2d2f7d8d95fbe53948cca578c80d0c60cde16a7" maintainer="skizzhg"
 
 <p>
 Competenza principale in domini, DNS e DNSSEC (Bind9, NSD3, Unbound e OpenDNSSEC).

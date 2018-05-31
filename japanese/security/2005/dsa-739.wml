@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2609f3bf02b7fc5807bedaffbc6cd70ff2c2fcc3"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser さんが、wiki および問題追跡システムを提供する

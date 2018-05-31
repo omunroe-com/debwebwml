@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bfa9f4b2f0a010d1baec4505c971074626ee58f4" maintainer="Lev Lamberov"
 <define-tag description>состояние гонки</define-tag>
 <define-tag moreinfo>
 <p>Пол Сзабо обнаружил, что login, системный инструмент входа, неправильно

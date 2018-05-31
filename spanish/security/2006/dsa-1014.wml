@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="8831a6ef73e2ab78e0b8524ca931ddb9b98c501e" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Aviram Jenik y Damyan Ivanov descubrieron un desbordamiento de buffer

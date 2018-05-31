@@ -1,5 +1,5 @@
 #use wml::debian::template title="Eleições para Líder do Projeto Debian em 2007" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="de3688be181052f7457f559a24a189f0b9fa1265" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 #include "vote_001_index.src"

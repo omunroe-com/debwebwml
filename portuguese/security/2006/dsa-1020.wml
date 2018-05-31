@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="a0ae968313bb594638ab0acaed7855e7d3137c69" maintainer="Marco Carvalho"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Chris Moore descobriu que o flex, um gerador de "scanners", gera código

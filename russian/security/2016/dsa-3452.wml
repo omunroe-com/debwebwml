@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ef57671ec0b2ec4093d7d4998f84bc0f36af187e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p><q>DrWhax</q> из проекта Tails сообщил, что в Claws Mail отсутствуют

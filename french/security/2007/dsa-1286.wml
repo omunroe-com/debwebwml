@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2" maintainer="Simon Paillard"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités locales et distantes ont été découvertes dans le

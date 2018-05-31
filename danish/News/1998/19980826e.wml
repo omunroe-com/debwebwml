@@ -1,7 +1,7 @@
 <define-tag pagetitle>Flere distributører deltager i det voksende LSB-projekt</define-tag>
 <define-tag release_date>1998-08-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="caeeb2deb4a95d52c9476520955deb69cee6c089"
 
 <h4>LCS-grundlæggere går med i LSB-projektet</h4>
 

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Пресата през 2000" NOHEADER=yes
 #use wml::debian::countries
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="44993d660c00be77e1345ada7f750b66033a9773"
 #include "$(ENGLISHDIR)/News/press/press.tags"
 
 <h3>Пресата за Дебиан</h3>

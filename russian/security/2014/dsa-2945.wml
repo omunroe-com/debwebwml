@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ed18ccc64b2a8f343569c8da7dc1d2bf66019e5a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Томас Штангнер обнаружил уязвимость в chkrootkit, инструменте обнаружения

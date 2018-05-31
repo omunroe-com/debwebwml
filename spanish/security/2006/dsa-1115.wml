@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="d67630ed90207755c3bc59dcc33822ea7ba032d5" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Legerov descubrió que gnupg, el guardián de privacidad GNU, un

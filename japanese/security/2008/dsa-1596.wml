@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1b8b53f85dc5d7a0bbe8723a6e5b8c6ed6ce7287"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>TYPO3 コンテンツマネージメントフレームワークに、リモートから攻撃可能な複

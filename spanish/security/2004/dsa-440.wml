@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c27e76567c7de01f425a2f1e7dc8da7723abf973"
 <define-tag description>several vulnerabilities</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto recientemente varios aprovechamientos en el

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0c1c5f2db0e2331d36bc0dacc6ba3543967d3674"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>El Dr. Stephen Henson (<email "steve@openssl.org">), al usar una suite

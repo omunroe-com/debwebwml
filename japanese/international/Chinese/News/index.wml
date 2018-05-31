@@ -1,5 +1,5 @@
 #use tmpl::debian-zh::template area=news title="Debian 中国語プロジェクトニュース" NOHEADER=yes
-#use wml::debian::translation-check translation="1.45" original="chinese"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" original="chinese"
 
 <h1>最新ニュース</h1>
 <h3>2004年6月22日</h3>

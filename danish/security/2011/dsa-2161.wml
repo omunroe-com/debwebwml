@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dc13901bc43feb7732e32993c830e23873f09356" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at flydende komma-fortolkeren i OpenJDK, en implementering af 

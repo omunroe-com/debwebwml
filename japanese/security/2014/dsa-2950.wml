@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e012477fbf8f0342a7294ce1d09a99bcdb4221cb"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が OpenSSL に発見されています:</p>

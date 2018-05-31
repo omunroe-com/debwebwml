@@ -2,7 +2,7 @@
 Debian nel 2012</define-tag>
 <define-tag release_date>2011-03-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3" maintainer="Mark Caglienzi"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Mark Caglienzi"
 
 <p>Il 22 marzo 2011 la commissione della DebConf ha deciso che DebConf12, la
 conferenza degli sviluppatori Debian del 2012, avrà luogo a Managua, in

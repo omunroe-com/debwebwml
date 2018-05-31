@@ -1,7 +1,7 @@
 <define-tag pagetitle>Imagination holder farten på Debian MIPS-tilpasninger</define-tag>
 <define-tag release_date>2015-03-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4602d1179902824fc0539d20c3540a007b57022a"
 
 <p>I oktober 2014 donerede Imagination Technologies flere MIPS-baserede maskiner 
 til Debian-udvikling; herunder de betydeligt hurtigere Loongson 3A- (mipsel) og 

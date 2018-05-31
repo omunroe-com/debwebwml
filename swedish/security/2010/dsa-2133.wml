@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c7855e6c9e501f45cf17148e30bf911f7696a37f"
 <define-tag description>överbelastningsattack</define-tag>
 
 <define-tag moreinfo>

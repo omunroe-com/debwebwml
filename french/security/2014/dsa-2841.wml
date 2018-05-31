@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="8af45dec601c1bb2d638d5978077ed7f9d859c12" maintainer="Thomas Vincent"
 <define-tag description>Script intersite</define-tag>
 <define-tag moreinfo>
 <p>Une vulnérabilité de script intersite a été découverte dans l'éditeur de texte

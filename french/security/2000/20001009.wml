@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Dans les versions de <i>boa</i> antérieures à la&nbsp;0.94.8.3, il est possible
 d'accéder à des fichiers extérieurs à la racine du serveur de documents en

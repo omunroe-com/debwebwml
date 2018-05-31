@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e3f46bfc4e821e7ca484f51c50189f3cd29bc100" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Karthikeyan Bhargavan og Gaetan Leurent ved INRIA opdagede en fejl i 

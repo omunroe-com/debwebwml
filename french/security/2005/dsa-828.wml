@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="1df4260bcb82db4954543d438dfed4c1181d60be" maintainer="Simon Paillard"
 <define-tag description>Gestion de l'authentification</define-tag>
 <define-tag moreinfo>
 <p>Des développeurs amont de squid, le serveur mandataire («&nbsp;proxy&nbsp;»)

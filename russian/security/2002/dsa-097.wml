@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="83bbdaca47faf6e5a1249a8be8bf6b2fd7bad78f" maintainer="Lev Lamberov"
 <define-tag description>неконтролируемое выполнение программ</define-tag>
 <define-tag moreinfo>
 <p>Патрис Фурье обнаружил ошибку во всех версиях Exim младше

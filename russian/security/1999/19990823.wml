@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c9b38392dbd3a776a0d1d239dcb72326da1ca94a" maintainer="Lev Lamberov"
 <define-tag moreinfo>Автор rsync, Эндрю Трайджел, сообщил, что
 предыдущие версии rsync содержат ошибку, связанную с безопасностью.  Если вы
 передаёте пустой каталог в несуществующий каталог на удалённом узле,

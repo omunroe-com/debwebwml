@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="45ffa5839adc6718ff9b040625747eace5365812" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Jan Juergens upptäckte ett buffertspill i tolken av SMS-meddelanden i

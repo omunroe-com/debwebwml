@@ -19,5 +19,5 @@ behoben sein.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-920.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="77e46e54b7c8a16a475c71454166adcf381f9019" mindelta="1"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3f701b0fbcf99956539723ea44414e2fde27290e" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>George Noseevich upptäckte att firebird2.5, ett relationsdatabassystem,

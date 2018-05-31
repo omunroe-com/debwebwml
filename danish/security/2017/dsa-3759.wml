@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b8f1170b2840253d598cfb1fd275d134a3788019" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Matias P. Brutti opdagede at python-pysaml2, en Python-implementering af 

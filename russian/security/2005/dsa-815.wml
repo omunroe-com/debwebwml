@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="28fc0ad49cbb1ab22a2cf65188cb93bd3ff891ec" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Илья ван Шпрудель обнаружил серьёзную ошибку обработки файла блокировки в

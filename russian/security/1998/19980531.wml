@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="57522ed06a3de36e4fe5fc3386728a4813c077db" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Предыдущие версии mailx использовали небезопасные способы открытия файлов для записи
 в /tmp. Эта проблема могла использоваться для повреждения файлов в пользовательских каталогах и

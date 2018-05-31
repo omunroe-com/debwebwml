@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c1c25263267467b181523864aaa70cd144954fd6" mindelta="1"
 <define-tag description>designfel</define-tag>
 <define-tag moreinfo>
 <p>Jonathan Dolle rapporterade ett designfel i HTTP::Body, en Perlmodul för att

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="72910e42058b8cf9eaa15be3a2aee7e6bf491d62" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Tobias Stoeckmann a découvert que la bibliothèque libXpm contenait deux

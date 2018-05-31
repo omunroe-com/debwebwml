@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="f6a72023bef3049ec8444cef5f6ebc1196aa3f48" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de la mise à jour de Debian 8.5</define-tag>
 <define-tag release_date>2016-06-04</define-tag>
 #use wml::debian::news

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Platform for Moray Allan" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.6" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="5f2e552417ac8c8eb0d5535d3f46577eb03bc169" maintainer="Thomas Vincent"
 
 <h1>Moray Allan</h1>
 

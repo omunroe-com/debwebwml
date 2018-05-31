@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4f7b6cc535533b7f044059348904071ccedd1c6f" maintainer="Lev Lamberov"
 <define-tag description>раскрытие информации</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что у network-manager-applet, инфраструктуры управления

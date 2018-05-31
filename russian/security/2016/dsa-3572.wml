@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d46566b6bf0d4629418e9552c6568597efe9718c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Нитин Венкатеш обнаружил, что websvn, служба для просмотра репозиториев Subversion

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="560449c3c14616d0bff43d7714d09946f5507c83" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er rettet i eglibc, Debians udgave af GNU C-biblioteket:</p>

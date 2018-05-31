@@ -1,7 +1,7 @@
 <define-tag pagetitle>Ett öppet brev till Debiangruppen från Corel Computer</define-tag>
 <define-tag release_date>1998-10-28</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <P>Debian har fått ett öppet tackbrev från Corel Computer för sitt arbete
 med att anpassa Debian GNU/Linux-distributionen till deras NetWinder(TM)-dator.

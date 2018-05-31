@@ -1,5 +1,5 @@
 #use wml::debian::template title="Схема работы сети автоматической сборки (autobuilder)" BARETITLE="true"
-#use wml::debian::translation-check translation="1.9" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4094875c3a7aafc988b5f218b0a629fab415552a" maintainer="Lev Lamberov"
 
 <P>
 Сердцем системы является база данных <TT>wanna-build</TT>, в которой

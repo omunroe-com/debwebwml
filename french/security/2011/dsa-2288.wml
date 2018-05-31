@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Maxime Courtois"
+#use wml::debian::translation-check translation="80638ac331e841121cd880783db8d4a712b7fe1f" maintainer="Maxime Courtois"
 <define-tag description>Débordement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Hossein Lofti a découvert un débordement d'entier dans le code de 

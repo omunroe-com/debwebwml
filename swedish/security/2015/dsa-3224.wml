@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="54e411495d9b6ce0bd818f26e467b2ca4fa38717" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Abhishek Arya upptäckte ett buffertspill i makrot MakeBigReq

@@ -22,4 +22,4 @@ vil dette problem snart blive rettet.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1987.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e62a5d06a262852ed3fc4910eaa9f6ee0977ed21" mindelta="1"

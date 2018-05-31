@@ -21,4 +21,4 @@ problem.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-286.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3210e9e77317058b1db073810a63eb17c61799c9"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="604d182ac5ead388dc1b59576e781fbc5b572086" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Ulrik Persson rapporterede om en stakbaseret bufferoverløbsfejl i FontForge,

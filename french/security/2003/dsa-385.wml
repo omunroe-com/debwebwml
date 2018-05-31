@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="3b9f7a6d57681623dd7daed3c42a1249abfa118c" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 

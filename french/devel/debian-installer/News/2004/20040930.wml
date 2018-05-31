@@ -1,6 +1,6 @@
 <define-tag pagetitle>Pré-rc2 de l'installateur Debian, une version de démonstration technologique</define-tag>
 <define-tag release_date>2004-09-30</define-tag>
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2" maintainer="Nicolas Bertolissio"
 #use wml::debian::news
 
 <p>

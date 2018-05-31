@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a5d6af41558dd8bf8106ed8fd92339e78c089775" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Nous avons été alerté par Michal Zalewski que <i>gzexe</i> qui est fourni
 dans <i>gzip</i> utilise une méthode non sécurisée pour décompresser les

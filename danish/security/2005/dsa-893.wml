@@ -30,4 +30,4 @@ version 0.9.6b20-13 og i version 1.2.1-1 af acidbase.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-893.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="addc61ecdf4acb05991f97207f3eb3ff93df5b93" mindelta="1"

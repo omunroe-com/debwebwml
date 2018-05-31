@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="295e27bfbf83a396f5819cfd6ea657627a116be2"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>QEMU の e1000 エミュレートコードがフレームサイズの制限を\

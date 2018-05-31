@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="12022c9b5ed3b90ab893c8e17490567430523e27" translation_maintainer="Michelle Ribeiro"
 <define-tag description>cross-site scripting </define-tag>
 # http://www.analog.cx/security4.html
 <define-tag moreinfo>

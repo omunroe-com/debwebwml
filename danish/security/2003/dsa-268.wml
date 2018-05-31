@@ -20,4 +20,4 @@ problem.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-268.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2bff0d74c9b68122d7a811bef4daf1e95b9de4a9"

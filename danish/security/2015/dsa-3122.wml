@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="72f0a5530a35cd67e06595c41cee039843ba5d11" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Andrey Labunets fra Facebook opdagede at cURL, en bibliotek til overførsel af 

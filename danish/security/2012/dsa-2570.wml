@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="5f4a0a2b8caaf9c8d362590e82a1815fe70b0efd" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>High-Tech Bridge SA Security Research Lab opdagede flere sårbarheder i 

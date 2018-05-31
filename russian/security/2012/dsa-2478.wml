@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7031272a53b7f06c943363bbbf9d3a9be8775524" maintainer="Lev Lamberov"
 <define-tag description>ошибка при грамматическом разборе</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что sudo некорректно выполняет грамматических разбор сетевых масок, используемых в строках

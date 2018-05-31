@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fc4c0ffc17d58ff372d33ecb7f6b1f8c51bd379f" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sårbarheder er opdaget i biblioteket libtiff og de medfølgende 

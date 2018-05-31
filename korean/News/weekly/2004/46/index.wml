@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-11-23" SUMMARY="BSP, License, LCC, Boot, Alioth, Women, Installer"
 # $id: index.wml,v 1.2 2004/07/06 20:09:11 joey Exp $
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>데비안 공동체를 위한 올해 46번째 데비안 주간뉴스. 리처드 스톨만이 <a href="http://www.brunotorres.net/en/interviews/richard-stallman">인터뷰</a>
 에서 왜 자유와 학교가 자유 소프트웨어를 사용하는 일이 중요한지 설명했다.

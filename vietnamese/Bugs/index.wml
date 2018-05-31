@@ -4,7 +4,7 @@
 {#meta#:
 <script type="text/javascript" src="hashbug_redirect.js"></script>
 :#meta#}
-#use wml::debian::translation-check translation="1.86" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Trần Ngọc Quân"
 
 <p>Debian có hệ thống theo dõi lỗi (BTS) cái mà chúng tôi lưu hồ sơ
 chi tiết lỗi đã báo cáo bởi những người dùng và các nhà phát triển. Mỗi lỗi được gán một

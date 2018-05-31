@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7b364964d6ffa6121e674c3d5400bf1cab8fbbba"
 <define-tag pagetitle>El ciclo de pruebas ha comenzado oficialmente</define-tag>
 <define-tag release_date>2000-07-26</define-tag>
 #use wml::debian::news

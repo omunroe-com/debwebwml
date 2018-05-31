@@ -25,7 +25,7 @@ af Knoppix-cd'er, foruden en nøglesigneringsfest.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5f01a3e627eba9ef7d2c6a401ab3b87ddc919afc"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.linux-info-tag.de/7/detail/12">Debian GNU/Linux 3.1 Sarge</a>

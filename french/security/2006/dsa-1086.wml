@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="49484f5487e742df42e6a7d0f6bfade566bd06fd" maintainer="Simon Paillard"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>Le programme xmcdconfig créait des répertoires modifiables par tous,

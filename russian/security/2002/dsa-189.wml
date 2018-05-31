@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="36cf7de56713c5101e60ee8a34e607ebf01286ef" maintainer="Lev Lamberov"
 <define-tag description>локальная уязвимость суперпользователя</define-tag>
 <define-tag moreinfo>
 <p>Сотрудники iDEFENSE <a href="http://www.idefense.com/advisory/11.06.02.txt">\

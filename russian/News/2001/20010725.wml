@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4f38229a53c2766162fa7c627e693dffe18cd523" maintainer="Lev Lamberov"
 <define-tag pagetitle>Декларация сообщества по вопросу DMCA</define-tag>
 <define-tag release_date>2001-7-25</define-tag>
 #use wml::debian::news

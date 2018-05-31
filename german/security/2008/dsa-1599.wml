@@ -17,4 +17,4 @@ Privilegienerweiterung führen kann.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1599.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0788c0584b6d9bd4567ae254e7e0b076042020a2"

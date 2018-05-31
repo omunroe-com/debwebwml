@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-08-30" SUMMARY="NEW, kFreeBSD, Transitions, Bugs, Packaging, DVD, New-Maintainer, Licenses, Spam, Ethics"
-#use wml::debian::translation-check translation="1.13" maintainer="Vladimir Mezera"
+#use wml::debian::translation-check translation="88253d82bf691f2bb09a4b9526f024cab1de845f" maintainer="Vladimir Mezera"
 
 <p>Vítejte u&nbsp;letošního 35. vydání DWN, týdenního zpravodaje pro komunitu
 okolo Debianu. Carla Schroder <a

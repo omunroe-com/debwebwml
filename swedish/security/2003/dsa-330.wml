@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f68a3d64471ade1de5051f4ae1befc6f21d0a033" mindelta="1"
 <define-tag description>släpper inte rootprivilegier</define-tag>
 <define-tag moreinfo>
 <p>

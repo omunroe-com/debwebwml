@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="5c81e95dba170f5205153b01ef6df5d45247268d" mindelta="1"
 <define-tag description>opdatering af ssl-certifikatsortliste</define-tag>
 <define-tag moreinfo>
 <p>Denne opdatering af Iceweasel, en webbrowser baseret på Firefox, opdaterer 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7a2c1c716ee18f4ea29931638aa7132b1c4ca20b" maintainer="Lev Lamberov"
 <define-tag pagetitle>Подготовка выпуска etch версии beta 3 приведёт к поломке образов версии beta 2</define-tag>
 <define-tag release_date>2006-07-16</define-tag>
 #use wml::debian::news

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Index"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.22" maintainer="George Papamichelakis"
+#use wml::debian::translation-check translation="065a402c2f1c377dceba05fde1355e4aed773e59" maintainer="George Papamichelakis"
 
 <p>
 <b>Σας καλωσορίζουμε στα εβδομαδιαία νέα του Debian</b>, μια εφημερίδα για την

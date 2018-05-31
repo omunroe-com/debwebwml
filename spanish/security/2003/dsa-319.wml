@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4d92b0c94db9db5b80e230b88eb9caaf26b5bd90"
 <define-tag description>captura de ID de sesión</define-tag>
 <define-tag moreinfo>
 <p>En el paquete webmin, miniserv.pl no gestionaba adecuadamente los

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d28e81b7a4ed61aacfbe403f8a99980a0c15bbf6" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Уильям Робине и Михал Залевски обнаружили многочисленные уязвимости

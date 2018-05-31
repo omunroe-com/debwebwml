@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e931be0ac8e49c7c57d585c7e91071de3ad42a13" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Джошуа Морин, Микко Варипиола и Юкка Таимисто обнаружили ошибку

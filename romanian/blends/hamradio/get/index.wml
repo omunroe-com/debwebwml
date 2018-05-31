@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Obține blend-ul"
 #use wml::debian::blends::hamradio
 #use "../navbar.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4" maintainer="Ana Custura"
 # $Id$
 # This page is nowhere near done
 

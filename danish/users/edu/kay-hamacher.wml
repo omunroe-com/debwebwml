@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.kay-hamacher.de/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1ee7905cb85bd347c3ccddac21827d8cf3d97cb8"
 
 <p>
     Vi anvender Debian på flere bærbare computere, 3 til 5 desktops og 10 

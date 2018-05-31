@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a95da6962d8c0b014ba4c4230560924ecae8f63a" mindelta="1"
 <define-tag description>programmeringsfejl</define-tag>
 <define-tag moreinfo>
 <p>Paul Ling opdagede at Emacs på utilstrækkelig vis begrænsede evaluering af 

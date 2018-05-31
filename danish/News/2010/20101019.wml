@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian vil officielt hilse bidragydere til andet end pakning velkommen</define-tag>
 <define-tag release_date>2010-10-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektet har i dag med overvældende flertal vedtaget i en 
 <a href="$(HOME)/vote/2010/vote_002">generel beslutning</a>, formelt at 

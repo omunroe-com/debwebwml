@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Dokumentačný projekt Debianu"
-#use wml::debian::translation-check translation="1.50" maintainer="Slavko"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Slavko"
 
 <p>Dokumentačný projekt Debianu bol vytvorený s cieľom koordinovania a zjednotenia všetkých
 snáh o napísanie rozsiahlejšej a lepšej dokumentácie systému Debian.</p>

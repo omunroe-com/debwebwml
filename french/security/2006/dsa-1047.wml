@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="47b834903e93a4f4d87fc2259cf96bd739c19fb8" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Un problème a été découvert dans resmgr, un démon de la bibliothèque de

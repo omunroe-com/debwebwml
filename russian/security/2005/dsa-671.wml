@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b5a1b13495daac93cd52ef496959816e4bf86cdb" maintainer="Lev Lamberov"
 <define-tag description>форматная строка</define-tag>
 <define-tag moreinfo>
 <p>Макс Фоцелер обнаружил несколько уязвимостей форматной строки в

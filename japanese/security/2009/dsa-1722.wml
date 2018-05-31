@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c8e308c0d709e2099924234284c26672935455e5"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>Derek Chan さんにより、Kerberos の実装 Heimdal の PAM モジュールが

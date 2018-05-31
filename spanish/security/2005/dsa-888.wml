@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="9752943468ef3f78cb1755450b62046b3739e48a" maintainer="Juan M. Garcia"
 <define-tag description>debilidad en el cifrado</define-tag>
 <define-tag moreinfo>
 <p>Yutaka Oiwa descubrió una vulnerabilidad en la bilioteca OpenSSL,

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Annonces de sécurité pour 2013</define-tag>
 #use wml::debian::template title="<pagetitle>" GEN_TIME="yes"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="David Prévot"
 
 <:= get_recent_list ('.', '0', '$(ENGLISHDIR)/security/2013', '', 'dsa-\d+' ) :>
 

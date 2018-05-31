@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5686d663fa02c80d74b5364e641c926c9b9be279" mindelta="1"
 <define-tag description>rettighedsforøgelse</define-tag>
 <define-tag moreinfo>
 <p>Dave Love opdagede, at brugere som har tilladelse til at submit'e jobs til en

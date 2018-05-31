@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8c10b313dc8692f4c3df51462fdad85ce2626b9f" maintainer="Lev Lamberov"
 <define-tag pagetitle>Разработчики Debian выступят на Linux Kongress</define-tag>
 <define-tag release_date>1998-05-22</define-tag>
 #use wml::debian::news

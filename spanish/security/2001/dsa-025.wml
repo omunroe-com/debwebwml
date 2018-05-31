@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>Una actualización de seguridad anterior de OpenSSH
 carecía del soporte para PAM lo que provocó que la gente no pudiera entrar en
 su servidor. Esto era <em>sólo</em> un problema para la arquitectura

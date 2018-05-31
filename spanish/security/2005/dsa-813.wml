@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="bfd98cdeb277ecd87722d15f278bdbeaf21a946f" maintainer="Juan M. Garcia"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varios problemas en libgadu, que también es parte

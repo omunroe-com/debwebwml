@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="c7e7cde6356d6f3b4028ffcda30f910877ffe53d" maintainer="Thomas Vincent"
 <define-tag description>Chargement arbitraire de fichier à cause d’une désérialisation</define-tag>
 <define-tag moreinfo>
 <p>Apache Commons FileUpload, un paquet pour faciliter une capacité, robuste

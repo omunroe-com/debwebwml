@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian SPARC — Документация о переносе" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
-#use wml::debian::translation-check translation="1.12" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="409d38cab5b748bebed1d785f7c842dc638556b2" maintainer="Lev Lamberov"
 
 <h1>Документация о переносе Debian на SPARC</h1>
 

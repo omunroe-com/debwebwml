@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="38231c2207ad44d374a08b633033122dcdebc6f1"
 <define-tag description>Pufferüberläufe</define-tag>
 <define-tag moreinfo>
 <p>Ariel Berkman entdeckte mehrere Pufferüberläufe in xloadimage, einem

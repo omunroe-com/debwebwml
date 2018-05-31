@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4b46026f52c6565ab1b024d27e71292a9f6eec71" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy upptäckte att NTFS-3G, en NTFS-drivrutin för läsning och

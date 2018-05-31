@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="8b235e83cfc5d63e3cba964a9ddf757cffc4a26c" maintainer="Thomas Vincent"
 <define-tag description>Divulgation d'informations</define-tag>
 <define-tag moreinfo>
 <p>Une faille de divulgation d'informations a été découverte dans mod_jk, le module

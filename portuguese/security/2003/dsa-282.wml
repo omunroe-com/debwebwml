@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1b3139b9743cfe4b6a178dd59effdf413e6b575c"
 <define-tag description>overflow de inteiros</define-tag>
 <define-tag moreinfo>
 <p>A eEye Digital Security descobriu um overflow de inteiros na função

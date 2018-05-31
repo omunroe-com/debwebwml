@@ -1,5 +1,5 @@
 #use wml::debian::template title="Getting Debian from the Internet" BARETITLE=true
-#use wml::debian::translation-check translation="1.32"
+#use wml::debian::translation-check translation="9bc7028aecff09464573558f6c4618c566a3d84b"
 
 <P>데비안 인터넷을 통해 구할 수 있습니다.
 </p>

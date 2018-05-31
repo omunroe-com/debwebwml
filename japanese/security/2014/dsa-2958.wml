@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e2b8ec27908c79328c03337d2c589f1e9072b418"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Jakub Wilk さんが APT、高レベルパッケージマネージャが「apt-get source」

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="86ea4fa3d9e2117496fe9087ec8a0d3d2c9ab02d"
 <define-tag pagetitle>Debian インストーラ Stretch Alpha 2 リリース</define-tag>
 <define-tag release_date>2015-08-15</define-tag>
 #use wml::debian::news

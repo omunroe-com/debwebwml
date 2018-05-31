@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="830621cd82e3778615aa3a885ab770997c8740c1" maintainer="Juan M. Garcia"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Jakob Balle descubrió que con los «comentarios condicionales» de Inernet

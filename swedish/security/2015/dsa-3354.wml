@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1116634c44b2efe53d365f76e654c5fc90fce6be" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Frediano Ziglio från Red Hat upptäckte en kapplöpningseffekt i spice's

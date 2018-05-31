@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6d23ee28b444e62652ecb0d1ce980ba0a78e616a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Moritz Jodeit さんが、ネットワークの監視やデータ取得用の強力なツール tcpdump

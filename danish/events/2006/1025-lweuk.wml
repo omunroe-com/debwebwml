@@ -19,5 +19,5 @@ præsenteret, desuden vil der være foredrag om Debian og fri software.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4f0d46209cbfc4ca19570f05bc77d13ca338006f"
 #Related Links here (free form)

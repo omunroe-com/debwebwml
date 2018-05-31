@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ce0454c84f743d961090335c62b0ce69f5e4d58f" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что jackson-databind, библиотека Java для выполнения грамматического

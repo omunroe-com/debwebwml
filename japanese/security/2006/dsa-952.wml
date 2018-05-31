@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e477ea2c0e439734b9633e3a572fa426c37ac33f"
 <define-tag description>フォーマット文字列</define-tag>
 <define-tag moreinfo>
 <p>Seregorn さんが、Apache ウェブサーバ用の

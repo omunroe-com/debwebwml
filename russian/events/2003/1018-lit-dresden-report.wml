@@ -1,7 +1,7 @@
 #use wml::debian::template title="LinuxInfoTag Dresden 2003 -- Отчёт"
 # $Id$
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8b6236e8fad3bfdd6029d9b10203670884dc154a" maintainer="Lev Lamberov"
 
 <p>Хотя в этот раз это мероприятие впервые было организовано <acronym_LUG /> Дрездена,
 они проделали отличную работу!

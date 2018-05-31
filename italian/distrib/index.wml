@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ottenere Debian"
-#use wml::debian::translation-check translation="1.59" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="0258a9ad572cf94a4162601989a462256f69df0f" maintainer="Giuseppe Sacco"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p>Debian è distribuita <a href="../intro/free">liberamente</a>

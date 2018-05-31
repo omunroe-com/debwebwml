@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2008-04-21" SUMMARY="Wybory Lidera Projektu, Przegląd, Aktualizacja wydania, Google Summer of Code, Analiza, Niezawodność, Developing, Pomysły na funkcjonalności, FAQ, qmail, Planeta Debiana, Stare maszyny, SE Linux, ftp master, Spotkanie Groupware"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 
 <p>Witamy w pierwszym wydaniu Wiadomości Projektu Debian, elektronicznego

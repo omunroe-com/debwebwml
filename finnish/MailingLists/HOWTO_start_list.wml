@@ -1,5 +1,5 @@
 #use wml::debian::template title="KUINKA pyytää uutta postilistaa"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc"
 
 <p>Tämän dokumentin tavoitteena on auttaa postilistan perustamisessa
 <a href="https://lists.debian.org/">lists.debian.org</a>-palvelimelle.</p>

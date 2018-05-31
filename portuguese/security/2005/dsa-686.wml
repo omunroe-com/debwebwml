@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a65c974df05a01b50b3f633e22573b8acedeca32"
 <define-tag description>sanitização de entrada ausente</define-tag>
 <define-tag moreinfo>
 <p>Albert Puigsech Galicia descobriu uma vulnerabilidade de travessia

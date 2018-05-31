@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ab38149a90771a2cc30255c6a75d0a51a488e383" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Hanno Boeck opdagede et stakbaseret bufferoverløb i komponenten dpkg-deb i 

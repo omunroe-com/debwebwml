@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dbb767831c2f6d2d80c56580bcafdcd9fcfb1fde" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er opdaget i OpenTTD, et spil der simulerer en 

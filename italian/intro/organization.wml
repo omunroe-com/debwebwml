@@ -1,5 +1,5 @@
 #use wml::debian::template title="La struttura organizzativa di Debian"
-#use wml::debian::translation-check translation="1.14" maintainer="skizzhg"
+#use wml::debian::translation-check translation="5c3ace6e77dd17f5a0f8fca6c2aba0d3423c9f9e" maintainer="skizzhg"
 
 <p>Se pur raramente, può capitare di dover contattare qualcuno riguardo
 a un particolare aspetto di Debian. Di seguito c'è l'elenco dei diversi

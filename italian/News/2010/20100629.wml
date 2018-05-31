@@ -1,7 +1,7 @@
 <define-tag pagetitle>Maggiore collaborazione tra le distribuzioni basate su Debian: il Front Desk delle derivate</define-tag>
 <define-tag release_date>2010-06-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Mark Caglienzi"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mark Caglienzi"
 
 <p>Il Progetto Debian ha promosso la libertà nel software e diffuso il
 software libero tra gli utenti tramite i propri rilasci fin dal 1993, quando

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="31b32d002b5a0bc52afb3d86de8eeb93ba6b747d" maintainer="Nicolas Bertolissio"
 <define-tag abbr>LIT03</define-tag>
 <define-tag year>2003</define-tag>
 <define-tag pagetitle>Journée d'information Linux</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cdddb507a194c4d6b9ad05df88fa43bf196b4383" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at podbeuter, podcasthenteren i newsbeuter, en tekstbaseret 

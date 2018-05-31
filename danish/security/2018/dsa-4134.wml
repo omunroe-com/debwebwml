@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e24a7b27210cba3237ad1f504cabccd01d801e8d" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Bjorn Bosselmann opdagede at umounts bash-completion fra util-linux, ikke på 

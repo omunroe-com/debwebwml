@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="33752e8ccc2020312d2c01ec57fa09bb95dc9028" maintainer="Lev Lamberov"
 <define-tag description>подделка инъекции фрейма</define-tag>
 <define-tag moreinfo>
 <p>Была обнаружена уязвимость в Mozilla и Mozilla Firefox,

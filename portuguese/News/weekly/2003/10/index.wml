@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-03-11" SUMMARY="Eleições a DPL, Debconf, GCC 3.3, Lançamento da Sarge, Acessibilidade, Lindows, Udebs, LZW, PS2, PPP, OpenLDAP 2.1, GnuMICR"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Bem-vindo à décima edição da DWN, o periódico semanal para a
 comunidade Debian. Esta parece ter sido uma <a

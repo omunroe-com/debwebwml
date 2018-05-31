@@ -19,4 +19,4 @@ udnyttede denne sårbarhed.  MySQL-autentifikationsmodulet er ikke påvirket.</p
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-247.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b220fd30b00329f5d913f4e573261bff12f24c96"

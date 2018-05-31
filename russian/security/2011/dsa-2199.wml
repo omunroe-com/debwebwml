@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4f883662977e90bb87a83f7be7af5d9eab460dc3" maintainer="Lev Lamberov"
 <define-tag description>обновление чёрного списка сертификатов SSL</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление Iceape, версии Seamonkey без бренда,

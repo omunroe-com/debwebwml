@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="142f6673b766e3c45b66fdecd1441c97ef5099e2" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de l'installateur Debian Buster Alpha 1</define-tag>
 <define-tag release_date>2017-09-03</define-tag>
 #use wml::debian::news

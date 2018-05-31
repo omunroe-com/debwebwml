@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.nung.edu.ua/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="cc5f48e2ca38d7e85dfa6e5637474c6a40cdcfdf"
 
 <p>
     Universitetet anvender Debian på sine primære netværksservere.  Anvendt 

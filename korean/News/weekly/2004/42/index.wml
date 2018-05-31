@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-10-26" SUMMARY="i386, License, Conferences, Configuration, m17n, Database, Packaging, Woody"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="21de25da834516d8008adc91fe6eb00081f41714"
 
 <p>데비안 공동체를 위한 올해 42번째 데비안 주간뉴스. Roger So는 
 내년 2/3월 쯤 중국 베이징에서 열릴 수 있게 첫 번째 아시아 데비안

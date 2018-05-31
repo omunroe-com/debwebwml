@@ -2,7 +2,7 @@
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/sarge/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714"
 
 <p>Installationsinstruktioner, på samma sätt som hämtningsbara filer, finns
 för var och en av de stödda arkitekturerna:</p>

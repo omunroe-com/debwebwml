@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="88a9a0f0a0eb93512ee84dc320d5b389db94d541" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Luca Bruno opdagede en heltalsoverløbsfejl førende til et stakbaseret 

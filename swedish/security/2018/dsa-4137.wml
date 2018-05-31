@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="ef2979d0210ace9389b35cb8d47babaedcc6dc3e" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i Libvirt, ett

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="84e8f8fe4f93afadc1470d77e88601c6513da555" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer upptäckte två säkerhetsproblem i tidssynkroniseringsmjukvaran

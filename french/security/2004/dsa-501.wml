@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="b4ca2cc0f5adefa2a37e2e959040d5c3df556161" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Georgi Guninski a découvert deux débordements de pile. Cependant, ils ne 

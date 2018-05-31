@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8733e4c31227804891b9eeb5f838058aa621f5c3" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ibrahim M. El-Sayed upptäckte en sårbarhet för heap-läsning utanför

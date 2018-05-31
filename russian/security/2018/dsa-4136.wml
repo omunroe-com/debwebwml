@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="15c5d96a3bbe0a64e70a1cd32455e8859bee30ef" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В cURL, библиотеке передачи URL, были обнаружены многочисленные уязвимости.</p>

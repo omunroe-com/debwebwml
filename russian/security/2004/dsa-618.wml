@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c2434c576c2729acf0ef2c551e7efd392fa6ad5f" maintainer="Lev Lamberov"
 <define-tag description>переполнения буферов, переполнения целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Павел Канковский обнаружил, что несколько переполнений, обнаруженных в библиотеке libXpm,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="92c186ba89066319859bfe3b81a5a893ed8dfab2"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>DNS サーバである BIND に、

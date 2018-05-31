@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e396bbccf6002bf1e623b2da29904d777faedf6a"
 <define-tag description>błąd programistyczny</define-tag>
 <define-tag moreinfo>
 <p>Patrick Cheong Shu Yang odkrył, że courier-authdaemon, demon

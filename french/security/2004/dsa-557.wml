@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="7b31fcd8837d127519de423529bcf499c592b629" maintainer="DFS Task Force"
 <define-tag description>missing privilege dropping</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler a découvert une vulnérabilité dans pppoe, le pilote PPP sur

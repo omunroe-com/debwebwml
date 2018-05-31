@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="4816088dd00f6001dccb1bfab064b88b07e2b7c9" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Jack Louis descubrió un desbordamiento de entero en Perl, el lenguaje de informes

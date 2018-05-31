@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="84c60c5e2236e18a643b7da10712d9d17f0bf9f3"
 <define-tag description>sanitização de entrada ausente</define-tag>
 <define-tag moreinfo>
 <p>Liam Helmer notou que sudo, um programa que fornece privlégios limitados

@@ -17,7 +17,7 @@ source-software.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="599abb4b72eb5fe778890461594f6a6149f3bbe5"
 #Related Links here (free form)
 <ul>
     <li><a href="http://wiki.softwarefreedomday.org/2012/Brazil/NovoHamburgo/SoftwareLivreVS">\

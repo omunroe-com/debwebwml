@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="81ccd64b803dba5dae67d98dc92eb0abe181fc2a" mindelta="1"
 <define-tag description>kommandoexekvering utifrån</define-tag>
 <define-tag moreinfo>
 <p>

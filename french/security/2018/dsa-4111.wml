@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="1d234abd0cb6d3d7e75ce722a9fea224df8bb875" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Mikhail Klementev, Ronnie Goodrich et Andrew Krasichkov ont découvert

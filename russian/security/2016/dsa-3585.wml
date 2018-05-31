@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bf7641e96da9d7ad64403fd8f8d582d67d3a9eb6" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах/парсерах для PKTC, IAX2, GSM CBCH и NCP были

@@ -27,7 +27,7 @@ din deltagelse af organisatoriske årsager.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <ul>
     <li><a href="https://lists.debian.org/1322758001.30940.8.camel@pomegues.inria.fr">\
 	officiel annoncering</a></li>

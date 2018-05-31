@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4fdf543df91843d07bbe8849073af5591408f9ad"
 <define-tag description>städar inte indata</define-tag>
 <define-tag moreinfo>
 <p>Raphael Geissert upptäckte att uscan, ett program för att undersöka

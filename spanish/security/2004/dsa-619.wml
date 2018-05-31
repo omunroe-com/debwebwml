@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="88695a92296ff4b7dc2beecedd06d59fee400c85" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Un investigador de seguridad de iDEFENSE descubrió un desbordamiento

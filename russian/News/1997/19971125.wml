@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Lev Lamberov"
 <define-tag pagetitle>Станьте разработчиком Debian! Наставники Debian готовы вам помочь</define-tag>
 <define-tag release_date>1997-11-25</define-tag>
 #use wml::debian::news

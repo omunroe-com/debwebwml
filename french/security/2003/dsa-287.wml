@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="7dc01c25991c05059e76e3af78071ccb908f828f" maintainer="Pierre Machard"
 <define-tag description>Débordements de tampons</define-tag>
 <define-tag moreinfo>
 <p>Timo Sirainen a découvert plusieurs débordements de tampons dans EPIC,

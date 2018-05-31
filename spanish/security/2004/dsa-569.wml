@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="563d6184f4f3ef67d1a0c600de6f6eb1dfc17a99" maintainer="juanma"
 <define-tag description>liberación no válida</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski descubrió un error en el servidor netkit-telnet

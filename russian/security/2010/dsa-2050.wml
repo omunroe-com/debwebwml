@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f48b75ad34ae102b80841290f25fb1e48d1cce6b" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В KPDF, просмотрщике PDF для KDE, были обнаружены несколько локальных уязвимостей,

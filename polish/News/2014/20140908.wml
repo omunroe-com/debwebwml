@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c9f8781f6a17ae4491544a56782be1b319927454"
 <define-tag pagetitle>FSF i Debian łączą siły aby pomóc użytkownikom wolnego oprogramowania znaleźć potrzebny im sprzęt</define-tag>
 <define-tag release_date>2014-09-08</define-tag>
 #use wml::debian::news

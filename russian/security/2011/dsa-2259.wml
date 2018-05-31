@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c65b3c8952f571b2ba20f4718f8b13070d6f90cc" maintainer="Lev Lamberov"
 <define-tag description>обход аутентификации</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что F*EX, веб-служба для передачи очень больших

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="37a758304f34ffcd8dd185c24bc1ba2533e8beac"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se encontraron varias vulnerabilidades en PHP, un lenguaje de programación de scripts de

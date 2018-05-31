@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="8ff384f7cb57f8ce7f9d1fed969c2aa0d4f628b3" maintainer="Pierre Machard"
 <define-tag description>Root vulnérable en local</define-tag>
 <define-tag moreinfo>
 Le paquet «&nbsp;gpm&nbsp;» contient le programme <code>gpm-root</code>, qui peut être exécuté pour

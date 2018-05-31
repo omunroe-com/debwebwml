@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="0be581098845e603cfe91e9bafa387959e8c2c9c" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Derek Robert Price a découvert un dépassement de tampon potentiel basé sur 

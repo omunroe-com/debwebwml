@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="d3bcae2d503f783a8c84e27731248384185e9660" mindelta="1"
 <define-tag description>besked om att Debians säkerhetsgrupp har bytt PGP/GPG-nycklar</define-tag>
 <define-tag moreinfo>
 <p>Detta är ett meddelande att Debians säkerhetsgrupp har ändrat sin

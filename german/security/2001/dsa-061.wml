@@ -24,5 +24,5 @@ spezielle Option, um den geheimen Schlüssel zu importieren.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-061.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0157ea5d3a211b732fb02be8d748ecc3f9558242"
 # Translator: Noel Koethe, noel@koethe.net, 2001-06-17

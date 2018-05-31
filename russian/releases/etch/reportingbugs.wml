@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 4.0 - Как сообщить об ошибках" BARETITLE=true
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a" maintainer="Lev Lamberov"
 
 <h2><a name="report-release">В информации о выпуске</a></h2>
 

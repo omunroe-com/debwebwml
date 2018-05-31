@@ -1,5 +1,5 @@
 #use wml::debian::template title="Consejos útiles para la traducción"
-#use wml::debian::translation-check translation="1.39"
+#use wml::debian::translation-check translation="7fce35397b85232374e07ada8bb4f49a830c5d1b"
 #include "$(ENGLISHDIR)/releases/info"
 
 <p>Por favor, consulte las páginas sobre <a href="working">trabajo en las páginas web</a>,

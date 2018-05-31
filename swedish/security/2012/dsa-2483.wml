@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f176771d8dde81e94da7842cfcbb46d24a71f722" mindelta="1"
 <define-tag description>autentiseringsförbigång</define-tag>
 <define-tag moreinfo>
 <p>Ett problem med autentiseringsförbigång har upptäckts av Codenomicon

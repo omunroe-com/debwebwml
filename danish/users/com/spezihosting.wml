@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.fresh-internet.net/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check original="german" translation="1.5"
+#use wml::debian::translation-check original="german" translation="69e5a64c1800808bff407cbd4e6f05237895837f"
 
 <p>
     Som internetudbyder med et bredt udvalg af produkter, tilbyder vi lagerplads

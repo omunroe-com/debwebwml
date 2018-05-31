@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Junior &mdash; comment allons-nous&nbsp;?</define-tag>
 <define-tag release_date>2002-07-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Thomas Huriaux"
 <p>
 Nous avons créé une <a href="https://wiki.debian.org/DebianJr">page</a>
 sur <a href="https://wiki.debian.org/FrontPage">DebianWiki</a> en tant

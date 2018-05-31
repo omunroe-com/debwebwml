@@ -3,7 +3,7 @@
 <define-tag pagetitle>Laboratoire de Chimie physique, CNRS UMR 8000, Université Paris-Sud, Orsay, France</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="8e8372e764d1f98a9213b149498a1ef0e4b4207d" maintainer="Thomas Vincent"
 
 <p>
 Nous utilisons des serveurs et stations de travail sous Debian pour fournir 

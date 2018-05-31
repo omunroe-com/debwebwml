@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Descarcă Imagini Live"
 #use wml::debian::blends::hamradio
 #use "../navbar.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="01e9146ecffec8b542ac42c03f468be355e6d416" maintainer="Ana Custura"
 # $Id$
 
 <p>Debian GIS Pure Blend produce <b>Imagini Live pentru DVD</b> prin care poți

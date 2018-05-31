@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5bfd8843847d7badbff1ba5f64c6e72aae514334" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Драгана Дамянович обнаружила, что аутентифицированный клиент может аварийно завершить

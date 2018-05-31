@@ -1,5 +1,5 @@
 #use wml::debian::template title="Pacotes para os quais ajuda foi requisitada" GEN_TIME="true"
-#use wml::debian::translation-check translation="1.2" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="989a0c2f5e8fda7560605e573f0b790c7f0b3071" maintainer="Felipe Augusto van de Wiel (faw)"
 
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
 

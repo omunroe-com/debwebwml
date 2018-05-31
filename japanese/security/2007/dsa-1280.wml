@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="418ae46f98a452980ca87a9c09f8e7a9a4d576e6"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>WEP/WPA セキュリティ解析ツール aircrack-ng について、

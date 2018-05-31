@@ -1,6 +1,6 @@
 #use wml::debian::template title="Versões/Lançamentos Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.71" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="5182e9999d26541c0f07c58dc26b6e27996fd193" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>O Debian sempre tem pelo menos três versões em manutenção ativa:
 <q>estável (stable)</q>, <q>testing</q> e <q>instável (unstable)</q>.</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f51f6e5dac5c76c2f97745b9ea1c26c54e71fb26" maintainer="Lev Lamberov"
 <define-tag description>слабое шифрование</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что belpic, библиотека поддержки бельгийских eID в PKCS11,

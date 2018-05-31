@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-06-25" SUMMARY="フリーズ、ミラーリダイレクトサービス、DebConf11 会計報告とその他のイベントの報告"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 # $Rev: 3956 $
 # Status: [freeze]

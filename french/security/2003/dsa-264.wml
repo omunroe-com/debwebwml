@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="62dce0bf1839d5618f463a0fa59546a30f570873" maintainer="Pierre Machard"
 <define-tag description>Manque de protection dans le nom de fichier</define-tag>
 <define-tag moreinfo>
 <p>Les développeurs de lxr, un outil généraliste de références croisées 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="e74c3fb0292e5eb9c4ffb3b534f6feaac88bf71b"
 <define-tag pagetitle>Zagadnienia poruszone w 2005 roku</define-tag>
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::votebar

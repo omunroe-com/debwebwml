@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="a60e75fcd40b85f01c2ca0e77106b28cc578389d" maintainer="Juraj Kubelka"
 
 <define-tag description>přetečení bufferu</define-tag>
 <define-tag moreinfo>

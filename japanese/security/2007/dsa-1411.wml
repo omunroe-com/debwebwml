@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>オブジェクト指向スクリプト言語の Ruby に、いくつかの脆弱性が見付かりました。

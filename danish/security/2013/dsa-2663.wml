@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3ec6bc952c4082395c3c19aae1d6315092c1b61b" mindelta="1"
 <define-tag description>stakbaseret bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Martin Schobert opdagede en stakbaseret sårbarhed i tinc, en Virtual Private 

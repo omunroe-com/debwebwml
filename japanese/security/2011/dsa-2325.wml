@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="42c121cc7f8d2c3b8f5d97a1a50ebe084e8ca2a3"
 <define-tag description>特権の昇格/サービス拒否攻撃</define-tag>
 <define-tag moreinfo>
 

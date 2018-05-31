@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="08bae52456699417144595dd39f4061e9a21d927" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Et læsningsbufferoverløb blev opdaget i idtech3-familien (Quake III Arena) af

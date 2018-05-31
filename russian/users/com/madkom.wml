@@ -1,5 +1,5 @@
 # From: "Mikolaj Laguna-Horodniczy" <m.laguna@madkom.pl>
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="80df0d33b30d2aa868fbe4179718c1ffae4778cc" maintainer="Lev Lamberov"
 
 <define-tag pagetitle> Madkom Ltd. (Madkom Sp. z o.o.), Польша</define-tag>
 <define-tag webpage>http://www.madkom.pl/</define-tag>

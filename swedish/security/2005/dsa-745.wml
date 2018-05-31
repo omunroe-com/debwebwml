@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="95dcbcbe97887a0730e528f9021fc3cab4056a36" mindelta="1"
 <define-tag description>fel vid indatavalidering</define-tag>
 <define-tag moreinfo>
 <p>

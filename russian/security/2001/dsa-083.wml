@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a4b9edeb0512b131d96a2dfec1c4effcd75855a2" maintainer="Lev Lamberov"
 <define-tag description>небезопасная обработка сигналов</define-tag>
 <define-tag moreinfo>
 Использование предыдущих версий procmail делает возможным аварийное завершение работы программы

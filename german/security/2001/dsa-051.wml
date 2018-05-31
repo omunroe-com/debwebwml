@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="94e73c6eaceec0a531b9e86ea690d48f604bb02b"
 # Translator: Martin Schulze <joey@debian.org>
 
 <define-tag description>Unerwartete Ausführung von Javascript</define-tag>

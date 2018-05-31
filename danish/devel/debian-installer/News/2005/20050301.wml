@@ -1,7 +1,7 @@
 <define-tag pagetitle>Forberedelser til udgivelseskandidat 3 ødelægger nogle rc2-aftryk</define-tag>
 <define-tag release_date>2005-03-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="240ad782b070da8eb5d8dec23f74f47ce4189ad5"
 
 <p>De sidste forberedelser er begyndt på udgivelseskandidat 3.  Nogle af
 ændringerne af Debians arkiv kan ødelægge installeringsmedierne fra 

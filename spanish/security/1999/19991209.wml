@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="c394caa4b9c9f6be4fa0cea52ab6f41a1554d4f4"
 <define-tag moreinfo>
 La versión de htdig que acompañaba a Debian GNU/Linux 2.1 tenía un problema
 con las llamadas a programas externos para gestionar documentos no HTML:

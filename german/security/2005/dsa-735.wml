@@ -24,5 +24,5 @@ fertig sind; diese werden veröffentlicht, sobald sie verfügbar sind.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-735.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="17224dde6fd52dd722b881c11cfa944d4e8760fc" mindelta="1"
 # $Id$

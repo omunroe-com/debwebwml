@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-06-10" SUMMARY="XSF, Menu, Sarge, OpenSSL, Urodziny, Knoppix, Głosy, FreeBSD, Kerberos, Rocket, I18n, Licencje, UTF8"
-#use wml::debian::translation-check translation="1.21" maintainer="TamCaP"
+#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2" maintainer="TamCaP"
 <p>Witaj w dwudziestym trzecim w tym roku numerze DWN, tygodnika dla osób
 zainteresowanych i związanych z Debianem. Na BBspot znajduje się mały <a
 href="http://bbspot.com/News/2003/01/os_quiz.php">quiz</a>, który kojarzy

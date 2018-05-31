@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="724a9cabb3855272825cbdee4a5208fc08f1611b"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Apache 用 Python WSGI アダプターモジュールにセキュリティ問題が2件見つかりました:</p>

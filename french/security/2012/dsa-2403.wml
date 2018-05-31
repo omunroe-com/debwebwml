@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="476a7c958d957cde14dc91319c55a4653268ed09" maintainer="David Prévot"
 <define-tag description>Injection de code</define-tag>
 <define-tag moreinfo>
 <p>

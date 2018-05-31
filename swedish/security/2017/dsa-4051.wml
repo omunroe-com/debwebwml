@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="31062928930c5d1bde3ea562f87a1901990517e0" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Två sårbarheter upptäcktes i cURL, ett URL-överföringsbibliotek.</p>

@@ -2,7 +2,7 @@
 # Revised by Antti-Juhani Kaijanaho on 1999-06-09
 #use wml::debian::template title="Tuki"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.78"
+#use wml::debian::translation-check translation="76ff4517b5560c4d0ef89b153d5eb1d840543d91"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <h2>%body</h2>

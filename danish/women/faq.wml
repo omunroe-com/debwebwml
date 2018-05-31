@@ -1,6 +1,6 @@
 #use wml::debian::template title="Ofte stillede spørgsmål" BARETITLE="true"
 #use wml::debian::faqs
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="6be37d6341c5a56a59a9f66a9f363de30dd3e47a"
 
 <question>
     Hvorfor er der så få kvinder, som arbejder i it-branchen / F/OSS

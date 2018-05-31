@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="45a133052dae9c3da2214064efdae484da514775" mindelta="1"
 <define-tag description>dereferering av null-pekare</define-tag>
 <define-tag moreinfo>
 <p>

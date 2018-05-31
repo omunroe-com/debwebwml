@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="74b3b190cc9b3e368e8d1447c8bdbeaecb2674b7" maintainer="Lev Lamberov"
 <define-tag description>проброс неавторизованных портов</define-tag>
 <define-tag moreinfo>
 ssh позволяет непривилегированным пользователям пробрасывать привилегированные порты.

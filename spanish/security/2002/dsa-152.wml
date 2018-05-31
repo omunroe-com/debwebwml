@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b777090c7e5f56aeff16395d586da588f139e7a8"
 <define-tag description>no se encuentra la semilla aleatoria</define-tag>
 <define-tag moreinfo>
 <p>Las versiones actuales de l2tpd, un programa cliente/servidor de evasión

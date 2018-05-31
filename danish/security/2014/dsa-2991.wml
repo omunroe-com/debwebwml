@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3fd504b0834c3960a38252e5d1fced02bcf62d7d" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Martin Holst Swende discovered a flaw in the way chunked requests are

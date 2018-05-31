@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b19b5b6547dc3534df9ad91f2cb5d7c5614224f5" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Текущая версия Debian не уязвима к этому эксплоиту. Версии
 Debian до 2.0 или версии cfingerd до 1.3.2-9

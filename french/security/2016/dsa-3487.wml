@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="bba7ed9d6b0f1d96ba874f6ed9cfe7cfab23df97" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Andreas Schneider a signalé que libssh2, une bibliothèque SSH2 côté client,

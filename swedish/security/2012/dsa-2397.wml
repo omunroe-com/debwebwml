@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="46cd57e0ab7971279f6bb9bb74ef6bfd008645e6" mindelta="1"
 <define-tag description>bufferunderspill</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att ett buffertspill i Unicode-biblioteket ICU

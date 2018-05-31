@@ -30,4 +30,4 @@ kolab-cyrus-imapd-pakker.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1893.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1ad32fa96f54afbf15d4abdcf0b70a9ebc79aec0" mindelta="1"

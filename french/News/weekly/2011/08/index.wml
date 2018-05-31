@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-05-17" SUMMARY="Rapport final de DebConf10, extensions de sécurité DNS, compte-rendu de l'événement <q>Construisez-le</q>, pourquoi participer à DebConf, rendre <q>testing</q> accessible aux utilisateurs"
-#use wml::debian::translation-check translation="1.9" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

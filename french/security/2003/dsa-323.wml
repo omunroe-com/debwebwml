@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"  maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="8fd8ae2786887ae8a054ae4312a4891b8ad3ba0a"  maintainer="DFS Task Force"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Jakob Lell a découvert un bogue dans le script <i>noroff</i>, inclus dans 

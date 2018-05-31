@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian BTS - relatando bugs" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.65" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="df01ce5c3018f4c89390ae4e4f6a92400cd26406" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <h1>Como relatar um bug no Debian usando o reportbug</h1>
 

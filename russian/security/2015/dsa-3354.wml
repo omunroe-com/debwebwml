@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1116634c44b2efe53d365f76e654c5fc90fce6be" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Фердиано Зиглио из Red Hat обнаружил состояние гонки в функции

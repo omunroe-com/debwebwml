@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fd509e268b296a2c959202f50765407ab65a66d6" mindelta="1"
 <define-tag description>informationsafsløring</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at Notmuch, et program til indeksering af mail, ikke på 

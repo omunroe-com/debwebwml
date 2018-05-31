@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="99d9281ec114bc899622b2b4aa3ce542cab01e5b"
 <define-tag description>権限がないにもかかわらずファイルを表示</define-tag>
 <define-tag moreinfo>
 <p>super に特定のユーザから読み取れないはずのファイルを表示していた\

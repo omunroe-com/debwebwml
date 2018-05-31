@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Installer etch beta 1</define-tag>
 <define-tag release_date>2005-11-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Debian Installer-<a href="https://wiki.debian.org/DebianInstallerTeam">\
 holdet</a> er stolte over at kunne annoncere den første betaudgave af 

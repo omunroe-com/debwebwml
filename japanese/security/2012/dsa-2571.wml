@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ba5a5b857826aaf25d1d3138960dbfd6cd097d8a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>レッドハットセキュリティ・レスポンス・チームが、

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-12-06" SUMMARY="Resolução, DebConf, /tmp, Transição, udev, Empacotamento, Krb4, GCC 2.95"
-#use wml::debian::translation-check translation="1.9" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à quadragésima nona edição deste ano da DWN, o periódico
 semanal para a comunidade Debian.  Roland Stigge <a

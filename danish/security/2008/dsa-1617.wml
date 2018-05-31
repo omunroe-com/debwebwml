@@ -41,4 +41,4 @@ refpolicy-udgivelser indeholder en analog ændring.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1617.data"
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" mindelta="1"

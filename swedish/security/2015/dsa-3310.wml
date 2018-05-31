@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5b6fb0dc8365bdc3e64cc20f289ea2d3b4a9cdcc" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att ett heltalsspill i freexl, ett bibliotek för att

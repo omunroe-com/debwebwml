@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a61693d1249291988800494434ea1cb39599df6f" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Имеются сообщения о том, что некоторые дистрибутивы Linux содержат
 уязвимость в samba. Имеются две проблемы:

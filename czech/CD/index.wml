@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian na CD" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.38" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="78f1f14a7a55a87d290327aa292851d152d96f87" maintainer="Michal Simunek"
 
 <p>Pokud chcete získat Debian na CD nebo USB klíčence, můžete si vybrat některou
 z&nbsp;následujících možností. V&nbsp;případě problémů nebo nejasností si prosím přečtěte

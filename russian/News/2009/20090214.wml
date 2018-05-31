@@ -1,7 +1,7 @@
 <define-tag pagetitle>Выпущен Debian GNU/Linux 5.0</define-tag>
 <define-tag release_date>14.02.2009</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>После 22 месяцев продолжительной разработки, проект Debian рад сообщить об
 официальном выпуске Debian GNU/Linux версии 5.0, (кодовое имя

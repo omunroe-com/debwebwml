@@ -25,5 +25,5 @@ hanterm のフォント処理コードでは固定長の文字列を使ってい
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-112.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7613d83e8542de4837c4fb151bcacc3fb9805c1e"
 # $Id$

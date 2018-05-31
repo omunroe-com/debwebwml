@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7ad15ebc4646dff99e3b8ebf12c8a8131edd6ecb" mindelta="1"
 <define-tag description>læsning af uinitialiseret hukommelse</define-tag>
 <define-tag moreinfo>
 <p>En fejl blev fundet i den måde hvorpå Mozilla Network Security 

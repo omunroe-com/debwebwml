@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="b7ed7ceb9677126acc6f9a5717ed60db22379b52" maintainer="Juan M. Garcia"
 <define-tag description>bucle infinito</define-tag>
 <define-tag moreinfo>
 <p>«Vade 79» descubrió que el disector BGP de tcpdump, una potente

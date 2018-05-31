@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5147acfa910f8396a8784cc2d30a52496d138019"
 <define-tag description>不適切な setuid-root 実行</define-tag>
 <define-tag moreinfo>
 <p>Maurice Massar さんが、パッケージ作業の誤りにより、プログラム

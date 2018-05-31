@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>La version de wu-ftpd distribuée dans Debian 
 GNU/Linux&nbsp;2.1 (<em>Slink</em>) ainsi que dans les versions gelée 
 (<em>Potato</em>) et instable (<em>Woody</em>) est vulnérable à une compromission 

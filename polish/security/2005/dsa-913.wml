@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="dea1655a1c34144b58c4dec062cf7d13eb72f3e4"
 <define-tag description>kilka zagrożeń</define-tag>
 <define-tag moreinfo>
 <p>Kilka zagrożeń zostało znalezionych w gdk-pixbuf, bibliotece

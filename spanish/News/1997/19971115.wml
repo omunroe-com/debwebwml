@@ -1,7 +1,7 @@
 <define-tag pagetitle>Distribuciones de Linux y la comunidad del Software Libre</define-tag>
 <define-tag release_date>1997-11-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 La gente del proyecto Debian producimos un sistema Linux de gran
 calidad, hecho en un 100% de software libre. Pero, como voluntarios,

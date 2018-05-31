@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="e0ae5f3ac08b47e6dfd51159f4118d6979f72c14" maintainer="Marco Carvalho"
 <define-tag description>erro de programação</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" descobriu três erros de estouro de pilha no código de

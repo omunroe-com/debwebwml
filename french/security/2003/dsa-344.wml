@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="4e97ba7f8f378444aac5d934639be799155c655d" maintainer="DFS Task Force"
 <define-tag description>Traversée de répertoire</define-tag>
 <define-tag moreinfo>
 <p>Une faille de sécurité due à une traversée de répertoire dans 

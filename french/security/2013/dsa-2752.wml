@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="a30964a96394f9d7daf701a4dd489a4f8b3417fe" maintainer="Thomas Vincent"
 <define-tag description>Permissions trop larges</define-tag>
 <define-tag moreinfo>
 <p>Andreas Beckmann a découvert que le forum web phpBB, tel qu'il est installé

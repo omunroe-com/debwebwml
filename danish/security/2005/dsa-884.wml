@@ -18,4 +18,4 @@ admin-konto i horde3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-884.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="64abbc5bd95032249f8946884416961bbe78f258" mindelta="1"

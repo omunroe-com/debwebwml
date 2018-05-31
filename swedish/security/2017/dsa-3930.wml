@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e0266b54a00d80946515ac8b4161ac6f4024f7c5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Guido Vranken upptäckte att FreeRADIUS, en öppen källkodsimplementation

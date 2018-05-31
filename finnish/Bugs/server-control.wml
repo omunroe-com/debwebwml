@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian BTS &mdash; komentopalvelu" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="1.102"
+#use wml::debian::translation-check translation="3d1b5c8a4656b47f56cfa51e517a0a664f7fb637"
 
 <h1>Opastus vikajärjestelmän komento- ja hallintapostipalvelun käyttöön</h1>
 

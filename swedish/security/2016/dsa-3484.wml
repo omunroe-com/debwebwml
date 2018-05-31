@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fc3a952c5e3724d94148d2a6999a97f6c48498ff" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Stepan Golosunov upptäckte att xdelta3, ett diff-verktyg som arbetar

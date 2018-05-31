@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4f883662977e90bb87a83f7be7af5d9eab460dc3"
 <define-tag description>ssl 証明書ブラックリストの更新</define-tag>
 <define-tag moreinfo>
 

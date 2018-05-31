@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-04-26" SUMMARY="GNOME, licence, Debian Day, mplayer, AMD64, konzultanti, zpráva, snapshot"
-#use wml::debian::translation-check translation="1.10" maintainer="Vladimir Mezera"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776" maintainer="Vladimir Mezera"
 
 <p>Vítejte u&nbsp;letošního 17. vydání DWN, týdenního zpravodaje pro komunitu
 okolo Debianu. Podle analýzy IDC, Free Software <a

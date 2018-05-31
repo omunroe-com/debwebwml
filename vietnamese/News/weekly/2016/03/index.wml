@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2016-07-29" SUMMARY="Mate 1.14 trong bản chưa ổn định, Tin tức linh tinh nhà phát triển, Thời điểm phát hành, Thay đổi trong xử lý NM, Wheezy LTS OpenJDK 7, Bits from the DPL, GCC 6 dành cho stretch, nhóm pkg-security mới, General Resolutions, DebConf16, FISL17, Đóng băng, Thời xa xưa, Phần nghệ thuật dành cho stretch, Các đóng góp, Thảo luận, Các mẹo và thủ thuật, Outreachy, GSoC, LTS, Reproducible Builds, Social Media"
-#use wml::debian::translation-check translation="1.5" maintainer="Trần Ngọc Quân, Giáp Trần"
+#use wml::debian::translation-check translation="880465e76d5b13345595cb3973e1b3f6cbdcd801" maintainer="Trần Ngọc Quân, Giáp Trần"
 
 # $Id$
 # $Rev$

@@ -1,7 +1,7 @@
 # From: Vassilios Dimakopoulos <dimako@cs.uoi.gr>
 # Submission email: https://lists.debian.org/debian-www/2016/07/msg00086.html
 # 2016 WHO Audit. New Entry
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d8592d1a44103ef67b0ff9a5654ca2dc913a28bc" maintainer="Lev Lamberov"
 
 
 <define-tag pagetitle>Группа параллельной обработки данных, Департамент компьютерных наук и инженерного искусства, Университет Янины, Янина, Греция

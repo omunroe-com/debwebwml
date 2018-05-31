@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="79c885fa549e1260fdff78810418ffbfc3df2580" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sårbarheder blev opdaget i LibreOffices kode til fortolkning af MS Word- 

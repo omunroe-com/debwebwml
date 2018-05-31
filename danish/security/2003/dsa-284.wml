@@ -28,4 +28,4 @@ man modtage opdateringen:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-284.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7e86d6363ab8bf9d0860d9787d7d2a9bcd814133"

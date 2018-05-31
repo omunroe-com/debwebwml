@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-20" SUMMARY="さらば、Lenny!、Debian GNU/Hurd の開発は順調に、Multiarch に対応した dpkg"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Rev: 3226 $
 # Status: [frozen]

@@ -5,7 +5,7 @@
 <define-tag date>5 月 2 日 - 4 日</define-tag>
 <define-tag infolink>http://www.softwarelivre.org/forum/</define-tag>
 <define-tag coord><a href="mailto:kov@debian.org">Gustavo Noronha Silva</a></define-tag>
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73"
 
 <define-tag intro>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="4d87edd83707d50811d5ad3198b32abd32d5df6c" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp, del proyecto de auditoría de seguridad de Debian, descubrió

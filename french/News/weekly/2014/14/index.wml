@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-10-27" SUMMARY="Podcast Debian &amp; Stuff, Debian refait le choix de GNOME pour son bureau par défaut, contribuer à Debian d'autres façons, l'initiative Ada et le programme de sensibilisation pour les femmes, qui a 15 ans ?!, comptes-rendus sur Squeeze-Long Term Support, résolution générale : dépendance au système d'initialisation, brèves des responsables de Debian Multimédia, Debian Quiz Game, demande d'aide !, Debian DebUtsav 14"
-#use wml::debian::translation-check translation="1.4" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 5730 $

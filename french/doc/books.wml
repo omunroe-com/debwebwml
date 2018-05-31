@@ -1,5 +1,5 @@
 #use wml::debian::template title="Les livres sur Debian" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.74" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="193117c6582ca2ae3a4f481d2b76ddcaaebf8768" maintainer="Jean-Paul Guillonneau"
 #include "$(ENGLISHDIR)/doc/books.def"
 
 #Traducteurs : voir journal

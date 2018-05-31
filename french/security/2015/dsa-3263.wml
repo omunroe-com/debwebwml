@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="a7c9a8fdf5d4ebf005a1be61b27ea3faeb4a1666" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Vadim Melihow a découvert que dans proftpd-dfsg, un serveur FTP, le module

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a7beacc3f272e7df58752ca5c7c030bbb07dd2fe"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>スタックベースのバッファオーバフローが複数、Universal Plug and

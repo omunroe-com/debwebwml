@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="jean-pierre giraud"
+#use wml::debian::translation-check translation="bc18159ae82429e05910ed3b4fb682bfdf2e1203" maintainer="jean-pierre giraud"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans TYPO3, un système de

@@ -14,4 +14,4 @@ version 1.30.1-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-643.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b59339f39f4e4393e4bc93011a03490b71c385b0" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f998f4d2128d1eee67a8122f146968e14e82a776" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer	från Red Hat produktsäkerhetsgrupp upptäckte flera

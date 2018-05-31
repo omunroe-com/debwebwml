@@ -16,4 +16,4 @@ version 1.9.3-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2083.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ff0f64b4bd2b829177c77628b94979dbfa9b452e" mindelta="1"

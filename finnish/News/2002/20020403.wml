@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 2.2 päivitetty (r6)</define-tag>
 <define-tag release_date>2002-04-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <define-tag revision>2.2r6</define-tag>
 

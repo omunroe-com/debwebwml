@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="2bd18a67682540fb7c79d49a858ca9bcfaa704ed"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Alexander Hvostov, Julien Blache y Aurelien Jarno descubrieron varios

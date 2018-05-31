@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="e477ea2c0e439734b9633e3a572fa426c37ac33f" maintainer="Juan M. Garcia"
 <define-tag description>cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>"Seregorn" descubrió una vulnerabilidad de cadena de formato en la

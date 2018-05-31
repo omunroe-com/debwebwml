@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="73a2b6c74b656924c6b042c5c1c1f6d28bcf078c" maintainer="Lev Lamberov"
 <define-tag description>бесконечный цикл</define-tag>
 <define-tag moreinfo>
 <p>Брайн Кэсуэл обнаружил, что неправильно отформатированный пакет SMB может

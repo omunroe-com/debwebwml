@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="844099c5d05f2d87eca00b17e02237cdd99dda28" maintainer="David Prévot"
 <define-tag description>Annonce de fin de vie d'Iceweasel dans oldstable</define-tag>
 <define-tag moreinfo>
 

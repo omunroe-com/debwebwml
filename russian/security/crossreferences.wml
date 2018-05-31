@@ -1,6 +1,6 @@
 #use wml::debian::template title="Перекрёстные ссылки, связанные с безопасностью" GEN_TIME="yes" NOHEADER="indeed"
 #use wml::debian::securityreferences
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="642ec8f30a9387cf157c220f2bdc34f844689aaf"
 
 <H1>Перекрёстные ссылки в предложениях Debian по безопасности</H1>
 <p><a href="https://security-tracker.debian.org/">Трекер безопасности

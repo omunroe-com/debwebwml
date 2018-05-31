@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6141672f054b76f9f2bd8e229a5d4fe68ec90796"
 <define-tag description>安全でないプログラム実行</define-tag>
 <define-tag moreinfo>
 <p>FTP サーバの wu-ftpd が実装している機能により、動的に構成した tar

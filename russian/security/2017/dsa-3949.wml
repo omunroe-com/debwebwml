@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ff2d8c1c566dbc4c27469e0b1da577427d69b1d9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ган Ган из Red Hat обнаружил, что augeas, инструмент для редактирования

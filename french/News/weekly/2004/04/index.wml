@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-01-27" SUMMARY="Portmap, FOSDEM, Exim, Publication, Résolutions générales, Hurd, Mac, Raid, Sondage, Navigateur, USB, KDE"
-#use wml::debian::translation-check translation="1.13" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="9935d5f9597eec3b7ced2887a37f2fff1a1cf70b" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 4e&nbsp;<em>DWN</em> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. Ognyan Kulev a

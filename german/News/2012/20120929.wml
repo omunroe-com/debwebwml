@@ -25,7 +25,7 @@
 
 <define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
 
-#use wml::debian::translation-check translation="1.4" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Erik Pfannenstein"
 
 <p>
 Das Debian-Projekt freut sich, die fünfte Aktualisierung seiner 

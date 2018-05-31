@@ -4,7 +4,7 @@
 
 <define-tag release_date>2012-02-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektet er glad for at kunne fortælle, at der i de næste måneder vil
 Bug Squashing Parties (<q><a href="https://wiki.debian.org/BSP">BSP</a></q>'er, 

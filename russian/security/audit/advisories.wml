@@ -1,6 +1,6 @@
 #use wml::debian::template title="Рекомендации аудита безопасности Debian"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.21" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0ad4d180b114f128c3363384351694a7bbe6a069" maintainer="Lev Lamberov"
 
 <p>Здесь вы можете видеть самые последние рекомендации, выпущенные в результате
 работы проекта по аудиту безопасности Debian.</p>

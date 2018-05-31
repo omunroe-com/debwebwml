@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.11" maintainer="Cyril Brulebois"
+#use wml::debian::translation-check translation="e4f447b798d7c736880a08773ad73bbf98465736" maintainer="Cyril Brulebois"
 # Original translation by Willy Picard"
 <define-tag abbr>vatech-if</define-tag>
 <define-tag year>1998</define-tag>

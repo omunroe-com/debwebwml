@@ -1,6 +1,6 @@
 #use wml::debian::template title="Alpha Port -- System Types" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
-#use wml::debian::translation-check translation="1.23"
+#use wml::debian::translation-check translation="efe2a380651d51ff9da2564cfbc4359842f9b975"
 
 <p>
 Den här listan kanske inte är komplett, så om du ser något som inte är med här,

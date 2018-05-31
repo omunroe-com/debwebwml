@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d507cd3a4c18992170ec74f24b200098c7f53da7" maintainer="Lev Lamberov"
 <define-tag description>ошибка проектирования</define-tag>
 <define-tag moreinfo>
 <p>Агент SNMP (snmp_agent.c) из net-snmp до версии 5.4.1 позволяет удалённым

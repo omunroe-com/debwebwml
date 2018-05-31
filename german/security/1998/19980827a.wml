@@ -10,6 +10,6 @@ angreifbare Skript wurde lediglich entfernt.</p>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19980827a.data'
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="eb22fddc523a7a9a4544a7c1ef144e415b8d2d73"
 # $Id$
 # Translator: Helge Kreutzmann, Helge.Kreutzmann@itp.uni-hannover.de, 2003-08-26

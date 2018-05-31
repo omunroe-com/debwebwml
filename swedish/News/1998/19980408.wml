@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian använder enbart fria versioner av X Window System</define-tag>
 <define-tag release_date>1998-04-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="72eb3583bf159710fceca5f40fc6b3b9a879d260"
 
 <p>Vi är bestörtade av beslutet nyligen av <q lang=en>Open Group</q>
 att inte släppa framtida versioner av X som fri programvara &ndash;

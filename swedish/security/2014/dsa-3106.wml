@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4998a1e51285f77f5a22ebada76311fd7b53cf69" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jose Duart från Googles säkerhetsgrupp upptäckte en brist rörande dubbel

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bcf42ed8d94df5e6dfe756075440c9df7b3779ea" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Denna uppdatering rättar inte en sårbarhet i själva GCC, utan tillhandahåller

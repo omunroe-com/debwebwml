@@ -2,7 +2,7 @@
 responsables Debian passe le cap des 100</define-tag>
 <define-tag release_date>2000-11-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="016101921e3277b0722c7063b21dfc5fbd1db807" translation_maintainer="Martin Quinson"
 
 <p>La semaine passée, le nombre de nouveaux admis au sein de Debian
 par le nouveau processus d'acceptation de nouveaux responsables a passé

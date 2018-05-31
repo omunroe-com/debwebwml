@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4030d1ca755421838b73c516cd299cdd4bb80d5a" mindelta="1"
 <define-tag description>informationsläckage</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Mediawiki, en wiki-motor, hade flera API-moduler som 

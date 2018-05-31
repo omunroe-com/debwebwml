@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="568a2d309717ae2d8c5b7031a877a641e41b98fb" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Исследователь из iDEFENSE обнаружил две проблемы в функциях обработки

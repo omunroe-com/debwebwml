@@ -1,6 +1,6 @@
 #use wml::debian::ddp title="Le dépôt Subversion du projet de documentation Debian"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.41" maintainer="David Prévot"
+#use wml::debian::translation-check translation="01b1789e9ebd40d1c24729fcfe79a6b1f4baf15b" maintainer="David Prévot"
 
 # Translator:
 # Mickael Simon, 2001-2003

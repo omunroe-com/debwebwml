@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f98d4020b6fc6e8defa7aa4a780c4cab5f339e0f" maintainer="Lev Lamberov"
 <define-tag description>конфликт интерпретаций</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что PHP, язык общего назначения для написания сценариев,

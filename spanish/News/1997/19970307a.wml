@@ -1,7 +1,7 @@
 <define-tag pagetitle>Cambio de Liderazgo en el Proyecto Debian</define-tag>
 <define-tag release_date>1997-03-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="598c30129dff8e065339ea3cd6e03d086b42e3d4"
 
 <ul>
 <li>Daniel Quinlan se convierte en nuestro Vicepresidente Senior. Toma

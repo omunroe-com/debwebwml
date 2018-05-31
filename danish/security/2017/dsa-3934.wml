@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c0eb2724a50391b6ee38e0568d7b4d8ee0235fb2" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Joern Schneeweisz opdagede at git, et distribuerede versionsstyringssystem, 

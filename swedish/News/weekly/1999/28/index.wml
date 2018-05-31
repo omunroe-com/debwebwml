@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-7-20" SUMMARY="Är Bruce tillbaka? DPkgV2-formgivning; servernyheter."
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <p>
 <b>Välkommen</b> till Debian Weekly News, ett nyhetsbrev för Debianutvecklare.

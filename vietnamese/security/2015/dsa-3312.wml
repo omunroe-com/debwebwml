@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="b946f4c835028a2dd8e163fd077881503a9560aa" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Nhiều lỗi tiêm SQL đã phát hiện thấy trong cacti, một

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c3ed32fdcdbe66d04f206e6a2447e0b1be9158fd"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>kcope さんが、wzdftpd FTP

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="3ac3a0d3e105576dfca6e652e597a904ac0407d6" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp a découvert un dépassement de tampon dans la gestion 

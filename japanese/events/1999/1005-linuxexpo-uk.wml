@@ -23,5 +23,5 @@ Philip Hands はいるはずです。
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="b97a4e3187970c17acf50163a146cd0b9113649a"
 #Related Links here (free form)

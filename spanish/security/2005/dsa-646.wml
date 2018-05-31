@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="d945b2184b39d6cefb87d9a6f27e1a722ce5a927" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Andrei Nigmatulin descubrió un desbordamiento de buffer en el módulo

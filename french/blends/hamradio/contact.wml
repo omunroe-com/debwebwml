@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Contact"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4" maintainer="Jean-Paul Guillonneau"
 
 <p>Pour toute discussion sur le radioamateurisme, le point de contact principal
 est l’équipe des responsables radioamateurs de Debian. L’équipe peut être

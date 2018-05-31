@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dae1645004c6610e44373a9443f892a4954e39fb" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Aleksandar Nikolic fra Cisco Talos opdagede en bufferoverløbssårbarhed i 

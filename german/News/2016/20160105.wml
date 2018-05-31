@@ -13,7 +13,7 @@ Murdock</define-tag>
 
 <define-tag release_date>2016-01-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer=""
+#use wml::debian::translation-check translation="4fb9b3337c05096dd72df1b58fd3e16fd6332ba3" maintainer=""
 
 # Translation: Holger Wansing <linux@wansing-online.de>, 2016.
 

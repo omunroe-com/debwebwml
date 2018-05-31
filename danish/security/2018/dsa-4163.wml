@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ff4d471d9fe8f1e94b997384dbf58528649e97b4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at en kapløbstilstand i beep (hvis opsat som setuid gennem 

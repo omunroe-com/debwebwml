@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ed8a278916070826c40d64dd1239b67f2281fa4c" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 <p>Мы обнаружили, что пакет fte, поставляемый в выпусках slink (заморожен)
 и potato (нестабильный выпуск) не перестаёт работать с правами суперпользователя после

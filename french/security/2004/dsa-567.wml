@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="2e2753b50f9da02576fe133a4bc17bac71ef387e" maintainer="DFS Task Force"
 <define-tag description>Dépassement sur le tas</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs problèmes ont été découverts dans libtiff, la bibliothèque

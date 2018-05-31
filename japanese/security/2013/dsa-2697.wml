@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a0acabec6cdd1a7a7acb0fd1372e3096cedbb808"
 <define-tag description>範囲外配列読み取り</define-tag>
 <define-tag moreinfo>
 <p>不正に詰めたブロック暗号により暗号化した TLS

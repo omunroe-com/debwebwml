@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5b17df7dade8cf09ad4a984568c6d34fbef8dccb" maintainer="Lev Lamberov"
 <define-tag abbr>spline-BSP</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>Debian BSP at spline, Berlin</define-tag>

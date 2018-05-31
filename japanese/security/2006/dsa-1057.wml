@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="5d3d9de4bced28f8cdfbebda9829844119110e85"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>複数のクロスサイトスクリプティング脆弱性が、LDAP

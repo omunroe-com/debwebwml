@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="585982f9421ea2daae30f47b9626f8bd88a37750" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Emanuele Rocca upptäckte att ppp, en demon som implementerar

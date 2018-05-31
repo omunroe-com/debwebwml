@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e37a01afc1a0ab4aa1472d070207873af2c024bb" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Simon McVittie upptäckte en serveröverskridande skriptsårbarhet i

@@ -1,5 +1,5 @@
 #use wml::debian::template title="別言語での Debian ウェブサイト" BARETITLE=true
-#use wml::debian::translation-check translation="1.92"
+#use wml::debian::translation-check translation="1ca12fe9834fe5c9cf51372a9682c92e7b333cc7"
 #use wml::debian::toc
 
 <protect pass=2>

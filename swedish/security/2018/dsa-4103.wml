@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="f32adc0e456359827bb348333e680a0f2a502894" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i webbläsaren chromium.</p>

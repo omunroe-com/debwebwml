@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1a8626fae1df15924d17633643edb17df0f236f0" maintainer="Lev Lamberov"
 <define-tag pagetitle>Начался первый официальный цикл тестирования GNU/Linux 2.2</define-tag>
 <define-tag release_date>2000-05-03</define-tag>
 #use wml::debian::news

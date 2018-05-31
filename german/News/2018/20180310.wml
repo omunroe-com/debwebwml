@@ -2,7 +2,7 @@
 <define-tag release_date>2018-03-10</define-tag>
 #use wml::debian::news
 # $Id:
-#use wml::debian::translation-check translation="1.1" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="56ada21a2a3033ecc0cf97b18d7d7b8c75417e6e" maintainer="Erik Pfannenstein"
 
 <define-tag release>9</define-tag>
 <define-tag codename>Stretch</define-tag>

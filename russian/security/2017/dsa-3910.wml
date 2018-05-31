@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e8b309c316a3a49c5d324a042d8fb9c62c8b19a4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Клеман Берто из Synaktiv обнаружил возможность подделки подписи в

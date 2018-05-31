@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6ffc5529746ceb8ad95a23310a6122201d4b8444"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Simon Kilvington さんが、特別に細工した PNG

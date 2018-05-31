@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="e0ae5f3ac08b47e6dfd51159f4118d6979f72c14" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;infamous41md&nbsp;» a découvert trois dépassements de tampon dans le

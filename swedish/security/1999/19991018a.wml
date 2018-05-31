@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="1f6c6417eb98a37e0f9efaa73c1145ee77d4e1fb"
 <define-tag description>Buffertspill i amd &ndash; uppdatering</define-tag>
 <define-tag moreinfo>Versionen av amd som medföljde Debian GNU/Linux 2.1
 är sårbar för en attack utifrån.

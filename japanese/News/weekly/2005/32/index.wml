@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-08-09" SUMMARY="リスク, GNUstep, DCC, MySQL, GNOME, サイエンス, XSF, ウィーン, Jens Schmalzing, BTS"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 32 号へようこそ。Andreas Barth さんが、etch

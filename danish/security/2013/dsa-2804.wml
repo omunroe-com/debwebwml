@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="8fdc8d284c746c69dda8274caf6e0a2f96b75265" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er opdaget i Drupal, et komplet system til 

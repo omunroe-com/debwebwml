@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="07f53e915b829ca3c842faf426e69f234def8382" maintainer="Thomas Vincent"
 <define-tag description>Contournement d'authentification</define-tag>
 <define-tag moreinfo>
 <p>John Fitzpatrick de MWR InfoSecurity a découvert une vulnérabilité de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e59364a2cc079bd2a9f629d316170c4c36a56b4d"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Genkin さんと Pipman さん、Tromer さんが、Elgamal 暗号化サブ鍵へのサイドチャネル攻撃

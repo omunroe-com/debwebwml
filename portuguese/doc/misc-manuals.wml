@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Manuais Variados do DDP"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/misc-manuals.defs"
-#use wml::debian::translation-check translation="1.20" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="b26aaa6d634d4d20a4f1b8123de41d5b96741ff2" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <document "História do Projeto Debian" "history">
 

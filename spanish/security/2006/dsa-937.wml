@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="4e9398858fe7df0c603e88eaf4a21ccf9c6a91ee" maintainer="Juan M. Garcia"
 <define-tag description>desbordamientos de buffer</define-tag>
 <define-tag moreinfo>
 <p>«infamous41md» y Chris Evans descubrieron varios desbordamientos de buffer con

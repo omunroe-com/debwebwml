@@ -5,7 +5,7 @@
 <define-tag pagetitle>Lançado o Debian 8 <q>Jessie</q></define-tag>
 <define-tag release_date>2015-04-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Marcelo Santana"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Marcelo Santana"
 
 <p>Após quase 24 meses de constante desenvolvimento, o projeto Debian tem
 o orgulho de apresentar a sua nova versão estável 8 (codinome <q>Jessie</q>)

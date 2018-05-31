@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c40d6bb1794605d91a9e3560c308158776a396a3" mindelta="1"
 <define-tag description>forskudt med en</define-tag>
 <define-tag moreinfo>
 <p>Jueri Aedla opdagede en forskudt med en-fejl i libxml2, hvilket kunne medføre 

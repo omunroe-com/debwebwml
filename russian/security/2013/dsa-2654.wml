@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="70788fbaf28de6b365aa8738f5f848738d2a1902" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Николас Грегори обнаружил, что libxslt, библиотека времени выполнения для обработки

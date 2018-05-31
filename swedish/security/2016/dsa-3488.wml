@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f98bba41554c15cbbf09fbbf27879642c2425344" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Aris Adamantiadis upptäckte att libssh, ett litet C-SSH-bibliotek,

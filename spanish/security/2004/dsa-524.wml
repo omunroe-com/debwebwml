@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="a00d68244e0bc3fd879d7e3ba6bcb1a40f23082d" maintainer="juanma"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p><email jaguar@felinemenace.org> descubrió una vulnerabilidad de

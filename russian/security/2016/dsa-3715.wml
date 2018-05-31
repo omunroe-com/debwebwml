@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b8ee77acd70375b27f7838c171cdbb5fdd74a044" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В moin, клоне WikiWiki на языке Python, было обнаружено несколько случаев

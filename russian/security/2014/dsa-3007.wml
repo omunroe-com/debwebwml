@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="710a7a719b77ce050c2c73980006d8ec7d19ebe5" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Cacti, веб-интерфейсе для систем мониторинга, были обнаружены

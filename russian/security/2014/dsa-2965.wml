@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6e7acdf44a52eb7ff8883dacd52f850f666eab77" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Мюррей Макаллистер обнаружил переполнение динамической памяти в инструменте

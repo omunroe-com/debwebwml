@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="073250af9779d48e3355f4ecd7b3b6701ae06b60" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>HD Moore de Rapid7 a découvert une attaque par lien symbolique dans Wget,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="eccde3d78a9d63d38d558f6c29a7f1edf3eb2b60" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Drupal, полнофункциональной инфраструктуре управления содержимым, было

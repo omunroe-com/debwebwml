@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian och år 2000" GEN_TIME="yes"
 #use wml::fmt::url
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="271a253dd99f0ef02252bf27c7df23a9254f7724"
 
 <p>
 Detta är den andra delen av listan över år 2000-anpassningen.

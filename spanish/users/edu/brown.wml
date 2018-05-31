@@ -4,7 +4,7 @@
 # Current as of September 05, 2015. 2015 WHO Audit
 # 2015 email: https://lists.debian.org/debian-www/2015/09/msg00038.html
 
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="d229c7cd52b91d56770e36bcd444d185a9d7306e"
 
 <define-tag pagetitle>Ciencias de la Computación, Universidad Brown, Providence, RI, EEUU</define-tag>
 

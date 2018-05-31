@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="5268204b6238b925e764d60124ff3251891f8475" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Johannes Greil, de SEC Consult, descubrió varias vulnerabilidades de guiones

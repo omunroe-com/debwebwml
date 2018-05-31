@@ -1,7 +1,7 @@
 <define-tag pagetitle>Annonce de la fin de vie du suivi à long terme de Debian 6.0</define-tag>
 <define-tag release_date>2016-02-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="f8d1443ec5293fdf40616c8eec82c95972fc6cbf" maintainer="Jean-Pierre Giraud"
 
 <p>L'équipe du <a href="https://wiki.debian.org/LTS/">suivi à long terme (LTS)</a> de Debian annonce par ce message
 que la prise en charge de Debian 6.0 (<q>Squeeze</q>) atteindra sa fin de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="63b5a004f25ebeae9d69ce9bff3025355c4e3991" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Thomas Walpuski informó de un desbordamiento de buffer en l2tpd,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2a633dd265f39b93db2349ff0e23f0ff72d8e86e" maintainer="Lev Lamberov"
 <define-tag description>уязвимость форматной строки</define-tag>
 <define-tag moreinfo>
 <p>Рональд Волджерс обнаружил, что компонент lppasswd из набора cups,

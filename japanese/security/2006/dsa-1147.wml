@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="297ed1a042fe033d31f4313e3446ff2788d27da3"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Ayman Hourieh さんにより、動的なウェブサイトプラットフォーム Drupal

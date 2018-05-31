@@ -1,6 +1,6 @@
 #use wml::debian::template title="自動監査の例"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="6097aaeb789f09a86133073acab93480df51405c"
 
 <p><a href="../tools">監査ツールのページ</a>で説明しているように、
 ソースコードの自動監査に使えるパッケージが Debian

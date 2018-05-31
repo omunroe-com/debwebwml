@@ -2,7 +2,7 @@
 #use wml::debian::recent_list
 #use wml::debian::blends::gis
 # $Id$
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ff9649c8aa2e1aa09d934c939de35d1476aabd4a" maintainer="Lev Lamberov"
 
 <span class="download"><a href="<stable-amd64-url/>">
 Загрузить Debian GIS <stable-version/><br/><em>(<q>живой</q> образ DVD для 64-битных систем)</em></a>

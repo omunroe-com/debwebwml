@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="231957aa99583e56176b504db5ff6a5ddc7502ec"
 <define-tag description>escalonamento de privilégios</define-tag>
 <define-tag moreinfo>
 <p>CAN-2003-0073: O pacote mysql contém um bug através do qual memória

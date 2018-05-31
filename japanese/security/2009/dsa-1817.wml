@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="38cf5b404abf81ddd8de41f360059bb554f83b9d"
 <define-tag description>スタックベースバッファオーバフロー</define-tag>
 <define-tag moreinfo>
 

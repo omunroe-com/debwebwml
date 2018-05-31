@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" maintainer="DFS Task Force"
 <define-tag description>Plusieurs failles de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Erik Sjölund a découvert plusieurs problèmes de sécurité dans

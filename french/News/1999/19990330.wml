@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian propose un environnement SGML intégré</define-tag>
 <define-tag release_date>1999-03-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Frédéric Bothamy"
 
 
 <P>La distribution Debian 2.1, récemment sortie, est dotée de paquets et

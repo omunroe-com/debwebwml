@@ -1,6 +1,6 @@
 #use wml::debian::template title="Distribution Archives"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.17" maintainer="Kanru Chen"
+#use wml::debian::translation-check translation="5cb4cf06ba2e64e8691e9a0f9229af8241765509" maintainer="Kanru Chen"
 
 # $Id$
 # Translator: Franklin <franklin@goodhorse.idv.tw>, 2002/11/24

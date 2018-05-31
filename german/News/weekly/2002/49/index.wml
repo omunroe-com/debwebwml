@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-12-17" SUMMARY="Projekt, Changelog, Glibc, PornView, SE Linux, Qualität, Downgrading, Katie, Jigdo, SPI, 3.0r1"  
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="96272d16c768fbc1a5ddea15fba2e55904ba8055"
 # $Id$
 
 <p>Willkommen zur 49. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

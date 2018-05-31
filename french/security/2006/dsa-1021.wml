@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="3b7bca6621925198c4f0902c0a6e40c296adcbd9" maintainer="Simon Paillard"
 <define-tag description>Exécution non sécurisée de programme</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler, du projet d'audit de sécurité de Debian, a découvert que

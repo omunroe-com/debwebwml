@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="a5c75317f556eef873742423188f6cd21a549e88" maintainer="Pierre Machard"
 <define-tag description>Traitement frauduleux de l'entrée</define-tag>
 <define-tag moreinfo>
 <p>Un problème a été découvert sur wwwoffle. Le mandataire web (<i>proxy</i>)

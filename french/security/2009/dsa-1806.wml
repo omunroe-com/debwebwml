@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="6b8fa05b90c1104dbc30fe1657e7149bbd2f3f0d" maintainer="Thomas Vincent"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Matt Murphy a découvert que cscope, un outil de navigation dans du code source, ne

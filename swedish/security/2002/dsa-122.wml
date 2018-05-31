@@ -41,4 +41,4 @@ Detta görs enklast genom att starta om systemet.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-122.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="957a5dc4200257b74a86dad78adcca3ba46ea859" mindelta="1"

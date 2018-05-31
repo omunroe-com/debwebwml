@@ -18,5 +18,5 @@ Version 2.6.0-0.1 und neuer behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-490.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1075876c98a5b60a2c733400d1dc62bee222e8a8"
 # $Id$

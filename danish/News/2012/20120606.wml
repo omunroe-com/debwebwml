@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian hilser mangfoldighed velkommen</define-tag>
 <define-tag release_date>2012-06-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektet er stolt over at kunne offentliggøre tilgængeligheden af 
 dets <a href="$(HOME)/intro/diversity">mangfoldighedserklæring</a>, som blev 

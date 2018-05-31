@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a7dfb027d06ba0e91610b7c291239c9cfdbb45c0" maintainer="Lev Lamberov"
 <define-tag description>состояние гонки</define-tag>
 <define-tag moreinfo>
 <p>Эрик Съёлунд обнаружил, что состояние гонки в инструменте stap, поставляемом

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2e2753b50f9da02576fe133a4bc17bac71ef387e"
 <define-tag description>переполнение кучи</define-tag>
 <define-tag moreinfo>
 <p>Обнаружено несколько проблем в libtiff, библиотеки обработки графических

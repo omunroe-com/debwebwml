@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b4ca2cc0f5adefa2a37e2e959040d5c3df556161"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Джорджи Гунински (Georgi Guninski) обнаружил две возможности

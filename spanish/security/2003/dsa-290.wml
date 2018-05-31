@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b0729cb4d784cb3f2895f682b67be6e030f369fa"
 <define-tag description>conversión char-to-int</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski descubrió un desbordamiento de búfer, disparado por una

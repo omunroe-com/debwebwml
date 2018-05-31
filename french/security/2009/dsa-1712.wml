@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="ba24834eb3910e05e508f4d6bc7798581617627e" maintainer="Jean-Edouard Babin"
 <define-tag description>Débordement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert qu'un débordement d'entier dans l'analyseur du paquet

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="2be335f2516da8f084f4ae82013b9a05ef098f05" maintainer="juanma"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias condiciones de denegación de servicio

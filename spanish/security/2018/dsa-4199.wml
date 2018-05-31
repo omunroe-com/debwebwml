@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="900dea89ae28982ef8d935583edb4f306b99a009"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han encontrado varios problemas de seguridad en el navegador web Mozilla

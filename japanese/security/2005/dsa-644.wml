@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="328226469086dd2b533ff74349e6dab4650e88ee"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Danny Lungstrom さんは、壁紙の画像を変更するツール chbg に脆弱性を発見しました。

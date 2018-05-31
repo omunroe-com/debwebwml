@@ -1,6 +1,6 @@
 <define-tag pagetitle>Co-manutentore per le pagine web relative a Debian Med</define-tag>
 <define-tag release_date>2004-04-29</define-tag>
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 #use wml::debian::news
 
 <h2>Co-manutentore per le pagine web relative a Debian Med</h2>

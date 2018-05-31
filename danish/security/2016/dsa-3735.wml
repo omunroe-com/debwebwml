@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7e838678831995700b456a68dbf4c4c338fb035b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans opdagede at ukorrekt emulering af lyd-co-processoren SPC700 i et 

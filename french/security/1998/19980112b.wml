@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>
 </define-tag>
 <define-tag description>Sudo autorise l'exécution de certaines commandes <i>root</i> par les utilisateurs</define-tag>

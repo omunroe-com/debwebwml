@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b291f295ba1a1eed66c52b99f674230386c6ed82"
 <define-tag description>誤ったメモリの処理</define-tag>
 <define-tag moreinfo>
 

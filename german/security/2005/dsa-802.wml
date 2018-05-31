@@ -18,5 +18,5 @@ cvsbug nicht mehr zur Verfügung.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-802.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ee14aef76a50691665fa23e346cf2b449ca4b69a" mindelta="1"
 # $Id$

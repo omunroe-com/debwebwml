@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2df13a8821c107f651b743e3c0d2b08d994eef36"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>ウェブアプリケーションの開発に広く利用されている多目的スクリプティング言語

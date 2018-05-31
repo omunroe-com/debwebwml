@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="345ae5829873b136fcf7fa26bf52ec7b6b9904eb" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Kevin Kofler descubrió varios desbordamientos del búfer de la pila en la

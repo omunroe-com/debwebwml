@@ -18,7 +18,7 @@ Guaíba-universitetet og lokale gymnasier inviteret af universitetet.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="48b7c01a50ec707d1c20ba1d757d589118a4fda7"
 #Related Links here (free form)
 <ul>
     <li><a href="http://softwarelivre.org/debian-rs/palestra-e-debate-o-que-e-o-projeto-debian-aos-alunos-da-ulbra-guaiba">\

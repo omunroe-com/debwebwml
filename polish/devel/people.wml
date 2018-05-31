@@ -1,6 +1,6 @@
 #use wml::debian::template title="Uczestnicy Projektu" GEN_TIME="yes"
 ## This page is redirected to by qa.d.o/developer.php?all=1
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="5ea798c1fef3349c3312f06303d2a16162b7cd6e"
 
 <P>Klucze GPG/PGP opiekunów pakietów można pobrać 
 <A HREF="http://ftp.debian.org/debian/pool/main/d/debian-keyring/">stąd</A>.

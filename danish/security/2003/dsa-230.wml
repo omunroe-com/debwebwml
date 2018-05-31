@@ -41,4 +41,4 @@ Bugzilla-pakke.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-230.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="307b4102df78ee50d5fe2062ecd3e5f5e086e52e"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7ede51affe90b6c6bf838f48246e324d57c17c46"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>NISCC が、データ保管に SQL データベースを利用した DNS

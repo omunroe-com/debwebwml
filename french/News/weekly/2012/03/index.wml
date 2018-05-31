@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-06" SUMMARY="Publication de la mise à jour de Debian 6.0.4, brèves de l'équipe en charge de la publication, brèves des responsables de piuparts, compte-rendu de la rencontre de Debian Med"
-#use wml::debian::translation-check translation="1.11" maintainer="David Prévot"
+#use wml::debian::translation-check translation="2697fab4800f65319b173522ff23d6777344f3a1" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

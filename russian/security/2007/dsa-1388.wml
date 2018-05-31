@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a17db4488db04b96d1ea4c04982f6cde6872a09a" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Заплата, использованная для исправления переполнения буфера в сервере DHCP в DSA-1388-1,

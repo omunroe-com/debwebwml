@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d02ac3f22e1a64f9294473524432f989b86c9166" maintainer="Lev Lamberov"
 <define-tag moreinfo>Некоторые версии оконной системы X создают
 файл <kbd>/tmp/.X11-unix</kbd> так, что он открыт для чтения любому пользователю, даже если это символьная
 ссылка

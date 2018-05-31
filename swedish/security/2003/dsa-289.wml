@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8bf3531048a034670269cb787d10b871b1a16925" mindelta="1"
 <define-tag description>felaktig minnesstorleksändring</define-tag>
 <define-tag moreinfo>
 <p>

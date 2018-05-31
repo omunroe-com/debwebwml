@@ -1,5 +1,5 @@
 #use wml::debian::template title="ユーザ文書"
-#use wml::debian::translation-check translation="1.111"
+#use wml::debian::translation-check translation="755893e6e0cd2bdf43a98ad6c7d58a4d54b496a6"
 
 <p>いかなるオペレーティングシステムにおいても、文書、つまりプログラムの
 動きや使いかたを記述した技術的なマニュアルは重要な位置を占めています。

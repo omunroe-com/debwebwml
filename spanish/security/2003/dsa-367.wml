@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7d317aab879681eb36142d88f5909fe4b6e55566"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto otro desbordamiento de buffer en xtokkaetama,

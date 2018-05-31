@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e97d154ef8d535650e8b0e8ff8b0ade5410419c3" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах и коде для грамматического разбора WCP, pcapng и TNEF были обнаружены многочисленные

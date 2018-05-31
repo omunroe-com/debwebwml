@@ -11,7 +11,7 @@
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="1.1" maintainer="Emmanuel Galatoulas/Μάνος Γαλάτουλας (Debian Greek Localisation Team)"
+#use wml::debian::translation-check translation="93cc82e7798e03929c9d55da9c59c99d17e856d7" maintainer="Emmanuel Galatoulas/Μάνος Γαλάτουλας (Debian Greek Localisation Team)"
 
 <p>Μετά από σχεδόν 24 μήνες συνεχούς ανάπτυξης, το Σχέδιο Debian παρουσιάζει με περηφάνεια
 την νέα σταθερή έκδοση 8 (με κωδική ονομασία <q>Jessie</q>),

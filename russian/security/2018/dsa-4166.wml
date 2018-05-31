@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="26b91be191b0fbf379037538277fdfe179dfe44d" mindelta="1"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В OpenJDK, реализации платформы Oracle Java, было обнаружено

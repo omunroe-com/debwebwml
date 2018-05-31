@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="885b50d6d6d40534eb1234ed6e64f7aaad414171" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах/парсерах для Pcapng, NBAP, UMTS FP, DCOM, AllJoyn, T.38,

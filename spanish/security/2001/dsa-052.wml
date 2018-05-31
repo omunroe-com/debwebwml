@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="71fb0da6aba283067a58286292fd34f79c72dcd9"
 <define-tag description>liberación de privilegios rota</define-tag>
 <define-tag moreinfo>
 Daniel Kobras ha descubierto la solución a un problema de sendfiled que

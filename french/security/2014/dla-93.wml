@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="183f34493020548dae4614d014b35e7779d02799" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Daniel Genkin, Itamar Pipman et Eran Tromer ont découvert que les sous-clefs

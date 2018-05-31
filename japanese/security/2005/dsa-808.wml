@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bafd3e37a371188d1e0971bceff1e655503945ec"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>大岩寛さんと高木浩光さんが新世代ウェブログ tdiary

@@ -1,6 +1,6 @@
 # From: André Bergei <andre@startsiden.no>
 # Ping: Tue, 15 Nov 2011 12:09:02 +0100 <1321355342.362.20.camel@twintux>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="46436f34130a6e842f16216bbe89b4a936e6a2cb" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Технический отдел, ABC Startsiden AS, Осло, Норвегия</define-tag>
 <define-tag webpage>http://www.startsiden.no/</define-tag>

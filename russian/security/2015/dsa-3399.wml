@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4f72e392d6cc9431b78f0439713813f11e49f87b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В libpng, библиотеке для поддержки формата PNG, было обнаружено несколько уязвимостей.

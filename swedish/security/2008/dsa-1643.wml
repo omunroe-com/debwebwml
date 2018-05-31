@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3adcbf799534c4e3491fd453a8e6dccb3a48325d" mindelta="1"
 <define-tag description>osäker hantering av temporära filer</define-tag>
 <define-tag moreinfo>
 <p>

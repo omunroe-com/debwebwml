@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4fe7a42129a1a0c9aaf54478bd806788188ea89f" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Hanno Boeck upptäckte att felaktig tolkning av Limit-direktiv i

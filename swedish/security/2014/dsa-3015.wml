@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3c38f14e389fee175d891dbf847f4ed0f3480959" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ett heap-baserat buffertspill har upptäckts i sättet som Lua, ett

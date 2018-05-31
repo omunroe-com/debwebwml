@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-03-04" SUMMARY="Debian 6.0.7 udgivet, der er brug for projekter og mentorer til GSoC 2013, fremgangen med Wheezy-udgaven, arm64-image"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Id$
 # $Rev: 4710 $

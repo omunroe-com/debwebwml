@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="70788fbaf28de6b365aa8738f5f848738d2a1902" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Nicolas Gregoire opdagede at libxslt, et XSLT-processing runtime-bibliotek, 

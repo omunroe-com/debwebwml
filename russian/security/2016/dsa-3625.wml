@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b2c14ebf52604f87699d19381e989a0df1706c12" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Squid, кеширующем прокси, было обнаружено несколько уязвимостей.</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3ac3a0d3e105576dfca6e652e597a904ac0407d6"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descubrió un desbordamiento de buffer en la gestión de la

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c0ef80d0f106e2f9c7377aadc204157e0d073e6e" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Mateusz Jurczyk a découvert plusieurs vulnérabilités dans Freetype.

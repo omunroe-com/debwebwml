@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="3872ed130c684a6446cccc8c8d0d2de263a3777c" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon et exposition de fichiers et de répertoires</define-tag>
 <define-tag moreinfo>
 <p>Jens Steube a rapporté deux failles de sécurité dans <i>webfs</i>, un 

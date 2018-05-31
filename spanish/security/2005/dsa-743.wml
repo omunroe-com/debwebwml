@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="a2f24c0aab09dfa6ea6cdeee7f5806e1c7865a7c" maintainer="Juan M. Garcia"
 <define-tag description>desbordamientos de buffer, desbordamientos de enteros</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varios problemas en ht, un visor, editor y

@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/lenny/release.data"
-#use wml::debian::translation-check translation="1.2" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714" maintainer="Borys Yanovych"
 
 <if-stable-release release="etch">
 <p>Це <strong>чорновий варіант</strong> нотаток до випуску Debian

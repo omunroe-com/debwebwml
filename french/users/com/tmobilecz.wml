@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.t-mobile.cz/web/cz/residential</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Steve Petruzzello"
+#use wml::debian::translation-check translation="23237e3ec7c7dae713dfa77054bfca05c91aa0b4" maintainer="Steve Petruzzello"
 
 <p>
 T-Mobile R&eacute;publique tch&egrave;que a. s. (ci-après T-Mobile)

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="db5ac4d1c42493930fdb30d7b97a667c3b4e73dd" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Два использования указателей после освобождения памяти было обнаружено в DBD::mysql, DBI-драйвере

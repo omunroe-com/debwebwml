@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="92e9ed888e99577317aae1e23f3391110151cdb1" maintainer="David Prévot"
 <define-tag description>Débordement d'entier</define-tag>
 <define-tag moreinfo>
 <p>

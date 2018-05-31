@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914"
 <define-tag description>memoria liberada dos veces</define-tag>
 <define-tag moreinfo>
 <p>Los autores de tinyproxy, un proxy HTTP ligero, descubrieron un error en

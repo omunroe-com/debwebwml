@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f31630edd45345904c7715182fff5a30b84f2490" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Жан-Пие Мэнс обнаружил, что работа DNS-сервера BIND может быть аварийно завершена при

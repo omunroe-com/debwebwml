@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b74c9322e47cd1fbfb667e68d0f96547618d659d" mindelta="1"
 <define-tag description>ukorrekt delegering af klient-brugeroplysninger</define-tag>
 <define-tag moreinfo>
 <p>Richard Silverman opdagede, at når der blev foretaget GSSAPI-autentifikation, 

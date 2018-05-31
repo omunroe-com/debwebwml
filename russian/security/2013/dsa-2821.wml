@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9ca93e12c89492dcf8444ce75097035c265ab7bd" maintainer="Lev Lamberov"
 <define-tag description>атака по сторонним каналам</define-tag>
 <define-tag moreinfo>
 <p>Генкин, Шамир и Тромер обнаружили, что материал ключа RSA может быть

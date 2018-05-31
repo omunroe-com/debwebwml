@@ -1,7 +1,7 @@
 <define-tag pagetitle>Änderungen für Squeeze am Debian-Installer</define-tag>
 <define-tag release_date>2010-01-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 # Translator: Helge Kreutzmann <debian@helgefjell.de>, 2010-04-04
 
 <p>

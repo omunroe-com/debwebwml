@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="74b06cbe89e6b23a113e5055178fed475dc855b2"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>現在の CVS メンテナである Derek Price さんが、人気のあるバージョン管理システム

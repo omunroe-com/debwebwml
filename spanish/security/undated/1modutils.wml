@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8560a19ebc97007b93ee5c1a15cd299b82810b23"
 <define-tag moreinfo>
 <P>Nota:<BR> No se recomienda el uso de request-route. El paquete diald
 proporciona la misma funcionalidad de una forma mucho mejor. En un núcleo

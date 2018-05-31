@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8831a6ef73e2ab78e0b8524ca931ddb9b98c501e" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Aviram Jenik et Damyan Ivanov ont découvert un dépassement de tampon dans

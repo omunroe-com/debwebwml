@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="c2461915f178beb685dd131e7cca03cf36174211" maintainer="Thomas Vincent"
 <define-tag description>Injection SQL</define-tag>
 <define-tag moreinfo>
 

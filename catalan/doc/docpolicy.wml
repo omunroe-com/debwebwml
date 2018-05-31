@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="DDP - Política de documentació"
-#use wml::debian::translation-check translation="1.13" maintainer="Jordi Mallach"
+#use wml::debian::translation-check translation="ce282e0a297485989542fa7afbff4df335e388bd" maintainer="Jordi Mallach"
 
 <p>
 Aquest manual està prou desactualitzat i existeix un esforç per a arreglar-ho

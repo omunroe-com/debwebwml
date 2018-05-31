@@ -1,6 +1,6 @@
 #use wml::debian::template title="Portovi"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.79"
+#use wml::debian::translation-check translation="e8c64d32c3f416df607f5a56f1f743d7f91b488d"
 
 <ul class="toc">
  <li><a href="#intro">Uvod</a></li>

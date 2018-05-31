@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d0d009e5396066efaf4ba889c111b0ab849a22eb" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Davfs2, клиент файловой системы для WebDAV, небезопасно вызывает функцию system()

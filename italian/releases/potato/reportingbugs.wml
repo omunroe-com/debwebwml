@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 2.2 -- Riportare i problemi" BARETITLE=true
-#use wml::debian::translation-check translation="1.2" maintainer="Daniele Cortesi"
+#use wml::debian::translation-check translation="ad4e7dbff975f92d28a640c88f8742a0b9ede983" maintainer="Daniele Cortesi"
 
 <p>Se avete un problema con il sistema di installazione, per favore segnala un
 bug per il pacchetto<tt>boot-floppies</tt>. Le informazioni che

@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/woody/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
 # $Id$
-#use wml::debian::translation-check translation="1.32"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714"
 
 <h2><a name="general">Informação Geral</a></h2>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fceea15f1be0b3d68cfd911283a211b7867d087c"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>MWR Labs の John Fitzpatrick さんが torque、PBS

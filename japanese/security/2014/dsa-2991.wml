@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3fd504b0834c3960a38252e5d1fced02bcf62d7d"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Martin Holst Swende さんが、ウェブアプリケーションのセキュリティを強化する目的の

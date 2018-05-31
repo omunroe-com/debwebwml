@@ -1,6 +1,6 @@
 #use wml::debian::template title="ЧаВО по аудиту безопасности Debian"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.31" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Lev Lamberov"
 
 <p>Эта страница содержит ответы на некоторые общие вопросы,
 которые могут возникнуть у посетителей, которые впервые слышат о проекте.</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0064ff27bc544ede8da661ee0366156fb637d0de"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en Samba, un servidor de ficheros,

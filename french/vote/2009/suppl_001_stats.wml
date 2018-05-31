@@ -1,5 +1,5 @@
 #use wml::debian::template title="Élection du responsable du projet Debian 2009" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="4e0eaf11beeef44ed693930bfa3286dde2b2768f" maintainer="Nicolas Bertolissio"
 
 #include "vote_001_index.src"

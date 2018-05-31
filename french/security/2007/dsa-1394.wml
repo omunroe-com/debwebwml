@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="a06f7133cae5f65b6dd3ee639521950ad2b31c6d" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Contournement d'authentification</define-tag>
 <define-tag moreinfo>

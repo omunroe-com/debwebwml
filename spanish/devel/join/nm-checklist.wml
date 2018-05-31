@@ -1,6 +1,6 @@
 #use wml::debian::template title="Lista de tareas de la persona aspirante"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.27" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="517d7a4f999561b8f28e207214a40990fdc3da49" maintainer="Laura Arjona Reina"
 
 <p>La información contenida en esta página, aunque pública, es
 principalmente de interés para futuros Desarrolladores de Debian.</p>

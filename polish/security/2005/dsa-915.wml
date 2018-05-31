@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d3946a3c26478aebb6f7c871681bb7a25221fcc0"
 <define-tag description>przepełnienie buforu</define-tag>
 <define-tag moreinfo>
 <p>Pełne przepełnienie buforu zostało odkryte w helix-player,

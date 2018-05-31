@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="2442ddcb90770a0bf1527dc6daf5930ff226c3b6" maintainer="juanma"
 <define-tag description>contraseña predefinida</define-tag>
 <define-tag moreinfo>
 <p>Hugo Espuny descubrió un problema en sendmail, un programa

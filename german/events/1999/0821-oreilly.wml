@@ -31,6 +31,6 @@ John Dockery<br>
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="92e2dd8f5fe9a361b0753f1de627f06cee1f4569"
 # Translator: Noèl Köthe, noel@koethe.net, 2001-09-13
 # $Id$

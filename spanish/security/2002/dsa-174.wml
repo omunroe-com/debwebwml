@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b20114ac24612d4491ea4981de2ccff9c3f95d90"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Nathan Wallwork <a href="http://linux-ha.org/security/sec01.txt">\

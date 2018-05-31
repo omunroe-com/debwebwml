@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 5.0 &mdash; Come segnalare problemi" BARETITLE=true
-#use wml::debian::translation-check translation="1.3" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a" maintainer="Luca Monducci"
 
 <h2><a name="report-release">Problemi nelle Note di rilascio</a></h2>
 

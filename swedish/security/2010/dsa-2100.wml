@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b3e5911074dcfdf607f971b90f268a21aa04758d"
 <define-tag description>dubbelt frisläppande</define-tag>
 <define-tag moreinfo>
 <p>George Guninski upptäckte ett dubbelt frisläppande i ECDH-koden i kryptobiblioteket OpenSSL,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Sebul"
+#use wml::debian::translation-check translation="621895a52e27b66decc53c03824a26d9189cdbad" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>모질라 파이어폭스 웹 브라우저에서 여러 보안 이슈가 발견되었습니다:

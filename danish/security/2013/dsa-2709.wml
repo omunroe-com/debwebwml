@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b860b4e43a35951b1ff10620a7226dce78ec28a3" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder blev opdaget i dissektorerne til CAPWAP, GMR-1 BCCH, PPP, 

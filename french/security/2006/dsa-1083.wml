@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="a9f35abf9e0700ad8bf451283d93138dea156a76" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Mehdi Oudad et Kevin Fernandez ont découvert un dépassement de tampon dans

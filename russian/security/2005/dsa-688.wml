@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="88b45c37ca81e6a2fd893a9db4f87924c18c229a" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Разработчики основной ветки разработки обнаружили несколько проблем в squid, кэше

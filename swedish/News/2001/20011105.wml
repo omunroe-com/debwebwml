@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 2.2r4 släppt</define-tag>
 <define-tag release_date>2001-11-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <define-tag dsa>
     <tr><td align="center"><a href="$(HOME)/security/2001/dsa-%0">DSA %0</a></td>      <td align="center">%1</td></tr>

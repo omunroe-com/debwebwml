@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="49a7fdf4f6cd7a3e200a03ef2d4ca7346171037c" maintainer="Lev Lamberov"
 <define-tag description>удалённый отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Мы получили сообщения о том, что in.uucpd, агент аутентификации из пакета

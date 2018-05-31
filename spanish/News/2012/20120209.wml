@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Norman Garcia Aguilar"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Norman Garcia Aguilar"
 <define-tag pagetitle>Soporte de seguridad para Debian 5.0 finalizado</define-tag>
 <define-tag release_date>2012-02-09</define-tag>
 #use wml::debian::news

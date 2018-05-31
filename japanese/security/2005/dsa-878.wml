@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8346659bed3644545fd92d72dc98eaf76a9b900f"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>画像変換ツール群 netpbm パッケージの pnmtopng

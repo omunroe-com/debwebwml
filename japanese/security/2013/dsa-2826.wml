@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9a22cd8ebe1c7f6405d75595e6e2313ed27a1e47"
 <define-tag description>リモートからの ssh サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Helmut Grohne さんが denyhosts、SSH

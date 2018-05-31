@@ -16,4 +16,4 @@ version 1.5.dfsg+1.5.0.3-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1055.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="9220d14279d18808f80f20c7c46fa1e56b147033" mindelta="1"

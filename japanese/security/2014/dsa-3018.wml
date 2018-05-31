@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="81650afab1160f3469e0325fde8dc344758d74ed"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ問題が Iceweasel、Debian 版の

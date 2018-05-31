@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="b683fd461d031035624a738a969d37fb4d260052" maintainer="Giuseppe Sacco"
 <define-tag description>esecuzione arbitraria di programmi</define-tag>
 <define-tag moreinfo>
 <p>Gli sviluppatori di Gaim, un cliente di messaggi instantenei che unisce

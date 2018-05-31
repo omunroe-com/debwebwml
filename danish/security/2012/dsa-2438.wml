@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="afcf88224800ae982dce112c4ea1348a349fec4a" mindelta="1"
 <define-tag description>programmeringsfejl</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at Raptor, et bibliotek til fortolkning og serialisering af 

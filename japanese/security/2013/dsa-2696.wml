@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="fc8c9b419d532b5615b364c03c1d87ad72fb0066"
 <define-tag description>特権の昇格</define-tag>
 <define-tag moreinfo>
 <p>Open Ticket Request System に脆弱性が発見されました。

@@ -1,6 +1,6 @@
 # From: Rav Rafe <ravaume@gmail.com>
 # Audit: Current as of 05/20/2014
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3325e0fe40c0389ce0e899581c664ab1c377c4b6"
 
 <define-tag pagetitle>Wyniki Lotto Web Page, Poznan, Polen</define-tag>
 <define-tag webpage>http://www.wynikilotto.net.pl</define-tag>

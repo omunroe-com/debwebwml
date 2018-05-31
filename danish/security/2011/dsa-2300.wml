@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="4deee97a3fb1766eeeba3bf14e3787bd6cc8dc27" mindelta="1"
 <define-tag description>kompromitteret certifikatmyndighed</define-tag>
 <define-tag moreinfo>
 <p>Et uautoriseret SSL-certifikat er opdaget som værende i brug, udgivet af

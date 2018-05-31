@@ -1,5 +1,5 @@
 #use wml::debian::template title="Programme de Matthew Garrett" BARETITLE="true" NOHEADER="true"
-#use wml::debian::translation-check translation="1.4" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="e74c3fb0292e5eb9c4ffb3b534f6feaac88bf71b" maintainer="Nicolas Bertolissio"
 #include "$(ENGLISHDIR)/vote/style.inc"
 
 <h1 class="title">Programme de Matthew Garrett</h1>

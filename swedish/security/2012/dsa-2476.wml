@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="f24ae0ddbbde88ea314a7741f2bd85228c35d7fc" mindelta="1"
 <define-tag description>formatsträngssårbarhet</define-tag>
 <define-tag moreinfo>
 <p>intrigeri upptäckte ett formatsträngsfel i pidgin-otr, en 

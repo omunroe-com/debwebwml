@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="5e5cde5f1d7897295b54d526fe07c41028cc4af2" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Tibor Jager, Jörg Schwenk et Juraj Somorovsky, du Horst Görtz Institute

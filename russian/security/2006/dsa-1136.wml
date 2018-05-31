@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2dea119ada2e100c12905e5917ab1c7791558f35" maintainer="Lev Lamberov"
 <define-tag description>неправильная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p><q>infamous41md</q> и Крис Эванс обнаружили несколько переполнений динамической

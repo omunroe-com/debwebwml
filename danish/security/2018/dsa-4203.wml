@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="283093054b4ed3147341b92bd0926170328360c0" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Hans Jerry Illikainen opdagede en typekonverteringssårbarhed i MP4-demuxer'en 

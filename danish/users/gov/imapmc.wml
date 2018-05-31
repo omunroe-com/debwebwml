@@ -4,7 +4,7 @@
 <define-tag pagetitle>Informática de Municípios Associados - IMA, Governo Municipal, Campinas/SP, Brasilien</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="41f335e550ee81c2e258a0fad9091dc934c6280a"
 
 <p>
     Vi bruger Debian på alle Linux-servere (der er også servere med Solaris og 

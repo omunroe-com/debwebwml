@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-01" SUMMARY="リリース, クラスタ, LinuxWorld, Hurd, パッケージング, AMD64"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 9 号へようこそ。Harald Welte さんが、Linux

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="4d75731dd01cdd9b2bd21c48a1cd7e52ffc1bd4b" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har hittats i FFmpeg, en multimediaspelare, -server och 

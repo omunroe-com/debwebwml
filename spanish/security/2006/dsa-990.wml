@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="3bffea2dd8c3d1696264925f4857d667f1c8333b" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto una condición de denegación de servicio en bluez-hcidump,

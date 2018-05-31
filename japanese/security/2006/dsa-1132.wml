@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a7f733e7d3b425ed80d6c0ba6d72c3f18c85fe8c"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Mark Dowd さんにより、汎用高性能 HTTP サーバ Apache の mod_rewrite

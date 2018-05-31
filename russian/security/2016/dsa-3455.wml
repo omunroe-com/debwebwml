@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a6e0ac6e9ab858d820943bf1d42eb71dc030a6de" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Айзак Букрис обнаружил, что cURL, библиотека передачи URL, повторно использует

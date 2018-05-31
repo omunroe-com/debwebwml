@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.iarc.uaf.edu/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="52f326d00f26ab66535b44017811761ba0accebc"
 
 <p>
  Debian används i vår organisation som vår huvudvariant av Unix, och är

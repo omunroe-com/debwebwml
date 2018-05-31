@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="72763ee080a0d25bc2375ea0bf00dd06af7e4826" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В X-сервере X.org были обнаружены две проблемы безопасности, которые

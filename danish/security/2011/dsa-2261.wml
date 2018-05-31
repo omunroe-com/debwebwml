@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="957ba648525828b505241cd8cfc54f64eca0c91c" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Joernchen fra Phenoelit opdagede flere sårbarheder i Redmine, en 

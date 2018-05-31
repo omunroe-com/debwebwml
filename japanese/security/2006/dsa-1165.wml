@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fa773aff79020fe9a333937f6da3d92ec2341edb"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Lionel Elie Mamane さんにより、CAPI 2.0 デバイスを用いて Fax

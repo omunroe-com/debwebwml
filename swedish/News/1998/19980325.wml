@@ -1,7 +1,7 @@
 <define-tag pagetitle>Kodfrysning (och rykten)</define-tag>
 <define-tag release_date>1998-03-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="a553d10d287ae4c6edfc7a80671f7572361d798b"
 
 <p>Följande är ett inlägg från Debians projektledare, Ian Jackson:
 <blockquote>

@@ -25,7 +25,7 @@ gratis til rådighed af organisatorerne.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1af71b43d235b010ef90dfffb6f059a0c1c66c0b"
 #Related Links here (free form)
 <ul>
   <li><a href="0420-linuxuserexpo-report">Rapport</a></li>

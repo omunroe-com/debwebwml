@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3ac3a0d3e105576dfca6e652e597a904ac0407d6"
 <define-tag description>przepełnienie bufora</define-tag>
 <define-tag moreinfo>
 <p>Steve Kempi odkrył błąd przepełnienia bufora w linii poleceń 

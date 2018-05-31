@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-01-18" SUMMARY="DebConf4, dpkg, Website, Packaging, Services, Licenses, LiveCD"
-#use wml::debian::translation-check translation="1.14" maintainer="Ondrej Cecak"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Ondrej Cecak"
 
 <p>Vítejte u&nbsp;letošního 3. vydání DWN, týdenního zpravodaje pro komunitu
 okolo Debianu. Roger So poslal <a

@@ -31,4 +31,4 @@ imlib1-pakken.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-618.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="c2434c576c2729acf0ef2c551e7efd392fa6ad5f" mindelta="1"

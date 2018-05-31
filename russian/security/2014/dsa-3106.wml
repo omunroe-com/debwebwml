@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4998a1e51285f77f5a22ebada76311fd7b53cf69" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Хосе Дуарт из Google Security Team обнаружил уязвимость с двойным освобождением памяти

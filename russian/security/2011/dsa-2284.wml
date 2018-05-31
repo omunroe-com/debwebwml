@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d537d10d79893435e716586f7d28ca12605e0551" maintainer="Lev Lamberov"
 <define-tag description>ошибка реализации</define-tag>
 <define-tag moreinfo>
 <p>Юрай Соморовски, Андреас Майер, Майко Йенсен, Флориан Колар, Марко

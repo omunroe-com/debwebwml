@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b9ce84df0080a6c1d0bab1819d6e3b94bfd03225"
 <define-tag description>安全でないファイルの作成</define-tag>
 <define-tag moreinfo>
 <p>Sven Dreyer さんにより、KDE 環境での IP 電話 (VoIP) クライアント Kphone

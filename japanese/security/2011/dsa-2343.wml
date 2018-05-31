@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0da5d1f8eb5ae91d9a97bed2b48399c302ea4d51"
 <define-tag description>認証局信頼の無効化</define-tag>
 <define-tag moreinfo>
 

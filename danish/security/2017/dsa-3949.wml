@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ff2d8c1c566dbc4c27469e0b1da577427d69b1d9" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Han Han fra Red Hat opdagede at augeas, et værktøj til opsætningsredigering, 

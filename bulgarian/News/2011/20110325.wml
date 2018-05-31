@@ -1,7 +1,7 @@
 <define-tag pagetitle>Конференцията на Дебиан през 2012г. — в Никарагуа</define-tag>
 <define-tag release_date>2011-03-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>На 22-ри март 2011г. екипът за координиране на годишната конференция на
 Дебиан реши, че през 2012г. събитието ще се проведе в Манагуа, Никарагуа. Това

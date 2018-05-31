@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="8dba7ef8c7a857e37f21ea9355d7c02d91438d91" maintainer="Mohammed Adnène Trojette"
 <define-tag pagetitle>Le projet Debian reçoit des financements</define-tag>
 <define-tag release_date>2005-08-13</define-tag>
 #use wml::debian::news

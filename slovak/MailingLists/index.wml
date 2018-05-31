@@ -1,6 +1,6 @@
 #use wml::debian::template title="Konferencie elektronickej pošty"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.55" maintainer="Matej Kovac"
+#use wml::debian::translation-check translation="654ca06b8cee6f37e6c5fc815a53265feeddd14a" maintainer="Matej Kovac"
 <toc-display/>
 
 <toc-add-entry name="intro">Úvod</toc-add-entry>

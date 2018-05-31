@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Reconnix"
-#use wml::debian::translation-check translation="1.1" maintainer="skizzhg"
+#use wml::debian::translation-check translation="bbe1593a40f8f6a33fe33a7de17438a0815330ec" maintainer="skizzhg"
 
 # Translators: please check the whole translation for consistency with
 # English, company "ForLinux" was renamed into "Reconnix".

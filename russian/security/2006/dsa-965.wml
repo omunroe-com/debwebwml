@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8cc542a92d926fbf4909b359779e02b0ac7c704a" maintainer="Lev Lamberov"
 <define-tag description>разыменование null-указателя</define-tag>
 <define-tag moreinfo>
 <p>Реализация Internet Key Exchange версии 1 (IKEv1) в racoon

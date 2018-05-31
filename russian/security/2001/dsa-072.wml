@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5da6de64152d996ff3869a0a6d634ec36b3bf8f6" maintainer="Lev Lamberov"
 <define-tag description>атака через формат printf</define-tag>
 <define-tag moreinfo>
 Зенит Парс обнаружил проблему безопасности в <code>groff</code> (версии

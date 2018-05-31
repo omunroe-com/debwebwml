@@ -1,5 +1,5 @@
 #use wml::debian::template title="Adaptación a PowerPC (Historia)" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="70cf45edbaeb4b8fc8f99d683f2f5c5c4435be92"
 #include "$(ENGLISHDIR)/ports/powerpc/menu.inc"
 
 <br>

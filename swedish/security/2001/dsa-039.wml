@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" mindelta="1"
+#use wml::debian::translation-check translation="0f4f9f636f1555ba9e970e62578a9fd200d9e975" mindelta="1"
 <define-tag description>lokal filöverskrivning</define-tag>
 <define-tag moreinfo>Versionen av GNU libc som medföljer Debian GNU/Linux 2.2
 hade två säkerhetsproblem:

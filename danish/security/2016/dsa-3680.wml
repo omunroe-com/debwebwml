@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="2ea86ba0d0c163a091971dd1df582ee5430727df" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Der blev rapporteret om to sårbarheder i BIND, en DNS-server.</p>

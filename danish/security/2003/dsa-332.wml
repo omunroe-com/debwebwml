@@ -75,4 +75,4 @@ følge den vejledning, som gives under kerneopgraderingsprocessen.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-332.data"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="fbd7af7d4edfd4cf5cd8dc79ac4548e406bbf29d"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9e60cc7018f92ec94af53c9436aaaf375b240abc"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Aaron Neyer さんが Ruby Actionmailer

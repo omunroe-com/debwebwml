@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian GNU/Linux 4.0 -- Erratas" BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.15" maintainer="Gildardo A. Maravilla Jácome"
+#use wml::debian::translation-check translation="d4ac3300395a1d7353b8f41ac564e1ecbabff9b5" maintainer="Gildardo A. Maravilla Jácome"
 
 <toc-display/>
 

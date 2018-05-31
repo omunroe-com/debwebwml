@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4658fedefa6b2bdc8568436b43e99f54fd34863e"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Rick Patel descobriu que o atftpd é vulnerável a um  buffer overflow

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="eb5f8965aecf1aaf04078660f323948069f83343"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Philip Hazel anunciou um estouro de buffer na função host_aton do

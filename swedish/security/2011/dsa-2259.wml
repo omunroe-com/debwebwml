@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c65b3c8952f571b2ba20f4718f8b13070d6f90cc" mindelta="1"
 <define-tag description>autentiseringsförbigång</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att F*EX, en webbtjänst för överföring av väldigt

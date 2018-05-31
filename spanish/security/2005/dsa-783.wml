@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="3f90bacfd8cde334321554443fd15935c68b1a65" maintainer="Juan M. Garcia"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Eric Romang descubrió una vulnerabilidad de archivo temporal en un

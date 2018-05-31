@@ -1,5 +1,5 @@
 #use wml::debian::template title="Sponzorstvo"
-#use wml::debian::translation-check translation="1.94" maintainer="Matej Kovac"
+#use wml::debian::translation-check translation="7886c6c2c28e1b37f28fe47c2a6281f2ecd2842e" maintainer="Matej Kovac"
 <p>
 Dary spravuje
 <a href="$(HOME)/devel/leader">Vedúci projektu Debian</a> (DPL).

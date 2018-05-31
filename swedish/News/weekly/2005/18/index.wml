@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-05-03" SUMMARY="Ledarskap, PHP, utgivning, administering, DebConf, Scheme, BSP, Webbprogram"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="29fcd200d6f21585d73e0e7d5c4755438f14a656"
 
 <p>Välkommen till årets artonde utgåva av DWN, veckonyhetsbrevet för Debianfolk.
 Som försmak till en fungerande uttestningskö har det första paketet

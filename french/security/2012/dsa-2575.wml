@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="817974f9e13d91b474004228c623c9e15ac6043f" maintainer="David Prévot"
 <define-tag description>Dépassement de tampon de tas</define-tag>
 <define-tag moreinfo>
 <p>

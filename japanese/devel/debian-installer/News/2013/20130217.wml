@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <define-tag pagetitle>Debian インストーラ 7.0 リリース候補 (Release Candidate) 1</define-tag>
 <define-tag release_date>2013-02-17</define-tag>
 #use wml::debian::news

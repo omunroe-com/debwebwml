@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="7fff5583c1ba1038e83c9ec9437aa804adf18aab"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Clam アンチウィルスツールキットに、リモートから攻撃可能な複数の問題が発

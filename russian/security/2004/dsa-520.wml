@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e26ee9a148d996af0d23da704f38d79480f3028b"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В рекомендации MITKRB5-SA-2004-001 проект MIT Kerberos сообщил

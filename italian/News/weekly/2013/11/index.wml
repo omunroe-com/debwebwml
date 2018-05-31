@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-05-27" SUMMARY="Rilasciato Debian GNU/Hurd, call for papers per DebConf13, pillole dai manutentori di piuparts"
-#use wml::debian::translation-check translation="1.6" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="2697fab4800f65319b173522ff23d6777344f3a1" maintainer="Mirco Scottà"
 
 # $Rev: 5035 $
 # Status: [content-frozen]

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="395aecc76a4691377e9261146a3d3eafd5f93d7d"
 <define-tag description>入力に対する検証の欠落</define-tag>
 <define-tag moreinfo>
 <p>"Vlad902" さんは、rwhod プログラム中に listen

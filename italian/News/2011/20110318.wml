@@ -5,7 +5,7 @@
 <define-tag pagetitle>Avviato il progetto Debian Derivatives Exchange</define-tag>
 <define-tag release_date>2011-03-18</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Mark Caglienzi"
+#use wml::debian::translation-check translation="15a2ca53d4acf1c3102c38853746de21c8221ed6" maintainer="Mark Caglienzi"
 
 
 <p>Debian ha compiuto un altro importante passo verso una migliore

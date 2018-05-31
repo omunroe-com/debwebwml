@@ -1,6 +1,6 @@
 #use wml::debian::template title="Errata pour l'installateur Debian"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.227" maintainer="Baptiste Jammet" mindelta="1" maxdelta="1"
+#use wml::debian::translation-check translation="c75cafbee4a0fdc9c9a699b41b22f3e35a529b64" maintainer="Baptiste Jammet" mindelta="1" maxdelta="1"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
 # Translators:

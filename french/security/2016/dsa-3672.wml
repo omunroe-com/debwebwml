@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a8ca889ea2ccadd70119f1dda4e4c1c8885ccd90" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Gabriel Campana et Adrien Guinet de Quarkslab ont découvert deux

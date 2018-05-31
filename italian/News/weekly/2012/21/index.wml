@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-10-29" SUMMARY="Rilasciato il Debian Installer 7.0 Beta3, relazioni dagli ultimi BSP"
-#use wml::debian::translation-check translation="1.8" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mirco Scottà"
 
 # Status: [content-frozen]
 

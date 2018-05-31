@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b7ed7ceb9677126acc6f9a5717ed60db22379b52" maintainer="Lev Lamberov"
 <define-tag description>бесконечный цикл</define-tag>
 <define-tag moreinfo>
 <p>"Vade 79" обнаружил, что диссектор BGP из tcpdump, мощного

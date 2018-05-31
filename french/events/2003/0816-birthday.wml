@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.11" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="949111c5c25263176eeafa2fb7cf5786a694274b" maintainer="Pierre Machard"
 <define-tag abbr>10BDay</define-tag>
 <define-tag year>2003</define-tag>
 <define-tag pagetitle>Festivités pour l'anniversaire de Debian</define-tag>

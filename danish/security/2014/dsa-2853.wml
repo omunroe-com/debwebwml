@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="34b84ad03dc624b6460d071de726880c9bfec71d" mindelta="1"
 <define-tag description>fjernudførelse af kode</define-tag>
 <define-tag moreinfo>
 <p>Pedro Ribeiro fra Agile Information Security fandt en mulig fjernudførelse af 

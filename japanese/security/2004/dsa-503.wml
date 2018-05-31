@@ -13,7 +13,7 @@ mah-jong サーバに接続した任意のクライアントから攻撃可能�
 <p>直ちに mah-jong パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="57e4fd54da53f286914738770919d0368c9fd7b2"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-503.data"
 # $Id$

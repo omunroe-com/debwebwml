@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="fb7f3b9f3b82769b01bb3e437da6e147fca08f12" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Adam Boileau descubrió un desbordamiento de entero en el controlador del

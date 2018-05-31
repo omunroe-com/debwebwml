@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="实时安装映像"
 #use wml::debian::release_info
 #use wml::debian::installer
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="566eb2b064b9f0ba2857df0113835d39cd34e5c2"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p><q>实时安装映像</q>包含一个 Debian 系统，可以在不修改\

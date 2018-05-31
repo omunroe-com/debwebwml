@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian バグ追跡システム - 擬似パッケージ" NOHEADER="true" NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="482085cdd7ca98a1a3142933dbb60ab68c4c36e5"
 
 <H1>Debian バグ追跡システム 擬似パッケージ</H1>
 

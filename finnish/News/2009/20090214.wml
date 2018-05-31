@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 5.0 julkaistu</define-tag>
 <define-tag release_date>2009-02-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projekti ylpeänä ilmoittaa julkaisseensa virallisen Debian
 GNU/Linux version 5.0 (koodinimeltään <q>Lenny</q>) 22 kuukautta

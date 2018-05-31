@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e4bb4e0ce45ec09f824435d30416bacc17500005"
 <define-tag description>サービス拒否攻撃</define-tag>
 <define-tag moreinfo>
 <p>Andreas Solberg さんにより、GNOME XML ライブラリ libxml2 にエンティティ

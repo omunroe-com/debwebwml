@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="7b20a6a5b9791ccf28a58a3ef83a35a48f903dca" mindelta="1"
 <define-tag description>överbelastningsattack utifrån</define-tag>
 <define-tag moreinfo>
 <p>Mark Litchfield fann en överbelastningattack i webbservern Apache.

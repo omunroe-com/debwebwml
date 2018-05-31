@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="93c8c5c487d6ec7abfe1da3fe0e176c9dee690ca" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Nicolas Gregoire og Kevin Schaller opdagede at Batik, et værktøjssæt til 

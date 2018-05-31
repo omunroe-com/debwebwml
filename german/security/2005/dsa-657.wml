@@ -17,5 +17,5 @@ Version 1-rc6a-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-657.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c1d96fdc4eb12f63f3a47e83a79d699908cf4bf1" mindelta="1"
 # $Id$

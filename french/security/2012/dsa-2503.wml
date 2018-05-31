@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="87890416002f53aeb29f33d2e28b4ed689baa723" maintainer="Thomas Vincent"
 <define-tag description>Injection de commande d'interpréteur</define-tag>
 <define-tag moreinfo>
 <p>Des clients malveillants peuvent piéger le composant

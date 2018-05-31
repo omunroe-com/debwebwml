@@ -1,6 +1,6 @@
 #use wml::debian::template title="Стан l10n шаблонів Debconf з PO-файлами для мови з кодом: @tmpl_lang@"
 #include '$(ENGLISHDIR)/international/l10n/dtc.def'
-#use wml::debian::translation-check translation="1.17" maintainer="Eugeniy Meshcheryakov"
+#use wml::debian::translation-check translation="8536cf419447d00f034a8e3ad9efa6a243462fe7" maintainer="Eugeniy Meshcheryakov"
 
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="95efaafad9736d325a539102a149f4aff09f72e1" maintainer="juanma"
 <define-tag description>desbordamiento del montón</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser descubrió un desbordamiento del montón en el servidor

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-11-26" SUMMARY="Permettez à votre langue d'être prise en charge complètement dans l'installateur, installateur Debian 7.0 Beta4, sondage d'expérience de nouvel arrivant"
-#use wml::debian::translation-check translation="1.4" maintainer="David Prévot"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Petter Reinholdtsen"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Petter Reinholdtsen"
 <define-tag pagetitle>Første <q>Squeeze</q>-baserte Debian Edu-versjon utgitt</define-tag>
 <define-tag release_date>2012-03-11</define-tag>
 #use wml::debian::news

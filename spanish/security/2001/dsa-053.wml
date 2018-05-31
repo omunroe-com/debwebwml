@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d0092040813e0aabae31c034dccdd0b0704afd21"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 El paquete nedit (Nirvana editor) distribuido en la sección non-free que

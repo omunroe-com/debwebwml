@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="b76af358a84f5c3bd509f1b8fed21d7078642fc5"
 <define-tag description>archivos /tmp inseguros</define-tag>
 <define-tag moreinfo>
 Los scripts de inicio de X a veces crean un archivo explotable en /tmp.

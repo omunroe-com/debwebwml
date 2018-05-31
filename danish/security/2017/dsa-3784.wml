@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c12438d6ecdf640f20d92fb6713eb43115b0cf1b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Thomas Gerbet opdagede at viewvc, en webgrænseflade til CVS- og 

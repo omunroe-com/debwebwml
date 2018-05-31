@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="15b66a4f18e990acd5417b5fa88a127644b0e6f3" maintainer="Juan M. Garcia"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Gerardo Richarte descubrió que GnuPG, un reemplazo libre para PGP,

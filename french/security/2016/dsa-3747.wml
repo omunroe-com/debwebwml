@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="22fc4f209b1fb4f6b159f19f8fcc094b4a378753" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Bjoern Jacke a découvert qu'Exim, l'agent de transport de courriel par

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bc6568022184c7fb8f9de68d9143fa26498adba2" maintainer="Lev Lamberov"
 <define-tag description>внедрение команды интерпретатора командной строки</define-tag>
 <define-tag moreinfo>
 <p>Доминик Джордж (Dominik George) обнаружил, что Logwatch не даёт защиты от метасимволов

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8ffe0c51006afed570c6053e07a1a8da1cb826a0"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Zorgon encontró algunos desbordamientos de búfer en cfsd, un demonio que

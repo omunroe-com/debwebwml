@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="b1f5f960e320ff998c00dd9998ef51fbdc6c445f" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Marcin <q>Icewall</q> Noga de Cisco Talos a découvert une vulnérabilité

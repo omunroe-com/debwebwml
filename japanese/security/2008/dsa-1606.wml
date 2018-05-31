@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bb1b216d76dd84ea5d77816919368ed4ec9bf371"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>PDF レンダリングライブラリ poppler が PDF ファイルに埋め込まれたフォント

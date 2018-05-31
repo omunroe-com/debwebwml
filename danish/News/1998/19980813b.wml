@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian i pressen: En ny stabil Debian-udgave</define-tag>
 <define-tag release_date>1998-08-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="6b48c0500e1f1fd8b74eb46a2d8646714ba25ed0"
 
 <p>Larry Ayers har skrevet en artikel om 2.0 <q>hamm</q>-udgaven af Debian 
 GNU/Linux, som kan læses i Linux Gazette.  Se den på 

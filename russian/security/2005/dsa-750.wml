@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="947c9c7b288691adcafa70a9cb642e4ed8991ceb" maintainer="Lev Lamberov"
 <define-tag description>доступ за пределами выделенной памяти</define-tag>
 <define-tag moreinfo>
 <p>"infamous42md" обнаружил, что dhcpcd, клиент DHCP для автоматически

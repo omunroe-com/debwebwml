@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7128b46f485659fc085e2c73444ffd5282620341" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En fejl blev opdaget i mutt, et tekstbaseret program til læsning af mail.  En 

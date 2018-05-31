@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 2.1 julkistettu</define-tag>
 <define-tag release_date>1999-03-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="3f781466c4f44128d1e35cd1895a00e7fc651069"
 
 <p>Täsmälleen uusitussa aikataulussa, kello 00:00 UTC 9. maaliskuuta
 1999, julkaistiin Debian 2.1 (lempinimeltään slink).  Julkaisutiedot

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b9ce84df0080a6c1d0bab1819d6e3b94bfd03225" maintainer="Lev Lamberov"
 <define-tag description>небезопасное создание файла</define-tag>
 <define-tag moreinfo>
 <p>Свен Дрейер обнаружил, что KPhone, VoIP-клиент для KDE,

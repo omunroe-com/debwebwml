@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="841454d0837efbb6d81e99ed49052c4a3d55516a" maintainer="Jean-Edouard Babin"
 <define-tag description>Fichiers temporaires peu sûrs</define-tag>
 <define-tag moreinfo>
 <p>Dmitry E. Oboukhov a découvert que flamethrower crée des fichiers temporaires

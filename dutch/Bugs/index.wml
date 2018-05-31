@@ -5,7 +5,7 @@
 <script type="text/javascript" src="hashbug_redirect.js"></script>
 :#meta#}
 
-#use wml::debian::translation-check translation="1.88"
+#use wml::debian::translation-check translation="1c8ed02adde60123610a2e8083c5f2785a7f4351"
 # $Author$
 # $Date$
 

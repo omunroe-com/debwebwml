@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian na CD-ROM-ach" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b"
 
 <p>Jeśli chcesz zdobyć Debiana na CD lub na pamięci USB, poniżej z
 najduje się lista możliwości. W razie problemów przeczytaj <a

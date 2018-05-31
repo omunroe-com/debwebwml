@@ -1,5 +1,5 @@
 #use wml::debian::template title="L'Angolo del Nuovo Membro Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.83" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="854b866cca446c10c793f389da230fdf2238e68a" maintainer="Luca Monducci"
 
 <p>Il processo per il Nuovo Membro Debian è la procedura per diventare
 un Debian Developer (DD) ufficiale. In queste pagine web gli

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-10-28" SUMMARY="SPI, Votação, Brochura, Construção, Instalação, Erros, Zope, Instalador, Glibc"
-#use wml::debian::translation-check translation="1.11" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à quadragésima terceira edição da DWN, o periódico semanal para a 
 comunidade Debian. A equipe do <a href="http://www.xpde.com">XPde</a> <a

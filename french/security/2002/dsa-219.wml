@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="76a324c61bb4667b0a06505f93e9e3afd3da53d2" maintainer="Pierre Machard"
 <define-tag description>Exécution de commandes à distance</define-tag>
 <define-tag moreinfo>
 <p>Simon Kelly a découvert une faille dans dhcpcd, un démon client

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="2f6cd3d43bad6d1ecf55df9121dd799bbd5bf696" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Los investigadores de SuSE descubrieron errores de desbordamiento de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7cac43e4418e77ac3a4dbaaa6c942e4ec662a4da"
 <define-tag pagetitle>Vorgebrachte Belange aus 2014</define-tag>
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::votebar

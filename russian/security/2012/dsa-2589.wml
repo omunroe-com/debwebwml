@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8e702f5aae758a7e91b19fe406788d61efbfdad5" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Библиотека tiff для обработки файлов изображений в формате TIFF содержит переполнение

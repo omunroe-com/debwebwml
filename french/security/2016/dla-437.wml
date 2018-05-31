@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="a280f1f7fd2de92aa4cb51e6541fc2b486d444bf" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>L’amont a publié la version 0.99. Avec elle, Sqeeze-lts est mise à niveau

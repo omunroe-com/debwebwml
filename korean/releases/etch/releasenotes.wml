@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/etch/release.data"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="9bf3b59dab50c6dd1cd6ab9bcda45941b778109d"
 
 <if-stable-release release="sarge">
 <p>This is a <strong>work-in-progress version</strong> of the Release Notes

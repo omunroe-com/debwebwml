@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6f1c76b629db882e885953e7e9aae3d43f0baf3e"
 <define-tag description>sökvägstraversering</define-tag>
 <define-tag moreinfo>
 <p>Det har upptäckts att mldonkey, en klient för flera P2P-nätverk,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="99e31f16344daa2986102784829ad44c8055fe37"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Wojciech Regula descubrió una vulnerabilidad de entidad externa XML en el

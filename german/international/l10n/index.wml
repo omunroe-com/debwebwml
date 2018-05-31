@@ -1,5 +1,5 @@
 #use wml::debian::template title="Zentrale Übersetzungsstatistik von Debian"
-#use wml::debian::translation-check translation="1.34"
+#use wml::debian::translation-check translation="be20c70a46e717aa29b8d3b81b5427654aa670fb"
 # $Id$
 
 <p>Diese Seiten zeigen die Anzahl der Pakete in Debian an, die bereit

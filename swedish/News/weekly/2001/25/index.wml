@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-10-09" SUMMARY="DDP, DDTS, databaspaket, listor, licenser"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p><strong>DDP behöver dig!</strong>
 <a href="$(HOME)/doc/ddp">Debians dokumentationsprojekt</a>

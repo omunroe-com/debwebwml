@@ -1,5 +1,5 @@
 #use wml::debian::template title="x86 版 Debian 2.0 的勘誤表"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="f717b317b4078efe7128451d15dac1cb8f53b330"
 
 <h3>安裝</h3>
 <p>沒有報告說在安裝過程中存在錯誤。

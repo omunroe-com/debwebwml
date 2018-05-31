@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d2338be941e3d4dc61d3c91deadc3192c3e3fe7c"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>gopherd, un servidor gopher de la Universidad de Minnesota, tenía

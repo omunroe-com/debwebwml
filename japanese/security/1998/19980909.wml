@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag description>非常に長いパス名に問題</define-tag>
 <define-tag moreinfo>
 <p>bash シェルには非常に長いパス名の処理に問題があるという報告を受け取っています。

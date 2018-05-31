@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="e7fa285577bcf2cb96aef9f3fd7e6e7c2e72a96f" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Mike Daskalakis a signalé une vulnérabilité de déni de service dans charon,

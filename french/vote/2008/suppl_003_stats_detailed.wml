@@ -1,6 +1,6 @@
 #use wml::debian::template title="Résolution générale : Lenny et les microprogrammes dont les sources ne sont pas incluses dans le noyau Linux" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="6c15363fffc9bd2a692afdc7c6aad4f03dcf99a9" maintainer="Thomas Péteul"
 
 
     <table width="90%">

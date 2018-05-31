@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-09" SUMMARY="Support, webbpolicy, återställning, Sarge, Anaconda, signaturer, företag, userLinux, installation, cd:ar"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <p>Välkommen till årets 49:e utgåva av DWN, veckonyhetsbrevet för Debianfolk.
 Det var inte bara Debians servrar som var måltavla för inbrott, utan även en

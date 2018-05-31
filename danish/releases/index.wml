@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian-udgaver"
-#use wml::debian::translation-check translation="1.71"
+#use wml::debian::translation-check translation="5182e9999d26541c0f07c58dc26b6e27996fd193"
 #include "$(ENGLISHDIR)/releases/info"
 
 <p>Debian har altid mindst tre udgaver, som vedligeholdes aktivt: <q>stable</q> 

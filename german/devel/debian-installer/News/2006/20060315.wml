@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Installer Etch Beta 2</define-tag>
 <define-tag release_date>2006-03-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2006-07-02
 
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c8794af6ced77affeb6b1107a0e815104038b2e2"
 <define-tag description>heapbaserat buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Ronald Volgers upptäckte att memcached, ett högpresterande system

@@ -1,6 +1,6 @@
 # From: Samuel Chaboisseau <samuel.chaboisseau@coe.int>
 # Mon, 28 Nov 2011 07:44:44 +0000 <687B54BB9544854A8F46EA40B3DAECE908197624@V-LINGUISTIX01.key.coe.int>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="92edb44f63baff2a95053d0d9251c8473b58c148" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Directorate of Information Technology, Совет Европы, Страсбург, Франция</define-tag>
 <define-tag webpage>http://www.coe.int/lportal/web/coe-portal</define-tag>

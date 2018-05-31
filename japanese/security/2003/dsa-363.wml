@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="9199b453c20d9228f6fec0b755a91d2d4c9b9429"
 <define-tag description>サービス拒否、バウンススキャン</define-tag>
 <define-tag moreinfo>
 <p>Debian 3.0 のメール転送エージェントである postfix に脆弱性が 2 件あります:</p>

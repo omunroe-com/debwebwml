@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="62dce0bf1839d5618f463a0fa59546a30f570873"
 <define-tag description>Problemas com a limpeza de nome de arquivo</define-tag>
 <define-tag moreinfo>
 <p>Os desenvolvedores do lxr, uma ferramenta comum de referência cruzada de

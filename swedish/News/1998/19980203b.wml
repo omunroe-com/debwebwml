@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 2.0 nära fullbordning</define-tag>
 <define-tag release_date>1998-02-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="16899e40ccb21846d156811b827cca5df9566953"
 
 <p>Startdiskettpaketet för Debian 2.0 har sänts in och testas, och
 storskalig testning av systemet väntas påbörjas inom kort.

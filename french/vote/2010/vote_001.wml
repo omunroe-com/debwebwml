@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="David Prévot"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="David Prévot"
 <define-tag pagetitle>Élection du responsable du projet Debian 2010</define-tag>
 <define-tag status>F</define-tag>
 # signification des balises <status> :

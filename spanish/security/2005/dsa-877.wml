@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="8750d183c8157a43bd3dd4d79c6d9fb347761ba9" maintainer="Juan M. Garcia"
 <define-tag description>guiones a través del sitio, travesía por directorio</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descubrió dos vulnerabilidades en gnump3d, un

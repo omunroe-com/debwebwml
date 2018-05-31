@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2008-12-17" SUMMARY="Aktuelles über die Veröffentlichung, Allgemeiner Beschluss: Projektmitgliedschafts-Prozeduren, Bessere Unterstützung für backports.org"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="e5075763b4cb6f9b779e35d152949aaf90f0c1ba"
 
 <!--
  Copyright (c) 2008 Meike Reichle

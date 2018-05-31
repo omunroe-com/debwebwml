@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd --- CDs Hurd" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="1.62" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="827b2f5a51f02e8d8dc0001d225497c7e967b920" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <define-tag cdserie>K16</define-tag>
 <define-tag cdbasename>debian-<cdserie>-hurd-i386</define-tag>

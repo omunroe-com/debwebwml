@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="96668fd38a95565165e52179da6b5cb359d99fc5" maintainer="Alexander Reshetov"
 <define-tag description>некоторые уязвимости</define-tag>
 <define-tag moreinfo>
 <p>В phpCAS, библиотеке клиента CAS для PHP, были обнаружены

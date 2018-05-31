@@ -22,6 +22,6 @@ et om Debian Edu/Skolelinux og et om debian-community.org.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="72b72dc51b99e32fd630b33d57903b04660a9ebd"
 #Related Links here (free form)
 

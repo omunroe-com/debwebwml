@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0a9be5a2026211f1bbee2f35d88ca16357780bc0" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En hukommelsesødelæggende heltalsoverløb i håndteringen af kontrolsekvensen 

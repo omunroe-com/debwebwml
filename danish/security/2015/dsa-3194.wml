@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f4ca8fb95ed059776c50a87b17b02043b06f879c" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Ilja van Sprundel, Alan Coopersmith og William Robinet opdagede adskillige 

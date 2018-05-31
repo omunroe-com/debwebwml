@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="c2f28352fb60c96010e0f3050bc2275af3f5cc13" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Andrea Barisani a découvert que xzgv, un visualisateur d'images pour X,

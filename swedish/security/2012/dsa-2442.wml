@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="9ac43a4f96c424f8e609f457e540df67c60ccec9" mindelta="1"
 <define-tag description>UDP-trafikförstärkning</define-tag>
 <define-tag moreinfo>
 <p>Det har upptäckts att förfalskade <q>getstatus</q>-UDP-förfrågningar skickas

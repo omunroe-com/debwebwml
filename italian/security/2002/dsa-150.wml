@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="f6ae9c6fa541c206c8d12c29b0ac8abac42c3c60" maintainer="Giuseppe Sacco"
 <define-tag description>esposizione illegale di file</define-tag>
 <define-tag moreinfo>
 <p>&Egrave; stato rilevato un problema in Interchange, un "database display

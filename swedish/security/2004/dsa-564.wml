@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="f4b2916bc3b514d3d613eb8adc8f5228cdfcd4eb" mindelta="1"
 <define-tag description>städar inte indata från användare</define-tag>
 <define-tag moreinfo>
 <p>

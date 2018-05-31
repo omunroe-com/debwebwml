@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ed7ce948c00ffb8f264a04d83a8ac9ba58ade168"
 <define-tag description>NULL ポインタの参照</define-tag>
 <define-tag moreinfo>
 <p>NULL ポインタ参照が Clam Antivirus (ClamAV) の RAR VM に見つかりました。

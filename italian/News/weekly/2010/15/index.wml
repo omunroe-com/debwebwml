@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-11-08" SUMMARY="<q>Google Code-in 2010</q>, resoconto dalla openSUSE Conference, rilasciato l'installatore Debian 6.0 Beta1"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.19"
+#use wml::debian::translation-check translation="c150f0c678b801d6dbdc6f9fb14df4d092c33e05"
 <!--
 $Id$
 $Rev: 1116 $

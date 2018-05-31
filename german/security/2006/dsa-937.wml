@@ -23,6 +23,6 @@ ist.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-937.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4e9398858fe7df0c603e88eaf4a21ccf9c6a91ee" mindelta="1"
 # $Id$
 # Translator: Tobias Toedter 2006-01-13

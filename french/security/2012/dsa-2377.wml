@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="95ab1fc0ecde0f3b07977de9d2fb7e2e1cfb2c36" maintainer="David Prévot"
 <define-tag description>Déréférencement de pointeur NULL</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="76a324c61bb4667b0a06505f93e9e3afd3da53d2"
 <define-tag description>удалённое выполнение команд</define-tag>
 <define-tag moreinfo>
 <p>Саймон Келли (Simon Kelly) обнаружил уязвимое место в dhcpd, RFC2131-

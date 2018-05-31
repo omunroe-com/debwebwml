@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.davidandjoe.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="1c69e86eb712e46d455ba81039cefc1c43b87048" maintainer="Nicolas Bertolissio"
 
 <p>
 Debian fait fonctionner notre serveur phare et un certain nombre de nos autres

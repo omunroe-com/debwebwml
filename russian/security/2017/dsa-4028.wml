@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0dee2f051a50001ab1b3684828c133e92c8473b2" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В системе баз данных PostgreSQL было обнаружено несколько уязвимостей:</p>

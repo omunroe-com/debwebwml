@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="15e4eb701e466a5b75d996bbe91f31a16331320d" maintainer="Juan M. Garcia"
 <define-tag description>elusión de restricción de acl</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un problema en mod_ssl, que proporciona criptografía

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="81ccd64b803dba5dae67d98dc92eb0abe181fc2a"
 <define-tag description>execução remota de comandos</define-tag>
 <define-tag moreinfo>
 <p>O time de segurança do SuSE tem revisado partes críticas do pacote Heimdal

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 2.2r2 est sortie</define-tag>
 <define-tag release_date>2000-12-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" translation_maintainer="Martin Quinson"
 
 <p>Une nouvelle révision de la distribution Debian GNU/Linux 2.2
 «&nbsp;Potato&nbsp;» est disponible. Cette mise à jour, la version 2.2r2, corrige

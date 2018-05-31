@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Jr. の状態</define-tag>
 <define-tag release_date>2001-01-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 <p>
 こんにちは。これは Debian Jr. の活動についてご存じない方への紹介です。
 私たちのページは

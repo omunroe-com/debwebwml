@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c853f97a9bfbbb20d61abcfde46806e96e193cd6"
 <define-tag description>локальный взлом ядра</define-tag>
 <define-tag moreinfo>
 <p>Недавно несколько серверов проекта Debian были взломаны с использованием

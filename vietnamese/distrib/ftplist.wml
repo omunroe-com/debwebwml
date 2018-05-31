@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.32" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="9bc7028aecff09464573558f6c4618c566a3d84b" maintainer="Trần Ngọc Quân"
 #use wml::debian::template title="Lấy Debian từ Internet" BARETITLE=true
 
 <p>Debian sẵn có để tải về thông qua Internet.</p>

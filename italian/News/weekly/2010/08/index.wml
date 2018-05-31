@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-07-26" SUMMARY="Debian Day a New York, MiniDebConf in India, Debian Installer beta1, Debian Podcast, come attrarre più utenti?"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="64a931c5064583fdfbe7bf218bffe9344e4ae65a"
 
 <!--
 $Id$

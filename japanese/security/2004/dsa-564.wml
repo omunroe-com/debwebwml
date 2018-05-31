@@ -15,7 +15,7 @@ mpg123 を実行しているユーザの権限で任意のコードを実行さ�
 <p>直ちに mpg123 パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f4b2916bc3b514d3d613eb8adc8f5228cdfcd4eb"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-564.data"
 # $Id$

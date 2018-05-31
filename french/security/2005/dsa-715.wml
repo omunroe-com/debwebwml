@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="0129ff42afd95f71a6f7890ec4ed7d954e7d2939" maintainer="Simon Paillard"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs problèmes ont été découverts dans le serveur CVS, le populaire

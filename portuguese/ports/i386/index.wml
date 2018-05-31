@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux em Máquinas x86" BARETITLE=true
-#use wml::debian::translation-check translation="1.6" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="d7a1bebb761de4a995b5873ec0da2d0ed1b57602" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>Sendo a arquitetura com maior número de desenvolvedores, e a primeira
 suportada pelo Debian, a maioria das páginas web do Debian se aplica a este

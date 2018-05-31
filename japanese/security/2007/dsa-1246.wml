@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7cefa57cfb766fb058b5efc45f8aa805895ad4c3"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Next Generation Security Software 社の John Heasman

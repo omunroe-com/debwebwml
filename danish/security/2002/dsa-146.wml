@@ -18,4 +18,4 @@ dietlibc-pakker.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-146.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8b42e1150c36058439d0d39d8f62352b3d2ae990"

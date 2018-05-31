@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag moreinfo>Christer Öberg de Wkit Security AB encontró un problema
 en joe (Joe's Own Editor - El propio editor de Joe). joe buscará un archivo de
 configuración en tres ubicaciones: El directorio actual, el directorio del

@@ -2,7 +2,7 @@
 <define-tag release_date>1997-06-09</define-tag>
 
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" translation_maintainer="Martin Quinson"
 
 <p>
 Le SPI (Software in the Public Interest, logiciel d'intérêt public),

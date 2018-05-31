@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="349785ad5458f20aa8440cd4ce811d1d37e2b184" mindelta="1"
 <define-tag description>inddatavalideringsfejl</define-tag>
 <define-tag moreinfo>
 <p>joernchen fra Phenoelit opdagede at rails, et MVC-rubybaseret framework 

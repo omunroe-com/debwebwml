@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0e248e3cc0255acdb2cac64b43e08665b631e6de" maintainer="Lev Lamberov"
 <define-tag description>слабая проверка имени узла и имени пользователя</define-tag>
 <define-tag moreinfo>
 <p>Патрис Фурье обнаружил уязвимость в подсистеме авторизации

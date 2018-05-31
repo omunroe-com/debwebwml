@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-02-28" SUMMARY="Publication de Debian 6.0 <q>Squeeze</q>, nouvelle apparence et actualité de l'équipe en charge du site web, rétroportages pour <q>Squeeze</q> plus faciles pour les utilisateurs"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="David Prévot"
+#use wml::debian::translation-check translation="f3d5ed6297fc8b7e45a2ab7501f5d88ba8a328cf" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

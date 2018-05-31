@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="4dce983ccc5f5331bf6c99b54209e26a4c3ba4c5" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que la característica de publicación de avatares de FUD Forum,

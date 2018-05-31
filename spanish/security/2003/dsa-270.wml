@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="87d8ca0fba0e326572a539211a93d459291bb755"
 <define-tag description>escalada de privilegios locales</define-tag>
 <define-tag moreinfo>
 <p>El cargador de módulos del núcleo en Linux 2.2 y Linux 2.4 tenía una

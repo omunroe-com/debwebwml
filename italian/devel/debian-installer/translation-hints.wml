@@ -1,5 +1,5 @@
 #use wml::debian::template title="Suggerimenti per i traduttori del Debian-Installer"
-#use wml::debian::translation-check translation="1.2" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="b8ba05460f524de3235e89b67719c02da5e0f5d0" maintainer="Luca Monducci"
 
 <h3>Codifica dei caratteri</h3>
 

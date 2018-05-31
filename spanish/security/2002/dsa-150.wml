@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f6ae9c6fa541c206c8d12c29b0ac8abac42c3c60"
 <define-tag description>exposición de archivo ilegal</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un problema en Interchange, un sistema de

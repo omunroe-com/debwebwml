@@ -1,7 +1,7 @@
 #use wml::debian::template title="Querverweise von Sicherheitsankündigungen" GEN_TIME="yes" NOHEADER="jawohl"
 #use wml::debian::securityreferences
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="642ec8f30a9387cf157c220f2bdc34f844689aaf"
 # $Id$
 # Translation: Gerfried Fuchs <alfie@debian.org> 2003-02-07
 

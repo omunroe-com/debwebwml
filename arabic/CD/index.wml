@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="دبيان على الأقراص المدمجة CD" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.39" maintainer="Med. Amine"
+#use wml::debian::translation-check translation="5679a4011fa3c2bf6d991147fcc3fa785da7c8f7" maintainer="Med. Amine"
 
 <div class="bidi">
 

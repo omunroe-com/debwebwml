@@ -14,4 +14,4 @@ version 7.5.00.24-4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1190.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f682c1cc0d897dcf52e4a8292d23969ffc6472a6" mindelta="1"

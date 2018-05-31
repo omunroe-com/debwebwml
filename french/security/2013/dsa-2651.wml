@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="185c0d4e569bbacaca9dc39e1563c09c934b1fc3" maintainer="Thomas Vincent"
 <define-tag description>Vulnérabilité de script intersite</define-tag>
 <define-tag moreinfo>
 <p>Une vulnérabilité de script intersite  a été découverte dans smokeping, un

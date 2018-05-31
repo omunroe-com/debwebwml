@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="0fca7b6abd98668e6f69c7b53744b318b815f2ad" maintainer="Cédric Boutillier"
 <define-tag abbr>T-DOSE</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>Manifestation néerlandaise technique sur les logiciels à code source ouvert</define-tag>

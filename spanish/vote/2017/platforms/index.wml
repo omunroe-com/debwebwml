@@ -1,7 +1,7 @@
 #use wml::debian::template title="Programas de los candidatos a Líder de Proyecto" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Santi Moreno"
+#use wml::debian::translation-check translation="9946b3f45e0745870fdd1226bb7ff24bd2787367" maintainer="Santi Moreno"
 
     <p>
       A continuación se muestran los programas electorales de cada uno

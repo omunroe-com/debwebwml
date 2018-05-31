@@ -18,4 +18,4 @@ version 0.8-3sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1038.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c2f28352fb60c96010e0f3050bc2275af3f5cc13" mindelta="1"

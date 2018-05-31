@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.diversicomcorp.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="4c803e57528563430bf513f9f9d6c13248de2ed6" maintainer="Nicolas Bertolissio"
 
 <p>
   En plus d'utiliser Debian dans divers projets internes (serveur MySQL, base

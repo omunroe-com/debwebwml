@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.79" maintainer="galaxico (Emmanuel Galatoulas)"
+#use wml::debian::translation-check translation="d1722c7641f17f8bcf3ec4f1f741624b870337c1" maintainer="galaxico (Emmanuel Galatoulas)"
 #use wml::debian::mainpage title="Το διεθνές λειτουργικό σύστημα"
 #use wml::debian::recent_list
 #include "$(ENGLISHDIR)/releases/info"

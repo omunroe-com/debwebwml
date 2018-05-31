@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Завантаження CD/DVD-образів Debian через HTTP/FTP" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.51" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="61ea078e302085e90650e75239de6bf98d35efdc" maintainer="Borys Yanovych"
 
 <div class="tip">
 <p><strong>Будь ласка, не завантажуйте CD- або DVD-образи за допомогою вашого веб-переглядача так, 

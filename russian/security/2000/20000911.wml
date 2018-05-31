@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>libpam-smb содержит переполнение буфера, которое может использоваться
 для выполнения произвольных команд с правами суперпользователя. Библиотека libpam-smb не поставляется в составе
 Debian 2.1 (slink), но она была добавлена в Debian 2.2 (potato).

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c6854ed3925915816537ef8804f8c5809e81ef3e" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Michael S. Tsirkin fra Red Hat opdagede en bufferoverløbsfejl i den måde qemu 

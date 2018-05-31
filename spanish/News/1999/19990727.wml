@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="f812049ade4072dac508bc7d5465abae8e089275"
 <define-tag pagetitle>Associated Press habla de Debian</define-tag>
 <define-tag release_date>1999-07-27</define-tag>
 #use wml::debian::news

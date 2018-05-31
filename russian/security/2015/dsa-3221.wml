@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6d12e02afeae8148ff41c0bb5abb60fabccade54" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Адам Сэмпсон обнаружил переполнение буфера, возникающее при обработке

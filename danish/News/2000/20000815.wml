@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 2.2, "Joel 'Espy' Klecker"-udgaven, er officielt udgivet</define-tag>
 <define-tag release_date>2000-08-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <p>Debian-projektet er glade for at kunne annoncere den seneste udgave af 
 Debian GNU/Linux-styresystemet.  Denne udgave har været under udvikling i 18

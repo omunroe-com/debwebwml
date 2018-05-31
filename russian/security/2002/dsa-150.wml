@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f6ae9c6fa541c206c8d12c29b0ac8abac42c3c60" maintainer="Lev Lamberov"
 <define-tag description>неправильное раскрытие файла</define-tag>
 <define-tag moreinfo>
 <p>В Interchange, системе отображения для электронной коммерции и

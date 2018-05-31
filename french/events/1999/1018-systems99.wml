@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="25a591867b8dafac6e3b4db35028ed9934170621" maintainer="Nicolas Bertolissio"
 <define-tag abbr>systems99</define-tag>
 <define-tag year>1999</define-tag>
 <define-tag pagetitle>LinuxPark à Systems 99</define-tag>

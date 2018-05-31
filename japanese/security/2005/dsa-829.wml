@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="797f724b6b67d40d10f6e70d81277dc2e9355271"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>人気のあるデータベース MySQL の init_syms

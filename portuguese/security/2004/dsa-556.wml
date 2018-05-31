@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4b2ca5e9bb4461a7af4cb9cd8fb104b521d520cb"
 <define-tag description>free(3) inválido</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski descobriu um bug no servidor netkit-telnet (telnetd)

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b8ae1215a53663b7d9337f58116b0f7e0d2ee4ef" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Felix Wilhelm upptäckte att dokumentvisaren Evince utförde osäker

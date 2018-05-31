@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="ea02abf8ec1a5cbab00927a447de5e1e0d516ab7" maintainer="Alexander Reshetov"
 <define-tag description>недостаточная проверка вводимых данных</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что telepathy-gabble, менеджер соединений Jabber/XMPP

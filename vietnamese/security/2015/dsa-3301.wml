@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="348f1200424e4cf2887e5de7300e7d8de80c7ff2" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Charlie Smurthwaite từ aTech Media đã khám phá ra một khiếm khuyết trong HAProxy,

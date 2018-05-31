@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-baseret &quot;Telemetry Box&quot;-distribution udgivet</define-tag>
 <define-tag release_date>2001-01-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="40b15fedc3d6fe7b99dc0cdc73c7c10d0fb81420"
 
 <p>Version 1.0 af "Telemetry Box"-distributionen er endelig udgivet. 
 Tbox-distributionen er en Debian GNU/Linux potato-baseret skræddersyet

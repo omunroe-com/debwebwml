@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian och stabilitet</define-tag>
 <define-tag release_date>1998-01-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5bd9867c2098a4af693be8d4e80ec1d531a1dd9a"
 
 <p>Debians huvudsystem, <span lang=en>"master"</span>, är en Pentium 90
 med 64 Mbyte RAM som vänligen har tillhandahållits av en av våra donatorer,

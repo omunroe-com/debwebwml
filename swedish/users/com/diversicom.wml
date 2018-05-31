@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.diversicomcorp.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4c803e57528563430bf513f9f9d6c13248de2ed6"
 
 <p>
  Förutoma tt vi använder Debian i flera interna projekt (mysql-server,

@@ -2,7 +2,7 @@
 
 <define-tag release_date>2016-10-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Minh Le"
+#use wml::debian::translation-check translation="e551b06070278a866bd28835210e6fac13d5e0d2" maintainer="Minh Le"
 
 <p>
   Trong vài tháng qua,

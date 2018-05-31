@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6e82a156316d74dbfec055bb7f7865f031c9492a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дэниел Берранж сообщил, что Libvirt, библиотека абстракции виртуализации,

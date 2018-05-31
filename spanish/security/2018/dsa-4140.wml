@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3d766aac57a721766056afb285159d58e5eda395"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Richard Zhu descubrió que una escritura en memoria fuera de límites en el

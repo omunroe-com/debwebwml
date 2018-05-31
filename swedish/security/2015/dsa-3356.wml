@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c9a85a749d3eab5cb0487cebaa5ebb105bd6115d" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Denis Andzakovic upptäckte att OpenLDAP, en fri implementation av

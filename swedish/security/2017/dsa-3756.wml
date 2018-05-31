@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a1382ef6dd20a6a4258f1e46710e79a01a13890f" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Choongwoo Han upptäckte att ett programmeringsfel i wrestool-verktyget

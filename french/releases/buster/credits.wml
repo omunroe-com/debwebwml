@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 10 -- Remerciements (ou blâmes)" BARETITLE=true
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="b6a7091f73c11a22a8f619653012ca182cd13179" maintainer="Baptiste Jammet"
 
 
 <h2>Responsables de la publication</h2>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="61669122c124b7c8aef909848a1841b34f845aca"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Garth Mollett さんが、名前サービスとして LDAP を使用するための

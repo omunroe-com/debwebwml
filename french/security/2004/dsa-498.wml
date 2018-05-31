@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="0e9e17e8f85b22b30ad4a06b2e793e3305ce2374" maintainer="DFS Task Force"
 <define-tag description>Accès en dehors des limites</define-tag>
 <define-tag moreinfo>
 <p>Steve Grubb a découvert un problème dans la bibliothèque libpng

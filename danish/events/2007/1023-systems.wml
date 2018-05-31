@@ -43,7 +43,7 @@ Source Conference</a></q>, der dog kræver registrering og ikke er gratis:</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="f8e86fa097e27c2513dfd9456bbacbfff22e7d8d"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.muenchen.de/Rathaus/dir/limux/english/147197/index.html">LiMux Project</a></li>

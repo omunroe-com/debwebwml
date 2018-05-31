@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Installer Jessie Beta1-Veröffentlichung</define-tag>
 <define-tag release_date>2014-08-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="269fd8be31b291ff3ccda8cd83c47505ced8c4ef"
 # Translation: Holger Wansing <linux@wansing-online.de>, 2014
 
 <p>

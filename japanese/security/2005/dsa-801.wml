@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="421a414dc04575a5375adce728d473def0a93d7b"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>SuSE の開発者が、ntp がコマンドラインから数値の gid ではなく文字列によってグループ

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="e313cf52513e0ee4771b2d817836d75e2cb0c36e" maintainer="Simon Paillard"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp, du projet d'audit de sécurité de Debian, a découvert que

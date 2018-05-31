@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian が 'Highly Commended' 賞を授賞</define-tag>
 <define-tag release_date>1998-10-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="5536423457103f2f0a1ad6eef6e09a4cb71f5d22"
 
 
 <p>近頃、Debian GNU/Linux 2.0 'Hamm' ディストリビューションは

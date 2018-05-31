@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="b6efdb9b284a4def8da7e043b8e598ad211fdea7" maintainer="Mohammed Adnène Trojette"
 <define-tag description>Bogue d'alignement de mémoire</define-tag>
 <define-tag moreinfo>
 <p>Szymon Zygmunt et Michal Bartoszkiewicz ont découvert une erreur

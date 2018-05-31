@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="91595b39343ddab71116d8471f5f5789db624810" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>В cscope, программе для интерактивного исследования исходного

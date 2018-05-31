@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5bf19873cfacaabd4a8e3d91f0c5d1ea44544743" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Ilja van Sprundel fra IOActive opdagede sikkerhedsproblemer i flere 

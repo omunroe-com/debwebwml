@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="0355a7a7801d5b4b7f5975e75733618a2b36418c" maintainer="Jean-Pierre Giraud"
 <define-tag description>Traversée de répertoires</define-tag>
 <define-tag moreinfo>
 <p>Une attaque par traversée de répertoires à l'encontre de libtar, une

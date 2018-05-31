@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mohammed Adnène Trojette"
 <define-tag abbr>LWE05</define-tag>
 <define-tag year>2005</define-tag>
 <define-tag pagetitle>Conférence et Exposition LinuxWorld en Allemagne</define-tag>

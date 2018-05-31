@@ -34,4 +34,4 @@ i version 2.5.4-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1629.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="ff3b75ade496b04253cb5dbd461621d02dcf0d05" mindelta="1"

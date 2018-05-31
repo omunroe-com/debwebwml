@@ -1,6 +1,6 @@
 #use wml::debian::template title="پشتیبانی"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.72" maintainer="Hadi Sarrami"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Hadi Sarrami"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <hrline />

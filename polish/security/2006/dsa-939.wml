@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7e248ab1143f1d53baccaadd6cc28f814f1da70c"
 <define-tag description>programming error</define-tag>
 <define-tag moreinfo>
 <p>Daniel Drake odkrył problem w pakiecie fetchmail, zbierającym/przekazującym pocztę z wykożystaniem POP3, APOP, IMAP oraz SSL, który może prowadzić do rozbicia się aplikacji podczas działania programu w trybie multidrop i kiedy otrzymuje wiadomości bez nagłówków.</p>

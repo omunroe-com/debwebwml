@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="fd5ff16e26b1eace49da6ac206219514dddd3b12" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Request Tracker, et udvidbart fejlsporingssystem, var sårbart 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="641a58003014fc1e750fa166bddbc303b955bd06"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>PostgreSQL データベースが、「security definers」と呼ばれる権限付きの

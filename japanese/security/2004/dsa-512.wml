@@ -15,7 +15,7 @@ gallery の管理者ユーザ権限のアクセスを行えます。
 <p>直ちに gallery パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e113a63d9598cf6d9c66ab1b6125ddcd0374dc50"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-512.data"
 # $Id$

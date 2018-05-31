@@ -1,7 +1,7 @@
 # From: Marco De Benedetto <debe@galliera.it>
 # Current as of 03/02/15 Audit 2015:
 # https://lists.debian.org/20150302160947.GA11745@galliera.it
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a59cd4982099f399edbf21d52737ec88f2d3fa07"
 # Translation: Helge Kreutzmann <kreutzm@itp.uni-hannover.de> 2005-09-07
 
 <define-tag pagetitle>E.O. Ospedali Galliera, Italien</define-tag>

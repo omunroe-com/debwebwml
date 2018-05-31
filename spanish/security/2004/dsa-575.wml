@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="efa0dc8bcc67fb75951b266bad040ec796ff0a02" maintainer="juanma"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un problema en un archivo temporal en xlsview, un

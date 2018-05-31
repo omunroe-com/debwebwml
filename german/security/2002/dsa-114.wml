@@ -23,6 +23,6 @@ aktualisieren.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-114.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="748db6e403ebcfbbf2d23f6055689d5ef1fb3258"
 # $Id$
 # Translator: Gerfried Fuchs <alfie@debian.org> 2002-02-21

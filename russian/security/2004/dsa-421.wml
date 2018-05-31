@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f06f5534220af15956eed59167a676aeb03ebcf5"
 <define-tag description>истечение срока действия пароля</define-tag>
 <define-tag moreinfo>
 <p>Дэвид Б. Харрис (David B. Harris) обнаружил проблему в mod-auth-shadow,

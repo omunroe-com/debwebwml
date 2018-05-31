@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="f1551c44d5630ff3cfa645fc21e2dc8c3c64d04d" maintainer="David Prévot"
 <define-tag description>Double libération de zone de mémoire</define-tag>
 <define-tag moreinfo>
 <p>

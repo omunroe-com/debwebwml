@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="c076192f5f9febe095017f651d8d546bf1a65c0d" maintainer="David Prévot"
 <define-tag description>Augmentation de privilèges</define-tag>
 <define-tag moreinfo>
 <p>

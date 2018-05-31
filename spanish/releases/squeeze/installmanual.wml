@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/squeeze/release.data"
-#use wml::debian::translation-check translation="1.4" maintainer="Javier Fernandez-Sanguino"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2" maintainer="Javier Fernandez-Sanguino"
 
 
 <if-stable-release release="lenny">

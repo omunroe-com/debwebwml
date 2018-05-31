@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3b7bca6621925198c4f0902c0a6e40c296adcbd9" maintainer="Lev Lamberov"
 <define-tag description>небезопасное выполнение программы</define-tag>
 <define-tag moreinfo>
 <p>Макс Фоцелер из проекта Debian Audit обнаружил, что pstopnm, программа

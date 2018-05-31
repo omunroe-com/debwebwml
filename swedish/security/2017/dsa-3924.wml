@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c5c975974c9c5028148642b721b8fcaba0b200e7" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En överbelastningssårbarhet har upptäckts i Varnish, en toppmodern,

@@ -20,7 +20,7 @@
 <p>lxr パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="62dce0bf1839d5618f463a0fa59546a30f570873"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-264.data"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="df8a0ce3d67eb343d5795c18e86f8e02ca598b6b" maintainer="Lev Lamberov"
 <define-tag pagetitle>Система Debian GNU/Linux используется для разработки спутника</define-tag>
 <define-tag release_date>1998-02-03</define-tag>
 #use wml::debian::news

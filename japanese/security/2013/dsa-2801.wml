@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c1c25263267467b181523864aaa70cd144954fd6"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Jonathan Dolle さんが HTTP::Body、HTTP POST リクエストからのデータを処理する

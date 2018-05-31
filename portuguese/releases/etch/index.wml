@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/etch/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.18" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="9a5b9cf3eef8fd4673b3d1b32357abb1934c3656" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 
 <p>O Debian GNU/Linux <current_release_etch> foi

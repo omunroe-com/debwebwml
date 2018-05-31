@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d4b22e8f70fe645b2eb0cbadfbac72fcf9f9852c"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>PHP ベースのカレンダーアプリケーション WebCalendar

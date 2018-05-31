@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Entwickler tragen auf dem Linux-Kongress vor</define-tag>
 <define-tag release_date>1998-05-22</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8c10b313dc8692f4c3df51462fdad85ce2626b9f"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-05-05
 
 Eine Reihe von Debian-Entwicklern wird am <a

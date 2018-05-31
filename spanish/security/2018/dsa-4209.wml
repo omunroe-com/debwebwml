@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ed6cf868edf7ff4d96db7c2f49fd852537569e76"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han encontrado múltiples problemas de seguridad en Thunderbird que pueden dar lugar

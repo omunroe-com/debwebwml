@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="211ba76dadb8608aa2057e8b5e3f3dfbf1786aa6"
 <define-tag description>デザイン上の欠陥</define-tag>
 <define-tag moreinfo>
 <p>Paul Szabo さんは、Perl の File::Path::rmtree 関数に新たな脆弱性を発見しました。

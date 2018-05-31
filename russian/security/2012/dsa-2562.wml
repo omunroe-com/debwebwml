@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6a54e1130a478ff4ae59a5210738cddca5a35e83" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>cups-pk-helper, вспомогательная утилита PolicyKit для настройки CUPS с чёткими

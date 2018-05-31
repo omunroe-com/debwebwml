@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-09-05" SUMMARY="Werbung, Tcl/Tk, Kompilierung, Fehlerausmerzung, Zitate, Archiv"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="9b434ca949f25719f34890741ae9a6b35987a1b8"
 #use wml::debian::acronyms
 # $Id$ XXX
 

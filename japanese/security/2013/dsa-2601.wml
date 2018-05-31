@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b0f5083d462c0966be7495822eb88a13496facc4"
 <define-tag description>入力サニタイズ処理の欠落</define-tag>
 <define-tag moreinfo>
 <p>KB Sriram さんが、GNU Privacy Guard GnuPG

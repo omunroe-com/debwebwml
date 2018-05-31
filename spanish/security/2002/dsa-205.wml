@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2261cd325d9f26ff6d8b3bf65e48ac8493b73716"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp y James Antill descubrió varios desbordamientos de búfer en

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="08895f3ef12ef09e6ba458efde39aed3f81eff44" maintainer="Frédéric Bothamy"
 <define-tag description>Ajout de CRLF</define-tag>
 <define-tag moreinfo>
 <p>Lynx (un navigateur en mode texte) ne vérifiait pas correctement

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="94bc0cfa49a2c8f942c6de66e7d6742efc3f16df" mindelta="1"
 <define-tag description>informationslækage</define-tag>
 <define-tag moreinfo>
 <p>Juliano Rizzo og Thai Duong opdagede en svaghed i TLS-/SSL-protokollen, 

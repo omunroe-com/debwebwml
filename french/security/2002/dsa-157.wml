@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="6d50331f8498754d60f2015d21f8e15ed06fbf38" maintainer="Pierre Machard"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>Le client IRC irssi est vulnérable à une attaque de type déni de service.

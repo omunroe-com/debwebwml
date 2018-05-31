@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-26" SUMMARY="Greylisting, Створення пакунків, Debconf, Багатоархітектурність, Емблема, BTS, Збори, DebConf, Debtags"
-#use wml::debian::translation-check translation="1.12" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Borys Yanovych"
 
 <p>Ласкаво просимо до 30-го цьогорічного випуску DWN, щотижневого інформаційного
 бюлетеня спільноти Debian. У двох важливих машин Debian завершився час

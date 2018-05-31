@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="eb358b5c104a2d1f7d243bc6e4c3bf1c2bae262a" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Le laboratoire de recherche sur la sécurité High-Tech Bridge a découvert

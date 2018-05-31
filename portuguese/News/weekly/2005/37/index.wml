@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-13" SUMMARY="Debian UK, COCOMO, Testing, Empacotamento, Planet, Apadrinhamento, Usertags"
-#use wml::debian::translation-check translation="1.16" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à trigésima sétima edição deste ano da DWN, o periódico
 semanal para a comunidade Debian.  Wouter Verhelst <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="fc479fc1adbbfbd03a2e856398019df8504f014e"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>ファイルシステムのマウントと操作を行うツール loop-aes-utils の mount 及

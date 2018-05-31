@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="91d0401a6d994558c7db4837365a72b85b76e533"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が phpMyAdmin、MySQL をウェブ越しに管理するツールに発見されました。

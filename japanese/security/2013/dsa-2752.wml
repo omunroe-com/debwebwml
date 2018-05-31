@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a30964a96394f9d7daf701a4dd489a4f8b3417fe"
 <define-tag description>権限が緩すぎる問題</define-tag>
 <define-tag moreinfo>
 <p>Andreas Beckmann さんが、Debian でインストールされる

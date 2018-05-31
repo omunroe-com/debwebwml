@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="08312bf138465123f9ba6def8d632f7acb5a70dc" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Toshifumi Sakaguchi upptäckte att en patch som har applicerats till pdns,

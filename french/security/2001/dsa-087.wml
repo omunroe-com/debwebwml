@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="d9936be5b6634cdf82735e3c74c6d7a798e84c0d" maintainer="Pierre Machard"
 <define-tag description>Connexion distante en root abusive</define-tag>
 <define-tag moreinfo>
 L'équipe en charge de la sécurité signale qu'il est possible d'exploiter

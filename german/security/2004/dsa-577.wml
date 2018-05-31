@@ -17,5 +17,5 @@ Version 7.4.6-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-577.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="28f4bd8ec17691efc55694e6a4d906097f42b03b"
 # $Id$

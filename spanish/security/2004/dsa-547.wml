@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="4a8ae1177ff509d420e724cb613a2f5b9826df1b" maintainer="juanma"
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner, de SUSE, ha descubierto varios desbordamientos de

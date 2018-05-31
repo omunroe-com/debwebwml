@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="083b632dcdce42d1686d3521096de47792bab45e"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ脆弱性が mozilla-firefox ウェブブラウザに確認されています。

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2015-02-16" SUMMARY="Histoire du portage d'arm64, première version candidate de l'installateur de Debian Jessie, modifications des miroirs, Debian Long Term Support, la durée des mandats du comité technique limitée, appel à projets pour Debian GSoC, avancées sur les constructions reproductibles, chasses aux bogues, Mini-DebConf à Bombay, retrait des clés 2048 bits"
-#use wml::debian::translation-check translation="1.7" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 5976 $

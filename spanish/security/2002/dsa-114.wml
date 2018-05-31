@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="748db6e403ebcfbbf2d23f6055689d5ef1fb3258"
 <define-tag description>acceso a archivo no autorizado</define-tag>
 <define-tag moreinfo>
 <p>Thomas Springer encontró una vulnerabilidad en GNUJSP, un sevlet de Java

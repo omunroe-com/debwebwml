@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a8c6fc3c00ffb53630befe18bdb9c382a62ca99c"
 <define-tag description>安全でない一時ファイル</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が 2 件、Unix の ARC アーカイブプログラムに発見されました。The

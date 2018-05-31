@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5bfd48981d4bd08b5a05d01bddffae5bb155a199"
 <define-tag description>escape de carácter impropio</define-tag>
 <define-tag moreinfo>
 El paquete fml (un paquete de lista de correo) tal y como se distribuye en

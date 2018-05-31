@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b1de4b4ed85aeb62c80b5f636c6658a9dec1d6dc"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Bas van Schaik y Kevin Backhouse descubrieron una vulnerabilidad por desbordamiento

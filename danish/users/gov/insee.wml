@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.insee.fr/en/home/home_page.asp</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 
 <p>
   Debian anvendes primært på web- og databaseservere.  Vi har en en server der

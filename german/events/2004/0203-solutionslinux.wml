@@ -28,7 +28,7 @@ Betriebssystem demonstrieren werden.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="5f2e552417ac8c8eb0d5535d3f46577eb03bc169"
 # $Id$
 #Related Links here (free form)
 <ul>

@@ -10,4 +10,4 @@ blevet føjet til version 1.2.5-5 i Debians pakke.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-096.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8a8ad61629b59f18d5bcaefb1610615ff76fa8bc"

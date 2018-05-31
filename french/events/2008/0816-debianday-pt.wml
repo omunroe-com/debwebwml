@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="776147ba7a19330519ffb80d31b4bc8d57917b5a" maintainer="Thomas Péteul"
 <define-tag abbr>DebianDayPT</define-tag>
 <define-tag year>2008</define-tag>
 <define-tag pagetitle>Journée Debian PT 2008</define-tag>

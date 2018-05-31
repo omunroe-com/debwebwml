@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c17a2aa2f8938924e6d8fe4bdc15df54dace3362" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Adam Chester upptäckte att saknad rengörning av indata i

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="d53a87aea619472cb81cb42232248644f244074f" maintainer="Mohammed Adnène Trojette"
 <define-tag description>Usurpation par injection de script</define-tag>
 <define-tag moreinfo>
 <p>Une vulnérabilité qui permet à un attaquant d'injecter du code

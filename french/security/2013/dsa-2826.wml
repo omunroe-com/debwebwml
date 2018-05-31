@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="9a22cd8ebe1c7f6405d75595e6e2313ed27a1e47" maintainer="Jean-Pierre Giraud"
 <define-tag description>Déni de service distant de ssh</define-tag>
 <define-tag moreinfo>
 <p>Helmut Grohne a découvert que denyhosts, un outil contre les attaques par

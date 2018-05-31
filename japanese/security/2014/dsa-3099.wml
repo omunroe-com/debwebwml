@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cc8052792852bb3e2e035b34f20e24fc61ea8c4e"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Simon McVittie さんが、<a

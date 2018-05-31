@@ -1,7 +1,7 @@
 <define-tag pagetitle>Sikkerhedsbulletiner fra 2018</define-tag>
 #use wml::debian::template title="<pagetitle>" GEN_TIME="yes"
 #use wml::debian::recent_list_security
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8635bbbedf6cf68c100d16e30d03160b02a7aad7"
 
 <:= get_directory_security_list ('.', '$(ENGLISHDIR)/security/2018' ) :>
 

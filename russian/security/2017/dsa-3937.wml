@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="695691aa815d1e0a461b4c91a9ab1ecff4db5a98" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Лилит Уэйт обнаружила две уязвимости в Zabbix, системе мониторинга

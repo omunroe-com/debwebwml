@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f87d86ac3b2541a4c2f36bb0b57f9774005f9f4f"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ問題が Icedove、Debian 版の Mozilla Thunderbird

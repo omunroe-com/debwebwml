@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5f09d14914c493b24e2e783c69e3abb3e32170ca" mindelta="1"
 <define-tag description>domänöverskridande skriptangrepp</define-tag>
 <define-tag moreinfo>
 <p>Emanuel Bronshtein upptäckte att Mahara, en elektronisk portfolio,

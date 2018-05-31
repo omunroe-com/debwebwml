@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="983f688b1f4324d62b0d84bb8852627983993f05" mindelta="1"
 <define-tag description>otillräcklig städning av tecken</define-tag>
 <define-tag moreinfo>
 <p>

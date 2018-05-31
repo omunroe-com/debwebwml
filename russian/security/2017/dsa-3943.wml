@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8dcb4d440b36571d942a19d1eaf6f7782b1149d7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Gajim, клиент XMPP/Jabber на основе GTK+, безусловно реализует расширение

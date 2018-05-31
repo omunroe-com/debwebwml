@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="a1cc3a9c502b1cc6702c38e9b9ddb7389da26cd7" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Antoine Delignat-Lavaud de l'Inria a découvert un problème dans la façon

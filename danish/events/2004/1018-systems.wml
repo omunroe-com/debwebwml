@@ -23,7 +23,7 @@ udstillingshal A2 og vil bemande standen med lokale udviklere.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="dbb9c36c35e865bfad47068031aa775e7a084e91"
 #Related Links here (free form)
 <ul>
   <li><a href="1018-systems-report">Rapport</a></li>

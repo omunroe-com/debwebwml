@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="178c1fc5fcef8ac7560d128463690fb33188f703" maintainer="DFS Task Force"
 <define-tag description>Gestion d'image défaillante</define-tag>
 <define-tag moreinfo>
 <p>Thomas Kristensen a découvert une faille de sécurité dans <i>gdk-pixbuf</i> 

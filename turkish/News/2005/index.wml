@@ -1,7 +1,7 @@
 #use wml::debian::template title="2005 Yılı Haberleri"
 #use wml::debian::recent_list
 #Translator: Murat Demirten <murat@debian.org>
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 # Translators:   Recai Oktaş <roktas@omu.edu.tr>
 #                Murat Demirten <murat@debian.org>

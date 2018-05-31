@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c0968cd5d4cfd7d145914d0c90a56116952da38b"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy さんが、<a href="dsa-3032">DSA-3032-1</a>

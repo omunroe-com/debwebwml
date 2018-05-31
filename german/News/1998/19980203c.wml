@@ -1,7 +1,7 @@
 <define-tag pagetitle>Überarbeitete Debian CD verfügbar</define-tag>
 <define-tag release_date>1998-02-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="294766142f3bed048db423c48add16e9527aac81"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-02-04
 
 Warum holen Sie sich nicht die neusten Debian-Pakete und eine Online-Version

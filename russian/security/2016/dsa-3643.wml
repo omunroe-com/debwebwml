@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="53ce55fe7649bc108711c1dfe147562b1ecc613f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Андреас Корд-Ландвер обнаружил, что kde4libs, базовые библиотеки для

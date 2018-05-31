@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="62b38eb66fe93b5d005bf1e3f10f2caad2b162a2"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>バッファオーバフローが 2.2.15 以前のバージョンの Gimp の SUNRAS

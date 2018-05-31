@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ee14aef76a50691665fa23e346cf2b449ca4b69a" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>Маркус Майснер обнаружил, что программа cvsbug из CVS, которая

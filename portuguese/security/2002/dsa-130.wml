@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="827ff392fe84fdd8b558605cd87e1c418f267a53" translation_maintainer="Michelle Ribeiro"
 <define-tag description>erro de alocação de memória iniciado remotamente</define-tag>
 <define-tag moreinfo>
 <p>Versões anteriores a 0.9.3 do Ethereal estão vulneráveis a um erro de alocação 

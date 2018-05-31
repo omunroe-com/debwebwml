@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian štand na "Pluto Meeting", Padova, Italija</define-tag>
 <define-tag release_date>1999-09-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>24. i 25. rujna održan je <q>Pluto Meeting 1999</q>
 <newsurl http://meeting.pluto.linux.it>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="809c6c318b5cf68cbae3e97ca789ae811c7bf8a3" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>joernchen обнаружил, что git-cvsserver, подкоманда Git,

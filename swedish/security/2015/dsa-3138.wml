@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="555b76bf89c0899a25f2981249153dcc7abe2971" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En brist rörande fel-med-ett som leder till ett heap-baserat buffertspill

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Status av l10n i Debian &ndash; rankning av PO-filer som hanteras med po4a mellan språk"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5959963cef46e37f246a18bde82aed163915e2e1"
 
 #include "$(ENGLISHDIR)/international/l10n/po/menu.inc"
 

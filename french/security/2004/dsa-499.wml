@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="6eed95190dfcaa10a94d1fd54ddff793765ff467" maintainer="DFS Task Force"
 <define-tag description>Traversée de répertoire</define-tag>
 <define-tag moreinfo>
 <p>Une faille de sécurité a été découverte dans <i>rsync</i>, un programme de 

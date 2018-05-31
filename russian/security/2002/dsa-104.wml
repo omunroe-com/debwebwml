@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f77dcec74045c09894712fc60c9fa2a617752580" maintainer="Lev Lamberov"
 <define-tag description>DoS-атака</define-tag>
 <define-tag moreinfo>
 <p>Ларри МакВой обнаружил ошибку в коде обработки пакетов в пакете CIPE

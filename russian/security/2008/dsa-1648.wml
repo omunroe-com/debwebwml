@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="46e0aa5ed77e021e78b1181c8decf67621005d94" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>Дмитрий Обухов обнаружил, что сценарий test.alert, используемый в одной из

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-04-14" SUMMARY="Resultater af DPL-valg, debsources-statistikker, rapporter fra Mini-DebConf Barcelona, CAcert fjernet fra Debian, diskussion om fuldt funktionsdygtig RTC-/VoIP-klient i <q>Jessie</q>"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Id$
 # $Rev: 5566 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="aeaa87494ad1d7aface2b55c443e3b0f83dc131e"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Stephane Chazelas さんが、GNU C ライブラリ glibc

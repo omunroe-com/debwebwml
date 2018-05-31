@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="efa0dc8bcc67fb75951b266bad040ec796ff0a02" maintainer="DFS Task Force"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>Un problème de fichier temporaire a été découvert dans xlsview, de la

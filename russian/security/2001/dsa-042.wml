@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0f4f9f636f1555ba9e970e62578a9fd200d9e975" maintainer="Lev Lamberov"
 <define-tag moreinfo>Клаус Франк обнаружил уязвимость в используемом gnuserv
 способе обработки удалённых подключений.  Gnuserv &mdash; удалённый инструмент управления Emacsen,
 доступный и как отдельная программа, и как часть XEmacs21.

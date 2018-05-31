@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Luca Monducci"
 <define-tag pagetitle>Aggiornamento per Debian GNU/Linux 4.0 e aggiunta del supporto per l'hardware più recente</define-tag>
 <define-tag release_date>2008-07-26</define-tag>
 #use wml::debian::news

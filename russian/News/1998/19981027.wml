@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="12c5f20915451d16c3d80396d10050544e744ab1" maintainer="Lev Lamberov"
 <define-tag pagetitle>Веб-сайт Debian получил награду 'Best of the Net'</define-tag>
 <define-tag release_date>1998-10-27</define-tag>
 #use wml::debian::news

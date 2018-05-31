@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8750d183c8157a43bd3dd4d79c6d9fb347761ba9"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>クロスサイトスクリプティング脆弱性が複数、軽量なバグ追跡システム

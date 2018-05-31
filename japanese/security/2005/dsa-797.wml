@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="3403cd2032d50c3c8bdf7611fc15e07a55b80ab6"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>ファイル転送プログラム zsync は、改変された

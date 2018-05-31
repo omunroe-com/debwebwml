@@ -1,7 +1,7 @@
 <define-tag pagetitle>Imagination håller farten i Debians MIPS-anpassningar</define-tag>
 <define-tag release_date>2015-03-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Andreas Rönnquist"
+#use wml::debian::translation-check translation="4602d1179902824fc0539d20c3540a007b57022a" maintainer="Andreas Rönnquist"
 
 <p>
 I Oktober 2014 donerade Imagination Technologies flera

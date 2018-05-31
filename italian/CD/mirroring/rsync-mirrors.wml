@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Elenco dei mirror rsync per immagini dei CD Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.4" maintainer="Ireneo Funes"
+#use wml::debian::translation-check translation="d15cbd4e121ea975532c1dda0bc1b79f69cee45d" maintainer="Ireneo Funes"
 
 <p>Questi sono gli indirizzi dei mirror <a
 href="http://rsync.samba.org/">rsync</a> delle immagini dei CD

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="fbd7af7d4edfd4cf5cd8dc79ac4548e406bbf29d"
 <define-tag description>useita haavoittuvuuksia</define-tag>
 <define-tag moreinfo>
 <p>Linux-ytimessä on havaittu useita haavoittuvuuksia.</p>

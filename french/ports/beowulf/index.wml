@@ -1,6 +1,6 @@
 #use wml::debian::template title="Le Projet Beowulf" NOHEADER="yes"
 
-#use wml::debian::translation-check translation="1.22" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="a1b60f428a630119547244150072ba59e6d6c706" maintainer="Jean-Paul Guillonneau"
 
 # Traducteur initial : Thomas Marteau.
 # Traducteurs suivants : voir journal.

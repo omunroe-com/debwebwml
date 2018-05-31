@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4f7cabc58e2e8775aa994f0ae2de81e1f3149a89"
 <define-tag description>etäkomentojen suorittaminen</define-tag>
 <define-tag moreinfo>
 <p>gallery-ohjelmassa (www-pohjainen valokuva-albumityökalu) havaittiin

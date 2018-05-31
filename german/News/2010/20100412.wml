@@ -1,7 +1,7 @@
 <define-tag pagetitle>Neuer Archiv-Schnappschuss-Dienst verfügbar</define-tag>
 <define-tag release_date>2010-04-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Das Debian-Projekt freut sich einen neuen Dienst &ndash; verfügbar über
 <a href="http://snapshot.debian.org/">http://snapshot.debian.org/</a>

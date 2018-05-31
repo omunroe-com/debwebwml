@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c3f2fc874c4fcdf8035dfc039448cd075130537a"
 <define-tag description>vulnerabilidade de formato de string</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" notou que as funções de log no dhcp 2.x, que ainda é

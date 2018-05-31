@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="584faa2a3070dfb30c55f7f325441f91037b79a1" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Peter Vreugdenhil descubrió que awstats, un analizador

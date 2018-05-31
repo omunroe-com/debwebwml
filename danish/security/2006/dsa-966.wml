@@ -18,4 +18,4 @@ version 20060115-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-966.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b38005f95c8859534ad3a8703e08396029a408b9" mindelta="1"

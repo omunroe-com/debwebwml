@@ -2,7 +2,7 @@
 <define-tag release_date>1997-03-26</define-tag>
 
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="110c362af86c1824259b016837baaed49f7c64ac" translation_maintainer="Martin Quinson"
 
 <p>
 Debian se cherche un logo. Si vous voulez voir les possibilités

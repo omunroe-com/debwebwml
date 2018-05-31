@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-01-31" SUMMARY="Debian 6.0 <q>Squeeze</q> が今週リリース、DebConf チームへ参加しませんか、セキュリティチームからの一言"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.19"
+#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7"
 
 <define-tag MID whitespace=delete>https://lists.debian.org/$0</define-tag>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="04cd993097ff55003617295306d2d7397b71ba10"
 <define-tag description>kilka naruszeń bezpieczeństwa</define-tag>
 <define-tag moreinfo>
 <p>Opiekunowie IA-64 naprawili kilka związanych z bezpieczeństwem błedów

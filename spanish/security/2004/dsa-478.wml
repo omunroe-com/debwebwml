@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="05a9acf0abdd99c9ab270ad69ec3eae0727b4817"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que tcpdump, una herramienta para monitorización

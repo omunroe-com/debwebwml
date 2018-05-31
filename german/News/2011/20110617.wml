@@ -3,7 +3,7 @@
 <define-tag release_date>2011-06-17</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="bcf218d65ece264827b0635d3a23508912134fc7"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2011-06-20
 
 <p>Das Debian-Projekt freut sich, den anstehenden Beginn einer neuen Runde der 

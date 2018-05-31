@@ -14,4 +14,4 @@ distribution (woody), i version 1.0-2.2 af den gamle stabile distribution
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-184.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7eb156815524934ebdb41925c21bf627e1e9d219"

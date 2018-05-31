@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4e651935e73a083dfe53f33116698e1c64f88455" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhet har upptäckts i screen som orsakar en stackbuffertspill

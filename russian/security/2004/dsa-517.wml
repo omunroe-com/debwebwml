@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0be581098845e603cfe91e9bafa387959e8c2c9c"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Дерек Роберт Прайс (Derek Robert Price) обнаружил потенциальную

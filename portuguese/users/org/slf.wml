@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.slf.ch/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f41a38d08ddd199b74b8a0f16d4c6d4aa43560a2"
 
 <p>
   Nós instalamos o Debian em cerca de 30 servidores, rodando serviços como

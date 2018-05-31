@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5d72ef310e1ee1c84a08bccf7b9fe046dfb4b114" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Тилей Ванг обнаружил, что CamlImages, библиотека для обработки изображений

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Aggiungere nuovi distributori all'elenco dei distributori di CD"
-#use wml::debian::translation-check translation="1.5" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="36a5f3c2e6fc935d982de2a73e5e7bb1767f13ce" maintainer="Luca Monducci"
 
 <p>Se si sta pensando di vendere i CD Debian, si dovrebbe leggere la pagina
 web con le <a href="info">informazioni per i distributori</a> Debian.</p>

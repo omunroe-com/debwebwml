@@ -1,7 +1,7 @@
 # From: darkveggy <darkveggy@anargeek.net>
 # 2015 Audit. Current as of April 23, 2015
 # 2015 Email: https://lists.debian.org/debian-www/2015/04/msg00151.html
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c6e20b7c1e7d6c22fa4476bc1d65d311da78a6c4" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>PRINT, Espace autog&eacute;r&eacute; des Tanneries, Франция</define-tag>
 <define-tag webpage>http://print.squat.net/</define-tag>

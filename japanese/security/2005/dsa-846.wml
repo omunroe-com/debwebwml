@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5d752d0151f3edcb5e98c09428f28a936e187828"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が 2 件、ファイルのアーカイブを管理するプログラム cpio に発見されました。

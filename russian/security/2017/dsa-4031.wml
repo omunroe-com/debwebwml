@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="60bbfaf2abb6c026015e0805d790a044c7b24088" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В интерпретаторе языка Ruby было обнаружено несколько уязвимостей.

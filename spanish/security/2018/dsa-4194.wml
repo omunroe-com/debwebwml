@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0f756e0d010968c569b8fc5a81d94a01f925931c"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad de entidad externa XML en el

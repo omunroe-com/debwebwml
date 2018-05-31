@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6cd2c566e01ce9dbdeff5c26459909126b89e692" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ryan Butterfield upptäckte en sårbarhet i datummallsfiltret i

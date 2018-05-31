@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="64abbc5bd95032249f8946884416961bbe78f258" maintainer="Juan M. Garcia"
 <define-tag description>error de diseño</define-tag>
 <define-tag moreinfo>
 <p>Mike O'Connor descubrió que la instalación predefinida de Horde3

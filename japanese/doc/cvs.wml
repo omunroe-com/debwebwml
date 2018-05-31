@@ -1,6 +1,6 @@
 #use wml::debian::ddp title="Debian ドキュメンテーションプロジェクトの VCS"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.41"
+#use wml::debian::translation-check translation="01b1789e9ebd40d1c24729fcfe79a6b1f4baf15b"
 
 <p>The Debian Documentation Project では、ウェブページや多くのマニュアル文書を
 <strong>svn.debian.org</strong> の Debian Subversion 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Az instabil verzió (&#8222;sid&#8221;)"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="e47851b5ac1543503f7d4c10dc68bcdb9e2cbb68"
 
 #include "$(ENGLISHDIR)/releases/arches.data"
 # translated by Viktor Nagy <chaos@gnu.nytud.hu>

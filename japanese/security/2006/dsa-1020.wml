@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a0ae968313bb594638ab0acaed7855e7d3137c69"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Chris Moore さんが、スキャナ生成ツール flex

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainerr="juanma"
+#use wml::debian::translation-check translation="211ba76dadb8608aa2057e8b5e3f3dfbf1786aa6" maintainerr="juanma"
 <define-tag description>debilidad en el diseño</define-tag>
 <define-tag moreinfo>
 <p>Paul Szabo descubrió otra vulnerabilidad en la función

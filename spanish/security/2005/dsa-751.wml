@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="8045e409cf0d984e0830131382e10936d4c4da8d" maintainer="Juan M. Garcia"
 <define-tag description>IPs falseadas</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores descubrieron un error en el código de búsqueda en

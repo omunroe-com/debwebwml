@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2581ce47d9d0462dfd24f8535da4ba0c8ab82860"
 <define-tag description>permissões de arquivo erradas</define-tag>
 <define-tag moreinfo>
 <p>Simon Josefsson notou que o arquivo de configuração tspc.conf 

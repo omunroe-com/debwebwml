@@ -1,5 +1,5 @@
 #use wml::debian::template title="Autobuilder network"
-#use wml::debian::translation-check translation="1.24" maintainer="Giovanni Mascellani"
+#use wml::debian::translation-check translation="c328d6d0518c62504761185eea1d4e21fc240d0e" maintainer="Giovanni Mascellani"
 
 <p>La rete di buildd è un sottoprogetto di Debian che aiuta a velocizzare
 la ricompilazione dei pacchetti per tutte le architetture che

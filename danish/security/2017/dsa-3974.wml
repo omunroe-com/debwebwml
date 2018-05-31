@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5efdc886b003f70d9b0cc257af84e749911991d4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To problemer blev opdaget i Tomcats servlet og JSP-motor.</p>

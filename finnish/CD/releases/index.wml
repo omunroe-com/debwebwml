@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Julkaisutietoja Debian CD-vedoksista" BARETITLE=true
-#use wml::debian::translation-check translation="1.34"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <p>Tämä sivu sisältää historiallista viime hetken tietoa virallisista Debianin 
 CD-vedoksista.</p>

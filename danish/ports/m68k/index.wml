@@ -1,5 +1,5 @@
 #use wml::debian::template title="Motorola 680x0-tilpasning" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.36"
+#use wml::debian::translation-check translation="40581c4d7249c0d28f7574d15e7614b10f2752b4"
 #use wml::debian::toc
 
 <toc-display/>

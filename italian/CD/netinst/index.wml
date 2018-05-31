@@ -2,7 +2,7 @@
 #use wml::debian::release_info
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.66" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="40eeef5c10b97819abf8467d7f2a8038a8729ff8" maintainer="Luca Monducci"
 
 <p>Un CD per l'<q>installazione via rete</q> o <q>netinst</q> è un
 semplice CD che permette di installare l'intero sistema operativo.

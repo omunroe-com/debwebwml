@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="08312bf138465123f9ba6def8d632f7acb5a70dc" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Toshifumi Sakaguchi đã khám phá ra rằng miếng vá đã áp dụng cho pdns,

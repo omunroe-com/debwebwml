@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="DDP - Sekalaiset käyttöoppaat"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/misc-manuals.defs"
-#use wml::debian::translation-check translation="1.25"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9"
 
 <document "Debian-projektin historia" "history">
 

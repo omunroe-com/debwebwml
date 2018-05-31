@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="99c9266fae57b82da1a40cc59d483ce6d5f302df" mindelta="1"
 <define-tag description>ophørt livsforløb</define-tag>
 <define-tag moreinfo>
 <p>Sikkerhedsunderstøttelse fra opstrøm af Typo3 4.5.x ophørte for tre måneder 

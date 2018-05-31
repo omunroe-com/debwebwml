@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="f4424b27037553814e1f2ec9d3c8ac15d2eaef6c"
 <define-tag description>Felaktiga rättigheter för xmonisdn</define-tag>
 <define-tag moreinfo>Xmonisdn är ett X-miniprogram som visar status för
 ISDN-uppkopplingar.

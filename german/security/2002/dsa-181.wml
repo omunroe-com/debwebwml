@@ -29,5 +29,5 @@ Distribution (Potato) und in Version 2.8.9-2.3 für die unstable Distribution
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-181.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6ab4efd6aef9d515c9ab56323e046eae02181c82"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="2c9f8dd32462c863f89af7c5c71f6b3790608994" maintainer="DFS Task Force"
 <define-tag description>Entrée non vérifiée</define-tag>
 <define-tag moreinfo>
 <p>Graham Dumpleton a découvert une faille qui touche quiconque utilisant le

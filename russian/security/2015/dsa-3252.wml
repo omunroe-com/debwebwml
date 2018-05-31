@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c6fffcdc2fb937201208f2d6fa438e360fad4c2d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Михал Залевски обнаружил многочисленные уязвимости в SQLite, которые

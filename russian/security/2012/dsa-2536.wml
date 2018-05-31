@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dadc4ce074cdca49984b9331abf8786ccca64345" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптинг</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Open Ticket Request System (OTRS),

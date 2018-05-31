@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Johan Haggi"
+#use wml::debian::translation-check translation="1af71b43d235b010ef90dfffb6f059a0c1c66c0b" maintainer="Johan Haggi"
 <define-tag abbr>LUDEX04</define-tag>
 <define-tag year>2004</define-tag>
 <define-tag pagetitle>Linux User &amp; Developer Expo 2004</define-tag>

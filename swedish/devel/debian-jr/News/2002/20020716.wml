@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <define-tag pagetitle>Debian Jr. &ndash; Vad händer?</define-tag>
 <define-tag release_date>2002-07-16</define-tag>
 #use wml::debian::news

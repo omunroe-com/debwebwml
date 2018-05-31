@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="13ad01c1b15c800d409d0a73366ce01fc8abaf8f" mindelta="1"
 <define-tag description>end-of-life-meddelande för iceape</define-tag>
 <define-tag moreinfo>
 <p>Säkerhetsstödet för Iceape, den Debian-märkta versionen av 

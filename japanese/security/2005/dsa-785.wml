@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b27d11d23c55bd839184766c856e4d6d383c8a48"
 <define-tag description>認証バイパス</define-tag>
 <define-tag moreinfo>
 <p>Pluggable Authentication Module (PAM) の libpam-ldap

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9a22cd8ebe1c7f6405d75595e6e2313ed27a1e47" maintainer="Lev Lamberov"
 <define-tag description>удалённый отказ от обслуживания ssh</define-tag>
 <define-tag moreinfo>
 <p>Гельмут Гроне обнаружил, что denyhosts, инструмент для предотвращения атак SSH

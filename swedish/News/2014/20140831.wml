@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="02ed3dcb98a9a0948881ec9b35409d269fe36573"
 <define-tag pagetitle>DebConf 14 avslutas i Portland och datumen för DebConf 15 tillkännages</define-tag>
 <define-tag release_date>2014-08-31</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="6131fd45422f4da95c389b4bd2ef054022891657" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Débordement de zone de mémoire tampon du système</define-tag>
 <define-tag moreinfo>

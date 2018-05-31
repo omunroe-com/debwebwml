@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="22fc4f209b1fb4f6b159f19f8fcc094b4a378753" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Bjoern Jacke upptäckte att Exim, Debians standard e-postöverföringsagent,

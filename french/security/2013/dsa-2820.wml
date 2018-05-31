@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="3b235a77d315707de01c8c2d1284fdda2d2bc7b3" maintainer="Thomas Vincent"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>NSPR, la bibliothèque d'exécution portable de Netscape, pourrait planter

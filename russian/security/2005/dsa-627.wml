@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4d7eec21871d818163333e587fbf6238e1415048" maintainer="Lev Lamberov"
 <define-tag description>неочищенный ввод</define-tag>
 <define-tag moreinfo>
 <p>В namazu2, движке полнотекстового поиска, был обнаружен межсайтовый

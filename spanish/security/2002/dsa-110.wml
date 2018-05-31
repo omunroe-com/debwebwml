@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ee24937fbfcb986923c55864c3ff9ced5b7823e3"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Los autores de CUPS el Sistema de Impresión Común de UNIX (en inglés, Common

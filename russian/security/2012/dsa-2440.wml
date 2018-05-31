@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6d32495d1ea3eeace4c0f4c6bbc7fc70d11a7ea7" maintainer="Lev Lamberov"
 <define-tag description>отсутствие проверки границ буфера</define-tag>
 <define-tag moreinfo>
 <p>Мэтью Холл обнаружил, что многие вызывающие функцию asn1_get_length_der функции

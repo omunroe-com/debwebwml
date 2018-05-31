@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Mohammed Adnène Trojette"
 <define-tag pagetitle>Les paquets Gnumed-client sont entrés dans testing</define-tag>
 <define-tag release_date>2005-11-02</define-tag>
 #use wml::debian::news

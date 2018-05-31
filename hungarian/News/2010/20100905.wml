@@ -2,7 +2,7 @@
 <define-tag release_date>2010-09-05</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="f3d5ed6297fc8b7e45a2ab7501f5d88ba8a328cf"
 
 
 <p>A Debian Projekt örömmel jelenti be, hogy a Backports szolgáltatás, ami

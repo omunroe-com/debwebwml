@@ -2,7 +2,7 @@
 <define-tag webpage>http://linuxlabs.pl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="e979950a1f5bb9588a97b92be305a8897dafdea8" maintainer="Jean-Paul Guillonneau"
 
 <p>
    Linuxlabs fournit, vingt-quatre heures sur vingt-quatre et sept jours sur sept, une assistance

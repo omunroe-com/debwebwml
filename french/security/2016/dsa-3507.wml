@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="4b3495d62b701d15107c0e05e54ae1dda2ffc4e3" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans le navigateur web chromium.</p>

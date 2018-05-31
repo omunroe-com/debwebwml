@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="24da195a26b729edc1231dade2abcf5f8dac8f33" maintainer="Juan M. Garcia"
 <define-tag description>error de diseño</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un error de diseño en el juego de herramientas para

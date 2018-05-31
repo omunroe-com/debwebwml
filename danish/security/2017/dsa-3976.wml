@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="00f6c1a20538a12d0e1d366d76c4e21ae02b767c" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Marcin <q>Icewall</q> Noga fra Cisco Talos opdagede to sårbarheder i freexl, 

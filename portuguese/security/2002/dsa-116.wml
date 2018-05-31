@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="8ffe0c51006afed570c6053e07a1a8da1cb826a0" translation_maintainer="Michelle Ribeiro"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Zorgon encontrou umm buffer overflow grave no cfsd, um daemon

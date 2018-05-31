@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="618b8b6e1c6183af91f6da884e6ed7f0f1cd7bfb" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В библиотеке GNU C, glibc, было обнаружено несколько уязвимостей.</p>

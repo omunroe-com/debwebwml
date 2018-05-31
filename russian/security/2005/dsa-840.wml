@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba8fdddc9e6cca16be38a6f60d1b61a79f80fc04" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Штефан Эссер из проекта Hardened-PHP сообщил о серьёзной уязвимости

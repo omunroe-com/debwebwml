@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8bfcc81ad0e80ae51eeb1e6bbc24cac0a1b6fe65"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Bjorn Mork さんと Laurent Butti さんが、PPP

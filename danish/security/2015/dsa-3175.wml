@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4dfbc3f9726f7562a0e47f907728772af7221ac3" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Mateusz Kocielski og Marek Kroemeke opdagede at et heltalsoverløb i 

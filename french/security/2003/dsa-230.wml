@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="307b4102df78ee50d5fe2062ecd3e5f5e086e52e" maintainer="Pierre Machard"
 <define-tag description>Permissions non sécurisées, fichiers de sauvegarde frauduleux</define-tag>
 <define-tag moreinfo>
 <p>Deux failles ont été découvertes par les auteurs de Bugzilla, un système de 

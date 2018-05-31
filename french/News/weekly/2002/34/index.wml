@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-09-03" SUMMARY="OpenOffice, WNPP, Sécurité, Correction de bogues, Bogues, Distribution de test, Polices TrueType, Apsfilter, Debian sur CD"
 # $Id$
-#use wml::debian::translation-check translation="1.17" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Thomas Huriaux"
 
 <p>Nous avons le plaisir de vous présenter la 34e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian.

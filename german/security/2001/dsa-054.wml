@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="896b1833f01aaa47068fa1842d74da3d4646e541"
 # Translator: Alexander Reiter <leckse@gmx.net>
 <define-tag description>Lokaler root-Exploit</define-tag>
 <define-tag moreinfo>

@@ -15,5 +15,5 @@ Distribution (Woody), in Version 1-9.1 für die alte stable Distribution
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-166.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="597062fb50c44c251eb9991ec3292a5aeb0b5931"
 # $Id$

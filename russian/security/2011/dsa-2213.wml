@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f896a59af56ce99b3f3f1dd6cc6339d7d029f7aa" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Себастиан Крамер обнаружил, что xrdb, утилита для работы с базой данных

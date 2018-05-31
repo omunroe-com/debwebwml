@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian 6.0 -- Errata" BARETITLE=true
 #use wml::debian::toc
 
-#use wml::debian::translation-check translation="1.15" maintainer="T. Surya Fajri"
+#use wml::debian::translation-check translation="10e6d5a526065596d98318934ae8cb58bec463e2" maintainer="T. Surya Fajri"
 #Translator: T. Surya Fajri <kilelme@gmail.com>
 
 #include "$(ENGLISHDIR)/releases/info"

@@ -26,4 +26,4 @@ når de bliver tilgængelige.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1605.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="4651d2e3c74ce0bda82ca3934b94516bb3d1a40c" mindelta="1"

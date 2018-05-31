@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-10-18" SUMMARY="État de Debian 6.0 <q>Squeeze</q>, ask.debian.net, DebianEdu mise à jour, nouveaux rétroportages <q>sloppy</q>, appartenance au projet Debian"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.14" maintainer="David Prévot"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="David Prévot"
 
 <!--
 $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c0621a6161f6bb886e00de58526f59edbdbe3795" mindelta="1"
 <define-tag description>förbigången värdnamnskontroll</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att PyOpenSSL, en Python-wrapper runt OpenSSL-biblioteket, 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="0956d9b2525d37c9f896cfc2107fe0af92325e96"
 <define-tag pagetitle>France Telecom usa Debian</define-tag>
 <define-tag release_date>1999-09-17</define-tag>
 #use wml::debian::news

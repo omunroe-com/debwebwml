@@ -19,4 +19,4 @@ opdateringer af Iceweasel-pakken.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1753.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="844099c5d05f2d87eca00b17e02237cdd99dda28" mindelta="1"

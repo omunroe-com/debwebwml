@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="23ff658118ba35b8c7c48573709831c1f4e1ce89" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p><i>libxml2</i> est une bibliothèque pour manipuler les fichiers XML.</p>

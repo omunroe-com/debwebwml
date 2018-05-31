@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b59339f39f4e4393e4bc93011a03490b71c385b0"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Debian セキュリティ監査プロジェクトの一員である "jaguar" さんは、

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a577c58298377966964384b233c404993f3d5575" maintainer="DFS Task Force"
 <define-tag description>Échec d'une fonction et purge des TLB</define-tag>
 <define-tag moreinfo>
 <p>Paul Starzetz et Wojciech Purczynski de isec.pl ont découvert une

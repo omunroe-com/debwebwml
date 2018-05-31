@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="299a73094a8679c55579acac791ee934866a308c"
 <define-tag description>otillräcklig kontroll av indata</define-tag>
 
 <define-tag moreinfo>

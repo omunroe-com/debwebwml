@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag description>salto de safe_mode, inyección de CRLF</define-tag>
 <define-tag moreinfo>
 <p>Wojciech Purczynski descubrió que era posible que los scripts pasaran

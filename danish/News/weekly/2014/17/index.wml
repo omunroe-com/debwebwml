@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-12-29" SUMMARY="Onlineredigering af kildekode, Debian-kodesøgning, UEFI-understøttelse i Jessie, Begræsning af valgperiode for den tekniske komites, Debian Long Term Support og Freexians fjerde rapport, Fordrag, bemærkninger og anvendelse af C++11 i Jessie, Fejlrapporter i Jessie, DPN spørger: Auditører, hvad laver I?, Andet nyt"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 # $Id$
 # $Rev: 5933 $

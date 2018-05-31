@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Lev Lamberov"
 <define-tag pagetitle>Debian Project на Desktop Linux Summit</define-tag>
 <define-tag release_date>2003-02-15</define-tag>
 #use wml::debian::news

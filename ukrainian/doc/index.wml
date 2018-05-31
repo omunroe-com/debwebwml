@@ -1,5 +1,5 @@
 #use wml::debian::template title="Документація"
-#use wml::debian::translation-check translation="1.92" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="7c8709431a0e218f5aaf78a1a8f7b69044c82a01" maintainer="Borys Yanovych"
 
 <p>Важливою частиною будь-якої операційної системи є документація, технічні
 посібники, що описують принципи роботи та методи використання програм. Намагаючись

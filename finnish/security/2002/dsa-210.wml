@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="08895f3ef12ef09e6ba458efde39aed3f81eff44"
 <define-tag description>CRLF-syöttö</define-tag>
 <define-tag moreinfo>
 <p>lynx (tekstipohjainen web-selain) ei tarkista kunnolla kiellettyjä

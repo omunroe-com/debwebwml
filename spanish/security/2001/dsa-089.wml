@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="bbee56b8439219ab61abedae84c557d18f42baf9"
 <define-tag description>explotación de root temota (y otras)</define-tag>
 <define-tag moreinfo>
 <p>El paquete del servidor icecast (un servidor de música en streaming) tal y

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="62448fa10e5960a7efc5964155a327d5d0fc9f5d" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Джош Беркус и Том Лэйн обнаружили, что MySQL 4.1, популярная база

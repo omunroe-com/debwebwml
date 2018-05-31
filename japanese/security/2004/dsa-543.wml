@@ -38,7 +38,7 @@
 <p>直ちに krb5 パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9f69927fbd154937427ede7ed26b4ecdcc84556a"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-543.data"
 # $Id$

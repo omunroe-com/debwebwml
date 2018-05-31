@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="35b31be86422e6d1619eb5d48022c533e4a400cd" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Флориан Ваймер из Red Hat Product Security обнаружил, что libvdpau,

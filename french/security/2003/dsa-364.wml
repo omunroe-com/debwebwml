@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="c9d3368d270e05503dd47a2ff4db44ae74fff36d" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon et exécution arbitraire de commande</define-tag>
 <define-tag moreinfo>
 <p><i>man-db</i> fournit la commande standard man(1) sur les systèmes Debian.

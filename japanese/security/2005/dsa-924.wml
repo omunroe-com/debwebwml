@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4099b0af013595f199ff7e8933edc80fd3313e55"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Kurt Fitzner さんが、ネットワークブロックデバイスクライアントおよびサーバ

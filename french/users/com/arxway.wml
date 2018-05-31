@@ -1,7 +1,7 @@
 <define-tag pagetitle>arxway di arciero alessandro, Pradamano, Udine, Italie</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="f075886b2d8446a887a3d0803e13a9239a7a16f7" maintainer="Jean-Pierre Giraud"
 
 <p>
     Notre société est spécialisée dans les réseaux, la sécurité des technologies de 

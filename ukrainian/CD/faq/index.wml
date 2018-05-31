@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Часті питання про компакт-диски Debian" NOHEADER=true BARETITLE=true
-#use wml::debian::translation-check translation="1.88"
+#use wml::debian::translation-check translation="246069b67d2761100e636810f5aa6d220ed09b46"
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 

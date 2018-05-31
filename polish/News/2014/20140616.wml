@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="990474d0b4f565a2d919f689d5a31f2940de1c97"
 <define-tag pagetitle>Początek okresu długoterminowego wsparcia dla Debian 6</define-tag>
 <define-tag release_date>2014-06-16</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="efe2a380651d51ff9da2564cfbc4359842f9b975" maintainer="Marco Carvalho"
 <define-tag description>erro de programação</define-tag>
 <define-tag moreinfo>
 <p>Kjetil Kjernsmo descobriu um erro na libimager-perl, uma extensão

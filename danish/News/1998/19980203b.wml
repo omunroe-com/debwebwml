@@ -1,7 +1,7 @@
 <define-tag pagetitle>Udviklingen af Debian 2.0 nærmer sig sin afslutning</define-tag>
 <define-tag release_date>1998-02-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="16899e40ccb21846d156811b827cca5df9566953"
 
 <p>Pakken indeholdende Debian 2.0s startdisketter er blevet uploadet og er ved
 at blive afprøvet, en omfattende afprøvning af systemet forventes snart at 

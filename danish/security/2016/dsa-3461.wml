@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c0ef80d0f106e2f9c7377aadc204157e0d073e6e" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Mateusz Jurczyk opdagede adskillige sårbarheder i Freetype.  Åbning af 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Steg 5: Rekommendation" NOHEADER="true"
-#use wml::debian::translation-check translation="1.30"
+#use wml::debian::translation-check translation="7606615ccc824d084b77b8389bc4b0de77974b15"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
 
 <p>Trots att informationen på denna sida är publik är den av störst intresse 

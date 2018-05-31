@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Yannick Roehlly"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Yannick Roehlly"
 <define-tag pagetitle>Compte-rendu du BOF sur les distributions personnalisées du Debcamp</define-tag>
 <define-tag release_date>2003-07-17</define-tag>
 #use wml::debian::news

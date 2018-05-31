@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a8f41654dff784bbfa415dbd79c39b75301de36a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp さんにより、curses ベースのリアルタイムマルチプレーヤ戦闘ゲームの

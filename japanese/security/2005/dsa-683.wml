@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e9a10f3144c2016c5008676fd15cb7e5da999371"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>PostgreSQL のエンジン部分の一部である PL/PgSQL に、

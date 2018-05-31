@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debians partnere" BARETITLE=true
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.133"
+#use wml::debian::translation-check translation="2364043ee09abec2ab4aead9d75aa82206045aa5"
 #include "$(ENGLISHDIR)/partners/index.include"
 
 <h3>Hvad er partnerskabsprogrammet?</h3>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7acec469bb05eecc13fc65f91bde2ac9cdaa2db1"
 <define-tag description>不正なメモリアクセス</define-tag>
 <define-tag moreinfo>
 

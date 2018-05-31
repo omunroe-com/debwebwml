@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3b235a77d315707de01c8c2d1284fdda2d2bc7b3" mindelta="1"
 <define-tag description>heltalsoverløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at NSPR, Netscape Portable Runtime library, kunne få en 

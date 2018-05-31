@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b6bf03d787fb16b2f9f3854b982b3254c02d7369"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>問題が「カタンの開拓者たち」ボードゲームのコンピュータ版

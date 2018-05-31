@@ -1,5 +1,5 @@
 #use wml::debian::template title="DebianConference 2001 -- Agenda"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="700a1881a91235868f72882d78c5c4cb8a19273a"
 
 <define-tag talk>
 <preserve time title speaker email>

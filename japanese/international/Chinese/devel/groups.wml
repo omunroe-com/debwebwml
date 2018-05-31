@@ -1,5 +1,5 @@
 #use tmpl::debian-zh::template area=devel.groups title="Debian 中国語プロジェクト内グループ"
-#use wml::debian::translation-check translation="1.11" original="chinese"
+#use wml::debian::translation-check translation="2b1232338eab9d8d2df3718e18e5e5ccc1bacc5e" original="chinese"
 
 <p><href url="$(HOME)/international/Chinese/" name="Debian 中国語プロジェクトメインページに戻る"></p>
 <hr />

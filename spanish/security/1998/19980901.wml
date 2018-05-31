@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="2c7cedb8e0fb02b64c3c71add86fe5d90b281fe8"
 <define-tag moreinfo>
 Mensajes recientes en un foro de seguridad de computadoras han informado de
 que hay desbordamientos de búfer en minicom.  Estos pueden conducir a

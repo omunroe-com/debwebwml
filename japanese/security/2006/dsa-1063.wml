@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4dce983ccc5f5331bf6c99b54209e26a4c3ba4c5"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>ウェブベースのグループウェアシステム phpgroupware の一部である FUD

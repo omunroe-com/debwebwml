@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e8a080dfa22f4d648fd3f104663ea8eb691976e0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Pidgin, клиенте обмена мгновенными сообщения с поддержкой множества

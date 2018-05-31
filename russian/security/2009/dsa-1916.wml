@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="16bb85393c48d20e78fb44c098ff929810d378ce" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка входных данных</define-tag>
 <define-tag moreinfo>
 <p>Дэн Камински и Мокси Марлинспайк обнаружили, что kdelibs, базовые библиотеки из

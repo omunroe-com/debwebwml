@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6b8a803853a4c314e038009319b6c4d9419efede" mindelta="1"
 <define-tag description>läsning utanför gränserna</define-tag>
 <define-tag moreinfo>
 <p>Antonio Martin upptäckte en överbelastningssårbarhet i OpenSSL,

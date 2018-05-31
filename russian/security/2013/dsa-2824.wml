@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="143c3e1844802f89bdcd0235f64b3f3b97e310e2" maintainer="Lev Lamberov"
 <define-tag description>непроверенное имя узла сертификата tls/ssl</define-tag>
 <define-tag moreinfo>
 <p>Марк Деслаурис обнаружил, что curl, инструмент получения файлов, может

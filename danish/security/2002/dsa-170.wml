@@ -17,4 +17,4 @@ desuden ikke sårbare overfor dette problem.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-170.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bf945389e258ddef21e7ed102a7e0ebd0081ccca"

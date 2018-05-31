@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c10c3bc990afcfde152dbf3d37411f5a0eb19295" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at et heap-baseret bufferoverløb i InspIRCd kunne gøre det 

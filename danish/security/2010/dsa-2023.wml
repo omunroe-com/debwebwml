@@ -22,4 +22,4 @@ dette problem rettet i version 7.20.0-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2023.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bc75bfbd4b7e1bb1d595803cb3bde20d85c7310f" mindelta="1"

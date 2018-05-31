@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian deltager i Googles "Summer of Code"</define-tag>
 <define-tag release_date>2006-05-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektet deltager i årets "Summer of Code" (Kodningssommer).  Flere 
 end 50 udviklingsopgaver dækker generelle forbedringer, kvalitetskontrol, 

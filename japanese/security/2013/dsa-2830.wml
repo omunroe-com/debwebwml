@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="814d157b203d98f3fd3173fe6e5a02a4479e3dd0"
 <define-tag description>クロスサイトスクリプティング</define-tag>
 <define-tag moreinfo>
 <p>Peter McLarnan さんが、Ruby on Rails の i18n gem が、生成する HTML

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e0266b54a00d80946515ac8b4161ac6f4024f7c5" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Гвидо Вранкен обнаружил, что FreeRADIUS, реализация RADIUS, протокола

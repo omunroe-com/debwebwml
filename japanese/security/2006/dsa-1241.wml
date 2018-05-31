@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1473c6ce0855137c841ad4c9ea87334689af4bba"
 <define-tag description>クロスサイトスクリプティング</define-tag>
 <define-tag moreinfo>
 <p>Martijn Brinkers さんが、webmail.php の mailto パラメータ、compose.php

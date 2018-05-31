@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-12-31" SUMMARY="DWN, Calendrier des événements, Disquettes de démarrage, Dons, GTK+, Alpha, KDE, CD de mise à jour, Nettoyage"
-#use wml::debian::translation-check translation="1.20" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="8dba7ef8c7a857e37f21ea9355d7c02d91438d91" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 51e <i>DWN</i> de l'année, la
 lettre d'information hebdomadaire de la communauté Debian. Un grand nombre

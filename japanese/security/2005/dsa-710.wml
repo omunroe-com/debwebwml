@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="942b5c301b869b49f1d7528fa79c6d728257cb67"
 <define-tag description>null ポインタの参照</define-tag>
 <define-tag moreinfo>
 <p>Alan Cox さんは gtkhtml に問題を発見しました。gtkhtml は メールリーダ Evolution

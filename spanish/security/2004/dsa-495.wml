@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="6ef5cda8978a4e9efb4e46f33581b5ec99a99451"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varios problemas serios en el núcleo Linux. 

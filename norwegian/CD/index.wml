@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian på CD-er" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.40" maintainer="Hans F. Nordhaug"
+#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b" maintainer="Hans F. Nordhaug"
 # Oversatt til norsk av Tor Slettnes <tor@slett.net>
 # Oppdatert av Peter Karlsson <peterk@debian.org>
 # Oppdatert av Hans F. Nordhaug <hansfn@gmail.com>, 2008-2017

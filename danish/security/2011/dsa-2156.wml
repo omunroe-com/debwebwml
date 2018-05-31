@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d4dc224f456377792840747f6f306cabd1caf264" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>MWR InfoSecurity fandt et bufferoverløb i pcscd, middleware beregnet til at

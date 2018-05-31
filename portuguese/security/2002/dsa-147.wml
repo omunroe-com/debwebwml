@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="43ceb80284a736733653d01a001e86f4d94f3f8b"
 <define-tag description>cross-site scripting</define-tag>
 <define-tag moreinfo>
 <p>Uma vulnerabilidade cross-site scripting foi descoberta no mailman, um software para 

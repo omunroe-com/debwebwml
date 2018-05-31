@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="4f7cabc58e2e8775aa994f0ae2de81e1f3149a89" maintainer="Pierre Machard"
 <define-tag description>Exploitation à distance</define-tag>
 <define-tag moreinfo>
 <p>Un problème a été trouvé dans «&nbsp;gallery&nbsp;» ( un système 

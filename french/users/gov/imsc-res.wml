@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.imsc.res.in/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="a593337e0336d90a0a5b6a6d0ffc1c34253606c3" maintainer="Nicolas Bertolissio"
 
 <p>
 L'institut de sciences mathématiques utilise Debian depuis assez longtemps

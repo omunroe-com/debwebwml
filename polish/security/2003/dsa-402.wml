@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c02d3a582f0441fb75aaa1d8dad35190f716e609"
 <define-tag description>niepoprawne wejście</define-tag>
 <define-tag moreinfo>
 <p>Odkryto błąd związany z bezpieczeństwem w minimalist,

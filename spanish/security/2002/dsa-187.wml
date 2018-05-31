@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="891ef4d5e1068c7947c1642f919f6caef4132d17"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Según David Wagner, iDEFENSE y el proyecto de servidor HTTP Apache, se

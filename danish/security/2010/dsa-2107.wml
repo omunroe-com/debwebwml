@@ -14,4 +14,4 @@ version 0.8.0-2+lenny1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2107.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d84dd6bea3df767c2c386152cf59a452911b05b0" mindelta="1"

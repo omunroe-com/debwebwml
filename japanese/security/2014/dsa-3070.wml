@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6815559c29d5446c5234024b1471b6b77d2de18f"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>FreeBSD カーネルに複数の欠陥が発見されました。

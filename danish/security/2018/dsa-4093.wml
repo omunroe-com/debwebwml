@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="19269fe99356650d39bc4a5c1ae56e1a7f6fb028" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Josef Gajdusek opdagede at OpenOCD, en JTAG-debugger til ARM og MIPS, var 

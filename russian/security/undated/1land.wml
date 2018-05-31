@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b76af358a84f5c3bd509f1b8fed21d7078642fc5" maintainer="Lev Lamberov"
 <define-tag description>атака по подмене IP "land"</define-tag>
 <define-tag moreinfo>
 Поддельный SYN-пакет отправленый машине A, использует A в качестве адресата и отправителя,

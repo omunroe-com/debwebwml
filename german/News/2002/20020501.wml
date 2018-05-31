@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian auf kommenden Veranstaltungen im Mai</define-tag>
 <define-tag release_date>2002-05-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 
 <p>Mehrere Ausstellungen und Konferenzen zu Freier Software und GNU/Linux

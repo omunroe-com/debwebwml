@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2007-01-23" SUMMARY="OLPC, Debian-Edu, Rückblick, PS3, Paketierung, Woody, Dokumentation, Veröffentlichung, CC2.5"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 #use wml::debian::acronyms
 # $Id$ XXX
 

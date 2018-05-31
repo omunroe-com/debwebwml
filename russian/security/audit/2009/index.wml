@@ -1,6 +1,6 @@
 #use wml::debian::template title="Рекомендации аудита безопасности Debian за 2009 год"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3c2f38335e8cd15d59550b56dd3faeb997be15cb" maintainer="Lev Lamberov"
 
 <h2>Рекомендации, выпущенные в 2009 году</h2>
 

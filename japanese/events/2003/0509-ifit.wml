@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag abbr>IFIT</define-tag>
 <define-tag year>2003</define-tag>
 <define-tag pagetitle>Informationday Free InformationTechnology</define-tag>

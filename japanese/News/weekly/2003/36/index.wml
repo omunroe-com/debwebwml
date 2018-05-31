@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-09" SUMMARY="レビュー, Webmagick, PostgreSQL, Libwww, dpkg, GNU, FSF, 政治, セキュリティ, NordicOS, ギリシャ語のガイド"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 36 号へようこそ。<a

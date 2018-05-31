@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian ウェブページの翻訳"
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.52"
+#use wml::debian::translation-check translation="63debed7d9f6d7ea6c3e932aea334d4e00d16662"
 
 <P>翻訳者の作業をできるだけ簡単にするため、私たちのページは普段多くの人が
 行なっているのとは少し違った方法でページを生成しています。ウェブページは

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c3bb32803b068db405bac2c3c7da7c7017ee7371"
 <define-tag description>различные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Исправлено несколько уязвимостей в пакете mailman:</p>

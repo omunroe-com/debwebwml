@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e2033be555a62f4ec87cc22de602ea6a12234776" mindelta="1"
 <define-tag description>överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Pohle upptäckte att UPSD, servern från Network UPS Tools

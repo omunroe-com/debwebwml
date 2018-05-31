@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="03879326e6e316b4e9ddb2bccb17979a6701f811" maintainer="Lev Lamberov"
 <define-tag description>неограниченное выделение памяти</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Apache POI, реализация форматов файлов Microsoft Office на

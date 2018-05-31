@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="46cd57e0ab7971279f6bb9bb74ef6bfd008645e6" mindelta="1"
 <define-tag description>bufferunderløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at et bufferoverløb i Unicode-biblioteket ICU, kunne føre til

@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Copertine per i CD Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.41" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="95c243c81514bf27ba01b6a583d56cfc6d7947eb" maintainer="Giuseppe Sacco"
 
 <p>Le grafiche per i rilasci più recenti possono essere disponibili sulla
 pagina wiki dei <a href="https://wiki.debian.org/DebianArt/Themes">temi</a>.

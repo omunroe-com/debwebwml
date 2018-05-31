@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ed18ccc64b2a8f343569c8da7dc1d2bf66019e5a"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Thomas Stangner さんが chkrootkit、rootkit 検出ツールに脆弱性を発見しました。

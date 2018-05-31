@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1f6c6417eb98a37e0f9efaa73c1145ee77d4e1fb" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версия amd, поставляемая в составе Debian
 GNU/Linux 2.1, содержит уязвимость, которая может использоваться удалённо. Передача длинного имени каталога
 коду журналирования amd приводит к переполнению буфера.  Данная уязвимость

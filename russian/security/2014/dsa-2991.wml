@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3fd504b0834c3960a38252e5d1fced02bcf62d7d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Мартин Холст Свенде обнаружил проблему, возникающую при обработке  фрагментированных запросов

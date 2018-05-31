@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="487dda856f92f6f5f76c0266911099d0832304d4"
 <define-tag description>LTS セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>この更新ではオプション解析での潜在的な整数オーバーフローを修正しています。</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="555b76bf89c0899a25f2981249153dcc7abe2971" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En forskud med en-fejl, førende til et heapbaseret bufferoverløb

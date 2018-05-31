@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e401fddafb1eda4d1e6757d80243260e8e5721a9" maintainer="Lev Lamberov"
 <define-tag description>окончание жизненного цикла</define-tag>
 <define-tag moreinfo>
 <p>Поддержка безопасности elasticsearch в jessie прекращена. Проект

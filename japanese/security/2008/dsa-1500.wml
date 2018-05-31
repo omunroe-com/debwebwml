@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="facc3b3a6a2b97d5135e47b141ef031aaed7d916"
 <define-tag description>権限昇格</define-tag>
 <define-tag moreinfo>
 <p>Mike Ashton さんにより、二つのプログラムを分割したスクリーンで実行するた

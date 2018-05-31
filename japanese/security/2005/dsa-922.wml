@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="b339a77580e06b206bedadd0ee4df7dd5cae5ef8"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Linux カーネルにローカルおよびリモートの脆弱性が複数発見されています。

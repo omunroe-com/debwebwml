@@ -16,7 +16,7 @@ logcheck では一時ディレクトリをセキュリティの考慮を払わ�
 <p>直ちに logcheck パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="46d7f144de04a1fa1b68eecaf0dba2f6f447631d"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-488.data"
 # $Id$

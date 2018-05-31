@@ -18,4 +18,4 @@ version 4.2.4p4+dfsg-8.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1702.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0e5a8b419ccf083aca5abdad79b4e2f940c2bb5e" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="170b56b707e5c9505fb62bfe3e2ebe397be8ea20"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Adam Zabrocki さんにより、フルスクリーン ncurses および X11 traceroute ツ

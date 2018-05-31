@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6d4deee06918954cd5c5cf88ea3c9bf0715385a4"
 <define-tag description>exposição de informação, cross site scripting</define-tag>
 <define-tag moreinfo>
 <p>Os desenvolvedores do tomcat descobriram vários problemas na versão

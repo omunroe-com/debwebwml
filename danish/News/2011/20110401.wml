@@ -1,7 +1,7 @@
 <define-tag pagetitle>Canterbury-projektet</define-tag>
 <define-tag release_date>2011-04-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ecc2bac56ab845c304197514adcbfa2436082c9f"
 
 <h1>Aprilsnarl!</h1>
 

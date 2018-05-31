@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c0621a6161f6bb886e00de58526f59edbdbe3795" mindelta="1"
 <define-tag description>omgåelse af kontrol af værtsnavn</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at PyOpenSSL, en Python-wrapper om OpenSSL-biblioteket, ikke på 

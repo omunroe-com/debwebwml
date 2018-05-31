@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="9352ec59e0e9dd762ad3efd8615df22906c02491" maintainer="Pierre Machard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Enrico Zini a découvert un dépassement de tampon dans log2mail, un

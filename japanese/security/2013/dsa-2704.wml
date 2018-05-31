@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b6a7948fa22eb40076a6bfdcaad690461f19b7c5"
 <define-tag description>範囲外アクセス</define-tag>
 <define-tag moreinfo>
 <p>mesa ライブラリ、OpenGL API のフリーの実装を使っているアプリケーションが、

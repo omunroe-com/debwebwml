@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3849e632e159ad71ff33e9ac7435af4ecd8bbffc"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>OUSPG の Aki Helin さんが libxml2、GNOME プロジェクトの XML

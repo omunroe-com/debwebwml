@@ -19,4 +19,4 @@ Codes durch einen Pufferüberlauf führen.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1244.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d94a151d9ea41f5b3d9c87b7030a09b53602064c"

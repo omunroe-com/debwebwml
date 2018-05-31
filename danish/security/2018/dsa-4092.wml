@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d1daec46a7071f3b5d7189aae311b0ffd8bd4ed7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>cPanel Security Team opdagede at awstats, et program til analysering af 

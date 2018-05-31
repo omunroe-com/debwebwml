@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5d7a08151ba51e6c90358cbc63725edd7e88366b" mindelta="1"
 <define-tag description>manglende fornuftighedskontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer og Marius Tomaschewski opdagede at dhclient fra isc-dhcp, 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73" maintainer="Lev Lamberov"
 <define-tag description>многочисленные удалённые уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Команда разработки OpenSSL сообщила, что аудит безопасности, проводимый сотрудниками A.L.

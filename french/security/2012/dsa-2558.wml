@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="31610b69e582f42f4174beda987dbfe45cb86b9d" maintainer="Thomas Vincent"
 <define-tag description>Divulgation d'informations</define-tag>
 <define-tag moreinfo>
 <p>Bacula, un service de sauvegarde par le réseau, ne vérifie pas

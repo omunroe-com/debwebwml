@@ -42,7 +42,7 @@ Du får gärna möta oss där.
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="655d20ade42c65db179f8672b31111e0a199a473"
 <ul>
  <li><a href="http://www.linux-kongress.org/">Internationalla Linuxkongressen</a>
  <li><a href="http://www.infodrom.org/Debian/events/LinuxKongress2001/report.html">Reserapport</a>

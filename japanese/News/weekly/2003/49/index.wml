@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-09" SUMMARY="サポート, ウェブポリシー, 修復, Sarge, Anaconda, 署名, エンタープライズ, UserLinux, インストール, CD"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 49 号へようこそ。攻撃者の標的となったのは Debian

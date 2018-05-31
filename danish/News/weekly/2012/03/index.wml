@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-06" SUMMARY="Opdatering af Debian 6.0: 6.0.4 udgivet, bits fra Release Team, bits fra piuparts-vedligeholderne, rapport fra Debian Med-sprint"
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="2697fab4800f65319b173522ff23d6777344f3a1"
 
 # $Id$
 # $Rev: 3093 $

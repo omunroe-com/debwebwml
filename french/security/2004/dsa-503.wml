@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="57e4fd54da53f286914738770919d0368c9fd7b2" maintainer="DFS Task Force"
 <define-tag description>Manque de vérification des arguments</define-tag>
 <define-tag moreinfo>
 <p>Un problème a été découvert dans <i>mah-jong</i>, une variante du jeu 

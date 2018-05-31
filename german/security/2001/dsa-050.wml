@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="26745afd4737c05a2cf0189948cbd8c30bf32a8a"
 # Translation: Martin Schulze <joey@debian.org>
 
 <define-tag description>Defekte Abgabe von Privilegien, temporäre Dateien</define-tag>

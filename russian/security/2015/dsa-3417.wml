@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5e5cde5f1d7897295b54d526fe07c41028cc4af2" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тибор Ягер, Йорг Швенк и Юрай Соморовски из Horst Görtz

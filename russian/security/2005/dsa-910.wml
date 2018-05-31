@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2b87058c4ff688b1742c10e25f8916b44b84a345" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>В zope 2.7, сервере веб-приложений с открытым исходным кодом, была

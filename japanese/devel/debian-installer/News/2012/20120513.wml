@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Installer 7.0 Alpha1 をリリース</define-tag>
 <define-tag release_date>2012-05-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>
 Debian Installer <a 

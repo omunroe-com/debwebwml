@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-12-21" SUMMARY="Release, Hurd, Katie, AMD64, CDD, Installazione, FOSDEM, Pacchettizzazione, Bug, Licenze"
-#use wml::debian::translation-check translation="1.10" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Daniele Venzano"
 
 <p>Benvenuti al cinquantesimo numero di quest'anno di DWN, il bollettino d'informazioni 
 settimanale per la comunità di Debian.  Il centro computer della Oxford University <a

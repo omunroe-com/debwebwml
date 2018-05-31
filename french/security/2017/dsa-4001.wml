@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="7d354378c81095f8c416b9b25cac8c7a00532ab5" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>YADIFA, un serveur DNS faisant autorité, ne vérifiait pas suffisamment

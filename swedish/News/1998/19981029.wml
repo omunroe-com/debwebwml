@@ -1,7 +1,7 @@
 <define-tag pagetitle>Nya SPI-webbsidor</define-tag>
 <define-tag release_date>1998-10-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <H3>Introduktion</H3>
 <P>Software in the Public Interest Inc. är glada att kunna tillkänna ge sina

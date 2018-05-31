@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>
 Los desbordamientos de búfer pueden permitir el acceso como root. deliver no
 se usa por defecto en Debian, así que la mayoría de usuarios no estarán

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="843d2f7b868611d25a5a0ba31345a6706f2ae942" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>James Clawson opdagede at websvn, en webfremviser til Subversion-arkiver, 

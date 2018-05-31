@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-01-23" SUMMARY="ウェブサーバで Debian がリード、Aptitude の反撃、IGMP のバグによる Linux のサービス停止"
 # $Rev: 3025 $
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>今年 2 号目の DPN、Debian コミュニティの会報、にようこそ。この号で取り上げられている話題は:</p>
 <toc-display/>

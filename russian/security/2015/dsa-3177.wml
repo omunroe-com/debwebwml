@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="029e6ea4f51bf08f2e1e7581a7c41d5f3e00b5e9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Томас Клюте обнаружил, что ошибка в mod-gnutls, модуле Apache, предоставляющем

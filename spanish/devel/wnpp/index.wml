@@ -1,6 +1,6 @@
 #use wml::debian::template title="Futuros paquetes o en los que se necesita trabajar"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.45" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="8899b1fc22972af8b453b79a53a791a837a26f10" maintainer="Laura Arjona Reina"
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
 # $Id$
 

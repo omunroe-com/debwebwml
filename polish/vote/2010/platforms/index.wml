@@ -1,7 +1,7 @@
 #use wml::debian::template title="Trybuna dla Kandydatów na Lidera Projektu" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="eb48c368347e71661b78eb01b9191ae57b6c599c"
 
     <p>
       Poniżej znajduje się podium do składania oświadczeń przez 

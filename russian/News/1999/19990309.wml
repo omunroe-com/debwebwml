@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3f781466c4f44128d1e35cd1895a00e7fc651069" maintainer="Lev Lamberov"
 <define-tag pagetitle>Выпуск Debian 2.1</define-tag>
 <define-tag release_date>1999-03-09</define-tag>
 #use wml::debian::news

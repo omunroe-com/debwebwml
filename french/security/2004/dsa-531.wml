@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="485eef469fe7877ac6cf81b448b6fc01c1219776" maintainer="DFS Task Force"
 <define-tag description>Plusieurs failles de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Deux failles de sécurité ont été découvertes dans php4&nbsp;:</p>

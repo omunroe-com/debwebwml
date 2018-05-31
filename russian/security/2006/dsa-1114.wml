@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b864ddb3883b24e3f16bffa284c09ac4113bae15" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Андреас Зелтенрайх обнаружил переполнение буфера в hashcash, схеме

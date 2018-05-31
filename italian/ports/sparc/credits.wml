@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian SPARC -- Ringraziamenti" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.5" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="05db930935ccece0e86ce3e75f8029e944ca0888" maintainer="Luca Monducci"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
 
 <h1>Ringraziamenti per Debian SPARC</h1>

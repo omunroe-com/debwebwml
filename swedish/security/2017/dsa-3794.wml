@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="3721e0f22a0325a34e13a0269a10f0e7e89242c0" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Stevie Trujillo upptäckte en lokal filskrivningssårbarhet i munin,

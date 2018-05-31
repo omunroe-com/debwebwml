@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="4e049f9a2b94b208f2f1052cfb38addcbb88d835" maintainer="Simon Paillard"
 <define-tag description>Faiblesse du chiffrement</define-tag>
 <define-tag moreinfo>
 <p>Yutaka Oiwa a découvert une vulnérabilité dans la bibliothèque OpenSSL.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="47b2e577646de6856145f97901f2b7b629c34752" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at ISC DHCPv6-serveren ikke på korrekt vis behandlede 

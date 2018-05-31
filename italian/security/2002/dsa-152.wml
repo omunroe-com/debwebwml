@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="b777090c7e5f56aeff16395d586da588f139e7a8" maintainer="Giuseppe Sacco"
 <define-tag description>seme random mancante</define-tag>
 <define-tag moreinfo>
 <p>La versione corrente di l2tpd, un programma client/server per tunnel

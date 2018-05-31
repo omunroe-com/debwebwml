@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="3325a60207eb436ad6e8fc838f10d2cd10918cbf" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>OSS-fuzz, avec l'assistance de Max Dymond, a découvert que cURL, une

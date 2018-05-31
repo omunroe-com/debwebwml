@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="734cc84f3fe27a4a36c7ac576b0057764a1456a9"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Nicolas Gregoire さんは、info2www

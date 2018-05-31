@@ -22,5 +22,5 @@ demonsteret og brugernes problemer løst.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="f8e86fa097e27c2513dfd9456bbacbfff22e7d8d"
 #Related Links here (free form)

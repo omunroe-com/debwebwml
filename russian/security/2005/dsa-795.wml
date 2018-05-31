@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f6ecc08f664388337a70f7e7f767757c4a1f7624" maintainer="Lev Lamberov"
 <define-tag description>потенциальное выполнение кода</define-tag>
 <define-tag moreinfo>
 <p>infamous42md сообщил, что proftpd содержит две уязвимости форматной

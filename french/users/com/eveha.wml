@@ -6,7 +6,7 @@
 <define-tag webpage>http://www.eveha.fr/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3" maintainer="Sébastien Poher"
+#use wml::debian::translation-check translation="fde46e72e3f6f182132c46d8045254af6e719369" maintainer="Sébastien Poher"
 
 <p>
      Utilisation de Debian : Au sein d'un environnement multi-distributions GNU/Linux, 

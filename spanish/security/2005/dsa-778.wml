@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="59434c9c9a7bd646724d52f6c1409f97ecb16bd4" maintainer="Juan M. Garcia"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto dos problemas de seguridad en Mantis, un

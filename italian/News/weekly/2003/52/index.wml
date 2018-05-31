@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-30" SUMMARY="Timeline, Testing, non-free, Installer, APT, Perl"
-#use wml::debian::translation-check translation="1.7" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Daniele Venzano"
 
 <p>Benvenuti al 52-esimo numero di DWN, la newsletter settimanale della comunitá debian.
 LinuxCertified <a href="http://linuxcertified.com/debian-linux-laptop.html">ha annunciato</a> il portatile Debian-certified <a

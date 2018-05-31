@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d3b3ce1c162c016927ff895a5a4d09fd5ce8dbe7" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p><q>cstone</q> и Рих Фелкнер обнаружили, что специально сформированные последовательности символов в

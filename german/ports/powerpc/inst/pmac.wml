@@ -1,6 +1,6 @@
 #use wml::debian::template title="PowerPC-Portierung (PowerMac)" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/inst/menu.inc"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="b5617866ae4047b55b0439a5c5796df65590cec3"
 # Translator:  Martin Schulze <joey@debian.org>  (<=1.8)
 # New Content: u.a. Gerfried Fuchs <alfie@debian.org> (>=1.11)
 # $Id$

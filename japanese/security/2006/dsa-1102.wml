@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e313cf52513e0ee4771b2d817836d75e2cb0c36e"
 <define-tag description>デザイン上の欠陥</define-tag>
 <define-tag moreinfo>
 <p>Debian Security Audit プロジェクトの Steve Kemp さんは、ピンボールシミュレータの pinball

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cdbf3a3ed3cca02a32f0e4c0df75a1b0467673a4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at misdannede var fra en Gadu-Gadu-filrelayserver, kunne fære 

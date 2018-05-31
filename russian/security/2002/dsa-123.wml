@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0e1ff0a8c1db51043d573e238fc4cee010f3a2f2" maintainer="Lev Lamberov"
 <define-tag description>удалённый эксплоит</define-tag>
 <define-tag moreinfo>
 <p>Януш Нивидомски и Войчик Пуршинский сообщили о переполнении буфера

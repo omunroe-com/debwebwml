@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="ae4a72744f84be54cae3e4ec65a8488af3af84d1"
 <define-tag description>「screen」プログラムが gecos フィールド複製時にオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>オーバフローは存在しますが screen はコードの実行前に root 権限を破棄します</p>

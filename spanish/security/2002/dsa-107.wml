@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="6781ab57b56a0c8e1175e0e661eae9933c423849"
 <define-tag description>vulnerabilidad en formato de impresión</define-tag>
 <define-tag moreinfo>
 Básicamente, este es el aviso de seguridad <a

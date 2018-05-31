@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Installer を備えた最初のディストリビューションが出荷</define-tag>
 <define-tag release_date>2004-06-21</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a93791b6ae353ed1d95217d70c8ad70e14008286"
 
 <p>
 Debian-Installer が、リリースされた GNU/Linux ディストリビューションのための

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Mohammed Adnène Trojette"
 <define-tag pagetitle>Le projet Debian ajoute la gestion de la sécurité pour AMD64</define-tag>
 <define-tag release_date>2005-08-11</define-tag>
 #use wml::debian::news

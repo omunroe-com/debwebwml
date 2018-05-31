@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="142e2a9395d7c63a106b2b41a126f30909786f52" maintainer="DFS Task Force"
 <define-tag description>Manque de vérification de limite</define-tag>
 <define-tag moreinfo>
 <p>Paul Starzetz a découvert une faille dans les vérifications de limite dans 

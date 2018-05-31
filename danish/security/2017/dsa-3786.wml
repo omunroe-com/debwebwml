@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a03c2a3307e19f8da31beb0bba02407ed6ed1836" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Editor-stavekontrolfiler overført til vim-editoren (Vi IMproved), kunne 

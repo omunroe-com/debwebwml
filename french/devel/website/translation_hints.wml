@@ -1,5 +1,5 @@
 #use wml::debian::template title="Suggestions utiles aux traducteurs"
-#use wml::debian::translation-check translation="1.39" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="7fce35397b85232374e07ada8bb4f49a830c5d1b" maintainer="Jean-Paul Guillonneau"
 #include "$(ENGLISHDIR)/releases/info"
 
 # Translators:

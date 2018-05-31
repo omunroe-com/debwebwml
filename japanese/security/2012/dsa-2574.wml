@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="766162dbf110e6ce5d57c20aea63d6612079da5d"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性がコンテント管理システムである TYPO3 に発見されました。この更新では <a

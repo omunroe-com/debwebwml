@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="71c27f2d9bad50138020836886e1fbed4a7aefac" mindelta="1"
 <define-tag description>lämnar inte privilegier</define-tag>
 <define-tag moreinfo>
 <p>

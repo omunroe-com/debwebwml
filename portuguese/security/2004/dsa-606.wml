@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="df62401369c4b84ae11ef42d55c67bc85c7b01ad"
 <define-tag description>gerenciador de sinal errado</define-tag>
 <define-tag moreinfo>
 <p>SGI descobriu que o rpc.statd do pacote nfs-util, o Monitor do Estado

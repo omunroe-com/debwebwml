@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9e28a57e9cf67641cca39f1e9601d5d4af64aecf" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Meh Chang opdagede en bufferoverløbsfejl i hjælpefunktio, der anvendes i 

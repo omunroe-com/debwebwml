@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="6407809281dc6d9e3602a133703091022a556f18" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>MediaWiki, un moteur de wiki, ne filtrait pas suffisamment le CSS dans les

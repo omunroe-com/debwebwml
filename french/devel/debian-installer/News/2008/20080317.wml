@@ -1,7 +1,7 @@
 <define-tag pagetitle>Première version bêta de l'installateur Debian pour Lenny</define-tag>
 <define-tag release_date>2008-03-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Nicolas Bertolissio"
 
 <p>
 L'<a href="https://wiki.debian.org/DebianInstaller/Team">équipe</a> de

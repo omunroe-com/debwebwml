@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="34c55345d6786a4ac7fd763622da12933134bd3c"
 <define-tag description>フォーマット文字列</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp さんが、GNOME2 用の GNOME データアクセス (GNOME Data Access)

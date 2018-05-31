@@ -1,6 +1,6 @@
 # From: Martin Stéphane <stephane.martin@insee.fr>
 # Note to French translator:  Please change the webpage link to the French language version.
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 # Translation: Helge Kreutzmann <kreutzm@itp.uni-hannover.de> 2005-11-16
 
 <define-tag pagetitle>INSEE (Nationales Institut für Statistik und Wirtschaftsstudien), Frankreich</define-tag>

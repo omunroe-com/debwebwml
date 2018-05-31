@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b3a667ddeed074d41a85cf384dd29754984ca4e3"
 <define-tag description>サービス拒否攻撃</define-tag>
 <define-tag moreinfo>
 <p>

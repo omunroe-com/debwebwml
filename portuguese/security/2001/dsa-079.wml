@@ -27,4 +27,4 @@ original Ian Lance Taylor.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-079.data"
-#use wml::debian::translation-check translation="1.2" transaltion_maintainer="Philipe Gaspar"
+#use wml::debian::translation-check translation="953c5b433a7726472cff70c853f9f44ac2a7608c" transaltion_maintainer="Philipe Gaspar"

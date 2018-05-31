@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="e326681ef12ae8f10617fb80cfe62805b5e0a9ff" maintainer="Juraj Kubelka"
 
 <define-tag description>nedostatečná kontrola vstupu</define-tag>
 <define-tag moreinfo>

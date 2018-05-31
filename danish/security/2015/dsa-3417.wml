@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5e5cde5f1d7897295b54d526fe07c41028cc4af2" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Tibor Jager, Jörg Schwenk og Juraj Somorovsky fra Horst Görtz Institute for 

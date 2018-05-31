@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="ce4405c9fba1f7ab746e490b1e208d42d35b4e7f" maintainer="Giuseppe Sacco"
 <define-tag description>acquisizione di privilegi</define-tag>
 <define-tag moreinfo>
 <p>&Egrave; stato trovato un <a

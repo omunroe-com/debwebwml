@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="1ae6102df95a63b2b3c23a5ad7a6049c114fd64f" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de l'installateur de Debian Stretch Alpha 6</define-tag>
 <define-tag release_date>2016-05-21</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fc4cdaea140923e2e7edb6a37345b47df4edf090" mindelta="1"
 <define-tag description>manglende fornuftighedskontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Bcfg2-server, en server til håndtering af opsætning af 

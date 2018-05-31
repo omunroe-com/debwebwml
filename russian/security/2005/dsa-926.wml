@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4d87edd83707d50811d5ad3198b32abd32d5df6c" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Стив Кэмп из проекта Debian Security Audit обнаружил переполнение

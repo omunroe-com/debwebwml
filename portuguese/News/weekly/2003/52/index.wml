@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-30" SUMMARY="Linha do Tempo, Testing, não-livre, Instalador, APT, Perl"
-#use wml::debian::translation-check translation="1.7" translation_maintainer="Gustavo Rezende Montesino" 
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" translation_maintainer="Gustavo Rezende Montesino" 
 
 <p>Bem vindo à quinquagésima segunda edição da DWN, o periódico semanal para a 
 comunidade Debian.  LinuxCertified <a

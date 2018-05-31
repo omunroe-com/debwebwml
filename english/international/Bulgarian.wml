@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian in Bulgarian" BARETITLE="yes"
-#use wml::debian::translation-check translation="1.10" original="bulgarian"
+#use wml::debian::translation-check translation="b8f0f757263b2ad285740dd040bdc3bbd27bb90b" original="bulgarian"
 
 # This contents of this page is maintained by the Bulgarian translators.
 # Unlike the other pages, this is a translation; the original is in

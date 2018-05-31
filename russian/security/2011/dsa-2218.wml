@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="75c2c1868b4ab29d7d4a1c2abd6c35a09bff93d0" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Ализ Хаммон обнаружил, что декодер MP4 для VLC, программы для проигрывания

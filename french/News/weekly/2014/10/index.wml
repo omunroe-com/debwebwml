@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-06-09" SUMMARY="Un logo pour DebConf15, salut MATE !, le projet d'intégration continue de Debian"
-#use wml::debian::translation-check translation="1.4" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="72af2309b6e70c54dd81bbacd4517f5c985728e0" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 5678 $

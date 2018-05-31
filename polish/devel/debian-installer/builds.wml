@@ -1,5 +1,5 @@
 #use wml::debian::template title="Budowanie Instalatora Debiana"
-#use wml::debian::translation-check translation="1.22"
+#use wml::debian::translation-check translation="e7a43e9d7fba0dacfd02fa428fb89faf507617cf"
 
 <h2>Budowanie płyt CD</h2>
 

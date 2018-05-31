@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6dd960c78b0f21ccf4a87ffb5a8a40b2e6713b7f" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at pam-pgsql, et PAM-modul til autentificering ved hjælp af en

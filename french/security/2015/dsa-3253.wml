@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="16dec6472f40a8211c2256fe4bbb4c30f2d855c9" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Pound, un mandataire inverse HTTP et répartiteur de charge, avait plusieurs

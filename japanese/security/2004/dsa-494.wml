@@ -17,7 +17,7 @@ child_service 関数のバッファが、
 <p>直ちに ident2 パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1ad496a0500260fa09d2dd941bf718707dec4ed6"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-494.data"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b464eb110bfaaf666c8bbfc5e5cd65decb74ff37"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>高機能 IRC ロボット eggdrop にバッファオーバフローが発見されました。この

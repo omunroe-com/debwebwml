@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="96c20f0746ecf93bc792172a473bc89e300e2720"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Francesco Sirocco descubrió un defecto en otrs2, el sistema abierto de solicitud de tickets («Open Ticket Request

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="737e31d579fb28438d16dc3ad6afeb3a068dbd81" maintainer="Thomas Vincent"
 <define-tag pagetitle>Miriam Ruiz</define-tag>
 #use wml::debian::profiles
 #include "$(ENGLISHDIR)/women/profiles/profiles.def"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6035859306f1c9e96e9a85503a3335dbf41fa2b6" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Patrick Coleman upptäckte att bristande rengörning av indata i

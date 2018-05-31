@@ -1,5 +1,5 @@
 #use wml::debian::template title="Konsultit" NOCOMMENTS="yes" GENTIME="yes"
-#use wml::debian::translation-check translation="1.25"
+#use wml::debian::translation-check translation="6ec312d77fd4c46ce8e0adbcf9dc83c742645275"
 
 <p>Debian on vapaa ohjelmisto ja tarjoaa ilmaista apua
 <a href="../MailingLists/">postituslistojen</a> kautta. Kaikilla ei välttämättä

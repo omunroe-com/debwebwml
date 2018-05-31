@@ -32,4 +32,4 @@ version 4.1.3-2sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-890.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9bfbf65c16f0d502edf9503fe4a7194e69af6781" mindelta="1"

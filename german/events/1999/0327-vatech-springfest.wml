@@ -75,7 +75,7 @@ möglich einige Leute, die beim Installieren helfen und Debian vorführen.
 
 #use wml::debian::past_event
 #Related Links
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="3e6b7619089f17a8075c0af135baffef0d483336"
 # Translator: Noèl Köthe, noel@koethe.net, 2001-08-14
 # $Id$
 <ul>

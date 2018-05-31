@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="f98bba41554c15cbbf09fbbf27879642c2425344" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Aris Adamantiadis a découvert que libssh, une petite bibliothèque SSH en C,

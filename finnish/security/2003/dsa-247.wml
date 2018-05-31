@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b220fd30b00329f5d913f4e573261bff12f24c96"
 <define-tag description>puuttuva syötteen siistiminen</define-tag>
 <define-tag moreinfo>
 <p>Courierin, integroidun käyttäjäpuolen postipalvelimen, kehittäjät

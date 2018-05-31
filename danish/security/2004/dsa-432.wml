@@ -17,4 +17,4 @@ version 4.0.0beta26-4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-432.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="9d760cbab9cfb10db0caaad570a11de8adc0314c" mindelta="1"

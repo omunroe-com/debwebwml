@@ -25,7 +25,7 @@ GNU/Linux.</p>
 
 </define-tag>
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1b3bda57f11428746828e4bbd20dcbc48410ddae"
 #Related Links here (free form)
 <ul>
     <li><a href="https://wiki.debian.org/DebianEvents/fr/2012/SL">\

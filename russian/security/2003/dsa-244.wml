@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a28543e380542019eea02093eb6cda9413663676"
 <define-tag description>переполнения буфера</define-tag>
 <define-tag moreinfo>
 <p>Дэн Джэйкобсон (Dan Jacobson) сообщил о проблеме в noffle, сервере

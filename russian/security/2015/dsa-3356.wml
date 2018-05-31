@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c9a85a749d3eab5cb0487cebaa5ebb105bd6115d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дэнис Андзакович обнаружил, что OpenLDAP, свободная реализация

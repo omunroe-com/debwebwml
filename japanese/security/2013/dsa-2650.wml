@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="de8c425679bcef95af74cccb077b7de1160d9517"
 <define-tag description>ファイルおよびデバイスノードの所有が kvm グループに変更される</define-tag>
 <define-tag moreinfo>
 <p>Bastian Blank さんが、仮想マシンやネットワーク、ストレージの管理デーモン

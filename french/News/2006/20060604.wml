@@ -1,7 +1,7 @@
 <define-tag pagetitle>Le réseau IRC de Debian déplacé vers OFTC</define-tag>
 <define-tag release_date>2006-06-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Frédéric Bothamy"
 
 <p>À partir d'aujourd'hui, l'alias irc.debian.org de la machine hôte
 <acronym lang="en" title="Internet Relay Chat">IRC</acronym> Debian,

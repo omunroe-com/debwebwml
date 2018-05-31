@@ -1,6 +1,6 @@
 <define-tag pagetitle>Istallatore Debian beta 3 per etch</define-tag>
 <define-tag release_date>2006-08-11</define-tag>
-#use wml::debian::translation-check translation="1.10" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2" maintainer="Giuseppe Sacco"
 #use wml::debian::news
 
 <p>

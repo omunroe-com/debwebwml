@@ -47,5 +47,5 @@ Version 4.2.1-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-634.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0e248e3cc0255acdb2cac64b43e08665b631e6de"
 # $Id$

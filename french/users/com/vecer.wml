@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.vecer.com.mk/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="50aef04ecf75dc309102492ba1fcf09d8a3b1c8c" maintainer="Jean-Paul Guillonneau"
 
 <p>
     Večer est un éditeur de presse macédonien. Nous utilisons Debian comme serveur

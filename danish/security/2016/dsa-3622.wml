@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="583dd6a97bf2727e6e8d8bf4bbceb70e3c271a14" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Django, et Python-webudviklingsmiljø på højt niveau, var 

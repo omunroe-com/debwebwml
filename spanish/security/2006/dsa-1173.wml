@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="65f031f098440c11ba255ba25480f4d3d3a6e44a" maintainer="Juan M. Garcia"
 <define-tag description>debilidad criptográfica</define-tag>
 <define-tag moreinfo>
 <p>Daniel Bleichenbacher descubrió una debilidad en el paquete criptográfico

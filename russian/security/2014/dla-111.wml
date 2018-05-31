@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cef4dfc479a0f354d3653c18fb65a1ff14150bee" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>В cpio были обнаружены многочисленные проблемы, включая переполнение

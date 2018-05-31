@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="44495baad6a61aebff36955a3be3418961d0da50" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski a découvert que lynx, un navigateur web en mode texte, ne

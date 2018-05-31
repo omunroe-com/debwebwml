@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ac1fbe85cffa8f3103b8243e50a2ca81612151f7"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Sylvain Defresne さんは、libexif にバッファオーバフローを発見しました。

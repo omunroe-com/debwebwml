@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="450b5dd3786d560d1d2248949ee1914543fec82c" maintainer="DFS Task Force"
 <define-tag description>Dépassements d'entier</define-tag>
 <define-tag moreinfo>
 <p>D'autres dépassements potentiels d'entier ont été découverts dans la

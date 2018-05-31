@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="450b5dd3786d560d1d2248949ee1914543fec82c" maintainer="juanma"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto más desbordamientos de entero en la biblioteca de

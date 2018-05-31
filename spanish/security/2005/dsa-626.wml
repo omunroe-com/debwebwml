@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="c8530e318949df8fb1ad40e55b519f442b47461d" maintainer="juanma"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Dmitry V. Levin descubrió un desbordamiento de buffer en libtiff, la

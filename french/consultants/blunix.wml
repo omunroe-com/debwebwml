@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Blunix GmbH"
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6ee51f5071b8d16cde8ae96feeecd03c22957a3d" maintainer="Jean-Paul Guillonneau"
 
 <p>
 La SARL Blunix s’occupe principalement de la gestion d’orchestration et

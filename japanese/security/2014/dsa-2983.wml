@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4a213f03de6631f2509340c48bb032beba25f601"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Drupal コンテント管理システムに、

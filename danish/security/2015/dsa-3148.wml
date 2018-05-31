@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" mindelta="1"
 <define-tag description>ophørt livsforløb</define-tag>
 <define-tag moreinfo>
 <p>Sikkerhedsunderstøttelse af webbrowseren Chromium er nu ophørt i den stabile 

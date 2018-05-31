@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1f93df0fd3c41c553b94531dbec2bd78a3570ca8" maintainer="Lev Lamberov"
 <define-tag description>небезопасный временный файл</define-tag>
 <define-tag moreinfo>
 <p>Эдуарт Блох обнаружил, что файл с правилами для module-assistant, инструмента,

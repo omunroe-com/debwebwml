@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="7e7511c8bfc6245c58db2a37ea225d7e857592de" maintainer="David Prévot"
 <define-tag description>Injection d'EL</define-tag>
 <define-tag moreinfo>
 <p>

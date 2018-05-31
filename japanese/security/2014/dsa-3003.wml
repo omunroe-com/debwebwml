@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="515a717f85b92f5489fcd3c6129ce220df345324"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>libav マルチメディアライブラリに収録されている複数の demuxer

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="638ee10e8a5b6508526f43628582776c6888d874" maintainer="DFS Task Force"
 <define-tag moreinfo>Deux bogues récents ont été trouvés dans 
 <i>GnuPG</i>&nbsp;:
 

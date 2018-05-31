@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian Pure Blends" BARETITLE="true"
-#use wml::debian::translation-check translation="1.27" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Ana Custura"
 
 <p>Debian Pure Blends (Debian Blenduri Pure) oferă soluții pentru grupuri de utilizatori cu nevoi specifice. Ele oferă colecții
 personalizate de programe (sub formă de 'pachete meta', sau metapackages),

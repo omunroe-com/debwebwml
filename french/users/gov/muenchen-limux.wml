@@ -5,7 +5,7 @@
 # page en allemand : http://www.muenchen.de/limux
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="f02fb92e1ab3e10bd641316df2f88bddf992298e" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian GNU/Linux pour faire fonctionner notre système ainsi que

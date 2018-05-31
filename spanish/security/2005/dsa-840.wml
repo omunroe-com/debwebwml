@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ba8fdddc9e6cca16be38a6f60d1b61a79f80fc04" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser, del proyecto Hardened-PHP, informó de una vulnerabilidad grave

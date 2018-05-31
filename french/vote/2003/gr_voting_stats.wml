@@ -1,5 +1,5 @@
 #use wml::debian::template title="Méthode de vote Condorcet/Clone Proof SSD" BARETITLE="true"
-#use wml::debian::translation-check translation="1.4" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="e74c3fb0292e5eb9c4ffb3b534f6feaac88bf71b" maintainer="Nicolas Bertolissio"
 
 <table width="90%">
         <colgroup span="6" width="16%">

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="5e7d1dba338d1d233885589b0f73005bd8ad80fe" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Le correctif de Wheezy laisse un symbole en suspens dans le module imklog

@@ -19,7 +19,7 @@ root 権限で任意のコードを実行させることができます。
 ことをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b20114ac24612d4491ea4981de2ccff9c3f95d90"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-174.data"
 # $Id$

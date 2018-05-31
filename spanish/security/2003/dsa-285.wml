@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="040ee804b0e488792c58ab41d5154b95c44aecc0"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Karol Lewandowski descubrió que psbanner, un filtro de impresión que

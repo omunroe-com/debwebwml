@@ -4,7 +4,7 @@
 <define-tag webpage>http://interra.com.ru/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="3e2920c3391a8337855f04385413ab2f920438d0" maintainer="Thomas Vincent"
 
 <p>
 Nous utilisons Debian GNU/Linux sur plus de 50 serveurs. Ceux-ci assurent une

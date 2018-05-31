@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="98034b1d605d9eda5283f71ca2b93d33d9e790ea" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тэвис Орманди обнаружил, что FUSE, файловая система в пользовательском пространстве, не

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="09ac89f3433e0e7f6573906b133c968eff7d51fc" maintainer="Lev Lamberov"
 <define-tag description>отсутствие проверки границ массива</define-tag>
 <define-tag moreinfo>
 <p>Луиджи Аурейма обнаружил отсутствие проверки границ массива в freeciv, клоне

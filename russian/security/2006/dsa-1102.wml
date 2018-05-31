@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e313cf52513e0ee4771b2d817836d75e2cb0c36e" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Стив Кэмп из проекта Debian Security Audit обнаружил, что

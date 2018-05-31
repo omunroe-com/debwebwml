@@ -25,7 +25,7 @@ anvendes af Debian.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8c16b6a25a6a442635376a5fcbd9a4618dfa7b09"
 #Related Links here (free form)
 <ul>
  <li><a href="http://jdmc.k-of.jp/">websted</a>

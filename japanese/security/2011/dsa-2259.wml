@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c65b3c8952f571b2ba20f4718f8b13070d6f90cc"
 <define-tag description>認証の迂回</define-tag>
 <define-tag moreinfo>
 

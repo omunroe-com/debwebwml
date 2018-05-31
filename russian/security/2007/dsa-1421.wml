@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="098e01a84fb501baafb03f841289313324b13421" maintainer="Lev Lamberov"
 <define-tag description>обход каталога</define-tag>
 <define-tag moreinfo>
 <p>В Battle for Wesnoth была обнаружена уязвимость, позволяющая

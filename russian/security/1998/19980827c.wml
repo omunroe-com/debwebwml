@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a89bd261bce1ed1e89c6a779e28625bf4f26aa90" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Мы получили сообщение от Пауля Боема о том, что Mutt потенциально
 содержит переполнение буфера в коде parse.c.  При отправке некорректных сообщений вы можете

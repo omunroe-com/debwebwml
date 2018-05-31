@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b6a7948fa22eb40076a6bfdcaad690461f19b7c5" maintainer="Lev Lamberov"
 <define-tag description>чтение за пределами массива</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что приложения, использующие библиотеку mesa, свободную

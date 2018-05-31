@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c5afb0f6198f0b3acb8b06ed7eb8013098bdaade" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Густаво Грико обнаружил несколько уязвимостей в способе, используемом librsvg, библиотеке

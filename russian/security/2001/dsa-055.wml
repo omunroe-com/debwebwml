@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d1306e634845b9ed277edeb78cd1cc1a37335513" maintainer="Lev Lamberov"
 <define-tag description>удалённый неавторизованный доступ</define-tag>
 <define-tag moreinfo>
 Было выпущено новое исправление для Zope, которое исправляет проблему в ZClasses.

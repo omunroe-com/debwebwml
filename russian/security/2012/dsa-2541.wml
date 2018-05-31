@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="30e553eeea49877d9aa3fb05c09afa45c7784c8a" maintainer="Lev Lamberov"
 <define-tag description>раскрытие информации</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Beaker, библиотека для кэширования и поддержки сессий для Python,

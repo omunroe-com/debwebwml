@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="10ffe3c477ea5de29adf18e958aed6e39cc92e45"
 <define-tag description>フォーマット文字列バグ</define-tag>
 <define-tag moreinfo>
 <p>GNOME 関連の Ruby 言語バインディング ruby-gnome2 がダイアログ作成の際に

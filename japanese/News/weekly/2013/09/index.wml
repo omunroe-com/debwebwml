@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-04-29" SUMMARY="Wheezy のリリース日が発表されました、Qt 5 パッケージが初めて experimental に、Debian Edu Wheezy アルファ版のリリース"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="2d59aef33dafdeac2208fa5aca2f3cf72e47800a"
 
 # $Rev: 4887 $
 # Status: [content-frozen]

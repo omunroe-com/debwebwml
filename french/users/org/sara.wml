@@ -10,7 +10,7 @@
 <define-tag webpage>http://www.sara.nl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="c6e20b7c1e7d6c22fa4476bc1d65d311da78a6c4" maintainer="Jean-Paul Guillonneau"
 
 <p>
 SARA est l'un des centres de réseau et de calcul les plus avancés des

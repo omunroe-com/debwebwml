@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c31b56385660b4e84baa093b68c9ff0c34615520" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at BIND, en DNS-server, ikke på korrekt vis behandlede visse

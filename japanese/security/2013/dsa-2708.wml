@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9e6b645e852098c13b36db79305fd74aad81fcd8"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Krzysztof Katowicz-Kowalewski さんが、

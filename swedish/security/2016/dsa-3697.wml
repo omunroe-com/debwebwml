@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dd209b8486b48134f43113e89a2aba1cfb211c6c" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Roland Tapken upptäckte att otillräcklig rengörning av indata i KMail's

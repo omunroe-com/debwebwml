@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 9 -- Problemen rapporteren" BARETITLE=true
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3f60e9ab95c589dd5a1ca0b0d443957dfc33a362"
 
 
 <h2><a name="report-release">Met de Notities bij de release</a></h2>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="2bff0d74c9b68122d7a811bef4daf1e95b9de4a9" maintainer="Pierre Machard"
 <define-tag description>Débordement de tampon</define-tag>
 <define-tag moreinfo>
 <p><i>Core Security Technologies</i> a découvert un débordement de tampon

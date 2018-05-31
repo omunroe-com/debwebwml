@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-10-21" SUMMARY="LPI, Retrospectiva, Notícias, Política, Uploads de Fonte, Wikipedia, Congelamento, Cédula, Testing, Imagens"
-#use wml::debian::translation-check translation="1.11" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à quadragésima segunda edição da DWN, o periódico semanal
 para a comunidade Debian. De acordo com a <a

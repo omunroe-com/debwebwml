@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian-Installer-nyheter från 2008"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="a7bca039475cb219e5bf697f278d5dbae154aa1a"
 
 <:= get_recent_list ('.', '0', '$(ENGLISHDIR)/devel/debian-installer/News/2008',
 '', '\d+\w*') :>

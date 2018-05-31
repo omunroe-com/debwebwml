@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d0a3dccdfc2500264bddbf6deb3dd22cba2e0dc7"
 <define-tag description>整数オーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>Timo Warns さんが libtar、tar

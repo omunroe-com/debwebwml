@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="7d8a9291335406452d2f3fa95fb345f2676f7fc5" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Pyry Hakulinen et Ashish Shakla d'Automattic ont découvert que pdns,

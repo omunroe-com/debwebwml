@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3bf429a9cb930437fd7a2cdfdbcb0ed3aad51497" maintainer="Lev Lamberov"
 <define-tag pagetitle>Проект Debian на PLUTO</define-tag>
 <define-tag release_date>2000-12-06</define-tag>
 #use wml::debian::news

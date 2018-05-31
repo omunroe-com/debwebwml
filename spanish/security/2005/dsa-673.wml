@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="5d19754129fa25321fad316595d534d5ad132da9" maintainer="juanma"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler descubrió un desbordamiento de entero en una aplicación

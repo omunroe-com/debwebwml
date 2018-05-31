@@ -1,5 +1,5 @@
 #use wml::debian::template title="Cómo añadir nuevos vendedores a la lista de vendedores"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="36a5f3c2e6fc935d982de2a73e5e7bb1767f13ce"
 
 <p>Si usted está pensando en vender CDs de Debian, debería ver la
 página de <a href="info">información para vendedores</a> de Debian.

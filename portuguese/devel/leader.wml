@@ -1,5 +1,5 @@
 #use wml::debian::template title="Líder do Projeto Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.19" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="b832c82d064c6bca3a6fcdd86e93534498bd8ca6" maintainer="Felipe Augusto van de Wiel (faw)"
 
 #include "$(ENGLISHDIR)/devel/leader.data"
 

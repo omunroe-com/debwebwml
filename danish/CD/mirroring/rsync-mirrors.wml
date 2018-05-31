@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Liste over rsync-filspejle med Debians cd-aftryk" BARETITLE=true
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="d15cbd4e121ea975532c1dda0bc1b79f69cee45d"
 
 <p>Her finder du adresserne på filspejle med Debian cd-aftryk som anvender 
 <a href="http://rsync.samba.org/">rsync</a>. Bemærk at nogle filspejle måske

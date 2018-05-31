@@ -1,6 +1,6 @@
 <define-tag pagetitle>Debian-Installer Jessie RC3-Veröffentlichung</define-tag>
 <define-tag release_date>2015-04-19</define-tag>
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a4e6ef73bc3c7b1e2ffa36210074826360e84a8e"
 # Translation: Holger Wansing <linux@wansing-online.de>, 2015
 #use wml::debian::news
 

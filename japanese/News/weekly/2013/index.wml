@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="2013 目次"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="83e5ea080b0328e9de812d3c594081e4abd5ad0c"
 
 <p>
 こちらは最近発行された Debian プロジェクトニュースのバックナンバーです。

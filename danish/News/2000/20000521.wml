@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian opgraderer primær ftp-server</define-tag>
 <define-tag release_date>2000-05-21</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="b93ae6dc82fcd3eeb7ca46ce50c15301d3d0e329"
 
 <p>Debian-projektet har opgraderet sin primære ftp-server, ftp.debian.org.
 Tak til Atipa Linux Solutions, der donerede ny hardware og tjenesteydelser til

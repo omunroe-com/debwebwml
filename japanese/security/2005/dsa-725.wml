@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="0d0a16d91593fcb0f179dbeaa23b9bac1a349e0b"
 <define-tag description>権限開放の欠落</define-tag>
 <define-tag moreinfo>
 <p>Jens Steube さんが、さらに別の PPP プログラム ppxp が、

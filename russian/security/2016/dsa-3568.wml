@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="61013abc38e10f6833208999c1564b92c30133b1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Паскаль Кюо и Миод Валлат обнаружили, что Libtasn1, библиотека

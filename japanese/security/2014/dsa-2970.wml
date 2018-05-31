@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="99153483846df99ed738eb1d18f6c63675889483"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ問題

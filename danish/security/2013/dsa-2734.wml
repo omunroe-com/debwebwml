@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="338e19b4295c749ce14b11b43f3e6a9ba0889fb6" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder blev opdaget i dissektorerne til DVB-CI, GSM A Common og 

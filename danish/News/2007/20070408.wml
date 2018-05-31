@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 4.0 udgivet</define-tag>
 <define-tag release_date>2007-04-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektet kan med glæde præsentere den officielle frigivelse af Debian 
 GNU/Linux version 4.0 med kodenavnet <q>etch</q> efter 21 måneders konstant 

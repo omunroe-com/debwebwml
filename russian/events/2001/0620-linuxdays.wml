@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73" maintainer="Lev Lamberov"
 <define-tag abbr>LD2k</define-tag>
 <define-tag year>2001</define-tag>
 <define-tag pagetitle>Linuxdays 2001</define-tag>

@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/squeeze/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.15" maintainer="Jorge Barreiro González"
+#use wml::debian::translation-check translation="0dfbbecbd60a361b01cb9363261389d295aa8f3a" maintainer="Jorge Barreiro González"
 
 <p>Debian <current_release_squeeze> publicouse o <current_release_date_squeeze>.
 <ifneq "6.0.0" "<current_release>"

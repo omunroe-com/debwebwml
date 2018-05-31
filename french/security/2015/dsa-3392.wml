@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="5ba4dd58fe33da99e6fa012f7af3d531f53ea76e" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Pengsu Cheng a découvert que FreeImage, une bibliothèque pour les formats

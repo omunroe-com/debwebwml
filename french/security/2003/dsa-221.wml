@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="86e0bec820f9d99dc7fe20330f8b868c82943d9c" maintainer="Pierre Machard"
 <define-tag description>Faille sur les éléments dynamiques</define-tag>
 <define-tag moreinfo>
 <p>Earl Hood, l'auteur de mhonarc, un convertisseur courriel HTML, a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="77d9f87a3d967102c04b88784818a67ec8a9e3e0" maintainer="Lev Lamberov"
 <define-tag description>влияние на аутентификацию</define-tag>
 <define-tag moreinfo>
 Если в ssh включена опция UseLogin, локальные пользователи могут

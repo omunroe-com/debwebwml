@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="e8b309c316a3a49c5d324a042d8fb9c62c8b19a4" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Clément Berthaux de Synaktiv a découvert une vulnérabilité de contrefaçon

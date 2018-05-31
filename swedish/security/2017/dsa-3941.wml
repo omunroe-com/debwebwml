@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="52ddfda248eae01d12b31eada324e208fa849ea1" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ett läsningsbuffertspill har upptäckts i idtech3 (Quake III Arena)-familjen 

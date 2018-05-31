@@ -20,4 +20,4 @@ genopbygger din kerne.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1060.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="81ed1ff6623d5de6ffd871e62fd2ec4ca4f03bee" mindelta="1"

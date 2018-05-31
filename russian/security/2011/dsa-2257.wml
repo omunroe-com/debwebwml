@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3f5c388a28fa3b6a070c624659eba25f7dbfaf35" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Рокко Калви обнаружил, что код для грамматического разбора списков воспроизведения XSPF из состава VLC, проигрывателя

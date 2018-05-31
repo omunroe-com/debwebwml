@@ -26,5 +26,5 @@ Version 1.2.1-3 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-360.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="da7bc5d713843403f41fe14fb943bfc0603fd5b6"
 # $Id$

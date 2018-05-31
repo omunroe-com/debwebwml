@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-20" SUMMARY="Farvel Lenny, GNU/Hurd på skinner, dpkg er klar til multiarch"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Id$
 # $Rev: 3226 $

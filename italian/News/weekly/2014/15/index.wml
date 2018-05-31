@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-11-14" SUMMARY="La comunità Debian combatte il riscaldamento globale con un freeze, gruppo di studio Debian della zona di Tokyo, rilasciata la prima Debian Edu basata su Jessie, relazioni su LTS del mese di ottobre 2014, altre relazioni, Open Source Conference 2014 Tokyo/autunno, revisione di "Chi utilizza Debian", Debian Mini-DebConf 2014 a Cambridge presso ARM"
-#use wml::debian::translation-check translation="1.2" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="8d34fba054d0bbfd3dca43415757b9c54a00bb74" maintainer="Mirco Scottà"
 
 # $Rev: 5730 $
 # Status: [content-frozen]

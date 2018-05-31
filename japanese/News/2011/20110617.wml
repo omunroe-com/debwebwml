@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="bcf218d65ece264827b0635d3a23508912134fc7"
 <define-tag pagetitle>Debian IRC教育セッションの新ラウンド</define-tag>
 
 <define-tag release_date>2011-06-17</define-tag>

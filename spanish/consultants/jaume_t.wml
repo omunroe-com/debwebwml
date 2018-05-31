@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Jaume Teixi"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="d7fc38d068090c888e5dc76f30ca6d75165b2fbf"
 
 <p>
 Servidores Debian de nube en Amazon, Rackspace.

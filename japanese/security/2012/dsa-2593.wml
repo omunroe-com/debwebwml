@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cb1e0f564c0d29ad3c043c0e20c20161e8b1cbd6"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>twikidraw および anywikidraw の操作に対する入力検証の欠落により、

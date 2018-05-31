@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d0fdcb5cd8c336ee499487ea8578d46b6b597bc8" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что ltdl, независящая от системы обёртка dlopen для

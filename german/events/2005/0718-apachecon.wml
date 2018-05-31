@@ -35,7 +35,7 @@ vorstellen.
 
 #use wml::debian::past_event
 # $Id$
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8039bce61d8e42e4d06f481ac6da9ddde49df754"
 #Related Links here (free form)
 <ul>
  <li><a href="0718-apachecon-report">Bericht</a>

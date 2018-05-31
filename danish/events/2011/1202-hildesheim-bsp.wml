@@ -22,7 +22,7 @@ registrere din deltagelse, da der er et begrænset antal deltagerpladser.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <ul>
 <li><a href="https://lists.debian.org/4EA406B9.8070101%40debian.org">officiel annoncering</a></li>
 <li><a href="https://wiki.debian.org/BSP2011/Hildesheim">begivenhedens koordineringsside</a></li>

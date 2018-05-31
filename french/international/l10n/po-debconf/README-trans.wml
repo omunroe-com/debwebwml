@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Jean-Edouard Babin"
 
 #use wml::debian::template title="L10n modèles de fichier PO pour Debconf &mdash; Conseils pour les traducteurs"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"

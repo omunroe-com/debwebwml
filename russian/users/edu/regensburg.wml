@@ -1,6 +1,6 @@
 # From: Randy Rueckner <Randy.Rueckner@rz.uni-regensburg.de>
 # Ping: Wed, 30 Nov 2011 10:36Randy Rueckner <Randy.Rueckner@rz.uni-regensburg.de>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="56ad19569d2931f708e6658693841645565d0c1b" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Вычислительный центр, Регенсбургский университет, Регенсбург, Германия</define-tag>
 <define-tag webpage>http://www.uni-regensburg.de/e/r/Benutzer/Speziell/Linux/</define-tag>

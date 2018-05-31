@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dd3b19ed687da81a4ce531ab4b56e0ddc0b91a8c" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что horde3, инфраструктура веб-приложений horde,

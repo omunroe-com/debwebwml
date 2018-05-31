@@ -25,5 +25,5 @@ diese Aktualisierung in Kraft tritt.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-393.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0c1c5f2db0e2331d36bc0dacc6ba3543967d3674"
 # $Id$

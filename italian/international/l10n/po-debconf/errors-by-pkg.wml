@@ -1,7 +1,7 @@
 #use wml::debian::template title="Errori nelle traduzioni dei modelli debconf ordinati per pacchetto"
 #include '$(ENGLISHDIR)/international/l10n/dtc.def'
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="dcf23a8d7d7e4f701d2711305cd961b97f272a50" maintainer="Luca Monducci"
 
 <p>Segue l'elenco alfabetico dei pacchetti con errori nelle traduzioni dei
 modelli debconf. Questi errori sono piuttosto semplici da correggere, leggere

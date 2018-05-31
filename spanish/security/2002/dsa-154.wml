@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="ce4405c9fba1f7ab746e490b1e208d42d35b4e7f"
 <define-tag description>escalada de privilegios</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió un <a

@@ -2,7 +2,7 @@
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/woody/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714"
 # Translator: Gerfried Fuchs <alfie@debian.org> 2001-12-11
 
 <p>Wenn Sie wissen wollen, was in Debian 3.0 neu ist, dann lesen Sie die

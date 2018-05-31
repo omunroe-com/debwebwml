@@ -26,4 +26,4 @@ indeholder mantis-pakken.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-161.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f57c8a58d075a95019fa91ec673df38f845d6200"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="ce41b08aab83194a31d5a0b21a14084ef84b2775" maintainer="DFS Task Force"
 <define-tag description>Boucle infinie</define-tag>
 <define-tag moreinfo>
 <p>L'équipe de développeurs de Ruby a corrigé un problème dans le

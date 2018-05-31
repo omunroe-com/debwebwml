@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0b49876de3d823f2d0af02d3d6a3c3d5fb788a21" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sikkerhedssårbarheder blev opdaget servlet'en og JSP-motoren 

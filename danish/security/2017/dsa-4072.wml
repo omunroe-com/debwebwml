@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="839f6ec186bf987dea0929a4dc0a5f3e8bd796b8" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Hanno Boeck, Juraj Somorovsky og Craig Young opdagede at TLS-implementeringen 

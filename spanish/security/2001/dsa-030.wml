@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1e50ac3d41b5e280b3bfeec438669c049126f9d6"
 <define-tag moreinfo>Chris Evans, Joseph S. Myers, Michal Zalewski, Alan Cox,
 y otros han notado un número de problemas en algunos componentes de la
 implementación de ejemplo del sistema de ventanas X (de las que se deriva

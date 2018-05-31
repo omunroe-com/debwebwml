@@ -1,6 +1,6 @@
 #use wml::debian::template title="Konfiguracja serwera push"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.22"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>Konfigurowanie serwera w metodzie push składa się z dwóch
 podstawowych kroków: skonfigurowania dostępu przez rsync (jak dla normalnego

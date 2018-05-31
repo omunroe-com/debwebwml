@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="72b72dc51b99e32fd630b33d57903b04660a9ebd" maintainer="Lev Lamberov"
 <define-tag abbr>KILTe</define-tag>
 <define-tag year>2007</define-tag>
 <define-tag pagetitle>Kieler Linuxtage</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7b496f5005547f471a669635da8e4ca018706c62" mindelta="1"
 <define-tag description>udførelse af skripter på tværs af websteder</define-tag>
 <define-tag moreinfo>
 <p>Thorsten Glaser opdagede at RSSReader-udvidelsen til MediaWiki, en 

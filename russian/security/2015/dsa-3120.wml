@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a246fd6c07d80f7fd6441bb5457564d3be98ec0c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В системе отслеживания ошибок Mantis были обнаружены многочисленные проблемы

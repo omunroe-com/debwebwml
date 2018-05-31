@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="78bc2a565e951ed011658368c40487ad890c1a73" maintainer="Lev Lamberov"
 <define-tag description>SQL-инъекция</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что libapache2-mod-authnz-external, модуль

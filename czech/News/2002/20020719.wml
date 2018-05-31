@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 3.0 uvolněn</define-tag>
 <define-tag release_date>2002-07-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Vitezslav Kotrla"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Vitezslav Kotrla"
 # $Id$
 
 <p>Projekt Debian s&nbsp;potěšením oznamuje vydání systému Debian GNU/Linux

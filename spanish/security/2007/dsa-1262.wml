@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="57a0bfe978ad89e44c379bf2b042f401fd5fd8b2" maintainer="Juan M. Garcia"
 <define-tag description>cadena de formato</define-tag>
 <define-tag moreinfo>
 <p><q>Mu Security</q> descubrió que una vulnerabilidad de cadena de formato

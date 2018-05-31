@@ -24,7 +24,7 @@ lang underkonference, Debian Day, lørdag den 24. juni.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="2748894823acf393f57a12cda156d7536fcbeb38"
 #Related Links here (free form)
 <ul>
   <li><a href="0624-froscon-report">Rapport</a></li>

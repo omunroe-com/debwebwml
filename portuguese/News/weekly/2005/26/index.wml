@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-06-28" SUMMARY="Política, Etch, Programas XML, Empacotamento, Construção, TeXlive, DebianPeru"
-#use wml::debian::translation-check translation="1.6" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="09c8de4214e938e26eeaf5c5d5bbb5937213f414" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo a vigésima sexta edição deste ano da DWN, o periódico semanal
 para a comunidade Debian.  Rafael Laboissiere <a

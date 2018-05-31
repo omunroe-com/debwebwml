@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6b8fa05b90c1104dbc30fe1657e7149bbd2f3f0d"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Matt Murphy upptäckte att cscope, ett källkodsbläddringsverktyg, inte

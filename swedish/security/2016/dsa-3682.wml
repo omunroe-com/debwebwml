@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fc36066f05c077d53a43a24ee864f8d774aa7333" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Gzob Oq upptäckte att funktionerna för att bygga förfrågningar i

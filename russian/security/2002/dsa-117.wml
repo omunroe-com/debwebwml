@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="aee33e673fa636f3bbea34f5edee0e75fdfb9755" maintainer="Lev Lamberov"
 <define-tag description>неправильная инициализация переменной</define-tag>
 <define-tag moreinfo>
 <p>Ким Нилсен недавно обнаружил внутреннюю проблему в сервере CVS и

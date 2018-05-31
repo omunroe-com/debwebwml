@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="dec8be4144e85848ed052e0b195dc0e53a1ef727"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が、non-free な ARJ 形式アーカイブの解凍ユーティリティ unarj

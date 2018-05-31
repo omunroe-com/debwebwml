@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="fbd297b80050aa3ca0d43681de062ab723cce78e"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en el kernel Linux que

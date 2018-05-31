@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-01-10" SUMMARY="カーネル, FOSDEM, リリース, 技術委員会 (CTTE), udev, AMD64, アップグレード, パッケージング"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 2 号へようこそ。Jeroen van Wolffelaar さんは、

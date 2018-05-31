@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="aaee277daecab2a519ea829493a15c7dbb6aee1a" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner a découvert qu'un attaquant pouvait provoquer un dépassement

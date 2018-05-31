@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5b6fb0dc8365bdc3e64cc20f289ea2d3b4a9cdcc" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что переполнение целых чисел в freexl, библиотеке для выполнения грамматического

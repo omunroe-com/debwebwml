@@ -45,4 +45,4 @@ d'installer le bon noyau pour votre système.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2001/dsa-047.data'
-#use wml::debian::translation-check translation="1.5" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="d889a8268860815cc622a3680b5db5e63af61185" maintainer="DFS Task Force"

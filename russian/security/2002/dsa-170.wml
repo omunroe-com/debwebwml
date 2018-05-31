@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bf945389e258ddef21e7ed102a7e0ebd0081ccca" maintainer="Lev Lamberov"
 <define-tag description>раскрытие исходного кода</define-tag>
 <define-tag moreinfo>
 <p>Во всех выпусках Tomcat 4.x была обнаружена проблема безопасности.

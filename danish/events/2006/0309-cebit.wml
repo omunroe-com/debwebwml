@@ -42,7 +42,7 @@ stand.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 #Related Links here (free form)
 <define-tag ub>http://www.linux-events.de/LinuxPark_2006/LinuxForum/</define-tag>
 <ul>

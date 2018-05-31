@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.fresh-internet.net/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3" maintainer="Denis Mugnier"
+#use wml::debian::translation-check translation="48f7239bc771903fb55db1937dfc4b1ee55a274d" maintainer="Denis Mugnier"
 
 <p>
 En tant que FAI avec une gamme diversifiée de produits, nous proposons

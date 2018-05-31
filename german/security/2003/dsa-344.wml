@@ -17,5 +17,5 @@ Version 5.50-3 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-344.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4e97ba7f8f378444aac5d934639be799155c655d"
 # $Id$

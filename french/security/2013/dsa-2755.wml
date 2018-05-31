@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="bf745a3ef1eb7cd1daba8f1a6d005ff60eacbab0" maintainer="Thomas Vincent"
 <define-tag description>Traversée de répertoires</define-tag>
 <define-tag moreinfo>
 <p>Rainer Koirikivi a découvert une vulnérabilité de traversée de répertoires

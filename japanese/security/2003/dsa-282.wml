@@ -20,7 +20,7 @@ glibc を使用しているアプリケーションに依存しますが、
 
 <p>libc6 パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1b3139b9743cfe4b6a178dd59effdf413e6b575c"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-282.data"
 # $Id$

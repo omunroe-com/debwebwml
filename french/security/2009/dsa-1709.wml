@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="bfa9f4b2f0a010d1baec4505c971074626ee58f4" maintainer="Jean-Edouard Babin"
 <define-tag description>Condition de concurrence</define-tag>
 <define-tag moreinfo>
 <p>Paul Szabo a découvert que login, le système de connexion au système ne gère

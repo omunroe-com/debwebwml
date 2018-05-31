@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="15b943442abaaff118af5edc3bbeb2aac5cc21f3" maintainer="juanma"
 <define-tag description>descuido al sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Demidov descubrió un desbordamiento de buffer potencial en

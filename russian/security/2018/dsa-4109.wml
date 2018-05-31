@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="91b22c01bacbab05c164549aec62343634a0811c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Лалит Раллабханди обнаружил, что OmniAuth, библиотека языка Ruby для

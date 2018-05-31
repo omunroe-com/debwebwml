@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bafaf488f9ada8b5be24892d863d1bc6a589af86"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>セキュリティ関連の問題が複数、ウェブベースのバグ追跡システム

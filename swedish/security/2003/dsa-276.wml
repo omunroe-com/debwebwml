@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8b53fd05f191cb6bc6c920a103b2f2502e22689e" mindelta="1"
 <define-tag description>lokal utökning av privilegier</define-tag>
 <define-tag moreinfo>
 <p>

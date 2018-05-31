@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="2017 Index"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="3f85dbd2ec425ccbd6d6672ac58c6e787a598e1e" maintainer="Sebul"
 
 
 <p>데비안 프로젝트 뉴스의 최신 호가 여기 있습니다.

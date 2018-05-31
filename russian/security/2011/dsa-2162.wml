@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="4be44f26018a49be9aea388c2801744893a70fe3" maintainer="Alexander Reshetov"
 <define-tag description>доступ к недопустимой области памяти</define-tag>
 <define-tag moreinfo>
 <p>Neel Mehta обнаружил, что неправильный формат посылки процедуры согласования ClientHello

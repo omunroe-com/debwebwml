@@ -21,7 +21,7 @@ CAN-2004-0454</a>: rlpr の msg() 関数のバッファオーバフロー</p>
 <p>直ちに rlpr パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a00d68244e0bc3fd879d7e3ba6bcb1a40f23082d"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-524.data"
 # $Id$

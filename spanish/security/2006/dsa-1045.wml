@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="507ad243460ad3f31a0c884f2f0854647ed57905" maintainer="Juan M. Garcia"
 <define-tag description>error de diseño</define-tag>
 <define-tag moreinfo>
 <p>Hendrik Weimer descubrió que OpenVPN, el daemon de red privada virtual,

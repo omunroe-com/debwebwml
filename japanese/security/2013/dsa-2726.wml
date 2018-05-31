@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7d70ccd4e40fd43e308b858256ab75d0c7fe6165"
 <define-tag description>バッファオーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>バッファオーバーフローが PHP の Radius 

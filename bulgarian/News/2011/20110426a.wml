@@ -1,7 +1,7 @@
 <define-tag pagetitle>Посрещнете студентите на Дебиан за <q>лятната практика на Гугъл</q>!</define-tag>
 <define-tag release_date>2011-04-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <p>Проектът Дебиан с гордост обявява, че отново е избран за обучаваща
 организация за тазгодишната <q>Лятна практика на Гугъл</q>. Девет студенти <a

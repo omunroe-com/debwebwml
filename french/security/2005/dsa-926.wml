@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="4d87edd83707d50811d5ad3198b32abd32d5df6c" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp du projet d'audit de sécurité de Debian a découvert un

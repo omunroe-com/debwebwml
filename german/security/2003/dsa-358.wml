@@ -114,5 +114,5 @@ Aktualisierungsprozesses des Kernels angezeigt werden.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-358.data"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="9265b72416060bb5763617fe83568884f3e2b50b"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9ef467b1d0578998feb38afd582922882ec592c2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ問題が Iceweasel、Debian 版の Mozilla Firefox

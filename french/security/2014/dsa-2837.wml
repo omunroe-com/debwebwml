@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="4afba0de9c573b4fcccb6ea0d41e02425a3d2906" maintainer="Thomas Vincent"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Anton Johansson a découvert qu'un paquet de poignée de main

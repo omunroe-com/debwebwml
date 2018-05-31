@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="03879326e6e316b4e9ddb2bccb17979a6701f811"
 <define-tag description>メモリ割り当ての制限抜け</define-tag>
 <define-tag moreinfo>
 

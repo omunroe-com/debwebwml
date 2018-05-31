@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e113a1c3780feecd29a79217e9aee338209452c1"
 <define-tag description>palvelunesto</define-tag>
 <define-tag moreinfo>
 <p>Debianin CUPS-tulostuspalvelin on altis puutteellisesti terminoidun

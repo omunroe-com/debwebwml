@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="006bb8733e4e8a4c87d41afa5f6b6bee278d1ffc"
 <define-tag description>целочисленное переполнение и переполнение стека</define-tag>
 <define-tag moreinfo>
 <p>Крис Эванс (Chris Evans) обнаружил несколько возможностей

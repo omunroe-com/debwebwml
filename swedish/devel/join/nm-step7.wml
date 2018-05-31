@@ -1,6 +1,6 @@
 #use wml::debian::template title="Steg 7: Kontroll av Debians kontoadministratörer samt skapande av konto" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="7606615ccc824d084b77b8389bc4b0de77974b15"
 
 <p>Trots att informationen på denna sida är publik är den av störst intresse 
 för blivande Debianutvecklare.</p>

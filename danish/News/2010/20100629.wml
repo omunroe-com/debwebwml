@@ -1,7 +1,7 @@
 <define-tag pagetitle>Mere samarbejde mellem distributioner baseret på Debian: Derivatives Front Desk</define-tag>
 <define-tag release_date>2010-06-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Debian-projektet har fremmet softwarefrihed og leveret fri software til 
 brugere via sine udgivelser siden 1993, hvor det var en af de allerførste 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="80023557ba1df134f9828ae9299a7007ee1793c3"
 <define-tag description>различные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Тимо Сирайнен (Timo Sirainen) обнаружил две уязвимости в менеджере

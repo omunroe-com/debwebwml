@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="0fbe9c4bacb832902a1f5e4ef3b2c9856a1d242c" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Zane Bitter från Red Hat upptäckte en sårbarhet i Aodh, 

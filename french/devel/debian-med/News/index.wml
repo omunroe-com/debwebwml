@@ -1,5 +1,5 @@
 #use wml::debian::template title="Dernières nouvelles de Debian Med"
-#use wml::debian::translation-check translation="1.10" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Nicolas Bertolissio"
 #use wml::debian::recent_list
 
 <:= get_recent_list ('$(CUR_YEAR)', '0', '$(ENGLISHDIR)/devel/debian-med/News', '', '\d+\w*') :>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bafd3e37a371188d1e0971bceff1e655503945ec" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Ютака Оива и Ниромитсу Такаги обнаружили подделку межсайтового

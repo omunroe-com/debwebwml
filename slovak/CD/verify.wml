@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Overenie pravosti CD s Debianom" BARETITLE=true
-#use wml::debian::translation-check translation="1.6" maintainer="Ivan Masar"
+#use wml::debian::translation-check translation="553c55e0ca1d5d45ffeaab254ac5430bed284238" maintainer="Ivan Masar"
 <p>
 Oficiálne vydania Debian CD sa dodávajú s podpísanými súbormi kontrolných súčtov;
 nájdete ich vedľa obrazov diskov v adresároch <code>iso-cd</code>,

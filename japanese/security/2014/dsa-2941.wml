@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c6626648f9ec5ca3dd577e95ec3e1735b4f841bd"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>lxml (libxml2 及び libxslt ライブラリの python バインディング) の clean_html()

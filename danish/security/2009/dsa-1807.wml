@@ -52,4 +52,4 @@ version 2.1.23.dfsg1-1 af cyrus-sasl2 og cyrus-sasl2-heimdal.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1807.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="6c06332acc7d6a085b22fe588a38d80cfadcd231" mindelta="1"

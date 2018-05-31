@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/etch/release.data"
-#use wml::debian::translation-check translation="1.5" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714" maintainer="Miroslav Kure"
 
 <p>Co je v&nbsp;Debianu&nbsp;4.0 nového, zjistíte po přečtení poznámek
 k&nbsp;verzi pro svou architekturu:</p>

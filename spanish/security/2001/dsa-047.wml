@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="d889a8268860815cc622a3680b5db5e63af61185"
 <define-tag moreinfo>
 Se ha encontrado que en los núcleos usados en Debian GNU/Linux 2.2 hay
 múltiples problemas de seguridad .Esta es una lista de problemas basados

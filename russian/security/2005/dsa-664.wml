@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f6433c2bdc4126f72de7398f3aa925f1c08b6b08" maintainer="Lev Lamberov"
 <define-tag description>неправильные права доступа к файлу</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что cpio, программа для управления архивами

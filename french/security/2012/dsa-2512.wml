@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="b7d9bdc98cc4d77da7fdee9f3d342ce967b0978e" maintainer="Thomas Vincent"
 <define-tag description>Absence de vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner a découvert que le serveur web inclus dans Mono ne réalisait pas

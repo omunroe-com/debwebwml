@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Debian GIS Pure Blend" NOHEADER="true" BLENDHOME="true" BARETITLE="true"
 #use wml::debian::recent_list
 #use wml::debian::blends::gis
-#use wml::debian::translation-check translation="1.5" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="ff9649c8aa2e1aa09d934c939de35d1476aabd4a" maintainer="Jean-Paul Guillonneau"
 
 <span class="download"><a href="<stable-amd64-url/>">
 Téléchargement de Debian GIS <stable-version/><br/><em>(DVD autonome 64 bits)</em></a>

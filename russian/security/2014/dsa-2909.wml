@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c6854ed3925915816537ef8804f8c5809e81ef3e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Михаил С. Цыркин из Red Hat обнаружил переполнение буфера, возникающее при

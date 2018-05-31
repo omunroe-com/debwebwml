@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="3c1d134a908e20a9ccca90f37f8f9e688ce56b56" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans OpenSSL.</p>

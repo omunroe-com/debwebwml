@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea" maintainer="DFS Task Force"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs problèmes de sécurité ont été corrigés dans le noyau

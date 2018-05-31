@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d3370c40d84fab707c969cd7d271778bbd1cfdcf" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Marcin Noga opdagede adskillige sårbarheder i readxl, en GNU R-pakke til 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" mindelta="1"
+#use wml::debian::translation-check translation="ae4a72744f84be54cae3e4ec65a8488af3af84d1" mindelta="1"
 <define-tag moreinfo>
 <p>Buffertspillet finns, men screen överger rootprivilegierna innan koden
 utförs.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="c8530e318949df8fb1ad40e55b519f442b47461d" maintainer="Juraj Kubelka"
 <define-tag description>neošetřený vstup</define-tag>
 <define-tag moreinfo>
 <p>Dmitry V. Levin objevil přetečení bufferu v&nbsp;libtiff, knihovně

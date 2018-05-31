@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.math.tifr.res.in/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="6afd79b067427a39475a4ad1dcba1e39e7544de8" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous faisons fonctionner un système d'environ 40&nbsp;machines basées sur

@@ -1,6 +1,6 @@
 # From: David Doan <david.doan@axigent.net>
 # Ping: Tue, 15 Nov 2011 02:08:26 +0000 <F9D0372305BB334A8E224916FA3C4361A4053F@homestar.mail.axigent.local>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="765b2304156a282c1e93ec1b87c18dc7129709c8" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Axigent Technologies Group, Inc., Амарилло, Техас, США</define-tag>
 <define-tag webpage>http://www.axigent.net/</define-tag>

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Κυκλοφορία του Debian GNU/Linux 5.0</define-tag>
 <define-tag release_date>2009-02-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Το Debian Project είναι στην ευχάριστη θέση να ανακοινώσει την επίσημη
 κυκλοφορία του Debian GNU/Linux έκδοση 5.0 (με την κωδική ονομασία

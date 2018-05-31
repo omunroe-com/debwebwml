@@ -6,7 +6,7 @@
 
 <define-tag release_date>2016-07-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c9c0b35ea350445ddeb76c0f8b58d810380ae4ab" maintainer="Jean-Pierre Giraud"
 <p>
 Samedi 9 juillet 2016, la conférence annuelle des développeurs et
 contributeurs Debian s'est achevée. 

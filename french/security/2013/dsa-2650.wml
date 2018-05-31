@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="de8c425679bcef95af74cccb077b7de1160d9517" maintainer="David Prévot"
 <define-tag description>Propriété de fichiers et nœuds de périphérique modifiée au groupe kvm</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c2ae614252bb232d31ff61a14387471186e51ed2" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Де Айндбацен обнаружил, что PHP, при запуске вместе с mod_cgi,

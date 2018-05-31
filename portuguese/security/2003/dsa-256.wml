@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="5506deb18007d1fa53fd01d77f27998656e23235"
 <define-tag description>insecure temporary file</define-tag>
 <define-tag moreinfo>
 <p>Um problema foi descoberto no adb2mhc do pacote mhc-utils. O diretório

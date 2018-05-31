@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dadc4ce074cdca49984b9331abf8786ccca64345" mindelta="1"
 <define-tag description>serveröverskridande skriptsårbarhet</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Open Ticket Request System (OTRS),

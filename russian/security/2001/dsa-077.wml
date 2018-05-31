@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1a4e5aef4c871716b9294d3f3f66afa1f7f32bf8" maintainer="Lev Lamberov"
 <define-tag description>удалённый отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 Владимир Иващенко обнаружил проблему в squid (популярном прокси-кэше).

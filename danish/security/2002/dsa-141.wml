@@ -21,4 +21,4 @@ distribution (woody) og i version 1.5-9 i den ustabile distribution (sid).</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-141.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9732e586e1ba28dae1242fa915f0506d2eda84ad"

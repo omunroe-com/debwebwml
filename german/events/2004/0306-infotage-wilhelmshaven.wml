@@ -21,7 +21,7 @@ vorgeführt wird.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="78d2510fc7ad6cb4cb58f608566525a2f7795f09"
 # $Id$
 #Related Links here (free form)
 <ul>

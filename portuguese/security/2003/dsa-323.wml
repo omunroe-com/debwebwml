@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8fd8ae2786887ae8a054ae4312a4891b8ad3ba0a"
 <define-tag description>arquivos temporários inseguros</define-tag>
 <define-tag moreinfo>
 <p>Jakob Lell descobriu um bug no script 'noroff' incluído no 

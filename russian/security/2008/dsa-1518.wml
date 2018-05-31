@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="abab0b5e5a4174396129af1bc5155b4782757827" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Мича Ленк обнаружил, что backup-manager, инструмент командной строки для создания

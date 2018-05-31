@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Women tilbyder øvelse i opbygning af pakker fra kildekode</define-tag>
 <define-tag release_date>2011-05-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="86309e51d2991d97afcdc8c9bafe86b25a1ff648"
 
 <p>Er du entusiastisk vedrørende Debian og overvejer at bidrage?  Vi vil gerne
 vejlede dig i de grundlæggende ting.</p>

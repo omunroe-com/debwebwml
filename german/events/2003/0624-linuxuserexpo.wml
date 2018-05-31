@@ -26,7 +26,7 @@ halten, in dem er erklärt, wie Debian funktioniert.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="209a0ea964d93cf5e11ec3aca4cfd986fe4c98dc"
 # $Id$
 <define-tag ludeurl whitespace=delete>
 http://www.linuxuser.co.uk/expo/index.php?module=ContentExpress&amp;func=display

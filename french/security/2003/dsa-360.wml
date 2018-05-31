@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="da7bc5d713843403f41fe14fb943bfc0603fd5b6" maintainer="DFS Task Force"
 <define-tag description>Plusieurs failles de sécurité</define-tag>
 <define-tag moreinfo>
 <p><i>xfstt</i>, un serveur de polices TrueType pour le gestionnaire graphique

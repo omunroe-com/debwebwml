@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e153d8338e79b8967c02d2ea8cd1e068f21ad572" maintainer="Lev Lamberov"
 <define-tag description>выполнение произвольного кода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что djvulibre, реализация поддержки DjVu с открытым

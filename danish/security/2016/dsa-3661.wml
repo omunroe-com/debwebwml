@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3154d83113a8b9c39a24f56d8664753b29304c3c" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at ukorrekt SASL-autentifikation i IRC-serveren Charybdis, kunne 

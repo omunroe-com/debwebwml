@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="70095cb4f5eaa2f5ad27f78ae5565da30fd0e976" maintainer="Simon Paillard"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>Jan Braun a découvert que le script fbgs de fbi, un visualisateur d'images

@@ -1,7 +1,7 @@
 <define-tag pagetitle>KDE のコピーライトおよびライセンス問題に関するDebian のスタンス </define-tag>
 <define-tag release_date>1998-10-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>KDE [<a href="#footnote1">1</a>] や Troll Tech [<a href="#footnote2">2</a>] の 
 Qt ライブラリの配布に用いられているさまざまなライセンスについて、

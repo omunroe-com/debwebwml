@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="395db7007a0be5c21c0de47ba2e20597b273422a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Чад Визино сообщил об уязвимости в torque, серийной системе обработки очередей на основе

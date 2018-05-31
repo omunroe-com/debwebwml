@@ -26,5 +26,5 @@ Version 1.2.10-20 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-795.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="f6ecc08f664388337a70f7e7f767757c4a1f7624" mindelta="1"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="986f69a1321a8d4c6c51eaa2ef672c6b080c2f85" maintainer="David Prévot"
 <define-tag description>Défaut de logique</define-tag>
 <define-tag moreinfo>
 <p>

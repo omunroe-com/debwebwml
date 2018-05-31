@@ -23,7 +23,7 @@ Lange vil give en indføring i opbygning af en beowulf-klyngecomputer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="8c10b313dc8692f4c3df51462fdad85ce2626b9f"
 #Related Links here (free form)
 <ul>
 <li>Thomas Lange:

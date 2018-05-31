@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0d0a16d91593fcb0f179dbeaa23b9bac1a349e0b" maintainer="Lev Lamberov"
 <define-tag description>отсутствие отказа от прав доступа</define-tag>
 <define-tag moreinfo>
 <p>Йенс Штёбе обнаружил, что ppxp, ещё одна программа для PPP, не выполняет

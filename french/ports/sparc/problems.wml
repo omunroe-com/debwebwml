@@ -1,6 +1,6 @@
 #use wml::debian::template title="Portage pour SPARC -- Errata" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
-#use wml::debian::translation-check translation="1.14" maintainer="Thomas Marteau"
+#use wml::debian::translation-check translation="bc5a5b465aa5f94e13b4ed873d83cbd36b1a2f2b" maintainer="Thomas Marteau"
 
 <h1>Errata de Debian pour SPARC</h1>
   <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="e6b3ac017c0c14787976a3dfbc7c4c45657c2d04" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhet för buffertspill har upptäckts i Sharutils, en uppsättning

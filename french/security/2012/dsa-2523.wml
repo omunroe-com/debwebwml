@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="84fe08732afdb0b35a4d06e866fd277fffa92a10" maintainer="David Prévot"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>

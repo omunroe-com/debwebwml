@@ -1,6 +1,6 @@
 #use wml::debian::template title="利用上の注意" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9d8bb5017e9113a23d9b016120a4e63281494984"
 
     <table width="90%">
       <tbody>

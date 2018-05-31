@@ -1,7 +1,7 @@
 <define-tag pagetitle>鍵の有効期限切れのため Etch RC1 イメージの大半が壊れています</define-tag>
 <define-tag release_date>2007-02-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8d1f9387753a5d5994a4e2d998a8c586929b1eb6"
 
 <p>
 Debian アーカイブの 2006 年用の署名鍵の有効期限が切れたため、Etch RC1

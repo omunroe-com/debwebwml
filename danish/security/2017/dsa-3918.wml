@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f7ffd50d849671e982c17dc6a11074af21eb6e61" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige sikkerheddsproblemer er fundet i Thunderbird, hvilke kunne føre 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="63b5a004f25ebeae9d69ce9bff3025355c4e3991"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Томас Вальпуски (Thomas Walpuski) сообщил о возможности переполнения

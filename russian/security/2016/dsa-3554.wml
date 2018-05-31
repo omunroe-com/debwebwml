@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7f44833fd5082628b01ffc8e8d3e52507eab9385" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В гипервизоре Xen были обнаружены многочисленные уязвимости. Проект

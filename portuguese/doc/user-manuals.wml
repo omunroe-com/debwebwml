@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Manuais do DDP para usuários"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="1.127" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="19ca55960e87efeed444a06bd4721e167de3be1a" maintainer="Felipe Augusto van de Wiel (faw)"
 
 # To translator: If I'm right, only Cartão de Referência do Debian GNU/Linux
 # needs to be updated in order to be in sync with 1.137 -- Regards, taffit

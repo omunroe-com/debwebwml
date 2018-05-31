@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Sicherheitsunterstützung etabliert</define-tag>
 <define-tag release_date>2005-07-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 
 <p>Das Debian-Projekt bestätigt, dass die Sicherheitsinfrastruktur sowohl für

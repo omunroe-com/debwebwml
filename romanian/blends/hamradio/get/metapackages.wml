@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Folosește pachete meta"
 #use "../navbar.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Ana Custura"
 
 
 <p> Pachetele meta sunt folosite de către blend pentru a grupa mai multe programe înrudite. Un pachet meta va declanșa instalarea tuturor pachetelor din grup. </p>

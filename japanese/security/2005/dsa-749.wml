@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0e442c640efc207e6b89ad6e23eb8ac0edc17a1f"
 <define-tag description>フォーマット文字列エラー</define-tag>
 <define-tag moreinfo>
 <p>ettercap パッケージに脆弱性が発見されました。ettercap

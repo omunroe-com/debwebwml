@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="c9a85a749d3eab5cb0487cebaa5ebb105bd6115d" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Denis Andzakovic đã khám phá ra rằng OpenLDAP, một phần thực thi miễn phí

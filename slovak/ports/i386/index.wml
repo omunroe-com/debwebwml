@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux na počítačoch x86" BARETITLE=true
-#use wml::debian::translation-check translation="1.7" maintainer="Ivan Masar"
+#use wml::debian::translation-check translation="e9c587fe48386f2bedf1d5a6284b6959c2b4635c" maintainer="Ivan Masar"
 <p>Pretože toto je prvá architektúra, ktorú Debian podporoval,
 väčšina všeobecných stránok o Debiane sa tohoto portu týka.</p>
 

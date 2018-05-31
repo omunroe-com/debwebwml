@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d2a7faa5a95e9b5f3dbe5b3f1f47e578b3ffe103"
 <define-tag description>puskurin ylivuoto</define-tag>
 <define-tag moreinfo>
 <p>Zen-parse havaitsi puskurin ylivuodon gv:ssä, PostScript- ja PDF-lukijassa

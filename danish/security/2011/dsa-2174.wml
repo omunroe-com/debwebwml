@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="439f9da0d41a07aeffcec6ff26cec721845a12de" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Avahi, en implementering af zeroconf-protokollen, på afstand

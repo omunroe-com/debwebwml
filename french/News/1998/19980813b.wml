@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="6b48c0500e1f1fd8b74eb46a2d8646714ba25ed0" maintainer="Frédéric Bothamy"
 #Initial translator: Willy Picard
 <define-tag pagetitle>Debian à la une&nbsp;: une nouvelle version stable de
 Debian</define-tag>

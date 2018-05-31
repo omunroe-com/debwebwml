@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="57ced59d2f13e7b5ec60a8a44b4d056fccacd850" maintainer="Jean-Pierre Giraud"
 <define-tag description>Dépassement de tas</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer de la Red Hat Product Security Team a découvert un 

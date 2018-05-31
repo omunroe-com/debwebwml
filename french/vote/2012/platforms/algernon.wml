@@ -1,6 +1,6 @@
 #use wml::debian::template title="Programme de Gergely Nagy" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.6" maintainer="François Lankar"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="François Lankar"
 <h1 id="walking-the-plank">Marcher sur une planche savonneuse</h1>
 <p>
 Camarades programmeurs !

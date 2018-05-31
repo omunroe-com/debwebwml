@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ece58331a685fe51c613c16e2be85abfb4e0d5d9" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Ваутер Кёкэртс обнаружил, что серверный компонент поддержки Jabber для Citadel,

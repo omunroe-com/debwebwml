@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="47ce9de5c21bf467950c0870b40e0e33a5ef5327" maintainer="DFS Task Force"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>L'équipe KDE corrigea un bogue en 2002 dont iDEFENSE vient de découvrir

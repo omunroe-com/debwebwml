@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d3e042bb6fae38b8f35ca1fb5c2ee97f25a5721d"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>OpenSSL 暗号ライブラリの ASN.1 処理で長さの検証が不十分なため、細工された

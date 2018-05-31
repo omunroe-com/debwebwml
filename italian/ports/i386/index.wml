@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux sulle macchine x86" BARETITLE=true
-#use wml::debian::translation-check translation="1.7" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="e9c587fe48386f2bedf1d5a6284b6959c2b4635c" maintainer="Luca Monducci"
 
 <p>Dato che i386 è stata la prima supportata da Debian la maggior parte delle pagine
 web Debian si applicano a questo port.</p>

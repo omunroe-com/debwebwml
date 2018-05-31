@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="f3325bbf80c4e2bf9e88e2b091f4fb9b7ddc7395" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Le serveur DNS BIND ne traite pas correctement l'analyse des réponses

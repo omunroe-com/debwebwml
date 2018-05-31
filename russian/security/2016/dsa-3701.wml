@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="595a7359afb00d7f8df8dbf322099e80113f8912" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Давид Голунский сообщил, что пакеты веб-сервера nginx в Debian

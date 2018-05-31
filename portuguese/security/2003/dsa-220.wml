@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="25d9591f4c70fb794d64922eef3b8940449d2009"
 <define-tag description>cross site scripting</define-tag>
 <define-tag moreinfo>
 <p>Uma vulnerabilidade cross site scripting foi descoberta no

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Контрольный список для выставочного стенда"
-#use wml::debian::translation-check translation="1.21" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="638fe58045b37899bd09abeb6939ae254187e89e" maintainer="Lev Lamberov"
 
 <p>Этот список будет полезен людям, которые организуют выставочный стенд Проекта Debian
 на выставке. Высылайте комментарии по адресу <a

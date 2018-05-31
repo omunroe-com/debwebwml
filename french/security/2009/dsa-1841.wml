@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="21473f8f2a462237252bf25bf08255599eaeb35d" maintainer="Thomas Vincent"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>git-daemon, qui fait partie de git-core, un système de contrôle de

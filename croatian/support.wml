@@ -1,6 +1,6 @@
 #use wml::debian::template title="Podrška"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.56"
+#use wml::debian::translation-check translation="482fc8a657ab3b6deea7821f5551df7979a96ddf"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <h2>%body</h2>

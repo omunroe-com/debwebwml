@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Verifikation af Debian-cd'ers autenticitet" BARETITLE=true
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="553c55e0ca1d5d45ffeaab254ac5430bed284238"
 
 <p>Officielle udgaver af Debian-cd'er indeholder signerede checksumfiler; kig 
 efter dem samme sted som filaftrykkene, i mapperne <code>iso-cd</code>,

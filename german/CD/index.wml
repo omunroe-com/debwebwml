@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian auf CDs" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b"
 # $Id$
 # Translator: Gerfried Fuchs <rhonda@debian.org> 2002-01-18
 # Updated: Holger Wansing <linux@wansing-online.de>, 2011 + 2015

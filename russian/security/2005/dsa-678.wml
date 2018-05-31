@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="395aecc76a4691377e9261146a3d3eafd5f93d7d" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>"Vlad902" обнаружил уязвимость в программе rwhod, которая может

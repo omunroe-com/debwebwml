@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="tummy.com, ltd."
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="a9b55bf48bc7c234538c4a6be76fb21027a48709" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous réalisons de l'administration système Linux, y compris l'administration de

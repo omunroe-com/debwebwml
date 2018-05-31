@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="02a9dbfaccf2799341459bb4efa2343489e642dc" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jann Horn opdagede at verifikationen af kildekodeintegritet i dpkg-source 

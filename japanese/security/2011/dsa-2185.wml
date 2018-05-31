@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8d271b7e050fcfefee7fadec5d2e0a7276ead14c"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 

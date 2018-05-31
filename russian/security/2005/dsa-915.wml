@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d3946a3c26478aebb6f7c871681bb7a25221fcc0" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В helix-player, аудио- и видео- проигрывателе helix, было обнаружено

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4b2ca5e9bb4461a7af4cb9cd8fb104b521d520cb"
 <define-tag description>некорректный вызов free(3)</define-tag>
 <define-tag moreinfo>
 <p>Михал Залевски (Michal Zalewski) обнаружил ошибку в сервере netkit-telnet

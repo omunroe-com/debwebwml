@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="66cbcd32eb97143605d4699861561484c2c371c6" maintainer="Simon Paillard"
 <define-tag description>Lecture en dehors des limites</define-tag>
 <define-tag moreinfo>
 <p>Paul Jakma a découvert que des messages «&nbsp;UPDATE&nbsp;» spécialement

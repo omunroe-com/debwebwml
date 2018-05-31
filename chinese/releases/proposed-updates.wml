@@ -1,6 +1,6 @@
 #use wml::debian::template title="<q>proposed-updates</q>（拟议更新）机制"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.10" maintainer="Boyuan Yang"
+#use wml::debian::translation-check translation="09c8de4214e938e26eeaf5c5d5bbb5937213f414" maintainer="Boyuan Yang"
 
 <p>所有对已发布的、稳定版本<q>stable</q>（和旧稳定版本<q>oldstable</q>）
 中软件的更新都会在被接受进入软件仓库之前经过额外的一个测试阶段。

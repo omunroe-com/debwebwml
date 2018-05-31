@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.admins.cz/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6f6177dffec7ccf80c6fdc246f6dfbb7190b6659"
 
 <p>
   Vi bruger Debian GNU/Linux på vore servere, og serverne vi har i vores

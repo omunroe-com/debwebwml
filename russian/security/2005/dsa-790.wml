@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c1215405ae54de85ed1340ce6c20400512928025" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Александр Герасимов обнаружил, что phpldapadmin, веб-интерфейс для

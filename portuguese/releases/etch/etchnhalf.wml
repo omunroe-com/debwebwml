@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Linux 4.0 -- Notas de Lançamento do Etch-And-A-Half" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/etch/release.data"
-#use wml::debian::translation-check translation="1.12" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <if-etchnhalf-released released="no">
 <h1>Página de espaço reservado</h1>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3dba2ce8874659936ed5820dcd0b3d1aa5dda78a"
 <define-tag description>入力のサニタイズ不足</define-tag>
 <define-tag moreinfo>
 <p>ウェブベースの IP アドレスマネージャおよびトラッカの ipplan が入力パラメー

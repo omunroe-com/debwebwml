@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bd2a3dbffc3097788619365c9e876c68b3524312" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>Акира Йошияма заметил, что ipmenu, графический интерфейс на основе cursel для iptables/iproute2,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9e77f32585425eb60ab2e38897500736d2976f3d"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>roundcube、スキンを使える AJAX ベースの IMAP

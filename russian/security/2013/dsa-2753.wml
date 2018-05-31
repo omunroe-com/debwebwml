@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4030d1ca755421838b73c516cd299cdd4bb80d5a" maintainer="Lev Lamberov"
 <define-tag description>утечка информации</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что в Mediawiki, wiki-движке, несколько модулей API

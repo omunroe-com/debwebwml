@@ -37,5 +37,5 @@ entfernt.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-918.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="7b27e7b9f62396b71257f481937e4418f284fc26" mindelta="1"
 # $Id$

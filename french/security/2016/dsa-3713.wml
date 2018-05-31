@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="fabc19d49f7fe3bbd9e168e4b4fe6ad713df97e5" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans a découvert que le greffon GStreamer 0.10 pour décoder les

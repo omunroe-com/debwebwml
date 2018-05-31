@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c3ed32fdcdbe66d04f206e6a2447e0b1be9158fd" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Simon Kilvington descubrió que las imágenes PNG manipuladas podían producir un

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="984732e3abeb0b0545d23e4abcbda42fb74fbe34" maintainer="Lev Lamberov"
 <define-tag description>Переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В коде грамматического разбора из состава клиента динамического обновления DNS No-IP.com,

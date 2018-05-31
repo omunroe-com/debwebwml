@@ -20,7 +20,7 @@ Courier sqwebmail (ローカルのメールボックスに対して認証され�
 <p>sqwebmail を早急にアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3d3908a97777c39b4ff6b8457295f222163c479e"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-197.data"
 # $Id$

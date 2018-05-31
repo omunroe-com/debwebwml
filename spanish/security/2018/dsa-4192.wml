@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b6e0cc11ad6486179bcb4ee6736fc81e6115518e"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron varias vulnerabilidades en MAD, una biblioteca de decodificadores de audio

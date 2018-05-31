@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="91da8cc33a38cf6c2e183b1bee3391478a841034" maintainer="David Prévot"
 <define-tag description>Conflit d'interprétation</define-tag>
 <define-tag moreinfo>
 <p>

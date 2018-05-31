@@ -1,6 +1,6 @@
 #use wml::debian::template title="PA-RISC-anpassningen -- System" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hppa/menu.inc"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2fc9dfddd8c0dbff8db3c43eebd31df1cdfab7d1"
 
 <h2>Översikt över System</h2>
 

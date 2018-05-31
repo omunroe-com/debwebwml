@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b3f0e3390b289d7aad95d9ada7a059018ebf70cb"
 <define-tag description>安全でない一時ファイル</define-tag>
 <define-tag moreinfo>
 <p>マシンを越えてバージョンを同一に保つためのファイル群のパッケージである

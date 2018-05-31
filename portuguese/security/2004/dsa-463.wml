@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="68d1a7b16de584b73da2ff5389fe0013174a7770"
 <define-tag description>escalação de privilégio</define-tag>
 <define-tag moreinfo>
 <p>Foi encontrado no Samba, um servidor de arquivos e impressão para o Unix, 

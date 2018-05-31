@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Manuali vari di Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/misc-manuals.defs"
-#use wml::debian::translation-check translation="1.26" maintainer="skizzhg"
+#use wml::debian::translation-check translation="4a6f1c2619ef91b79040ce002e26c05e62a3092f" maintainer="skizzhg"
 
 <document "Debian Project History" "history">
 

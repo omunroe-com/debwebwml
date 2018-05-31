@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="47ce9de5c21bf467950c0870b40e0e33a5ef5327" maintainer="juanma"
 <define-tag description>debilidad en el diseño</define-tag>
 <define-tag moreinfo>
 <p>El equipo de KDE corrigió en 2002 un error en kppp del que iDEFENSE

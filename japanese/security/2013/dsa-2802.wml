@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="778bbfaac229c1ea008e58777ccb97f94fd1158c"
 <define-tag description>制限の迂回</define-tag>
 <define-tag moreinfo>
 <p>Google Security Team の Ivan Fratric さんが

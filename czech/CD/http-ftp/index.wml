@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Stažení obrazů CD/DVD Debianu pomocí HTTP/FTP" BARETITLE=true
-#use wml::debian::translation-check translation="1.54" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="0717ab9b3acaffa53951c342ede04db08ce488b0" maintainer="Michal Simunek"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
 

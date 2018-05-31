@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="942b5c301b869b49f1d7528fa79c6d728257cb67" maintainer="DFS Task Force"
 <define-tag description>Déréférencement d'un pointeur nul</define-tag>
 <define-tag moreinfo>
 <p>Alan Cox a découvert un problème dans gtkhtml, un «&nbsp;widget&nbsp;» de

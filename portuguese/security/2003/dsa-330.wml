@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f68a3d64471ade1de5051f4ae1befc6f21d0a033"
 <define-tag description>falha ao abandonar privilégios de root</define-tag>
 <define-tag moreinfo>
 <p>tcptraceroute é um programa que trabalha como setuid-root e que abandona os 

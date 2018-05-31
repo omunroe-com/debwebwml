@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e5df5e4bf0db944aa620504db5d39bd722263ba8"
 <define-tag description>переполнение числовых значений</define-tag>
 <define-tag moreinfo>
 <p>Аль Виро (Al Viro) и Алан Кокс (Alan Cox) обнаружили несколько

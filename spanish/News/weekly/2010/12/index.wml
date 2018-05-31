@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-09-21" SUMMARY="Versión de Linux Mint basada en Debian, <q>Graves</q> fallos de software, Debian dará la bienvenida a colaboradores que no empaqueten"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Fernando C. Estrada"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl

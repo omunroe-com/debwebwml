@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Moving Art Studio, all2all.org"
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="5bde6b137b32232038fdfa566d09781fb7fed39f" maintainer="Nicolas Bertolissio"
 
 <p>
 Service partagé de serveurs dédiés Debian GNU/Linux et hébergement Debian

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b23554b0bf55d2a6e7012fb27f484e8f510cd1a7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В icotool и wrestool, инструментах из пакета Icoutils, набора программ для

@@ -6,7 +6,7 @@
 <define-tag enddate>2004-04-21</define-tag>
 <define-tag infolink>http://www.linuxuserexpo.com/</define-tag>
 <define-tag coord><a href="mailto:steve@einval.com">Steve McIntyre</a></define-tag>
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1af71b43d235b010ef90dfffb6f059a0c1c66c0b"
 
 <define-tag intro>
 

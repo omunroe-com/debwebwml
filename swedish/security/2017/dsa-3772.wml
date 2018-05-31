@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="72910e42058b8cf9eaa15be3a2aee7e6bf491d62" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Tobias Stoeckmann upptäckte att biblioteket libXpm innehåller två

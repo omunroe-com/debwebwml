@@ -1,6 +1,6 @@
 <define-tag pagetitle>Debian GNU/Linux 5.0 uvolněn</define-tag>
 <define-tag release_date>2009-02-14</define-tag>
-#use wml::debian::translation-check translation="1.2" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Miroslav Kure"
 #use wml::debian::news
 
 <p>Projekt Debian s potěšením oznamuje, že po 22 měsících

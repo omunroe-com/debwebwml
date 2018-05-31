@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-05-12" SUMMARY="Debian-medlemmerne har vedtaget etiske regler, registrering til DebConf14 er åben, SPARC fjernet fra Jessie, lovende fremtid for Debian i embedded systemer, bits fra Release Team, bits fra systemd- og GNOME-sprint"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="8fb751b7c1cfbe3cd729a336b64ae649edfd8b09"
 
 # $Id$
 # $Rev: 5630 $

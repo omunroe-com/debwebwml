@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0ee5580662d2529a7ef88543c861de4397b6fd1f"
 <define-tag description>escalada de privilegios</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores de Bugzilla, un sistema de seguimiento de fallos

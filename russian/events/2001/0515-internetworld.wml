@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a10db20a803d3ee5825ce0e5d73ca75b4cf68a48" maintainer="Lev Lamberov"
 <define-tag abbr>IWB</define-tag>
 <define-tag year>2001</define-tag>
 <define-tag pagetitle>Internet World Berlin</define-tag>

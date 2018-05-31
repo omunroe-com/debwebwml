@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 10 &mdash; Благодарности (или критика)" BARETITLE=true
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b6a7091f73c11a22a8f619653012ca182cd13179" maintainer="Lev Lamberov"
 
 <h2>Управление выпуском</h2>
 

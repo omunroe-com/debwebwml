@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d8fa6510501253073b81149c400859fa21fb4a0c" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Ignacio R. Morelle a découvert que l'absence de restrictions de chemin

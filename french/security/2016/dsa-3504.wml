@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="fd6b7b964981744877466d8ef7f149ccfa113d51" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Alvaro Muñoz et Christian Schneider ont découvert que BeanShell, un

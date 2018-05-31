@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="f09576d8bbd2b2ec2ae0e4921bd0b3254cd1ad21" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Andreas Nolden a découvert un bogue dans les routines de décodage UTF-8 de

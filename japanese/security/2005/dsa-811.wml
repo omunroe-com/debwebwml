@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>以下で触れられている問題へのバグ修正に誤りがあり、

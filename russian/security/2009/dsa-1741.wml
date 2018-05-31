@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6f1c76b629db882e885953e7e9aae3d43f0baf3e" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Джесус Олмос Гонзалес обнаружил, что переполнение целых чисел в Jabber-клиенте PSI 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="3e6b7619089f17a8075c0af135baffef0d483336" maintainer="Nicolas Bertolissio"
 <define-tag abbr>vatech-springfest</define-tag>
 <define-tag year>1999</define-tag>
 <define-tag startdate>1999-03-27</define-tag>

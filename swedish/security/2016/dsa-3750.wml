@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7f804717ab5f7d3bb52e0a12620807f0a5ce854f" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Dawid Golunski upptäckte att PHPMailer, ett populärt bibliotek för att

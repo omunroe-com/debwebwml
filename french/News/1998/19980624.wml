@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian v2.0 (<q>Hamm</q>) en bêta-test</define-tag>
 <define-tag release_date>1998-06-24</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.15" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" translation_maintainer="Martin Quinson"
 
 <p>Bien que significativement retardée, Debian 2.0 (dite <q>Hamm</q>) est
 officiellement sortie en tant que <q>bêta</q> pour les architectures i386

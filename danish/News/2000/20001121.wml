@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian tilsluttet i Gnome Foundations rådgivende forsamling</define-tag>
 <define-tag release_date>2000-11-21</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e0fd60f5cacbd093e972e0671d5608a6919342fd"
 
 <p>Debian-projektet er blevet inviteret til at slutte sig til den nyligt
 oprettede Gnome Foundations rådgivende forsamling ("Advisory Board").  Den 

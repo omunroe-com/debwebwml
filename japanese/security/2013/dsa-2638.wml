@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="106fc6ed3d98e8a3b89b38704b6866f797b8923c"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>バッファオーバフローが分散ファイルシステム

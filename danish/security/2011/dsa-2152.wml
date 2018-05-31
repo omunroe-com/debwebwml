@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="be58805614a1d678f470b52513cf38cd5c87671a" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer opdagede et bufferoverløb i SNMP-discovery-koden i HP Linux 

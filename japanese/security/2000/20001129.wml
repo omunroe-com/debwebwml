@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 
 <define-tag moreinfo>Alan Cox さんにより、GNU ed (伝統的なラインエディ
 タ) が安全にテンポラリファイルを生成しないということが発見されました。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="David Prévot"
 <define-tag abbr>CLT13</define-tag>
 <define-tag year>2011</define-tag>
 <define-tag pagetitle>13<sup>e</sup> journées Linux de Chemnitz</define-tag>

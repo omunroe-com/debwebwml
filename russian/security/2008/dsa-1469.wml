@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3d8d1e08ba0afff97ba52ec25f7925b703b6d4c4" maintainer="Lev Lamberov"
 <define-tag description>several vulnerabilities</define-tag>
 <define-tag moreinfo>
 <p>Шон де Регги и Грег Линарес обнаружили многочисленные переполнения

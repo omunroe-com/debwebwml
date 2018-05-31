@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ef84aaf556ad9a89c89bde46e197754bdbf442a0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джеффри Олтмен, Виктор Духовны и Николас Уильямс обнаружили возможность обхода

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d22d7dc515c77adfb802d9258a5772e685a3df18" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at et heapoverløb i biblioteket Poppler PDF kunne medføre 

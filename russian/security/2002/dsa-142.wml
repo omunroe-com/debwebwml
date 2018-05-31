@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="414a665abfe83a45a1f26980ac5eab1ec35917a1" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>В библиотеке RPC, используемой сервером баз данных OpenAFS и написанной

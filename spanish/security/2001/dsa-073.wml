@@ -38,4 +38,4 @@ favor, dése cuenta de que también necesitará actualizar el paquete de
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-073.data"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="9a99575c062127918f3281c8b6dae250900185a5"

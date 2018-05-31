@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="30c9d212d2cf6932c6da183eda52e5b333e2d3b5" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Antti Levomaeki, Christian Jalio, Joonas Pihlaja et Juhani Eronen ont

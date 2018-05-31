@@ -3,7 +3,7 @@
 # Email: https://lists.debian.org/5489AD48.2090702@gn.apc.org
 #Translators :
 #Thomas Péteul 2014
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="bfed0c1fdfa73179dab2d1fa2f2bfc45c7a74f96" maintainer="Jean-Paul Guillonneau"
 
 <define-tag pagetitle>GreenNet Ltd., Royaume-Uni</define-tag>
 <define-tag webpage>http://www.gn.apc.org/</define-tag>

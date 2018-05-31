@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4f883662977e90bb87a83f7be7af5d9eab460dc3" mindelta="1"
 <define-tag description>opdatering af ssl-certifikatsortliste</define-tag>
 <define-tag moreinfo>
 <p>Denne opdatering af internetsuiden Iceape, en varemærkefri version af 

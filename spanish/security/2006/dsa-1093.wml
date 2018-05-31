@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c39aa849f8b06e7bec9b253caf77ba75648ab04e" maintainer="Juan M. Garcia"
 <define-tag description>cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en xine-ui, la interfaz de usuario

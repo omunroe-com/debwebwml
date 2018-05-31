@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Свяжитесь с нами"
 #use "navbar.inc"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4" maintainer="Lev Lamberov"
 
 <p>Главным контактом по связанным с радиолюбительством темам в Debian является
 команда сопровождающих Debian Hamradio. Вы можете связаться с командой по электронной почте или

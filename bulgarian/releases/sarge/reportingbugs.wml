@@ -1,5 +1,5 @@
 #use wml::debian::template title="Дебиан ГНУ/Линукс 3.1 -- Съобщаване за проблеми" BARETITLE=true
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a"
 
 <p>Ако наблюдавате проблем с инсталационната система, докладвайте грешка в
 пакета <tt>installation-reports</tt>. Попълнете <a

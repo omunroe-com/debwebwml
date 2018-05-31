@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-07-12" SUMMARY="Chasse aux bogues à Munich, anniversaire Debian en préparation, brèves des responsables de listes, brèves du responsable de projet Debian"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Simon Paillard"
 
 <!--
 $Id$

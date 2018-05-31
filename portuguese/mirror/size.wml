@@ -1,5 +1,5 @@
 #use wml::debian::template title="Tamanho do Espelho"
-#use wml::debian::translation-check translation="1.38" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="62323fdc073e2407c5b11228298ae2deb379e778" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <h2>Qual é o tamanho do repositório Debian?</h2>
 

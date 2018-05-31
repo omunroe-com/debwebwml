@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c4a5b59e3a18ebc6f57c09e43474b4217dc2c389"
 <define-tag description>regra de filtragem de pacotes insegura</define-tag>
 <define-tag moreinfo>
 <p>O ipmasq é um pacote que simplifica a configuração do IP masquerading no 

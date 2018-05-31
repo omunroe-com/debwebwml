@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="463077fd27ece5cc31348879643324e68a3c8e73" maintainer="Pierre Machard"
 <define-tag description>Faille sur les éléments dynamiques</define-tag>
 <define-tag moreinfo>
 

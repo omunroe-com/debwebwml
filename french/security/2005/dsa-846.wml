@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="5d752d0151f3edcb5e98c09428f28a936e187828" maintainer="Simon Paillard"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités ont été découvertes dans cpio, un programme pour gérer

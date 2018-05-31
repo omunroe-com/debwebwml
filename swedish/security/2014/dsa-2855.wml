@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="02b0a13d14075dafdc818d411b2d581b4da0fd96" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Flera säkerhetsproblem har rättats i flera demuxers och decoders i 

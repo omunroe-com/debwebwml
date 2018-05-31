@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="ed54eda7d637b53fe29a2c72db3fc396fd5cd983" maintainer="Laura Arjona Reina"
 <define-tag pagetitle>Avisos de seguridad de 2015</define-tag>
 #use wml::debian::template title="<pagetitle>" GEN_TIME="yes"
 #use wml::debian::recent_list_security

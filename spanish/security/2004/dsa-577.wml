@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="28f4bd8ec17691efc55694e6a4d906097f42b03b" maintainer="juanma"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Los ingenieros de Trustix Security identificaron una creación de

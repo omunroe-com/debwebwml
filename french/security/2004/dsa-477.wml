@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="aba1ad49e7c84a9132c53b4636e9be1a1f62c9ac" maintainer="DFS Task Force"
 <define-tag description>Création de fichier temporaire non sécurisée</define-tag>
 <define-tag moreinfo>
 <p>Shaun Colley a découvert un problème dans <i>xine-ui</i>, l'interface

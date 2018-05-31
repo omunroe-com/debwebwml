@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-10-15" SUMMARY="Resoconto dalla riunione del team FTP, pillole dal DPL, diminuisce il tasso di segnalazione di bug in Debian"
-#use wml::debian::translation-check translation="1.7" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Mirco Scottà"
 
 <intro issue="nel ventesimo" />
 <toc-display/>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d6d1daa0bc10da649e0a1966f5a561e21300e5e9" mindelta="1"
 <define-tag description>heapbaserad minneskorruption</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att PHP kunde utföra en ogiltig frigörningsförfrågan vid

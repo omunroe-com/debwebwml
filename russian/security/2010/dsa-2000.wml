@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="456cb5634cf7b178c8c210226302e22659ce40a2" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В ffmpeg, проигрывателе, сервере и кодировщике мультимедиа, предоставляющем

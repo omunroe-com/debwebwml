@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c3782a3d2c53086a6713eaed1d0f4607a5b2b92d" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Se ha identificado una vulnerabilidad en gdm, un gestor de pantalla para X,

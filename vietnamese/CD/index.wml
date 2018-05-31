@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian trên đĩa CD" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.39" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="5679a4011fa3c2bf6d991147fcc3fa785da7c8f7" maintainer="Trần Ngọc Quân"
 
 <p>Nếu bạn muốn có được Debian trên đĩa CD hoặc USB, xem các tùy chọn
 sẵn có dưới đây. Trong trường hợp trục trặc, vui lòng xem lại

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="754f785153be5c3f4eb72eea0e44982e9247b8a4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Вивиан Чжан и Кристоф Антон Миттерер обнаружили, что выбор

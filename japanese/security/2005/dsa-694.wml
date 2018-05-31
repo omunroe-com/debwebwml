@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7d1408e1384cbffc03b8ad831fb469d932585250"
 <define-tag description>入力に対するサニタイジングの欠落、整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が xloadimage に発見されました。xloadimage は X11

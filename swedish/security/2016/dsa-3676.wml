@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cc1686b8eeb634f7b1ca4b55daebf0bd49444a62" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Tuomas Räsänen upptäckte två sårbarheter i unADF, ett verktyg för extrahera

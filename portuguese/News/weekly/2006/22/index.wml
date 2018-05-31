@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-05-30" SUMMARY="Desktop, IRC, Summer of Code, Inicialização, Solaris, FrOSCon, CCv3, BSPs, Lançamento"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <p>Bem vindo à vigésima segunda edição deste ano da DWN, o periódico
 semanal para a comunidade Debian.  Joey Hess produziu uma <a

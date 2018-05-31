@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bd7172f126f7764a3d7821d4d4c26165d2d33a8f" mindelta="1"
 <define-tag description>felaktig hantering av indata</define-tag>
 <define-tag moreinfo>
 <p>

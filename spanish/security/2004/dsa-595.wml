@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="97a3f3c2cd2348904080e8fe0752b97ef51f91b7" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Leon Juranic descubrió que BNC, un proxy de balanceo de sesiones para

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ba9e252891916576643ba6f9c19f3dd78403743a"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Michael Krax さんは、イントラネットあるいは小規模なインターネットサイト

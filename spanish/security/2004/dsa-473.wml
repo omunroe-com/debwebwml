@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4b8fa197a23da6aca91efe86a11d2423a1d6239e"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad en oftpd, un servidor de FTP

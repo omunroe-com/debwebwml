@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2b994564ae88e48cdce659efa21f0d4ba137edf3"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto una serie de desbordamientos de búfer en masqmail, un

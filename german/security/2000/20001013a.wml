@@ -18,5 +18,5 @@ für i386 aufgelistet; dies wurde mit der Version 6.0-1.1.1 ersetzt.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20001013a.data'
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="c2a5035b44cfa7eae6bf8d60b4f49d5994077379"
 # $Id$

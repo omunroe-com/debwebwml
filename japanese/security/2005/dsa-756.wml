@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="724ce9f7da148dcc6e0fbe6c12dd5fbca7a02b5d"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>広く利用されているウェブメールシステム Squirrelmail

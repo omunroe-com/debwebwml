@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="145f56274a5fe6ae5d376a49a478bbc997cdd509" mindelta="1"
 <define-tag description>saknade rättighetskontroller</define-tag>
 <define-tag moreinfo>
 <p>Ivano Cristofolini upptäckte att otillräckliga säkerhetskontroller

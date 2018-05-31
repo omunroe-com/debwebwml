@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0fe13a351afbc7a497ddd7c0ae2b51084eb040ec" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Sogeti обнаружил отказ в обслуживании в libxml2, библиотеке, предоставляющей

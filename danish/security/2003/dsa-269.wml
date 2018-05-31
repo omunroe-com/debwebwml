@@ -30,4 +30,4 @@ da den ikke er oversat mod kerberos 4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-269.data"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="712a8cbe3f034df549b7ae68e7a873587f0f6018"

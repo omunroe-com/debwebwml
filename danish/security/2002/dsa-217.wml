@@ -18,4 +18,4 @@ version 0.4.1-2.1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-217.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c38b7354e2e3985b5e78c05461ebfa2977adbc22"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b25e92a39f7ff2ff1b5f4236de30c0bdcff1c022" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jakub Wilk opdagede at requests, et HTTP-bibliotek til Python-sproget, 

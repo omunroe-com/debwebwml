@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="cd7ce16a39894a629551f97ae787d1ac1fbc56ab" maintainer="juanma"
 <define-tag description>vulnerabilidad en cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Khan Shirani descubrió una vulnerabilidad en cadena de formato en

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="ef2979d0210ace9389b35cb8d47babaedcc6dc3e"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron varias vulnerabilidades en Libvirt, una biblioteca

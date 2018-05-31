@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4c1fc112b24844800ddca9357c27590a7a23a761" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Айвэн Маркович обнаружил, что SquirrelMail, приложения для работы электронной почты в веб,

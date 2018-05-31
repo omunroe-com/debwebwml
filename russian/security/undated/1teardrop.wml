@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="11f139834b434da130414d66c8f8120ca847f7a1" maintainer="Lev Lamberov"
 <define-tag description>атака "teardrop"</define-tag>
 <define-tag moreinfo>
 Проблема с дефрагментацией кода IP может позволить другим пользователям аварийно завершить работу

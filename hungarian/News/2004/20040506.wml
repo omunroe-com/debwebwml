@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="15a2ca53d4acf1c3102c38853746de21c8221ed6"
 <define-tag pagetitle>Integrált XML-támogatást kínál a Debian</define-tag>
 <define-tag release_date>2004-05-06</define-tag>
 #use wml::debian::news

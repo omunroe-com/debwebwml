@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="383616a4b93204bda26a195398334ebdb79aab8a" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Une grande confusion fait place ces temps-ci autour de
 <i>ssh</i>&nbsp;: certaines personnes pensent que leurs systèmes ont

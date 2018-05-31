@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5c536ea6a0bbbbd675c12205244aa35a4c01567e"
 <define-tag description>特権の昇格/サービス拒否/情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が Linux カーネルに発見されました。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.13" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="9a184433e5f5601191b34af6cf57f82193bfc04b" maintainer="Jean-Paul Guillonneau"
 <define-tag pagetitle>Résolution générale : couplage de systèmes init</define-tag>
 <define-tag status>F</define-tag>
 # meanings of the <status> tag:

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Italian Debian Community Conference 2010 - 17-19 Settembre, Perugia (PG - Italy)</define-tag>
 <define-tag release_date>2010-09-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Francesca Ciceri"
+#use wml::debian::translation-check translation="c150f0c678b801d6dbdc6f9fb14df4d092c33e05" maintainer="Francesca Ciceri"
 # $Id$
 
 <p>Il Progetto Debian e la comunità italiana Debian sono felici di annunciare

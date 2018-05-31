@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ae98925d23775aebbaa99b852f3a694ccfd2385b"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Nikolaus Schulz さんは、ID3 タグライブラリである id3lib

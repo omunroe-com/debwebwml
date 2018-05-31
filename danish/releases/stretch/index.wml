@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian &ldquo;stretch&rdquo;-udgivelsesoplysninger"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="b63867c87988305bc852acacb9d5f4e2fb9ffab3"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/stretch/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"

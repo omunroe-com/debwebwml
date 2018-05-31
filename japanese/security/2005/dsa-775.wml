@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d53a87aea619472cb81cb42232248644f244074f"
 <define-tag description>フレームインジェクション偽装</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が Mozilla および Mozilla Firefox に発見されました。

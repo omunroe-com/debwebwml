@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3a36f2865f66eed16fa4282fa51cd6d4564f1de4"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Roland Lezuo さんと Josselin Mouette さんにより、libsoup HTTP ライブラリが

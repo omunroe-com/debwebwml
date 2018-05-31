@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.tuxfamily.org/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8e92826a7c748c02043a104a015ae73127680c56"
 
 <p>
     Tuxfamily usa por volta de 10 servidores Debian em arquitetura i386. Todos

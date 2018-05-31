@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="47dc7f978bbae572959a4cf3d5f9bb398ca4a0d5" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser descubrió un problema en neon, una biblioteca cliente

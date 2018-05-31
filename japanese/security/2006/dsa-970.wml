@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5268204b6238b925e764d60124ff3251891f8475"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>SEC Consult の Johannes Greil さんが、クロスサイトスクリプティング脆弱性を複数、

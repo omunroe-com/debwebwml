@@ -61,7 +61,7 @@ alligevel kan mødes.</p>
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="949111c5c25263176eeafa2fb7cf5786a694274b"
 <ul>
   <li><a href="http://www.lilit.be/photos.php?gal=10ans_Debian">\
     Billeder fra Liege</a></li>

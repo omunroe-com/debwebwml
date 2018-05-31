@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="518efc650ac312164d0e514a6ddc84bdb1718fde" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Tor, et forbindelsesbaseret anonymt kommunikationssystem med 

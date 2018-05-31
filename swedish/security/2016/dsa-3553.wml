@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fbbe62d1d39feb217406213f84318d52b5fe7245" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Régis Leroy från Makina Corpus upptäckte att varnish, en cachande

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Licencia de las páginas WWW de Debian" NOCOPYRIGHT="true" BARETITLE="true"
-#use wml::debian::translation-check translation="1.30" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="327ec6fb7bbc9207289defc00c95649b75753f38" maintainer="Fernando C. Estrada"
 
 <div class="centerblock">
 <p>Copyright &copy; 1997-$(CUR_YEAR)

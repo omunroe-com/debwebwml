@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ee14aef76a50691665fa23e346cf2b449ca4b69a" maintainer="Juan M. Garcia"
 <define-tag description>archivos temporales inseguros</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner descubrió que el programa cvsbug de CVS, que sirve el

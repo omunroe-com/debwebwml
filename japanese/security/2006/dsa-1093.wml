@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c39aa849f8b06e7bec9b253caf77ba75648ab04e"
 <define-tag description>フォーマット文字列脆弱性</define-tag>
 <define-tag moreinfo>
 <p>xine ビデオプレイヤーのユーザインターフェース xine-ui

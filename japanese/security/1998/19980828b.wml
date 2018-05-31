@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="f0ec8942dbe43e07744303cf2c915c9eba3d548e"
 <define-tag description>sendsys 報告機構を使用している場合にリモートのサービス拒否</define-tag>
 <define-tag moreinfo>
 <p>INN ニュースシステムを無効にする新種のサービス拒否攻撃の報告を受け取っています。

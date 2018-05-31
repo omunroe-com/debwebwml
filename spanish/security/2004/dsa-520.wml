@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="e26ee9a148d996af0d23da704f38d79480f3028b" maintainer="juanma"
 <define-tag description>desbordamientos de buffer</define-tag>
 <define-tag moreinfo>
 <p>En su aviso MITKRB5-SA-2004-001, MIT Kerberos anunció la existencia

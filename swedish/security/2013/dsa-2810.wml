@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d16ec14fb629056ca8754b317db3f2088b433251" mindelta="1"
 <define-tag description>heapbaserat bufferspill</define-tag>
 <define-tag moreinfo>
 <p>Charlie Somerville upptäckte att Ruby inkorrekt hanterar konvertering 

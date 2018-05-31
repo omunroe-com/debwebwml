@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="28d8ff585668c08044e137eaa95a16971cd9bd42" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Штефан Эссер обнаружил уязвимость в библиотеках XML-RPC, которая

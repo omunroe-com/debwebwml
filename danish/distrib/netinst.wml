@@ -1,5 +1,5 @@
 #use wml::debian::template title="Installering af Debian via internettet" BARETITLE=true
-#use wml::debian::translation-check translation="1.29"
+#use wml::debian::translation-check translation="457bcb4118a5a79a3dc0e676d42418e45a8d65f3"
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"

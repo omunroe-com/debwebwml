@@ -5,7 +5,7 @@
 <define-tag webpage>http://bayour.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8c79a7d931374a4c4a12424253f8b39e5dd91719"
 
 <p>
     Jeg bruger Debian GNU/Linux på en primær storageserver (hexacore AMD Phenom 

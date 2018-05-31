@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b689fbf9b41d18e91cea334b5fbc53c73d938c9a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джеймс Форшау обнаружил, что параметры CanonicalizationMethod в Apache Santuario XML Security для

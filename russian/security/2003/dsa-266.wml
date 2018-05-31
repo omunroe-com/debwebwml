@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="ff536b78404e9cbbbac72a0340bd65e4c0441b72"
 <define-tag description>различные проблемы</define-tag>
 <define-tag moreinfo>
 <p>Обнаружено несколько уязвимых мест в krb5, реализации

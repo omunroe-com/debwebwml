@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian-Projektleiterwahlen 2006" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="9d35d15cd629c4ea4d99a1544626443c474dd3f3"
 # $Id$
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2006-12-16
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5b8f357029e297cc28872c6499817ee45278a2da"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>IOActive の Ilja van Sprundel さんが X.org

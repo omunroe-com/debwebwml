@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d609ff4fcb0021e6dd288de057a1ef6cd2b1ac13"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が Drupal、多機能コンテント管理基盤に発見されました:

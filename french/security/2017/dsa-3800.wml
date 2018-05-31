@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="0e79e151cdf7ae8eb1e7dd3d5fbba2b03d6f4c29" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Marco Romano a découvert que libquicktime, une bibliothèque pour lire et

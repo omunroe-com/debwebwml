@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="670adbdb23a950f63b4bd1a9ceb93d93f950e812"
 <define-tag description>buffer overflows, negação de serviço</define-tag>
 <define-tag moreinfo>
 <p>Bas Wijnen descobriu que o servidor gnocatan é vulnerável a vários

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f1551c44d5630ff3cfa645fc21e2dc8c3c64d04d" mindelta="1"
 <define-tag description>dubbel frigörning</define-tag>
 <define-tag moreinfo>
 <p>Markus Vervier upptäckte en dubbel frigörning i Pythongränssnittet till

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3bffea2dd8c3d1696264925f4857d667f1c8333b"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>サービス拒否の状況が Bluetooth HCI パケットを分析するユーティリティ

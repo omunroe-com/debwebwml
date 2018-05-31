@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-11-14" SUMMARY="La communauté Debian combat le réchauffement climatique par un gel, groupe d'étude de Debian de la région de Tokyo, première publication de Debian Edu basée sur Jessie, comptes-rendus d'octobre 2014 sur LTS, autres comptes-rendus, Open Source Conference 2014 Tokyo/automne, audit de la liste des utilisateurs de Debian, Mini-DebConf 2014 chez ARM, à Cambridge"
-#use wml::debian::translation-check translation="1.2" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="8d34fba054d0bbfd3dca43415757b9c54a00bb74" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 1641 $

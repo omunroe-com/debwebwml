@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f83671ce42b8d6b7f5ecefcce4d08a34ce30149a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Iceweasel, версии веб-браузера Mozilla Firefox для Debian, были

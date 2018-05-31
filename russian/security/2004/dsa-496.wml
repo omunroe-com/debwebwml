@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="75232755915a97a2fdf3cce209244f91c56788e4"
 <define-tag description>не производится очистка входного текста</define-tag>
 <define-tag moreinfo>
 <p>Х.Д. Моор (H.D. Moore) обнаружил несколько проблем, связанных с

@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian i pressen 1997" NOHEADER=yes
 #use wml::debian::countries
 #include "$(ENGLISHDIR)/News/press/press.tags"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4e00604c9c3b5cec5e3daae37f71c964c9bda228"
 
 <h3>Debian i pressen</h3>
 

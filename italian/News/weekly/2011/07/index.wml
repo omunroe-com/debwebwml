@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-05-02" SUMMARY="Notizie dal DPL, modifiche recenti e future del kernel Linux, il progetto Debian piange la scomparsa di Adrian von Bidder"
-#use wml::debian::translation-check translation="1.13" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="3d8a59c4b4e7d46cc3c4e918efed091d71ecacd8" maintainer="Mirco Scottà"
 
 <p>Benvenuti nel settimo numero di quest'anno della DPN, la newsletter
 della comunità Debian. In questa edizione troviamo:</p>

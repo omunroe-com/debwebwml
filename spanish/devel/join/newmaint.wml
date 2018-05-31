@@ -1,5 +1,5 @@
 #use wml::debian::template title="El Rincón del nuevo miembro de Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.83" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="854b866cca446c10c793f389da230fdf2238e68a" maintainer="Laura Arjona Reina"
 
 <p>Es necesario seguir una serie de procedimientos para llegar a ser un
 desarrollador de Debian oficial (DD). Los futuros

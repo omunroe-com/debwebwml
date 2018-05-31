@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="9ca93e12c89492dcf8444ce75097035c265ab7bd" maintainer="Thomas Vincent"
 <define-tag description>Attaque par canal auxiliaire</define-tag>
 <define-tag moreinfo>
 <p>Genkin, Shamir et Tromer ont découvert que du matériel de clé RSA pourrait

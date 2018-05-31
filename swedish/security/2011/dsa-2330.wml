@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0874b1325074e4570354db2babfe10e95e6f6e21" mindelta="1"
 <define-tag description>XML-krypteringssvaghet</define-tag>
 <define-tag moreinfo>
 <p>Problem har upptäckts i hanteringen av XML-kryptering i simpleSAMLphp,

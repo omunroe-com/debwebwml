@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a61693d1249291988800494434ea1cb39599df6f" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Il a été rapporté que quelques distributions de Linux sont affectées par une
 vulnérabilité dans <i>samba</i>. Il y a deux problèmes&nbsp;:

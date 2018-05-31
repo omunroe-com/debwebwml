@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a63b51df905df9f190c847d2974b0b55df8b2c91" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Сотрудники Secunia Research из Flexera Software обнаружили переполнение целых

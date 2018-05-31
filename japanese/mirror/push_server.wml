@@ -1,5 +1,5 @@
 #use wml::debian::template title="push サーバを設定する"
-#use wml::debian::translation-check translation="1.22"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 #use wml::debian::toc
 
 <p>push サーバの設定は、基本的に 2 つの作業からなります。

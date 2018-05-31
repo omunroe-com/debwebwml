@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5a3032db4708076fecc41a2253620f7765bc6c58" mindelta="1"
 <define-tag description>överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att BIND, en DNS-server, kan krascha vid behandling av

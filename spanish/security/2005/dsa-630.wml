@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="544d67572eaeaf13023bf08b45c945bef293009b" maintainer="juanma"
 <define-tag description>directorio temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Jeroen van Wolffelaar descubrió un problema en lintian, la

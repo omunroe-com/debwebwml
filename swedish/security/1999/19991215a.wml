@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240"
 <define-tag description>fjärrattack i ssh</define-tag>
 <define-tag moreinfo>Information från Core-SDI indikerar att en kombination
 av programfel i ssh och rsaref2-biblioteket kan attackeras så att

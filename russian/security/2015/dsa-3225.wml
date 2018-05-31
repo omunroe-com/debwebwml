@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bc88f0ddefc70e6b18d94e4132a07a9b4cd6952e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Аки Хелин обнаружил переполнение буфера в дополнении GStreamer для

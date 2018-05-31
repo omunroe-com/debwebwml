@@ -2,7 +2,7 @@
 <define-tag release_date>2011-04-23</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="bf4891f7107381410e784a0077f3b52735f29ecd"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2011-04-25
 
 <p>Das Debian-Projekt hat ein aktives Mitglied seiner Gemeinschaft verloren. 

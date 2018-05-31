@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="def5a0a076dd7ff2aac05b88181c7cc8b8772034"
 <define-tag description>archivos temporales inseguros</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto que la versión de ensscript (una herramienta para

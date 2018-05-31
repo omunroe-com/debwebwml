@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="5e8718a8df545a90617136381dd92ea18c422588" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sårbarheder er opdaget i ISC's BIND DNS-server.</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a5c75317f556eef873742423188f6cd21a549e88"
 <define-tag description>gestión de entrada inadecuada</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un problema con wwwoffle.  El proxy web no manejaba

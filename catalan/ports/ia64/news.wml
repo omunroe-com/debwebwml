@@ -1,5 +1,5 @@
 #use wml::debian::template title="Port a IA-64 -- Notícies" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="f832fa04df640fc3eba2bdbd0d92b593c3b68afd"
 #include "$(ENGLISHDIR)/ports/ia64/menu.inc"
 
 

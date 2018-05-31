@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="500b05c4a19ba284705855f89898af0d775f08be" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В freexl, библиотеке для чтения электронных таблиц Microsoft Excel, были обнаружены

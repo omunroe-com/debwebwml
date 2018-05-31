@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e2a03c7855dcb77d72da8ab71c0188ca0db80f87"
 <define-tag description>off-by-one エラー / バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Secure Socket Layer (SSL) 暗号化ライブラリおよびユーティリティの実装である 

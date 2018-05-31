@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Pierre Machard"
 <define-tag pagetitle>Debian GNU/Linux&nbsp;3.0 mise à jour (r1)</define-tag>
 <define-tag release_date>2002-12-16</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="ca0f712ac8e102dc911ee4a21c3a32ce36ba2847" maintainer="juanma"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>«infamous41md» descubrió una condición de desbordamiento del buffer en

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Espelhos do Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.41" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="5a4b6c99a1118425da25658b724c3fcebef8d51f" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>O Debian é distribuído por todo o mundo usando os
 <em><a href="http://foldoc.org/mirror+site">espelhos</a> (em inglês)</em>

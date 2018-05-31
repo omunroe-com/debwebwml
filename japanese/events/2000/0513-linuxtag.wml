@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="a10db20a803d3ee5825ce0e5d73ca75b4cf68a48"
 <define-tag abbr>BLT2</define-tag>
 <define-tag year>2000</define-tag>
 <define-tag pagetitle>2. Braunschweiger Linux-Tage</define-tag>

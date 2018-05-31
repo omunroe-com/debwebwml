@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="372f1e841c44799b38f8f7bf7f6b901076e5dd94" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Phar-udvidelsen til PHP håndterede ikke tar-filer på korrekt vis, hvilket 

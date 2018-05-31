@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debianin vianseurantajärjestelmä" BARETITLE=true NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.86"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
 #{#style#:<link rel="stylesheet" href="https://bugs.debian.org/css/bugs.css" type="text/css">:##}
 {#meta#:

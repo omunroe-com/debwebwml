@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6d4deee06918954cd5c5cf88ea3c9bf0715385a4"
 <define-tag description>tietojen paljastuminen, ristiinlinkittävä komentosarja</define-tag>
 <define-tag moreinfo>
 <p>Tomcatin kehittäjät havaitsivat tomcatin versiossa 3.x useita ongelmia.

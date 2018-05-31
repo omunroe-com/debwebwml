@@ -3,7 +3,7 @@
 <define-tag pagetitle>Division des r&eacute;seaux, Minist&egrave;re des villes, Br&eacute;sil</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="0f8488583fcd141c32d63aef29c56c07b0fcc9a1" maintainer="Nicolas Bertolissio"
 
 <p>
 Le ministère des villes utilise Debian sur des serveurs réseau et des clients.

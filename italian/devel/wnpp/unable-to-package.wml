@@ -1,5 +1,5 @@
 #use wml::debian::template title="Software che non può essere pacchettizzato"
-#use wml::debian::translation-check translation="1.11" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="0c5e383e2f353f4d6a19fde0df74ea76075176d2" maintainer="Giuseppe Sacco"
 
 <ul>
   <li>HotJava -- la licenza impedisce la ridistribuzione di qualsiasi tipo.

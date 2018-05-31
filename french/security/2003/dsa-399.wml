@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="9907359c4b61adfdd6e74644cb87c0ea4b383bd8" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Jeremy Nelson a découvert un dépassement de tampon exploitable à distance 

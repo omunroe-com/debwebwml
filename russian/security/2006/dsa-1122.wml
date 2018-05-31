@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="164a6a38f1a152566ad8172ac34d33995a5dfcfa" maintainer="Lev Lamberov"
 <define-tag description>форматная строка</define-tag>
 <define-tag moreinfo>
 <p>Петер Бирингер обнаружил, что функция "log" в модуле Net::Server

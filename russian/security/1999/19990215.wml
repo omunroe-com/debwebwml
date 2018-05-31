@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240" maintainer="Lev Lamberov"
 <define-tag moreinfo>Сопровождающий пакета для Debian GNU/Linux обнаружил
 ошибку, возникающую при обработке временных файлов во время выполнения уборки
 домашних каталогов, что позволяет предполагать, что программа повержена атаке

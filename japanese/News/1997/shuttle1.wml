@@ -1,7 +1,7 @@
 <define-tag pagetitle>新しいコンピュータオペレーティングシステム、スペースシャトルに乗る</define-tag>
 <define-tag release_date>1997-04-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>根本的に異なった新しいコンピュータオペレーティングシステムが、
 三月下旬のスペースシャトルミッションの実験を制御する。

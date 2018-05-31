@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="74742b2d709a96da79c5e7d342696e9dac4b04e3" translation_maintainer="Michelle Ribeiro"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>fc encontrou um buffer overflow na variável expansion do código usado 

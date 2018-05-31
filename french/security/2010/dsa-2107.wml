@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="d84dd6bea3df767c2c386152cf59a452911b05b0" maintainer="David Prévot"
 <define-tag description>Chemin de recherche non fiable</define-tag>
 <define-tag moreinfo>
 <p>

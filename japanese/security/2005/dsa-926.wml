@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4d87edd83707d50811d5ad3198b32abd32d5df6c"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Debian セキュリティ監査プロジェクトの Steve Kemp

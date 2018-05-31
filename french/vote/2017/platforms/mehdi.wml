@@ -1,6 +1,6 @@
 #use wml::debian::template title="Programme de Mehdi Dogguy" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="8066db66a630ede31de9636e4ee39a62619ee0c5" maintainer="Jean-Paul Guillonneau"
 <h1 id="who-i-am">Qui suis-je</h1>
 <p>
 Je suis un tunisien et français de 33 ans vivant près de Paris en France.

@@ -20,7 +20,7 @@ utgivningen av potato under mässan.
 </Define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5b703d6764c2ba502032a943191b8e6f0781952c"
 #Related Links
 <ul>
   <li><a href="http://www.linuxworldexpo.com/">Linuxworld expo</a><br>

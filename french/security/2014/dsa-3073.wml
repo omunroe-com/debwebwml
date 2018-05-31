@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="80aaf6e3c17855f439a8b4f0fe7b444756a90a54" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Daniel Genkin, Itamar Pipman et Eran Tromer ont découvert que les sous-clés

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="132486e47436283e0a2d78c34a0fd8f3a263b035" mindelta="1"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Михал Кедзиор обнаружил две уязвимости в LDAP Account Manager, веб-интерфейсе

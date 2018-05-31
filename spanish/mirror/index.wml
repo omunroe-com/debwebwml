@@ -1,5 +1,5 @@
 #use wml::debian::template title="Réplicas de Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.61" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="bd86b0ad25988ff5a8899346e64baf4909abd886" maintainer="Laura Arjona Reina"
 
 <p>Debian se distribuye en todo el mundo mediante el uso de 
 servidores de réplica con el propósito de proporcionar un mejor acceso 

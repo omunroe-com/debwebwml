@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a44ecbe2693ea8c6b0a94b7d13ec18c2c61c93a3" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder blev opdaget i libmodplug, et bibliotek baseret på 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="040ee804b0e488792c58ab41d5154b95c44aecc0"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>Кароль Левандовски (Karol Lewandowski) обнаружил, что psbanner,

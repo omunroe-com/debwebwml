@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="951b11af3b21e8e016add91df549590eb7e1cd2f" maintainer="Simon Paillard"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;felinemalice&nbsp;» a découvert un dépassement d'entier dans BMV, un

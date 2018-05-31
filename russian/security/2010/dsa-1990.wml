@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e53e72bce507271c4807138d8179354d959b85dc" maintainer="Lev Lamberov"
 <define-tag description>инъекция команд командной оболочки</define-tag>
 <define-tag moreinfo>
 <p>Штефан Гёбель обнаружил, что версия trac-git в Debian, дополнения для поддержки Git

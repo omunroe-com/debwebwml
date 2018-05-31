@@ -21,4 +21,4 @@ libkpathsea er blevet installeret.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-207.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="eb6faa110429df9789911b30a778266b4e096da4"

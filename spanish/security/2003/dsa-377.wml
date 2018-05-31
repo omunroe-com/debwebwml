@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6141672f054b76f9f2bd8e229a5d4fe68ec90796"
 <define-tag description>ejecución insegura de programa</define-tag>
 <define-tag moreinfo>
 <p>wu-ftpd, un servidor de FTP, implementa una característica por la que se

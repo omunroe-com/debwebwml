@@ -25,4 +25,4 @@ dette problem snart blive rettet.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1948.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="ef8ce0142ebe6080f00c7a5d3fcdcb317b30aee0" mindelta="1"

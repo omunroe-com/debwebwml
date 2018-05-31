@@ -30,7 +30,7 @@
 #use wml::debian::past_event
 # $Id$
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="2748894823acf393f57a12cda156d7536fcbeb38"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2006-04-23
 <ul>
   <li><a href="0624-froscon-report">Bericht</a></li>

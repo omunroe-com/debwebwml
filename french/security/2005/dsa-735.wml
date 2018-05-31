@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="17224dde6fd52dd722b881c11cfa944d4e8760fc" maintainer="Simon Paillard"
 <define-tag description>Situation de concurrence dans la validation des chemins</define-tag>
 <define-tag moreinfo>
 <p>Un utilisateur local ayant été autorisé à exécuter des commandes <i>via</i>

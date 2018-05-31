@@ -2,7 +2,7 @@
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/woody/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714"
 
 <p>데비안 3.0에서 새로워진 점에 대해 알고 싶다면 자신이 사용하는
 아키텍처의 릴리스 노트를 보기 바랍니다.

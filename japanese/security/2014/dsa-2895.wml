@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="019cd3b809959b8e21b9b66c3bfd4660ffc8dace"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>サービス拒否の脆弱性が Prosody、XMPP サーバに報告されています。

@@ -34,5 +34,5 @@ Version 1.3.16-3 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-659.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="e12c94c1bd26a24ae67d1359239e6c2d7a6c8f75" mindelta="1"
 # $Id$

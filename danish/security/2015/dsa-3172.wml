@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0fe7b4d89a001d5b365d1daa42edfd4ac2d85a54" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Peter De Wachter opdagede at CUPS, Common UNIX Printing System, ikke på 

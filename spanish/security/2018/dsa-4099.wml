@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="77d57d96b00c16881e32a491e0863b546f3b177c"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en la infraestructura de soporte multimedia

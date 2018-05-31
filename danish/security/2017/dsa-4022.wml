@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d57e0696b81ec71b2e66010597a95afb35b84797" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Marcin Noga opdagede to sårbarheder i LibreOffice, hvilke kunne medføre 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4e97ba7f8f378444aac5d934639be799155c655d"
 <define-tag description>passagem de diretório</define-tag>
 <define-tag moreinfo>
 <p>Uma vulnerabilidade, que permite uma passagem de diretório, no UnZip

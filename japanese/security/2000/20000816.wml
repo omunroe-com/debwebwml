@@ -21,7 +21,7 @@ xlockmore/xlockmore-gl 4.12-5 および Debian GNU/Linux 2.2 (potato) 用
  
 <define-tag description>シャドウファイルが見られる可能性</define-tag>
 
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20000816.data'

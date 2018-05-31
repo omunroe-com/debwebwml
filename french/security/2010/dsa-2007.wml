@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="2a633dd265f39b93db2349ff0e23f0ff72d8e86e" maintainer="David Prévot"
 <define-tag description>Vulnérabilité de chaîne de formatage</define-tag>
 <define-tag moreinfo>
 <p>

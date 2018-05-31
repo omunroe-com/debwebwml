@@ -5,7 +5,7 @@
 <define-tag webpage>http://gdc.wpi.edu/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bfc58c999cac6249a63c5062b206bd7a0a731275"
 
 <p>
     Debian kører i øjeblikket på vores primære webserver (lumi.gdc.wpi.edu — 

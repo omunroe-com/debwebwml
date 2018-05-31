@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9edc97aec5e5b8212703f2f6f3ecf9a46a006bbe" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Компания iDEFENSE сообщила о переполнении буфера в xpdf, наборе для работы

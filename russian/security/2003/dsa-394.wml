@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c0d8250df61ba4f1733be9ffdbb75f6fc233ae31"
 <define-tag description>уязвимость разбора ASN.1</define-tag>
 <define-tag moreinfo>
 <p>Стив Хенсон (Steve Henson) из основной команды OpenSSL идентифицировал

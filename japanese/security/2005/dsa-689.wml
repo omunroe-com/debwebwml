@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2c9f8dd32462c863f89af7c5c71f6b3790608994"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Graham Dumpleton さんは、Apache Software Foundation の mod_python

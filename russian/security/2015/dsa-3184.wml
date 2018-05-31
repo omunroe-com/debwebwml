@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cbea61be1c9604aa4a2e19e55576fc39870749a3" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В GnuPG, GNU Privacy Guard, были обнаружены многочисленные уязвимости:</p>

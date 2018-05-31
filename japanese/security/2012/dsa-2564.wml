@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a5fc65fb871e384c5b337ea200521bce46ef0b0e"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>gpernot さんが、HTTP プロキシである Tinyproxy

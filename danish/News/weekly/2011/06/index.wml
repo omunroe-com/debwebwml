@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-04-18" SUMMARY="Søsætning af <q>Wheezy</q>, tilmeldninger og bidrag til DebConf11, FTP Master-møde"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="134c799c2f934b5ca7ed7cfb8842c0471814d549"
 
 <define-tag MID whitespace=delete>https://lists.debian.org/$0</define-tag>
 

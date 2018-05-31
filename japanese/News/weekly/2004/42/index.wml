@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-10-26" SUMMARY="i386, ライセンス, カンファレンス, 設定, m17n, データベース, パッケージング, Woody"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="21de25da834516d8008adc91fe6eb00081f41714"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 42 号へようこそ。Roger So さんは、

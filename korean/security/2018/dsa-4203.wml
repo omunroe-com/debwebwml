@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="283093054b4ed3147341b92bd0926170328360c0" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>Hans Jerry Illikainen 은 형 변환 취약점을 VLC 미디어 플리이어의 mp4 demuxer에서 발견했으며,

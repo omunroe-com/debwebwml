@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="ce7ea15b1959c76ed90799a5622f5dda4cc23ae0"
 <define-tag abbr>DebianDay</define-tag>
 <define-tag year>2006</define-tag>
 <define-tag pagetitle>DebianDay</define-tag>

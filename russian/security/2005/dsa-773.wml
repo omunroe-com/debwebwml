@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f71b5cc85bbb44bc9126b8508d321661176721ff" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Данная рекомендация добавляет поддержку безопасности для стабильного выпуска архитектуры amd64.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="058b926b92f7ee211f02d2194c43ea0c9612659c" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" обнаружил несколько переполнений буфера в libxml и

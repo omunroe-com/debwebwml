@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a7dfb027d06ba0e91610b7c291239c9cfdbb45c0"
 <define-tag description>競合</define-tag>
 <define-tag moreinfo>
 <p>Erik Sjoelund さんにより、Linux 2.6 計測ツール Systemtap の stap ツールに

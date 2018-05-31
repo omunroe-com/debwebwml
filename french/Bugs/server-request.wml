@@ -1,5 +1,5 @@
 #use wml::debian::template title="Suivi des bogues Debian — serveur de requêtes" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.30" translation_maintainer="David Prévot"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" translation_maintainer="David Prévot"
 
 # Translators:
 # Christophe Le Bars, 1999.

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Nouvelles de 2015 pour les radioamateurs Debian"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4" maintainer="Jean-Paul Guillonneau"
 
 <:= get_recent_list ('.', '0',
 '$(ENGLISHDIR)/devel/hamradio/News/2015', '', '\d+\w*') :>

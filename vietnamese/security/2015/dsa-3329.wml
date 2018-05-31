@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="373897b277acdc4e68be71922663a7cd8c52ea17" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Nhiều lỗ hổng bảo mật đã được tìm thấy trong nhân Linux những lỗi mà có thể

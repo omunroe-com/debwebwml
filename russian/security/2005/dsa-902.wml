@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba7948a720352b66afbeccded91d1ad23f5bbc4d" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В программе sendmail из xmail, продвинутом, быстром и надёжном почтовом

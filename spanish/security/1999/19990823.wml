@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="c9b38392dbd3a776a0d1d239dcb72326da1ca94a"
 <define-tag moreinfo>El autor de rsync, Andrew Tridgell, ha informado de que
 las versiones anteriores de rsync contenían un error relacionado con la
 seguridad.  Si estuviera transfiriendo un directorio vacío a un directorio no

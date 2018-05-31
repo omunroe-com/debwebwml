@@ -1,6 +1,6 @@
 #use wml::debian::template title="PowerPC-Portierung (APUS)" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/inst/menu.inc"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="a9738774706d265243f4d1b6f43b411f8536f5c8"
 # Translator: Gerfried Fuchs <alfie@debian.org> 2001-12-03
 # $Id$
 

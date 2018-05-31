@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cfbaed27066056c2cf300eb57e458e3f8227e184" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Alexander Cherepanov upptäckte att p7zip är känsligt för en

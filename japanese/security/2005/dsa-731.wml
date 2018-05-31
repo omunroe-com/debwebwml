@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>クライアントが接続した先の悪意のあるデーモンにより悪用可能な複数の問題が

@@ -5,7 +5,7 @@
 #use wml::debian::toc
 #use wml::debian::votebar
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="e74c3fb0292e5eb9c4ffb3b534f6feaac88bf71b"
 # Translator: Helge Kreutzmann, debian@helgefjell.de, 2006-07-02
 
 <h1><pagetitle></h1>

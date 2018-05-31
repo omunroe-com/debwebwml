@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c5c33a016c751dda6c8e394eb40736a67e3ee558" maintainer="Juan M. Garcia"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en gtk+2.0, la bilioteca de

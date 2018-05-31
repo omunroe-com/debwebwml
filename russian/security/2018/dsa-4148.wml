@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="566423828a5c39d0bc96ad606430af5bb1e47162" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Альфред Фарруджа и Сандро Гаучи обнаружили переполнение динамической памяти

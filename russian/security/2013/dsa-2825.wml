@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="aa4c5bfb61791d854fa3e74e2ebcf9f55d532882" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Лоренцо Бутти и Гарминг Сэм обнаружили множественные уязвимости в

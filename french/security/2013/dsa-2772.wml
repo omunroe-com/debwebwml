@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="0c818110a9f1627720a4ff0f4230238b1845894f" maintainer="Thomas Vincent"
 <define-tag description>Script intersite</define-tag>
 <define-tag moreinfo>
 <p>Markus Pieton et Vytautas Paulikas ont découvert que le lecteur vidéo et

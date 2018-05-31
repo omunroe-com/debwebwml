@@ -1,6 +1,6 @@
 #use wml::debian::template title="Platform for Steve McIntyre" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.5" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="3489152f6fa1311c9eea6dcdc38f03521975aa23" maintainer="Jean-Pierre Giraud"
 
 
 <h1>Programme de chef du projet Debian de Steve McIntyre</h1>

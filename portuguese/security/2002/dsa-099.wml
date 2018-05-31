@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" translation_maintainer="Michelle Ribeiro"
 <define-tag description>hijacking de sessão IRC</define-tag>
 <define-tag moreinfo>
 <p>zen-parse encontrou uma <a href="http://online.securityfocus.com/archive/1/249113">\

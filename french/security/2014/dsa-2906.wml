@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="4007e36d42f1282cea67ecf936b8b9eb66d7194a" maintainer="Baptiste Jammet"
 <define-tag description>Augmentation de droits, déni de service, fuite d'informations</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans le noyau Linux qui pourraient conduire 

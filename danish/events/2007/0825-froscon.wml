@@ -25,5 +25,5 @@ under-konference kaldet Debian Day, lørdag den 25. august.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="65dd2bd69d6fb29befbd8d261b4665b43c82c92e"
 #Related Links here (free form)

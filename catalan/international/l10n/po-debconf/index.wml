@@ -1,5 +1,5 @@
 #use wml::debian::template title="Fitxers PO per traduir les plantilles de Debconf de cada llengua"
-#use wml::debian::translation-check translation="1.1" maintainer="Jordi Mallach"
+#use wml::debian::translation-check translation="2c70a662201fba2f47fce7ff1cba5d28691e194e" maintainer="Jordi Mallach"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
 
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"

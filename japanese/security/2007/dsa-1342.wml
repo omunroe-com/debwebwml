@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="494dbe8f269595f7acb06aeded752a47fa9a9d35"
 <define-tag description>競合状態</define-tag>
 <define-tag moreinfo>
 <p>X フォントサーバの init.d スクリプト中で競合状態が発見されました。

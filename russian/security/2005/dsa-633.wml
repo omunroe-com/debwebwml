@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="843ae7579621dacf26ecf0bfb83ed130bf8838b1" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>Питер Сэмуэлсон, сопровождающий основной ветки разработки bmv, программы для просмотра PostScript для

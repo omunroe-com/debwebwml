@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="27af2f7df93128c1363e07e3b4f94eaa5e076b98" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Två sårbarheter har upptäckts i webbgränssnittet för bittorrentklienten

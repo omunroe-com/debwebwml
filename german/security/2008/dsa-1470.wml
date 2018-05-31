@@ -22,4 +22,4 @@ Aktualisierung auf Etch wird jedoch empfohlen.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1470.data"
 # $Id$
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="d9fdc7911d30dec8a421580b7df64ba3c920f6a1"

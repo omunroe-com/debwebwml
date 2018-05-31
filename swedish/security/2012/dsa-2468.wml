@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="03879326e6e316b4e9ddb2bccb17979a6701f811" mindelta="1"
 <define-tag description>obegränsad minnesallokering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Apache POI, en Javaimplementation av

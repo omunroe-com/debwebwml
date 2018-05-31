@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c9c6c0d2be0a5b7f5eeeaa333686bc7347a4cd35" maintainer="Lev Lamberov"
 <define-tag description>чтение за пределами выделенной памяти</define-tag>
 <define-tag moreinfo>
 <p>Андрей Киселёв обнаружил проблему в библиотеке TIFF, которая может позволить

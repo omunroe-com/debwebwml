@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="9cadcdddbb1f85fa8695017f11f2673fe934f9b2" mindelta="1"
 <define-tag description>pakkeløkke</define-tag>
 <define-tag moreinfo>
 <p>Ray Morris opdagede, at den autoritative PowerDNS-server svarer på 

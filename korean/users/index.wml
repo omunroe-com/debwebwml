@@ -1,7 +1,7 @@
 #use wml::debian::template title="데비안을 쓰는 사람은 누구?" BARETITLE=true
 #use wml::debian::toc
 #use wml::debian::users_list
-#use wml::debian::translation-check translation="1.202" maintainer="Sebul"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Sebul"
 
 <p>여기 포함된 것은 데비안을 배치한 일부 기관의 설명, 그리고
 어떻게 데비안을 사용하는지와 왜 선택했는지 간단한 설명입니다.

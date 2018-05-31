@@ -2,7 +2,7 @@
 <define-tag status>F</define-tag>
 
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
-#use wml::debian::translation-check translation="1.21" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="bfd05a1059ac38473b100ccebe22fc0253b0a842" maintainer="Nicolas Bertolissio"
 #use wml::debian::toc
 #use wml::debian::votebar
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="170b56b707e5c9505fb62bfe3e2ebe397be8ea20" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Адам Заброки обнаружил, что при определённых обстоятельствах mtr, инструмент

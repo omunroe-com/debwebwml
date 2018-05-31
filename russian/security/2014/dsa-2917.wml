@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b1bbd35537edbcba3b124f21f4a077876772c8aa" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джон Лайтси из проекта по аудиту безопасности Debian обнаружил, что

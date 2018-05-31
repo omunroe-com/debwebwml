@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Manuales de usuario de Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="1.151" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="89452b91283c66fe196874b0444b28b819d16d7d" maintainer="Laura Arjona Reina"
 
 <document "Preguntas de uso frecuente de Debian GNU/Linux" "faq">
 

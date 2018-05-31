@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="f896a59af56ce99b3f3f1dd6cc6339d7d029f7aa" mindelta="1"
 <define-tag description>manglende fornuftighedskontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer opdagede at værktøjet xrdb fra x11-xserver-utils, et 

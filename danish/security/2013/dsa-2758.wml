@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2ae66201fd80f52a1e460c9650f0fe0737ac78b3" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at python-django, et højniveauwebudviklingsframework, var 

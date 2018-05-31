@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="52938027fd3116504b6fac947a3d9c91120a2095" maintainer="Marco Carvalho"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Foi descoberto que o Crossfire, um jogo de aventura multijogador, executa

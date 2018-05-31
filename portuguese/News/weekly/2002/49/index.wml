@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-12-17" SUMMARY="Projeto, Changelog, Glibc, PornView, SE Linux, Qualidade, Voltar, Katie, Jigdo, SPI, 3.0r1"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="96272d16c768fbc1a5ddea15fba2e55904ba8055"
 
 <p>Bem vindo a quadragésima nona edição da DWN, a newsletter semanal para a
 comunidade Debian. David Graham, líder da <a

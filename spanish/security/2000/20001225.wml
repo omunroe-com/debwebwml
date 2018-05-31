@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="df28f21fc346ef2d1a5875b16227b49457585f1f"
 <define-tag moreinfo>Matt Kraai informó de que encontró un problema en la forma
 en la que el diálogo crea los archivos de bloqued: No los creaba de forma
 segura lo que lo hacía susceptible de un ataque simbólico.

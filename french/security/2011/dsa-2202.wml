@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="f282ff3a428a76b63648c6136bac62b57921cd57" maintainer="David Prévot"
 <define-tag description>Échec d'abandon des droits du superutilisateur</define-tag>
 <define-tag moreinfo>
 <p>

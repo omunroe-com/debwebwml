@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7ecbdc706076a60fb07a54508d4a831527aebe0d" maintainer="Lev Lamberov"
 <define-tag description>разное</define-tag>
 <define-tag moreinfo>
 <p>Эндрю Соломон сообщил, что kazehakase, веб-браузер на основе GTK+, позволяющий использовать

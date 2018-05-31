@@ -1,7 +1,7 @@
 <define-tag pagetitle>Le troisième cycle de tests a officiellement commencé</define-tag>
 <define-tag release_date>2000-07-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="7b364964d6ffa6121e674c3d5400bf1cab8fbbba" translation_maintainer="Martin Quinson"
 
 <p>L'archive a été gelée, et aucun nouveau paquet ne sera installé
 avant la fin du cycle de test. Depuis le dernier cycle, nous avons de

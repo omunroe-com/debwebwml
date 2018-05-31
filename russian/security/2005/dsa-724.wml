@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="acfad9e19c596da7eb800c848b7074ddd86044d3" maintainer="Lev Lamberov"
 <define-tag description>ошибка проектирования</define-tag>
 <define-tag moreinfo>
 <p>Максимилиан Аркимович обнаружил несколько проблем, связанных с межсайтовым скриптингом,

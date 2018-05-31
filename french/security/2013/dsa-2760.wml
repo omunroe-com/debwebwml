@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="84e8f8fe4f93afadc1470d77e88601c6513da555" maintainer="Thomas Vincent"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer a découvert deux problèmes de sécurité dans Chrony, un

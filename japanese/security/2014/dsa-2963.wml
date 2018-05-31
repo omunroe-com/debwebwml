@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4156f27f1b32b2ccaba7eae62ab3302a1be7bd83"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Solr、Lucene を基にしたオープンソースの企業向け\

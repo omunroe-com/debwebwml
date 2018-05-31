@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="414a665abfe83a45a1f26980ac5eab1ec35917a1"
 <define-tag description>overflow com inteiros</define-tag>
 <define-tag moreinfo>
 <p>Uma falha com overflow de inteiros foi descoberta na biblioteca RPC, 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="03b0cc71103427c40913f80a6a6d1d785af9eb56" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>Kelby Ludwig 와 Scott Cantor 는 부적절한 XML 구문분석으로 인한 impersonation attacks 과 information disclosure 에 Shibboleth 서비스 제공자가 취약하다는 걸 발견했습니다.

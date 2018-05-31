@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-06-10" SUMMARY="XSF, Menus, Sarge, OpenSSL, Aniversário, Knoppix, Votos, FreeBSD, Kerberos, Míssil, I18n, Licenças, UTF8"
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2"
 
 <p>Bem-vindo à vigésima terceira edição da DWN, o periódico semanal para a 
 comunidade Debian. Existe um pequeno <a

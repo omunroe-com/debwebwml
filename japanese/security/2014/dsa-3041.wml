@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="562c48220cf41606617a8e63fc206b9c492641e3"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ問題が Xen 仮想化ハイパーバイザに発見されました。

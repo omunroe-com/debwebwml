@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a078163556d501a64450c0ebd42db92bcbbfe49b" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Agostino Sarubbo upptäckte flera sårbarheter i zziplib, ett

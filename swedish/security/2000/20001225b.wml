@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="638ee10e8a5b6508526f43628582776c6888d874" mindelta="1"
 <define-tag description>fuska med separata signaturer, kringgående av förtroendeväven</define-tag>
 <define-tag moreinfo>Två fel har nyligen upptäckts i GnuPG:
 

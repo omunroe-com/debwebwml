@@ -28,4 +28,4 @@ version 1.20.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-392.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="3872ed130c684a6446cccc8c8d0d2de263a3777c" mindelta="1"

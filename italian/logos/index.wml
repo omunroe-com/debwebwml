@@ -1,6 +1,6 @@
 #use wml::debian::template title="Loghi di Debian" BARETITLE=true
 #include "$(ENGLISHDIR)/logos/index.data"
-#use wml::debian::translation-check translation="1.64" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="6a51174d3113a176883dc5d41faba03c48b2550b" maintainer="Giuseppe Sacco"
 
 <p> Nonostante Debian possa essere ottenuta liberamente e manterrà sempre
 questa politica, eventi quali il problema della proprietà del termine

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0b699a45a961642dc5134a1f6dc5d7ac4cf56489"
 <define-tag description>injeção de comandos SQL</define-tag>
 <define-tag moreinfo>
 <p>teapop, um servidor POP-3, inclui módulos para autenticação de usuários

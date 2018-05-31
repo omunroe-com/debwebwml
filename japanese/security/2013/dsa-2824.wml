@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="143c3e1844802f89bdcd0235f64b3f3b97e310e2"
 <define-tag description>TLS/SSL 証明書のホスト名を確認していない</define-tag>
 <define-tag moreinfo>
 <p>Marc Deslauriers さんが cURL、ファイル取得ツールが、デジタル署名の検証が

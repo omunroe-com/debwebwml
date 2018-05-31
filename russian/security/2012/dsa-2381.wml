@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ec72f516f6ad02aff580586c4d983705cda7a13a" maintainer="Lev Lamberov"
 <define-tag description>неправильное освобождение памяти</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что код поддержки IPv6 для Squid неправильно

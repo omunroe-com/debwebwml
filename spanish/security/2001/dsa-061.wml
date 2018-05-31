@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0157ea5d3a211b732fb02be8d748ecc3f9558242"
 <define-tag description>ataque de formato de printf</define-tag>
 <define-tag moreinfo>
 La versión de GnuPG (GNU Privacy Guard, una implementación de OpenPGP)

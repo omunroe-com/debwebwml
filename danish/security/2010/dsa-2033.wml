@@ -20,4 +20,4 @@ version 2.1.2-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2033.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="661101196997bc74527d1c660849c9e6bb527d61" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bdfa3cac08cf5c97a78c34bd66002c1b5a4a8407"
 <define-tag description>gestión de entrada incorrecta</define-tag>
 <define-tag moreinfo>
 <p>Aldrin Martoq ha descubierto una vulnerabilidad de denegación de

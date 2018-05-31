@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="476a7c958d957cde14dc91319c55a4653268ed09" mindelta="1"
 <define-tag description>code injection</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser upptäckte att implementationen av konfigurationsvariabeln

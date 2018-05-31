@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9dbde6bd109fc10c6f9dba6ba57ea038d03a9141"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>OpenBSD のインターネット鍵交換 (IKE) プロトコル実装 isakmpd に、isakmpd

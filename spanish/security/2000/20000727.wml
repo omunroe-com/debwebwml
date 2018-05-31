@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="552686a10b02cd905edda8597ad6abd9243d30a2" maintainer="Juan M. Garcia"
 <define-tag moreinfo>La versión de userv que se distribuyó con Debian
 GNU/Linux 2.1 (slink) tenía un problema en el algoritmo de intercambio de fd:
 a veces podía hacer referencia a un vector fuera de sus límites. Podría ser

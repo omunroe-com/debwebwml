@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="982153d28bf12f1a52bf3595efa725fb6b31e55d" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans spice, une bibliothèque client et serveur pour le protocole SPICE. Le projet « Common Vulnerabilities and Exposures » (CVE) identifie les problèmes suivants :</p>

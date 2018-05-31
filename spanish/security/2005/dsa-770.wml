@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="6c79052561208b9aa8ea466fe77d17dd94069489" maintainer="Juan M. Garcia"
 <define-tag description>creación insegura de archivo temporal</define-tag>
 <define-tag moreinfo>
 <p>John Goerzen descubrió que gopher, un cliente para el protocolo

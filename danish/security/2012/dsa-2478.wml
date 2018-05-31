@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7031272a53b7f06c943363bbbf9d3a9be8775524" mindelta="1"
 <define-tag description>fortolkningsfejl</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at sudo fejlfortolkede netværksmasker anvendt i Host og 

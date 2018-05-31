@@ -25,7 +25,7 @@ Organisatoren gratis zur Verfügung gestellt wird.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="bf0261bb5cdd4d733c7ef952b667a0ed3ca168a2"
 # $Id$
 #Related Links here (free form)
 <ul>

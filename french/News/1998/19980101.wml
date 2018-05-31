@@ -1,7 +1,7 @@
 <define-tag pagetitle>Bonne année de la part du projet Debian</define-tag>
 <define-tag release_date>1998-01-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1" translation_maintainer="Martin Quinson"
 
 <p>1998 apporte certains changements au projet Debian. Ian Jackson est
 maintenant le leader du projet. Bruce Perens continuera à être

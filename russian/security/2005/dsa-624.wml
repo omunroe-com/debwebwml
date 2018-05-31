@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="15ed6e160d98bbfdd5032757a3ee09a5623e6c27" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В zip, архиваторе для файлов .zip, было обнаружено переполнение

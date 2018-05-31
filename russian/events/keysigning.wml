@@ -1,5 +1,5 @@
 #use wml::debian::template title="Подписывание ключей"
-#use wml::debian::translation-check translation="1.14" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Lev Lamberov"
 
 <p>Поскольку многие разработчики встречаются на торговых выставках или конференциях, последние
 представляют собой хорошую возможность получения подписи GnuPG ключа и

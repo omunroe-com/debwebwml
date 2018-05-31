@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian används av France Telecom</define-tag>
 <define-tag release_date>1999-09-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="0956d9b2525d37c9f896cfc2107fe0af92325e96"
 
 <p>France Telecom har kontrakterat Alcove, en konsultfirma som använder fri
 programvara, för att bygga om sin nätverksinfrastruktur.

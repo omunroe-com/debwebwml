@@ -27,7 +27,7 @@
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="a10db20a803d3ee5825ce0e5d73ca75b4cf68a48"
 <ul>
   <li><a href="http://www.linux-events.de/LinuxForum/Vortrag">Agenda de Charlas</a></li>
   <li><a href="http://www.openoffice.de/linux/artikel/iw2001/">Charla de Frank</a></li>

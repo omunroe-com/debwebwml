@@ -2,7 +2,7 @@
 <define-tag release_date>2011-04-26</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2011-04-26
 
 <p>Das Debian-Projekt ist stolz darauf, für den diesjährigen <q>Google Summer 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="493539ed71fe4d8034e91c5f3d9b142635c6f9ef"
 <define-tag description>odmowa usługi</define-tag>
 <define-tag moreinfo>
 <p>Apache Software Foundation ogłosiła, iż pewne wersje mod_python

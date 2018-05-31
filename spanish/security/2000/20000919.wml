@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo> Han informado de múltiples vulnerabilidades en syslogd
 y klogd. Es posible una explotación local, y pueden ser posibles en algunos
 casos las explotaciones remotas (aunque no nos han advertido de ninguna

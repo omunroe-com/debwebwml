@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06"
 <define-tag moreinfo>
 En las versiones de boa anteriores a la 0.94.8.3, es posible acceder a 
 archivos fuera de la raíz de documentos del servidor usando adecuadamente

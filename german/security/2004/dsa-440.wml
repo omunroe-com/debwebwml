@@ -50,5 +50,5 @@ aktualisieren.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-440.data"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c27e76567c7de01f425a2f1e7dc8da7723abf973"
 # $Id$

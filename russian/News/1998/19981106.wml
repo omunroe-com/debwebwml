@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cd18be6b804dcc76a6a3aaf00dad207d80638b9b" maintainer="Lev Lamberov"
 <define-tag pagetitle>Sun передаёт системы Ultra30 во временное пользование Debian</define-tag>
 <define-tag release_date>1998-11-06</define-tag>
 #use wml::debian::news

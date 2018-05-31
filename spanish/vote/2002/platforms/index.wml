@@ -1,7 +1,7 @@
 #use wml::debian::template title="Plataformas para los Candidatos a Líder del Proyecto" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.6" maintainer="David Moreno Garza"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" maintainer="David Moreno Garza"
 
     <p>
       Lo siguiente son los programas electorales de cada uno de 

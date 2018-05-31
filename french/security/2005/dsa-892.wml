@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="584faa2a3070dfb30c55f7f325441f91037b79a1" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Peter Vreugdenhil a découvert que awstats, un puissant et complet analyseur

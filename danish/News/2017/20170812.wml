@@ -5,7 +5,7 @@
 <define-tag pagetitle>DebConf17 afsluttet i Montreal, og datoer for DebConf18 offentliggjort</define-tag>
 <define-tag release_date>2017-08-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="785a8baaeae5e8291c6b82f5b7d3edf781289e27"
 
 <p>I dag, lørdag den 12. august 2017, sluttede den årlige konference for 
 Debian-udviklere og -bidragydere.  Med flere end 405 deltagere fra hele 

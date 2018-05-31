@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d9e02aff73ec00d06205a79bcaf7cc25fa774ae2" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Joonun Jang opdagede flere problemer i wavpack, en suite af 

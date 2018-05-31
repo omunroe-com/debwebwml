@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="59be485ff95de3c2d07ba9a090535555f4ed2d8c"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Byrial Jensen さんが IMAP や 

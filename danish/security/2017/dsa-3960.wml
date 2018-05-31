@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="36f31123f606b69b05577a679bdc98915c816373" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Daniel J. Bernstein, Joachim Breitner, Daniel Genkin, Leon Groot

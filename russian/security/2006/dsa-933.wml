@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="850a591401504087280fc81128012e6a2ee22168" maintainer="Lev Lamberov"
 <define-tag description>выполнение произвольных команд</define-tag>
 <define-tag moreinfo>
 <p>Патрис Фурнье обнаружил, что hylafax передаёт неинициализирванные пользовательские данные

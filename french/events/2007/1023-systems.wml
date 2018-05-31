@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="f8e86fa097e27c2513dfd9456bbacbfff22e7d8d" maintainer="Nicolas Bertolissio"
 <define-tag abbr>Systems</define-tag>
 <define-tag year>2007</define-tag>
 <define-tag pagetitle>Systems 2007</define-tag>

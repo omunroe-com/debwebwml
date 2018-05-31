@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="27894e5d054d19341491f3ac090577803ecb8047"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer さんが udisks

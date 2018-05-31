@@ -56,4 +56,4 @@ følgende URL'er:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1529.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="50dd416221c1adf9b4244db818a6dfd2164ed74b" mindelta="1"

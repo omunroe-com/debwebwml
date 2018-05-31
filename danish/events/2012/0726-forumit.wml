@@ -30,5 +30,5 @@ tilgængeligt.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c78b16c248c03c9e6055d7c9f43e3910d0c447ab"
 #Related Links here (free form)

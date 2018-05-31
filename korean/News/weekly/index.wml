@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Index"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28" maintainer="Sebul"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Sebul"
 
 <p>
 <b>Debian Project News</b>, 데비안 커뮤니티 뉴스레터에 오신 것을 환영합니다.

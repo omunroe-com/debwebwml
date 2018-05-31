@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="80c9ef297175b18efce190e2657b7043adb7ed19" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера на основе динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Роберт Мэтьюс обнаружил, что модуль Apache FCGID, реализация FastCGI

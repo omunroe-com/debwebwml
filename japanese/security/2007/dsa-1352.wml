@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0e426cd1682a539fde41b2219ace150b1c9105f9"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>PDF ビューワ xpdf 中に整数オーバフローがあり、細工を施された PDF 

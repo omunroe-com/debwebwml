@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="c56b457d31a35cdfc3ec5ac83b867afb9606987b"
 <define-tag description>LTS セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy さんが、<a href="dla-59">DLA-59-1</a>

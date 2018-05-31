@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="28b82a2ddccd8e1963bf7c3ade56659e1ba2f476"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>php4 に発見された 2 つの脆弱性は、Debian の安定版ディストリビューション 

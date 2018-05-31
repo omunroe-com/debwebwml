@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f2f04ad008e2a6b51ef3d87c858fcc346211d7e4"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>二つの脆弱性が、Berkeley インターネットドメインネームサーバ BIND9

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c5afb0f6198f0b3acb8b06ed7eb8013098bdaade" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Gustavo Grieco upptäckte flera brister i sättet som librsvg, ett

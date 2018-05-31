@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240" maintainer="Lev Lamberov"
 <define-tag moreinfo>Когда на lsof установлен флаг прав доступа для запуска от лица суперпользователя, либо от лица группы setgid kmem, программа
 оказывается уязвимой к переполнению буфера, который может приводить к прямой компрометации суперпользователя, либо к компрометации
 суперпользователя через изменение работающего ядра.

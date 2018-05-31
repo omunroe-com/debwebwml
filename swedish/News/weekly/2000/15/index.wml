@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2000-5-9" SUMMARY="Ändringar på master; Testcykel och nytt om nya utvecklare."
-#use wml::debian::translation-check translation="1.19"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>
 <b>Välkommen</b> till Debian Weekly News, ett nyhetsbrev för Debianutvecklare.

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-10-31" SUMMARY="BLOB, Eventi, Video, I18n, Installer, Dunc-Tank, MPlayer, Firefox"
-#use wml::debian::translation-check translation="1.13" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Daniele Venzano"
 
 <p>Benvenuti al quarantesimo numero di DWN di quest'anno, il bollettino 
 settimanale per la comunità Debian. Il sito <a 

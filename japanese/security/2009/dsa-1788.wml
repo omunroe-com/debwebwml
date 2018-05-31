@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a93c2621cebe96d479eae8e01c2c94b21b200be0"
 <define-tag description>不適切なアサーション</define-tag>
 <define-tag moreinfo>
 <p>IP ラウティングデーモン Quagga の AS パスとして 4 Byte AS 番号が複数

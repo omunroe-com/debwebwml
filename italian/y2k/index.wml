@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian e Y2K" GEN_TIME="yes"
 #use wml::fmt::url
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="065b283f5cc2262459236e07deb01a3a086f1ef3"
 
 <p>Uno degli obiettivi di Debian è quello di fornire un sistema
 il più robusto possibile. Questo è il motivo per il quale abbiamo

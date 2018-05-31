@@ -29,5 +29,5 @@ Version 3.5b2-46.2 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-224.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2a691b5541b0f6d9fdd80cc8bb3ab3803aff66a2"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bfd723b4be0ce015c6721bfd3c8fc2056603b9f7" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление касается только двоичных пакетов для архитектуры MIPS с порядком

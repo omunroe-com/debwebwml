@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f77dcec74045c09894712fc60c9fa2a617752580"
 <define-tag description>Ataque DdS (DoS)</define-tag>
 <define-tag moreinfo>
 <p>Larry McVoy encontró un error en el paquete de manejo de código para el

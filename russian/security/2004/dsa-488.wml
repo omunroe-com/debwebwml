@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="46d7f144de04a1fa1b68eecaf0dba2f6f447631d"
 <define-tag description>небезопасный временный каталог</define-tag>
 <define-tag moreinfo>
 <p>Кристиан Джагер (Christian Jaeger) сообщил об ошибке в logcheck,

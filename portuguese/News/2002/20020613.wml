@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" translation_maintainer="Michelle Ribeiro"
 <define-tag pagetitle>Firewall Gibraltar basedo em Debian</define-tag>
 <define-tag release_date>2002-06-13</define-tag>
 #use wml::debian::news

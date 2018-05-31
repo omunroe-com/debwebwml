@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7a3d53ba8812791b64ce731cc21042042d9404c9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дэвид Голден из MongoDB обнаружил, что функция File::Spec::canonpath() в Perl

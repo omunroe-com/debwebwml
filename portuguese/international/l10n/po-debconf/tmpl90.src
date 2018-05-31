@@ -1,6 +1,6 @@
 #use wml::debian::template title="Estado dos modelos l10n do DebConf com arquivos PO por código de idioma: @tmpl_lang@"
 #include '$(ENGLISHDIR)/international/l10n/dtc.def'
-#use wml::debian::translation-check translation="1.4" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="8536cf419447d00f034a8e3ad9efa6a243462fe7" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
 

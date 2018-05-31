@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="adaa24eb8c7b4bdc17d66c12b6a0d58dccc9220c" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att APT, högnivåpakethanteraren, inte invaliderar

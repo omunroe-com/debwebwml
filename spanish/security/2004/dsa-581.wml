@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="544bbb92b516c89696c41ee16ddd678b954bebb8" maintainer="juanma"
 <define-tag description>desbordamientos de entero</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans descubrió varios desbordamientos de entero en xpdf,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="237333b0388e99727cbdaa26344856cab38d47ee" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тони Финч и Марко Дэвидс сообщили об ошибке утверждения в BIND,

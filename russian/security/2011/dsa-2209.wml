@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="188f76f9de48e44614b8a9e55834dc0b499daf7d" maintainer="Lev Lamberov"
 <define-tag description>двойное освобождение</define-tag>
 <define-tag moreinfo>
 <p>Эммануэль Бульон обнаружил двойное освобождение в tgt, инструментах пользователя для Linux SCSI,

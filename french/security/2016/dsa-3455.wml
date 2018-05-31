@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a6e0ac6e9ab858d820943bf1d42eb71dc030a6de" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Isaac Boukris a découvert que cURL, une bibliothèque de transfert d'URL,

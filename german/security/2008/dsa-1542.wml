@@ -18,4 +18,4 @@ ermöglicht die Verwundbarkeit die Ausnutzung beliebigen Codes.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1542.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1b50e02c2c6ba5015c4777c3af92dbcfbb621735"

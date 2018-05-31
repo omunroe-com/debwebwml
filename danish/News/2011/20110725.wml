@@ -1,7 +1,7 @@
 <define-tag pagetitle>DebConf 11 er begyndt</define-tag>
 <define-tag release_date>2011-07-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="24aed64458e7dab3df0660cf0c5f2e296390ced3"
 
 <p>DebConf 11, den årlige Debian-konference åbenede i dag dørene i Banja Luka, 
 Republika Srpska, Bosnien-Hercegovina.  Som ved foregående konferencer, vil 

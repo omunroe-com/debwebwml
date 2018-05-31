@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="5d23437f7b78628d684f86966f260106f2d38b51" mindelta="1"
 <define-tag description>buffertspill, överbelastningsattack</define-tag>
 <define-tag moreinfo>
 <p>

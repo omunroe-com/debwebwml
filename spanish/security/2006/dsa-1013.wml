@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="7b05b6002d3ac6d328ca5007bde753aa76a736b3" maintainer="Juan M. Garcia"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Will Aoki descubrió que snmptrapfmt, un daemon configurable para gestionar

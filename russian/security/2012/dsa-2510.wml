@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="17d7878435c8b115028437e93749fd8ceaddf8ef" maintainer="Lev Lamberov"
 <define-tag description>подделка межсайтовых запросов</define-tag>
 <define-tag moreinfo>
 <p>Джон Лейч обнаружил уязвимость в eXtplorer, многофункциональном

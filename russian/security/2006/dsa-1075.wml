@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="19f098a697632062c3f6ad7ad259ba35857ecb61" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Хендрик Ваймер обнаружил, что awstats может выполнять произвольные команды

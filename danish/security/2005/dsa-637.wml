@@ -16,4 +16,4 @@ anymore.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-637.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="78874cfd27c5c77e745e811b047622644154bdee" mindelta="1"

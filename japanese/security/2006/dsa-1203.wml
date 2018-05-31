@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ddec1b7594cc7533f2a4a57193b803707b85ffba"
 <define-tag description>プログラミングエラー</define-tag>
 <define-tag moreinfo>
 <p>Steve Rigler さんにより、LDAP

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian e o ano 2000 (Y2K)" GEN_TIME="yes"
 #use wml::fmt::url
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="271a253dd99f0ef02252bf27c7df23a9254f7724"
 
 <p>
 Esta é a segunda parte da lista de compatibildiade com o ano 2000.

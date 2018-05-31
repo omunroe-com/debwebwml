@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="7fd0a1579b23de7f9b7f823b02420cca01005497" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jose Duart från Googles säkerhetsgrupp upptäckte heap-baserade

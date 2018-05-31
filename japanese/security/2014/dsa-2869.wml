@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e87526db9a07481f7bf360e1fb47503df7529914"
 <define-tag description>証明書検証の誤り</define-tag>
 <define-tag moreinfo>
 <p>Red Hat の Nikos Mavrogiannopoulos さんが GnuTLS、SSL/TLS

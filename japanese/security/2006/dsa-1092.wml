@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="62448fa10e5960a7efc5964155a327d5d0fc9f5d"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Josh Berkus さんと Tom Lane さんは、広く使われている SQL

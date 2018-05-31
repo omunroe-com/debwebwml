@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="70c4ad816a89a9d7c207788f46a51733beabb5a8"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner さんにより、pppd の winbind プラグインが特権を落とす際に setuid()

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c79f39d339d827cd1bd95ea2e6b7d49b2cc7db95"
 <define-tag description>уязвимость временного каталога</define-tag>
 <define-tag moreinfo>
 <p>Команда безопасности SUSE сообщила, что в некоторых случаях целостность

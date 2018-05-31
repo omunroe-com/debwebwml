@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5d3af69981a5d246d8907eb91f6ef42625391c8c" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах для протоколов CLNP, DTLS, DCP-ETSI и NTLMSSP были обнаружены

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e64a37d6ea5d314764c9531724173b302ac8acd1" maintainer="Lev Lamberov"
 <define-tag description>отравление DNS-кеша</define-tag>
 <define-tag moreinfo>
 <p>Майкл Синатра обнаружил, что компонент разрешения DNS в BIND

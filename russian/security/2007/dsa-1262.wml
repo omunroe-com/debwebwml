@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="57a0bfe978ad89e44c379bf2b042f401fd5fd8b2" maintainer="Lev Lamberov"
 <define-tag description>форматная строка</define-tag>
 <define-tag moreinfo>
 <p>Программой <q>Mu Security</q> была обнаружена уязвимость форматной строки в

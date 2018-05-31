@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Accueil"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28" translation_maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" translation_maintainer="David Prévot"
 
 # Translators:
 # Jérôme Marant, 2000.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="50cf8f102eb8a72dcbf06fce199ef917b9d71862" maintainer="Juan M. Garcia"
 <define-tag description>privilegios no verificados</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que el intérprete para el lenguaje Ruby no mantenía «niveles

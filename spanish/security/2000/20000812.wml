@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c2a5035b44cfa7eae6bf8d60b4f49d5994077379"
 <define-tag moreinfo>En versiones de Zope anteriores a la 2.2beta1 era posible
 que un usuario con capacidad para editar DTML ganara acceso no autorizado a
 roles extra durante una petición.

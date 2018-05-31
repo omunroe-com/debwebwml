@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2e2753b50f9da02576fe133a4bc17bac71ef387e"
 <define-tag description>estouros de heap</define-tag>
 <define-tag moreinfo>
 <p>Vários problemas foram descobertos na libtiff, a biblioteca Tag

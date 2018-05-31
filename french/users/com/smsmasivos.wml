@@ -1,6 +1,6 @@
 # From: Vzert <vzert@vzert.com>
 # Current as of 2015/02/11
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="fde46e72e3f6f182132c46d8045254af6e719369" maintainer="Jean-Paul Guillonneau"
 
 <define-tag pagetitle>SMS Masivos, Mexico</define-tag>
 <define-tag webpage>www.smsmasivos.com.mx/</define-tag>

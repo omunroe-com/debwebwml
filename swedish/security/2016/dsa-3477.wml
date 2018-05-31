@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="525e48e6334c05c93a5606827b8789221f822b10" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Holger Fuhrmannek upptäckte att saknad rengörning av indata i

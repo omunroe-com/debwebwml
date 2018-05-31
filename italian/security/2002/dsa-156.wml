@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="4ce2f1ea053de49d2adede9a58d9bf648e6f229f" maintainer="Giuseppe Sacco"
 <define-tag description>esecuzione arbitraria di script</define-tag>
 <define-tag moreinfo>
 <p>Tutte le versioni dello script EPIC Light precedenti alla 2.7.30p5 (del

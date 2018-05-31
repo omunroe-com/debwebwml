@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a678f6ce7a4237d7391bcc68f402cce9f38f3373" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Реми Дени-Курмон обнаружил, что dbus, шина обмена сообщениями между приложениями,

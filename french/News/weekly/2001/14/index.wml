@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-06-11" SUMMARY="master.debian.org en panne, bogue numéro 100 000 passé, conseils pour débutants"
-#use wml::debian::translation-check translation="1.6" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" translation_maintainer="Martin Quinson"
 
 <p><b>master.debian.org en panne.</b> master.debian.org a été en panne
 plusieurs jours <a

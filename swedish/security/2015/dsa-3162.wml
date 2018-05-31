@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f31630edd45345904c7715182fff5a30b84f2490" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jan-Piet Mens upptcäkts att DNS-servern BIND kunde krascha vid

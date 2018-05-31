@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="38231c2207ad44d374a08b633033122dcdebc6f1" maintainer="Juan M. Garcia"
 <define-tag description>desbordamientos de buffer</define-tag>
 <define-tag moreinfo>
 <p>Ariel Berkman descubrió varios desbordamientos de buffer en

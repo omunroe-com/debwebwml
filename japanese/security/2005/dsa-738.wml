@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="af888a84e301412e943f1488f3fdc97db17338e2"
 <define-tag description>リモートからのサービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Razor が特定のメールヘッダを解析する方法に脆弱性が発見されました。潜在的に

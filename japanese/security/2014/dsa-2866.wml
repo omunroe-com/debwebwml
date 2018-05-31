@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="480588e2eff1b449ca92913a4d98927d97b8967e"
 <define-tag description>証明書検証の欠陥</define-tag>
 <define-tag moreinfo>
 <p>Suman Jana さんが、GnuTLS が資料に書かれている挙動から外れ、

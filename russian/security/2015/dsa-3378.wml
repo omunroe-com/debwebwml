@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c805b6cf1e7fd8b7520aeef7f5f3b06ca004a15c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В gdk-pixbuf, наборе инструментов для загрузки изображений и работы

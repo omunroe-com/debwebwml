@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-06-10" SUMMARY="Debian accueille les étudiants du GSoC, résultats de l'expérimentation OPW, brèves du chef de projet Debian, expiration de debian-multimedia.org"
-#use wml::debian::translation-check translation="1.5" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="7b03bd081c95cb0fe0996febbd8d40941d05e054" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 1641 $

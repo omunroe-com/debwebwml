@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="c5c33a016c751dda6c8e394eb40736a67e3ee558"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が Gtk+ GdkPixBuf XPM 画像描画ライブラリ

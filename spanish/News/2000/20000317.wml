@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f495c9852e54ba7fd1a765e4c5ba1bb3e5112dfc"
 <define-tag pagetitle>Debian recibe la donación de un UltraSPARC60</define-tag>
 <define-tag release_date>2000-03-17</define-tag>
 #use wml::debian::news

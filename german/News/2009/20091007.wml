@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian treibt die Entwicklung der kFreeBSD-Portierung voran</define-tag>
 <define-tag release_date>2009-10-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Das Debian-Release-Team freut sich bekanntgeben zu können, dass es die
 Portierung des Debian-Systems auf den FreeBSD-Kernel für geeignet hält, mit

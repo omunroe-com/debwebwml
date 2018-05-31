@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f73098b26e8fd5c9aecd23673cf0d2db7efb29f1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В qemu-kvm, полном решении для виртуализации на оборудовании с архитектурой

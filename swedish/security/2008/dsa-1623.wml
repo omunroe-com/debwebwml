@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e0e5cb0e04861edce9f9d68d0a32397ed4235b98" mindelta="1"
 <define-tag description>DNS-cacheförgiftning</define-tag>
 <define-tag moreinfo>
 <p>

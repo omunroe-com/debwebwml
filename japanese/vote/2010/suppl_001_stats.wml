@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian プロジェクトリーダ選挙 2010" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2261441408a5f899cf6721d91c1c116b89ae277c"
 
 #include "vote_001_index.src"

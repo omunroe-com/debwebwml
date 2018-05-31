@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="374b4fd05c0393dc1fc7219aead08d65a10110c1"
 <define-tag description>安全でない一時ファイル・ディレクトリの作成</define-tag>
 <define-tag moreinfo>
 <p>ポピュラーなスクリプト言語である Perl に複数の脆弱性が発見されました。

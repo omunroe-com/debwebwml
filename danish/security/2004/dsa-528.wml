@@ -19,4 +19,4 @@ version 0.10.5-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-528.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="bf0b010c2d9fdaf138b33c7cb8c8cb03f22ba0ab" mindelta="1"

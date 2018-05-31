@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="31fe057ffb2e546b12d42749a83aa9eb2d31c91a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Hamid Ebadi さんにより、Type 1 フォントラスタライザライブラリの t1lib の

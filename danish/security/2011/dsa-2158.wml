@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="75615727e92424580b37e90165424650cbafd7c0" mindelta="1"
 <define-tag description>udførelse af skripter på tværs af websteder</define-tag>
 <define-tag moreinfo>
 <p>Michael Brooks (Sitewatch) opdagede en reflektiv XSS-fejl i CGI:IRC, en 

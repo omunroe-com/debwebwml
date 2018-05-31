@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="798bc9dfd53e93584118f925df3aee1d8c991645" maintainer="Lev Lamberov"
 <define-tag description>удалённая уязвимость</define-tag>
 <define-tag moreinfo>
 Служба netkit-telnet из пакета <code>telnetd</code> версии

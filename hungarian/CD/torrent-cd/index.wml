@@ -4,7 +4,7 @@
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="1.33" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Szabolcs Siebenhofer"
 
 <p>A <a href="http://hu.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 egy peer to peer, nagy számú letöltőre optimalizált letöltő rendszer.

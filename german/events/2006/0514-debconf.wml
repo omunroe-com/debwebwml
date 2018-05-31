@@ -44,7 +44,7 @@
 #use wml::debian::past_event
 # $Id$
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="e68ab5997dc3837a7ab95cd3ecf3f612d9e89b4d"
 # Translator: Helge Kreutzmann <kreutzm@itp.uni-hannover.de> 2006-01-10
 <ul>
  <li><a href="http://www.debconf.org/">Allgemeine DebConf-Website</a></li>

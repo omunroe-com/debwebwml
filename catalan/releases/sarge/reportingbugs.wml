@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 3.1 -- Informant d'errors" BARETITLE=true
-#use wml::debian::translation-check translation="1.4" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a" maintainer="Guillem Jover"
 
 <p>Si teniu cap problema amb el sistema d'instal·lació, si us plau,
 informeu-ne de les errades al paquet <tt>installation-reports</tt>.

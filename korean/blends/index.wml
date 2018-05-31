@@ -1,5 +1,5 @@
 #use wml::debian::template title="데비안 순수 혼합" BARETITLE="true"
-#use wml::debian::translation-check translation="1.27" maintainer="Sebul"
+#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Sebul"
 
 <p>데비안 순수 혼합은 특정 필요를 가진 사람들의 그룹을 위한 해결책입니다 .
 특정 패키지의 모임(meta-packages)을 제공할 뿐 아니라, 의도한 목적을 위한 설치와 구성을 쉽게 합니다.

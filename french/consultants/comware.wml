@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Comware International, Inc."
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="9b8e07f9969a817da582687022adf550b9e90f9e" maintainer="Jean-Pierre Giraud"
 
 <p>
 Nous construisons aussi des serveurs <q>clé en main</q>

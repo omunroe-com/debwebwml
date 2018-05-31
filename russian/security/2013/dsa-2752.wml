@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a30964a96394f9d7daf701a4dd489a4f8b3417fe" maintainer="Lev Lamberov"
 <define-tag description>слишком широкие права доступа</define-tag>
 <define-tag moreinfo>
 <p>Андреас Бекман обнаружил, что phpBB, веб-форум, в том варианте, который

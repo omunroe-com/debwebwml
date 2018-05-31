@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 6.0 -- Melaporkan Masalah" BARETITLE=true
 # Translators: copy of lenny/reportingbug
-#use wml::debian::translation-check translation="1.3" maintainer="T. Surya Fajri"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a" maintainer="T. Surya Fajri"
 # Translator: T. Surya Fajri <kilelme@gmail.com>
 
 <h2><a name="report-release">Pada Catatan Rilis</a></h2>

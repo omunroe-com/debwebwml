@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cc1686b8eeb634f7b1ca4b55daebf0bd49444a62" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Туомас Рясянен обнаружил две уязвимости в unADF, инструменте для распаковки

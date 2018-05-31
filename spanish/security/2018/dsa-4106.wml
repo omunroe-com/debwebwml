@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="aec112b29508da7fc781dafbe82e908e05603012"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron dos vulnerabilidades en Libtasn1, una biblioteca para manejar

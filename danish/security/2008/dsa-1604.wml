@@ -29,4 +29,4 @@ punktopdatering.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1604.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="e9bafcd753e828e83ea8a21cadc900565a610f85" mindelta="1"

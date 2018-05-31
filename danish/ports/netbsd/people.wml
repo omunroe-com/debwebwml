@@ -1,5 +1,5 @@
 #use wml::debian::template title="Folkene bag Debian GNU/*BSD" BARETITLE="yes" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 #include "$(ENGLISHDIR)/ports/netbsd/menu.inc"
 
 <h1>Debian GNU/*BSD</h1>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="142e2a9395d7c63a106b2b41a126f30909786f52"
 <define-tag description>comprobación de límites inexistente</define-tag>
 <define-tag moreinfo>
 <p>Paul Starzetz descubrió una debilidad en la comprobación de

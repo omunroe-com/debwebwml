@@ -21,4 +21,4 @@ apache パッケージを早急にアップグレードすることを強くお�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-131.data"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="40ce2126ebd87d862207b8d6d96677e0b1338a36"

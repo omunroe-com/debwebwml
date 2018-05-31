@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="995698b1afb7c4734bfa84779c159e3fb0b9c98f"
 <define-tag description>サービス拒否攻撃</define-tag>
 <define-tag moreinfo>
 <p>近代的な機能をそなえたメーリングリストマネージャ sympa が、特定の種類の不

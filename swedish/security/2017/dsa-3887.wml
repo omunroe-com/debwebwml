@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f0793326c49d4bae2ac44dba6020ff8b8cfd1d02" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Qualys Research Labs upptäckte olika problem i dynamiska länkaren

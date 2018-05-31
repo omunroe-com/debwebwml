@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="94f2a3c2ae490a3b1fd015392a8702fa00b1c4e7" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Крис Эванс обнаружил, что переполнение буфера в функциях RC4 в

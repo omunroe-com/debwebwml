@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="46a55f480ca4ab80cfdc5f9a018ae024fbd086bc" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ханно Бёк обнаружил многочисленные уязвимости в GStreamer, мультимедиа

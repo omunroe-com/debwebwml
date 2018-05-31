@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.eln.gov.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="23f68da4f13cf8d3ffc985bb8bf2ec486e230fe8" maintainer="Nicolas Bertolissio"
 
 <p>
 8&nbsp;serveurs, tous multiprocesseurs, faisant fonctionner Squid, LAMP, DNS,

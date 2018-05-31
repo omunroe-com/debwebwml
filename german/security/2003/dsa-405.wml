@@ -16,5 +16,5 @@ Version 1.02-11 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-405.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c85f251517fb173b8c2aaa010f9ef09a1be5e6fa"
 # $Id$

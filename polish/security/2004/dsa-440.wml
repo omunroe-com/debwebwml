@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer=""
+#use wml::debian::translation-check translation="c27e76567c7de01f425a2f1e7dc8da7723abf973" maintainer=""
 <define-tag description>kilka naruszeń bezpieczeństwa</define-tag>
 <define-tag moreinfo>
 <p>Niedawno odkryto w jądrze Linuksa kilka możliwości lokalnego złamania zabezpieczeń

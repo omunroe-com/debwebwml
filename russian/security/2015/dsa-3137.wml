@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="843d2f7b868611d25a5a0ba31345a6706f2ae942" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джеймс Клаусон обнаружил, что websvn, веб-просмотрщик репозиториев Subversion,

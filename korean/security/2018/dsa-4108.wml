@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="d6cf90588e378e7cf0bc5ddc5ab81838b09a5ae5" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>Calum Hutton 과 Mailman 팀이 사용자 옵션 페이지에서 cross site scripting 및 정보 누출 취약점을 발견했습니다.

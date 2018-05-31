@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bdfa3cac08cf5c97a78c34bd66002c1b5a4a8407"
 <define-tag description>manuseio incorreto da entrada</define-tag>
 <define-tag moreinfo>
 <p>Aldrin Martoq descobriu uma vulnerabilidade do tipo negação de serviço (DoS)

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2f46483b99e3767a76e06f1448255e7bd0aef07e" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Брайан Уигли обнаружил переполнение буфера в Pixman, которое может приводить к

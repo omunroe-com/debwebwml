@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6f1e726304417971217fefa3247e61b1e8594f0a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Samba, файловом сервере, сервере печати и аутентификации SMB/CIFS для Unix,

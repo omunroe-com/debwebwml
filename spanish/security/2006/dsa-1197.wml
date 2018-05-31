@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="f7ebe706f87556901da0a77cbb59a04c11967ed7" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Benjamin C. Wiley Sittler descubrió que la función <em>repr()</em> del

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bfe0f70f38a6a393244a7c7f24482dff616eb5ec"
 
 #<define-tag description>insecure temporary files</define-tag>
 <define-tag description>不安全的暫存檔案</define-tag>

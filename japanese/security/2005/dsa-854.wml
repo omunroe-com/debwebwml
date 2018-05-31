@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="df1090a661ef0119942fbc32d1480967438cf1fa"
 <define-tag description>無限ループ</define-tag>
 <define-tag moreinfo>
 <p>Simon Nielsen さんが、ネットワーク監視およびデータ捕捉を行う強力なツール

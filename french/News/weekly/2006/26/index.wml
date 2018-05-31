@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-06-27" SUMMARY="Langage d'interrogation, Empaquetage, Promotion, Bogues, Cuba, Modules, Licence"
-#use wml::debian::translation-check translation="1.14" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="1f1a93d31af8bb304ac496c53cdbf0262b21846d" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 26e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian. Alan

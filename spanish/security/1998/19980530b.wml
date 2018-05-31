@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="57522ed06a3de36e4fe5fc3386728a4813c077db"
 <define-tag moreinfo>
 Hemos recibido información de que premail usa archivos temporales en /tmp
 con métodos inseguros para abrirlos.  Esto está reparado en la nueva versión

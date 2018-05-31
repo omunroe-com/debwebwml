@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0f249c8a59e51025504ffda853108ee99c38990d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Штефан Цайсберг обнаружил, что poco, набор библиотек с открытым исходным

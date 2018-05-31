@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7d70ccd4e40fd43e308b858256ab75d0c7fe6165" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Et bufferoverløb blev fundet i Radius-udvidelsen til PHP.  Funktionen, der 

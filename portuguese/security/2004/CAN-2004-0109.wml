@@ -1,5 +1,5 @@
 #use wml::debian::template title="Matriz de vulnerabilidade do Kernel para CAN-2004-0109" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="987f462ebc132b3c47e4b0eb75cc9dc81106ef99"
 
 <p>A seguinte matriz de vulnerabilidades explica quais versões do kernel nas
 distribuições estável (woody) e instável (sid) corrigiram a vulnerabilidade

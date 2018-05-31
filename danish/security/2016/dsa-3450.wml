@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9d1defa1fad13565dea8b60c524b719b6a5ccaa6" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jann Horn opdagede at setuid-root mount.ecryptfs_private-helper'en i 

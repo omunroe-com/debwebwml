@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="4c5f526748e99fac0cb0b5df07ccd4a52636a142" maintainer="juanma"
 <define-tag description>desbordamientos de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en prozilla, un

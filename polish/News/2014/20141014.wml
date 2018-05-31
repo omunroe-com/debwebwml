@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="35ec675e3077d20d739cacf7a8d93fd2cd46469c"
 <define-tag pagetitle>Projekt Debian wybrał LeaseWeb do obsługi globalnego archiwum migawek</define-tag>
 <define-tag release_date>2014-10-14</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d9354ed4b8d6489f28d3d8e2b1759284b4e97e8b" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>James Kettle, Alain Tiemblo, Christophe Coevoet och Fabien Potencier

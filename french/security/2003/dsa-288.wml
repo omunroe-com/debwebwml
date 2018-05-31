@@ -61,4 +61,4 @@ aucun problème.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-288.data"
 # $Id$
-#use wml::debian::translation-check translation="1.3" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="604c04016763fd4e23cf761bb457ccaed28fe1d8" maintainer="DFS Task Force"

@@ -19,5 +19,5 @@ sein.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-871.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="34c55345d6786a4ac7fd763622da12933134bd3c" mindelta="1"
 # $Id$

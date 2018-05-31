@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-06-15" SUMMARY="AMD64, Flyers, Firefox, dokumentacja, Bootstrapping, Mozilla, jądro"
-#use wml::debian::translation-check translation="1.4" maintainer=""
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer=""
 
 <p>Witaj w dwudziestym czwartym w tym roku numerze DWN, tygodnika dla osób
 zainteresowanych i związanych z Debianem. Tom Adelstein <a

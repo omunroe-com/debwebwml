@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4e97ba7f8f378444aac5d934639be799155c655d"
 <define-tag description>ディレクトリトラバーサル</define-tag>
 <define-tag moreinfo>
 <p>UnZip 5.50 にあるディレクトリトラバーサルの脆弱性は、特定の不正な文字を

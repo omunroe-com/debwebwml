@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="178c1fc5fcef8ac7560d128463690fb33188f703"
 <define-tag description>некорректная обработка изображений</define-tag>
 <define-tag moreinfo>
 <p>Томас Кристенсен (Thomas Kristensen) обнаружил уязвимость в gdk-pixbuf

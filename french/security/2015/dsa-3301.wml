@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="348f1200424e4cf2887e5de7300e7d8de80c7ff2" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Charlie Smurthwaite d'aTech Media a découvert un défaut dans HAProxy, un

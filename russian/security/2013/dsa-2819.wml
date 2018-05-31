@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="13ad01c1b15c800d409d0a73366ce01fc8abaf8f" maintainer="Lev Lamberov"
 <define-tag description>анонс окончания цикла поддержки iceape</define-tag>
 <define-tag moreinfo>
 <p>Поддержка обновлений безопасности для Iceape, версии пакета Seamonkey для

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="614ae76958de3526c4a7a4535a072c67a6f61bc3"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>分散 IRC クライアント Quassel の構成要素の1つである

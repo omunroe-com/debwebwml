@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8925b9dfda2b22e6cf7c3a6a1dc16d9818f5b55f"
 <define-tag description>heltalsunderspill</define-tag>
 <define-tag moreinfo>
 <p>Det upptäcktes att krb5, ett system för autentisering av användare och tjänster i ett

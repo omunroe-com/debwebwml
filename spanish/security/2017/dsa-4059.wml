@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="003b77c32b5f02d9fe3010e5d6b356cc4fbab1eb"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que libXcursor, una biblioteca para gestión de cursores en X, es

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4b9dcc5472640036007acad478a4c7e5588dcbac"
 <define-tag description>特権の昇格</define-tag>
 <define-tag moreinfo>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7fe084897c98fc25a8c74920852a74539112b349" maintainer="Lev Lamberov"
 <define-tag pagetitle>Подготовка в выпуску lenny beta 2 приводит к поломке некоторых установочных носителей версии beta 1</define-tag>
 <define-tag release_date>2008-05-08</define-tag>
 #use wml::debian::news

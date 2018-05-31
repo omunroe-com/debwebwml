@@ -11,4 +11,4 @@ opgraderer din cron-pakke.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-054.data"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="896b1833f01aaa47068fa1842d74da3d4646e541"

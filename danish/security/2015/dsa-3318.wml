@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3701196b24dc5c61e535b8710c64dc4ea56b0d19" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskillige heltalsoverløb er opdaget i Expat, et C-bibliotek til fortolkning 

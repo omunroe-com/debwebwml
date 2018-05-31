@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fd509e268b296a2c959202f50765407ab65a66d6" maintainer="Lev Lamberov"
 <define-tag description>раскрытие информации</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Notmuch, программа для индексации электронной почты, недостаточно

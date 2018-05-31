@@ -1,7 +1,7 @@
 <define-tag pagetitle>Uge med Debian-messer og -konferencer</define-tag>
 <define-tag release_date>2001-06-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="4f38229a53c2766162fa7c627e693dffe18cd523"
 
 <p>Den kommende uge bliver travl for Debian-projektet.  Vi vil være til stedet
 på fire messer og konferencer som finder sted i de kommende dage i Frankrig,

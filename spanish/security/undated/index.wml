@@ -1,6 +1,6 @@
 #use wml::debian::template title="Avisos de seguridad de finales de 1997 y principios de 1998" GEN_TIME="yes"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.6" maintainer="juanma"
+#use wml::debian::translation-check translation="118bbba7772258864cea0391dc2fcecd44b8f358" maintainer="juanma"
 
 <:= get_recent_list ('.', '0', '$(ENGLISHDIR)/security/undated', 'list', '\d+\w*' ) :>
 

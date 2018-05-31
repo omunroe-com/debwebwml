@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="006bb8733e4e8a4c87d41afa5f6b6bee278d1ffc"
 <define-tag description>Estouros de inteiro e de stack</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans descobriu vários estouros de stack e de inteiros na

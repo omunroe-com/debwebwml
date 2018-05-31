@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="faec17e7fae985b6d96e7892fd05c5b9100d5e55" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Nikolaus Rath opdagede at s3ql, et filsystem til onlineopbevaring af data, 

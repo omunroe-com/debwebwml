@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ae111c6d7d103115f5424f5877280ef09a6d3b4c"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>メールとニュースのクライアント Mozilla Thunderbird の Debian 版である

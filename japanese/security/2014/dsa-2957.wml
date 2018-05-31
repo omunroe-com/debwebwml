@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5f7f04fa25d4ebc5b992a7d7e58b3d9cbc52d84f"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Omer Iqbal さんが Mediawiki、wiki エンジンが $wgRawHtml

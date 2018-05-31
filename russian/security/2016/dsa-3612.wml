@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2684c27fe4b209c4c423f4f2b1207e56256ec8b9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Шмуэль Эйч обнаружил, что GIMP, GNU Image Manipulation Program,

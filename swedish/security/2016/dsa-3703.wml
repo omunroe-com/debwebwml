@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="237333b0388e99727cbdaa26344856cab38d47ee" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Tony Finch och Marco Davids rapporterade ett undantagsfel i BIND, en

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ae66ac1f4f0bf127060419f9f05af0ba84e1ecc3" maintainer="Juan M. Garcia"
 <define-tag description>lectura fuera de los límites</define-tag>
 <define-tag moreinfo>
 <p>Yan Rong Ge descubrió un acceso a memoria fuera de los límites en heartbeat,

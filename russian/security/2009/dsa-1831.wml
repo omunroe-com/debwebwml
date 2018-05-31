@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cc93de23eaa3aae0fd490bd0b66f20910a728e8f" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Мэтью Демпски обнаружил, что djbdns Дэниэлья Бернштайна, системный сервер

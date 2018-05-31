@@ -9,7 +9,7 @@
 <define-tag webpage>http://laurel.datsi.fi.upm.es/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="57ba19f7fe8596a44af4dfa3e32b5432a22302a9" maintainer="Laura Arjona Reina"
 
 <p>
 Usamos Debian GNU/Linux en nuestros servidores y estaciones de trabajo.

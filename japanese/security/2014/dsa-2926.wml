@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7b73bdce7bc1cb792cbf305e8951c771d2bf6b01"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Linux カーネルに欠陥が複数発見されました。

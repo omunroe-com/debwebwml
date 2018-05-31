@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4bfd3f8179566cab8a6949a0f5bc2d6cb000f992" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Andrew Bartlett fra Catalyst rapporterede om en fejl, der påvirkede visse 

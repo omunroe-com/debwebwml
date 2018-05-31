@@ -2,7 +2,7 @@
 sortie</define-tag>
 <define-tag release_date>2000-06-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="8cb641d10f4c620ccf411a55dde676d84539dd87" translation_maintainer="Martin Quinson"
 
 <p>Remarque : Ce communiqué a été rédigé par Frank Smith &lt;smith@amirix.com&gt;.
 Embedded Debian (Debian Embarquée) est un projet indépendant sans

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="10ffe3c477ea5de29adf18e958aed6e39cc92e45" maintainer="Lev Lamberov"
 <define-tag description>форматная строка</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что ruby-gnome2, привязки для языка Ruby, связанные с GNOME,

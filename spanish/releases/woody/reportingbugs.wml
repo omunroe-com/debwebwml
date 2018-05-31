@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 3.0 -- Informe de problemas" BARETITLE=true
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c81ddf3a80a56b93c67213fd4eb31121f498bc51"
 
 <p>Si tiene un problema con la instalación del sistema, por favor,
 informe de los fallos frente al paquete <tt>boot-floppies (discos de

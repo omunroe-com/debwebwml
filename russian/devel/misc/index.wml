@@ -1,5 +1,5 @@
 #use wml::debian::template title="Разное для разработчика"
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d808127f11ca9677c022ab571071d66b9b4f068a" maintainer="Lev Lamberov"
 
 <H1>Разное, которое может оказаться полезным для разработчиков</H1>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="cc1686b8eeb634f7b1ca4b55daebf0bd49444a62" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Tuomas Räsänen a découvert deux vulnérabilités dans unADF, un outil pour

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e55d6711b36ead45e64e33a48cbd94044c19290c"
 <define-tag description>バッファオーバフロー、フォーマット文字列</define-tag>
 <define-tag moreinfo>
 <p>Morgan 別名 SM6TKY さんが Amateur Packet Radio Node プログラムである

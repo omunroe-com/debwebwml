@@ -22,4 +22,4 @@ men en af rettelserne blev ikke overført til senere versioner af libgtop.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-301.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d5b337a8be5bf366b0b05b18b72648f1bbb0e6ff"

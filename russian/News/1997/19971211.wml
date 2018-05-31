@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bd54b8a556f5fd1e77a083b5862dd373f2bd01ae" maintainer="Lev Lamberov"
 <define-tag pagetitle>Доступен Debian в предустановенном виде на новых компьютерах</define-tag>
 <define-tag release_date>1997-12-11</define-tag>
 #use wml::debian::news

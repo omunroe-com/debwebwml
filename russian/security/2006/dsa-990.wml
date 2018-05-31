@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3bffea2dd8c3d1696264925f4857d667f1c8333b" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В bluez-hcidump, утилите для анализа пакетов Bluetooth HCI, было

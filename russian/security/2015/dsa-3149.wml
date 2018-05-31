@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="df17be9fd37ac22d12cf196d1eb0c0939afa9161" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Флориан Ваймер из Red Hat Product Security обнаружил проблему в

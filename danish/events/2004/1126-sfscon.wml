@@ -23,7 +23,7 @@ Debian-projektet og Apache Software Foundation fungerer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="42e3aaf22cb525a4c0d26b20745a57855c07f739"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.sfscon.it/?l=de&amp;c=linuxday">Program</a>

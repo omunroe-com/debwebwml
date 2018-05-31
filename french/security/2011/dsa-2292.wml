@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="ac94fa8eb3f65938712e862c7c89531b7e209cd6" maintainer="Cédric Boutillier"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>David Zych a découvert que le serveur DHCP implémenté par l'ISC plante lors du traitement de

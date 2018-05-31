@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="1eae137f08708f4b215ac389716ec0d555338529" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Yutaka Oiwa descubrió un error en Ruby, el intérprete del lenguaje

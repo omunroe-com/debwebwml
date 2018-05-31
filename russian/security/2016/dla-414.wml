@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a280f1f7fd2de92aa4cb51e6541fc2b486d444bf" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>chrony до версии 1.31.2 и ветка 2.x до версии 2.2.1 не выполняют ассоциацию

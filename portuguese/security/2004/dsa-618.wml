@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c2434c576c2729acf0ef2c551e7efd392fa6ad5f"
 <define-tag description>estouros de buffer, estouros de inteiros</define-tag>
 <define-tag moreinfo>
 <p>Pavel Kankovsky descobriu que vários estouros encontrados na biblioteca

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-07-25" SUMMARY="DzongkhaLinux, SSL, Documentação, Ativos, PTS, Lançamento, Instalador, DVD/CD"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="9b434ca949f25719f34890741ae9a6b35987a1b8"
 
 <p>Bem vindo à trigésima edição deste ano da DWN, o periódico
 semanal para a comunidade Debian.  Christoph Berg <a

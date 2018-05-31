@@ -16,4 +16,4 @@ version 3.0.STABLE8-3, der allerede er med i den udgivne lenny.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1732.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="e931be0ac8e49c7c57d585c7e91071de3ad42a13" mindelta="1"

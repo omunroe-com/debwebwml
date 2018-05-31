@@ -1,7 +1,7 @@
 <define-tag pagetitle>Le support de l'euro dans Debian</define-tag>
 <define-tag release_date>2001-12-31</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Frédéric Bothamy"
 # $Id$
 
 <p>Le 1er&nbsp;janvier&nbsp;2002, douze des pays de l'union économique

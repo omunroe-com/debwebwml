@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2b49fe479f1c05b78f5bf261b56e01f3253d3d0c" mindelta="1"
 <define-tag description>fast socket-navn i mappe som er skrivbar for alle</define-tag>
 <define-tag moreinfo>
 <p>Stefan Bühler opdagede, at i den Debian-specifikke opsætningsfil til 

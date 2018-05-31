@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="08bae52456699417144595dd39f4061e9a21d927" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ett buffertspill vid läsning har upptäckts i idtech3-familjen (Quake III

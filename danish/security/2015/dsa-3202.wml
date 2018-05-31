@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fe76fb6d9644da9de3e81a2f1765f67746813bb4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Efterforskere hos INRIA og Xamarin opdagede flere sårbarheder i mono, en 

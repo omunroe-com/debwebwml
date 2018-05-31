@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e0ae5f3ac08b47e6dfd51159f4118d6979f72c14"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>infamous41md さんが、ダイアグラムエディタ dia の xfig

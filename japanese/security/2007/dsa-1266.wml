@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="15b66a4f18e990acd5417b5fa88a127644b0e6f3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Gerardo Richarte さんが、フリーの PGP 代替品 GnuPG が、OpenPGP

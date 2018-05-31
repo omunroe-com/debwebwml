@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ba72da99ddb0f2308d2c8938e79b4285d388d1e6"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>«bazarr» descubrí que eterm era vulnerable a un desbordamiento de buffer

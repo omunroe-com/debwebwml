@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0cb6787641fb038366aec6e1569b18459a2a274d" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Utilstrækkelig fornuftighedskontrol af inddata i libwmf, et bibliotek til 

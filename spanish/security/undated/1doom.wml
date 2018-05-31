@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="8560a19ebc97007b93ee5c1a15cd299b82810b23"
 <define-tag description>ataque de archivo /tmp</define-tag>
 <define-tag moreinfo>
 Doom startmouse crear un /tmp/gpmscript reemplazable

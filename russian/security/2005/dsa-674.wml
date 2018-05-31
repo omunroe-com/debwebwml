@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5014d1679ca6a8870cdcae765b547a07c481c000" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптинг, обход каталога</define-tag>
 <define-tag moreinfo>
 <p>Из-за несовместимости между Python 1.5 и 2.1 последнее обновление

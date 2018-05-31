@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8fbe0ea78a9a6efe989b0eb76e247426718f39c1" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Timo Schmid från ERNW GmbH upptäckte att Git's git-shell, ett

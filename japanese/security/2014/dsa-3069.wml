@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2eb8a8cac36937941637546fffbab0bd9d7c470f"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Symeon Paraschoudis さんが、URL 転送ライブラリ cURL の curl_easy_duphandle()

@@ -2,7 +2,7 @@
 #use wml::debian::blends::gis
 #use "../navbar.inc"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="289205d50f64d1fbef6272d8b76dbfdbd5b0af6f" maintainer="Lev Lamberov"
 
 <p>Чистая смесь Debian GIS распространяется <a href="../../../intro/free">свободно</a>
 через Интернет.</p>

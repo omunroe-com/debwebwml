@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версия wget из состава slink (2.1) и potato 
 некорректно пытается изменить биты режима доступа у символических ссылок при вызове её с опцией -N.
 Версия из состава hamm (Debian 2.0) не подвержена данной уязвимости.

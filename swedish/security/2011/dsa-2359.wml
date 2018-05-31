@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7e7511c8bfc6245c58db2a37ea225d7e857592de" mindelta="1"
 <define-tag description>EL-injektion</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Mojarra, en implementation av JavaServer Faces,

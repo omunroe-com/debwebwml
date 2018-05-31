@@ -28,7 +28,7 @@ mkdir の戻り値をチェックしないため、ローカルから他のユ�
 <p>IM パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bfe0f70f38a6a393244a7c7f24482dff616eb5ec"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-202.data"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Во время внутреннего аудита исходного кода в FreeBSD были
 обнаружены несколько переполнений буфера, которые позволяют злоумышленнику вызывать аварийную остановку tcpdump
 путём отправки специально сформированных пакетов в сеть, активность которой отслеживается с помощью

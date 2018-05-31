@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9b2cf33010168c90a21209352d8f14932899ec47" maintainer="Lev Lamberov"
 <define-tag description>разыменование null-указателя</define-tag>
 <define-tag moreinfo>
 <p>Марек Вавруша и Лубош Словак обнаружили, что NSD, авторитетный

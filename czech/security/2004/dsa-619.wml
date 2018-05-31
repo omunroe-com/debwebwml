@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="88695a92296ff4b7dc2beecedd06d59fee400c85" maintainer="Juraj Kubelka"
 <define-tag description>přetečení bufferu</define-tag>
 <define-tag moreinfo>
 <p>Bezpečnostní výzkumný pracovník iDEFENSE objevil přetečení bufferu

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="8841553f372d1e9c897a2b6a78ab210cafe34381" maintainer="David Prévot"
 <define-tag description>Utilisation de mémoire après libération</define-tag>
 <define-tag moreinfo>
 <p>

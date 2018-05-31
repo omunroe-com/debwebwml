@@ -1,5 +1,5 @@
 #use wml::debian::template title="応募管理者による確認事項"
-#use wml::debian::translation-check translation="1.35"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p><b>注意:</b> このページよりも wiki ページ<a
 href="https://wiki.debian.org/FrontDesk/AMTutorial">\

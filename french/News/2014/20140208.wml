@@ -2,7 +2,7 @@
 <define-tag release_date>2014-02-08</define-tag>
 #use wml::debian::news
 
-#use wml::debian::translation-check translation="1.4" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Cédric Boutillier"
 # $Id:
 
 <define-tag release>7</define-tag>

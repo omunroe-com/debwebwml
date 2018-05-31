@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8cd3f56e4fea4c350fc19d6a93a09cb72f1ef04a"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Gunnar Wolf

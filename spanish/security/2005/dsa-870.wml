@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ccd0ca3ef29b95e94ec67516eac5c22252be2847" maintainer="Juan M. Garcia"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy advirtió que sudo, un programa que proporciona

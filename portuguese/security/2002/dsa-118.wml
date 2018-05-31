@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="901514405f912cb313fb30ed1a3704d1143e7cfa" translation_maintainer="Michelle Ribeiro"
 <define-tag description>arquivos temporários inseguros</define-tag>
 <define-tag moreinfo>
 <p>Tim Waugh encontrou um uso inseguro grave de arquivos temporários

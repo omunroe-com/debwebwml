@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.terakorp.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="6f5738beadd0a59e2785c2f6205dddac19825f2f" maintainer="Nicolas Bertolissio"
 
 <p>
 Notre bien-aimé serveur, Cupidon, a deux interfaces réseau pour internet et le

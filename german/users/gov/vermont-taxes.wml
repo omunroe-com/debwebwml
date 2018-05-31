@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.state.vt.us/tax/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="276ee7c4d8c9136b2234d7b655f6ae6958954faf"
 # Translation: Helge Kreutzmann <debian@helgefjell.de> 2007-10-07
 
 <p>

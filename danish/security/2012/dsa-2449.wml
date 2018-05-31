@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="34aee0588c61711eda04726e70e7e3aaf3670e8c" mindelta="1"
 <define-tag description>manglende fornuftighedskontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at SQLAlchemy, et SQL-værktøjssæt og -objekt-relationsmapper 

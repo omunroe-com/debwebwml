@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6f571fb9094290853a63c6d7a1d67e5724d74872" maintainer="Lev Lamberov"
 <define-tag description>проблемы форматной строки</define-tag>
 <define-tag moreinfo>
 <p>Несколько проблем форматной строки были обнаружены в prozilla,

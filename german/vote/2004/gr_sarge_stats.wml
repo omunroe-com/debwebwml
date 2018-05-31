@@ -1,6 +1,6 @@
 #use wml::debian::template title="Allgemeiner Beschluss: Sarge Veröffentlichungs-Zeitplan in Anblick von GR 2004-003" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="e74c3fb0292e5eb9c4ffb3b534f6feaac88bf71b"
 # Translation: Helge Kreutzmann <kreutzm@itp.uni-hannover.de> 2005-12-15
 #include "$(ENGLISHDIR)/vote/style.inc"
 

@@ -1,6 +1,6 @@
 <define-tag pagetitle>Debian-Installer release candidate 3</define-tag>
 <define-tag release_date>2005-03-23</define-tag>
-#use wml::debian::translation-check translation="1.5" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Giuseppe Sacco"
 #use wml::debian::news
 
 <p>

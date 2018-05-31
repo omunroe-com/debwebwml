@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="c2a5035b44cfa7eae6bf8d60b4f49d5994077379"
 <define-tag moreinfo>
 Recientemente se descubrieron dos problemas en la suite glibc, que podían ser
 usados para engañar a aplicaciones con setuid para ejecutar código arbitrario.

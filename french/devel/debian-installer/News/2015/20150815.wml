@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="86ea4fa3d9e2117496fe9087ec8a0d3d2c9ab02d" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de l'installateur de Debian Stretch Alpha 2</define-tag>
 <define-tag release_date>2015-08-15</define-tag>
 #use wml::debian::news

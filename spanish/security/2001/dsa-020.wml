@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>La gente de Znd encontró una vulnerabilidad en versiones
 antiguas de PHP4 (el aviso original habla de 4.0.4, pero los errores también
 están presentes en 4.0.3). Es posible especificar las directivas PHP en una

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="David Prévot"
+#use wml::debian::translation-check translation="f33776c35c802fcffe24b29d7a279126fbb33119" maintainer="David Prévot"
 <define-tag abbr>DBUB-BSP</define-tag>
 <define-tag year>2011</define-tag>
 <define-tag pagetitle>Chasse aux bogues Debian et Ubuntu</define-tag>

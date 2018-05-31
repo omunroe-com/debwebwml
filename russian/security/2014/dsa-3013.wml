@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="faec17e7fae985b6d96e7892fd05c5b9100d5e55" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Николаус Рат обнаружил, что s3ql, файловая система для хранения данных

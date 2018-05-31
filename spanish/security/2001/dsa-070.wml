@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="798bc9dfd53e93584118f925df3aee1d8c991645"
 <define-tag description>explotación remota</define-tag>
 <define-tag moreinfo>
 El demonio netkit-telnet contenido en el paquete <code>telnetd</code>

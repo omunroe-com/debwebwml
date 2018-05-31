@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6352ddb3b7d77b06eaab9c7b7991a23cc55722e3"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto múltiples vulnerabilidades en la biblioteca

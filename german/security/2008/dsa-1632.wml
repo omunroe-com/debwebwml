@@ -20,4 +20,4 @@
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1632.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cbc98d6bb8d3a82b9f813aa4833b25e03ef1df64"

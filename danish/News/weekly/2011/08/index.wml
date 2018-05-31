@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-05-17" SUMMARY="Afsluttende rapport om DebConf10, DNS-sikkerhedsudvidelser, rapport om <q>Build it</q>-arrangement, hvorfor deltage i DebConf, om at gøre <q>testing</q> brugerorienteret"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Velkommen til årets ottende udgave af DPN, Debian-fællesskabets nyhedsbrev.
 Emnerne i denne udgave er blandt andre:</p>

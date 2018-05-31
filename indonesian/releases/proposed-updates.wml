@@ -1,6 +1,6 @@
 #use wml::debian::template title="Mekanisme <q>Usulan Pembaharuan</q>" 
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.10" maintainer="T. Surya Fajri"
+#use wml::debian::translation-check translation="09c8de4214e938e26eeaf5c5d5bbb5937213f414" maintainer="T. Surya Fajri"
 # Translator:
 # T. Surya Fajri <kilelme@gmail.com>
 

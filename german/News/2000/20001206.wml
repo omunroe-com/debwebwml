@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian beim PLUTO-Treffen</define-tag>
 <define-tag release_date>2000-12-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3bf429a9cb930437fd7a2cdfdbcb0ed3aad51497"
 
 <p>Das Debian-Projekt wird beim diesjährigen PLUTO-Treffen in
 Terni, Italien, einen Stand betreiben. Mitglieder des Projekts werden

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f2e2c10066f8a2c2d5b0366ecc132049c16a36d9"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer さんと Florian Weimer さんによりセキュリティ問題が複数、

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="16899e40ccb21846d156811b827cca5df9566953"
 <define-tag pagetitle>Desarrollo de Debian 2.0 casi completo</define-tag>
 <define-tag release_date>1998-02-03</define-tag>
 #use wml::debian::news

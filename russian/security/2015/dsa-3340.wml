@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8ec40606ef1e00493faf47c8147a984ad2e0b69a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Давид Голунски обнаружил, что во время запуска PHP-FPM в нитевом

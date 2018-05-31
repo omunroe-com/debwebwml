@@ -1,7 +1,7 @@
 <define-tag pagetitle>Distribución de Debian 2.1</define-tag>
 <define-tag release_date>1999-03-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="3f781466c4f44128d1e35cd1895a00e7fc651069" maintainer="Juan M. Garcia"
 # $Id$
 
 <p>Debian 2.1 vio la luz exactamente a las 00:00 GMT del 9 de marzo (nombre en

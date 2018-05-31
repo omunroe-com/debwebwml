@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.cosy.sbg.ac.at/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="980f85012110ed03b31639431c966d19e8533f3d"
 
 <p>
     Vores it-infrastruktur er baseret på Debian GNU/Linux.  Debian anvendes på

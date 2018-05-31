@@ -1,5 +1,5 @@
 #use wml::debian::template title="x86 マシン上の Debian GNU/Linux" BARETITLE=true
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="e9c587fe48386f2bedf1d5a6284b6959c2b4635c"
 
 <p>Debian が最初にサポートしたアーキテクチャなので、ほとんどの一般の
 Debian ウェブページはこの移植版に適用できます。</p>

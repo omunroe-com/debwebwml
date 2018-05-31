@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-02-28" SUMMARY="Lançado o Debian 6.0 <q>Squeeze</q>, novo layout e notícias relacionadas ao site web, backports para o <q>Squeeze</q> mais fáceis para os usuários"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="Marcelo Santana"
+#use wml::debian::translation-check translation="f3d5ed6297fc8b7e45a2ab7501f5d88ba8a328cf" maintainer="Marcelo Santana"
 
 <define-tag MID whitespace=delete>https://lists.debian.org/$0</define-tag>
 

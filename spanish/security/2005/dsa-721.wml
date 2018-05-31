@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="60605af75946463c3acbce9efbe189f7890c1c90" maintainer="Juan M. Garcia"
 <define-tag description>debilidad de diseño</define-tag>
 <define-tag moreinfo>
 <p>Michael Bhola descubrió un error en Squid, el conocido proxy caché

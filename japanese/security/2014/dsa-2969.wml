@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b010e086c6827e61a0a825edc797f99856b974b9"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Bastian Blank さんが、RFC 2822 アドレスの解析や作成を行う Perl モジュール

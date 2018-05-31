@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="827ff392fe84fdd8b558605cd87e1c418f267a53" mindelta="1"
 <define-tag description>fjärrutlöst minnesallokeringsfel</define-tag>
 <define-tag moreinfo>
 <p>Etherealversioner före 0.9.3 var sårbara för ett allokeringsfel i

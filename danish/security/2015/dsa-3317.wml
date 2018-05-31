@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="50e4bce1a4513d3f2b10b977c1f9b6c16ca5fdda" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er opdaget i LXC, Linux Containers-brugerrumsværktøjer.  

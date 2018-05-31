@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d4c366a7eb087a21593334a1a85bcd2785f5c2d5"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Florian Grunow y Birk Kauer, de ERNW, descubrieron una vulnerabilidad de

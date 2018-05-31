@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5bfd48981d4bd08b5a05d01bddffae5bb155a199" maintainer="Lev Lamberov"
 <define-tag description>неправильное экранирование символов</define-tag>
 <define-tag moreinfo>
 fml (пакет для создания сервера списка рассылки), поставляемый в составе Debian GNU/Linux 2.2,

@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.americandistribution.com.ve/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="acc2733f82407b6751fd135b62cabc9684369c17" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian GNU/Linux depuis l'année&nbsp;2002 et nous l'utilisons

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-11-23" SUMMARY="BSP, Licenze, LCC, Boot, Alioth, Donne, Installer"
-#use wml::debian::translation-check translation="1.11" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Daniele Venzano"
 
 <p>Benvenuti al quarantaseiesimo numero di quest'anno di DWN, il notiziario 
 settimanale per la comunità Debian. In un'<a

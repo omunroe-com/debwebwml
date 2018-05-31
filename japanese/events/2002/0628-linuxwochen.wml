@@ -5,7 +5,7 @@
 <define-tag date>06 月 28 日 - 30 日</define-tag>
 <define-tag infolink>http://www.linuxwochen.at/</define-tag>
 <define-tag coord><a href="mailto:alfie@debian.org">Gerfried Fuchs</a></define-tag>
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="572a076536ac8162fc302940e3bca62305311aca"
 
 <define-tag intro>
 

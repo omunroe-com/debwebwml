@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="faec17e7fae985b6d96e7892fd05c5b9100d5e55"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Nikolaus Rath さんが、オンラインデータストレージ向けファイルシステム

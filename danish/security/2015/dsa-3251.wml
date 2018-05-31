@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="548c9335f8293fda4421ec0311f37590410392cb" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Nick Sampanis opdagede at dnsmasq, en lille cachende DNS-proxy og 

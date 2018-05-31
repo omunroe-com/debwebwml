@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="042f97780cc0f01130485577c4a6f3d3cd97545e" maintainer="David Prévot"
 <define-tag description>Traitement incorrect d'ACL</define-tag>
 <define-tag moreinfo>
 <p>

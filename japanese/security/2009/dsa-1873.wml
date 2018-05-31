@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="91b91f573a6f9b0eb1316130f1588b7b69095097"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>Juan Pablo Lopez Yacubian さんにより、不正な URL の処理の誤りがあり、ウェ

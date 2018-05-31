@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4ce2f1ea053de49d2adede9a58d9bf648e6f229f" maintainer="Lev Lamberov"
 <define-tag description>выполнение произвольного сценария</define-tag>
 <define-tag moreinfo>
 <p>Все версии сценария EPIC Light до версии 2.7.30p5 (в ветке

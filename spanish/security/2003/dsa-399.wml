@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9907359c4b61adfdd6e74644cb87c0ea4b383bd8"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Jeremy Nelson descubrió un desbordamiento de buffer en EPIC4, un cliente

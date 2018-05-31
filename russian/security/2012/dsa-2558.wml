@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="31610b69e582f42f4174beda987dbfe45cb86b9d" maintainer="Lev Lamberov"
 <define-tag description>раскрытие информации</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что bacula, служба сетевого резервного копирования, неправильно

@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian CD-peilipalvelimen perustaminen" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="878d363925e2c22c630ed2d59d3819f01d2198f9"
 
 <p>Perustaaksesi Debian CD-vedoksia peilaavan palvelimen, tarvitset
 Linux- tai Unix-tyyppisen koneen, jossa on pysyvä, luotettava

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5d6c2554f37e973bf5dc62f5857efa30c4d5b324" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Markus Vervier från X41 D-Sec GmbH upptäckte en heltalsspillssårbarhet

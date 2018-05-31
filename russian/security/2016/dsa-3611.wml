@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="db64faa366f6d0c5e744a353df6e49b4f1ca6062" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Команда разработки инфраструктуры TERASOLUNA обнаружила отказ в обслуживании

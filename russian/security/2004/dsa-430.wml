@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="71c27f2d9bad50138020836886e1fbed4a7aefac"
 <define-tag description>нет отказа от привилегий</define-tag>
 <define-tag moreinfo>
 <p>Стив Кемп (Steve Kemp) обнаружил проблему в trr19, клавиатурном

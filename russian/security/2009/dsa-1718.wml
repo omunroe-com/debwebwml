@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="290a9d071dfd5716d37e393c98181d4c1e6e0e7b" maintainer="Lev Lamberov"
 <define-tag description>некорректное использование API</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что базовый клиент для инфраструктуры распределённых вычислений

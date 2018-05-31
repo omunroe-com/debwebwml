@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4c1fc112b24844800ddca9357c27590a7a23a761"
 <define-tag description>入力のサニタイズ不足</define-tag>
 <define-tag moreinfo>
 <p>Ivan Markovic さんにより、ウェブメールアプリケーション SquirrelMail の受

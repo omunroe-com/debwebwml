@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="004d671e34b2fd7e284fa2afff6eb96be733e458" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Брено Сильвейра Соарес из Servico Federal de Processamento de Dados

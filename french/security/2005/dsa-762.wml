@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="4b78e25e667425de470b43ed1ab211467744ece0" maintainer="Simon Paillard"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Kevin Finisterre a découvert deux problèmes dans le client Bluetooth FTP de

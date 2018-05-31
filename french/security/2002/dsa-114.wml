@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="748db6e403ebcfbbf2d23f6055689d5ef1fb3258" maintainer="Simon Paillard"
 # Original translation by Eric Jullien
 <define-tag description>Accès non autorisé à des fichiers</define-tag>
 <define-tag moreinfo>

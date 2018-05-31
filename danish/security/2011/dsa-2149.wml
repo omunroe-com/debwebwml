@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a678f6ce7a4237d7391bcc68f402cce9f38f3373" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Rémi Denis-Courmont opdagede at dbus, en meddeleses-bus-applikation, ikke på 

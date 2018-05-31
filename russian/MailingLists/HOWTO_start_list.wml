@@ -1,5 +1,5 @@
 #use wml::debian::template title="HOWTO: как создать список рассылки"
-#use wml::debian::translation-check translation="1.18" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda" maintainer="Lev Lamberov"
 
 <P>Целью этого документа является помощь людям, желающим создать
 список рассылки на <a href="https://lists.debian.org/">lists.debian.org</a>.</p>

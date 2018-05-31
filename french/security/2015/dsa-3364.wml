@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="63f841d6fe4b31605f3520c2effe00dd9d592f31" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans le noyau Linux qui

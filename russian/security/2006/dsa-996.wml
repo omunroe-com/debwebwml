@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ec293f0dd1e1c698f6f686f7876e432633ea511e" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Линкольн Штайн обнаружил, что модуль Crypt::CBC для Perl при использовании алгоритмов

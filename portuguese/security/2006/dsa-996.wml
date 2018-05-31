@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="ec293f0dd1e1c698f6f686f7876e432633ea511e" maintainer="Marco Carvalho"
 <define-tag description>erro de programação</define-tag>
 <define-tag moreinfo>
 <p>Lincoln Stein descobriu que o módulo Perl Crypt::CBC produz texto-cifrado

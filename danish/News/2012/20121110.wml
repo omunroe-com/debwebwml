@@ -5,7 +5,7 @@
 <define-tag pagetitle>Hjælp os med at udgive <q>Wheezy</q>:  Deltag i vores BSP-marathon</define-tag>
 <define-tag release_date>2012-11-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektet er glad for at kunne annoncere, at i løbet af de næste få 
 uger, vil der finde fejludryddelsesfester (<a href="https://wiki.debian.org/BSP">\

@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.outletpc.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="fde46e72e3f6f182132c46d8045254af6e719369" maintainer="Jean-Pierre Giraud"
 
 <p>
     Nous utilisons Debian sur nos serveurs internes et plusieurs stations de

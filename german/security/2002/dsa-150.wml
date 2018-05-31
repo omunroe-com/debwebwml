@@ -19,5 +19,5 @@ nicht davon betroffen, da sie das Interchange-System nicht enthielt.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-150.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f6ae9c6fa541c206c8d12c29b0ac8abac42c3c60"
 # $Id$

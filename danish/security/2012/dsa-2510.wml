@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="17d7878435c8b115028437e93749fd8ceaddf8ef" mindelta="1"
 <define-tag description>forespørgselsforfalskning på tværs af websteder</define-tag>
 <define-tag moreinfo>
 <p>John Leitch opdagede en sårbarhed i eXtplorer, en meget omfattende rig 

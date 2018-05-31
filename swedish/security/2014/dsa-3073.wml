@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="80aaf6e3c17855f439a8b4f0fe7b444756a90a54" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Daniel Genkin, Itamar Pipman och Eran Tromer upptäckte att

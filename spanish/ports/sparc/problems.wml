@@ -1,5 +1,5 @@
 #use wml::debian::template title="Migración a SPARC -- Errores" NOHEADER="yes" BARETITLE=true
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="bc5a5b465aa5f94e13b4ed873d83cbd36b1a2f2b"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
 
 <h1>Errores en Debian SPARC</h1>

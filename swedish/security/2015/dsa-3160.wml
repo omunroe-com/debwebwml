@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3a5e003b8d278d472bcafefd339ffd7ac771019b" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Olivier Fourdan upptäckte att saknad rengörning av indata i Xserverns

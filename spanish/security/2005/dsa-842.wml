@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="28d8ff585668c08044e137eaa95a16971cd9bd42" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser descubrió una vulnerabilidad en las bibliotecas XML-RPC,

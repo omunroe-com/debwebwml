@@ -1,6 +1,6 @@
 #use wml::debian::template title="Шаг 4: Задачи и навыки" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.21" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="517d7a4f999561b8f28e207214a40990fdc3da49" maintainer="Lev Lamberov"
 
 <p>Информация на этой странице, хотя она и является публичной, будет интересна в первую
 очередь будущим разработчикам Debian.</p>

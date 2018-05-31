@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bc964e4b68d9131f1bba543f8988d86821ca8879" maintainer="Lev Lamberov"
 <define-tag description>ошибка в сбросе дополнительных групп</define-tag>
 <define-tag moreinfo>
 <p>Стив Граб из Red Hat обнаружил, что заплата для arpwatch (поставляемая

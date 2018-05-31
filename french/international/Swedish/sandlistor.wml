@@ -14,7 +14,7 @@
 # not to the country. Swedish is an official language in both Sweden and
 # Finland.
 #
-#use wml::debian::translation-check translation="1.15" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="96abf00afc75e6b68e6880d36dc95259827a75c1" maintainer="Mohammed Adnène Trojette"
 
 <h1 id="sandlistor">Listes de diffusion</h1>
 

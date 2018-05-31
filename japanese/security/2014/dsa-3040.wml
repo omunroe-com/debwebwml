@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ef6c296f2d3d731efa8786987fdb6d74f92e3edf"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>rsyslog プロジェクトのリーダーである Rainer Gerhards

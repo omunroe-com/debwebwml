@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="d16ec14fb629056ca8754b317db3f2088b433251" maintainer="Thomas Vincent"
 <define-tag description>Dépassement de zone de mémoire du système</define-tag>
 <define-tag moreinfo>
 <p>Charlie Somerville a découvert que Ruby gérait de façon incorrecte la

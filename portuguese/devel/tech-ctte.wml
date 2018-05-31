@@ -1,5 +1,5 @@
 #use wml::debian::template title="Comitê Técnico do Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.71" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="72af2309b6e70c54dd81bbacd4517f5c985728e0" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 #use wml::debian::toc
 
 <p>O Comitê Técnico é estabelecido pela seção 6 da 

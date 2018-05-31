@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian BTS - リクエストサーバ" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.30"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <h1><a name="introduction">バグシステムリクエストサーバ入門</a></h1>
 

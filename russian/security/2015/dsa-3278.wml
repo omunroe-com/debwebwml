@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7a7202e151d3ad73bcbb539132348bdbd9f8e06e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В модуле mod_jk для Apache 2, выполняющем перенаправление запросов от

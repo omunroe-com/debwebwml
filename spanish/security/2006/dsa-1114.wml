@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="b864ddb3883b24e3f16bffa284c09ac4113bae15" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Andreas Seltenreich descubrió un desbordamiento de buffer en hashcash,

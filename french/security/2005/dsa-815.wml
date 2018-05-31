@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="28fc0ad49cbb1ab22a2cf65188cb93bd3ff891ec" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Ilja van Sprundel a découvert une sérieuse erreur dans la gestion des

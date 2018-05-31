@@ -1,7 +1,7 @@
 <define-tag pagetitle>Manuel d'installation de Sarge disponible</define-tag>
 <define-tag release_date>2004-03-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2" maintainer="Nicolas Bertolissio"
 
 <p>
 Une préversion du manuel d'installation de Sarge est <a

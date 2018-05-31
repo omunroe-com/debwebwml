@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a7f68578ee2ad60836873bdea79d1334004b6a71"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>仮想ネットワークコンピューティングクライアント xvnc4viewer に整数オーバ

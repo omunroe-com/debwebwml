@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 8 - Как сообщать об ошибках" BARETITLE=true
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b66f2524a8b8f14cc26741ffcb046ee1396dd23a" maintainer="Lev Lamberov"
 
 # Translators: copy of squeeze/reportingbug
 

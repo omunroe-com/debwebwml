@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="6f265b1bfc5f646ec5888e0db4689f9e18fea9d8" maintainer="DFS Task Force"
 <define-tag description>Échec pour rendre les privilèges</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp a découvert une faille de sécurité dans <i>xonix</i>, un jeu, 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="46088a82820d088d7f6fc8c25ccbbeb7ec8f0212" maintainer="Lev Lamberov"
 <define-tag description>SQL-инъекция</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что mahara, программа для создания электронного портфолио, блога и

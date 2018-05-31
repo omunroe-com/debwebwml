@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c4421d0e8b513d227b3157a219c5c9a35b8de068" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Жоксен Коре обнаружил несколько уязвимостей, проявляющихся в межсайтовом скриптинге в

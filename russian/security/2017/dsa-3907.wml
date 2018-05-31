@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fb8c5c0febe487845569f85d6ea775ac38818e38" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Фредиано Зиглио обнаружил переполнение буфера в spice, библиотеке для

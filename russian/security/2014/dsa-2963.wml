@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4156f27f1b32b2ccaba7eae62ab3302a1be7bd83" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Solr, сервере поиска уровня предприятия, основанном на Lucene и имеющем открытый

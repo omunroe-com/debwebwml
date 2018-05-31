@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="354a76afc46f79e67f01bc860c0c9ed0017acbb3"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>Eduard Bloch さんが、Debian パッケージおよびソースファイルのキャッシュシステム

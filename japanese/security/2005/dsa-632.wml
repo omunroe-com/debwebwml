@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="16548bb1fed395ed46385bf7d11face05600c033"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Stephen Dranger さんは、Samba 経由で動作する winpopup を X11 へ移植した

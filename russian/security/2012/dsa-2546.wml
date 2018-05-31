@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="301c94628232b53ee41a0d3162065bdb4f9ce778" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Тимо Уарнс обнаружил, что код обработки EAP-TLS в FreeRADIUS, высокопроизводительном

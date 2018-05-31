@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dad0a20fd1f7db385d9f6bb7d82e1fb293ea26df" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer upptäckte att ett programmeringsfel i mount-hjälpbinären

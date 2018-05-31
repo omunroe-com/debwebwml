@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6393b6d14c8f9a3369d3cf3d4b0b8d7a1c861194" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ян Хорн из Google Project Zero обнаружил, что APT, высокоуровневая

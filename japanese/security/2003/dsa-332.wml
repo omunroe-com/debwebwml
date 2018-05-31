@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="fbd7af7d4edfd4cf5cd8dc79ac4548e406bbf29d"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Linux カーネルに多数の脆弱性が発見されました。</p>

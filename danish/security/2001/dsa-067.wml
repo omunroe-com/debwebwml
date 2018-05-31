@@ -37,4 +37,4 @@ bagefter blev kopieret fra den stabile udgivelse, indholdet af filen
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-067.data"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="4e24061190d31f80509d49a1aaf22333a7c0f957"

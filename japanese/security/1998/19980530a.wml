@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="db1de9b4d182abe0614b8e9fa5648020926d480e"
 <define-tag description>klock にバッファオーバフロー、kvt
 が設定を root で保存</define-tag>
 <define-tag moreinfo>

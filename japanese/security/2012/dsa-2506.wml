@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2c8f74c9407f1671f829c137b426bf96618ecc21"
 <define-tag description>ModSecurity の迂回</define-tag>
 <define-tag moreinfo>
 

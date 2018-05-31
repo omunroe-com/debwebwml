@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-02-25" SUMMARY="Обзор, Достижения, Программа установки, Выборы DPL, Roxen, Поддержка, APT, Товарный знак, LinEx, Knoppix, SPI, Мероприятия"
-#use wml::debian::translation-check translation="1.22"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>Приветствуем вас в восьмом в этом году выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian. Для тех из вас, кто всегда

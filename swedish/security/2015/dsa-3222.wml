@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2359034800c87f07758376e6fdb6d87b83d841bb" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Miroslav Lichvar från Red Hat upptäckte flera sårbarheter i chrony,

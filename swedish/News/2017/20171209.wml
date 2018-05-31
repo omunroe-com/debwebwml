@@ -1,7 +1,7 @@
 <define-tag pagetitle>Uppdaterad Debian 8: 8.10 utgiven</define-tag>
 <define-tag release_date>2017-12-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Andreas Rönnquist"
+#use wml::debian::translation-check translation="846c77bfdf01ced9431bea18276339409b36e305" maintainer="Andreas Rönnquist"
 
 <define-tag release>8</define-tag>
 <define-tag codename>Jessie</define-tag>

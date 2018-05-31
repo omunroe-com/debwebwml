@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="1414537b9267db89fddceddac1e0a4d2bdd1683a" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Hendrik Weimer descubrió que era posible que un usuario normal desactivara

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="699b93b1ca55f594ba2ec6e716cac0aa9a006918" maintainer="Simon Paillard"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>Eric Romang a découvert que xpvm, une console graphique de surveillance de

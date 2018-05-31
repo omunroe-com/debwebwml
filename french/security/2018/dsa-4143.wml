@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="6dd2848c0870d5466d18155e4a13d5af27df9e27" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Richard Zhu et Huzaifa Sidhpurwala ont découvert qu'une écriture de

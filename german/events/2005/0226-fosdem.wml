@@ -53,7 +53,7 @@ veröffentlicht.</p>
 
 #use wml::debian::past_event
 # $Id$
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.fosdem.org/2005/index/news/speakers">Vortragende gemäß offizieller Abfolge</a>

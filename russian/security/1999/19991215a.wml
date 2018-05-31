@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 В выпущенной Core-SDI рекомендации указано, что
 ошибки в ssh и библиотеке rsaref2 могут использоваться для получения

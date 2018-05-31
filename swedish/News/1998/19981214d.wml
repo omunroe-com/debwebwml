@@ -1,7 +1,7 @@
 <define-tag pagetitle>Netwinderintervju i Linux Today</define-tag>
 <define-tag release_date>1998-12-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>En intervju mellan Linux Today <a href="http://linuxtoday.com">
 http://linuxtoday.com</a> och Corel Computer 

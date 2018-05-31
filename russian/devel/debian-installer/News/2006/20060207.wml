@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9534400b758644d04f2b02226ab905c1342a1288" maintainer="Lev Lamberov"
 <define-tag pagetitle>Подготовка к выпуску etch beta 2 приведёт к поломке большинства установочных образов beta 1</define-tag>
 <define-tag release_date>2006-02-07</define-tag>
 #use wml::debian::news

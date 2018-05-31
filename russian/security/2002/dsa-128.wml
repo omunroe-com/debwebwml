@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="74742b2d709a96da79c5e7d342696e9dac4b04e3" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>fc обнаружил переполнение буфера в коде раскрытия переменных,

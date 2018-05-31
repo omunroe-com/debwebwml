@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="bfb456139d47afa16d79398fa262a2c876dcf71a" maintainer="Juan M. Garcia"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron dos errores de denegación de servicio en el servidor de listas

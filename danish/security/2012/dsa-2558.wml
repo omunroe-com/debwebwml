@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="31610b69e582f42f4174beda987dbfe45cb86b9d" mindelta="1"
 <define-tag description>informationsafsløring</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at bacula, en netværkssikkerhedskopiservice, ikke på korrekt 

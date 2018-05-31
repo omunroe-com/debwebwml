@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="7ede51affe90b6c6bf838f48246e324d57c17c46" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>NISCC a signalé que MyDNS, un serveur DNS utilisant une base de données SQL

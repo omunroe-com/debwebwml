@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-10-11" SUMMARY="Sicherheit, Wiki, Mozilla, FAQ, Chroot, Patches, Hotplug, ARM, Lizenzen, Kernel"
-#use wml::debian::translation-check translation="1.24"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # $Id$
 
 <p>Willkommen zur 41. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

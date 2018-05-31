@@ -1,5 +1,5 @@
 #use wml::debian::template title="Licensoplysninger" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.26"
+#use wml::debian::translation-check translation="fecdd41d60b03aef5b307b1f15d575b6f489d98b"
 
 <p>Denne side præsenterer nogle af debian-legals bidragyderes opfattelser af 
 hvordan visse licenser følger <a href="$(HOME)/social_contract#guidelines">\

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="891ab1709d6a8f23285950566eb8b497d37f4042" maintainer="Lev Lamberov"
 <define-tag description>небезопасные права доступа</define-tag>
 <define-tag moreinfo>
 <p>Разработчики KDE сообщили об уязвимости в коде работы с резервными файлами в

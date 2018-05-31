@@ -1,6 +1,6 @@
 #use wml::debian::template title="Portage pour SPARC" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
-#use wml::debian::translation-check translation="1.40" maintainer="David Prévot"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="David Prévot"
 
 # Translators:
 # Thomas Marteau, 2001, 2003 

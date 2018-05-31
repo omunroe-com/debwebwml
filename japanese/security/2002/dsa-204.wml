@@ -18,7 +18,7 @@ rlogin と telnet プロトコルの実装は、HTML ページや HTML メール
 <p>早急に kdelibs3 パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="c64c044c914c257b90ff19ddc3ae3d9e1204b72d"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-204.data"
 # $Id$

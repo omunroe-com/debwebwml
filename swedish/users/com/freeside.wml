@@ -1,5 +1,5 @@
 # From: Ivan Kohler <ivan@freeside.biz>
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2e45731066b1cb87db6d5a87cdef84594d69c88d"
 
 <define-tag pagetitle>Freeside Internet Services, Inc., USA</define-tag>
 <define-tag webpage>http://www.freeside.biz/</define-tag>

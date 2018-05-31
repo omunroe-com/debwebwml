@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="6e68ed20e3107b0590c5753b26942fc8f7232fb7" maintainer="Giuseppe Sacco"
 <define-tag description>file temporaneo insicuro</define-tag>
 <define-tag moreinfo>
 <p>Si è scoperto che tkmail crea dei file temporanei in maniera non sicura.

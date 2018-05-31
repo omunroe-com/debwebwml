@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian Conference 1 -- Отчёт"
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Lev Lamberov"
 
 <p>На прошлой неделе прошла первая <a href="0704-debcon">официальная конференция Debian</a>
 в рамках <a href="http://lsm.abul.org/">Libre Software Meeting</a> (LSM) в Бордо, Франция.

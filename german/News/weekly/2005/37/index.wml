@@ -2,7 +2,7 @@
 # FE: »Sponsoring« ist im Gegensatz zu »sponsorship« auch im Deutschen
 # gebräuchlich, aber dann wird ein englisches Wort mit einem englischen Wort
 # übersetzt. Bessere Vorschläge?
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 # $Id$
 
 <p>Willkommen zur 37. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

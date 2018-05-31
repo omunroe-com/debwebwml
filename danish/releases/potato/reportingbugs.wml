@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 2.2 -- fejlrapportering" BARETITLE=true
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ad4e7dbff975f92d28a640c88f8742a0b9ede983"
 
 <p>Hvis du har problemer med installationssystemet så rapportér fejl 
 vedrørende <tt>boot-floppies</tt>-pakken. Hvilke oplysninger du skal angive 

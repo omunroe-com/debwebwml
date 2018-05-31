@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian がスペースシャトルに乗る</define-tag>
 <define-tag release_date>1997-04-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f9fe4cec34b15e0a304de723280c5330100dd5a3"
 
 <p>
 3 月に飛び立ったスペースシャトルでの実験の制御を行なうために

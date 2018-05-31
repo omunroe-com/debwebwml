@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="756799c325728296ad7f62bcbc9edf461774f6c0" maintainer="Lev Lamberov"
 <define-tag description>удалённое выполнение кода</define-tag>
 <define-tag moreinfo>
 <p>Ульф Хэрнхаммар обнаружил переполнение буфера в Pidgin, клиенте обмена мгновенными

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="10. August 1999" SUMMARY="Datum des Einfrierens; FHS-Übergang verzögert; fakeroot-Probleme."
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 # Translator: Thimo Neubauer <thimo@debian.org>
 # $Id$
 

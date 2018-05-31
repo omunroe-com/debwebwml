@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 8 &mdash; Come segnalare problemi" BARETITLE=true
-#use wml::debian::translation-check translation="1.1" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="b66f2524a8b8f14cc26741ffcb046ee1396dd23a" maintainer="Luca Monducci"
 
 <h2><a name="report-release">Problemi nelle Note di rilascio</a></h2>
 

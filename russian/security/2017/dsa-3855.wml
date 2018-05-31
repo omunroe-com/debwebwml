@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1e7a234ecb9743656d05948caa9e1b99ea4de701" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В библиотеке для декодирования JBIG2 были обнаружены многочисленные проблемы

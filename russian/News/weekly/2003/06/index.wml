@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-02-11" SUMMARY="OASIS, Desktop, Entertainment, Задачи, DJGPP, Заморозка, Qt3, Boot-floppies, Библиотеки, Multimedia"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Приветствуем вас в шестом в этом году выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian. Недавнее <a

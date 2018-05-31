@@ -13,7 +13,7 @@ libnids を使用するプログラムを実行するユーザの権限で
 <p>直ちに libnids パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6b76e4816c073587e13cc45bdfab6288f916664e"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-410.data"
 # $Id$

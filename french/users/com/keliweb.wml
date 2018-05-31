@@ -2,7 +2,7 @@
 <define-tag webpage>http://keliweb.it/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="abc7e6b0a1a1dd4a28a25c050c0fa6437be80f39" maintainer="Jean-Paul Guillonneau"
 
 <p>
     Nous fournissons essentiellement hébergements et serveurs pour le développement

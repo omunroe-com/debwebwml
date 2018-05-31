@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a09d201150ef5c15f02495e245a513c74cac8539" maintainer="Lev Lamberov"
 <define-tag description>некорректная проверка пользовательского ввода</define-tag>
 <define-tag moreinfo>
 <p>В socat было обнаружено переполнение стека, которое позволяет

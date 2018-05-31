@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="b27d11d23c55bd839184766c856e4d6d383c8a48" maintainer="Juan M. Garcia"
 <define-tag description>se eludía la autenticación</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto que libpam-ldap, el módulo de autenticación

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c076192f5f9febe095017f651d8d546bf1a65c0d"
 <define-tag description>utökning av privilegier</define-tag>
 <define-tag moreinfo>
 <p>Tim Bunce upptäckte att PostgreSQL, en databasserver, inte

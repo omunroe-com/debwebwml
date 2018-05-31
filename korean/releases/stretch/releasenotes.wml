@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/stretch/release.data"
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="3f60e9ab95c589dd5a1ca0b0d443957dfc33a362" maintainer="Sebul"
 
 <if-stable-release release="jessie">
 <p>This is a <strong>work-in-progress version</strong> of the Release Notes

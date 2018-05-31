@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="df62c787c8dae4d954215bc1d806732898affdba" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление исправляет несколько уязвимостей в imagemagick: различные проблемы

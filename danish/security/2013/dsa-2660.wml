@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fceebc5888fd750f4089685d9e1ab2c6f335592c" mindelta="1"
 <define-tag description>blotlæggelse af følsomme oplysninger</define-tag>
 <define-tag moreinfo>
 <p>Yamada Yasuharu opdagede at cURL, et bibliotek til overførsel af URL'er, var 

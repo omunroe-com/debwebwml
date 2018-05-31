@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="09ac89f3433e0e7f6573906b133c968eff7d51fc"
 <define-tag description>境界チェックの欠落</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma さんにより、有名な Civilisation ゲームのクローン freeciv

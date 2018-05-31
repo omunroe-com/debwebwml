@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="351953904ff7bbb2ca8dc322544fee5d1e2f62ed" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Loren Maggiore fra Trail of Bits opdagede at 3GP-fortolkeren i VLC, en 

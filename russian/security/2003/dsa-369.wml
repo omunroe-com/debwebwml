@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="190570227ccc093ac64465ed1d34d2d8220f44de"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Стив Кемп (Steve Kemp) обнаружил возможность переполнения буфера в

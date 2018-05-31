@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0355a7a7801d5b4b7f5975e75733618a2b36418c" maintainer="Lev Lamberov"
 <define-tag description>переход в каталог</define-tag>
 <define-tag moreinfo>
 <p>Было сообщено о возможности осуществления атаки по принципу перехода в каталог на libtar, библиотеку C для

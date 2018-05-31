@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian &ldquo;sarge&rdquo; インストール情報" NOHEADER="true"
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/sarge/release.data"
 

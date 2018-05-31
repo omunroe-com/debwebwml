@@ -10,7 +10,7 @@
 #use wml::debian::news
 
 
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="e72023bbec9cc13120b5c264dfa596a4f5e49942" maintainer="Jean-Pierre Giraud"
 
 <p>Debian produit régulièrement de nombreuses variantes de CD et de DVD
 d'installation, et d'images live ou dans le nuage pour ses utilisateurs. Il

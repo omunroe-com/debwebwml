@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d77528e722e9676e8e59c37867eb7fde72264fdc" maintainer="Lev Lamberov"
               <h3>Условие кворума</h3>
               <ul>
                 <li>Для варианта 1 требование кворума выполнено: 315 &gt; 47.4578760586691</li>

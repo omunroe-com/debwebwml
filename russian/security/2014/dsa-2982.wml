@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba66f4f727202a95fb38e4001c7f015fb906dcc3" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Шон Гриффин обнаружил две уязвимости в адаптере PostgreSQL

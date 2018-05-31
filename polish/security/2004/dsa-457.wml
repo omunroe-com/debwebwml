@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2a236031d5317771691f53778bc2ab9735f8b2d9"
 <define-tag description>kilka naruszeń bezpieczeństwa</define-tag>
 <define-tag moreinfo>
 <p>Odkryto dwa naruszenia bezpieczeństwa w wu-ftpd:</p>

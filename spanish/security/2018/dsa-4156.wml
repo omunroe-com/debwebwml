@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4342f739f452ef4bfbcff5c9b8d6712e643cad77"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se ha encontrado una vulnerabilidad de ejecución de código remoto en Drupal, una

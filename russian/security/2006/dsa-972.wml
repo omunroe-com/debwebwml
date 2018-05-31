@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d664bcd19d13661fc9b77a1940e4f2430e6a8a82" maintainer="Lev Lamberov"
 <define-tag description>переполнения буферов</define-tag>
 <define-tag moreinfo>
 <p>Исследователи SuSE обнаружили переполнения динамической памяти в xpdf, наборе для

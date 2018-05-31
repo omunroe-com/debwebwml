@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Eugeniy Meshcheryakov"
+#use wml::debian::translation-check translation="c2f34cde776c5a09d26db08117033caf75315916" maintainer="Eugeniy Meshcheryakov"
 <define-tag pagetitle>Події в 2004 році</define-tag>
 #use wml::debian::template title="Події в 2004 році"
 #use wml::debian::recent_list

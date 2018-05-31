@@ -1,6 +1,6 @@
 #use wml::debian::template title="Étape&nbsp;2&nbsp;: Vérification d'identité" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.38" maintainer="David Prévot"
+#use wml::debian::translation-check translation="b59849318da01faabdbc1d5bb5e05f99c4f7a61a" maintainer="David Prévot"
 
 # Translators:
 # Nicolas Boullis, 2002, 2003.

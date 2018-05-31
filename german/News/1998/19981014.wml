@@ -2,7 +2,7 @@
 <define-tag release_date>1998-10-14</define-tag>
 #use wml::debian::news
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="7ab66253d36ba0d83f4cb1eca2b0c7710cf030d4"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-10-06
 
 

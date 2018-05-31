@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9b9ce26c1b7eed58cb41e2512f9bd745f8bb6cf2" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Хэдмат Дэниш обнаружил обшибку в enigmail, дополнении для поддержки GPG в Mozilla

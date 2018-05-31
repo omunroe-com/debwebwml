@@ -1,7 +1,7 @@
 <define-tag pagetitle>Nouveau moteur de recherche sur le site web</define-tag>
 <define-tag release_date>2000-10-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="0d50171c51f96fa7187be1c1536a183f51fd63f0" maintainer="Martin Quinson"
 
 <p>Après une longue période sans possibilité de recherche automatique,
 le projet Debian a sélectionné 

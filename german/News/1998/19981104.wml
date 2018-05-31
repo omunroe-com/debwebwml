@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 2.1 »Slink« eingefroren</define-tag>
 <define-tag release_date>1998-11-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1"
 
   <!--                             -*- Mode: SGML -*-
   Translator       : Philipp Frauenfelder (pfrauenf@debian.org)

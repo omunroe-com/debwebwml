@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="949df7a4eb2733a3a745de02250416fd533911f5" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>George Shuklin fra servers.com, opdagede at Nova, fabric-controller til 

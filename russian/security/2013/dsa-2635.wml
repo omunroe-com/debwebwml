@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="49a739be7e0e7d2bbae62d3f93205de0565f36aa" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Малкольм Скотт обнаружил переполнение буфера, которое может использоваться удалённо, в

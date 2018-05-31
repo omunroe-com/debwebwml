@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Cristian Rigamonti" 
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Cristian Rigamonti" 
 <define-tag pagetitle>Stato di Debian Jr.</define-tag>
 <define-tag release_date>2001-01-01</define-tag>
 #use wml::debian::news

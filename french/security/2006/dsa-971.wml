@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="2f6cd3d43bad6d1ecf55df9121dd799bbd5bf696" maintainer="Simon Paillard"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Des chercheurs de SuSE ont découvert des dépassements de pile dans xpdf, un

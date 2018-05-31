@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7a3d53ba8812791b64ce731cc21042042d9404c9" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>David Golden fra MongoDB opdagede at File::Spec::canonpath() i Perl, 

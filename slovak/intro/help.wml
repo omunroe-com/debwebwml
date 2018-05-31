@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ako môžete pomôcť Debianu?"
-#use wml::debian::translation-check translation="1.27" maintainer="Slavko"
+#use wml::debian::translation-check translation="6167d0dd1e0f15e7a5fecff0db254040ec48459f" maintainer="Slavko"
 ### TRANSLATORS: Revision 1.27 is adding some words to the popcon submission item,
 ### and Revision 1.28 is reorganization of items (no change in the description of
 ### each item, just adding title sections and per section unnumbered lists.

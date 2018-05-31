@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="f6433c2bdc4126f72de7398f3aa925f1c08b6b08" mindelta="1"
 <define-tag description>felaktiga filrättigheter</define-tag>
 <define-tag moreinfo>
 <p>

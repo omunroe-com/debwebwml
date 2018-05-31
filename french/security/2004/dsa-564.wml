@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f4b2916bc3b514d3d613eb8adc8f5228cdfcd4eb" maintainer="DFS Task Force"
 <define-tag description>Absence de vérification des entrées de
 l'utilisateur</define-tag>
 <define-tag moreinfo>

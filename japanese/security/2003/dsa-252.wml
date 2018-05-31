@@ -18,7 +18,7 @@ setuid されたプログラムである slocate にバッファオーバーフ�
 <p>早急に slocate パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8334b574c91ec25b2a3a14ef0a57c59eb2fdd4f2"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-252.data"
 # $Id$

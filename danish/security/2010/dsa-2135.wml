@@ -16,4 +16,4 @@ Poppler PDF-biblioteket.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2135.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="63daeb1bdff913577dcab306ffb90d6e51b917b5" mindelta="1"

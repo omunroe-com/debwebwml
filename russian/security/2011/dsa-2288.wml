@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="80638ac331e841121cd880783db8d4a712b7fe1f" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Хуссейн Лотфи обнаружил переполнение целых чисел в коде libsndfile для

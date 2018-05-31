@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b8648b22ee70d300cc97ec0cf977b41dc6f926ce"
 <define-tag description>整数オーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>Mikulas Patocka さんが Links ウェブブラウザの HTML table

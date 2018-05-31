@@ -1,7 +1,7 @@
 <define-tag pagetitle>Le déplacement de l'archive amd64 casse les images bêta&nbsp;2 pour amd64</define-tag>
 <define-tag release_date>2006-06-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="770d676df33bef11d96f7c92053c78932f1a5467" maintainer="Frédéric Bothamy"
 
 <p>
 L'intégration de l'architecture amd64 dans l'archive principale de

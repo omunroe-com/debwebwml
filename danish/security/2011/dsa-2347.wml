@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e70852539c5e80b10bd7327d3c5d146358ba0840" mindelta="1"
 <define-tag description>ukorrekt assert</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at BIND, en DNS-server, gik ned når den behandlede visse 

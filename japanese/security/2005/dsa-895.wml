@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b791730e61f6df891c335d141ff7b3c796b06b6b"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>山本将也さんが、柔軟性の高い入力メソッド集およびライブラリ uim

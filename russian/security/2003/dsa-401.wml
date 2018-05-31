@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="98017460c9492e85efa3e634602b65182ceba72c"
 <define-tag description>строки формата</define-tag>
 <define-tag moreinfo>
 <p>Команда безопасности SuSE обнаружила несколько уязвимостей строк

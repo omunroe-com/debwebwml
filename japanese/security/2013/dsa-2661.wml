@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e52ae82010f174668775e3726d5f6d91252d05f1"
 <define-tag description>情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>Red Hat の David Airlie さんと Peter Hutterer さんが、X.Org X サーバ

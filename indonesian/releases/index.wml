@@ -1,6 +1,6 @@
 #use wml::debian::template title="Rilis Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.67" maintainer="Izharul Haq"
+#use wml::debian::translation-check translation="84ca2bf484c253718b61ee4deff8b94f3a2088fd" maintainer="Izharul Haq"
 # Original translation by T. Surya Fajri <kilelme@gmail.com>
 
 <p>Debian selalu mempunyai paling tidak

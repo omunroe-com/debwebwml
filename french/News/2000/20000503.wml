@@ -2,7 +2,7 @@
 2.2 a commencé</define-tag>
 <define-tag release_date>2000-05-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="1a8626fae1df15924d17633643edb17df0f236f0" translation_maintainer="Martin Quinson"
 
 <p>«&nbsp;Le premier cycle officiel de test a commencé aujourd'hui&nbsp;» a
 affirmé Richard Braakman, l'actuel manager des versions Debian. Ceci

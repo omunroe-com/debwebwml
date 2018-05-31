@@ -1,5 +1,5 @@
 #use wml::debian::template title="Scrutin sur la résolution générale&nbsp;: État de la section non-free" BARETITLE="true"
-#use wml::debian::translation-check translation="1.4" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="e74c3fb0292e5eb9c4ffb3b534f6feaac88bf71b" maintainer="Nicolas Bertolissio"
 #include "$(ENGLISHDIR)/vote/style.inc"
 
 <table width="90%">

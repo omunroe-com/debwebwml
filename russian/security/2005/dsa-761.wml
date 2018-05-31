@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="83801bb1f88d59acab6d62e756c56d828d1ee1b7" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>Обновление безопасности DSA 761-1 для heartbeat содержит ошибку, которая вызвала

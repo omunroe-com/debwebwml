@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="699b93b1ca55f594ba2ec6e716cac0aa9a006918" maintainer="Lev Lamberov"
 <define-tag description>небезопасный временный файл</define-tag>
 <define-tag moreinfo>
 <p>Эрик Романг обнаружил, что xpvm, графическая консоль и монитор для

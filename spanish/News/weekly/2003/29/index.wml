@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-07-22" SUMMARY="Empaquetamiento, Hospedaje, LinuxTag, DFSG, Java, fuentes, PNG, itinerario, lanzamiento, Unicode, FDL, CD"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Bienvenidos a la edición número 29 de este año de las DWN, el boletín semanal
 de la comunidad de Debian. Linus Torvalds esta trabajando con las versiones pre

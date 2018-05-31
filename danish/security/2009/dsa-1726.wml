@@ -19,4 +19,4 @@ synkront.  Problemet vil snart blive rettet i version 2.0.1+dfsg1-1.2+etch0.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1726.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f772883067add20767982da8f7fb03fa39f41d27" mindelta="1"

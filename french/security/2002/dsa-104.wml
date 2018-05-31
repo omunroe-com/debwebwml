@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="f77dcec74045c09894712fc60c9fa2a617752580" maintainer="Pierre Machard"
 <define-tag description>Attaque de type déni de service</define-tag>
 <define-tag moreinfo>
 <p>Larry McVoy a trouvé un bogue dans le paquet traitant le code pour

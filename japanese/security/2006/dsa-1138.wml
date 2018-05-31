@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="50cf8f102eb8a72dcbf06fce199ef917b9d71862"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Carlo Contavalli さんにより、暗号化ファイルシステム CFS に整数オーバフローが発見されました。

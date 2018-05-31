@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-02-15" SUMMARY="DAM, Installer, Packaging, DebConf, udev, Config, History, Bounces"
-#use wml::debian::translation-check translation="1.13" maintainer="Ondrej Cecak"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Ondrej Cecak"
 
 <p>Vítejte u&nbsp;letošního 7. vydání DWN, týdenního zpravodaje pro komunitu
 okolo Debianu. Právní profesionálové v&nbsp;Austrálii <a

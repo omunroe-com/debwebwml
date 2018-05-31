@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="91fae6072159043087081679949426134b9e6676"
 <define-tag description>ヒープ由来のバッファオーバーフロー</define-tag>
 <define-tag moreinfo>
 

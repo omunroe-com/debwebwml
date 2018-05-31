@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0b5b075b4e10f65267c8f59062e96b588d613c95" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В gnump3d, сервере потокового вещания файлов MP3 и OGG, было обнаружено

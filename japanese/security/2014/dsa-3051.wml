@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="80fcedffb55ea69b4f47eb4500d1d2bcff2059f1"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Stefan Horst さんが Drupal のデータベース抽象化APIに脆弱性を

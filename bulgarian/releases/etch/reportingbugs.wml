@@ -1,5 +1,5 @@
 #use wml::debian::template title="Дебиан ГНУ/Линукс 4.0 -- Съобщаване за проблеми" BARETITLE=true
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a"
 
 <p>Грешки в <a href="releasenotes">бележките по изданието</a> следва да бъдат
 <a href="$(HOME)/Bugs/Reporting">докладвани като проблем</a> в псевдо-пакета

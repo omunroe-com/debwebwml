@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="476a7c958d957cde14dc91319c55a4653268ed09" maintainer="Lev Lamberov"
 <define-tag description>инъекция кода</define-tag>
 <define-tag moreinfo>
 <p>Штефан Эссер обнаружил, что реализация переменной настройки max_input_vars

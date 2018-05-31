@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-basierte TelemetryBox-Distribution freigegeben</define-tag>
 <define-tag release_date>2001-01-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="40b15fedc3d6fe7b99dc0cdc73c7c10d0fb81420"
 # $Id$
 
 <p>Die Version 1.0 der TelemetryBox-Distribution wurde endlich freigegeben.

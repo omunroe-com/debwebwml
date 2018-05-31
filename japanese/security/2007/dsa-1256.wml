@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="38acabf023ca8dec9e06b1919c9bcacdd96a416a"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>GTK+ グラフィカルユーザインターフェイスライブラリの画像読み込みコードが、

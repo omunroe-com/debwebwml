@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a9b7bd7fe55f183a6167efe3d261d8a8d40452f4" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;infamous41md&nbsp;» a découvert un dépassement de tampon dans htget,

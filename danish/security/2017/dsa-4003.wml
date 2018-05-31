@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6e82a156316d74dbfec055bb7f7865f031c9492a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Daniel P. Berrange rapporterede at Libvirt, et abstraktionsbibliotek til 

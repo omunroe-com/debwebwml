@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="36019994be1329108c31718380dc3d62bc84fa98" mindelta="1"
 <define-tag description>manglende spredning af tainted-flag</define-tag>
 <define-tag moreinfo>
 <p>Mark Martinec opdagede at Perl på ukorrekt vis tømmet tainted-flaget ved 

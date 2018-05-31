@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="57522ed06a3de36e4fe5fc3386728a4813c077db"
 <define-tag description>/tmp にあるファイルを安全でない方法で開く</define-tag>
 <define-tag moreinfo>
 <p>前のバージョンの mailx が /tmp

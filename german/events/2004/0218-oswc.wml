@@ -26,7 +26,7 @@ ehemalige und der aktuelle Debian-Projekt-Leiter.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="f07f13607cef44a50d3af4252ab7ab2b182b0dea"
 # $Id$
 #Related Links here (free form)
 <ul>

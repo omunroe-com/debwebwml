@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="739e88d4a6dc19805b20647d07a73fce08505969" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adskilige sikkerhedsproblemer er fundet i Icedove, Debians udgave af 

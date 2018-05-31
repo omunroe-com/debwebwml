@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7de14c950a9103b766dedf2679b087d9c89d5bda" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Alvaro Munoz och Christian Schneider upptäckte att jython, en

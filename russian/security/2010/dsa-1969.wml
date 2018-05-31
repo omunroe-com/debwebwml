@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8925b9dfda2b22e6cf7c3a6a1dc16d9818f5b55f" maintainer="Lev Lamberov"
 <define-tag description>отрицательное переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что krb5, система для аутентификации пользователей и служб в

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="ba8fdddc9e6cca16be38a6f60d1b61a79f80fc04"
 <define-tag description>ヒープオーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>ヒープオーバーフローがウイルススキャナ ClamAV

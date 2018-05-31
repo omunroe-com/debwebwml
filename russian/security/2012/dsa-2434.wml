@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4f00af446769c7ac488a3221255daa5ef0475f51" maintainer="Lev Lamberov"
 <define-tag description>утечка чувствительной информации</define-tag>
 <define-tag moreinfo>
 <p>Мэтью Долэй обнаружил раскрытие содержимого памяти в nginx. В

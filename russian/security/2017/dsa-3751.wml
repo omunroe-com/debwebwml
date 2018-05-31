@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="39f1d46ea5f3ba2ce8f2602bb0975ef8f7108898" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В функции gdImageFillToBorder в libgd2, библиотеке для создания и

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="09bb9d549a46131936f0ac5ec411977eb1bae5f7"
 <define-tag description>configurações não honradas</define-tag>
 <define-tag moreinfo>
 <p>Haris Sehic descobriu várias vulnerabilidades no viewcvs, um utilitário

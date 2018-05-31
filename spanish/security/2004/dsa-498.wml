@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0e9e17e8f85b22b30ad4a06b2e793e3305ce2374"
 <define-tag description>acceso fuera de los límites</define-tag>
 <define-tag moreinfo>
 <p>Steve Grubb descubrió un problema en la biblioteca Portable

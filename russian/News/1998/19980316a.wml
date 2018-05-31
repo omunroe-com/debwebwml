@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e92b829243f5791757e904bb5f1ef91a5afbc3b6" maintainer="Lev Lamberov"
 <define-tag pagetitle>Президент SPI передаст мировым лидерам сообщение от сообщества свободного ПО!</define-tag>
 <define-tag release_date>1998-03-16</define-tag>
 #use wml::debian::news

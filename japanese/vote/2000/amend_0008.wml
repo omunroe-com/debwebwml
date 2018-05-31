@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="0a6afc81debce6d59c16a2c8273b3c9d18194be2"
 <define-tag pagetitle>修正案の状態</define-tag>
 <define-tag status>P</define-tag>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7dd09060d84901c4ebaad0c1b3d76727f013b75d"
 <define-tag description>estouros de buffer, estouro de inteiro</define-tag>
 <define-tag moreinfo>
 <p>Vários estouros de inteiro foram encontrados pelos autores da libpng,

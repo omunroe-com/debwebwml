@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f4e83afecd0360a633ee87dafb1926d3e8134d88"
 <define-tag description>osäker temporär katalog</define-tag>
 <define-tag moreinfo>
 <p>Dan Rosenberg upptäckte att ljudservern PulseAudio skapar en

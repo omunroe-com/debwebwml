@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="c524c02bc90e4ff2aa42301255a8caf17b651219" maintainer="Thomas Péteul"
 
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>

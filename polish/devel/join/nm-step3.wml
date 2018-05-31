@@ -1,6 +1,6 @@
 #use wml::debian::template title="Krok 3: Filozofia i Procedury" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.30"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9"
 
 <p>Informacje zawarte na tej stronie, mimo że dostępne publicznie, 
 będą interesujące głównie dla przyszłych Deweloperów Debiana.</p>

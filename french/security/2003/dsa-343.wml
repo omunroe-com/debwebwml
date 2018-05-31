@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a27186426d8f2ab23893ddc98301006e7cd50459" maintainer="DFS Task Force"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p><i>skk</i> (programme de conversion Simple Kana à Kanji), ne prend pas

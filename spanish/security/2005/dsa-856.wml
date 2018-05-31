@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="f8b356fe6a46ae8ce64d8d433ec3f7074e46ddc9" maintainer="Juan M. Garcia"
 <define-tag description>error de diseño</define-tag>
 <define-tag moreinfo>
 <p>Arc Riley descubrió que py2play, un motor de juegos de red extremo a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="03992bfe4299066608ea69ac2c49492c07265f00" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhed i forbindelse med udførelse af skripter på tværs af websteder er 

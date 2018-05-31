@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="348cd8e41e3e987737973954c883a479db098f86" translation_maintainer="Michelle Ribeiro"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Buffer overflows graves foram corrigidos na biblioteca "ncurses" em Novembro de 2000. 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4d60b553e2fc2e049569ddfdadbce9eb4011d97c"
 <define-tag description>ssl 証明書のホスト名を確認していない</define-tag>
 <define-tag moreinfo>
 <p>Scott Cantor さんが cURL、ファイル取得ツールの CURLOPT_SSL_VERIFYPEER

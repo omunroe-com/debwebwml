@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="74b06cbe89e6b23a113e5055178fed475dc855b2" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Дерек Принц, текущий сопровождающий CVS, обнаружил переполнение

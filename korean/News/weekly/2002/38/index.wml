@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-10-01" SUMMARY="Debian Uses, Smart Cards, Manpage translations, Debiandoc, Indy Booting, Hackmeeting"
 # $Id$
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>데비안 주간 새소식 2002년 38호. 이번에는 Ludovic Rousseau와 
 Andrew Pollock이 제공한 내용을 포함시켰다. 4년이 넘는 계산 노력과 수백만

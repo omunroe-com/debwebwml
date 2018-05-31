@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-05-03" SUMMARY="リーダーシップ, PHP, リリース, 管理, DebConf, Scheme, BSP, ウェブアプリケーション"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="29fcd200d6f21585d73e0e7d5c4755438f14a656"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリニュースの今年の第 18 号へようこそ。作業中のテスト版キューのヒントを 1 つ。

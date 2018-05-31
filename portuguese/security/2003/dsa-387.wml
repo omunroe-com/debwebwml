@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d2338be941e3d4dc61d3c91deadc3192c3e3fe7c"
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
 <p>gopherd, um servidor de gopher da Universidade do Minnesota, contém um

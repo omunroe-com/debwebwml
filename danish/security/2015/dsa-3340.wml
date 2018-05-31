@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8ec40606ef1e00493faf47c8147a984ad2e0b69a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Dawid Golunski opdagede at når der blev afviklet under PHP-FPM i et 

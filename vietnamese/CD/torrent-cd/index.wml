@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.33" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
 #use wml::debian::cdimage title="Tải về ảnh CD Debian bằng BitTorrent" BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"

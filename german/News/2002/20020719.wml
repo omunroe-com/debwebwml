@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 3.0 freigegeben</define-tag>
 <define-tag release_date>2002-07-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 
 <p>Das Debian-Projekt freut sich, das Release von Debian GNU/Linux 3.0

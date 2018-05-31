@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="e6d5c8c59074476eb0aa99d4c70c2262880283af" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 

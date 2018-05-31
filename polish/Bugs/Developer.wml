@@ -1,6 +1,6 @@
 #use wml::debian::template title="System śledzenia błędów - informacje dla deweloperów" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="1.96"
+#use wml::debian::translation-check translation="c320d7b5e79f935752641cf6bfb1a8d25e4a2d72"
 
 <h1>Informacje dotyczące systemu obsługi błędów dla opiekunów 
 pakietów i osób zajmujących się obsługą błędów.</h1>

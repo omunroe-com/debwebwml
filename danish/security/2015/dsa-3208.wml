@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3f1792eead47f3e1af3e5109e7819f029a14f292" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jodie Cunningham opdagede adskillige sårbarheder i freexl, et bibliotek til 

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Slinkfrysning och IRC-party</define-tag>
 <define-tag release_date>1998-10-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="7ab66253d36ba0d83f4cb1eca2b0c7710cf030d4"
 
 <p>Frysningen av Debian GNU/Linux 2.1 <q>Slink</q> kommer att ske fredag 16 oktober
 00:00 UTC.

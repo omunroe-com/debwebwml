@@ -15,5 +15,5 @@ zur Enthüllung beliebiger Dateien durch einen Symlink-Angriff führen kann.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1156.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="efa7c17deb36121095b8cf6c4d7bd779fab9f327"
 # $Id$

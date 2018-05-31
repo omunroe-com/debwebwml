@@ -1,5 +1,5 @@
 #use wml::debian::template title="Filspejling"
-#use wml::debian::translation-check translation="1.61"
+#use wml::debian::translation-check translation="bd86b0ad25988ff5a8899346e64baf4909abd886"
 
 <p>Debian distributeres over hele verden ved hjælp af filspejle (mirrors), for 
 at give brugerne bedre adgangsforhold til vores arkiv.</p>

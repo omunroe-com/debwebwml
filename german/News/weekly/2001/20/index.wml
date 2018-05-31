@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-09-03" SUMMARY="Lintian, Archive"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="2d59aef33dafdeac2208fa5aca2f3cf72e47800a"
 # $Id$
 
 <p><strong>Debian für Profis.</strong> Das deutsche Computermagazin c't hat in

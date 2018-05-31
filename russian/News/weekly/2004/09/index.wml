@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-02" SUMMARY="Выборы, Дистрибутив, RAID, Многоархитектурные платформы, несвободное ПО, Firefox, PPD, Apache, OPL"
-#use wml::debian::translation-check translation="1.9" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Lev Lamberov"
 
 <p>Приветствуем вас в девятом за этот год выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian. 13 марта пройдёт <a

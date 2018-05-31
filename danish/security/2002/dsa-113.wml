@@ -19,5 +19,5 @@ brugere omgående opgraderer ncurses.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-113.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="348cd8e41e3e987737973954c883a479db098f86"
 

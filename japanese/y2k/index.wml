@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian の西暦 2000 年問題" GEN_TIME="yes"
 #use wml::fmt::url
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="065b283f5cc2262459236e07deb01a3a086f1ef3"
 
 <p>Debian の掲げる目標のひとつは、もっとも堅牢なシステムを提供すること
 にあります。私たちはこの目標を達成するために、完全にシームレスなアップ

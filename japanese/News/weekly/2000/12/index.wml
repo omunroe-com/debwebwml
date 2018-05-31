@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2000-04-19" SUMMARY="新規メンテナ加わる; まもなくテストサイクル開始"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>
 <b>ようこそ</b>。Debian 開発者のみなさん向けニューズレター、

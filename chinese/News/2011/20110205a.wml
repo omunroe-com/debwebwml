@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 6.0 “Squeeze” 正式發行</define-tag>
 <define-tag release_date>2011-02-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7" maintainer="Kanru Chen"
+#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7" maintainer="Kanru Chen"
 
 <p>經過 24 個月不停的開發，Debian 計畫很榮幸在此宣佈推出新的穩定版：
 Debian 6.0 (代號 “Squeeze”)。Debian 6.0 作為一個自由的作業系統，這是

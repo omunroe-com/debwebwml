@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1897b2010fd6a1fac88ee765794ed90da4c2ec76" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Кис Кук из команды безопасности ChromeOS обнаружил переполнение буфера

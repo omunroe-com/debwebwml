@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a9a5f6f7acf365876e148163c1421cc4d457a098" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans opdagede at GStreamer 1.0-plugin'en, som anvendes til at dekode 

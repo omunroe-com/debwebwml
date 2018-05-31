@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f03c9e254733c4b7a7956dd25e867df9b7b0f2df" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ett heltalsspill har upptäckts i HTTP range-modulen av Nginx, en

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b77a9ed31d1624d5e59b5b4ac87262c7e61d1673"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Zen-parse descobriu um buffer overflow no gv, um visualizador de

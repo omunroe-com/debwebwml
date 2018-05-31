@@ -17,4 +17,4 @@ der indeholdt tomme strenge.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2111.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="73500fe7e3b6df058c6e8ec2a2e31f913a07e4a4" mindelta="1"

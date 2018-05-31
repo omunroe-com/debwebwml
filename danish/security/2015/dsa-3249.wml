@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="21474b4db8b5c37557c2f2b2e8cd28034350d764" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Shadowman131 opdagede at jqueryui, et JavaScript UI-bibliotek til dynamiske 

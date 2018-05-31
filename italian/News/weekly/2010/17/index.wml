@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-12-08" SUMMARY="Debian GNU/Linux aggiornata: rilasciata la versione 5.0.7, Sprint Debian WWW, Supporto a ZFS in <q>Squeeze</q>"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="64a931c5064583fdfbe7bf218bffe9344e4ae65a"
 <define-tag MID whitespace=delete>https://lists.debian.org/$0</define-tag>
 
 <!--

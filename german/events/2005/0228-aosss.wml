@@ -26,7 +26,7 @@ Vortrag über das Debian-Projekt halten.</p>
 
 #use wml::debian::past_event
 # $Id$
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="13e8d915fd51162ad3c0170614d08cb702f99678"
 #Related Links here (free form)
 <ul>
  <li><a href="http://debian.org.cn/events/admc2005/schedule/view">Zeitplan der Debian Mini-Conf</a>

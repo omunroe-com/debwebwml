@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="ff2af7496b30316ad5253c65f3adc21e85e914ea" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Martijn Wargers et Nick Mott ont décrit des plantages de Mozilla causés par

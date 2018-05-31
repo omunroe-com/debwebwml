@@ -1,6 +1,6 @@
 # From: Grzegorz Majewski <rydzyk@gmail.com>
 # Current as of 2016/06/18
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="49a4209113e8bbb7af03aa13f9fa2d8a312bcdad" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>System rezerwacji online Nakiedy, Гданьск, Польша</define-tag>
 <define-tag webpage>https://www.nakiedy.pl/</define-tag>

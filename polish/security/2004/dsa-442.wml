@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer=""
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea" maintainer=""
 <define-tag description>kilka naruszeń bezpieczeństwa</define-tag>
 <define-tag moreinfo>
 <p>Usunięto kilka problemów związanych z bezpieczeństwem w jądrze Linuksa

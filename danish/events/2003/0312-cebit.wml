@@ -29,7 +29,7 @@ foredrag som dækker brugen af Debian GNU/Linux i forretningsmiljøer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="5e446b5a4f29264e725120ea97733728f1b8de1b"
 #Related Links here (free form)
 <ul>
   <li><a href="0312-cebit-report">Rapport</a><br></li>

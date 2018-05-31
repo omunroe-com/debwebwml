@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-11-12" SUMMARY="Debian 用のコード検索エンジン、DPL からの一言、<q>Wheezy</q> のリリースに一歩近付く"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97"
 
 # $Rev: 4375 $
 # Status: [frozen]

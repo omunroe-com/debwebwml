@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4e5de6a3a36cc739b0862edf3d88880e5a587c12"
 <define-tag description>SQL インジェクション</define-tag>
 <define-tag moreinfo>
 <p>Neil McBride さんが、ウェブベースの写真管理システム Zoph

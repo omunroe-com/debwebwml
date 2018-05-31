@@ -2,7 +2,7 @@
 <define-tag release_date>2004-03-30</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="0d50171c51f96fa7187be1c1536a183f51fd63f0"
 
 # Debian セキュリティ勧告は CVE と互換性があります
 

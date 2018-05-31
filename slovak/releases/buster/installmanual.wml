@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian buster -- Inštalačná príručka" BARETITLE=true
 #use wml::debian::release
-#use wml::debian::translation-check translation="1.2" maintainer="Ivan Masar"
+#use wml::debian::translation-check translation="a88cfbde1da751dce0eda78e677f2313dbf4a479" maintainer="Ivan Masar"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/buster/release.data"

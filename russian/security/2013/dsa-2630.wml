@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0df7ab72a9f485ce1c0b6619e4a9af941d3b18aa" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Сумит Сони обнаружил, что PostgreSQL, объектно-ориентированная база данных SQL,

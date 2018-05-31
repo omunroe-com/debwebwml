@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="Courriel"
-#use wml::debian::translation-check translation="1.5" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="65ce0453b9acfcfb363f964e34b51f8aab309807" maintainer="Thomas Huriaux"
 
 Un peu plus de courriels que d'habitude&nbsp;; les archives des listes
 sont partiellement cassées.

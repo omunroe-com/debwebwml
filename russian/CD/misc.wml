@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Образы компакт-дисков Debian - различные вопросы" BARETITLE=true
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="064da998e8fb972077f1cd697cdea4034a9e4ac5"
 
 <p>На следующие страницы нет непосредственных ссылок из меню
 наверху каждой страницы:</p>

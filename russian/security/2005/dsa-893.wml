@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="addc61ecdf4acb05991f97207f3eb3ff93df5b93" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки входных данных</define-tag>
 <define-tag moreinfo>
 <p>Ремко Вкрхоф обнаружил уязвимости в acidlab, Analysis

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="eb22fddc523a7a9a4544a7c1ef144e415b8d2d73" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Мы получили сообщение о том, что сценарий faxsurvey, который был включён в
 предыдущие выпуски hylafax, может выполнять произвольные команды.

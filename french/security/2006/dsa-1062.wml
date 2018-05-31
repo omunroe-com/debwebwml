@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="b9ce84df0080a6c1d0bab1819d6e3b94bfd03225" maintainer="Simon Paillard"
 <define-tag description>Création de fichier non sécurisée</define-tag>
 <define-tag moreinfo>
 <p>Sven Dreyer a découvert que KPhone, un client de voix sur IP pour KDE,

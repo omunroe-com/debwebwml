@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f87d86ac3b2541a4c2f36bb0b57f9774005f9f4f" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sikkerhedsproblemer blev fundet i Icedove, Debians version af mail- og 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c13fb49fb04d3b39e6e9a2f23e3b794802d82bdc"
 <define-tag description>バッファオーバフロー、メモリの二重開放</define-tag>
 <define-tag moreinfo>
 <p>Daniel Wachdorf さんが、ネットワーク認証に利用される MIT krb5

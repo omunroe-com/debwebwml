@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c049f2dce646bf8089126a7b3b2a50add8ab74f7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В mediawiki, движке wiki, была обнаружена уязвимость. thumb.php выводит

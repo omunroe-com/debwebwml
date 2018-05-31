@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4f2a4678d1f7446ddbbe6cc9cbb075c38942c7f5" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Michael Meffie opdagede at i OpenAFS, et distributeret filsystem, kunne en 

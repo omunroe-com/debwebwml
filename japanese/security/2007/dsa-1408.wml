@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f3f2292877c30bc250d73261a6cb808411f75f9f"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Alin Rad Pop さんにより、kpdf にバッファオーバフローが発見されました。こ

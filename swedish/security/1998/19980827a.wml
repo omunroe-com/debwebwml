@@ -10,4 +10,4 @@ felaktiga skriptet har bara tagits bort.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19980827a.data'
-#use wml::debian::translation-check translation="1.7" mindelta="1"
+#use wml::debian::translation-check translation="eb22fddc523a7a9a4544a7c1ef144e415b8d2d73" mindelta="1"

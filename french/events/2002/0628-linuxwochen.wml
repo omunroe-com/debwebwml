@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="572a076536ac8162fc302940e3bca62305311aca" maintainer="Nicolas Bertolissio"
 <define-tag abbr>Linuxwochen</define-tag>
 <define-tag year>2002</define-tag>
 <define-tag pagetitle>1re LinuxWochen</define-tag>

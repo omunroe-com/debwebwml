@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="97206df41c425e1c1ec88848d93fd6247c601f33"
 <define-tag description>入力のサニタイズ不足</define-tag>
 <define-tag moreinfo>
 <p>Thomas de Grenier de Latour さんにより、debian-goodies ユーティリティプ

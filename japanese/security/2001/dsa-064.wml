@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="47dab89886b1a634b9c1913fa847ab2affa7022a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 SecureNet サービス社から w3m (コンソール用ウェブブラウザ) の MIME ヘッダ

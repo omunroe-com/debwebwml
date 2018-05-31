@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="40ce2126ebd87d862207b8d6d96677e0b1338a36"
 <define-tag description>denegación de servicio remota / explotación</define-tag>
 <define-tag moreinfo>
 <p>Mark Litchfield encontró un ataque de denegación de servicio en el

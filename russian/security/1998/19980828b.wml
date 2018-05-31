@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f0ec8942dbe43e07744303cf2c915c9eba3d548e" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Мы получили сообщения о новом способе атаки по принципу отказа в обслуживании, которая привела к
 отключению новостных систем INN.  Кто-то отправил большое количество сообщений sendsys

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ec2fb54b2aa898630f9f324f8e34cb7d671c2f07"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Google セキュリティチームの Ivan Fratric さんが LibYAML、高速な YAML 1.1

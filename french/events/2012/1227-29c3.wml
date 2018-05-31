@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="David Prévot"
 <define-tag abbr>29C3</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>29<sup>e</sup> Congrès Chaos Communications (29C3)</define-tag>

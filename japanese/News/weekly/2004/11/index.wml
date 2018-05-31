@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-16" SUMMARY="成功, non-free, init, USB フラッシュ, Subversion, BTS, インストール, ハードウェア, CeBIT, CD, BSP"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="6e323e6863dfd693fe262e55a63a510f1c56ac72"
 
 <p>Debian コミュニティのために週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 11 号へようこそ。Ludovic Brenta

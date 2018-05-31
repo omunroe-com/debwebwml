@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="1f3f4dde7f86f41fbc06311876c99a371732d2f7" maintainer="Juan M. Garcia"
 <define-tag moreinfo>Colin Phipps encontró un interesante problema de ataque
 simbólico en fsh (una herramienta para lanzar rápidamente comandos remotos
 sobre rsh/ssh/lsh). Cuando se inicia fshd, crea un directorio en /tmp para

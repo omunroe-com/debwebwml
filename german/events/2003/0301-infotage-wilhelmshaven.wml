@@ -23,6 +23,6 @@ Hartmut Koptein wird einen Vortrag über die Wahl für Debian GNU/Linux halten.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="61d2ad0b5bbca3a3d27c20d7078e0109595801c3"
 # $Id$
 #Related Links here (free form)

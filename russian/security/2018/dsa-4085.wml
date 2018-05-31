@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="210c3ba2abb6eba5e3ff4a22da837c4d975cd427" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Филип Хуперт обнаружил, что Shibboleth, платформа предоставления сервиса,

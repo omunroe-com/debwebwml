@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="513fa91e4aa1f25e4f3c1174ea885b784bc400a9"
 <define-tag description>przepełnienie buforu</define-tag>
 <define-tag moreinfo>
 <p>Przepełnienie buforu zostało odkryte w dropbear, lekkim kliencie i

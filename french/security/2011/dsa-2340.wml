@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="9975e97b4d31e86bcc394220db727b8834737dfa" maintainer="David Prévot"
 <define-tag description>Hachage de mot de passe faible</define-tag>
 <define-tag moreinfo>
 <p>

@@ -18,4 +18,4 @@ filrettigheder på logfiler oprettet af ældre versioner af programmet.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1960.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="d28c5797adf307896a0bd578b4584c566f856475" mindelta="1"

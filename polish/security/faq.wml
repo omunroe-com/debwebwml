@@ -1,6 +1,6 @@
 #use wml::debian::template title="Najczęściej zadawane pytania nt. bezpieczeństwa Debiana"
 #include "$(ENGLISHDIR)/security/faq.inc"
-#use wml::debian::translation-check translation="1.87"
+#use wml::debian::translation-check translation="9a27273be95f6e5924bc26329458a358643507e2"
 
 <p>Poniższe pytania pojawiają się najczęściej, dlatego odpowiedzi na nie
 postanowiliśmy umieścić tutaj.</p>

@@ -20,5 +20,5 @@ Debian ディストリビューションではバージョン 1.10.7-9
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-117.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="aee33e673fa636f3bbea34f5edee0e75fdfb9755"
 # $Id$

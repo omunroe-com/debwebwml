@@ -110,4 +110,4 @@
 #include "$(ENGLISHDIR)/security/2007/dsa-1356.data"
 # $Id$
 # Translator: Helge Kreutzmann <debian@helgefjell.de>, 2008-07-06
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2"

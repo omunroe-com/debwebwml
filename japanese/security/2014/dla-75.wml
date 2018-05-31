@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c56b457d31a35cdfc3ec5ac83b867afb9606987b"
 <define-tag description>LTS セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>この更新では重大な脆弱性1件 (<a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b546da30c30e6c5a85f9f9cf90592e33082ba63a"
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>"jaguar" descobriu dois problemas relevantes à segurança no gopherd,

@@ -40,5 +40,5 @@ Version 4.20.0-9 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-813.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bfd98cdeb277ecd87722d15f278bdbeaf21a946f" mindelta="1"
 # $Id$

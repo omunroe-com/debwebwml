@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f4b2916bc3b514d3d613eb8adc8f5228cdfcd4eb"
 <define-tag description>sanitização da entrada do usuário ausente</define-tag>
 <define-tag moreinfo>
 <p>Davide Del Vecchio descobriu uma vulnerabilidade no mpg123, um player

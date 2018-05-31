@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="898c2200ceb1c05065e4dd35c0ea88975029aeb1"
 <define-tag description>ヒープベースのバッファオーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>Yves Younan さんと Ryan Pentney さんが libgadu、Gadu-Gadu

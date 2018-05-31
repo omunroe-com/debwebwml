@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="487dda856f92f6f5f76c0266911099d0832304d4"
 <define-tag description>LTS セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>テキストベースのメールリーダー mutt に欠陥が発見されています。

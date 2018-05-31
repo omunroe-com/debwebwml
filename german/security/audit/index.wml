@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian-Sicherheits-Audit-Projekt"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="57f73cd8cc7f0c94f280e3444c075d201e8d42a8"
 # $Id$
 # Translator: Tobias Toedter <t.toedter@gmx.net> 2004-06-15
 

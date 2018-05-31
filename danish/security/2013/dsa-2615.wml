@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="088e040ce6038d6d3f669175ef7e7ee3c2006aeb" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere stakbaserede bufferoverløb blev opdaget i libupnp4, et bibliotek til 

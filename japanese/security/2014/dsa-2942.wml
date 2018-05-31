@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="369e987027dbb08ef5afa7ee048411b1958be0bb"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Typo3 CMS にセキュリティ問題が複数発見されています。

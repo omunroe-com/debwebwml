@@ -17,4 +17,4 @@ disse problemer snart blive rettet.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2011.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ad6f32a8a65d2ea301db7d0fde758c690fac9186" mindelta="1"

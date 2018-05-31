@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914" maintainer="Lev Lamberov"
 <define-tag description>атака через форматную строку printf</define-tag>
 <define-tag moreinfo>
 Пакет gftp, поставляемый в составе Debian GNU/Linux 2.2, содержит проблему

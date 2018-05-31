@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="348f1200424e4cf2887e5de7300e7d8de80c7ff2" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Charlie Smurthwaite från aTech Media upptäckte en brist i HAProxy,

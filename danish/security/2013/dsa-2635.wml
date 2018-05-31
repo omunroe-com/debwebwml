@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="49a739be7e0e7d2bbae62d3f93205de0565f36aa" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Malcolm Scott opdagede et fjernudnytbart bufferoverløb i RFC1413-klienten 

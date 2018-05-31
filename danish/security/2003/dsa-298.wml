@@ -21,4 +21,4 @@ pre2.508-2.3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-298.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8a25c7efee2b657b84dc9c3ec1aa453334eee62d"

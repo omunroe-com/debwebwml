@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.lavozdegalicia.es/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3" maintainer="Pierre-Louis Vignot"
+#use wml::debian::translation-check translation="d62d78d3ad28c198332895916839459e06c012f6" maintainer="Pierre-Louis Vignot"
 
 <p>
 Nous disposons d'environ une trentaine de serveurs qui fonctionnent avec Debian

@@ -1,6 +1,6 @@
 #use wml::debian::template title="데비안 &ldquo;테스트&rdquo; 배포" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.40" maintainer="Sebul"
+#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2" maintainer="Sebul"
 
 <p>데비안 테스트 배포에 대한 기본적인, 사용자 지향 정보는,
 <a href="$(DOC)/manuals/debian-faq/ch-ftparchives#s-testing">데비안 FAQ</a>를 보세요.</p>

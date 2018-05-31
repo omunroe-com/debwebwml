@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="26745afd4737c05a2cf0189948cbd8c30bf32a8a" maintainer="Lev Lamberov"
 <define-tag description>некорректный отказ от привилегий, некорректные временные файлы</define-tag>
 <define-tag moreinfo>
 Колин Филипс и Дэниел Кобрас обнаружили и исправили несколько серьёзных

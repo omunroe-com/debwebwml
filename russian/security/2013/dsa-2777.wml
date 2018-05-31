@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f2e2c10066f8a2c2d5b0366ecc132049c16a36d9" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В systemd Себастианом Крамером и Флорианом Ваймером были обнаружены

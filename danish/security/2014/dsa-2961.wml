@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8f119c1c6e76e357c7a215dca17533ca68ee1559" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at PHP, et skriptsprog til generel anvendelse, som almindeligvis 

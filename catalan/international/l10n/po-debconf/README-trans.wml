@@ -1,5 +1,5 @@
 #use wml::debian::template title="Localització de plantilles de Debconf amb fitxers PO &mdash; Consells per als traductors"
-#use wml::debian::translation-check translation="1.10" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Guillem Jover"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
 
 <p>

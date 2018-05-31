@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="aa4c5bfb61791d854fa3e74e2ebcf9f55d532882" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Laurent Butti och Garming Sam upptäckte flera sårbarheter i dissektorerna

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ce0454c84f743d961090335c62b0ce69f5e4d58f"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que jackson-databind, una biblioteca Java utilizada para analizar sintácticamente

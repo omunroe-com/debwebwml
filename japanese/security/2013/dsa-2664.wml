@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="023e9a5865378046d0558188ac70e4f701b186d1"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>ネットワークデーモン用の汎用 SSL

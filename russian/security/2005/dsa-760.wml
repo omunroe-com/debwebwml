@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3b1ba3d70a5fe4590f1f656354a1598dc252b69f" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В ekg, консольном клиенте Gadu Gadu, программе для мгновенного обмена

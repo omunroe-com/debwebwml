@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="e2c1d2853ce3c1c7b0ca04f878788e32498bfaf3"
 <define-tag description>различные проблемы</define-tag>
 <define-tag moreinfo>
 <p>При проверке MySQL e-matters обнаружили несколько проблем:</p>

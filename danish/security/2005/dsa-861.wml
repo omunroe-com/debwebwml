@@ -17,4 +17,4 @@ version 2002edebian1-11sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-861.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="51f874fb262eec870d6f8a20b72640eb894cc361" mindelta="1"

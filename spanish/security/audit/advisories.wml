@@ -1,6 +1,6 @@
 #use wml::debian::template title="Avisos de la auditoría de seguridad"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.21" maintainer="juanma"
+#use wml::debian::translation-check translation="0ad4d180b114f128c3363384351694a7bbe6a069" maintainer="juanma"
 
 <p>Aquí puede ver los últimos avisos que se han publicado, como resultado directo de este proyecto de auditoría:</p>
 

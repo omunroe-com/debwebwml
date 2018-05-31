@@ -1,7 +1,7 @@
 <define-tag pagetitle>Nouveau miroir de sécurité Debian pour l'Asie</define-tag>
 <define-tag release_date>2015-02-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="8c6204b83ec68bf8a308e6a7d06e552f9fdf898e" maintainer="Cédric Boutillier"
 
 <p>
 Le projet Debian est heureux d'annoncer la disponibilité d'un nouveau miroir de sécurité

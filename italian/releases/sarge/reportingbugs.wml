@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 3.1 -- Segnalare problemi" BARETITLE=true
-#use wml::debian::translation-check translation="1.4" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a" maintainer="Luca Monducci"
 
 <p>Se si incontra un problema con il sistema di installazione, per favore lo si
 segnali addebitandolo al pacchetto <tt>installation-reports</tt>. Riempire il

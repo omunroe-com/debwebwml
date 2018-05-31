@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="89500d61e57dbcb237a8b38bf42a960cd74ef2fd" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Jaguar descubrió una vulnerabilidad en un componente de xpcd, un visor

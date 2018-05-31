@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="53bf82f3a92612287a30149abda57760f0abddc6"
 <define-tag description>Desbordamiento de búfer potencial</define-tag>
 <define-tag moreinfo>
 <p>GOBBLES encontró un desbordamiento de búfer en gzip que ocurre al comprimir

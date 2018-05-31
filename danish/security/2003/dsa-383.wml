@@ -17,4 +17,4 @@ Design har fundet yderligere fire fejl i OpenSSH, som måske kan udnyttes.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-383.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="b1042b16690fce69511e94520a64624672dadb63" mindelta="1"

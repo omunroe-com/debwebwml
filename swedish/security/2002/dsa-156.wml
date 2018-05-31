@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4ce2f1ea053de49d2adede9a58d9bf648e6f229f" mindelta="1"
 <define-tag description>exekvering av godtyckliga skript</define-tag>
 <define-tag moreinfo>
 <p>

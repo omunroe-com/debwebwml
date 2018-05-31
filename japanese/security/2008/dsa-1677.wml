@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b52cc69ac2876df7be786758308998e89884713e"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>共通 Unix プリントシステム cupsys の画像検証コードに整数オーバフローが発

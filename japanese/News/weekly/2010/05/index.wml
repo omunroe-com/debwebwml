@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-06-14" SUMMARY="Debian コミュニティに対する世論調査、ハードウェアに必要なパッケージの自動インストール、<q>Squeeze</q> 用のデスクトップアートワークとテーマ"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl

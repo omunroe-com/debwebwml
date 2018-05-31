@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e2bd0950f0d0529228a60e4225e75057d0928e52" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Stefan Sperling upptäckte att pidgin-otr, en Pidgin-insticksmodul

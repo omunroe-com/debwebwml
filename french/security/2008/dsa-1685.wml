@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Stéphane Blondon"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2" maintainer="Stéphane Blondon"
 <define-tag description>Dépassement de tampon et déférencement de pointeur invalide</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités ont été trouvées dans uw-imap, une implémentation d'IMAP.

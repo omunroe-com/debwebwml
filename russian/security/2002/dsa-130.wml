@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="827ff392fe84fdd8b558605cd87e1c418f267a53" maintainer="Lev Lamberov"
 <define-tag description>удалённо вызываемая ошибка выделения памяти</define-tag>
 <define-tag moreinfo>
 <p>Утилита ethereal до версии 0.9.3 уязвима к ошибке выделения памяти, которая возникает

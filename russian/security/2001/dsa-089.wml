@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bbee56b8439219ab61abedae84c557d18f42baf9" maintainer="Lev Lamberov"
 <define-tag description>удалённая уязвимость суперпользователя (и другие проблемы)</define-tag>
 <define-tag moreinfo>
 <p>Пакет icecast-server (сервер потокового вещания музыки), поставляемый

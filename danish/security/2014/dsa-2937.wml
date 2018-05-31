@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="724a9cabb3855272825cbdee4a5208fc08f1611b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sikkerhedsproblemer er fundet i Pythons WSGI-adaptermodul til Apache:</p>

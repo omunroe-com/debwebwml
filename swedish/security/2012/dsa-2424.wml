@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bd00b3c138abe83311330fdd18668d56da35e187" mindelta="1"
 <define-tag description>extern XML-enhetsexpansion</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Perlmodulen XML::Atom inte inaktiverade

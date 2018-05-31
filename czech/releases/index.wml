@@ -1,6 +1,6 @@
 #use wml::debian::template title="Verze Debianu"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.67" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="84ca2bf484c253718b61ee4deff8b94f3a2088fd" maintainer="Miroslav Kure"
 
 
 <p>Debian vždy aktivně udržuje alespoň tři verze: <q>stabilní</q> (stable),

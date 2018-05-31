@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c0968cd5d4cfd7d145914d0c90a56116952da38b" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy upptäckte att patchen som släpptes för att rätta <a 

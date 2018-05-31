@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e8f432b37897ea68ae3c936c794d349a17b8504d"
 <define-tag description>ヒープベースのバッファオーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>Red Hat Product Security Team の Florian Weimer さんが LibYAML、高速な YAML 1.1

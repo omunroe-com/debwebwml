@@ -1,5 +1,5 @@
 #use wml::debian::template title="Пакеты, работа над которыми начата, отсортированные по времени" GEN_TIME="true"
-#use wml::debian::translation-check translation="1.1" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="9c91dafe36ecc3ea323c52c9c21d02f91dca4751" maintainer="Alexander Reshetov"
 
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
 

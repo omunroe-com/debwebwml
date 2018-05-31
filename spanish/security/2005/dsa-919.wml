@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="dcfa55dcb9b793a6b6e3cf755fc20a28947add0a" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>El desarrollador de curl, una biblioteca para la transferencia de

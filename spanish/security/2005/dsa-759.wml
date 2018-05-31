@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="f1bd270aa7a1a257f95fd0ba60d6d6f8efa1d82d" maintainer="Juan M. Garcia"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto una vulnerabilidad en phpgadmin, una serie de

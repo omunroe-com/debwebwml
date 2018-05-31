@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="2b7b5be18ec7b5398a5e3e3afd9904f760afa107" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Andrew V. Samoilov a découvert un dépassement de tampon non corrigé dans mc,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="001350b1aec94042a63f02fc0c3b4bb6b46b2b6b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Иржи Хорнер обнаружил способ, с помощью которого можно заставить xdg-open, инструмент для

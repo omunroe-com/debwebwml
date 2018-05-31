@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2e9648e703321331fd0056e32d12313488c80be6" maintainer="Lev Lamberov"
 <define-tag description>изменение umask по умолчанию</define-tag>
 <define-tag moreinfo>
 zen-parse сообщил через bugtraq о возможном переполнении буфера в

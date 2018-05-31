@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="58bb5942e6ae50ed9f7409b101aa9879aebefe6f"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が Oracle Java プラットフォームの実装である

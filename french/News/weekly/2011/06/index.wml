@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-04-18" SUMMARY="Coup d'envoi pour <q>Wheezy</q>, inscriptions et contributions pour DebConf11, rencontre des responsables de l'archive"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="David Prévot"
+#use wml::debian::translation-check translation="134c799c2f934b5ca7ed7cfb8842c0471814d549" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

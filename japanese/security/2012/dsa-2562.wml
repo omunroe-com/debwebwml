@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6a54e1130a478ff4ae59a5210738cddca5a35e83"
 <define-tag description>特権の昇格</define-tag>
 <define-tag moreinfo>
 <p>きめ細やかな権限で CUPS を設定する PolicyKit ヘルパーである cups-pk-helper

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="6cc2922c8710f3e7d410ee831cd52b7e7b2c7783" mindelta="1"
 <define-tag description>Kryptografisk svaghet</define-tag>
 <define-tag moreinfo>
 <p>

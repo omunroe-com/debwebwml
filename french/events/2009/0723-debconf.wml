@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="David Prévot"
+#use wml::debian::translation-check translation="fac261268f3a958c28bb81a6c6c5376088fb9ff8" maintainer="David Prévot"
 <define-tag abbr>DebConf9</define-tag>
 <define-tag year>2009</define-tag>
 <define-tag pagetitle>Conférence Debian</define-tag>

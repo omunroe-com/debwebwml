@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="843ae7579621dacf26ecf0bfb83ed130bf8838b1"
 <define-tag description>arquivo temporário inseguro</define-tag>
 <define-tag moreinfo>
 <p>Peter Samuelson, mantenedor original do bmw, um visualizador 

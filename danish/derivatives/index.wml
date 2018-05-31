@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian-derivativer"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="1b62dcf348569f7b3d0975c674a776e714dc31fc"
 
 <p>Der er et <a href="#list">antal distributioner</a> baseret på Debian.  Nogle 
 personer kan have interesse i at kigge på disse distributioner, <em>ud over</em> 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="7b32c3703a94baceb03e81c056a1888d722ff7e7" maintainer="Pierre Machard"
 <define-tag description>Chaîne de format vulnérable et dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Deux problèmes différents ont été trouvé dans libgtop-daemon&nbsp;:</p>

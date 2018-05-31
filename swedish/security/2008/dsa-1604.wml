@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="e9bafcd753e828e83ea8a21cadc900565a610f85" mindelta="1"
 <define-tag description>förgiftad DNS-cache</define-tag>
 <define-tag moreinfo>
 

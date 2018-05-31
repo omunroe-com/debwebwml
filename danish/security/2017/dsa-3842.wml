@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="490ca505f90577b0623d6c1166729c095b05c3b9" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sårbarheder blev opdaget i tomcat7, en servlet- og JSP-motor.</p>

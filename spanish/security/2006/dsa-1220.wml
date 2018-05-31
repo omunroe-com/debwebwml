@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="05a9dbb8e5e0a02f3fa8dc9bdb2b34bbfb9ea726" maintainer="Juan M. Garcia"
 <define-tag description>citado inseguro de nombre de archivo</define-tag>
 <define-tag moreinfo>
 <p>Brian May descubrió que pstotext, una utilidad para extraer texto plano

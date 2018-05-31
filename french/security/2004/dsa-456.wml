@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea" maintainer="DFS Task Force"
 <define-tag description>Fonction défaillante et nettoyage des TLB</define-tag>
 <define-tag moreinfo>
 <p>Paul Starzetz et Wojciech Purczynski de isec.pl <a

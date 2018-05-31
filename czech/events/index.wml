@@ -1,5 +1,5 @@
 #use wml::debian::template title="Významné akce spojené s&nbsp;Debianem" BARETITLE=true
-#use wml::debian::translation-check translation="1.43" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="ffee6a44844c148ec5da04451b5e38a9b17ac341" maintainer="Michal Simunek"
 
 <p>Tato stránka obsahuje přehled událostí, kterých se Debian zúčastnil,
 účastní a bude účastnit.</p>

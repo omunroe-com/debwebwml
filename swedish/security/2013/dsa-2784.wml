@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3d5d744db772d6fa9af6e12ede9dc3a30ba064c6" mindelta="1"
 <define-tag description>användning efter frigörning</define-tag>
 <define-tag moreinfo>
 <p>Pedro Ribeiro upptäckte en användning efter frigörning i hanteringen av

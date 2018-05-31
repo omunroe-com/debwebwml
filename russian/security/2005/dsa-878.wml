@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8346659bed3644545fd92d72dc98eaf76a9b900f" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В компоненте pnmtopng пакета netpbm, набора инструментов для преобразования

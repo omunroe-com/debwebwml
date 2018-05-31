@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d3bcae2d503f783a8c84e27731248384185e9660" maintainer="Lev Lamberov"
 <define-tag description>сообщение об изменении PGP/GPG ключа команды безопасности Debian</define-tag>
 <define-tag moreinfo>
 <p>Настоящим уведомляем об изменении командой безопасности Debian контактного PGP/GPG

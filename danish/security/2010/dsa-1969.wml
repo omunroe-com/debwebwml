@@ -22,4 +22,4 @@ version 1.8+dfsg~alpha1-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1969.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8925b9dfda2b22e6cf7c3a6a1dc16d9818f5b55f" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="8f0b58b6fc05c2c8faad23a0daecdbfde6d217b1" mindelta="1"
 <define-tag description>otillräcklig städning av indata</define-tag>
 <define-tag moreinfo>
 <p>

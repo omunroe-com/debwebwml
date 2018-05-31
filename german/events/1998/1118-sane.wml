@@ -31,7 +31,7 @@ Debian-Projekt<br>
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="4baaa8285acd6ce08dcd20f0001f5c958be73b7b"
 # $Id$
 # Translator: Noèl Köthe, noel@koethe.net, 2001-08-14
 <ul>

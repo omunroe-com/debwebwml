@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux pour x86" BARETITLE=true
-#use wml::debian::translation-check translation="1.7" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="e9c587fe48386f2bedf1d5a6284b6959c2b4635c" maintainer="Jean-Paul Guillonneau"
 
 # Traducteur initial : Thomas Marteau.
 # Traducteurs suivants : voir journal.

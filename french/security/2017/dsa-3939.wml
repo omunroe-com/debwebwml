@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="dfa0f5b7123833f112ba15d483c8072455e06c11" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Aleksandar Nikolic a découvert qu'une erreur dans l'analyseur x509 de la

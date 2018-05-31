@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="03879326e6e316b4e9ddb2bccb17979a6701f811" maintainer="David Prévot"
 <define-tag description>Allocation illimitée de mémoire</define-tag>
 <define-tag moreinfo>
 <p>

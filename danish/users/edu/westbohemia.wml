@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.zcu.cz/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="c6204ccf8b8bd9cd38c833488e3ca628b23faacb"
 
 <p>
     Debian er vores primære platform på serversiden og vores understøttede

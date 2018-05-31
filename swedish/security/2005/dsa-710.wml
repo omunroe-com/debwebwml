@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="942b5c301b869b49f1d7528fa79c6d728257cb67" mindelta="1"
 <define-tag description>avrefererar en null-pekare</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d28e81b7a4ed61aacfbe403f8a99980a0c15bbf6" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>William Robinet og Michal Zalewski opdagede adskillige sårbarheder i 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a5dc01e85d756b308679d475768c28b942dab1c2" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Dmitry Kovalenko opdagede at databaseserveren Firebird var sårbar over for en 

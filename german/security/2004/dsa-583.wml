@@ -17,5 +17,5 @@ Version 1.0.8-8 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-583.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c1b68e94a6ddcb6320022438dd4e874ed0a8b3c9"
 # $Id$

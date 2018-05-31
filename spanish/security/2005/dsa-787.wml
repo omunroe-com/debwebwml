@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ecd3ea1de517c95d3d590b94ff8f40431043bfa4" maintainer="Juan M. Garcia"
 <define-tag description>permisos y archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto dos errores en backup-manager, una utilidad para

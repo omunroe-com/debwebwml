@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9d0f3ef3a7f90c983e77829065b525f860f6fabf" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckte att et heapbaserat buffertspill i

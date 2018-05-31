@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Lev Lamberov"
 <define-tag pagetitle>День Debian Med на DebConf 5 в Хельсинки</define-tag>
 <define-tag release_date>2005-06-14</define-tag>
 #use wml::debian::news

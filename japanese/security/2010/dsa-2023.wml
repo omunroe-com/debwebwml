@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bc75bfbd4b7e1bb1d595803cb3bde20d85c7310f"
 <define-tag description>バッファ オーバーフロー</define-tag>
 <define-tag moreinfo>
 

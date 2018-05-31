@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="4651234a5900c49bd4d0a45780872e1c05162526" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Lighttpd, un petit serveur web, est vulnérable à l'attaque POODLE grâce

@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.state.vt.us/tax/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="276ee7c4d8c9136b2234d7b655f6ae6958954faf" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian GNU/Linux pour remplir divers rôles au sein de notre

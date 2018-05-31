@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="4d3ba2e991420b24b1f29421f95506b868984133" maintainer="Jean-Edouard Babin"
 #use wml::debian::template title="Debian 6.0 -- Notes de publication" BARETITLE=true
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/arches.data"

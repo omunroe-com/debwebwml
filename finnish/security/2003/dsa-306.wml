@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="40d80b49542f29ec5e0dfac464e362069a94d837"
 <define-tag description>puskurin ylivuotoja, kokonaisluvun ylivuoto</define-tag>
 <define-tag moreinfo>
 <p>Timo Sirainen havaitsi useita ongelmia BitchX:ssä, suositussa

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 <define-tag pagetitle>ヘルシンキで開催される DebConf 5 で Debian Med day が行われます</define-tag>
 <define-tag release_date>2005-06-14</define-tag>
 #use wml::debian::news

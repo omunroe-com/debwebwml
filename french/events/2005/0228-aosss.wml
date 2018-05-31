@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Cyril Brulebois"
+#use wml::debian::translation-check translation="13e8d915fd51162ad3c0170614d08cb702f99678" maintainer="Cyril Brulebois"
 <define-tag abbr>AOSSS05</define-tag>
 <define-tag year>2005</define-tag>
 <define-tag pagetitle>5e&nbsp;symposium asiatique du logiciel à source ouvert</define-tag>

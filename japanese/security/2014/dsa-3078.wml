@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ed8a4886d51e563934e657bd3dbe32680f492b8e"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>X.509 及び CMS (PKCS#7) ライブラリ libksba の ksba_oid_to_str()

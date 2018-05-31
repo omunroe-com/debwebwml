@@ -1,7 +1,7 @@
 <define-tag pagetitle>Franklin Institute Science Museum が Linux を選択</define-tag>
 <define-tag release_date>1999-09-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1e0bd0e88975911443eb84bee96011e8b606f4f2"
 
 <P>ペンシルバニア州フィラデルフィアにある Franklin Institute Science
 Museum が、Keystone Science ネットワークの一部として、

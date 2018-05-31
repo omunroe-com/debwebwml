@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debianspeglar" BARETITLE="true"
-#use wml::debian::translation-check translation="1.61"
+#use wml::debian::translation-check translation="bd86b0ad25988ff5a8899346e64baf4909abd886"
 
 <p>Debian distribueras över hela världen genom användning av
 speglingar för att tillhandahålla bättre tillgång till vårt arkiv till

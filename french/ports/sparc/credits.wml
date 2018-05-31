@@ -1,6 +1,6 @@
 #use wml::debian::template title="Portage pour SPARC -- Crédits" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
-#use wml::debian::translation-check translation="1.5" maintainer="Thomas Marteau"
+#use wml::debian::translation-check translation="05db930935ccece0e86ce3e75f8029e944ca0888" maintainer="Thomas Marteau"
 
 <h1>Crédits de Debian SPARC</h1>
   <p>

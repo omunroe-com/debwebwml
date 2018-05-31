@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian og år 2000-fejlen</define-tag>
 <define-tag release_date>1998-01-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="a3df05202a2d63a01f09e1b3a7baae3884ff9b4d"
 
 <p>Da der lader til at være en udbredt angst for <q>år 2000-fejlen</q>, synes 
 vi at det er passende at fortælle dig hvordan dit Debian-system kan være 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d9354ed4b8d6489f28d3d8e2b1759284b4e97e8b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джеймс Кэттл, Ален Тимбло, Кристоф Ково и Фабьен Потенсье

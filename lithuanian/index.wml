@@ -1,6 +1,6 @@
 #use wml::debian::mainpage title="Universali Operacinė Sistema"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.79"
+#use wml::debian::translation-check translation="d1722c7641f17f8bcf3ec4f1f741624b870337c1"
 #include "$(ENGLISHDIR)/releases/info"
 
 

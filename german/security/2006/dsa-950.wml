@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f5359956a289e21974beaa3f87121877aa96315b"
 <define-tag description>Pufferüberläufe</define-tag>
 <define-tag moreinfo>
 <p><q>infamous41md</q> und Chris Evans entdeckten mehrere Heap-basierte

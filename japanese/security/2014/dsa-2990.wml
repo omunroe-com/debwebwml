@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5aefe5d8ce78574509c6e71c7a603347896c32f1"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>共通 UNIX 印刷システム CUPS のウェブインターフェイスが、

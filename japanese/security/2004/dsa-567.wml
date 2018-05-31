@@ -36,7 +36,7 @@ Common Vulnerabilities and Exposures プロジェクトでは以下の問題を�
 <p>直ちに libtiff パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2e2753b50f9da02576fe133a4bc17bac71ef387e"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-567.data"
 # $Id$

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Организован Debian GNU/Linux 3.1 версии Dzongkha</define-tag>
 <define-tag release_date>2006-07-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Лионпо Леки Доржи (Lyonpo Leki Dorji), министр Информации и Коммуникаций
 Правительства Королевства Бутан (Bhutan), организровал <q>DzongkhaLinux</q>,

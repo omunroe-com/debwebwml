@@ -16,4 +16,4 @@ version 4.3.0.dfsg.1-9.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-607.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="bc9ed454198c2eedd42a2b7a566501514a8945fd" mindelta="1"

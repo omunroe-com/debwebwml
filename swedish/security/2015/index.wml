@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ed54eda7d637b53fe29a2c72db3fc396fd5cd983"
 <define-tag pagetitle>Säkerhetsbulletiner från 2015</define-tag>
 #use wml::debian::template title="<pagetitle>" GEN_TIME="yes"
 #use wml::debian::recent_list_security

@@ -1,7 +1,7 @@
 #use wml::debian::template title="Grazie" 
 
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.6" maintainer="Francesca Ciceri"
+#use wml::debian::translation-check translation="8e99b7f329aa779c90f21c78efc2b78b8a4583e3" maintainer="Francesca Ciceri"
 <p>
 Il problema riguardante il layout verrà analizzato dal
 team che si occupa del sito web Debian, in base al browser che state 

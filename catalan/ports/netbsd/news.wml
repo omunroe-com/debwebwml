@@ -1,5 +1,5 @@
 #use wml::debian::template title="Notícies de Debian GNU/*BSD" BARETITLE="yes" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 #include "$(ENGLISHDIR)/ports/netbsd/menu.inc"
 
 <h1>Notícies de Debian GNU/*BSD</h1>

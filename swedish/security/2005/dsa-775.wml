@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d53a87aea619472cb81cb42232248644f244074f" mindelta="1"
 <define-tag description>injicering av fejkade ramar</define-tag>
 <define-tag moreinfo>
 <p>

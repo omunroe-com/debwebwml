@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>
 Chris Evans ha informado de que en versiones anteriores de cxhextris se le
 permitía a los usuarios locales usar el grupo "games", quizás aprovechando

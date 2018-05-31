@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7565caaa9da7e26b6cf474dd0dcd418c7ee2d112"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Google セキュリティチームの Michele Spagnuolo さんが万能音声処理プログラム

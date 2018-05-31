@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1e6edff17ac49ab1ef035934b52fd6f383348361"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy さんが、Debian 版の GNU C ライブラリである eglibc

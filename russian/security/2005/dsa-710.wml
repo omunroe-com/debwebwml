@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="942b5c301b869b49f1d7528fa79c6d728257cb67" maintainer="Lev Lamberov"
 <define-tag description>разыменование null-указателя</define-tag>
 <define-tag moreinfo>
 <p>Алан Кокс обнаружил проблему в gtkhtml, виджете отрисовки HTML, используемом

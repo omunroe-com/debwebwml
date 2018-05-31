@@ -5,7 +5,7 @@
 <script type="text/javascript" src="hashbug_redirect.js"></script>
 :#meta#}
 
-#use wml::debian::translation-check translation="1.88"
+#use wml::debian::translation-check translation="1c8ed02adde60123610a2e8083c5f2785a7f4351"
 
 <p>Debian 有一個對用戶和開發者所提交的軟件缺陷報告進行歸檔管理的缺陷跟蹤系統，
 英文縮寫為(BTS)。每個軟件缺陷報告都被授予一個編號並且被長期跟蹤，直到它被標記

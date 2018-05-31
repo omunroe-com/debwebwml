@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.screenlab.com.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Denis Mugnier"
+#use wml::debian::translation-check translation="fa7156be268c8412eece96c4cfb3ca067522729b" maintainer="Denis Mugnier"
 
 <p>
 En tant que société de services informatiques sous-traitante dans le marché brésilien émergeant,

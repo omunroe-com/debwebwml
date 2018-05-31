@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-11-12" SUMMARY="Moteur de recherche de code pour Debian, brèves du chef du projet, un pas de plus vers <q>Wheezy</q>"
-#use wml::debian::translation-check translation="1.6" maintainer="David Prévot"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="David Prévot"
 <define-tag abbr>FOSDEM10</define-tag>
 <define-tag year>2010</define-tag>
 <define-tag pagetitle>Rencontre européenne des développeurs du libre et du source ouvert (FOSDEM)</define-tag>

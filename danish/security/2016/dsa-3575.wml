@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d9f3c6f6a9939d4fc21034f6b90a83d7eff79b13" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at XStream, et Java-bibliotek til serialisering af objekter til 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="023e9a5865378046d0558188ac70e4f701b186d1" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Stunnel, программа, разработанная для работы в качестве универсального туннеля SSL для

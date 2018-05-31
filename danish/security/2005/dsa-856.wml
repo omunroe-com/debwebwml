@@ -17,4 +17,4 @@ version 0.1.8-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-856.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f8b356fe6a46ae8ce64d8d433ec3f7074e46ddc9" mindelta="1"

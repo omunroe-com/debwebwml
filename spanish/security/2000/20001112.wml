@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="9fd7099ca63b6a5a4e732a92c9744bd1504bad0a" maintainer="Juan M. Garcia"
 <define-tag moreinfo>
 La versión de BIND lanzada con Debian GNU/Linux 2.2 es vulnerable a un ataque
 de denegación de servicio remoto, lo que puede causar que nameserver caiga

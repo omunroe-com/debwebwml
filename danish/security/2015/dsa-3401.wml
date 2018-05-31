@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5e6d084ff5c3206e24de50a396b9cdc7c2ac9283" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at rebinding af en modtager af en direkte metode-handle, kunne 

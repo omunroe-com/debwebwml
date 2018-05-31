@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1d191c6b42bb95ff48ef329e3a1ba44eb0006e73" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Винни Гуидо обнаружил многочисленные уязвимости очистки ввода

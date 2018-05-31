@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="32e1e7b9240cab7f8f294e2c4369bd91749f9091" maintainer="Lev Lamberov"
 <define-tag description>уязвимости форматной строки</define-tag>
 <define-tag moreinfo>
 <p>Нико Тайни обнаружил две уязвимости форматной строки в DBD::Pg, драйвере Perl

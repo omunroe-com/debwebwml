@@ -1,5 +1,5 @@
 #use wml::debian::template title="Советы по переводу Debian-Installer"
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b8ba05460f524de3235e89b67719c02da5e0f5d0" maintainer="Lev Lamberov"
 
 <h3>Кодировка</h3>
 

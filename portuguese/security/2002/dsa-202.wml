@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bfe0f70f38a6a393244a7c7f24482dff616eb5ec"
 <define-tag description>arquivos temporários inseguros</define-tag>
 <define-tag moreinfo>
 <p>Tatsuya Kinoshita descobriu que o IM, que contém comandos de interface 

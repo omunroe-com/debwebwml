@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1afcd8e9257151f74c4d86119114f289ba14612b"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron múltiples vulnerabilidades en Redmine, una aplicación

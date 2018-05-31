@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="9c6da08b8e641760bd15ddc2284ad0071edc0cc0"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>kdelibs に脆弱性が 2 件発見されました:</p>

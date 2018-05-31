@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b95c64eb749661d4fced9c6dbfa899c799978272" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Эммануэль Томе обнаружил, что отсутствие очистки ввода в команде oarsh из

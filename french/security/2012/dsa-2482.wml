@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="d0a6e9a5584d388a82a110dffca28ce81cce9185" maintainer="Thomas Vincent"
 <define-tag description>Validation insuffisante de certificat</define-tag>
 <define-tag moreinfo>
 <p>Vreixo Formoso a découvert que libgdata, une bibliothèque utilisée pour accéder à divers

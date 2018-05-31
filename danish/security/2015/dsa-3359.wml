@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7dbc9f44843bf6b878f0cfe306cd2a076a59db41" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Denne opdatering retter et ikke yderligere beskrevet sikkerhedsproblem i 

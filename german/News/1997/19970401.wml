@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian fliegt im Space Shuttle</define-tag>
 <define-tag release_date>1997-04-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f9fe4cec34b15e0a304de723280c5330100dd5a3"
 # Translator: Helge Kreutzmann <kreutzm@itp.uni-hannover.de>, 2006-01-12
 # $Id$
 

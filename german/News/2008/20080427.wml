@@ -3,7 +3,7 @@
 #use wml::debian::news
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2008-05-02
 # $Id$
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Das Debian-Projekt ist stolz darauf, bekanntzugeben, dass es erneut von 
    Google als Mentoren-Organisation für das <q>Summer of Code</q>-Programm

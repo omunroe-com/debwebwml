@@ -2,7 +2,7 @@
 #use wml::debian::release_info
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.66" maintainer="Sebul"
+#use wml::debian::translation-check translation="40eeef5c10b97819abf8467d7f2a8038a8729ff8" maintainer="Sebul"
 
 <p><q>네트워크 설치</q> 또는 <q>netinst</q> CD 는 한 CD로 운영체제 전체를 설치할 수 있다.
 이 CD는 설치 시작할 최소량의 소프트웨어를 포함하고 남은 패키지를 인터넷에서 가져온다.

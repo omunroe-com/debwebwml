@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c85f251517fb173b8c2aaa010f9ef09a1be5e6fa"
 <define-tag description>ominięcie przywilejów</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp odkrył problem w xsok, jednoosobowej gry strategicznej

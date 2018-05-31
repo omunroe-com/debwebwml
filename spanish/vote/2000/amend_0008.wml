@@ -2,7 +2,7 @@
 <define-tag status>P</define-tag>
 
 #use wml::debian::template title="<pagetitle>"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="0a6afc81debce6d59c16a2c8273b3c9d18194be2"
 
 <define-tag email>%0 &lt;<A HREF="mailto:%1">%1</A>&gt;</define-tag>
 

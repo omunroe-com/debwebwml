@@ -1,6 +1,6 @@
 #use wml::debian::template title="Paquets en souffrance et paquets souhaités"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.45" maintainer="David Prévot"
+#use wml::debian::translation-check translation="8899b1fc22972af8b453b79a53a791a837a26f10" maintainer="David Prévot"
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
 
 # Translators:

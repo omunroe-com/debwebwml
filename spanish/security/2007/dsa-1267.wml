@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="d4b22e8f70fe645b2eb0cbadfbac72fcf9f9852c" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que WebCalendar, una aplicación de calendario escrita en

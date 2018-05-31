@@ -1,7 +1,7 @@
 <define-tag pagetitle>Vellykket Debian-konference i Oslo afsluttet</define-tag>
 <define-tag release_date>2003-07-28</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="c3dc14ce3bcd83fbbf800b4842b7de5afd97a65a"
 
 <p>Omtrent 140 personer deltog i dette års Debian-konference, der fandt sted fra
 den 18. til 20. juli på universitet i Oslo, Norge.  90 af disse personer deltog

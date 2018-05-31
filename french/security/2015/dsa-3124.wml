@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d45e67eca887ec8e0dc5aba06313ebb5820fc72f" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Thorsten Eckel de Znuny GMBH et Remo Staeuble de InfoGuard ont découvert

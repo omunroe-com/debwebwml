@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="acd10a17ab494c7316efddb0160ed1450686dc5c" mindelta="1"
 <define-tag description>heapbaseret bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at Exim, en mailtransportagent, ikke på korrekt vis håndterede

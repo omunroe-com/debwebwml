@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="98453cc8869027b4695d104b83f4acf9d4369b68"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Danny Lungstrom さんは、Postscript 形式のカレンダーを生成するプログラム pcal

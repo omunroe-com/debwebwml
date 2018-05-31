@@ -1,5 +1,5 @@
 #use wml::debian::template title="内容交渉"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0dbdbbf9b5488033e15adf800ec9b7aa8bcbc58c"
 
 <h3>サーバはどうやって、どのファイルを送るのかがわかるのですか</h3>
 <p>内部のリンクの最後が .html でないことに注目してください。サーバが

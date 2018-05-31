@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-08-26" SUMMARY="Debian cumple 17 años, capturas de pantalla en <tt>packages.debian.org</tt>, avisos relacionados a la arquitectura ARM"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.8" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Fernando C. Estrada"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl

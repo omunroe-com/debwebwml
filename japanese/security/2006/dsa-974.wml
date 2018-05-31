@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="40d6c8b7bbb487cf736a0e2d9074fd23af15d0ef"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>SuSE の研究者たちが、Portable Document Format (PDF)

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Paso 1: Contacto inicial" NOHEADER="true"
-#use wml::debian::translation-check translation="1.26"
+#use wml::debian::translation-check translation="0f3581ea8ff22d12b1665c2fb885ea6ccfe11f1c"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
 
 <p>La información contenida en esta página, aunque pública, es

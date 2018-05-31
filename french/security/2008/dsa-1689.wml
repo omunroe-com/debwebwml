@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="a3c546fb0001552804611188e849e6b129c6cf1e" maintainer="Jean-Edouard Babin"
 <define-tag description>Validations des entrées insuffisantes</define-tag>
 <define-tag moreinfo>
 <p>Maksymilian Arciemowicz de securityreason.com a signalé que ProFTPD est

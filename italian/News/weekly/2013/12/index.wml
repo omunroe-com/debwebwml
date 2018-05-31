@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-06-10" SUMMARY="Debian dà il benvenuto agli studenti del GSoC, risultati dell'esperimento OPW, pillole dal DPL, cessazione di debian-multimedia.org"
-#use wml::debian::translation-check translation="1.5" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="7b03bd081c95cb0fe0996febbd8d40941d05e054" maintainer="Mirco Scottà"
 
 <intro issue="nel dodicesimo" />
 <toc-display/>

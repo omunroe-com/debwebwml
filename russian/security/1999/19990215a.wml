@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240" maintainer="Lev Lamberov"
 <define-tag moreinfo>Мы получили сообщения о двух переполнениях буфера в
 пакете super, который поставляется в составе Debian GNU/Linux.  Во-первых,
 super не выполняет проверку пользовательских файлов .supertab на предмет переполнения буфера при создании

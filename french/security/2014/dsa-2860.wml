@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="9c35ecceb07ef51aed5d522b48021957eb709f1b" maintainer="Jean-Pierre Giraud"
 <define-tag description>Divulgation d'informations</define-tag>
 <define-tag moreinfo>
 <p>Holger Levsen a découvert que parcimonie, un assistant, respectueux de la

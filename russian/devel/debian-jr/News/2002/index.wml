@@ -1,6 +1,6 @@
 #use wml::debian::template title="Новости Debian Jr. за 2002 год"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f6f40fe25c5befcf69c6d9b19062fa73c480d03a" maintainer="Lev Lamberov"
 
 <:= get_recent_list ('.', '0', '$(ENGLISHDIR)/devel/debian-jr/News/2002',
 '', '\d+\w*') :>

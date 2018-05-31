@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="eb358b5c104a2d1f7d243bc6e4c3bf1c2bae262a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>High-Tech Bridge Security Research Lab opdagede at Roundcube, en 

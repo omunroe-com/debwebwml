@@ -1,5 +1,5 @@
 #use wml::debian::template title="Was bedeutet <q>Frei</q>?" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.28"
+#use wml::debian::translation-check translation="f07bd566a6ef9d671b89a11c2890c93dfea43a35"
 # $Id$
 # Translator: Dirk Niemeyer <dirk.niemeyer@num.de>
 # Changed-by: Martin Schulze <joey@debian.org>

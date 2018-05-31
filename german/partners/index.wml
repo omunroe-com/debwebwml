@@ -1,6 +1,6 @@
 #use wml::debian::template title="Die Debian-Partner" BARETITLE=true
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.133"
+#use wml::debian::translation-check translation="2364043ee09abec2ab4aead9d75aa82206045aa5"
 # $Id$
 #include "$(ENGLISHDIR)/partners/index.include"
 # Translation update: Holger Wansing <linux@wansing-online.de>, 2012 + 2015 - 2017.

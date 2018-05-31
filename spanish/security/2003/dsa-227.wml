@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e1f5f617f456b2c966c15caab145cdbaa45f7178"
 <define-tag description>desbordamientos de búfer y otros errores</define-tag>
 <define-tag moreinfo>
 <p>El equipo de seguridad de SuSE revisó las partes críticas de openldap2,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="80a276a3f6a6419e5aebc82b8d24e33dcefa13ea" maintainer="Lev Lamberov"
 <define-tag description>имперсонализация</define-tag>
 <define-tag moreinfo>
 <p>Кристиан Майнка и Владислав Младенов сообщили об уязвимости в

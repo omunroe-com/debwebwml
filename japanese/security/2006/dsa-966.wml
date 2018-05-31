@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b38005f95c8859534ad3a8703e08396029a408b9"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Thomas Reifferscheid さんが、プロキシ広告迎撃アドオン

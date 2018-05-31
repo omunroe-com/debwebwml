@@ -1,6 +1,6 @@
 #use wml::debian::template title="Porte IA-64" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/ia64/menu.inc"
-#use wml::debian::translation-check translation="1.36"
+#use wml::debian::translation-check translation="1829b90aaf00c80d31ea403070a7eaf9dc49454b"
 
 <h1>Debian para IA-64</h1>
 

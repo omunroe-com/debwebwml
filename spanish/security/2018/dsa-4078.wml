@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9be537189e8e664c1aef58b02ec3173b2c11388b"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Múltiples investigadores han descubierto una vulnerabilidad en procesadores Intel

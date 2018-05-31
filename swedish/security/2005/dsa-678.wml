@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="395aecc76a4691377e9261146a3d3eafd5f93d7d" mindelta="1"
 <define-tag description>validerar inte indata</define-tag>
 <define-tag moreinfo>
 <p>

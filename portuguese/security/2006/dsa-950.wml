@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="f5359956a289e21974beaa3f87121877aa96315b" maintainer="Marco Carvalho"
 <define-tag description>estouro de pilha</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" e Chris Evans descobriram vários estouros de pilha

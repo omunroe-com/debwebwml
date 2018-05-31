@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3d01a2137129c816da7c713bc9d1e9e5e7a128cf" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Стелиос Тсампас обнаружил переполнение буфера в Kamailio, SIP-прокси,

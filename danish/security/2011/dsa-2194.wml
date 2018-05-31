@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="35bf1caae4ad38a4bf3740ba2bd334240881bd3e" mindelta="1"
 <define-tag description>utilstrækkelige kontroller</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at libvirt, et bibliotek til interfacing med forskellige 

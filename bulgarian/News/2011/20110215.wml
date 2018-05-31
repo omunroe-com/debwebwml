@@ -1,7 +1,7 @@
 <define-tag pagetitle>Нов сет замества архива volatile</define-tag>
 <define-tag release_date>2011-02-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>С издаването на Дебиан 6.0 (<q>squeeze</q>) се прекратява поддръжката на
 архива volatile. Вместо него на официалните огледални сървъри се въвежда сета

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5efdc886b003f70d9b0cc257af84e749911991d4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Tomcat, движке сервлетов и JSP, были обнаружены две проблемы.</p>

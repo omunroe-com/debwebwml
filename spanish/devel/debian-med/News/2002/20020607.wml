@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 <define-tag pagetitle>Charla en LinuxTag en Karlsruhe</define-tag>
 <define-tag release_date>2002-06-07</define-tag>
 {#style#:<link rel="stylesheet" href="../../talks.css" type="text/css" />:#style#}

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f4fa346590b50ebf5f54d152430cb9c0bc0d3ccd" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Хузайфа Сидхпурвала, Дэвид Макияк и другие обнаружили несколько

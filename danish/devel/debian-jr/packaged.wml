@@ -1,5 +1,5 @@
 #use wml::debian::template title="Allerede pakket til Debian Jr."
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="7a1d930a6d320a958fe1229cba759c7e4e3def80"
 #include "$(ENGLISHDIR)/devel/debian-jr/packaged.tags"
 
 Denne liste og de tilhørende kommentarer er Debian Jr.-udviklernes personlinge

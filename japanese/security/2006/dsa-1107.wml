@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e4156ce61f4484abec0407c2629fc564d7400f42"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Legerov さんにより、フリーの PGP 代替プログラムである GNU

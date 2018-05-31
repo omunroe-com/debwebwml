@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="36eea2b986041ec2e2e2462d7f7d216e793ec6eb"
 <define-tag description>неправильное экранирование HTML</define-tag>
 <define-tag moreinfo>
 <p>Хиронори Сакамото (Hiromori Sakamoto), один из разработчиков w3m,

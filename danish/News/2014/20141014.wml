@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-projektet vælger LeaseWeb til at stå for globalt snapshotarkiv</define-tag>
 <define-tag release_date>2014-10-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="35ec675e3077d20d739cacf7a8d93fd2cd46469c"
 # $Id:
 
 <p>Debian-projektet, som leverer en af de tidligste styresystemsdistributioner i 

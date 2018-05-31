@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <define-tag pagetitle>Debian インストーラ 6.0 リリース候補1リリース</define-tag>
 <define-tag release_date>2011-01-12</define-tag>
 #use wml::debian::news

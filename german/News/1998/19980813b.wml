@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian in den Nachrichten: Eine neue stabile Veröffentlichung von Debian</define-tag>
 <define-tag release_date>1998-08-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="6b48c0500e1f1fd8b74eb46a2d8646714ba25ed0"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-03-30
 
 Larry Ayers hat einen Artikel über die 2.0 <q>Hamm</q>-Veröffentlichung von 

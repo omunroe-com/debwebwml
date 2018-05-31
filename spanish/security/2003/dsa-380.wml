@@ -1,5 +1,5 @@
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="933e7fc2b3cbdd26ec2a003cb57016d4fcd79d2d"
 <define-tag description>desbordamientos de buffer, denegación de
 servicio.</define-tag>
 <define-tag moreinfo>

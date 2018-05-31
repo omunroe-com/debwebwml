@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="15cae58e86a1c51c703ac6d07d3b9486dc654baf" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Гельмут Гроне обнаружил множественные проблемы с повышением привилегий в FusionForge, ПО

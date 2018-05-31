@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7cfd7bbc5b26ffa5f9d4b6c95f161f3ac510ba62" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at manglende fornuftighedskontrol af inddata i Libreoffices 

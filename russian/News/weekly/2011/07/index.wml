@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-05-02" SUMMARY="Информация от лидера проекта Debian, недавние и предстоящие изменения в ядре Linux, Проект Debian скорбит о потере Adrian von Bidder"
-#use wml::debian::translation-check translation="1.13" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="3d8a59c4b4e7d46cc3c4e918efed091d71ecacd8" maintainer="Alexander Reshetov"
 
 <p>Мы рады представить седьмой в 2011 году выпуск информационного бюллетеня для сообщества Debian
 &mdash; &laquo;Новости проекта Debian&raquo;. В этом номере:</p>

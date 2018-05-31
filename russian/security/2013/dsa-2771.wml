@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="433b821b9978270431558bcf1ca0c2a4e219d8e0" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Хамид Замани обнаружил многочисленные проблемы безопасности (переполнения буфера,

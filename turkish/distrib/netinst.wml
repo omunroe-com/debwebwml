@@ -2,7 +2,7 @@
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.17" maintainer="Onur Aslan"
+#use wml::debian::translation-check translation="a6fc86145d3a9ad62f742cbee6db9b3907f398b4" maintainer="Onur Aslan"
 
 <p>Eğer kalıcı bir İnternet bağlantınız varsa, bunu kullanarak Debian
 yükleyebilirsiniz. İlk başta sadece küçük bir bölümünü indirdiğiniz

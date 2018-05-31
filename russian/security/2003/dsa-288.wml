@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="604c04016763fd4e23cf761bb457ccaed28fe1d8"
 <define-tag description>различные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Исследователи обнаружили два изъяна в OpenSSL, библиотеке протокола

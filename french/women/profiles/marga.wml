@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Alban Vidal"
+#use wml::debian::translation-check translation="e5903c36386c99eee13bc915d85c93ebb4fe07c4" maintainer="Alban Vidal"
 <define-tag pagetitle>Margarita Manterola</define-tag>
 #use wml::debian::profiles
 #include "$(ENGLISHDIR)/women/profiles/profiles.def"

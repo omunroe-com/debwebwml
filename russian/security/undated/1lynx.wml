@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8560a19ebc97007b93ee5c1a15cd299b82810b23" maintainer="Lev Lamberov"
 <define-tag description>локальная уязвимость</define-tag>
 <define-tag moreinfo>
 Ограниченные/анонимные пользователи lynx могут выполнять произвольные

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="4b8fa197a23da6aca91efe86a11d2423a1d6239e" mindelta="1"
 <define-tag description>överbelastningsattack</define-tag>
 <define-tag moreinfo>
 <p>

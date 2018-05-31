@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2527918cd5fec950bc5d2b2cafa4dcff7d117538"
 <define-tag description>falta inicialização</define-tag>
 <define-tag moreinfo>
 <p>Faheem Mitha notou que o comando iptables, uma ferramenta de administração

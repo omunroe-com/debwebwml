@@ -1,5 +1,5 @@
 #use wml::debian::template title="Světová zrcadla Debianu" BARETITLE=true
-#use wml::debian::translation-check translation="1.8" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="346f82cf48a105b4686a44b1d3a4fe7a11adc9c0" maintainer="Michal Simunek"
 
 <p>Toto je <strong>kompletní</strong> seznam zrcadel Debianu.
 U&nbsp;každého z&nbsp;nich je uvedeno, jaký obsah poskytuje, včetně způsobů

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e6dec969579c178a1db9c74c8de45ecb2196bbd2"
 <define-tag description>rikkinäinen safe-osasto</define-tag>
 <define-tag moreinfo>
 <p>Kaikissa Perl-versioissa käytössä olevassa Safe.pm-moduulissa

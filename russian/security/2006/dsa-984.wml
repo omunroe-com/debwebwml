@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="89c1ff5b707235bcd08e44fa0f76c0a055ef73c2" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Дерек Нонбург исправил несколько потенциальных уязвимостей в xpdf,

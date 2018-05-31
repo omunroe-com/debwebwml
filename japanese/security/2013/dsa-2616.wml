@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a98446aaf3adc90dfad1357c7ee75b911b6a90c3"
 <define-tag description>CGI スクリプトにバッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>バッファオーバフローの問題が、ホスト/サービス/ネットワークの監視および管理システム

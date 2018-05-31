@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bd410f3c6c301bc406b52cb6f1ac32fbb6e7eea1" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Rod Widdowson från Steading System Software LLP upptäckte ett kodningsfel

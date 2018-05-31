@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="67643b436f8be9947bb60cf783cabe1341adb86c" mindelta="1"
 <define-tag description>utökning av privilegier</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Moin, en Python-klon av WikiWiki, felaktigt

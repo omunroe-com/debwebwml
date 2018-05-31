@@ -1,5 +1,5 @@
 #use wml::debian::template title="Světová zrcadla Debianu" BARETITLE=true
-#use wml::debian::translation-check translation="1.9" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Michal Simunek"
 
 <p>Debian je distribuován (<em>zrcadlen</em>) na stovkách serverů na Internetu.
 Používání nejbližšího serveru vám pravděpodobně zrychlí stahování a&nbsp;také

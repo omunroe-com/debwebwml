@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="781f63ea0c29adf716c5864afdecfbbbeb03b3d9" maintainer="Simon Paillard"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Greg Roelofs a découvert et corrigé plusieurs dépassements de tampon dans

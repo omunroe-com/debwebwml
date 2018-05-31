@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="91da8cc33a38cf6c2e183b1bee3391478a841034" maintainer="Lev Lamberov"
 <define-tag description>конфликт интерпретаций</define-tag>
 <define-tag moreinfo>
 <p>Адам Новаки обнаружил, что новая реализация FreeBSD NFS обрабатывает

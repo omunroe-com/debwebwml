@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="988dae14809fe862d5712bb104b862404fd43885"
 <define-tag description>誤って発行された中間認証局</define-tag>
 <define-tag moreinfo>
 <p>Google が、ネットワークセキュリティサービスライブラリ (nss) に収録されている 

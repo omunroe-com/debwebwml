@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f35895f313f0f66487cd8ae4096361558130cae4" maintainer="Lev Lamberov"
 <define-tag description>обновления безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что redis, устойчивая база данных типа <q>ключ-значение</q>, может

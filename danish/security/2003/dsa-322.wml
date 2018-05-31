@@ -20,4 +20,4 @@ games.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-322.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8fd8ae2786887ae8a054ae4312a4891b8ad3ba0a"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag description>различные проблемы</define-tag>
 <define-tag moreinfo>
 <p>Реми Перро (R&eacute;mi Perrot) исправил несколько ошибок,

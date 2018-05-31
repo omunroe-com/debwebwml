@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="bb1ca6c0fbadbb91005569b508ba0cfe52750ebb" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at ubegrænset YAML-deserialisering af data sendt fra agenter til 

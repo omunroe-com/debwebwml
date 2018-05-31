@@ -30,7 +30,7 @@ Debian-fællesskabet vil være til stede for at mødes med andre deltagere.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <ul>
     <li><a href="https://wiki.debian.org/DebianEventsDe/2011/28C3">begivenhedens 
 	koordineringsside</a></li>

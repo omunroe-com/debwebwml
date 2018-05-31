@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="c2fa9986188b29bf560a4379c131159740017ffa" maintainer="Simon Paillard"
 <define-tag description>Entrée non vérifiée</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner a découvert un dépassement sur le tas dans imlib,

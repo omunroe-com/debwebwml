@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="3c1d134a908e20a9ccca90f37f8f9e688ce56b56"
 <define-tag description>LTS セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>OpenSSL に複数の欠陥が発見されました。</p>

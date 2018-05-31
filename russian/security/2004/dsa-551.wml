@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d52d3f55417c9dc4dd2b60e7c12509863357bf88"
 <define-tag description>некорректная работа с внутренней переменной</define-tag>
 <define-tag moreinfo>
 <p>Пржемыслав Фрашунек (Przemyslaw Frasunek) обнаружил уязвимость в tnftpd

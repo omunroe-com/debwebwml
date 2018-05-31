@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="9ca93e12c89492dcf8444ce75097035c265ab7bd" mindelta="1"
 <define-tag description>sidekanalsangreb</define-tag>
 <define-tag moreinfo>
 <p>Genkin, Shamir og Tromer opdagede at RSA-nøglemateriale kunne udtrækkes ved 

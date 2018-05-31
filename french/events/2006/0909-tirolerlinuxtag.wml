@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="7f14807c31b0a8b11a5a0eb22bfcbce4831bdd81" maintainer="Nicolas Bertolissio"
 <define-tag abbr>TirolLT06</define-tag>
 <define-tag year>2006</define-tag>
 <define-tag pagetitle>Journée Linux du Tyrol</define-tag>

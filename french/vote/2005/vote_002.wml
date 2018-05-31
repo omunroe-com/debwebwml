@@ -3,7 +3,7 @@
 #use wml::debian::template title="<pagetitle>" BARETITLE="true" NOHEADER="true"
 #use wml::debian::toc
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.20" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="8ae101d3e8854ee0917c9e38eb8d3f2a1a45b01d" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Mohammed Adnène Trojette, 2005, 2006

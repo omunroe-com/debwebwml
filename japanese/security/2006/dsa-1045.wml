@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="507ad243460ad3f31a0c884f2f0854647ed57905"
 <define-tag description>デザイン上の欠陥</define-tag>
 <define-tag moreinfo>
 <p>Hendrik Weimer さんにより、仮想プライベートネットワークデーモン OpenVPN

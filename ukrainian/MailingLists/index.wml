@@ -1,6 +1,6 @@
 #use wml::debian::template title="Списки розсилки"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.41" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="fab051c9ecca910770454953af284ebfe87cb97c" maintainer="Borys Yanovych"
 
 <toc-display/>
 

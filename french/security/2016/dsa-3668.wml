@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="bbb1007fb3d69fa6e5cefb26f200b597e48b1f07" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Il y avait une vulnérabilité de contrefaçon de requête intersite (CSRF)

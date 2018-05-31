@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="7afafa2d17073754ef6731f3f0f580e520dc0d56" mindelta="1"
 <define-tag description>usikker standardopsætning</define-tag>
 <define-tag moreinfo>
 <p>Niels Heinen bemærkede, et sikkerhedsproblem i Apaches standardopsætning på 

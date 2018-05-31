@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5da6de64152d996ff3869a0a6d634ec36b3bf8f6" maintainer="Lev Lamberov"
 <define-tag description>повреждение содержимого памяти</define-tag>
 <define-tag moreinfo>
 Сальваторе Санфилипо во время аудита безопасности обнаружил в <code>fetchmail</code>

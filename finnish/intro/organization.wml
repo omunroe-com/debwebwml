@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debianin organisaation rakenne"
 # Translated by Markku Verkkoniemi on 1999-06-16
 # Updated by Antti-Juhani Kaijanaho on 1999-06-23
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="5c3ace6e77dd17f5a0f8fca6c2aba0d3423c9f9e"
 
 <p>Joskus täytyy ottaa yhteyttä johonkin henkilöön Debianin 
 erityisalueesta.

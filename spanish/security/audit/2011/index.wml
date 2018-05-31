@@ -1,6 +1,6 @@
 #use wml::debian::template title="Avisos de auditoría de seguridad de 2011"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.2" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="458c03fd57fc50534f97eccb28081fcc2c9cd180" maintainer="Laura Arjona Reina"
 
 <h2>Avisos publicados en 2011</h2>
 

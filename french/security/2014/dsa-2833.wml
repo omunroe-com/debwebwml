@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="ac06f787fe7c0436820894f4c9ff01a212795c14" maintainer="Thomas Vincent"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs problèmes de sécurité ont été corrigés dans OpenSSL : la prise en

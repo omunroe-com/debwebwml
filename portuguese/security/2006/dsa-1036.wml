@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="85d10c55e297373b7e843c8dc83452b6938e5558" maintainer="Marco Carvalho"
 <define-tag description>estouro de pilha</define-tag>
 <define-tag moreinfo>
 <p>Um problema de estouro de pilha foi descoberto no sail, um jogo contido

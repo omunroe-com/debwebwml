@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="4cf7853027077a4d82970cd048710f3b181d44ee" maintainer="DFS Task Force"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Un chercheur de iDEFENSE a découvert deux problèmes dans les fonctions de

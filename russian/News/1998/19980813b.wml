@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6b48c0500e1f1fd8b74eb46a2d8646714ba25ed0" maintainer="Lev Lamberov"
 <define-tag pagetitle>Debian в новостях: новый стабильный выпуск Debian</define-tag>
 <define-tag release_date>1998-08-13</define-tag>
 #use wml::debian::news

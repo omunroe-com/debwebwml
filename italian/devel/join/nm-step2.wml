@@ -1,5 +1,5 @@
 #use wml::debian::template title="Passo 2: Identificazione" NOHEADER="true"
-#use wml::debian::translation-check translation="1.38" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="b59849318da01faabdbc1d5bb5e05f99c4f7a61a" maintainer="Giuseppe Sacco"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
 
 <p>Le informazioni di questa pagina, sebbene pubbliche, sono

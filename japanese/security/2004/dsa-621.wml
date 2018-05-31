@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e5c3755e723aa33398672e899ffecc06c098c832"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE 社のセキュリティ研究員は、PDF 形式 (the portable document format) 

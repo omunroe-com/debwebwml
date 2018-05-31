@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="a24ba87fe1779b04a0d456e03e776ee157d96cd2" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Nhiều lỗi bảo mật được tìm thấy trong phần mềm phục vụ cơ sở dữ liệu MySQL.

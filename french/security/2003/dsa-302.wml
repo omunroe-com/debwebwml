@@ -21,4 +21,4 @@ corrigé.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-302.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="ee567afb1b94624f13e9e74a2f2396eae4093a54" maintainer="DFS Task Force"

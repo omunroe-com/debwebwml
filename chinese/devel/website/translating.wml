@@ -1,6 +1,6 @@
 #use wml::debian::template title="翻譯 Debian 網頁" BARETITLE=true
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.50"
+#use wml::debian::translation-check translation="ad3c7be7ae8789593d1c18116e078f35ebd9f2f7"
 
 <P>為了讓翻譯人員的工作更加容易，在這些頁面的生成方式和您過去所熟知的之間存在
 一些差異。實際上這些網頁是通過由 <a

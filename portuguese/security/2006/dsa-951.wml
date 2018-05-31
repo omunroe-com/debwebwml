@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2" maintainer="Marco Carvalho"
 <define-tag description>falta de limpeza da entrada</define-tag>
 <define-tag moreinfo>
 <p>Esta atualização corrige o recurso de busca no trac, um wiki e sistema

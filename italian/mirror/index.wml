@@ -1,5 +1,5 @@
 #use wml::debian::template title="I mirror di Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.53" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="219bfc3bded964de15acf2ff74292ba25b2dffd5" maintainer="Giuseppe Sacco"
 
 <p>Debian è distribuita in tutto il mondo utilizzando dei
 <em><a href="http://foldoc.org/mirror+site">mirror</a></em>

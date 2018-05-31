@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="18814b85147b95fe5489e965a4f5cd81c19bea0e"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que jumbogramas mal construidos podían dar lugar a

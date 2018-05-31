@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c3f2fc874c4fcdf8035dfc039448cd075130537a"
 <define-tag description>フォーマット文字列脆弱性</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" さんは、今でも Debian の安定版リリースで配布されている dhcp 2.x

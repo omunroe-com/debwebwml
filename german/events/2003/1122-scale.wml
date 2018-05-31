@@ -17,7 +17,7 @@ Das Debian-Projekt wird mit einem Stand im Ausstellungsbereich vertreten sein.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="19d60fa8e86d7fb253ecc6cd4405b182f1160eb5"
 # $Id$
 #Related Links here (free form)
 # <ul>

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-baserat miniskepp - Microship</define-tag>
 <define-tag release_date>2000-12-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1c69a9e6fc43fe5afb6627efa13137321f09b4a0"
 
 <p>[ Denna artikel skrevs av Steven K. Roberts &lt;wordy@microship.com&gt;.
 Och vad använder DU din Debianmaskin för? :]

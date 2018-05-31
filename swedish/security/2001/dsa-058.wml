@@ -13,4 +13,4 @@ sårbar, men vi rekommenderar fortfarande att du uppgraderar ditt exim-paket.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-058.data"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="e17774880210f44e0f35f3d149197f63f96d463e"

@@ -13,4 +13,4 @@ måneder.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2134.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="3126379c188d1c17fb83967a5f21ea18ea669e2a" mindelta="1"

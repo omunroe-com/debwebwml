@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="11c19da83bd50b10d5848055dd789406a1d9e637" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Don A. Bailey de Lab Mouse Security a découvert un défaut de dépassement

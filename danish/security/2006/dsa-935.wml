@@ -18,4 +18,4 @@ version 2.0.2b1-5sarge0.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-935.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cb65138f9c5b1da48a5192c3f10d2bf35e439d1d" mindelta="1"

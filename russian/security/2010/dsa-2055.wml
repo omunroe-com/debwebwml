@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7bf510075a2785f07b503d643b32c24bf672adcc" maintainer="Lev Lamberov"
 <define-tag description>раскрытие макроса</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что OpenOffice.org, полнофункциональный набор для офисной

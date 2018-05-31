@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a60312b7bfd560fe47fcccafdb18819ffc52ba0a" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" обнаружил несколько уязвимостей в пакете mailutils от

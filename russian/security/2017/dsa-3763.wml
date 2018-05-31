@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d4445888547e60c221477a264a82d8ce965f8232" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Флориан Хайнц и Мартин Клюге сообщили, что pdns-recursor, рекурсивный

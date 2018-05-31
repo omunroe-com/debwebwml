@@ -2,7 +2,7 @@
 <define-tag release_date>2011-06-04</define-tag>
 
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektet kan berette om et møde, der fandt sted mellem repræsentanter
 for regeringen i Republika Srpska og repræsentanter for DebConf11 i anledningen 

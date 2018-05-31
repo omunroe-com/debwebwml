@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Linux 4.0 -- Fejl" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="d4ac3300395a1d7353b8f41ac564e1ecbabff9b5"
 
 #include "$(ENGLISHDIR)/releases/info"
 

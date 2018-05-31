@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="46eb3e75ea6b991f74204cc9fb50606a2a2c0a67" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В Courier Mail Server была обнаружена ошибка, которая может приводить

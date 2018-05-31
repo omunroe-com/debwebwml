@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6d4deee06918954cd5c5cf88ea3c9bf0715385a4"
 <define-tag description>утечка информации, перекрёстные между сайтами скрипты</define-tag>
 <define-tag moreinfo>
 <p>Разработчики tomcat обнаружили несколько проблем в tomcat версии

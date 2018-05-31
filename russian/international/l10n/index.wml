@@ -1,5 +1,5 @@
 #use wml::debian::template title="Единая статистика перевода Debian"
-#use wml::debian::translation-check translation="1.34" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="be20c70a46e717aa29b8d3b81b5427654aa670fb" maintainer="Lev Lamberov"
 
 <p>Эти страницы содержат число пакетов в Debian, готовых для перевода,
 а также число фактически переведённых.</p>

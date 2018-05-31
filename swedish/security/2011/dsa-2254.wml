@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0f53e73b9843931d27836cc2f40474024a199c7a" mindelta="1"
 <define-tag description>kommandoinjicering</define-tag>
 <define-tag moreinfo>
 <p>OProfile är ett prestandaprofilerigsverktyg som är konfigurerbart via

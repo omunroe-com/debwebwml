@@ -1,5 +1,5 @@
 #use wml::debian::template title="Giới thiệu về Debian"
-#use wml::debian::translation-check translation="1.4" maintainer="Lê Thị Minh,Trần Ngọc Quân"
+#use wml::debian::translation-check translation="841e47d32b655511d31cf500604e14ccea8038d1" maintainer="Lê Thị Minh,Trần Ngọc Quân"
 
 <p><a href="about">Vài nét về Debian</a>.
 

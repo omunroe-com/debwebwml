@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="45ffa5839adc6718ff9b040625747eace5365812" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Ян Юргенс обнаружил переполнение буфера в модуля грамматического разбора сообщений SMS

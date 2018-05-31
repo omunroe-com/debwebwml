@@ -1,5 +1,5 @@
 #use wml::debian::template title="Úvod do Debianu"
-#use wml::debian::translation-check translation="1.4" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="841e47d32b655511d31cf500604e14ccea8038d1" maintainer="Michal Simunek"
 
 <p><a href="about">O Debianu</a>.
 

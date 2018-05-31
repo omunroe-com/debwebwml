@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-01-04" SUMMARY="Arch, GNU/Linux, Mozilla, Eyecatcher, MPEG, Experimental, ITP, Logo, Marque déposée, Chasse aux bogues"
-#use wml::debian::translation-check translation="1.17" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="de065148af0b42f30506da2a32cd035051de0165" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 1re&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian. Martin

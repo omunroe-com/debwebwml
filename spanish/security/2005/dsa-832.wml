@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="fc084ae196ec51c56a31715ac9016d9471defb5d" maintainer="Juan M. Garcia"
 <define-tag description>desbordamientos de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varios desbordamientos de buffer en gopher, un

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0475afaea40d2a4116e5e7d1b03115cdfd657700" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Thijs Alkemade opdagede at uventet automatisk deserialisering af 

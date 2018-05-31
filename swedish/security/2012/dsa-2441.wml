@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="508bd4f99e87fa86aaef61d1f7cd284a2517a796" mindelta="1"
 <define-tag description>saknade gränskontroller</define-tag>
 <define-tag moreinfo>
 <p>Matthew Hall upptäckte att GNUTLS inte ordentligt hanterar avklippta

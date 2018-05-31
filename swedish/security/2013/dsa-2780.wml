@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e83d05dbbf1409adc6a7c339904577c6d5f22f7a" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Denna DSA uppdaterar MySQL-databasen till version 5.1.72. Detta rättar flera

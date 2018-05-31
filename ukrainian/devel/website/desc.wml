@@ -1,5 +1,5 @@
 #use wml::debian::template title="Як влаштований www.debian.org"
-#use wml::debian::translation-check translation="1.30" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="a31df499db8ace16692a72b3b279d342b2936da7" maintainer="Borys Yanovych"
 #use wml::debian::toc
 
 <p>

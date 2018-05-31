@@ -21,5 +21,5 @@ foredrag</a> om Debian for systemadministratorer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 #Related Links here (free form)

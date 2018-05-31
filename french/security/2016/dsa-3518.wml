@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="adbecfdd1c91fdc4713619cf52c8370f7ea14552" maintainer="Jean-Paul Guillonneau"
 <define-tag description>security update</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités de sécurité ont été découvertes dans SPIP, un

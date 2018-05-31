@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-4-26" SUMMARY="Felrapporteringssystemet gick ner; år 2000-problem; rotering av loggfiler."
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <p>
 <b>Välkommen</b> till Debian Weekly News, ett nyhetsbrev för

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ab509bee89b4edb760e4f1dad6f13d1aef6a3ead"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Matthew Daley さんが、機能満載のウェブプロキシキャッシュ Squid3

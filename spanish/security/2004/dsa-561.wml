@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="eacb7e86e98cd325b4e1c2cb9c48b6d9e723031f" maintainer="juanma"
 <define-tag description>desbordamientos de entero y de pila</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans descubrió varios desbordamientos de pila y de entero en

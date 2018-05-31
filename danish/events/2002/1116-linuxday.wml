@@ -23,7 +23,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="2b2dc9660b622bf902a3f7fa71818ca6f6dc3f58"
 #Related Links here (free form)
 <ul>
   <li><a href="http://www.linuxday.at/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=2">\

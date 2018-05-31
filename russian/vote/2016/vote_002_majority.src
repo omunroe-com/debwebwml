@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="257db401ca0b155ba91cc7cf7db720ae979173f2" maintainer="Lev Lamberov"
               <h3>Условие большинства</h3>
               <ul>
                 <li>Отброс варианта 1 из-за требование большинства.   0.881 (118/134) &lt;= 1</li>

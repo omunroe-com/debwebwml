@@ -1,7 +1,7 @@
 <define-tag pagetitle>Aktivirane Debianove stranice o događajima</define-tag>
 <define-tag release_date>1999-02-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <P>Debianovim WWW stranicama dodan je nov skup stranica. To su stranice o
 događajima, dostupne na

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Grunner til å velge Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.74" maintainer="Hans F. Nordhaug"
+#use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858" maintainer="Hans F. Nordhaug"
 # Oversatt til norsk av Tor Slettnes (tor@slett.net)
 # Oppdatert av Hans F. Nordhaug <hansfn@gmail.com>, 2008-2013
 

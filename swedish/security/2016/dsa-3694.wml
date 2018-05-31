@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="178411794b563031a24044ffdd043b6b7747e717" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Det har upptäckts att Tor behandlar innehållet i någrar bufferchunks som

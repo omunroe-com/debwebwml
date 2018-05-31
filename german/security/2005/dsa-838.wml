@@ -55,5 +55,5 @@ Version 1.0.7-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-838.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="083b632dcdce42d1686d3521096de47792bab45e" mindelta="1"
 # $Id$

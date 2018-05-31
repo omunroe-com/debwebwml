@@ -1,7 +1,7 @@
 #use wml::debian::template title="Огляд преси за 1997 рік" NOHEADER=yes
 #use wml::debian::countries
 #include "$(ENGLISHDIR)/News/press/press.tags"
-#use wml::debian::translation-check translation="1.1" maintainer="Eugeniy Meshcheryakov"
+#use wml::debian::translation-check translation="4e00604c9c3b5cec5e3daae37f71c964c9bda228" maintainer="Eugeniy Meshcheryakov"
 
 <h3>Debian в пресі</h3>
 

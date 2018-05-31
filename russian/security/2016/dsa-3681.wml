@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="129b1d4b65a52748828e67ce7bd603cadd7d95e3" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В wordpress, инструменте для ведения блога, было обнаружено несколько уязвимостей,

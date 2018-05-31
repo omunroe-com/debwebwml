@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f998f4d2128d1eee67a8122f146968e14e82a776" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Флориан Ваймер из команды безопасности Red Hat обнаружил многочисленные

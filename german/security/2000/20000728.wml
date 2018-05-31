@@ -20,5 +20,5 @@ Ihren dhcp-client-beta und dhcp-client unverzüglich zu aktualisieren.</define-t
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20000728.data'
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73"
 # $Id$

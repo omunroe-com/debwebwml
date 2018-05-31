@@ -1,5 +1,5 @@
 #use wml::debian::template title="Общее решение: Рассекречивание debian-private" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="eda8f65d19db487bb82b88a427d29d34572c4282" maintainer="Lev Lamberov"
 
 #include "vote_002_index.src"

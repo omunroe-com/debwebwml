@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 7.0 <q>Wheezy</q> リリース</define-tag>
 <define-tag release_date>2013-05-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>何ヶ月もの不断の開発を経て、Debian プロジェクトは新しい安定版バージョン 7.0
 (コード名 <q>Wheezy</q>) を公開できることを光栄に思います。

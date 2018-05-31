@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-1-2" SUMMARY="En uppdatering om testing; mer om /usr/share/doc; önskelista för dpkg"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="0d70cf50ad4b46bfe8c87cfc1b0735dd380b99d0"
 
 <p>
 <b>Gott nytt år och välkomna</b> till Debian Weekly News.

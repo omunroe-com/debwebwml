@@ -50,5 +50,5 @@ Version 6.0-2.2 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-254.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="421f2075349590201c403c21bf545e4577937a94"
 # $Id$

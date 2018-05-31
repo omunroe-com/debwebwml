@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1950c925ce7c7db7dd1b57e7e518ffb5d998825c" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Тильгман Лешер обнаружил, что движок ведения журнала из Asterisk, свободного

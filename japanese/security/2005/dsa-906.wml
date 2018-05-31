@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="07172a28f4c57fadc36d28d4b0d5a5fe3910a9d4"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Colin Leroy さんが、GTK+ による軽量なメールクライアント sylpheed

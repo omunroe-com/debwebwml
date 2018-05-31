@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-09-21" SUMMARY="Linux Mint Debian エディション、<q>重大な</q>ソフトウェアバグ、Debian はパッケージ作業以外を行う貢献者を歓迎します"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl

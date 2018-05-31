@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c9fb9a40967be4b5a85e87cbd5ca8062f3bc38a0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Irssi, IRC-клиенте для терминала, были обнаружены многочисленные

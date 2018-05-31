@@ -1,6 +1,6 @@
 <define-tag pagetitle>Enfin&nbsp;: première version candidate à la publication de l'installateur Debian</define-tag>
 <define-tag release_date>2004-08-07</define-tag>
-#use wml::debian::translation-check translation="1.4" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="6d2359c35e16214604ee9eb1a159c9ddc3cf9158" maintainer="Nicolas Bertolissio"
 #use wml::debian::news
 
 <p>

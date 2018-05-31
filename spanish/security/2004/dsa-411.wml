@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="db187a49a761707642e0818f85a3350d70f09b7c"
 <define-tag description>vulnerabilidad en cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad en mpg321, un reproductor mp3 en

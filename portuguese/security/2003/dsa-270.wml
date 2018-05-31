@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="87d8ca0fba0e326572a539211a93d459291bb755"
 <define-tag description>escalonamento de privilégios local</define-tag>
 <define-tag moreinfo>
 <p>O carregador de módulos dos kernels Linux 2.2 e Linux 2.4 tem uma falha no

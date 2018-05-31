@@ -1,5 +1,5 @@
 #use wml::debian::template title="Negociação de Conteúdo"
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="0dbdbbf9b5488033e15adf800ec9b7aa8bcbc58c" translation_maintainer="Gustavo Rezende Montesino"
 
 <H3>Como o Servidor Sabe Qual Arquivo Servir</H3>
 

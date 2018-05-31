@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian &ldquo;wheezy&rdquo; インストール情報" NOHEADER="true"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/wheezy/release.data"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <h1>Debian <current_release_wheezy> のインストール</h1>
 

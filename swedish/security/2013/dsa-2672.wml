@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="91da8cc33a38cf6c2e183b1bee3391478a841034" mindelta="1"
 <define-tag description>tolkningskonflikt</define-tag>
 <define-tag moreinfo>
 <p>Adam Nowacki upptäckte att den nya implementationen av NFS i FreeBSD

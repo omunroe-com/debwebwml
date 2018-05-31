@@ -10,7 +10,7 @@
     }
 </style>
 :##}
-#use wml::debian::translation-check translation="1.24"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 # $Id$
 # Translator: Gerfried Fuchs <alfie@debian.org> 2002-02-03
 # Updated: Holger Wansing <linux@wansing-online.de>, 2011

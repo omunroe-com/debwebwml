@@ -1,6 +1,6 @@
 #use wml::debian::template title="Normalprocedur för resolutioner" BARETITLE="true" NOHEADER="true" NOHOMELINK="true"
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="e74c3fb0292e5eb9c4ffb3b534f6feaac88bf71b"
 
 <h1>Normalprocedur för resolutioner</h1>
 

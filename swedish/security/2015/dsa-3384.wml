@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="11403fad6affe7e60d271dca5b937149d8280af7" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Två sårbarheter har upptäckts i VirtualBox, en x86-virtualiseringslösning.</p>

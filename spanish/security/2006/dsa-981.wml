@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="951b11af3b21e8e016add91df549590eb7e1cd2f" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>"felinemalice" descubrió un desbordamiento de entero en BMV, un visor de

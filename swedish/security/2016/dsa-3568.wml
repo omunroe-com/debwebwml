@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="61013abc38e10f6833208999c1564b92c30133b1" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Pascal Cuoq och Miod Vallat upptäckte att Libtasn1, ett bibliotek för

@@ -19,4 +19,4 @@ stabile distribution (potato) og i version 5.8.0-14 i den ustabile distribution
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-208.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e6dec969579c178a1db9c74c8de45ecb2196bbd2"

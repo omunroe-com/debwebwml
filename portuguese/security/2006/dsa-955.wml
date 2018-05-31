@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="bfb456139d47afa16d79398fa262a2c876dcf71a" maintainer="Marco Carvalho"
 <define-tag description>DoS</define-tag>
 <define-tag moreinfo>
 <p>Dois bugs de negação de serviço ("denial of service") foram encontrados no

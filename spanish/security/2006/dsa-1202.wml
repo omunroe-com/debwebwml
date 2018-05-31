@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="d3b3ce1c162c016927ff895a5a4d09fd5ce8dbe7" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p><q>cstone</q> y Rich Felker descubrieron que algunas secuencias UTF-8

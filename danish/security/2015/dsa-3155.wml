@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="db4f5424e551b616b9c1d82f50ce760c33b28b9b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder er fundet i PostgreSQL-9.1, et SQL-databasesystem.</p>

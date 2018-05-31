@@ -18,4 +18,4 @@ at opnå root-rettigheder.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-299.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5147acfa910f8396a8784cc2d30a52496d138019"

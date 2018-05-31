@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2d9e99166ee2dccf1e88363126a524dc080fe523" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Emilien Gaspar upptäckte att collectd, en statistikuppsamlings- och

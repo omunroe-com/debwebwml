@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Índice"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Fernando C. Estrada"
 
 <p><b>Bienvenidos a las Noticias del Proyecto Debian</b>, un boletín
 para la comunidad Debian. Puede encontrar la última edición <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="84c60c5e2236e18a643b7da10712d9d17f0bf9f3" maintainer="juanma"
 <define-tag description>olvido de sanear la entrada</define-tag>
 <define-tag moreinfo>
 <p>Liam Helmer advirtió que sudo, un programa que proporciona privilegios

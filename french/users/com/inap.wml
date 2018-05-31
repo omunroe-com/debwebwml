@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.inap.se/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="11d084eecdede85d8e42c79b731a2cf154996ef8" maintainer="Nicolas Bertolissio"
 
 <p>
 Intelligent Applications Sweden AB utilise Debian pour certains de ses serveurs

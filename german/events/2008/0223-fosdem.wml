@@ -43,7 +43,7 @@
 #use wml::debian::past_event
 # $Id$
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-09-02
 <ul>
  <li><a href='http://www.fosdem.org'>die offizielle FOSDEM-Site</a></li>

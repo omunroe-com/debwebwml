@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-10-01" SUMMARY="Aggiornamento per Debian 6.0: rilasciata la versione 6.0.6, relazioni dagli ultimi Bug Squashing Party, risultati del Google Summer of Code di Debian, Mini DebConf a Parigi"
-#use wml::debian::translation-check translation="1.6" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97" maintainer="Mirco Scottà"
 
 <intro issue="nel diciannovesimo" />
 

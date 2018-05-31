@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 5.0 veröffentlicht</define-tag>
 <define-tag release_date>2009-02-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Das Debian-Projekt freut sich, die offizielle Veröffentlichung von Debian
    GNU/Linux Version 5.0, Codename <q>Lenny</q>, nach 22 Monaten fortlaufender

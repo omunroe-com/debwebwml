@@ -1,7 +1,7 @@
 <define-tag pagetitle>Firmen spenden Hardware und Netz-Anbindungen an Debian</define-tag>
 <define-tag release_date>1997-08-18</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1"
 # Translator: Helge Kreutzmann <debian@helgefjell.de>, 2006-07-02
 # $Id$
 

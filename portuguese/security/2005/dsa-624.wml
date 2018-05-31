@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="15ed6e160d98bbfdd5032757a3ee09a5623e6c27"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Um buffer overflow foi descoberto no zip, o compactador para

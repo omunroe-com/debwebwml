@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b6a7948fa22eb40076a6bfdcaad690461f19b7c5" mindelta="1"
 <define-tag description>tilgang uden for grænserne</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at applikationer, der benytter mesa-biblioteket, en fri 

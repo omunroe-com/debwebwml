@@ -49,7 +49,7 @@ abgehalten wird, ist die zweit-wichtigste Computer-Messe in Europa.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="f8e86fa097e27c2513dfd9456bbacbfff22e7d8d"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.muenchen.de/limux">LiMux-Projekt</a></li>

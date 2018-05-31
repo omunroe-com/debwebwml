@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 3.1 -- Ongelmien raportointi" BARETITLE=true
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a"
 
 <p>Jos sinulla on ongelmia asennusohjelman kanssa, raportoi viat
 <tt>installation-reports</tt>-paketille. Käyttämällä <a 

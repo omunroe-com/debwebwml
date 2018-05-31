@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240"
 <define-tag description>Buffertspill i vissa ftp-servrar</define-tag>
 <define-tag moreinfo>
 Paketen wu-ftp-academ och proftpd från Debian GNU/Linux 2.0 (hamm) är sårbara

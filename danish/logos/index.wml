@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians bomærker"
-#use wml::debian::translation-check translation="1.75"
+#use wml::debian::translation-check translation="3f2af2f89e5c2268c8535a4946511a643c146a5e"
 #include "$(ENGLISHDIR)/logos/index.data"
 
 <p>Debian har to bomærker (logoer).  Det <a href="#open-use">officielle logo</a> 

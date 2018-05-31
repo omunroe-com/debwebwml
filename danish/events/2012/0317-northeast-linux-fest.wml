@@ -21,7 +21,7 @@ møde Debian-brugere og -udviklere.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d0276858a6cdcd61e11672fd12a5eab7796cfce2"
 #Related Links here (free form)
 <ul>
     <li><a href="http://northeastlinuxfest.org/">Northeast Linux Fests 

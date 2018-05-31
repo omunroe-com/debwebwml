@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="166945915f0d0fd909d442953cca024468bf0775"
 <define-tag moreinfo>Nos han avisado de que la versión de mailman que se
 suministraba con Debian GNU/Linux 2.1 tenía un problema al verificar la lista
 de administradores.  El problema residía en que la generación del valor de la

@@ -6,7 +6,7 @@
 ##   be done in Debian's webwml repository
 # Status: [open-for-edit|content-frozen|sent]
 # $Rev: 3686 $
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 ##
 ## Template for upcoming announcements;  please copy it to the YYYY folder, and

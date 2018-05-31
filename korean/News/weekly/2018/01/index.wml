@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2018-02-28" SUMMARY="DPN, 데비안 9.3 및 8.10 나옴, FAI.me build service, Debsources 는 이제 sources.debian.org 로, Outreachy and GSoC, 기타 개발자 뉴스, New and noteworthy 패키지, 이벤트 (DebConf18 in Hsinchu, DebConf19 in Curitiba 포함), 보고, 도움 필요, 그냥 code 그 이상, 데비안 Social 미디어로부터 빠른 링크"
-#use wml::debian::translation-check translation="1.5" maintainer="Sebul"
+#use wml::debian::translation-check translation="0c718c51c08c685bb7c3ffbd1bf004028b5c2567" maintainer="Sebul"
 
 # $Rev$
 # Status: [content-frozen]

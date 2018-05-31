@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="def5a0a076dd7ff2aac05b88181c7cc8b8772034" maintainer="Pierre Machard"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>On a remarqué que la version d'enscript (un outil pour convertir

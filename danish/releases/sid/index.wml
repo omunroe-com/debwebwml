@@ -1,5 +1,5 @@
 #use wml::debian::template title="Den ustabile distribution (&ldquo;sid&rdquo;)"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="e47851b5ac1543503f7d4c10dc68bcdb9e2cbb68"
 
 #include "$(ENGLISHDIR)/releases/arches.data"
 <p>Kodenavnet på Debians udviklingudgave er <q>sid</q>, som har <q>unstable</q> (ustabil) 

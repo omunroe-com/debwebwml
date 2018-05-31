@@ -1,7 +1,7 @@
 <define-tag pagetitle>Over 2200 officielle dobbelt-cd'er solgt på otte uger</define-tag>
 <define-tag release_date>1997-08-18</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Siden starten af Debians officiel cd-program for blot otte uger siden, har
 er der blevet solgt over 2200 dobbelt-cd'er.  Antallet kan sagtens være højere

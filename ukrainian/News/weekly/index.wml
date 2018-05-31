@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Покажчик"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28" maintainer="Volodymyr Bodenchuk"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Volodymyr Bodenchuk"
 
 <p>
 <b>Ласкаво просимо до Новин проекту Debian (НПД)</b>&nbsp;— бюлетеня для спільноти Debian.

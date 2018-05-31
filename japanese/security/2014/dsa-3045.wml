@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8c34852989f7983b0bd7f8a66af7c163891a9d3c"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>高速なプロセッサエミュレータ qemu に複数の脆弱性が見つかりました:</p>

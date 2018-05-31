@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian in den Nachrichten: APCMAG 2.0 »Hamm« Beta-Besprechung</define-tag>
 <define-tag release_date>1998-08-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="b75d6bdbcd09bfa733bb45e44e28305cf4256c83"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-06-30
 
 Das australische <acronym lang="en" title="Personal Computer">\

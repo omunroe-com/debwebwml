@@ -19,7 +19,7 @@ slrn-announce での報告は以下の通りです。
 
 </define-tag>
 
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="6ab326dfd505ca821077c5edce399f2c0f801b86"
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-078.data"

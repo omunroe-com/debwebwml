@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="383616a4b93204bda26a195398334ebdb79aab8a" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 В последнее время создалась путаница по поводу ssh: некоторые люди полагают, что
 их системы были взломаны через ssh, хотя никто не может воспроизвести

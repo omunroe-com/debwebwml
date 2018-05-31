@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="73d0acfaa105083296c2192c98c8ff5329618ccc" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Alexander E. Patrakov upptäckte ett problem i strongSwanm en

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9ea958f8dfb0f3acd892045bc9e0e7e48aa71504" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптинг</define-tag>
 <define-tag moreinfo>
 <p>Сергей Нартымов обнаружил, что в Rails, инфраструктуре для веб-разработки

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2000-2-16" SUMMARY="Débat pour le poste de chef de projet, gestion des bogues critiques pour la publication"
-#use wml::debian::translation-check translation="1.16" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Thomas Huriaux"
 
 <p>Nous avons le plaisir de vous présenter la 6e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian.</p>

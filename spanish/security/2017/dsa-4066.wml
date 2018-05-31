@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ec31cfa944aa8054647456604e724c4f6231ff81"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron dos vulnerabilidades en el sistema abierto de solicitud de tickets («Open Ticket Request System»)

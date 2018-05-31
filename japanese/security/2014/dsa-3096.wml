@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3481a31414f6c294fac52c370b4b86faf1c5f874"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>ANSSI の Florian Maury さんが再帰 DNS サーバ pdns-recursor に欠陥を発見しています:

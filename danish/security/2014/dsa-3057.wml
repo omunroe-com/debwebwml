@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0fe13a351afbc7a497ddd7c0ae2b51084eb040ec" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Sogeti fandt en lammelsesangrebsfejl i libxml2, et bibliotek som gør det 

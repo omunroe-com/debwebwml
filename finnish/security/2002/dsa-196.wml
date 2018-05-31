@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="e12c94c1bd26a24ae67d1359239e6c2d7a6c8f75"
 <define-tag description>useita haavoittuvuuksia</define-tag>
 <define-tag moreinfo>
 <p>[Bind versio 9, bind9-paketti, ei ole altis näille ongelmille.]</p>

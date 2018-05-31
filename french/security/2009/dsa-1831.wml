@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="cc93de23eaa3aae0fd490bd0b66f20910a728e8f" maintainer="Thomas Vincent"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Matthew Dempsky a découvert que le djbdns de Daniel J. Bernstein, un serveur de

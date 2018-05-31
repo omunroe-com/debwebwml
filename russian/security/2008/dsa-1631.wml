@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e4bb4e0ce45ec09f824435d30416bacc17500005" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Андреас Золберг обнаружил, что libxml2, библиотека XML для GNOME,

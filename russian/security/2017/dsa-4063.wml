@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f8f80142665ea03aebb76800003d966a32116735" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тошифуми Сакагучи обнаружил, что PowerDNS Recursor, высокопроизводительный

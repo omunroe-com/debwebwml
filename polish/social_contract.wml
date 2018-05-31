@@ -1,5 +1,5 @@
 #use wml::debian::template title="Umowa społeczna Debiana" BARETITLE=true
-#use wml::debian::translation-check translation="1.30"
+#use wml::debian::translation-check translation="0f52c7e5a149db8184ce50fb99c50cf253a5834c"
 
 {#meta#:
 <meta name="keywords" content="social contract, Umowa społeczna, dfsg, social contract,

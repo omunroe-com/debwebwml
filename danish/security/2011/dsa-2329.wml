@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ccbf7bef1262abf56fe7e6b4258129fe0b7065f3" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Bartlomiej Balcerek opdagede flere bufferoverløb i TORQUE-server, en 

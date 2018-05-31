@@ -1,6 +1,6 @@
 #use wml::debian::template title=" 데비안 데스크톱"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.44" maintainer="Sebul"
+#use wml::debian::translation-check translation="f17adfcaa4dbad74178134aa94c26efff40b0722" maintainer="Sebul"
 
 <h2>데스크톱으로써 세계적 운영체제</h2>
 

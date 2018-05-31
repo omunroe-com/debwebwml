@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06" maintainer="DFS Task Force"
 <define-tag moreinfo>Certaines versions d'<i>xinetd</i> ont un bogue dans
 le mécanisme de contrôle d'accès. Si vous utilisez un nom d'hôte pour
 contrôler l'accès à un service (localhost au lieu de 127.0.0.1),

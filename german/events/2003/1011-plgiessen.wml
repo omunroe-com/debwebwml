@@ -23,7 +23,7 @@ einen Workshop über die APT-Werkzeuge abhalten.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="949111c5c25263176eeafa2fb7cf5786a694274b"
 # $Id$
 #Related Links here (free form)
 <ul>

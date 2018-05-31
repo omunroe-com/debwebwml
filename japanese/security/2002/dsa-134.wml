@@ -162,4 +162,4 @@ SSH のバージョン2を使用します (SSH プロトコルのバージョン
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-134.data"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="6822acd35ad6eb7044786082d7d0deb96747c492"

@@ -17,4 +17,4 @@ Kommandos unter der Benutzerkennung des Besitzers des Dateisystems auszuführen.
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1611.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f82e0df2c66e0b1187df28f359d869d262509801"

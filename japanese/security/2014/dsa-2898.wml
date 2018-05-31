@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="279323ec8f0aae53301a6852770aae785988503d"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>バッファオーバーフローが複数 Imagemagick、イメージ操作プログラム集に見つかりました。

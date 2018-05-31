@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fd6b7b964981744877466d8ef7f149ccfa113d51" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Alvaro Muñoz och Christian Schneider upptäckte att BeanShell, en

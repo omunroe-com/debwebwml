@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9ca5b5240426d10f256c9322608924a3c1b23acd"
 <define-tag description>przepełnienia buforów</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" and Chris Evans discovered several heap based buffer

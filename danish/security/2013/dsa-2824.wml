@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="143c3e1844802f89bdcd0235f64b3f3b97e310e2" mindelta="1"
 <define-tag description>ukontrolleret værtsnavn i tls-/ssl-certifikat</define-tag>
 <define-tag moreinfo>
 <p>Marc Deslauriers opdagede at curl, et filhentningsværktøj, sprang ved en fejl 

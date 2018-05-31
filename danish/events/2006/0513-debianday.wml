@@ -30,7 +30,7 @@ forskellige hardwarearkitekturer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="ce7ea15b1959c76ed90799a5622f5dda4cc23ae0"
 #Related Links here (free form)
 <ul>
  <li><a href="http://debconf6.debconf.org/debianday/">Oplysninger om DebianDay</a>

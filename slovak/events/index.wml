@@ -1,5 +1,5 @@
 #use wml::debian::template title="Dôležité akcie súvisiace s Debianom" BARETITLE=true
-#use wml::debian::translation-check translation="1.47" maintainer="Slavko"
+#use wml::debian::translation-check translation="638fe58045b37899bd09abeb6939ae254187e89e" maintainer="Slavko"
 <p>Podstránky <a href="https://wiki.debian.org/DebianEvents">stránky udalostí na Debian Wiki</a>
 obsahujú zoznam akcií, na ktorých sa Debian zúčastnil, zúčastňuje alebo zúčastní.
 </p>

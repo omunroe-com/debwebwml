@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="34b84ad03dc624b6460d071de726880c9bfec71d" maintainer="Lev Lamberov"
 <define-tag description>удалённое выполнение кода</define-tag>
 <define-tag moreinfo>
 <p>Педро Рибейро из Agile Information Security обнаружил возможность удалённого

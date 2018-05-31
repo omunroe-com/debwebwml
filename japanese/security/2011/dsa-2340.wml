@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9975e97b4d31e86bcc394220db727b8834737dfa"
 <define-tag description>弱いパスワードハッシュ</define-tag>
 <define-tag moreinfo>
 

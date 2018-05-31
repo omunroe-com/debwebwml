@@ -19,4 +19,4 @@ Liste de diffusion de BugTraq&nbsp;-&nbsp;juin 1997 (0128)</a>.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/undated/1svgalib.data'
-#use wml::debian::translation-check translation="1.8" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="1ef29ba7b707aeb90628e81b136054d370f76475" maintainer="DFS Task Force"

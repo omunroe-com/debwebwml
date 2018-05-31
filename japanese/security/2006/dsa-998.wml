@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ec9f33957a305a72c02d84e7dbba8fbc16a62c56"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Derek Noonburg さんが、xpdf の複数の潜在的な脆弱性を修正しています。

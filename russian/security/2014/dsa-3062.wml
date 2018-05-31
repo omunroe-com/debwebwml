@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="073250af9779d48e3355f4ecd7b3b6701ae06b60" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Эйчди Мур из Rapid7 обнаружил атаку через символические ссылки в Wget, утилите для

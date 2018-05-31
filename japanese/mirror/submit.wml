@@ -1,6 +1,6 @@
 #use wml::debian::template title="ミラー情報の提出"
 #include "$(ENGLISHDIR)/mirror/submit.inc"
-#use wml::debian::translation-check translation="1.81"
+#use wml::debian::translation-check translation="966d157cc082e34028cc38bee22e3c74b3627942"
 <p>Debian のミラーの情報を提出したい場合は、このフォームを使ってください。
 提出された情報はほとんどがミラーリストに公開されます。</p>
 

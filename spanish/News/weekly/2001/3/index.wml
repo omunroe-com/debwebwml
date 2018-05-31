@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-1-17" SUMMARY="Debian arranca en IA-64. Trasladando la criptografía a los EEUU"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <p>
 <b>Bienvenido</b> a las Noticias Semanales de Debian, traducción al español de Debian Weekly News (DWN), un boletín de noticias para la comunidad de desarrolladores Debian.

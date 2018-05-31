@@ -24,4 +24,4 @@ Debian/unstable.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-177.data"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="b1aa8859413be94d7d462a95019ab1ccbf3d21e2"

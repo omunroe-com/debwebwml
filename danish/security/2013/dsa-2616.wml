@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a98446aaf3adc90dfad1357c7ee75b911b6a90c3" mindelta="1"
 <define-tag description>bufferoverløb i CGI-skripter</define-tag>
 <define-tag moreinfo>
 <p>Et bufferoverløbsproblem er opdaget i nagios3, et system til overvågning og 

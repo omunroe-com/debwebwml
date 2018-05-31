@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba0fae4d274595ea4a5ffb51f5c51b365d429851" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Стив Кэмп обнаружил, что hf, протокол для любительского радио, использующий

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="3af59b6a3de6ce080f61fd8571c4117caac4ef3d" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>Perl 언어 프로그램 언어 구현에서 여러 취약점이 발견되었습니다.

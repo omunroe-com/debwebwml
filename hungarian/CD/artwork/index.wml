@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Grafikák Debian CD-re" BARETITLE=true
 # $Id$
-#use wml::debian::translation-check translation="1.40" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="100364f4972df7a5b7874f69cbff87bee524409a" maintainer="Szabolcs Siebenhofer"
 
 <p>Ha készítettél saját CD borítót és meg szeretnéd osztani velünk,
 <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;debian-cd&#64;lists.debian.org"

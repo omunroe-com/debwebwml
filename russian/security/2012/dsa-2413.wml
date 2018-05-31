@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e7baccb7b0026bc025ce5c4c1bef6dc74619ca03" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В libarchive, библиотеке, предоставляющей удобный интерфейс

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="d2338be941e3d4dc61d3c91deadc3192c3e3fe7c" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p><i>gopherd</i>, un serveur gopher de l'université du Minnesota, contient 

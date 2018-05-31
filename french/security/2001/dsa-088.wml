@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="5bfd48981d4bd08b5a05d01bddffae5bb155a199" maintainer="Pierre Machard"
 <define-tag description>Caractère d'échappement impropre</define-tag>
 <define-tag moreinfo>
 Le paquet fml (une liste de diffusion) tel qu'il est distribué dans Debian 

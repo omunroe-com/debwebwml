@@ -1,7 +1,7 @@
 <define-tag pagetitle>Imagination duy trì động lượng cho Debian chạy trên MIPS</define-tag>
 <define-tag release_date>2015-03-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Minh Le <tinhminh89ha@gmail.com>"
+#use wml::debian::translation-check translation="4602d1179902824fc0539d20c3540a007b57022a" maintainer="Minh Le <tinhminh89ha@gmail.com>"
 
 <p>
 Để ủng hộ sự phát triển của Debian, vào tháng mười năm

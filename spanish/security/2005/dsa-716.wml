@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="10a9f4b1313fe404218d52cd7a058059ca96f26b" maintainer="juanma"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto que algunos paquetes SNAC mal formados enviados

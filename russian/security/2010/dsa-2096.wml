@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="828d4b6fa67ce2c15be91b96fcc1509732dc5ed3" maintainer="Lev Lamberov"
 <define-tag description>отсутствие проверки ввода</define-tag>
 <define-tag moreinfo>
 <p>Джереми Джеймс обнаружил, что код аутентификации в LDAPUserFolder, расширении Zope

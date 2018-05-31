@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="e551b06070278a866bd28835210e6fac13d5e0d2" maintainer="Baptiste Jammet"
 <define-tag pagetitle>Plusieurs dons améliorent la fiabilité de l'infrastructure de Debian</define-tag>
 <define-tag release_date>2016-10-03</define-tag>
 #use wml::debian::news

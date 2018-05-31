@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="20c4faeac01b799f2bd48a05755e2ce9e87ab672" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Django, высокоуровневой инфраструктуре веб-разработки для Python,

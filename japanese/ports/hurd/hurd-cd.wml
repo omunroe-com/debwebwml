@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd --- Hurd-CD" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="1.85"
+#use wml::debian::translation-check translation="fc6768b11017692666534b7eacf2dd22a442876a"
 
 
 <define-tag cdserie>L1</define-tag>

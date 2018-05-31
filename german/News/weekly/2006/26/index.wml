@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-06-27" SUMMARY="Abfragesprache, Paketieren, Öffentlichkeitsarbeit, Fehler, Kuba, Module, Lizenz"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="1f1a93d31af8bb304ac496c53cdbf0262b21846d"
 #use wml::debian::acronyms
 # $Id$ XXX
 

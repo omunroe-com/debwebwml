@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2bd18a67682540fb7c79d49a858ca9bcfaa704ed"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Georgi Guninski descubrió dos desbordamientos de buffer en

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9e77f32585425eb60ab2e38897500736d2976f3d" mindelta="1"
 <define-tag description>designfejl</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at roundcube, en skindbar AJAX-baseret webmailløsning til 

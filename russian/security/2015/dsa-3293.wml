@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cb7221a068b4863e1d853c8cc1076bb3b8390e8c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тим Маклин обнаружил, что pyjwt, реализация JSON Web Token на языке Python,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d82c7cc0be63b0d107352f77ee0715fd39005d20" maintainer="Lev Lamberov"
 <define-tag description>обовление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление исправляет возможность обхода аутентификации в wiki, если для

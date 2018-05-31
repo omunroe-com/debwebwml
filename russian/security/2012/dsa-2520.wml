@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fd8cd9379f58d77c7e06f00a1c20c1b12572e845" maintainer="Lev Lamberov"
 <define-tag description>многочисленные переполнения динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Тимо Уорнс из PRE-CERT обнаружил многочисленные переполнения динамической памяти в

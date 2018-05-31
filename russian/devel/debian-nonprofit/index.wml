@@ -1,6 +1,6 @@
 #use wml::debian::template title="Проект Debian Non-Profit"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.23" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc" maintainer="Lev Lamberov"
 
 <h2>Debian-NP</h2>
 

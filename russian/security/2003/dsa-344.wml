@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4e97ba7f8f378444aac5d934639be799155c655d"
 <define-tag description>проход сквозь каталоги</define-tag>
 <define-tag moreinfo>
 <p>Уязвимость к проходу сквозь каталоги в UnZip 5.50 позволяет

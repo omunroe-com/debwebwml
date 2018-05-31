@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="2e708b9e70f0706621cb2f188cbd0dfbb3acf31a" maintainer="Thomas Vincent"
 <define-tag description>Dépassement de tampon par le bas</define-tag>
 <define-tag moreinfo>
 <p>Chris Ries a découvert que nginx, un serveur HTTP à haute performance, reverse

@@ -1,6 +1,6 @@
 #use wml::debian::template title="O sitio web de Debian en distintos idiomas" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.89" maintainer="Jorge Barreiro González"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Jorge Barreiro González"
 
 <protect pass=2>
 <:

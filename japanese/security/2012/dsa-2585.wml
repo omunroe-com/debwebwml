@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ebd60a0bed0ff6b760916c52463770741c41da7e"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>ヒープベースのバッファオーバフローが、メールメッセージを spam か非

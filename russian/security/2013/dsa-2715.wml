@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="13c85e7cf74a28fc991efd1f3c3566336e871c46" maintainer="Lev Lamberov"
 <define-tag description>выполнение кода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что puppet, централизованная система управления

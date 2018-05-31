@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1f56ea60b482e10bcccbbc0e9d2ebdffc110e1ca"
 <define-tag description>ディレクトリトラバーサル</define-tag>
 <define-tag moreinfo>
 <p>IRC プロキシ znc が一部の DCC リクエストを正しく処理していないため、攻

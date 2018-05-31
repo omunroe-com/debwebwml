@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0852993c1a4125fc45a9310dd9446f294903d4b6" mindelta="1"
 <define-tag description>överbelastningsattack</define-tag>
 <define-tag moreinfo>
 <p>Ovidiu Mara rapporterade i 2010 en sårbarhet i ping-verktyget, som normalt

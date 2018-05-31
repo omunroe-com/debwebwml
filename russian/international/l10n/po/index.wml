@@ -1,5 +1,5 @@
 #use wml::debian::template title="PO-файлы для всех языков в Debian"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1b080e5523e5a627683a56e6aec809a82f488574"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
 
 #include "$(ENGLISHDIR)/international/l10n/po/menu.inc"

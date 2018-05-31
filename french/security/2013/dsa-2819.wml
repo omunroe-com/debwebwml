@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="13ad01c1b15c800d409d0a73366ce01fc8abaf8f" maintainer="Thomas Vincent"
 <define-tag description>Annonce de fin de vie pour iceape</define-tag>
 <define-tag moreinfo>
 <p>La prise en charge de la sécurité pour Iceape, la version de Debian de la

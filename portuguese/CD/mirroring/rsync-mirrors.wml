@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Lista dos servidores rsync espelho ('mirror') para as imagens de CD Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="d15cbd4e121ea975532c1dda0bc1b79f69cee45d"
 
 <p>Estes são os endereços dos servidores <a
 href="http://rsync.samba.org/">rsync</a> espelho ("mirror") para a

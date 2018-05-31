@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8f77956af5dce4dea18a6543231016865ac5d651"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>SMB/CIFS ファイル、印刷、ログインサーバ

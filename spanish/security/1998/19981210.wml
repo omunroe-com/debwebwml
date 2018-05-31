@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="383616a4b93204bda26a195398334ebdb79aab8a"
 <define-tag moreinfo>
 Ha habido mucha confusión sobre ssh últimamente: alguna gente piensa que sus
 sistemas han sido pirateados a través de ssh, aunque nadie ha sido capaz de

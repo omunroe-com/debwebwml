@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="017420500dc1588aa0d09c3a08d310901ec0c8ba"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>広く利用されているネットワークトラフィックアナライザ ethereal での X11

@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Détente Hamradio"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4" maintainer="Jean-Paul Guillonneau"
 
 <h2>Serveur <code>convers</code></h2>
 

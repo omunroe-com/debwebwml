@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4816088dd00f6001dccb1bfab064b88b07e2b7c9"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Jack Louis さんが、Larry Wall 作の実用的な抽出とレポート用の言語

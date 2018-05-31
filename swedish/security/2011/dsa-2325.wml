@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="42c121cc7f8d2c3b8f5d97a1a50ebe084e8ca2a3" mindelta="1"
 <define-tag description>utökning av privilegier/överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Buffertspill i stödet för <q>Linuxemulering</q> i FreeBSD-kärnan

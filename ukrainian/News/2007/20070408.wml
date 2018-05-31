@@ -1,7 +1,7 @@
 <define-tag pagetitle>Випущено Debian GNU/Linux 4.0</define-tag>
 <define-tag release_date>2007-04-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Borys Yanovych"
 
 <p>Після 21 місяця невпинної розробки, проект Debian радий повідомити 
 про офіційний випуск Debian GNU/Linux версії 4.0, кодова назва&nbsp;— <q>etch</q>. 

@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Kangaroot Linux Solutions"
-#use wml::debian::translation-check translation="1.2" maintainer="skizzhg"
+#use wml::debian::translation-check translation="1dec5e3bbb4b0d98ac258ca55b7b0d4cf17dbbc3" maintainer="skizzhg"
 
 <p>Consulenti Linux belga orientati ad assistenza e installazione Debian.
 Server di posta, file server, server web, firewall, server groupware, VPN,

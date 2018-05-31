@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-06-11" SUMMARY="Debian accueille la diversité, reconstructions de l'archive sur AWS, armhf et s390x candidates pour la publication"
-#use wml::debian::translation-check translation="1.7" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

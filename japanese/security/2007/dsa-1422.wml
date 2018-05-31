@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="99019cd073bbdb800fe10124c120be474709d6a0"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>McAfee AVERT Research の Rafal Wojtczuk さんにより、ext2 ファイルシステ

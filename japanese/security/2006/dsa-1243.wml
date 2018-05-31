@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c17042a74927744370b508cdfbf15f5d96d7ac42"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Renaud Lifchitz さんにより、X 用の PostScript および PDF ファイルビューア

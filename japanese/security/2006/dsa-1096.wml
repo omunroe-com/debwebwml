@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cfc1b1526a7228d6bddf579ffe86ecacdb77ce12"
 <define-tag description>変数の初期化漏れ</define-tag>
 <define-tag moreinfo>
 <p>PHP ベースのマルチユーザカレンダープログラム webcalendar

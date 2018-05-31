@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="5268204b6238b925e764d60124ff3251891f8475" maintainer="Marco Carvalho"
 <define-tag description>Falta de limpeza da entrada</define-tag>
 <define-tag moreinfo>
 <p>Johannes Greil da SEC Consult descobriu várias vulnerabilidades de

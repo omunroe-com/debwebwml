@@ -21,6 +21,6 @@ Python 2.3 は、この問題の影響は受けません。
 <p>Python パッケージを早急にアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0a16238978f5a74e5e453dc0960cbae462d8b4fe"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-159.data"

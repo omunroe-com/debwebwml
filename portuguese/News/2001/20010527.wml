@@ -1,7 +1,7 @@
 <define-tag pagetitle>O Projeto Debian em duas exposições</define-tag>
 <define-tag release_date>2001-05-27</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="2aa9437018d3a3fe2935e51c20fa7e6c3a31e9bf"
 
 <p>Duas exposições e conferências começarão dentro de dois dias.
 O Projeto Debian terá um estande em uma e terá um encontro de

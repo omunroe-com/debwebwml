@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="7613d83e8542de4837c4fb151bcacc3fb9805c1e" translation_maintainer="Michelle Ribeiro"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Um grupo de problemas buffer overflow foi encontrado no hanterm, um terminal

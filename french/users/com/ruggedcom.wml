@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.ruggedcom.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="6c8c9c921816770cd2c2ea9d1d200790bf9680ab" maintainer="Nicolas Bertolissio"
 
 <p>
 En plus d'utiliser un certain nombre de serveurs Debian pour gérer nos

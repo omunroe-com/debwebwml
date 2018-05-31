@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-16" SUMMARY="Tcl, testing, woody, Banjos, FDL, PTS, DebConf, BTS, Instalador, Subversion, Debmirror"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Bem vindo à trigésima sétima edição da DWN, o periódico semanal para
 a comunidade Debian. Vários leitores nos avisaram que o primeiro hardware

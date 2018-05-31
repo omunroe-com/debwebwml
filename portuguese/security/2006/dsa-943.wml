@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="4816088dd00f6001dccb1bfab064b88b07e2b7c9" maintainer="Marco Carvalho"
 <define-tag description>estouro de inteiro</define-tag>
 <define-tag moreinfo>
 <p>Jack Louis descobriu um estouro de inteiro no Perl, Linguagem

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="6b2c12b0005ce2e18afc3dbbc31c9a2ed23d62dc" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Gustavo Grieco a découvert que xerces-c, une bibliothèque d'analyse et de

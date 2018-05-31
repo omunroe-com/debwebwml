@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a087948ecd4b3d7de2a1c29ef95becc2f44d4097"
 <define-tag description>desbordamientos de búfer</define-tag>
 <define-tag moreinfo>
 <p>Mordred Labs y otros encontraron varias vulnerabilidades en PostgreSQL,

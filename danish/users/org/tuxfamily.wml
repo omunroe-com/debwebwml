@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.tuxfamily.org/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c6e20b7c1e7d6c22fa4476bc1d65d311da78a6c4"
 
 <p>
     TuxFamily er en nonprofitorganization, der stiller frit tilgængelige

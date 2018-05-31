@@ -1,5 +1,5 @@
 #use tmpl::debian-zh::template area=home title="Debian 中国語プロジェクト"
-#use wml::debian::translation-check translation="1.23" original="chinese"
+#use wml::debian::translation-check translation="2b1232338eab9d8d2df3718e18e5e5ccc1bacc5e" original="chinese"
 
 
 

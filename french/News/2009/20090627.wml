@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Thomas Vincent"
 <define-tag pagetitle>Debian GNU/Linux 5.0 updated</define-tag>
 <define-tag release_date>2009-06-27</define-tag>
 #use wml::debian::news

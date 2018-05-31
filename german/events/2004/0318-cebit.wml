@@ -47,7 +47,7 @@ Debian GNU/Linux« halten.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="22cb5b704c80ab18fa9f6b28be9813dd963223a3"
 # $Id$
 #Related Links here (free form)
 <ul>

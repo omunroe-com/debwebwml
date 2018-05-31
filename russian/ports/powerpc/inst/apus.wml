@@ -1,6 +1,6 @@
 #use wml::debian::template title="Перенос на PowerPC (APUS)" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/inst/menu.inc"
-#use wml::debian::translation-check translation="1.12" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a9738774706d265243f4d1b6f43b411f8536f5c8" maintainer="Lev Lamberov"
 
 <h1>Установка Debian GNU/Linux на машину PowerPC APUS</h1>
 

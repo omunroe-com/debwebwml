@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06"
 <define-tag moreinfo>
 Hay un problema ampliamente referenciado con la gestión de capacidades POSIX
 en el núcleo de Linux que puede conducir a compromisos de root en las

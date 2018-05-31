@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a50ae30168c0da5dafe1dcb6468742a9cde97e84" maintainer="Jean-Pierre Giraud"
 <define-tag description>Annonce de fin de vie</define-tag>
 <define-tag moreinfo>
 <p>La prise en charge amont des séries version 4.3 est terminée et, dans la

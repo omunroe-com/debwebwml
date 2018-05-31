@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c06875751a6d1a75e8091748a3cb64fd3671ce0b" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Se ha encontrado un desbordamiento de búfer en la función file_printf

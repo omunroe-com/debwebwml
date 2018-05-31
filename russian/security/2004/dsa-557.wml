@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7b31fcd8837d127519de423529bcf499c592b629"
 <define-tag description>не производится отказ от привилегий</define-tag>
 <define-tag moreinfo>
 <p>Макс Возелер (Max Vozeler) обнаружил уязвимость в pppoe, драйвере PPP

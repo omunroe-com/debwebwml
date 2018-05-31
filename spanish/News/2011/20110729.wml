@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" original="french" maintainer="Gildardo A. Maravilla Jácome"
+#use wml::debian::translation-check translation="3355bd47177276c39803106c1d06de446e8f4592" original="french" maintainer="Gildardo A. Maravilla Jácome"
 <define-tag pagetitle>Nuevo clúster beowulf en EDF (200 Tflops) usando Debian 6.0 Squeeze</define-tag>
 <define-tag release_date>2011-07-29</define-tag>
 #use wml::debian::news

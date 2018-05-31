@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2bddeaf6b331564ef64a80aff1b495ac6e041ab5"
 <define-tag description>estouros de inteiro</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans descobriu vários estouros de inteiro no xpdf, que

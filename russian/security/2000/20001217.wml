@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Ранее было сообщено о проблеме в joe, эта же проблема
 была обнаружена и в других редакторах. Когда nano (свободный клон pico) неожиданной завершает работу,
 то он пытается записать предупреждение в новый файл с предсказуемым именем (имя редактируемого

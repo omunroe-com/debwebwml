@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-05-20" SUMMARY="委任, イベント, 寄付, メニュー, 翻訳, テスト版, DebConf, フォント, FreeBSD, IPv6, Ogg, SCO"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 20 号へようこそ。Debian はまだ GCC 3.2

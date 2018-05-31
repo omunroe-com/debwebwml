@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f7f72e20a06b210ebc293e57ee967964d53eb463" maintainer="Lev Lamberov"
 <define-tag moreinfo>\
 Обновлённая версия ntop (1.2a7-10), выпущенная 5 августа,
 оказалась небезопасной: она уязвима к переполнению

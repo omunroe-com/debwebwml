@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="348cd8e41e3e987737973954c883a479db098f86"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Algunos desbordamientos de búfer se arreglaron en la biblioteca "ncurses"

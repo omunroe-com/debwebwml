@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="88a9a0f0a0eb93512ee84dc320d5b389db94d541" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Лука Бруно обнаружил переполнение целых чисел, приводящее к переполнению

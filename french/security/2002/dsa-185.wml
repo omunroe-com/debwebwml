@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a15338d260bec7f6eaddec5ddc88d750416cd45c" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Un débordement de pile dans la fonction <i>kadm_ser_wrap_in</i> a été

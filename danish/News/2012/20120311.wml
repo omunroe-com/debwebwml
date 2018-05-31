@@ -1,7 +1,7 @@
 <define-tag pagetitle>Første <q>Squeeze</q>-baserede Debian Edu-version udgivet</define-tag>
 <define-tag release_date>2012-03-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian Edu-holdet er stolt over at kunne offentliggøre udgivelsen af Debian 
 Edu <q>Squeeze</q> 6.0.4+r0!

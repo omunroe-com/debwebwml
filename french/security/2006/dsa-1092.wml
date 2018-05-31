@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="62448fa10e5960a7efc5964155a327d5d0fc9f5d" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Josh Berkus et Tom Lane ont découvert que MySQL&nbsp;4.1, une base de données

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="842f44e93fa539a73fa7939d95f4da6587ef45a2" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Марк Доуд обнаружил уязвимость в обработке асинхронных сигналов в

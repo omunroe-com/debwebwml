@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="bfaa736c9d7795f4475b7547974fc768d9ce403b" maintainer="Simon Paillard"
 <define-tag pagetitle>DebConf11 terminée avec succès pour le projet Debian</define-tag>
 
 <define-tag release_date>2011-07-30</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>La versión de mailx distribuída en Debian GNU/Linux 2.1
 (también conocida como slink), así como en las distribuciones congelada
 (potato) e inestable (woody), es vulnerable a un desbordamiento de búfer local

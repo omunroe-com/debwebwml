@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="565e5f69e752ffb77a2dd9febee91bc7d7fcaa14" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В HP Linux Printing and Imaging System были обнаружены многочисленные уязвимости:

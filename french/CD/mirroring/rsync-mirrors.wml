@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Liste des miroirs rsync pour les images de CD de Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.4" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="d15cbd4e121ea975532c1dda0bc1b79f69cee45d" maintainer="Frédéric Bothamy"
 # Previous translation by Thomas Huriaux
 
 <p>Voilà les adresses des miroirs <a href="http://rsync.samba.org/">rsync</a>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="5dcf66c575db6d07664f30d8eb7f55e6db92e79c" mindelta="1"
 <define-tag description>rehashing-fejl</define-tag>
 <define-tag moreinfo>
 <p>Yves Orton opdagede en fejl i Perls rehashing-kode.  Fejlen kunne udnyttes 

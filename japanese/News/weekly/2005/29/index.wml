@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-19" SUMMARY="CD/DVD, Hurd, C++ ABI, リリースチーム, BTS, 品質保証, 印刷, SSH"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 29 号へようこそ。今週号がリリースされる頃には、

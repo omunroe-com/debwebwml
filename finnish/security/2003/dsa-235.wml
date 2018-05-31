@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73"
 <define-tag description>useita haavoittuvuuksia</define-tag>
 <define-tag moreinfo>
 <p>KDE-ryhmä <a href="http://www.kde.org/info/security/advisory-20021220-1.txt">\

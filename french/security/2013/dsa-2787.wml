@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="9e77f32585425eb60ab2e38897500736d2976f3d" maintainer="Thomas Vincent"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>Roundcube, une solution web de messagerie personnalisable et basée sur AJAX

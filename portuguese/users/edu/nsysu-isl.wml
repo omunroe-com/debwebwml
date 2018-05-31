@@ -1,5 +1,5 @@
 # From: "mail.nsysu.edu.tw" <guan@mail.nsysu.edu.tw>
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="4e8650e7896c6de566d702c4809d310018fde11e" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <define-tag pagetitle>Information Security Laboratory, National Sun Yat-Sen University, Taiwan</define-tag>
 <define-tag webpage>http://isl.cse.nsysu.edu.tw/</define-tag>

@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Jaume Teixi"
-#use wml::debian::translation-check translation="1.4" maintainer="skizzhg"
+#use wml::debian::translation-check translation="95ea9ff4607b7fdb60a0f5834788fc9b779cc6a3" maintainer="skizzhg"
 
 <p>
 Comunicazioni tra piattaforme e ambienti di reti LAN e WAN.

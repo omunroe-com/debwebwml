@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="de56cc37343d6fe156f7be468483ee5852e76ed7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Tobias Stoeckmann opdagede at cachefiler blev utilstrækkeligt valideret i 

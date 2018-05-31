@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3849e632e159ad71ff33e9ac7435af4ecd8bbffc" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Аки Гелин из OUSPG обнаружил множество проблем с чтением за пределами массива в libxml2,

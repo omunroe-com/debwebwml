@@ -1,6 +1,6 @@
 # Status: [sent]
 # $Rev$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="785a8baaeae5e8291c6b82f5b7d3edf781289e27"
 
 <define-tag pagetitle>DebConf17 于蒙特利尔闭幕，DebConf18 日期宣布</define-tag>
 <define-tag release_date>2017-08-12</define-tag>

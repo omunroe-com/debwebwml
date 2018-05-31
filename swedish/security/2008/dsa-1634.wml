@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bbb83a58cccf4123338fb33808d1273168afeb6a" mindelta="1"
 <define-tag description>stack- och heapspill</define-tag>
 <define-tag moreinfo>
 <p>

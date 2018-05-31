@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8257097da4e4ec8b1f6a43752f47d486618a067b"
 <define-tag description>XML 外部エンティティ処理の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Positive Technologies の Timur Yunusov さんと Alexey Osipov

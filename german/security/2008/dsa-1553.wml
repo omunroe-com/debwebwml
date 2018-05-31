@@ -16,4 +16,4 @@ schützt.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1553.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="50dcc63d4c73a8c154f16df5f382af1428cc806d"

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Første officielle testcyklus af Debian GNU/Linux 2.2 påbegyndt</define-tag>
 <define-tag release_date>2000-05-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1a8626fae1df15924d17633643edb17df0f236f0"
 
 <p>"Den første officielle testcyklus startede i dag," sagde Richard Braakman, 
 Debians nuværende udgivelsesansvarlige.  Dette er den næste milepæl i 

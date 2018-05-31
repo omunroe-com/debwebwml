@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a44ecbe2693ea8c6b0a94b7d13ec18c2c61c93a3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が ModPlug ベースの mod music 用ライブラリ

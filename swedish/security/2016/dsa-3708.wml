@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="63b88a24795c921f1f53c0f679cab90b207cf406" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Hartmut Goebel upptäckte att MAT, en verktygslåda för att anonymisera/

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9031c0684f17341a83a39c06272faf78c98ee81e" maintainer="Lev Lamberov"
 <define-tag pagetitle>События 2006 года</define-tag>
 #use wml::debian::template title="События 2006 года"
 #use wml::debian::recent_list

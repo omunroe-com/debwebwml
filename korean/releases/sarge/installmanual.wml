@@ -2,7 +2,7 @@
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/sarge/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714"
 
 <p>설치 설명서는 지원 아키텍처별로 제공되고 파일 형태로 다운로드할 수도 있습니다.</p>
 

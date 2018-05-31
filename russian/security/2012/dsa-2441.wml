@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="508bd4f99e87fa86aaef61d1f7cd284a2517a796" maintainer="Lev Lamberov"
 <define-tag description>отсутствие проверки границ массива</define-tag>
 <define-tag moreinfo>
 <p>Мэтью Холл обнаружил, что GNUTLS неправильно обрабатывает усечённые

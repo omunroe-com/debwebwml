@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="88695a92296ff4b7dc2beecedd06d59fee400c85"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Um pesquisador de segurança da iDEFENSE descobriu um estouro de

@@ -2,7 +2,7 @@
 <define-tag release_date>1997-11-15</define-tag>
 
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" translation_maintainer="Martin Quinson"
 
 Notre but au sein du projet Debian est de produire un système Linux
 100% libre de haute qualité. Mais en même temps, en tant que

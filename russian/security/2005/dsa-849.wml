@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e2a9a7eccc5f11e94b9a6f0e230cba5a03e31285" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>"Supernaut" заметил, что shorewall, Shoreline Firewall, может

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="2518bab63299eb7deea30148348d77dc53cac869"
 # Translator: Gerfried Fuchs <alfie@debian.org> 2001-08-14
 # Updated: Holger Wansing <linux@wansing-online.de>, 2011
 # $Id$

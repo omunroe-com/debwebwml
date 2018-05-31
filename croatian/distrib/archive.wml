@@ -1,5 +1,5 @@
 #use wml::debian::template title="Arhive distribucije"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="e24369449a985674e8b7613cf311ef079f9c6510"
 #use wml::debian::toc
 
 <toc-display />

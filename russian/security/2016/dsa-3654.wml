@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f480635ff88d0c07a5c2066b34ec3c624afcc8dd" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В quagga, службе маршрутизации BGP/OSPF/RIP, были обнаружены две

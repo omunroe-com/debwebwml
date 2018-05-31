@@ -1,5 +1,5 @@
 #use wml::debian::blends::gis
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="ff9649c8aa2e1aa09d934c939de35d1476aabd4a"
 
 {#alternate_navbar#:
    <div id="second-nav">

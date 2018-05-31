@@ -24,6 +24,6 @@ introduktion til Debian.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="cbfe95e0a9c1e87cf4be580991a74eb134b41ab0"
 #Related Links here (free form)
 

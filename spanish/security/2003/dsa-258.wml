@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a7ef648b85e80077fddebc04b711aff11a64211f"
 <define-tag description>vulnerabilidad en cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Georgi Guninski descubrió un problema en ethereal, un analizador de

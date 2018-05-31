@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="c13fb49fb04d3b39e6e9a2f23e3b794802d82bdc" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon, double libération de mémoire</define-tag>
 <define-tag moreinfo>
 <p>Daniel Wachdorf a rapporté deux problèmes de la version du MIT de krb5

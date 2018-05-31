@@ -1,7 +1,7 @@
 <define-tag pagetitle>MAPS: お知らせする価値のあるプロジェクト</define-tag>
 <define-tag release_date>1998-02-23</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="4a64ad4833f45239bab8746e915d49ad9697f97e"
 
 <p>インターネットのヘビーユーザの大部分と同じく、
 Debian 開発者も<q>スパム</q>電子メールに悩まされてきました。

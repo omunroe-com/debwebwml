@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="85bac29c7209956a87af0e2c5cf95d4b48905c40"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que un «uso tras liberar» en el compositor de Firefox

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Причины выбрать Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.74" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858" maintainer="Lev Lamberov"
 
 <p>Спасибо за то, что вы рассматриваете возможность установки Debian на
 вашу машину. Если вы ещё не убеждены, что вам нужно попробовать Debian, то

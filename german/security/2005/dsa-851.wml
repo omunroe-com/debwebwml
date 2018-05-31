@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a0d600d01715dbbf4914085465813e3a9593ddd4"
 <define-tag description>Programmierfehler</define-tag>
 <define-tag moreinfo>
 <p>Mehrere sicherheitsrelevante Probleme wurden in openvpn, einem Daemon

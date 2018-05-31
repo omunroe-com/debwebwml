@@ -1,7 +1,7 @@
 <define-tag pagetitle>Forbedredelse til udgivelsen af etch beta 2 er skyld i af de fleste beta 1-aftrykke ikke virker</define-tag>
 <define-tag release_date>2006-02-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9534400b758644d04f2b02226ab905c1342a1288"
 
 <p>De sidste forberedelser er gået i gang til beta 2-udgivelsen af Debian 
 Installer til etch.  Ændringerne i arkivet vil forhindre de fleste 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="360b91beb591734dc32402c7e23c14f66dd1ef82"
 <define-tag description>överbelastning/exekvering av godtycklig kod</define-tag>
 <define-tag moreinfo>
 <p>I MySQL 4.0.0 till och med 5.0.83 tillåter flera formatsträngssårbarheter

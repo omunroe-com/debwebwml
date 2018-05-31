@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Aide pour le mélange"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="782509a51027ad88b32dc7e3bf5b2d3e608d61c8" maintainer="Jean-Paul Guillonneau"
 
 <h2>Documentation</h2>
 

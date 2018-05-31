@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="80638ac331e841121cd880783db8d4a712b7fe1f" mindelta="1"
 <define-tag description>heltalsoverløb</define-tag>
 <define-tag moreinfo>
 <p>Hossein Lotfi opdagede et heltalsoverløb i libsndfiles kode til fortolkning 

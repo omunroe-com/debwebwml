@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="96e4eb574dff0b5772e27574ff41ff3692e6bcfc"
 <define-tag description>entrada não-sanitizada</define-tag>
 <define-tag moreinfo>
 <p>Uma vulnerabilidade foi descoberta na implementação Cyrus 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-05-15" SUMMARY="BTS 再設計, DebConf2, Woody DVD, ハム, Hurd, SGML, ブートフロッピー"
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="0d70cf50ad4b46bfe8c87cfc1b0735dd380b99d0"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian 週刊ニュースの
 今年の第 20 号へようこそ。

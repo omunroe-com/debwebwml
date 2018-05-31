@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2c7cedb8e0fb02b64c3c71add86fe5d90b281fe8" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 В недавних сообщениях на форуме компьютерной безопасности говорится о
 переполнениях буфера в minicom.  Эти проблемы могут приводить к получению прав суперпользователя в том случае,

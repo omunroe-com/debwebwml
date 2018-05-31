@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="3dd6714bfa3884367436b3a46cc38ff96fce5a3c" translation_maintainer="Michelle Ribeiro"
 <define-tag description>vulnerabilidade remota</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Krahmer encontrou várias partes no <a href="http://rsync.samba.org/">\

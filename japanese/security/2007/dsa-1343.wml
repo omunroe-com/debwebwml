@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e819e23b9f78a783edd597a6e955f85bd8fec22d"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Colin Percival さんは、ファイル形式判別ツール file 

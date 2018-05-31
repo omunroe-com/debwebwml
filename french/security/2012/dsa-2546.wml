@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="301c94628232b53ee41a0d3162065bdb4f9ce778" maintainer="David Prévot"
 <define-tag description>Dépassements de tampon de tas</define-tag>
 <define-tag moreinfo>
 <p>

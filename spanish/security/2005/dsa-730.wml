@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="aec8dd4d0fb2ab62f161709b53fef1fae02d1977" maintainer="Juan M. Garcia"
 <define-tag description>condición de fuga</define-tag>
 <define-tag moreinfo>
 <p>Imran Ghory descubrió una condición de fuga en bzip2, un compresor

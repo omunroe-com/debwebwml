@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-09-30" SUMMARY="Una sintesi di Debian GSoC 2013, aggiornamenti in arrivo per Wheezy e Squeeze"
-#use wml::debian::translation-check translation="1.7" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="7b03bd081c95cb0fe0996febbd8d40941d05e054" maintainer="Mirco Scottà"
 
 
 # $Rev: 5218 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="843c66f604e874d00a4c05ab97b84e1474149d14" maintainer="Lev Lamberov"
 <define-tag pagetitle>Проект Debian скорбит о потере Клити Сиддалл</define-tag>
 <define-tag release_date>2015-02-04</define-tag>
 #use wml::debian::news

@@ -1,7 +1,7 @@
 <define-tag pagetitle>amd64-arkivflytningen gør at beta2-aftrykkene til amd64 ikke virker</define-tag>
 <define-tag release_date>2006-06-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="770d676df33bef11d96f7c92053c78932f1a5467"
 
 <p>Integreringen af amd64-arkitekturen i Debians hovedarkiv er i gang, og som
 en del af processen indeholder eksterne amd64-filspejle ikke længere pakker til

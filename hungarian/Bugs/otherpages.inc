@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="c57eea2e295b4c8e57b0998c9edc22613239fa0f"
 
 <p>További oldalak:</p>
 <ul>

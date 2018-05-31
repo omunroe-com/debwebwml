@@ -1,6 +1,6 @@
 #use wml::debian::template title="Пример автоматического аудита: RATS"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.12" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Lev Lamberov"
 
 <p><a href="https://packages.debian.org/rats">RATS</a> &mdash; сканер общего назначения для обнаружения потенциальных проблем безопасности в исходном коде (поддерживается несколько языков программирования).</p>
 

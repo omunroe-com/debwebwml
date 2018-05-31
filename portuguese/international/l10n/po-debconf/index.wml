@@ -1,6 +1,6 @@
 #use wml::debian::template title="Arquivos PO usados para traduzir templates Debconf para cada idioma"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
-#use wml::debian::translation-check translation="1.1" translation_maintainer="André Luís Lopes"
+#use wml::debian::translation-check translation="2c70a662201fba2f47fce7ff1cba5d28691e194e" translation_maintainer="André Luís Lopes"
 
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
 

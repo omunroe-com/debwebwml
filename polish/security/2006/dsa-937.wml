@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4e9398858fe7df0c603e88eaf4a21ccf9c6a91ee"
 <define-tag description>przepełnienia buforów</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" oraz Chris Evans odkryli kilka przepełnień buforów opartych na stosach w pakiecie xpdf, narżedziu do obsługi plików PDF (Portable Document Format), które są także obecne w tetex-bin, binarnych plikach dla teTeX, które mogą prowadzić do zablokowania systemu poprzez rozbicie się aplikacji, bądź też do uruchomienia dowolnego kodu.</p>

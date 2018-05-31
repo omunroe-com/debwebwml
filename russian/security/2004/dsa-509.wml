@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5538d3c48210bed050c6a7d23dc8e0866467781d"
 <define-tag description>присвоение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Стив Кемп (Steve Kemp) обнаружил уязвимость в xatitv, одной из

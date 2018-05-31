@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian-Lex"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.12" maintainer="Johan Haggi"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc" maintainer="Johan Haggi"
 
 <h2>Descrizione del progetto</h2>
 <p>Debian-Lex &egrave; un progetto che ha l'ambizione di creare con

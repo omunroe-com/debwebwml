@@ -1,6 +1,6 @@
 #use wml::debian::template title="De siste nyhetene" NOHEADER="true"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.37" maintainer="Hans F. Nordhaug"
+#use wml::debian::translation-check translation="3031d1f6c3aecff064fb32b8ce8c34a17317f5e5" maintainer="Hans F. Nordhaug"
 # Oversatt til norsk av Tor Slettnes >tor@slett.net>
 # Oppdatert av Hans F. Nordhaug <hansfn@gmail.com>
 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-11-28" SUMMARY="GNOME, DebConf, Instalador, Etch, FAQ, Sparc, Chave"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 
 <p>Bem vindo à quadragésima primeira edição deste ano da DWN, o
 informativo da comunidade Debian.  Devido à <a

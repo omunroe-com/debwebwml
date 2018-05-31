@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4ab221dadcce86ad7e78a9fb3b7fb932084e2ecf" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Wordpress, менеджере веб-блога, были обнаружены многочисленные

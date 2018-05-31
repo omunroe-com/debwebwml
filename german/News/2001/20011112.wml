@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Projekt auf dem Hispalinux Kongress 2001</define-tag>
 <define-tag release_date>2001-11-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 
 <p>Das Debian-Projekt wurde eingeladen, am Hispalinux Kongress 2001

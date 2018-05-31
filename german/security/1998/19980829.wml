@@ -25,6 +25,6 @@ zu erlangen, falls Sie nicht die Standardeinstellungen ändern.</p>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19980829.data'
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73"
 # $Id$
 # Translator: Helge Kreutzmann, Helge.Kreutzmann@itp.uni-hannover.de, 2003-08-25

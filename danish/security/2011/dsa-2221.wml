@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b21103f97626cf29b2e4b3cd500c7f27e3339243" mindelta="1"
 <define-tag description>mappegennemløb</define-tag>
 <define-tag moreinfo>
 <p>Viacheslav Tykhanovskyi opdagede en mappegennemløbssårbarhed i Mojolicious, 

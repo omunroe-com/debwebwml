@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian gedruckt: Datenbanken mit Linux</define-tag>
 <define-tag release_date>1998-08-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="f0182536069f8e9818a21475e30678d02db8652f"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-08-04
 
 Das deutsche Buch <q>Datenbanken mit Linux</q> von Dr. Bernhard Roehrig enthält

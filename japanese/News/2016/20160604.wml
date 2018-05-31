@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f6a72023bef3049ec8444cef5f6ebc1196aa3f48"
 <define-tag pagetitle>Debian 8 更新: 8.5 リリース</define-tag>
 <define-tag release_date>2016-06-04</define-tag>
 #use wml::debian::news

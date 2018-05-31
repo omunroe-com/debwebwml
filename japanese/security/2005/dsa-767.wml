@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="eea38bc5d39e1a8fa3b763ecbe2cf8a4e0cfa1d6"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Marcin Slusarz さんが、コンソール Gadu Gadu

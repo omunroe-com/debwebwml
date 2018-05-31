@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d9867556002f3f8d092ee9f6a49cbcb4fc3f41bb" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Denne opdatering indeholder foranstaltninger mod Spectre v4-varianten i 

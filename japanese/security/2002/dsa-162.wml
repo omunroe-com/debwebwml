@@ -17,7 +17,7 @@ Ethereal に任意のコードの実行をさせることもできると推定�
 <p>ethereal のパッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="64d52f702a87d1ebdc358715fca8fa6e4062b743"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-162.data"
 # $Id$

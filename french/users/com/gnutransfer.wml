@@ -2,7 +2,7 @@
 <define-tag webpage>http://gnutransfer.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre-Louis Vignot"
+#use wml::debian::translation-check translation="6aeeae8c90dc0ce921b7a862d9a091175edcffa9" maintainer="Pierre-Louis Vignot"
 
 <p>
 Nous fournissons des serveurs virtuels et services d'hébergement web depuis

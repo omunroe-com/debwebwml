@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f471b93710b6633acb468260a24e6d52c502002d" maintainer="Lev Lamberov"
 <define-tag description>неочищенный ввод</define-tag>
 <define-tag moreinfo>
 <p>Рудольф Полцер обнаружил уязвимость в a2ps, программе для преобразования и

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8896b747be1474e0534394e5e750b3d61fc9212b"
 <define-tag description>不十分なエスケープ処理</define-tag>
 <define-tag moreinfo>
 <p>Teemu Salmela さんが、文字モードのウェブブラウザ elinks が

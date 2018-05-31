@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7fb5f47af66ab7c2cdaa0e55da82c61cd48259e8" maintainer="Lev Lamberov"
 <define-tag pagetitle>Голосования 2018 года</define-tag>
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::votebar

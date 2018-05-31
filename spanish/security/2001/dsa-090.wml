@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="juanma"
+#use wml::debian::translation-check translation="dc3baf57db823133101ebe2f79d512fea6a6ceae" maintainer="juanma"
 <define-tag description>ataque de enlace simbólico</define-tag>
 <define-tag moreinfo>
 <p>El paquete xtel (un emulador de X para minitel) distribuido con Debian

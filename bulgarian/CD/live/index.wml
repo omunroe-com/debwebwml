@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Живи образи за инсталиране"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="566eb2b064b9f0ba2857df0113835d39cd34e5c2"
 #use wml::debian::release_info
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"

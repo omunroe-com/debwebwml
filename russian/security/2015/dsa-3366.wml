@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5ddc67bc483df1fdc51faa78411d6bedbae93701" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В rpcbind, сервере, преобразующем RPC-номера программ в универсальные адреса,

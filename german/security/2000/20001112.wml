@@ -12,5 +12,5 @@ Stable- als auch für die Unstable-Veröffentlichung.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20001112.data'
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="9fd7099ca63b6a5a4e732a92c9744bd1504bad0a"
 # $Id$

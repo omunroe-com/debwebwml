@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="360b91beb591734dc32402c7e23c14f66dd1ef82" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании/выполнение произвольного кода</define-tag>
 <define-tag moreinfo>
 <p>В MySQL версий с 4.0.0 по 5.0.83 были обнаружены многочисленные уязвимости форматной строки

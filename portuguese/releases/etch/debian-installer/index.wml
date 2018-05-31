@@ -1,7 +1,7 @@
 #use wml::debian::template title="Informações de Instalação Debian &ldquo;etch&rdquo;" NOHEADER="true"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/etch/release.data"
-#use wml::debian::translation-check translation="1.23" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="2459140ec07476b28c19ff99e0f13a953fafc820" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <h1>Instalando Debian GNU/Linux <current_release_etch></h1>
 

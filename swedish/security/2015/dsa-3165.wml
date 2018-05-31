@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="001350b1aec94042a63f02fc0c3b4bb6b46b2b6b" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jiri Horner upptäckte ett sätt att orsaka xdg-open, ett verktyg som

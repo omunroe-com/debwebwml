@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="632d5a33bd4ccbe05e7efad326c36a8b1eb91810" maintainer="David Prévot"
 <define-tag pagetitle>Confirmation des dates de DebConf 12 au Nicaragua</define-tag>
 <define-tag release_date>2011-11-02</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c8dceef3acab03e09d81d57d50d19b316cc031f0" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Джоэн Колвэт обнаружил, что httrack, утилита для создания локальных копий

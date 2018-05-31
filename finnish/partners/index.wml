@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debianin kumppanit" BARETITLE=true
 #include "$(ENGLISHDIR)/partners/index.include"
-#use wml::debian::translation-check translation="1.127"
+#use wml::debian::translation-check translation="d3cfc5b82fd2ce50ddc2704289f0a33702810801"
 
 <h3>Mikä on kumppanuusohjelma?</h3>
 <div class="centerblock">

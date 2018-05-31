@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="48fed278a9a6f6e7b7e505339b6d39a33f9d0cb1" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В нескольких пакетах была обнаружена ошибка, которая приводит к выполнению

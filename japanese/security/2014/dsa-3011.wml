@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e220484605b32caea025706fad4ed6e8e6922e55"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>共同作業用ウェブサイトエンジン MediaWiki が、Flash での JSONP インジェクション (<a

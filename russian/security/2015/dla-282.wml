@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8cf9168adb943339968420c5f5e7c2db98238236" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление позволяет отключить SSLv3 в lighttpd для обеспечения защиты

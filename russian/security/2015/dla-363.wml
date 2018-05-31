@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="79eea633b51fa3fe25e985261f18990808330c70" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что в libphp-phpmailer, библиотеке передачи электронной почты для PHP,

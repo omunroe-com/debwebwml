@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian <q>Squeeze</q> Installationsinformationen" NOHEADER="true"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/squeeze/release.data"
-#use wml::debian::translation-check translation="1.19"
+#use wml::debian::translation-check translation="f36546f515e33fb0e590b3db17a516bf3d605f5f"
 # $Id$
 # Translator: Holger Wansing <linux@wansing-online.de>, 2011, 2012, 2013.
 

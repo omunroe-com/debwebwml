@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="d61623bcab3e21765058a1d4dd1ccefc152632c2" maintainer="David Prévot"
 <define-tag description>Vérifications de limites manquantes</define-tag>
 <define-tag moreinfo>
 <p>

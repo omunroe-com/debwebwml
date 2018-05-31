@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="e64a37d6ea5d314764c9531724173b302ac8acd1" maintainer="David Prévot"
 <define-tag description>Empoisonnement de cache DNS</define-tag>
 <define-tag moreinfo>
 <p>

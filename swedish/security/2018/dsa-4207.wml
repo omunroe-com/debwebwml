@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ac563316d2221ce4d831b935135c4533e374a673" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Matthias Gerstner upptäckte att DBus-abstraktionslagret PackageKit för

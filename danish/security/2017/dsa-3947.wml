@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="03d084811ceb494d7c950d1a653b54e1e28ef0b1" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jeriko One opdagede at newsbeuter, en RSS-feedlæser i tekstilstand, ikke på 

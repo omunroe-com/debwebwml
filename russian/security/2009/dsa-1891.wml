@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f78f9eb2cbd510e59fc9fc77aa38523626624eed" maintainer="Lev Lamberov"
 <define-tag description>выполнение команды командной оболочки</define-tag>
 <define-tag moreinfo>
 

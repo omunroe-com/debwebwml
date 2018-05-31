@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-08-02" SUMMARY="Описи, PopCon, Доступність, Init, ARM, Alioth, Патент, Майстерність, Події"
-#use wml::debian::translation-check translation="1.14" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="88253d82bf691f2bb09a4b9526f024cab1de845f" maintainer="Borys Yanovych"
 
 <p>Ласкаво просимо до 31 цьогорічного випуску DWN, щотижневого інформаційного
 бюлетеня спільноти Debian. Geert Stappers <a

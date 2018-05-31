@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="82cb6cb596d6e698b405c3c760c6e0517a733f7b" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sikkerhedsproblemer blev opdaget i Mahara, et portfolio-, weblog- og 

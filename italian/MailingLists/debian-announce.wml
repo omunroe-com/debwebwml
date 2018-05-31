@@ -1,5 +1,5 @@
 #use wml::debian::template title="Iscrizione alla Mailing List debian-announce"
-#use wml::debian::translation-check translation="1.12" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="524a402de6e78d832d2498f56eb5df88f84b5c43" maintainer="Giuseppe Sacco"
 
 <p>"debian-announce" è una <a
 	href="https://foldoc.org/mailing%20list">

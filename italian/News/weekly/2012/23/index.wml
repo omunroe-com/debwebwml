@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-11-25" SUMMARY="Aiuta a raggiungere il 100% di supporto per la tua lingua nel Debian Installer, rilasciato il Debian Installer 7.0 Beta4, sondaggio sull'esperienza con Debian per il principiante"
-#use wml::debian::translation-check translation="1.4" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97" maintainer="Mirco Scottà"
 
 # $Rev: 4441 $
 # Status: [content-frozen]

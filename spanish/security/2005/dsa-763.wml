@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="7c52c6a848246d5cb4e4b3608d0c42425a317531" maintainer="Juan M. Garcia"
 <define-tag description>denegación de servicio remota</define-tag>
 <define-tag moreinfo>
 <p>Markus Oberhumer descubrió una debilidad en la forma en la que zlib,

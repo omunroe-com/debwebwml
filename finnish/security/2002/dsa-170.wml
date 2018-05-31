@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bf945389e258ddef21e7ed102a7e0ebd0081ccca"
 <define-tag description>lähdekoodin paljastuminen</define-tag>
 <define-tag moreinfo>
 <p>Kaikissa Tomcat 4.x-julkaisuissa on havaittu tietoturva-aukko.

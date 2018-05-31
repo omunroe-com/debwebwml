@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 2.1 udgivet</define-tag>
 <define-tag release_date>1999-03-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="3f781466c4f44128d1e35cd1895a00e7fc651069"
 
 <p>Helt efter udgivelsesplanen, den 9. marts kl. 00.00 GMT, blev Debian 2.1 
 (med kodenavnet slink) udgivet.  Udgivelsesbemærkningerne er tilgængelige 

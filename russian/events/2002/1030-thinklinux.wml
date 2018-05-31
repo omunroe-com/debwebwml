@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="230cf9f1f42c8ac346b73b1ed406860dd4ccdc92" maintainer="Lev Lamberov"
 <define-tag abbr>ThinkLinux</define-tag>
 <define-tag year>2002</define-tag>
 <define-tag pagetitle>Think-Linux</define-tag>

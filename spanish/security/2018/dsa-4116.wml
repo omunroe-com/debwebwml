@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c845be0e5db5a3f902c51d59c48f34ebd87d196b"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Krzysztof Sieluzycki descubrió que el notificador de dispositivos extraíbles

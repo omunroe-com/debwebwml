@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dded74bdb5a7f523a2ca6c87c19922eb9e9a773c" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Нагуэль Гризолиа обнаружил две уязвимости в Egroupware, наборе для совместной работы

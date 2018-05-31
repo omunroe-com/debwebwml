@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="af888a84e301412e943f1488f3fdc97db17338e2"
 <define-tag description>リモートからのサービス拒否</define-tag>
 <define-tag moreinfo>
 <p>zlib が特定の圧縮ファイルの伸張を処理する方法に誤りがあり、

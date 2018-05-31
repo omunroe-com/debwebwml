@@ -28,7 +28,7 @@ Sarge und X-Box-Linux geben.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="96f316771fbc3b1856dfd14bb8d08815a3c6a843"
 # $Id$
 #Related Links here (free form)
 <ul>

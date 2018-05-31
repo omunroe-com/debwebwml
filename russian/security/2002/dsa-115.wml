@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="765f538c8153ec02bfed3f807356ba2e7b4eb854" maintainer="Lev Lamberov"
 <define-tag description>сломанная проверка границ массив и другое</define-tag>
 <define-tag moreinfo>
 <p>Штефан Эссер, являющийся членом команды PHP, обнаружил несколько

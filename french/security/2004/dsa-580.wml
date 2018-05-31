@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="2527918cd5fec950bc5d2b2cafa4dcff7d117538" maintainer="DFS Task Force"
 <define-tag description>Initialisation manquante</define-tag>
 <define-tag moreinfo>
 <p>Faheem Mitha a remarqué que la commande <i>iptables</i>, un outil 

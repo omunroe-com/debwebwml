@@ -17,4 +17,4 @@ version 1.9.0-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1009.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c2d9e87a153b9120eabfc6b2b75d4f320240133b" mindelta="1"

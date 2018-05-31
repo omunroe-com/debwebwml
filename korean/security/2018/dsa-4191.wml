@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="1afcd8e9257151f74c4d86119114f289ba14612b" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>여러 취약점이 Redmine(프로젝트 관리 웹 응용프로그램)에서 발견되었습니다.

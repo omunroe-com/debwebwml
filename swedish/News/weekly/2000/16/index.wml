@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2000-5-23" SUMMARY="Planer om en andra testcykel; mer om First Debian Conference; Helix Gnome"
-#use wml::debian::translation-check translation="1.19"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <p>
 <b>Välkommen</b> till Debian Weekly News, ett nyhetsbrev för Debianutvecklare.

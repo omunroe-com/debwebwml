@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="45aec85357e975d60f2bbd9bb94fbb55f9ccbf2d"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma さんにより、MySQL データベースパッケージに含まれている

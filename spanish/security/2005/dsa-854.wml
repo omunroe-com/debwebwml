@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="df1090a661ef0119942fbc32d1480967438cf1fa" maintainer="Juan M. Garcia"
 <define-tag description>bucle infinito</define-tag>
 <define-tag moreinfo>
 <p>Simon Nielsen descubrió el disector BGP en tcpdump, una potente

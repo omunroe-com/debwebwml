@@ -2,7 +2,7 @@
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/woody/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.8" maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714" maintainer="Martin Quinson"
 
 <p>Les instructions d'installation, ainsi que les fichiers 
 téléchargeables, sont disponibles pour chacune des architectures&nbsp;:</p> 

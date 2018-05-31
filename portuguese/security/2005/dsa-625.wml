@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="98453cc8869027b4695d104b83f4acf9d4369b68"
 <define-tag description>estouros de buffer</define-tag>
 <define-tag moreinfo>
 <p>Danny Lungstrom descobriu dois estouros de buffer no pcal,

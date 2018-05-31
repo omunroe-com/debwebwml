@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d17587b4d021a8114ccad5db3e44d4fe063207d0" maintainer="Lev Lamberov"
 <define-tag pagetitle>Подготовка к выпуску etch версии RC1 приведёт к поломке большинства образов версии beta 3</define-tag>
 <define-tag release_date>2006-10-17</define-tag>
 #use wml::debian::news

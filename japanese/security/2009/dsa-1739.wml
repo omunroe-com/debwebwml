@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6f1c76b629db882e885953e7e9aae3d43f0baf3e"
 <define-tag description>パストラバーサル</define-tag>
 <define-tag moreinfo>
 <p>多種の P2P ネットワーク向けクライアント mldonkey に欠陥があり、細工され

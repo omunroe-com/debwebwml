@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d6cf90588e378e7cf0bc5ddc5ab81838b09a5ae5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Calum Hutton och Mailman-gruppen upptäckte en serveröverskridande

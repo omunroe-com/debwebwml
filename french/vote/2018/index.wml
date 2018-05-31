@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="7fb5f47af66ab7c2cdaa0e55da82c61cd48259e8" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Questions soumises en 2018</define-tag>
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::votebar

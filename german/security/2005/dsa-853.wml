@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="58839b78f0c0151c1a740a994a99740e67e0e37d"
 <define-tag description>Mehrere Verwundbarkeiten</define-tag>
 <define-tag moreinfo>
 <p>Mehrere Sicherheitsprobleme wurden in ethereal, einem vielfach

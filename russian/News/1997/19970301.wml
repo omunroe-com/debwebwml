@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1" maintainer="Lev Lamberov"
 <define-tag pagetitle>Выбран Совет директоров</define-tag>
 <define-tag release_date>1997-02-01</define-tag>
 #use wml::debian::news

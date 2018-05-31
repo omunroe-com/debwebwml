@@ -1,5 +1,5 @@
 #use wml::debian::template title="데비안 메일링 리스트 면책조항" BARETITLE=true
-#use wml::debian::translation-check translation="1.9" maintainer="Sebul"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Sebul"
 # Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-01-03
 
 <p><strong>우리의 메일링 리스트는 공개 포럼이며, 리스트의 메시지 보관소는 모두에게 

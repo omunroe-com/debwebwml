@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="394f09c5d674f83264fc61481dec047e9582e0ad" maintainer="Marco Carvalho"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Simon Kilvington descobriu que imagens PNG especialmente manipuladas podem

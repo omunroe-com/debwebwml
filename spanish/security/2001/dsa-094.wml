@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="92b92dcb2cc472365cd013b61db6340a82fc7b3d"
 <define-tag description>agujero de script a través del sitio</define-tag>
 <define-tag moreinfo>
 Barry A. Warsaw informó de algunos agujeros de seguridad de script a través

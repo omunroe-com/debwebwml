@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8e425863ccd6f0497d14d178d29ceddf830cb93b" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 Вольфрам Клеф обнаружил проблему в fetchmail: программа аварийно завершает свою

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian BTS - informar de los fallos" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.86"
+#use wml::debian::translation-check translation="ace5b9358f0f4839bfd54cee02fa21e6a68a0a09"
 
 <h1>Cómo informar de un fallo en Debian usando reportbug</h1>
 

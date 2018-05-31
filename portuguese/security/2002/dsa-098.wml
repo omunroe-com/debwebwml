@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="7b32c3703a94baceb03e81c056a1888d722ff7e7" translation_maintainer="Michelle Ribeiro"
 <define-tag description>vulnerabilidade no formato de string e buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Dois problemas diferentes foram encontrados no libgtop-daemon:</p>

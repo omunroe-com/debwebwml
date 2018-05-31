@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 9 -- Informar de problemas" BARETITLE=true
-#use wml::debian::translation-check translation="1.1" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="3f60e9ab95c589dd5a1ca0b0d443957dfc33a362" maintainer="Laura Arjona Reina"
 
 # Translators: copy of jessie/reportingbug
 

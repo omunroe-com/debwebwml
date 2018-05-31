@@ -1,5 +1,5 @@
 #use wml::debian::template title="Поддержка будущего участника"
-#use wml::debian::translation-check translation="1.17" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a0723d79bbfc5ed2266ada5ffd402b2d3ab47405" maintainer="Lev Lamberov"
 
 <p>До того, как поддержать будущего участника Проекта, вам следует проверить, что он удовлетворяет всем
 критериям, перечисленным в <a href="./nm-checklist">перечне необходимых шагов для подачи заявки</a>.

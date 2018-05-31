@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b9a9eec77394c4d79d827b9f35ea4d5f9a5643a6"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>b.badrignans さんにより、スマートカードユーティリティ集 OpenSC が適切な

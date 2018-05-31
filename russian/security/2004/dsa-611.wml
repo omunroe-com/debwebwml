@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a9b7bd7fe55f183a6167efe3d261d8a8d40452f4" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" обнаружил переполнение буфера в htget, программе загрузки

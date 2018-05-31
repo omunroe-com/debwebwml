@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bac0e67f421554edea5609a46fb7d115efbe5707"
 <define-tag description>ristiinlinkittävä komentosarja</define-tag>
 <define-tag moreinfo>
 <p>Bugzillasta, www-pohjaisesta vianjäljitysjärjestelmästä, on löytynyt

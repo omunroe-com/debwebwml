@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-10-04" SUMMARY="<q>testing</q> constamment utilisable, brèves des responsables de l'archive, <q>Google Summer of Code</q>, brèves de l'équipe en charge de la publicité"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="David Prévot"
+#use wml::debian::translation-check translation="f1d948670b86947f623a9b451e5940ecf566d500" maintainer="David Prévot"
 
 <!--
 $Id$

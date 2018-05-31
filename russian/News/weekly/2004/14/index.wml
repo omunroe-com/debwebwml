@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-04-06" SUMMARY="Hotplug, Снимок, Имена, RPM, Безопасность, Адаптированные дистрибутивы, Ядро, Первое апреля, Переводы, Локализация, BTS, Zope, Пожертвование"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 
 <p>Приветствуем вас в 14-м за этот год выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian. Маной Сривастава (Manoj

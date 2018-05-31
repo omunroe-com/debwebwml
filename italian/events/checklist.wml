@@ -1,5 +1,5 @@
 #use wml::debian::template title="Checklist per uno stand"
-#use wml::debian::translation-check translation="1.19" maintainer="Daniele Cortesi"
+#use wml::debian::translation-check translation="0dc46b7a2e35d969f8ca52de7dd8445bb7dc5b9b" maintainer="Daniele Cortesi"
 
 <p>Questa lista &egrave; stata creata per aiutare le persone ad
 organizzare uno stand per il Progetto Debian ad un qualsiasi evento.

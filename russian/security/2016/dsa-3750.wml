@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7f804717ab5f7d3bb52e0a12620807f0a5ce854f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Давид Голунский обнаружил, что PHPMailer, популярная библиотека для отправки

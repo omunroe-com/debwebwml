@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1e79769d83caa56dcc728ffda150989ab3ca1208" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Tyler Bohan från Talos upptäckte att FreeRDP, en fri implementation av

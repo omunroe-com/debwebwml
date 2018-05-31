@@ -1,6 +1,6 @@
 # "Konstantin Ushakov <Konstantin.Ushakov@oktetlabs.ru>
 # Current as of November 18, 2014 - 2014 Who Audit. 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="20ef02069db589a581ff735f8ed1a67bd3314d45"
 
 <define-tag pagetitle>Oktet Labs, Sankt Petersburg, Ryssland</define-tag>
 <define-tag webpage>http://oktetlabs.ru/</define-tag>

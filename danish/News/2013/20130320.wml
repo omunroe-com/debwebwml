@@ -5,7 +5,7 @@
 <define-tag pagetitle>Backports integreret i hovedarkivet</define-tag>
 <define-tag release_date>2013-03-20</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Debian-projektet er glad for at kunne annoncere, at backports-tjenesten til 
 den næste stabile udgave, Debian 7 (kodenavn <q>Wheezy</q>), vil være en del af 

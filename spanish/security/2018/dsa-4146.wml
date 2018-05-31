@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f96c0dbcb88015e3ff2ff19a307cce9277370691"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Charles Duffy descubrió que la clase Commandline en las utilidades para

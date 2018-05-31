@@ -1,6 +1,6 @@
 #use wml::debian::template title="Tack" 
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8e99b7f329aa779c90f21c78efc2b78b8a4583e3"
 
 <p>Baserat på den webbläsare du använder, samt på sidan rapporten skickades från
 kommer det potentiella layoutproblemet bli undersökt av gruppen bakom Debians

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-05-27" SUMMARY="寄付, I18n, GCC, カーネル, DebConf, マルチメディア, Wiki, CD, ロボット, 特許, タグ, 鍵署名, BTS"
-#use wml::debian::translation-check translation="1.23"
+#use wml::debian::translation-check translation="43b21d2ddd592bb9e7352fbf627cf138fdf61083"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 21 号へようこそ。GNOME

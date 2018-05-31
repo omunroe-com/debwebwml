@@ -18,5 +18,5 @@ Ausführung beliebigen Codes führen könnte.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1136.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2dea119ada2e100c12905e5917ab1c7791558f35"
 # $Id$

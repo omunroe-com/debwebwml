@@ -1,6 +1,6 @@
 #use wml::debian::template title="Migración a PowerPC -- Desarrollo" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/menu.inc"
-#use wml::debian::translation-check translation="1.19"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <br>
 <br>

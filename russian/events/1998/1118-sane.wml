@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4baaa8285acd6ce08dcd20f0001f5c958be73b7b" maintainer="Lev Lamberov"
 <define-tag abbr>SANE</define-tag>
 <define-tag year>1998</define-tag>
 <define-tag pagetitle>SANE (Системное администрирование и сети) '98</define-tag>

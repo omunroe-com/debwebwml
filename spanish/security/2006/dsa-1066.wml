@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="21886a4e9fcb635830b5b055a2ff5e6439ac9c6a" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que phpbb2, un foro web de mensajes, no saneaba suficientemente

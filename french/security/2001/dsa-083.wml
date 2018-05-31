@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="a4b9edeb0512b131d96a2dfec1c4effcd75855a2" maintainer="Pierre Machard"
 <define-tag description>Signal de terminaison non sécurisé</define-tag>
 <define-tag moreinfo>
 En utilisant de vieilles versions de procmail, on pouvait faire planter 

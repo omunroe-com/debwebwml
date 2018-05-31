@@ -1,5 +1,5 @@
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="933e7fc2b3cbdd26ec2a003cb57016d4fcd79d2d" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon et déni de service</define-tag>
 <define-tag moreinfo>
 <p>Quatre vulnérabilités ont été découvertes dans XFree86.</p>

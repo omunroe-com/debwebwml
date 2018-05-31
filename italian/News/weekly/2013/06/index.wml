@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-03-18" SUMMARY="Aggiornata Debian Edu Squeeze, iniziata la campagna 2013 per l'elezione del DPL, uno sguardo più approfondito all'interno del freeze, nascita di Kali Linux"
-#use wml::debian::translation-check translation="1.5" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mirco Scottà"
 
 # $Rev: 4750 $
 # Status: [frozen]

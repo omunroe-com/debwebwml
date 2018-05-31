@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Список rsync-дзеркал образів компакт-дисків Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.4" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="d15cbd4e121ea975532c1dda0bc1b79f69cee45d" maintainer="Borys Yanovych"
 
 <p>Тут наведено адреси <a href="http://rsync.samba.org/">rsync</a> дзеркал 
 образів компакт-дисків Debian. Зауважте, що деякі дзеркала можуть бути

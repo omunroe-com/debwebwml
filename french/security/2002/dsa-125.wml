@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="12022c9b5ed3b90ab893c8e17490567430523e27" maintainer="Pierre Machard"
 <define-tag description>Trou de sécurité sur les éléments dynamiques</define-tag>
 # http://www.analog.cx/security4.html
 <define-tag moreinfo>

@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian in het Nieuws 2001" NOHEADER=yes
 #use wml::debian::countries
 #include "$(ENGLISHDIR)/News/press/press.tags"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="12f5ef4632e4d38cdd3a0b199404eab57f75f767"
 
 <h3>Debian in het Nieuws</h3>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="0be1d5fe4650b48be8f90b920e601837c64b26b6" mindelta="1"
 <define-tag description>symlink-kapløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at i ProFTPd, en ftp-server, kunne en angriber på den samme 

@@ -18,4 +18,4 @@ angriber kunne overskrive vilkårlige filer gennem et symlink-angreb.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2063.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dda59a527ea70166e95d5d28bf712840d7516732" mindelta="1"

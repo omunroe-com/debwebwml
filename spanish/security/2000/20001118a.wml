@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73"
 <define-tag moreinfo>La versión de Vixie Cron incluida en Debian GNU/Linux 2.2
 es vulnerable a un ataque local, decubierto por Michal Zalewski.  Algunos
 problemas, incluyendo permisos inseguros en archivos temporales y condiciones

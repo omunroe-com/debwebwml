@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="b5a1b13495daac93cd52ef496959816e4bf86cdb" maintainer="juanma"
 <define-tag description>cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler descubrió varias vulnerabilidades de cadena de formato

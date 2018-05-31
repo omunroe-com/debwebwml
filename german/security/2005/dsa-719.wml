@@ -17,5 +17,5 @@ Version 1.3.7.4-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-719.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6f571fb9094290853a63c6d7a1d67e5724d74872" mindelta="1"
 # $Id$

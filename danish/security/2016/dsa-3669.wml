@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7e18bab88fc3ab8b3ae8920282017e10e4509878" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Dawid Golunski fra LegalHackers opdagede at Tomcats initskript udførte 

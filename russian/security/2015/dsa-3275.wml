@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e4b93847b0bbf3578c7a11f09de8e3d94a14e156" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ансгар Бурхард обнаружил, что дополнение Git для FusionForge,

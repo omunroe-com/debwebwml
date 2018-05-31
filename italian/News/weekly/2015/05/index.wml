@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2015-06-15" SUMMARY="Souvenir dai party di rilascio per Jessie, rapporti, Una sfida per migliorare la riproducibilità, rapporti su Debian Squeeze LTS, un redirector ufficiale per i mirror, uno sguardo al programma di DebConf15" 
-#use wml::debian::translation-check translation="1.2" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="2fa4b6f309a9ab47e87f1fd8c2c9c5d582e89eb2" maintainer="Mirco Scottà"
 
 # $Id$
 # $Rev: 6388 $

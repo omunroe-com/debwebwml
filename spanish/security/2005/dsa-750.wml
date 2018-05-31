@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="947c9c7b288691adcafa70a9cb642e4ed8991ceb" maintainer="Juan M. Garcia"
 <define-tag description>acceso a memoria fuera de los límites</define-tag>
 <define-tag moreinfo>
 <p>«infamous42md» descubrió que a dhcpcd, un cliente DHCP para configurar

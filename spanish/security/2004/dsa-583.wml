@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="c1b68e94a6ddcb6320022438dd4e874ed0a8b3c9" maintainer="juanma"
 <define-tag description>directorio temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores de Trustix descubrieron una creación insegura

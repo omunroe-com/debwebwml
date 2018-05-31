@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="644d2f4409dc45ac0d2f82fd04bd81c67d177045" maintainer="David Prévot"
 <define-tag description>Utilisation de mémoire après libération</define-tag>
 <define-tag moreinfo>
 <p>On a découvert que GnuPG 2 utilise un pointeur libéré lors de la vérification

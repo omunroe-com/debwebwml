@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="b76af358a84f5c3bd509f1b8fed21d7078642fc5"
 <define-tag description>ataque de usurpamiento de IP "land"</define-tag>
 <define-tag moreinfo>
 Los paquetes SYN usuarpados enviados a la máquina A, usando A como el destino

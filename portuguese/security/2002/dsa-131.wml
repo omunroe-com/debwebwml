@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="40ce2126ebd87d862207b8d6d96677e0b1338a36" translation_maintainer="Michelle Ribeiro"
 <define-tag description>DoS / vulnerabilidade remota</define-tag>
 <define-tag moreinfo>
 <p>Mark Litchfield encontrou um ataque de negação de serviço no servidor web

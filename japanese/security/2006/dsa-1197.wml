@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f7ebe706f87556901da0a77cbb59a04c11967ed7"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Benjamin C. Wiley Sittler さんにより、Python インタープリタの repr() 関数が

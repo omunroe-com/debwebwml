@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="cfc1b1526a7228d6bddf579ffe86ecacdb77ce12" maintainer="Juan M. Garcia"
 <define-tag description>variable no iniciada</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto una vulnerabilidad en webcalendar, un calendario

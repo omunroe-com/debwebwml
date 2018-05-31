@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f4b2916bc3b514d3d613eb8adc8f5228cdfcd4eb"
 <define-tag description>не производится очистка вводимого пользователем текста</define-tag>
 <define-tag moreinfo>
 <p>Давид дель Вечио (David Del Vecchio) обнаружил уязвимость в mpg123,

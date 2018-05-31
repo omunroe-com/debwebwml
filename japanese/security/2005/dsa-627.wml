@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4d7eec21871d818163333e587fbf6238e1415048"
 <define-tag description>入力に対するサニタイジングの欠如</define-tag>
 <define-tag moreinfo>
 <p>全文検索エンジン namazu2 にクロスサイトスクリプティング脆弱性が発見されました。

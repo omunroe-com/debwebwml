@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7ba6d096ca817a638fbc3a3c11cf8cdfcc72ce2d" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружно, что библиотека поддержки юникода ICU выполняет некорректную

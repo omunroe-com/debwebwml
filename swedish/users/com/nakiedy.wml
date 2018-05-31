@@ -4,7 +4,7 @@
 <define-tag webpage>https://www.nakiedy.pl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="49a4209113e8bbb7af03aa13f9fa2d8a312bcdad"
 
 <p>
 	Nakiedy.com är ett besöksreservationssystem som har skapats enligt

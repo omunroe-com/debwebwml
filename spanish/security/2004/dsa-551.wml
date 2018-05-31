@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainter="juanma"
+#use wml::debian::translation-check translation="d52d3f55417c9dc4dd2b60e7c12509863357bf88" maintainter="juanma"
 <define-tag description>gestión incorrecta de variable interna</define-tag>
 <define-tag moreinfo>
 <p>Przemyslaw Frasunek descubrió una vulnerabilidad en lukemftpd (conocido

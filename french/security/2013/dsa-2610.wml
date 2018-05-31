@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="bf2f4b36f5e3f8a7ff08126ea864e77e4c7cf595" maintainer="David Prévot"
 <define-tag description>Exécution de script arbitraire</define-tag>
 <define-tag moreinfo>
 <p>

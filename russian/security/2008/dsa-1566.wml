@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f292b8b9f52ea5900524e7da10a99dbafa11adc9" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Дмитрий Левин обнаружил уязвимость в коде обработки путей, используемом

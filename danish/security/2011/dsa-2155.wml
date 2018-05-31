@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d31344ed360890bbf7abddb17cf3afb2422e185c" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>To bufferoverløb blev opdaget i skrifttypebiblioteket Freetype, hvilket kunne

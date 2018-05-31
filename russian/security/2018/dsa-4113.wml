@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c885f752d0586562900722860bab8fdbdf57ab3c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В библиотеках Vorbis, кодека для сжатия аудио, были обнаружены две уязвимости,

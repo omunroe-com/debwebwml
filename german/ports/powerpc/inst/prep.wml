@@ -1,6 +1,6 @@
 #use wml::debian::template title="PowerPC-Portierung (PReP)" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/inst/menu.inc"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="baca2cc9eb45158bf723feec7aa48e19ee745253"
 # $Id$
 
 <h1>Debian GNU/Linux PowerPC PReP Seite</h1>

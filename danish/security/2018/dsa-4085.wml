@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="210c3ba2abb6eba5e3ff4a22da837c4d975cd427" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Philip Huppert opdagede at Shibboleth-serviceleverandøren var sårbar over for 

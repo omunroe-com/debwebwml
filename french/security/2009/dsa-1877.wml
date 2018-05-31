@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="360b91beb591734dc32402c7e23c14f66dd1ef82" maintainer="Thomas Vincent"
 <define-tag description>Déni de service ou exécution de code arbitraire</define-tag>
 <define-tag moreinfo>
 <p>De la version 4.0.0 de MySQL à la version 5.0.83, de multiples vulnérabilités de chaîne de formatage

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="566423828a5c39d0bc96ad606430af5bb1e47162" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Alfred Farrugia og Sandro Gauci opdagede et forskudt med en-heapoverløb i 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914"
 <define-tag moreinfo>mailx es usado frecuentemente por otros programas para
 enviar correo. Desafortunadamente, mailx tal y como se distribuía con Debian
 GNU/Linux 2.1 (slink) y Debian GNU/Linux 2.2 (potato) tiene algunas

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d1306e634845b9ed277edeb78cd1cc1a37335513"
 <define-tag description>acceso no autorizado remoto</define-tag>
 <define-tag moreinfo>
 Se ha liberado un nuevo parche de Zope que arregla un problema en ZClasses. El

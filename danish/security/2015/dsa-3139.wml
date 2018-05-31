@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8039a5dc74710c5a871ed6dbf0b0167bd61d83d9" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Matthew Daley opdagede at squid, en webproxycache, ikke udførte korrekt 

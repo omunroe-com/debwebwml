@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="2e2753b50f9da02576fe133a4bc17bac71ef387e" maintainer="juanma"
 <define-tag description>desbordamientos del montón</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varios problemas en libtiff, la biblioteca 

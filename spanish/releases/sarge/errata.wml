@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Linux 3.1: Erratas" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="d4ac3300395a1d7353b8f41ac564e1ecbabff9b5"
 
 # Note to translators: there are debian-non-US links not present in the original
 # page, please remove them (and the translation should be in sync with 1.18, but

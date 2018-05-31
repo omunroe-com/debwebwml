@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d6d1daa0bc10da649e0a1966f5a561e21300e5e9" maintainer="Lev Lamberov"
 <define-tag description>повреждение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что PHP может выполнять неправильный свободный запрос при

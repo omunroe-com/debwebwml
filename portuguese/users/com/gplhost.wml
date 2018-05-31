@@ -1,5 +1,5 @@
 # From: "Thomas Goirand" <thomas@gplhost.com>
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="2548c9ed4e8787249578de4e229347de742b2ee1" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <define-tag pagetitle>GPLHost LLC, EUA; GPLHost UK LTD; GPLHost, Singapura</define-tag>
 <define-tag webpage>http://www.gplhost.com/</define-tag>

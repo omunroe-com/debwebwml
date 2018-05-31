@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="12fda280a7ac684eae6248116d756114455bc2df"
 <define-tag pagetitle>Общее решение: Текстуальные поправки к Общественному договору</define-tag>
 <define-tag status>F</define-tag>
 #use wml::debian::template title="<pagetitle>" BARETITLE="true" NOHEADER="true"

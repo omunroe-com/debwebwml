@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="5d6c2554f37e973bf5dc62f5857efa30c4d5b324" maintainer="Jean-Paul Guillonneau"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Markus Vervier de X41 D-Sec GmbH a découvert dans libotr, une bibliothèque

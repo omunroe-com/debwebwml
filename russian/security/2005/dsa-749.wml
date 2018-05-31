@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0e442c640efc207e6b89ad6e23eb8ac0edc17a1f" maintainer="Lev Lamberov"
 <define-tag description>ошибка форматной строки</define-tag>
 <define-tag moreinfo>
 <p>В пакете ettercap была обнаружена уязвимость, которая позволяет

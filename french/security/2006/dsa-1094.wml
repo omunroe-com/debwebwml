@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Gregory Colpart"
+#use wml::debian::translation-check translation="c4421d0e8b513d227b3157a219c5c9a35b8de068" maintainer="Gregory Colpart"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Joxean Koret a découvert plusieurs vulnérabilités de scripts

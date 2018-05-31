@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-11-15" SUMMARY="ARM, DebConf, Eventos, ClamAV, Instalador, Licenças, FOSDEM, Empacotamento"
-#use wml::debian::translation-check translation="1.12" translator="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" translator="Gustavo Rezende Montesino"
 
 <p>Bem vindo à quadragésima sexta edição deste ano da DWN, o periódico
 semanal para a comunidade Debian.  Os membros do sub-projeto Debian-Edu <a

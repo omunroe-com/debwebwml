@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f06f5534220af15956eed59167a676aeb03ebcf5"
 <define-tag description>przedawnienie hasła</define-tag>
 <define-tag moreinfo>
 <p>David B Harris znalazł problem w mod-auth-shadow, modułu

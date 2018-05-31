@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.techspray.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="755dc57879355c414864be3dfb567576f99811b7"
 
 <p>
   Nós usamos o Debian para rodar nosso proxy SMTP (sarge - servidor 

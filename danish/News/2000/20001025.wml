@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debians websted har fået ny søgemaskine</define-tag>
 <define-tag release_date>2000-10-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0d50171c51f96fa7187be1c1536a183f51fd63f0"
 
 <p>Efter en længere periode uden en søgemulighed, har Debian-projektet valgt
 <a href="http://search.mnogo.ru/">UdmSearch</a> som sit søgeindekseringsværktøj.

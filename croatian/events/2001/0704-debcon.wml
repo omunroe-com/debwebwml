@@ -40,7 +40,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 #Related Links here (free form)
 <ul>
   <li><a href="0704-debcon-report">Izvješće</a>

@@ -2,7 +2,7 @@
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::recent_list
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.1" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="6d2f4d174dfd15a872dc8bad6473685bf6326e80" maintainer="Laura Arjona Reina"
 
 <h1><pagetitle></h1>
 <:= get_recent_list('.', '0', '$(ENGLISHDIR)/vote/2013', 'list', 'vote_\d*') :>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6ee4ef90b66269aabc2f321e857702f17f702fb3"
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Várias vulnerabilidades de segurança foram descobertas no Squid,

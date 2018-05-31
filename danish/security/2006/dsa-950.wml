@@ -16,4 +16,4 @@ version anvendes xpdf-utils til behandling af PDF-filer.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-950.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="f5359956a289e21974beaa3f87121877aa96315b" mindelta="1"

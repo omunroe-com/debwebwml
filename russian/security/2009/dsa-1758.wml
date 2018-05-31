@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="74a0bb305c49bb01b982062b8b85e4b878211014" maintainer="Lev Lamberov"
 <define-tag description>небезопасное создание файла настройки</define-tag>
 <define-tag moreinfo>
 <p>Лейг Джеймс обнаружил, что nss-ldapd, модуль NSS для использования

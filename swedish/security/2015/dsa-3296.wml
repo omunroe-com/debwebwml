@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d67e9d7d982b244af375690d9a93d26128794c52" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Sidorov upptäckte att libcrypto++, en generell C++-kryptografiskt

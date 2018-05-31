@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-04-06" SUMMARY="Hotplug, migawka, nazewnictwo, RPM, bezpieczeństwo, dostosowane, jądro, kwiecień, tłumaczenia, l10n, BTS, Zope, darowizna"
-#use wml::debian::translation-check translation="1.15" maintainer=""
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776" maintainer=""
 
 <p>Witaj w czternastym w tym roku numerze DWN, tygodnika dla osób
 zainteresowanych i związanych z Debianem.  Manoj Srivastava <a

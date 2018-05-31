@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="ae2f8ebabf9b59c698233dafb743d584d11fb4d5" maintainer="Thomas Vincent"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Pedro Ribeiro et Huzaifa S. Sidhpurwala ont découvert de multiples 

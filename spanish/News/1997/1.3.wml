@@ -1,6 +1,6 @@
 <define-tag pagetitle>La versión 1.3 ha sido liberada</define-tag>
 #use wml::debian::template title="<pagetitle>"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <h2 class="center">
 	El Software para el Interés Público

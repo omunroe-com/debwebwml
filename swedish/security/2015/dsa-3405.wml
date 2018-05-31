@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b8c7dbfd38dfea8dc1b2617b93d96904469b1acc" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Tero Marttila upptäckte att Debianpaketeringen av smokeping installerade

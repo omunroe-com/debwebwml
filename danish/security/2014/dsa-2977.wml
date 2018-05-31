@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7aef9de36727d7d631ac77d19f683272593d2dec" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Don A. Baley opdagede et heltalsoverløb i rutinen til håndtering af 

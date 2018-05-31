@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian i pressen: Databaser med Linux</define-tag>
 <define-tag release_date>1998-08-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="f0182536069f8e9818a21475e30678d02db8652f"
 
 <p>Den tyska bog <span lang=de>Databanken mit Linux</span> (Databaser med 
 Linux) af Dr. Bernhard Röhrig indeholder en komplet Debian-distribution, såvel

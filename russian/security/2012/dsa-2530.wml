@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f8f6f3df0eba4d95b93e41374e54a812c290a0a7" maintainer="Lev Lamberov"
 <define-tag description>инъекция команд командной оболочки</define-tag>
 <define-tag moreinfo>
 <p>Хенрик Эркконен обнаружил, что rssh, ограниченная командная оболочка для SSH, неправильно

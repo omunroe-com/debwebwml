@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian-Bücher" GEN_TIME="yes"
 #include "$(ENGLISHDIR)/doc/books.def"
-#use wml::debian::translation-check translation="1.74"
+#use wml::debian::translation-check translation="193117c6582ca2ae3a4f481d2b76ddcaaebf8768"
 #  $Id$
 #  Translator: Thimo Neubauer <thimo@debian.org>
 #  Updated: Holger Wansing <linux@wansing-online.de>, 2011, 2012, 2017.

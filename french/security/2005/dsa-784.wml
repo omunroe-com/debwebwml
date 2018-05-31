@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8b9775f4b74ca42a0f37ae7a0753b4799d4883a6" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Un problème a été découvert dans le serveur de courriel Courier. Les échecs

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e2a352fa663e0ab07af3dd6df72d8793f659db43" maintainer="Lev Lamberov"
 <define-tag abbr>IEEE</define-tag>
 <define-tag year>2003</define-tag>
 <define-tag pagetitle>IEEE Consultants Network</define-tag>

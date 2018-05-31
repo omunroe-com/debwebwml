@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ddda387300fcb6a1fddf878933802f14446ef926" maintainer="Juan M. Garcia"
 <define-tag description>bucle infinito, desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto dos vulnerabilidades en Clam AntiVirus, el analizador

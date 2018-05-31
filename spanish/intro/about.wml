@@ -1,6 +1,6 @@
 #use wml::debian::template title="Acerca de Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.72" maintainer="Germana Oliveira"
+#use wml::debian::translation-check translation="8d8a6f510dfdf7d6e54baff839fd05840f5e553f" maintainer="Germana Oliveira"
 
 <ul class="toc">
 <li><a href="#what">¿Qué es Debian?</a></li>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ec6d64054aa5fc49beb0306cb2d0c4ea28562794" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Kotkov upptäckte en NULL-pekardereferens vid behandling av

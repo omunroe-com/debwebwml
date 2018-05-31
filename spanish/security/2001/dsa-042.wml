@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="0f4f9f636f1555ba9e970e62578a9fd200d9e975"
 <define-tag moreinfo>Klaus Frank ha encontrado una vulnerabilidad en la forma
 en que gnuserv manejaba conexiones remotas.  Gnuserv en una facilidad de
 control remoto para Emacsen que está disponible como programa en solitario así

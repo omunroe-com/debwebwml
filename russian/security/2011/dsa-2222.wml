@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="042f97780cc0f01130485577c4a6f3d3cd97545e" maintainer="Lev Lamberov"
 <define-tag description>некорректная обработка ACL</define-tag>
 <define-tag moreinfo>
 <p>Кристоф Мартин обнаружил, что некорректная обработка ACL в TinyProxy,

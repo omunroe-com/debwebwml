@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="35bf1caae4ad38a4bf3740ba2bd334240881bd3e" maintainer="Lev Lamberov"
 <define-tag description>недостаточные проверки</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что libvirt, библиотека для взаимодействия с различными

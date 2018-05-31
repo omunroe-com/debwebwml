@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="a09d201150ef5c15f02495e245a513c74cac8539" maintainer="David Prévot"
 <define-tag description>Validation incorrecte des entrées utilisateur</define-tag>
 <define-tag moreinfo>
 <p>

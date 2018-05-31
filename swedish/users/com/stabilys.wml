@@ -1,6 +1,6 @@
 # From: James Roberts <j.roberts@stabilys.com>
 # Ping: Sat, 14 Apr 2012 17:16:14 +0100 <4F89A2CE.80104@stabilys.com>
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2d6a511207c61a5cda78ad54e9442d6bc9a043a8"
 
 <define-tag pagetitle>Computer Division, Stabilys Ltd, London, Storbritannien</define-tag>
 <define-tag webpage>http://stabilys.com/</define-tag>

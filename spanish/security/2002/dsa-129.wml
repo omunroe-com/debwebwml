@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="49a7fdf4f6cd7a3e200a03ef2d4ca7346171037c"
 <define-tag description>denegación de servicio remota</define-tag>
 <define-tag moreinfo>
 <p>Hemos recibido informes de que in.uucpd, un agente de autenticación del

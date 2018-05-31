@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f3ef16cfee9001905c476030fe96bef0bddcd1d7"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>DSA 1214-1 で提供した元の更新は不十分でした。

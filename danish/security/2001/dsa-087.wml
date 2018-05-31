@@ -10,4 +10,4 @@ kan udnytte fejlen til at få root-adgang til serveren.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-087.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d9936be5b6634cdf82735e3c74c6d7a798e84c0d"

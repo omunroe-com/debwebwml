@@ -16,4 +16,4 @@ version 2.2.5-13 i den unstabile distribution (sid).</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-149.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="552816a6040161e20725b9cb48238a60a97e2e47"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="f9efc9a3fa35e1c6d9ab31a07e6b6b7e674a28db" maintainer="Pierre Machard"
 <define-tag description>Connexion locale en root abusive</define-tag>
 <define-tag moreinfo>
 Nicolas Boullis a trouvé un grave problème de sécurité dans le 

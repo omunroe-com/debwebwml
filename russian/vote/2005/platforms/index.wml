@@ -1,7 +1,7 @@
 #use wml::debian::template title="Программы кандидатов в Лидеры Проекта" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="46708f6cddc849def881ece36cb86d913e0e2c9f" maintainer="Lev Lamberov"
 
     <p>
       Здесь приведены предвыборные программы всех кандидатов на

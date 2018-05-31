@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea"
 <define-tag description>falha de função e transbordamento TLB</define-tag>
 <define-tag moreinfo>
 <p>Paul Starzetz e Wojciech Purczynski da isec.pl <a

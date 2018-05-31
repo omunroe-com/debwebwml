@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="53bf82f3a92612287a30149abda57760f0abddc6" maintainer="Lev Lamberov"
 <define-tag description>потенциальное переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>GOBBLES обнаружил переполнение буфера в gzip, которая проявляется при сжатии

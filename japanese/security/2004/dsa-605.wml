@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="09bb9d549a46131936f0ac5ec411977eb1bae5f7"
 <define-tag description>設定が正しく反映されない</define-tag>
 <define-tag moreinfo>
 <p>Haris Sehic さんは、CVS および Subversion のリポジトリを HTTP

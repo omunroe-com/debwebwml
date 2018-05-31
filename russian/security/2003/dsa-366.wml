@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fc2c33ae0c1adce478e226ba4f4fa2aea8850298"
 <define-tag description>небезопасный временный файл</define-tag>
 <define-tag moreinfo>
 <p>eroaster, интерфейс нарезки CD-R, использующий cdrecord, не

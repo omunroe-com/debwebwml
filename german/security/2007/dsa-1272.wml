@@ -20,4 +20,4 @@ in Version 3.9.5-2 behoben.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2007/dsa-1272.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6d23ee28b444e62652ecb0d1ce980ba0a78e616a"

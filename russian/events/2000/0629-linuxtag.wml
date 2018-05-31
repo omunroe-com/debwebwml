@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="121e967ed6fc8156669b91bad7febd2073ea1e0f" maintainer="Lev Lamberov"
 <define-tag abbr>LT2K</define-tag>
 <define-tag year>2000</define-tag>
 <define-tag pagetitle>LinuxTag 2000</define-tag>

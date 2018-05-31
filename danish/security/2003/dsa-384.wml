@@ -30,4 +30,4 @@ sendmail version 8.12.10-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-384.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b50688b1c5fd7f11515704f36f19bcf3a1b5c701" mindelta="1"

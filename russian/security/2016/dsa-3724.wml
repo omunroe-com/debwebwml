@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4d4d06225d021f70dfda04482e6fbe0d531916bf" maintainer="Lev Lamberov"
 <define-tag description>security update</define-tag>
 <define-tag moreinfo>
 <p>Крис Эванс обнаружил, что дополнение GStreamer 0.10, используемое для декодирования

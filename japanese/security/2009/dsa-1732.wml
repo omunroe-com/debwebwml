@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e931be0ac8e49c7c57d585c7e91071de3ad42a13"
 <define-tag description>サービス拒否攻撃</define-tag>
 <define-tag moreinfo>
 <p>Joshua Morin, Mikko Varpiola および Jukka Taimisto の各氏により、多機

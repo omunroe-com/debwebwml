@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag description>安全でない一時ファイルの作成</define-tag>
 <define-tag moreinfo>
 <p>Dan McMahill さんが、DSA 661-1 では複数の安全でないファイルの問題が修正されていないのに気づきました。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c1c25263267467b181523864aaa70cd144954fd6" maintainer="Lev Lamberov"
 <define-tag description>ошибка проектирования</define-tag>
 <define-tag moreinfo>
 <p>Джонатан Доул сообщил об ошибке проектирования в HTTP::Body, модуле Perl для

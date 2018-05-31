@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f6433c2bdc4126f72de7398f3aa925f1c08b6b08"
 <define-tag description>ファイル権限の破壊</define-tag>
 <define-tag moreinfo>
 <p>ファイルアーカイブを操作するプログラム cpio で、-O および -F

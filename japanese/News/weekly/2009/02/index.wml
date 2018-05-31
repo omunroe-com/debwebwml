@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2009-02-09" SUMMARY="リリースアップデート、2008 年の Debian Summer of Code: 採択プロジェクトの現状、Debian GNU/Linux 5.0 <q>Lenny</q> を Thiemo <q>ths</q> Seufer さんに捧げます、Heise Open の実施したオープンソースの調査"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <!--
  Copyright (c) 2009 Andre Felipe Machado

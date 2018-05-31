@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Производные дистрибутивы"
 #use "navbar.inc"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a2385eca625b03cb7d545f28b511d14a5f12adbe" maintainer="Lev Lamberov"
 
 <p>Пакеты Debian с исходным кодом, сопровождаемые командой Debian GIS, используются
 помимо прочего и для поддержки текущего ПО ГИС в производных от Debian дистрибутивах. На данной странице

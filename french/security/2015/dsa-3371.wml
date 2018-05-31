@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="74d9ddddb4dae2bf6ff6b7b470ebf92b3a55f808" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Frediano Ziglio de Red Hat a découvert plusieurs vulnérabilités dans

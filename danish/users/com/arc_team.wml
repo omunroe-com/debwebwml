@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.arc-team.com/wiki/doku.php</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="66b63f6fcfc3d52451ce19e8a20da7326195cd8f"
 
 <p>
     Arc-Team anvender Debian til at opbygge 

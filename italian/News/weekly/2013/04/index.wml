@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-02-18" SUMMARY="Rilasciato il Debian Installer 7.0 RC1, segnalato il bug numero 700.000, pillole dal DPL, resoconti da FOSDEM"
-#use wml::debian::translation-check translation="1.6" maintainer="Francesca Ciceri"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Francesca Ciceri"
 # $Id$
 # $Rev: 4642 $
 # Status: [content-frozen]

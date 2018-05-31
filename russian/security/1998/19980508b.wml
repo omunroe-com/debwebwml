@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="99d9281ec114bc899622b2b4aa3ce542cab01e5b" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Мы получили сообщение о том, что версии super отображали файлы даже в том случае,
 когда пользователь не должен иметь возможности прочитать их. Эти сообщения

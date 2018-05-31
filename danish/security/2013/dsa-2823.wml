@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2f46483b99e3767a76e06f1448255e7bd0aef07e" mindelta="1"
 <define-tag description>heltalsunderløb</define-tag>
 <define-tag moreinfo>
 <p>Bryan Quigley opdagede et heltalsunderløb i Pixman, hvilket kunne føre til 

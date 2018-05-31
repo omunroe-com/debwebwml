@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8ee4ce0481ce06dbf9be86af4ac752ef7480e666"
 <define-tag description>Estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descobriu um buffer overflow no freesweep, quando este 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-26" SUMMARY="Grålistning, paketering, Debconf, multiarch, logo, BTS, möte, DebConf, Debtags"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 
 <p>Välkommen till årets 30:e utgåva av DWN, veckonyhetsbrevet för Debianfolk.
 Erbjudandet om att stå värd för Debians maskiner tog slut och de har temporärt

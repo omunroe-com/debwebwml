@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3b9f7a6d57681623dd7daed3c42a1249abfa118c"
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
 <p>Jens Steube relatou a existência de duas vulnerabilidades buffer overflow

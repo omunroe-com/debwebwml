@@ -1,7 +1,7 @@
 #use wml::debian::template title="Portierungen"
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.133"
+#use wml::debian::translation-check translation="490d2502f84317c6eb66bb2cbe5ad309290ffca3"
 # $Id$
 # Translation: Dirk Niemeyer <dirk.niemeyer@num.de>
 # Updated: Holger Wansing <linux@wansing-online.de>, 2011, 2014 - 2017.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="909c4503c7c54687bd06a11ee859b54249493b25"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>この DSA では MySQL 5.1 データベースを 5.1.73 に更新します。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f1551c44d5630ff3cfa645fc21e2dc8c3c64d04d" maintainer="Lev Lamberov"
 <define-tag description>двойное освобождение памяти</define-tag>
 <define-tag moreinfo>
 <p>Маркус Фервир обнаружил двойное освобождение памяти в интерфейсе Python к библиотеке

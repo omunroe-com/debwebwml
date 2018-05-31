@@ -1,5 +1,5 @@
 #use wml::debian::template title="Matriz de vulnerabilidades del núcleo para  CAN-2004-0109" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="987f462ebc132b3c47e4b0eb75cc9dc81106ef99"
 
 <p>La siguiente matriz de vulnerabilidades explica en qué versiones
 del núcleo de estable (woody) e inestable (sid) se ha corregido 

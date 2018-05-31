@@ -21,4 +21,4 @@
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-152.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b777090c7e5f56aeff16395d586da588f139e7a8"

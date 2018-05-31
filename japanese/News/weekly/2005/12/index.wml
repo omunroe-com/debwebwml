@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-22" SUMMARY="ライセンス, インストーラ, 利用方法, 調査, バグ, 選挙, パッケージング, OpenLDAP"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 12 号へようこそ。リリースチームと ftpmaster

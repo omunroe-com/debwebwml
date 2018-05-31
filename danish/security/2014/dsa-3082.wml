@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="68910124b5f50e991c6d4a75d8fc6dd51a06460c" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Michele Spagnuolo, fra Google Security Team, og Miroslav Lichvar, fra Red 

@@ -2,7 +2,7 @@
 <define-tag pagetitle>Procedimientos para remitir una propuesta o enmienda a resolución general</define-tag>
 #use wml::debian::template title="<pagetitle>" BARETITLE="true" NOHEADER="true" NOHOMELINK="true"
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.28"
+#use wml::debian::translation-check translation="beb188a1e37dd39a8004ebd9faddc4b43118a184"
 
 <h1><pagetitle></h1>
 

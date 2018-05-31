@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="7c52c6a848246d5cb4e4b3608d0c42425a317531" maintainer="Simon Paillard"
 <define-tag description>Déni de service distant</define-tag>
 <define-tag moreinfo>
 <p>Markus Oberhumer a découvert une faille dans la gestion des entrées

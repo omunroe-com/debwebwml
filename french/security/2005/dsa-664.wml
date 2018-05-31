@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f6433c2bdc4126f72de7398f3aa925f1c08b6b08" maintainer="DFS Task Force"
 <define-tag description>Mauvaises permissions de fichiers</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert que cpio, un programme pour gérer des archives de

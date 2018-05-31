@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1101211a46ee35992ddbf23f45fe8d0409c48b68" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En autentifikationsomgåelsessårbarhed blev fundet i charon, dæmonen som 

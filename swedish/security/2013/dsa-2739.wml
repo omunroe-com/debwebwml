@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="438c4dd992dbc3e81ec2ee12a7eaf908bf42edfd" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Två säkerhetsproblem (SQL-injicering och kommandoradsinjektion via 

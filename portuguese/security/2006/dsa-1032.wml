@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="553f4486af7ae971c89fb491e6440e61795fce9a" maintainer="Marco Carvalho"
 <define-tag description>erro de programação</define-tag>
 <define-tag moreinfo>
 <p>Foi descoberto que o gerenciador de conteúdo Plone não tem declarações de

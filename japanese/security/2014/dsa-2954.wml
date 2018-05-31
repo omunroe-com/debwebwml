@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0d62d72b836bed87ab94bc478cb8f5df35974856"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Dovecot 電子メールサーバが、不活発な SSL/TLS 接続の終了処理の誤りのため imap/pop3

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3d3908a97777c39b4ff6b8457295f222163c479e"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto un problema en el paquete Courier sqwebmail, un

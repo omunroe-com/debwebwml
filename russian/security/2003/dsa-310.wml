@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fd613688ef24df0ee5d84a77bc6a77a3638482bc"
 <define-tag description>неправильная установка setuid-root</define-tag>
 <define-tag moreinfo>
 <p>XaoS, программа просмотра фрактальных изображений, на некоторых

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Сеть IRC Debian перемещена на OFTC</define-tag>
 <define-tag release_date>2006-06-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>Начиная с сегодняшнего дня <acronym lang="en"
 title="Internet Relay Chat">IRC</acronym> сервер Debian с именем

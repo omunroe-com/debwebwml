@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="55071b013cdfa962682f9efcae6ba93571aa2647" maintainer="Simon Paillard"
 <define-tag description>Message d'erreur trop détaillé</define-tag>
 <define-tag moreinfo>
 <p>David Maciejak a remarqué que webcalendar, un calendrier multiutilisateurs

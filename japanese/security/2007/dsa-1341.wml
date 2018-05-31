@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7056ebf9e1b8467a8a96ad6f2864975bdbc9415f"
 <define-tag description>デザイン上の欠陥</define-tag>
 <define-tag moreinfo>
 <p>この更新は旧安定版ディストリビューション (oldstable、コードネーム sarge) 

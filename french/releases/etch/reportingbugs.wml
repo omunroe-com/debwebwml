@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 4.0 &mdash; Signaler les problèmes" BARETITLE=true
-#use wml::debian::translation-check translation="1.7" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="49fa38afff7552602a2342ed72a96a78367c674a" maintainer="Nicolas Bertolissio"
 
 
 <h2><a name="report-release">Sur les notes de publication</a></h2>

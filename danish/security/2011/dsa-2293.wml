@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3bb439c4f6a860594c7035012487f873f57be5a0" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Tomas Hoger fandt et bufferoverløb i X.Org-biblioteket libXfont, hvilket 

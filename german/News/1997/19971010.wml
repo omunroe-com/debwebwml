@@ -1,7 +1,7 @@
 <define-tag pagetitle>Unix-auf-Intel-Akteure arbeiten an einem gemeinsamen Binärformat</define-tag>
 <define-tag release_date>1997-10-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="5a2e111239506a47d39c3f07a4fdefe2c041b7b6"
 # Translator: Helge Kreutzmann <debian@helgefjell.de>, 2006-07-02
 # $Id$
 

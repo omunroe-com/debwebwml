@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-05-29" SUMMARY="Autoconf 2.5, discutions sur l'empaquetage de thèmes et sur la sécurité"
-#use wml::debian::translation-check translation="1.6" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" translation_maintainer="Martin Quinson"
 
 <p><b>Nouvelle liste du Linux Standard Base.</b> Mark Johnson <a
 href="https://lists.debian.org/debian-sgml-0105/msg00024.html">a annoncé</a>

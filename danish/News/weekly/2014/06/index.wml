@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-03-31" SUMMARY="Debian Installer Jessie Alpha 1 udgivet, den indiske delstat Tamil Nadu indfører Debian-derivativet BOSS GNU/Linux som officielt styresystem, genopbygning af Debian-arkivet med Clang, BeagleBoard skifter til Debian"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 # $Id$
 # $Rev: 5040 $

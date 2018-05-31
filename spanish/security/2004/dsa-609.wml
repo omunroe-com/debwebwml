@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="a60e75fcd40b85f01c2ca0e77106b28cc578389d" maintainer="juanma"
 <define-tag description>desbordamientos de buffer</define-tag>
 <define-tag moreinfo>
 <p>Adam Zabrocki descubrió varios desbordamientos de buffer en atari800,

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-01-20" SUMMARY="Java, Traductions, Prix, Installateur, BTS, Événement, Ext2, Choses manquantes, libtool"
-#use wml::debian::translation-check translation="1.12" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="a486fd007d2c7ecf3888a1839ca0e3b753fb19f1" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 3e&nbsp;<em>DWN</em> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. Il semble que

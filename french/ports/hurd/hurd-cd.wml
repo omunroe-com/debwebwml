@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd&nbsp;&ndash;&nbsp;CD Hurd" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="1.89" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="08e0806f0c48e2e1be4f4097d747e0089f594339" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Arnaud Fontaine, 2004, 2005.

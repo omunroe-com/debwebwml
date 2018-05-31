@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="4651234a5900c49bd4d0a45780872e1c05162526" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>lighttpd, en liten webbserver, är sårbar för POODLE-angreppet via

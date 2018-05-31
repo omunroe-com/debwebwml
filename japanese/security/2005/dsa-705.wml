@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2be335f2516da8f084f4ae82013b9a05ef098f05"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>人気のある FTP デーモン wu-ftpd にサービス拒否の状況が複数発見されました。

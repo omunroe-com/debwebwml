@@ -1,6 +1,6 @@
 #use wml::debian::template title="A distribuição Debian &ldquo;testing&rdquo;" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.27" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="dff9a7e24a95a70c3a3ceb430a8a02e9f3afb7d0" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>Para informações básicas, orientadas ao usuário, sobre a distribuição
 <q>testing</q>, veja a <a href="$(DOC)/manuals/debian-faq/ch-ftparchives#s-testing">FAQ do

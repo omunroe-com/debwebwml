@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/lenny/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.13" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="a1b52288617b2e324416feabc18bf2d859655947" maintainer="Szabolcs Siebenhofer"
 
 
 <p>Debian GNU/Linux <current_release_lenny> megjelenésének

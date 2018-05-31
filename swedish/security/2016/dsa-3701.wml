@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="595a7359afb00d7f8df8dbf322099e80113f8912" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Dawid Golunski rapporterade att webbserverpaketen nginx i Debian

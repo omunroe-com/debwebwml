@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="5f138a7be1d2647b78d40676578d6cf82af9320f" maintainer="Giuseppe Sacco"
 <define-tag description>esecuzione di script su altri siti</define-tag>
 <define-tag moreinfo>
 <p>Un problema che permette l'esecuzione di script su altri siti è stato

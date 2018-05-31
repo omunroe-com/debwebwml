@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cbc98d6bb8d3a82b9f813aa4833b25e03ef1df64" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Дрю Яо обнаружил, что libTIFF, библиотека для обработки изображений в формате

@@ -16,5 +16,5 @@ Faxe empfängt, auszuführen.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1165.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fa773aff79020fe9a333937f6da3d92ec2341edb"
 # $Id$

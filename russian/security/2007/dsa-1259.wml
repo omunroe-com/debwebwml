@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a7b9812e9ac869a3471afcd13b5e6c3f2b1c902b" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Айзак Уилкокс обнаружил, что fetchmail, популярная утилита для получения и

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Prenumerera på sändlistan debian-announce"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="524a402de6e78d832d2498f56eb5df88f84b5c43"
 
 <p>"debian-announce" är en modererad
 <a href="http://susning.nu/S%e4ndlista">sändlista</a>

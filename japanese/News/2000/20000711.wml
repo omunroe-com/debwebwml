@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="550e466ad94b4e9ecee8928f5f2faf5be723dbbc"
 <define-tag pagetitle>第 0 回 Debian カンファレンスサマリー</define-tag>
 <define-tag release_date>2000-07-11</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9213b18ec09a321ade74920c36e44c486350c0cb" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В XML::LibXML, Perl-интерфейсе к библиотеке libxml2, было обнаружено использование

@@ -1,5 +1,5 @@
 #use wml::debian::template title="El proyecto Debian Women (Mujeres en Debian)"
-#use wml::debian::translation-check translation="1.7" maintainer="Laura Arjona"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Laura Arjona"
 
 <img style="float: right;" src="dw.png" alt="Debian Women"/>
 

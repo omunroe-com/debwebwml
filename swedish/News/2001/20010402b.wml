@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian sörjer förlusten av två projektmedlemmar</define-tag>
 <define-tag release_date>2001-04-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3de426e6474a2e45152360efc3467b8ce757f550"
 
 <p>Nyligen har Debianprojektet förlorat två medlemmar i sin "familj".
 Chris Rutter dog i en tragisk bilolycka och Fabrizio Polacco avled efter en

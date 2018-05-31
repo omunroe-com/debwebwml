@@ -2,7 +2,7 @@
 #use wml::debian::toc
 
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.17" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="e673bc1c67aefd757c294a7f38eb9aa9f501bd2e" maintainer="Laura Arjona Reina"
 
 <toc-display/>
 

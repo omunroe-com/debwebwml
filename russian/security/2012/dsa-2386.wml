@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dbb767831c2f6d2d80c56580bcafdcd9fcfb1fde" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В OpenTTD, симуляторе транспортного бизнеса, были обнаружены

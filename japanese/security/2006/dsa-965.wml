@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8cc542a92d926fbf4909b359779e02b0ac7c704a"
 <define-tag description>null ポインタ参照</define-tag>
 <define-tag moreinfo>
 <p>Linux 用の IPsec ツール ipsec-tools の racoon でのインターネット鍵交換

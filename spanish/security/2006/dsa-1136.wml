@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="2dea119ada2e100c12905e5917ab1c7791558f35" maintainer="Juan M. Garcia"
 <define-tag description>entrada mal saneada</define-tag>
 <define-tag moreinfo>
 <p><q>infamous41md</q> y Chris Evans descubrieron varios desbordamientos de búfer en

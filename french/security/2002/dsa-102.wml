@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="c1e4dd7cf3425d7a284ebb019095ad8cbf0133c7" maintainer="Pierre Machard"
 <define-tag description>Exploitation d'un démon</define-tag>
 <define-tag moreinfo>
 <p>zen-parse a trouvé un bogue dans la mise en œuvre courante d'at qui

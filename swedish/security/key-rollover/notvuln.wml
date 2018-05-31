@@ -1,5 +1,5 @@
 #use wml::debian::template title="Nyckelbyte &ndash; paket som inte är sårbara"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f87577c169654b68bc6fa088ed7ac85de174a693"
 
 <p>
 Programvarorna som beskrivs på denna sida använder kryptografiska nycklar,

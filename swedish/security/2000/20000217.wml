@@ -10,4 +10,4 @@ Vi rekommenderar att du uppgraderar ditt make-paket omedelbart.</define-tag>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20000217.data'
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" mindelta="1"

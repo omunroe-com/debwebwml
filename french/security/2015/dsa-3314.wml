@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="99c9266fae57b82da1a40cc59d483ce6d5f302df" maintainer="Jean-Pierre Giraud"
 <define-tag description>Annonce de fin de vie</define-tag>
 <define-tag moreinfo>
 <p>Le suivi de sécurité amont de Typo3 4.5.x s'est achevé il y a trois mois et

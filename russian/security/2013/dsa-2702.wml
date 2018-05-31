@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ed43effc6df249a689fee1f7e63935bb1402972d" maintainer="Lev Lamberov"
 <define-tag description>обход проверки TLS</define-tag>
 <define-tag moreinfo>
 <p>Максим Отставнов обнаружил, что подмодуль Wocky, используемый

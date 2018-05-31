@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="91fae6072159043087081679949426134b9e6676" mindelta="1"
 <define-tag description>heap-baserat buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Just Ferguson upptäckte att libotr, ett off-the-record 

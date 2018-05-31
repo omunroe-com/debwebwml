@@ -1,6 +1,6 @@
 #use wml::debian::template title="Liputan Pers 2000" NOHEADER=yes
 #use wml::debian::countries
-#use wml::debian::translation-check translation="1.1" maintainer="Izharul Haq"
+#use wml::debian::translation-check translation="44993d660c00be77e1345ada7f750b66033a9773" maintainer="Izharul Haq"
 # Initial translation by jkartawijaya
 
 #include "$(ENGLISHDIR)/News/press/press.tags"

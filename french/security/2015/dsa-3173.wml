@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="acce4c7cd463268056390d131b60eb9a1ab320b8" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p> libgtk2-perl, une interface Perl pour la série 2.x de la bibliothèque de

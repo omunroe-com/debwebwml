@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="f176771d8dde81e94da7842cfcbb46d24a71f722" maintainer="Thomas Vincent"
 <define-tag description>Contournement d'authentification</define-tag>
 <define-tag moreinfo>
 <p>Un problème de contournement d'authentification a été découvert par le projet Codenomicon CROSS

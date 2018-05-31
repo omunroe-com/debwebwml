@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3dd65e051c5b7b40635134d28b2199d2b0b5a85a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Boris <q>pi</q> Piwinger og Tavis Ormandy rapporterede om en 

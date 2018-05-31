@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="844099c5d05f2d87eca00b17e02237cdd99dda28" maintainer="Lev Lamberov"
 <define-tag description>окончание жизненного цикла Iceweasel в предыдущем стабильном выпуске</define-tag>
 <define-tag moreinfo>
 

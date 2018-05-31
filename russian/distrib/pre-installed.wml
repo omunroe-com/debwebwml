@@ -1,6 +1,6 @@
 #use wml::debian::template title="Продавцы компьютеров, предустанавливающие Debian" GEN_TIME="yes"
 #use wml::debian::countries
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="0d933cd4eac080999aba5c6000c2d80ffbc04cb9"
 #include "$(ENGLISHDIR)/distrib/pre-installed.inc"
 
 <p>

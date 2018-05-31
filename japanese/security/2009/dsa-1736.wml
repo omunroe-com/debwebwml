@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c8e81723890a20363ede02ef62a940cb9ab48bec"
 <define-tag description>入力のサニタイズ不足</define-tag>
 <define-tag moreinfo>
 <p>電子履歴書、ウェブログ、レジュメ作成用ソフトウェア mahara にクロスサイト

@@ -1,7 +1,7 @@
 #use wml::debian::template title="安全信息" GEN_TIME="yes"
 #use wml::debian::toc
 #use wml::debian::recent_list_security
-#use wml::debian::translation-check translation="1.101" maintainer="Boyuan Yang"
+#use wml::debian::translation-check translation="94fd1c6cb95cf528040d57befa96eac2dd4d5d0f" maintainer="Boyuan Yang"
 
 # Translator: dimension <g9113@cs.nccu.edu.tw>, Tue Dec 10 13:32:52 CST 2002
 # Checked by chihchun, Wed, 18 Dec 2002 10:26:23 +0800

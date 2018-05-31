@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="03b0cc71103427c40913f80a6a6d1d785af9eb56" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Кэлби Людвиг и Скот Кантор обнаружили, что Shibboleth, система

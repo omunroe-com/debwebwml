@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="340a935bcb0fa2b94594eb3db5e89bcb6ad7fa46" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que los paquetes TCP mal formados podían provocar la denegación

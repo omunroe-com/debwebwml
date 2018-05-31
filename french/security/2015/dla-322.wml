@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="9982123d47b46d1534acb6d20aa8d8d2521807e3" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité pour LTS</define-tag>
 <define-tag moreinfo>
 <p>Trevin Beattie [1] <a href="https://bugzilla.redhat.com/show_bug.cgi?id=1259892">a découvert</a>

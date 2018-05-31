@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1ad496a0500260fa09d2dd941bf718707dec4ed6"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Jack &lt;<email "jack@rapturesecurity.org">&gt; descubrió un

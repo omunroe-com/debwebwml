@@ -1,6 +1,6 @@
 #use wml::debian::template title="Partnerzy Debiana" BARETITLE=true
 #include "$(ENGLISHDIR)/partners/index.include"
-#use wml::debian::translation-check translation="1.126"
+#use wml::debian::translation-check translation="213ce45addaa77d8cfcefef77a7bd0cfecf721fe"
 
 <H3>Czym jest Program Partnerski?</H3>
 <div class="centerblock">

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Sikkerhedsunderstøttelsen af Debian 5.0 er ophørt</define-tag>
 <define-tag release_date>2012-02-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 
 <h2>Sikkerhedsunderstøttelsen af Debian GNU/Linux 5.0 ophørte den 6. februar</h2>

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Alpha Processor et Linux Store prête un Alpha à Debian</define-tag>
 <define-tag release_date>1999-12-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="34200639554f9c07cada204b775e67c65ab292ff" translation_maintainer="Martin Quinson"
 
 <p>Alpha Processor et Linux Store ont donné un système en <q>prêt
 étendu</q> à Debian. Lully est un Alpha 21264 biprocesseur (EV6) à

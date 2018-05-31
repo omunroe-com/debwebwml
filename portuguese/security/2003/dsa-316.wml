@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="dfced456302c08a13588adef698869b73c06322d"
 <define-tag description>buffer overflow, permissões incorretas</define-tag>
 <define-tag moreinfo>
 <p>Os pacotes nethack e slashem são vulneráveis a um exploit que usa a 

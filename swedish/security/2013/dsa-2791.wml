@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3ef8d324ed32fd0d459b508158bb600e000e97e7" mindelta="1"
 <define-tag description>saknad rengöring av indata</define-tag>
 <define-tag moreinfo>
 <p>Cedric Krier upptäckte att Tryton-klienten inte rengör filändelsen

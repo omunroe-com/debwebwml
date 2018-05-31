@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.chryslaw.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ac39653ead2232a1a94c9e30024c800e83fb9cd3"
 
 
 <p>

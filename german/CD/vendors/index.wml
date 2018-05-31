@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Verkäufer von Debian-CDs" BARETITLE=true GEN_TIME="yes"
 #use wml::debian::countries
-#use wml::debian::translation-check translation="1.58"
+#use wml::debian::translation-check translation="765c2c97976e78cc11ae19d94b561f02334317d0"
 #include "$(ENGLISHDIR)/CD/vendors/vendors.inc"
 # $Id$
 # Translator : Philipp Frauenfelder <pfrauenf@debian.org>

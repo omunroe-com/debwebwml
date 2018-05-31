@@ -11,4 +11,4 @@ Detta har rättats genom att inte kopiera miljön om UseLogin är aktiverat.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-091.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="77d9f87a3d967102c04b88784818a67ec8a9e3e0" mindelta="1"

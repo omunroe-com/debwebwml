@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="001350b1aec94042a63f02fc0c3b4bb6b46b2b6b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jiri Horner opdagede en måde at få xdg-open, et værktøj der automatisk åbner 

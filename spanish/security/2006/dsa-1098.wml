@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="895abda2291d2e9fab5973bc921fccaf2f2f1e09" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Michael Marek descubrió que el entorno de aplicaciones web Horde no realizaba

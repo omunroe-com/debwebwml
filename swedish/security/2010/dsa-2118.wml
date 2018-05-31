@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="986f69a1321a8d4c6c51eaa2ef672c6b080c2f85"
 <define-tag description>logikfel</define-tag>
 <define-tag moreinfo>
 <p>Kamesh Jayachandran och C. Michael Pilat upptäckte att modulen mod_dav_svn

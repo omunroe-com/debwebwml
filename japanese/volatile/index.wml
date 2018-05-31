@@ -1,5 +1,5 @@
 #use wml::debian::template title="debian-volatile プロジェクト"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 #use wml::debian::release_info
 
 <p class="important"><strong>debian-volatile プロジェクトは、

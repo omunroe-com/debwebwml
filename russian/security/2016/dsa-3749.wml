@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e16de36699e0bbb38f9d1cb42cf82d61011ebd3b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Гоко Крштич из Zero Science Labs обнаружил, что dcmtk, набор

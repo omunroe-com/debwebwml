@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="1f3f4dde7f86f41fbc06311876c99a371732d2f7" mindelta="1"
 <define-tag description>attack mot symboliska länkar</define-tag>
 <define-tag moreinfo>Colin Phipps upptäckte en intressant problem med
 attacker mot symboliska länkar i fsh (ett verktyg för att snabbt köra

@@ -2,7 +2,7 @@
 
 <define-tag release_date>2011-07-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Mirco Scottà"
 
 <p>
 Quest'anno DebConf11, la conferenza annuale Debian, ha stabilito che l'introduzione

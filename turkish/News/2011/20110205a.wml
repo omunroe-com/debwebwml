@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 6.0 <q>Squeeze</q> yayımlandı</define-tag>
 <define-tag release_date>2011-02-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7" maintainer="Onur Aslan"
+#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7" maintainer="Onur Aslan"
 
 <p>Debian Projesi, 24 aydır durmadan geliştirmesi devam eden yeni
 kararlı sürüm 6.0'ı (kod adı <q>Squeeze</q>) gururlar sunar.

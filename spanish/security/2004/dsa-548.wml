@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c2fa9986188b29bf560a4379c131159740017ffa" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner descubrió un error de desbordamiento en el montón en

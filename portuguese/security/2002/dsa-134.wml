@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.12" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="6822acd35ad6eb7044786082d7d0deb96747c492" translation_maintainer="Michelle Ribeiro"
 <define-tag description>vulnerabilidade remota</define-tag>
 <define-tag moreinfo>
 <p>O ISS X-Force lançou um alerta a respeito do OpenSSH "Remote Challenge

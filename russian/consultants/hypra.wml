@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="hypra"
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8ae9e5c6b6a241be161e3c7d6495818c9eeb8193" maintainer="Lev Lamberov"
 
 <p>
 Помощь Debian в улучшении специальных возможностей.

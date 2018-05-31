@@ -1,6 +1,6 @@
 #use wml::debian::template title="Preguntas frecuentes de la auditoría de seguridad de Debian"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.31" maintainer="juanma"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="juanma"
 
 <p>Esta página muestra algunas de las preguntas más frecuentes que se suelen
  plantear los visitantes que se acercan por vez primera a este proyecto.</p>

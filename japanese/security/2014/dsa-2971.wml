@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f2fcdf37cef60f05e55efd0d653d2b3322a0c394"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が dbus、非同期プロセス間通信システムに発見されました。The

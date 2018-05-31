@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-02-17" SUMMARY="Repositório, Eleição, LDAP, JavaScript, Traduções, Portes, NTP, Empacotamento, Fila de Upload"
-#use wml::debian::translation-check translation="1.11" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à sétima edição deste ano da DWN, o periódico semanal para a 
 comunidade Debian. O sub-projeto <a

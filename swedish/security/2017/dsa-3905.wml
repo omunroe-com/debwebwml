@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="72763ee080a0d25bc2375ea0bf00dd06af7e4826" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Två säkerhetsproblem har upptäckts i X-servern X.org, vilket kan

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Neuer cdbuilder-Server verbessert Debian-Infrastruktur</define-tag>
 <define-tag release_date>2010-03-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Die Administratoren des Debian-Projektes aktivieren heute einen neuen
 cdbuilder-Server. Der Server berechnet die offiziellen Debian-ISO-Dateien,

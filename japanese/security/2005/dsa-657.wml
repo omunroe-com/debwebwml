@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c1d96fdc4eb12f63f3a47e83a79d699908cf4bf1"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>xine-lib の DVD サブピクチャーデコーダー部分にヒープオーバフローが発見されました。

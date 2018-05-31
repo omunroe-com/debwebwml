@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9fe9ec9b96e886350f43bb2ba54a4cd1e961475c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В библиотеке libtiff и сопутствующих инструментах tiff2rgba, rgb2ycbcr,

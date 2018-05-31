@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="96e7c19e50d15e82b16f7959463dfd3e54c77ed1"
 <define-tag description>安全でない SSL 利用</define-tag>
 <define-tag moreinfo>
 <p>ejabberd、Jabber/XMPP サーバが SSLv2

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-01-23" SUMMARY="Debian en tête des serveurs web, aptitude contre-attaque, argent Debian, déni de service IGMP dans Linux"
-#use wml::debian::translation-check translation="1.10" maintainer="David Prévot"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="239ee68a2aeebc7cfbcf81327520b81695d8eaad" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Максим Орлович обнаружил, что kjs, интерпретатор языка Javascript, используемый

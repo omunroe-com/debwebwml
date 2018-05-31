@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 В ядре Linux присутствует проблема, связанная с обработкой возможностей POSIX,
 которая может приводить к компрометации суперпользователя в приложениях с установленными флагами доступа, позволяющими запускать их от лица владельца.

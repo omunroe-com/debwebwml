@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="480588e2eff1b449ca92913a4d98927d97b8967e" maintainer="Jean-Pierre Giraud"
 <define-tag description>Défaut de vérification de certificat </define-tag>
 <define-tag moreinfo>
 <p>Suman Jana a signalé que GnuTLS, s'écartant du comportement documenté,

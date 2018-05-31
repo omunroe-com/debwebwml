@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="94e0f2ae63096eab3e72d162471c7eefa5268d74" maintainer="DFS Task Force"
 <define-tag description>Dépassements d'entier</define-tag>
 <define-tag moreinfo>
 <p>Pavel Kankovsky a découvert que de nombreux dépassements trouvés

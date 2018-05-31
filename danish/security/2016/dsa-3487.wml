@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bba7ed9d6b0f1d96ba874f6ed9cfe7cfab23df97" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Andreas Schneider rapporterede at libssh2, et SSH2-klientsidebibliotek, 

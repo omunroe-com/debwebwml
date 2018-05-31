@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="eb43c907a09c006ec7c0cd4b77433b8675e27ace" maintainer="Thomas Vincent"
 <define-tag description>Assertion incorrecte</define-tag>
 <define-tag moreinfo>
 <p>Le serveur DNS BIND s'arrête quand il traite une mise à jour DNS dynamique

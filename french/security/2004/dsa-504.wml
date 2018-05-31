@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="15b943442abaaff118af5edc3bbeb2aac5cc21f3" maintainer="DFS Task Force"
 <define-tag description>Absence de vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Demidov a découvert un dépassement de tampon probable dans

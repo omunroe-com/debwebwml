@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c0dae2f7ed3fcb0438ece986b7058d99bf787d1d" mindelta="1"
 <define-tag description>manglende kontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Dan Rosenberg opdagede at utilstrækkelig kontrol af inddata i VLC's 

@@ -34,7 +34,7 @@ Handheldcomputern behandeln.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="01cea1d37faecabc9955c3db65ed3a06a2602b44"
 # $Id$
 #Related Links here (free form)
 <ul>

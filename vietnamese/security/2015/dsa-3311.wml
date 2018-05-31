@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="1d73b0f0b7371c10c31e4e21ce3b6146035e1366" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Nhiều hậu quả đã được phát hiện thấy trong phần mềm dịch vụ cơ sở dữ liệu MariaDB.

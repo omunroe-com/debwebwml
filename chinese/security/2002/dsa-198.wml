@@ -1,5 +1,5 @@
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e6ed305b85f77db8e8f70bb62eb7c447b5598ab9"
 
 <define-tag description>阻絕服務 (DoS) 攻擊</define-tag>
 <define-tag moreinfo>

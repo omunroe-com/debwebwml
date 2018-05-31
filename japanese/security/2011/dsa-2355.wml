@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f7afc3d24603d216e3b2d4a17d34c0340bdbfaea"
 <define-tag description>フォーマット文字列バグ</define-tag>
 <define-tag moreinfo>
 

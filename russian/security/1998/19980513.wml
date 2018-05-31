@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Мы получили сообщения о том, что в программе su из пакета shadow имеется
 проблема. Она была исправлена в недавно выпущенной версии этого пакета.

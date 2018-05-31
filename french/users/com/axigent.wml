@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.axigent.net/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="765b2304156a282c1e93ec1b87c18dc7129709c8" maintainer="Cédric Boutillier"
 
 <p>
 Nous faisons fonctionner Debian pour plusieurs applications aussi bien

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3481a31414f6c294fac52c370b4b86faf1c5f874" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Флориан Маури из ANSSI обнаружил уязвимость в pdns-recursor, рекурсивном

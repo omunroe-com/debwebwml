@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0e16e1b8740163a0dbeeece5a230b83b3ff38288" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Илья ван Шпрундель обнаружил, что переполнение буфера в NSD, службе авторитетного

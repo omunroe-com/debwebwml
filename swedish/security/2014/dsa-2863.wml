@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0355a7a7801d5b4b7f5975e75733618a2b36418c" mindelta="1"
 <define-tag description>katalogtraversering</define-tag>
 <define-tag moreinfo>
 <p>Ett katalogtraverseringsangrepp har rapporterats mot libtar, ett C-bibliotek 

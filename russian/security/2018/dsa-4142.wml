@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d664553ed976467c5155d8b2c3397280f3821e85" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Мариос Николаидес обнаружил, что PHP-дополнение в uWSGI, быстром

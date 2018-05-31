@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4c87a5fb00178d9248b1c52fbf9964e8cdc2fd29" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Энди Лутомирски обнаружил, что в tcsd (служба TPM для пространства пользователя) отсутствует

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d9936be5b6634cdf82735e3c74c6d7a798e84c0d"
 <define-tag description>explotación de root remota</define-tag>
 <define-tag moreinfo>
 CORE ST informa de que se ha encontrdo una explotación para un error en el

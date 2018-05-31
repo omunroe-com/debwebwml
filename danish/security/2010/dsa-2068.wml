@@ -17,4 +17,4 @@ dette problem rettet i version 1.0.5-3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2068.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c97e1f86914227517555bf95c56fcf968ebe704b" mindelta="1"

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-11-09" SUMMARY="Firmware, Alioth, Licenças, Desktop, Conferências, Instalação, Qualidade"
-#use wml::debian::translation-check translation="1.13" translation_maintainer="Gustavo R. Montesino"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776" translation_maintainer="Gustavo R. Montesino"
 
 <p>Bem vindo à quadragésima quarta edição da DWN, o periódico semanal para
 a comunidade Debian.  Anibal Monsalve Salazar <a

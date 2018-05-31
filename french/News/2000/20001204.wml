@@ -1,7 +1,7 @@
 <define-tag pagetitle>DDJ&nbsp;: au cœur de Debian Hurd</define-tag>
 <define-tag release_date>2000-12-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="e3e10eb63ac08cbb6fc1f18c7263546ee2538a7a" translation_maintainer="Martin Quinson"
 
 <p>L'édition de décembre 2000 du journal du docteur Dobb (le DDJ pour
 Doctor Dobb's Journal) contient un article intitulé «&nbsp;Inside Debian

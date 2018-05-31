@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="b1042b16690fce69511e94520a64624672dadb63" mindelta="1"
 <define-tag description>möjlig fjärrsårbarhet</define-tag>
 <define-tag moreinfo>
 <p>

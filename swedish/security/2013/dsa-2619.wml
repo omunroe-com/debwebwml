@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="032eb0ad8a338a9fb3d8f31ba5571271e9901414" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Ett buffertspill hittades i e1000-emuleringen, vilket kan utlösas när man

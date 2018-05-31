@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="182eedf7fd68a42dabe09c3e8bc8ba2782537bb5" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Колин Уолтерс обнаружил, что функция dbus_signature_validate в

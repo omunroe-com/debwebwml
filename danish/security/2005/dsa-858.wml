@@ -18,4 +18,4 @@ version 4.1-15.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-858.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="38231c2207ad44d374a08b633033122dcdebc6f1" mindelta="1"

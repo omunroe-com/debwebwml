@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.telegraaf.nl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b366d6623300b0a7a2e4f8f5d96ffd718b01c7a7"
 
 <p>
     Telegraaf Media Group (TMG) anvender Debian GNU/Linux som sit foretrukne 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="269fd8be31b291ff3ccda8cd83c47505ced8c4ef" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de l'installateur de Debian 8 Jessie Beta 1</define-tag>
 <define-tag release_date>2014-08-13</define-tag>
 #use wml::debian::news

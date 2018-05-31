@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="df28f21fc346ef2d1a5875b16227b49457585f1f" maintainer="Lev Lamberov"
 <define-tag moreinfo>Мэт Крааи сообщил, что он обнаружил проблему в том, как
 dialog создаёт блокировочные файлы: он не создаёт их безопасным способом, делая их
 открытыми для атаки через символические ссылки.  

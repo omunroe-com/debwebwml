@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="c7ec6d31d45b894921d443c123460b9de8087aa1"
 <define-tag description>入力検証の誤り</define-tag>
 <define-tag moreinfo>
 <p>egroupware パッケージに収録されている xmlrpc

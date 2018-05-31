@@ -1,6 +1,6 @@
 #use wml::debian::template title="번역된 Debconf templates 안의 오류"
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
-#use wml::debian::translation-check translation="1.4" maintainer="Sebul"
+#use wml::debian::translation-check translation="b339a77580e06b206bedadd0ee4df7dd5cae5ef8" maintainer="Sebul"
 
 <p>여러분은<a href="errors-by-pkg">알파벳 순서 패키지 목록</a>을
 번역된 Debconf templates 또는 <a href="errors-by-maint">메인테이너</a>에 의해

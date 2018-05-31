@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="eb22fddc523a7a9a4544a7c1ef144e415b8d2d73"
 <define-tag moreinfo>
 Hemos recibido información de que el script faxsurvey que se incluía en
 versiones anteriores de hylafax podía ejecutar comandos arbitrarios.

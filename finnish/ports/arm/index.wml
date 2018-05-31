@@ -2,7 +2,7 @@
 
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.91"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <toc-display/>
 

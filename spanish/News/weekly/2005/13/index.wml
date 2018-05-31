@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-29" SUMMARY="Instalador, listas, elección, empaquetado, aseguramiento de calidad, licencias, CDs/DVDs, Hurd/L4"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <p>Bienvenidos a la décimo tercera edición de este año de las DWN, el boletín
 semanal de la comunidad de Debian. James Troup ha <a

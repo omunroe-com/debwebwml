@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2015-05-12" SUMMARY="Publicado Debian 8 Jessie, Cobertura en vivo, Elección del DPL, Delegación de Extensión, Google Summer of Code 2015, Soporte a largo plazo, Informes, miniDebConf Bucarest, Entrevistas con Lucas Nussbaum y Shirish Agarwal"
-#use wml::debian::translation-check translation="1.5" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="f3d5ed6297fc8b7e45a2ab7501f5d88ba8a328cf" maintainer="Laura Arjona Reina"
 
 
 # $Id$

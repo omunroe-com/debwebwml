@@ -17,4 +17,4 @@ version&nbsp;980804-17 pour la distribution instable (<em>Sid</em>).</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-203.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="39e4bee06fdab8b723c7e77db178c08e7b4f74b8" maintainer="DFS Task Force"

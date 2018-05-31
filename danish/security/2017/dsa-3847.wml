@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1d375be05504b040735ebff31defefe5ec0be33b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jan Beulich og Jann Horn opdagede adskillige sårbarheder i hypervisor'en Xen, 

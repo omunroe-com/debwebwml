@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c13fb49fb04d3b39e6e9a2f23e3b794802d82bdc" mindelta="1"
 <define-tag description>buffertspill, dubbel frigörning av minne</define-tag>
 <define-tag moreinfo>
 <p>

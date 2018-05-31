@@ -27,7 +27,7 @@ forskellige dele af Asien.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b06f792bba764f71c360826c227a6e96c50487f3"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.foss.lk/">websted</a>

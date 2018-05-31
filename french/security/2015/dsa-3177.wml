@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="029e6ea4f51bf08f2e1e7581a7c41d5f3e00b5e9" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Thomas Klute a découvert que dans mod-gnutls, un module Apache fournissant

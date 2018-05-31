@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="28ae229dc8616c74b5b6c096b6e8a42616c259d5" maintainer="Nicolas Bertolissio"
 
 <define-tag abbr>LITOL</define-tag>
 <define-tag year>2007</define-tag>

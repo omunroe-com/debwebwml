@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="75ed0a32fb67fa252eb1079f463b5c90d72265f1" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Лукас Адамски, Мэтью Греган, Дэвид Килер и Дэн Камински обнаружили,

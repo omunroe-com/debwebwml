@@ -1,7 +1,7 @@
 # Translators:
 # Gérard Duteil, 2010.
 # From: Altec Inform&Atilde;&iexcl;tica <altec@altecinfo.com>
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="7b78ab56ec54ac195da044a3d437c931c520d6e9" maintainer="David Prévot"
 
 <define-tag pagetitle>Office maintenance, Altec Inform&aacute;tica Ltda, Brésil</define-tag>
 <define-tag webpage>http://www.altecinfo.com/</define-tag>

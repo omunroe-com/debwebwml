@@ -1,6 +1,6 @@
 #use wml::debian::template title="セキュリティ監査のもたらした勧告"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="0ad4d180b114f128c3363384351694a7bbe6a069"
 
 <p>この監査プロジェクトの直接的な結果としてリリースされた最新の勧告を見ることができます。</p>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6dd2848c0870d5466d18155e4a13d5af27df9e27" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ричард Чжу и Хузаифа Сидхпурвала обнаружили, что чтение за пределами выделенного

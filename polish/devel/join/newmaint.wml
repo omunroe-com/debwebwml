@@ -1,5 +1,5 @@
 #use wml::debian::template title="Kącik Nowych Członków Debiana" BARETITLE="true"
-#use wml::debian::translation-check translation="1.77" maintainer="mellonedain"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="mellonedain"
 
 <p>Proces zostania Nowym Członkiem Debiana opisuje kroki, jakie należy 
 wykonać aby zostać oficjalnym Deweloperem Debiana (DD). Na poniższych 

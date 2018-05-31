@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="20070eff26d1dd1352138ec65aa05e0ec5dc02d8" maintainer="Lev Lamberov"
 <define-tag description>временный файл, отсутствие очистки входных данных</define-tag>
 <define-tag moreinfo>
 <p>Йенс Штойбе обнаружил несколько уязвимостей в remstats, удалённой

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Використання WML"
-#use wml::debian::translation-check translation="1.13" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Borys Yanovych"
 
 <p>WML розшифровується як Web site Meta Language (мета-мова веб-сайтів).
 Це означає, що WML приймає на вхід .wml файли, проводить обробку їх

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="478a94b7d21f2ff6077ae27683ec1c758849c1b4" maintainer="Simon Paillard"
 <define-tag description>Exécution distante de code</define-tag>
 <define-tag moreinfo>
 <p>Un bogue trivial à exploiter a été découvert dans webcalendar, et permettait

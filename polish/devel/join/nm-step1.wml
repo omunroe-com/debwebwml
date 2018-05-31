@@ -1,6 +1,6 @@
 #use wml::debian::template title="Step 1: Wniosek" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.26"
+#use wml::debian::translation-check translation="0f3581ea8ff22d12b1665c2fb885ea6ccfe11f1c"
 
 <p>Informacje zawarte na tej stronie, mimo że dostępne publicznie, 
 będą interesujące głównie dla przyszłych Deweloperów Debiana.</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="2b87058c4ff688b1742c10e25f8916b44b84a345" maintainer="Juan M. Garcia"
 <define-tag description>error de diseño</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto una vulnerabilidad en zope 2.7, un servidor de aplicaciones

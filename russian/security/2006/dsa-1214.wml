@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f3ef16cfee9001905c476030fe96bef0bddcd1d7" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Изначальное обновление, предоставленное в DSA 1214-1 было недостаточно; данное

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="154bf0e2946d56fb2e5f4bb0a6daa63f0752f614"
 <define-tag description>コマンド実行</define-tag>
 <define-tag moreinfo>
 <p>ウェブベースの共同作業プラットフォーム twiki が、設定スクリプト中の image

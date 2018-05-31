@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="908fe187e1f1bf2f1632bf37e1e2db89be1ff1d0" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В TYPO3, инфраструктуре управления веб-содержимым, было обнаружено несколько

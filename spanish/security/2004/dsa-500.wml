@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e86d24308a145243a2bf529dc4830ba36839bc14"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Tatsuya Kinoshita descubrió una vulnerabilidad en flim, una biblioteca

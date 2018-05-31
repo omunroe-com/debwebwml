@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="38231c2207ad44d374a08b633033122dcdebc6f1"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Ariel Berkman さんが、X11 用画像ファイルビューア

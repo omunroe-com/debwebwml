@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="eb49d1298bc100d66eec62f559836ce597a35e30" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Чарльз Даффи обнаружил, что класс Commandline в утилитах для инфраструктуры

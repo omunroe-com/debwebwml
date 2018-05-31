@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="779b452788a4a12efb1184cddd2c525ed88766e2"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Red Hat の Michael S. Tsirkin さんが、ゲストからの

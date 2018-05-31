@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="86edebaba31f30e6f6f9937dc2d9c75400e06b62" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Stefano Zacchiroli opdagede en sårbarhed i exuberant-ctags, et værktøj til 

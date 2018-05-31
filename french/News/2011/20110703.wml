@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="David Prévot"
+#use wml::debian::translation-check translation="9c147dea2fc5a4edf832e813dee2951c5e014432" maintainer="David Prévot"
 <define-tag pagetitle>Debian à plusieurs conférences</define-tag>
 <define-tag release_date>2011-07-03</define-tag>
 #use wml::debian::news

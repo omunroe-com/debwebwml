@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c06754a24305d76e75b165e807d2bc9377d2ce56" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптнг</define-tag>
 <define-tag moreinfo>
 <p>В IMP, компоненте поддержки веб-почты для инфраструктуры Horde, был обнаружен

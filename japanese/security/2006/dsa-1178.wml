@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0348899f1e341e4f3298ab7757e6147a13afc78e"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>freetype の PCF フォントコードに整数オーバフローがあり、サービス不能 (DoS)

@@ -10,4 +10,4 @@ Doom startmouse は、置き換え可能な /tmp/gpmscript を作成します。
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/undated/1doom.data'
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="8560a19ebc97007b93ee5c1a15cd299b82810b23"

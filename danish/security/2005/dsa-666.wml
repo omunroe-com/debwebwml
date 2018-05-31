@@ -41,4 +41,4 @@ matriks hvilke versioner der indeholder rettelsen:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-666.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="c2ca9c8b1a94fece13aed04eb31349c4b5156808" mindelta="1"

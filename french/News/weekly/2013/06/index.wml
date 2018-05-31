@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-03-18" SUMMARY="Mise à jour de Debian Edu Squeeze, campagne électorale du chef de projet 2013, un regard sur la période de gel, naissance de Kali Linux"
-#use wml::debian::translation-check translation="1.5" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 1641 $

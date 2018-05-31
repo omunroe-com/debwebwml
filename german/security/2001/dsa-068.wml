@@ -18,4 +18,4 @@ Ihnen, dass Sie Ihr <code>slapd</code>-Paket umgehend aktualisieren.
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-068.data"
 # $Id$
-#use wml::debian::translation-check translation="1.7" mindelta="1"
+#use wml::debian::translation-check translation="7661580dae5bf4b72bf4fe924e85cb3c41b89153" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="David Prévot"
+#use wml::debian::translation-check translation="bf4891f7107381410e784a0077f3b52735f29ecd" maintainer="David Prévot"
 <define-tag pagetitle>Le projet Debian déplore la perte d'Adrian von Bidder</define-tag>
 <define-tag release_date>2011-04-23</define-tag>
 #use wml::debian::news

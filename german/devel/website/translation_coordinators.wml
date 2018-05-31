@@ -1,5 +1,5 @@
 #use wml::debian::template title="Koordinatoren der Übersetzung für die Debian-Webseiten"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="aec9bd32cb1297da4807ff00e40cacb5b77b0a77"
 #Translator: Noèl Köthe, noel@koethe.net, 2001-05-16
 # $Id$
 #include "$(ENGLISHDIR)/devel/website/tc.data"

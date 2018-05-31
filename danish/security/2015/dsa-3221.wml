@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6d12e02afeae8148ff41c0bb5abb60fabccade54" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Adam Sampson opdagede et bufferoverløb i håndteringen af miljøvariablen 

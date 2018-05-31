@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-11-18" SUMMARY="Настольные компьютеры, Кэширование, Impi, Представительская продукция, Система установки, Состояние выпуска, dpatch"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>Приветствуем вас в 46-м в этом году выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian.  Дэниэл Сильверстоун (Daniel

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>Les versions de Zope antérieures à
 la&nbsp;2.2.1 permettent à un utilisateur disposant d'un éditeur DTML
 d'obtenir un accès non autorisé aux règles durant l'exécution d'une requête.

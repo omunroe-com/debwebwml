@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="06070ffaa8d2babd3ba830ad8c8c25826217fe29" maintainer="DFS Task Force"
 <define-tag description>Exploitation à distance de <i>root</i></define-tag>
 <define-tag moreinfo>
 <p><i>iSEC Security Research</i> rapporte que <i>wu-ftpd</i> contient un 

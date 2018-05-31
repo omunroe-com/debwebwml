@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-11-04" SUMMARY="Aggiornamenti di Debian <q>Lenny</q> e <q>Squeeze</q>, appuntamenti DebConf12, utilizzi di Emdebian, Selezione Nuovi Membri"
-#use wml::debian::translation-check translation="1.7" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="e7a43e9d7fba0dacfd02fa428fb89faf507617cf" maintainer="Mirco Scottà"
 
 # $Id$
 # $Rev: 2761 $

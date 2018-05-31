@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="34515294169f5d714f31da3337f70a718963763c" maintainer="Lev Lamberov"
 <define-tag description>DoS (аварийная остановка)</define-tag>
 <define-tag moreinfo>
 <p>Оке ван Слутен обнаружил, что PHP&nbsp;5, препроцессор для гипертекста,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5c8aef6aa3374d4ee2c1c598f9ac4c2d3443fc35" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>libffi, et bibliotek der anvendes til at kalde kode skrivet i et sprog fra 

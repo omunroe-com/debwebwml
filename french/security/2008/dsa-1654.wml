@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="1d149835685574c11b8715b14cacc62ab225f6bf" maintainer="Thomas Péteul"
 <define-tag description>Débordement de mémoire tampon</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert que libxml2, la bibliothèque XML de GNOME, ne gérait pas

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="def5a0a076dd7ff2aac05b88181c7cc8b8772034" translation_maintainer="Michelle Ribeiro"
 <define-tag description>arquivos temporários inseguros</define-tag>
 <define-tag moreinfo>
 <p>A versão do enscript (uma ferramenta para converter texto ASCII para 

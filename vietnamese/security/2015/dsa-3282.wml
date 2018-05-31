@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="73d0acfaa105083296c2192c98c8ff5329618ccc" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Alexander E. Patrakov đã phát hiện ra trong strongSwan, một bộ IKE/IPsec

@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Derivative"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="a2385eca625b03cb7d545f28b511d14a5f12adbe" maintainer="Ana Custura"
 # $Id$
 
 <p>Pachetele sursă Debian întreținute de echipa Debian GIS sunt folosite pentru

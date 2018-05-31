@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian potencia un cluster de 512 nodos para el Libro de los récords</define-tag>
 <define-tag release_date>1998-12-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="fb2c1468f75b757ceada92f7e78d9e6367d22b19"
 
 <P>Más de 512 computadoras han sido montadas para el sistema CLOWN
 (CLuster Of Working Nodes) que funcionó la noche del 5-6 de Diciembre.

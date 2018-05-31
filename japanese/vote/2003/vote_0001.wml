@@ -3,7 +3,7 @@
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::toc
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.30"
+#use wml::debian::translation-check translation="9a5054b12bd388d0b723ce5dfe227799e2c38cd1"
 
 <h1><pagetitle></h1>
 # <h2> </h2>

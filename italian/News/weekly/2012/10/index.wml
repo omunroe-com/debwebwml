@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-05-14" SUMMARY="Aggiornamento per Debian 6.0: rilasciata la versione 6.0.5, promemoria scadenze per DebConf12, Risoluzione Generale sulla dichiarazione sulle diversità"
-#use wml::debian::translation-check translation="1.9" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mirco Scottà"
 
 # $Rev$
 # Status: [frozen]

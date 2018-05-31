@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e24a7b27210cba3237ad1f504cabccd01d801e8d"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Bjorn Bosselmann descubrió que la terminación de la orden bash umount de

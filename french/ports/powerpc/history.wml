@@ -1,6 +1,6 @@
 #use wml::debian::template title="Portage pour PowerPC -- Historique" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/menu.inc"
-#use wml::debian::translation-check translation="1.15" maintainer="Thomas Marteau"
+#use wml::debian::translation-check translation="70cf45edbaeb4b8fc8f99d683f2f5c5c4435be92" maintainer="Thomas Marteau"
 
 <br>
 <br>

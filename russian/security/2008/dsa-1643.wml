@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3adcbf799534c4e3491fd453a8e6dccb3a48325d" maintainer="Lev Lamberov"
 <define-tag description>небезопасная обработка временных файлов</define-tag>
 <define-tag moreinfo>
 <p>Дмитрий Обухов обнаружил, что дополнение "to-upgrade" для Feta,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="da653520e0a148feb26b0dfd47fe0ea48c9b969a" maintainer="DFS Task Force"
 <define-tag description>Format des chaînes de caractères</define-tag>
 <define-tag moreinfo>
 <p>jaguar@felinemenace.org a découvert une faille de format de chaînes

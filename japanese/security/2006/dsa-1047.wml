@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="47b834903e93a4f4d87fc2259cf96bd739c19fb8"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>リソースマネージャライブラリデーモンおよび PAM モジュール resmgr

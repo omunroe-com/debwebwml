@@ -1,6 +1,6 @@
 #use wml::debian::template title="Informazioni sul rilascio di Debian &ldquo;etch&rdquo;"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.24" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="c710875977df3e89b8c9f9efeac3d093f5a97201" maintainer="Luca Monducci"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/etch/release.data"
 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Архиви на дистрибуцията"
-#use wml::debian::translation-check translation="1.20"
+#use wml::debian::translation-check translation="3ce0c242e8672522fe0fa93c3e14ab4dd0dbcac0"
 #use wml::debian::toc
 
 <toc-display />

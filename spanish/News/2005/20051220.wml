@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Juan M. Garcia"
 <define-tag pagetitle>Actualización de Debian GNU/Linux 3.1 (r1)</define-tag>
 <define-tag release_date>2005-12-20</define-tag>
 #use wml::debian::news

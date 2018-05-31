@@ -7,7 +7,7 @@ Guido Bakker さんによって、koules.sndsrv.linux の動いているホス�
 </define-tag>
 <define-tag description>ローカルからの root 権限の奪取</define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20001122b.data'

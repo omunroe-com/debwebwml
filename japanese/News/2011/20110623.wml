@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="dbb2b64a184bdf59ad7b3a341ea50994ff991f25"
 <define-tag pagetitle>Debian は LibreOffice に移行します</define-tag>
 
 <define-tag release_date>2011-06-23</define-tag>

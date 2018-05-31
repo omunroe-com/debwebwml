@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="da7bc5d713843403f41fe14fb943bfc0603fd5b6"
 <define-tag description>различные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Обнаружено, что xfstt, сервер шрифтов TrueType для системы X window,

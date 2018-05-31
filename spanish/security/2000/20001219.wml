@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>La semana pasada se liberó un aviso de seguridad de Zope
 que indicaba de Erik Enge encontró un problema en la forma en la que Zope
 calculaba los roles. En algunas situaciones, Zope comprobaba la jerarquía de

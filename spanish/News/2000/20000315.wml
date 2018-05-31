@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="87ee7378c809f66c809f4ac65a05f48b9ff7c3d0"
 <define-tag pagetitle>Camisetas de Debian disponibles</define-tag>
 <define-tag release_date>2000-03-15</define-tag>
 #use wml::debian::news

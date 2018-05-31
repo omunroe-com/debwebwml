@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ea7bd894c29fce0ef0ed2558c46e37662aeed4ad"
 <define-tag description>не производится очистка входного текста</define-tag>
 <define-tag moreinfo>
 <p>Примоз Братаник (Primoz Bratanic) обнаружил ошибку в libpam-pgsql,

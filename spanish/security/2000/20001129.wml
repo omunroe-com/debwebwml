@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>Alan Cox descubrió que GNU ed (un editor de líneas
 clásico) creaba archivos temporales de forma insegura. Esto ha sido arreglado
 en la versión 0.2-18.1.</define-tag>

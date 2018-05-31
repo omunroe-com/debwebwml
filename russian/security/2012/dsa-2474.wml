@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ac666b8a6a31b562498718c4dbe3cdef19367d4a" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптинг</define-tag>
 <define-tag moreinfo>
 <p>Рауль Бенеция обнаружил, что ikiwiki, компилятор вики-разметки, неправильно

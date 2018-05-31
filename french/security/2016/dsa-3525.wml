@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="2f090c0aed43adf8e68cd2dd2a5c8b2cd2b4f779" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Vincent LE GARREC a découvert un dépassement d'entier dans pixman, une

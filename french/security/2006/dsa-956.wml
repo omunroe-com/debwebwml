@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="6267e9a2f71dd5e3a12c5eb13f60f528bb7e8b4b" maintainer="Simon Paillard"
 <define-tag description>Fuite de descripteurs de fichiers</define-tag>
 <define-tag moreinfo>
 <p>Stefan Pfetzing a découvert que lshd, un serveur alternatif pour le

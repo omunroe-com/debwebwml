@@ -1,6 +1,6 @@
 #use wml::debian::template title="Installer Debian Potato" NOCOPYRIGHT="yes" NOLANGUAGES="yes"
 
-#use wml::debian::translation-check translation="1.16" maintainer="Christian Couder"
+#use wml::debian::translation-check translation="8de8ee2ace25b3b9f49c9313c24533a8065649a0" maintainer="Christian Couder"
 
 <H3>par Mark Stone (traduction par Christian Couder)</H3>
 

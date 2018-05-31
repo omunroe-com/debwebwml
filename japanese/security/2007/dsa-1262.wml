@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="57a0bfe978ad89e44c379bf2b042f401fd5fd8b2"
 <define-tag description>フォーマット文字列</define-tag>
 <define-tag moreinfo>
 <p>Mu Security が、VoIP アプリケーション GnomeMeeting

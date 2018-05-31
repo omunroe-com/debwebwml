@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="51653bf06f948a657a4f9786b3e70568f31fe8e0"
 <define-tag description>入力のサニタイズ漏れ</define-tag>
 <define-tag moreinfo>
 <p>console コンソール Gadu Gadu クライアント ekg のコンタクト情報をパースす

@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.techspray.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9b4289adbcfab8f665e0d74cef5dccf88403f10a"
 
 <p>
  Vi använder Debian för att köra Cacti-övervakning och våran webbserver.

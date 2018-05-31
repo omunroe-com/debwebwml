@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="957a5dc4200257b74a86dad78adcca3ba46ea859"
 <define-tag description>error de malloc (doble liberación)</define-tag>
 <define-tag moreinfo>
 <p>La biblioteca de compresión zlib tiene un defecto en el que intenta liberar

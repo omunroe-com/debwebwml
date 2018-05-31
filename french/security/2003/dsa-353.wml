@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="b3f0e3390b289d7aad95d9ada7a059018ebf70cb" maintainer="DFS Task Force"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p><i>sup</i>, un paquet utilisé pour maintenir des collections de fichiers 

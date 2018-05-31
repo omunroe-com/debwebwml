@@ -32,7 +32,7 @@
 #use wml::debian::past_event
 # $Id$
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # Translator: Alexander Schmehl <tolimar@debian.org> 2007-02-26
 <define-tag ub>http://chemnitzer.linux-tage.de/2007/vortraege/detail.html?idx=</define-tag>
 <ul>

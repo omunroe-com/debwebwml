@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-03-07" SUMMARY="サブプロジェクト, BSD, CDD, 選挙, バックポート, QA, サービス, ロゴ"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 10 号へようこそ。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3c563adabbf34cee86dbd64e32a2ab07578e0b40" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Patrick Coleman upptäckte att SSH-klienten Putty misslyckades att

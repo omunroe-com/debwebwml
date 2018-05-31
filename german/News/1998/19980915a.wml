@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian in den Nachrichten: Besprechung von Debian 2.0 »Hamm«</define-tag>
 <define-tag release_date>1998-09-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="4b06848f5ca421c9235547a5e4aaa3c44336a569"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-09-01
 
 <p><tt>[Zusammenfassung von Michael Below &lt;mbelow@post.uni-bielefeld.de&gt; geschrieben. Danke!!]<br />

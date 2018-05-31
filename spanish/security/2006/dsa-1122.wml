@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="164a6a38f1a152566ad8172ac34d33995a5dfcfa" maintainer="Juan M. Garcia"
 <define-tag description>cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Peter Bieringer descubrió que la función «log» del módulo de Perl

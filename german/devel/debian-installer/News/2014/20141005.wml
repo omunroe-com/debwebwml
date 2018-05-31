@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Installer Jessie Beta2-Veröffentlichung</define-tag>
 <define-tag release_date>2014-10-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="dde651039efe5cc89b2e8fe877c0a864e3858e47"
 # Translation: Holger Wansing <linux@wansing-online.de>, 2014
 
 <p>

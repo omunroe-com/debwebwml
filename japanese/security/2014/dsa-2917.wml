@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b1bbd35537edbcba3b124f21f4a077876772c8aa"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Debian セキュリティ監査プロジェクトの John Lightsey さんが、super

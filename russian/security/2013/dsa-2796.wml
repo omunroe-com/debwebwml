@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b1ce682bfee4093db7595142e3a877f479d00591" maintainer="Lev Lamberov"
 <define-tag description>выполнение произвольного кода</define-tag>
 <define-tag moreinfo>
 <p>Мэт Эзель из Oak Ridge National Labs сообщил об уязвимости в

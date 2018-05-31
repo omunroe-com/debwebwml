@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версия sendmail, поставляемая в составе Debian
 GNU/Linux 2.1, содержит проблему в коде для повторного создания базы данных
 псевдонимов. Sendmail позволяет любому пользователю запускать команду sendmail с опцией -bi

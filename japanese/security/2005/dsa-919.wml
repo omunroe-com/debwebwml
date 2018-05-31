@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="dcfa55dcb9b793a6b6e3cf755fc20a28947add0a"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>マルチプロトコルのファイル転送ライブラリ libcurl の上流の開発者から、

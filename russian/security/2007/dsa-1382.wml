@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="85d1b2bc8b5e52570c76c4441afedccc2d2aad3e" maintainer="Lev Lamberov"
 <define-tag description>разыменование null-указателя</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что узлы BGP могут осуществлять разыменование NULL-указателя

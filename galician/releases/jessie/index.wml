@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/jessie/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.7" maintainer="Jorge Barreiro González"
+#use wml::debian::translation-check translation="dd5530f8f89daaedf205bc0a1c4f5136536eeee6" maintainer="Jorge Barreiro González"
 
 <p>Debian <current_release_jessie> publicouse o <current_release_date_jessie>.
 <ifneq "8.0" "<current_release>"

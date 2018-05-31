@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd &ndash; CD di Hurd" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="1.88" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="84ccd689b6f96dc45c18903a0e0174f80189751c" maintainer="Luca Monducci"
 
 <define-tag cdserie>L1</define-tag>
 <define-tag cdbasetarball>gnu-2009-10-18.tar.gz</define-tag>

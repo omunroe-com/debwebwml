@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Med-Artikel in der Brave GNU World - Ausgabe 41</define-tag>
 <define-tag release_date>2002-07-23</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 # $Id$
 
 <h2>Debian Med-Artikel in <a

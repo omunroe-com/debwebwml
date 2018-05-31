@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea" mindelta="1"
 <define-tag description>kontrollerar inte returvärde från funktion</define-tag>
 <define-tag moreinfo>
 <p>

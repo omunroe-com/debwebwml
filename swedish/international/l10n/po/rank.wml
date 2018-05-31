@@ -1,6 +1,6 @@
 #use wml::debian::template title="Status för lokalanpassningen i Debian &ndash; inbördes rankning för PO-filer mellan språk"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="9b292f44a39541d2f3e00486d1f6076c676fdd1f"
 
 #include "$(ENGLISHDIR)/international/l10n/po/menu.inc"
 

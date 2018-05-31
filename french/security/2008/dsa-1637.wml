@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2" maintainer="Thomas Péteul"
 <define-tag description>Débordement de mémoire tampon</define-tag>
 <define-tag moreinfo>
 <p>De multiples vulnérabilités ont été identifiées dans git-core, le c&oelig;ur du

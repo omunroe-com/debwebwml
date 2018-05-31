@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Proyecto de documentación de Debian SVN"
-#use wml::debian::translation-check translation="1.41"
+#use wml::debian::translation-check translation="01b1789e9ebd40d1c24729fcfe79a6b1f4baf15b"
 #use wml::debian::toc
 
 <p>El proyecto de documentación de Debian almacena sus páginas web y gran parte del

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="bafd3e37a371188d1e0971bceff1e655503945ec" maintainer="Juan M. Garcia"
 <define-tag description>error de diseño</define-tag>
 <define-tag moreinfo>
 <p>Yutaka Oiwa and Hiromitsu Takagi descubrieron una vulnerabilidad

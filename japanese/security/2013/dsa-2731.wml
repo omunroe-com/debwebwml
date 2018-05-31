@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="14db61b81cc4b11338ac03d4bed3f74b4bd384a6"
 <define-tag description>情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>Yuval Yarom さんと Katrina Falkner さんが、libgcrypt11

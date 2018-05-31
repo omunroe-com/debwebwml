@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0c085be2ab825f123b9a35a3450ef038bb1d51a6"
 <define-tag description>доступ к произвольным файлам</define-tag>
 <define-tag moreinfo>
 <p>Обнаружена уязвимость в samba, широко используемом файл-сервере

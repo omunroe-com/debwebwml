@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="395db7007a0be5c21c0de47ba2e20597b273422a"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Chad Vizino さんが PBS 派生のバッチ処理順次実行システム

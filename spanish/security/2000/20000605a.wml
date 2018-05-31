@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>La versión de splitvt distribuída con Debian GNU/Linux
 2.1 (también conocida como slink), así como la distribución congelada (potato)
 y la inestable (woody), es vulnerable a un desbordamiento de búfer local.

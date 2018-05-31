@@ -24,5 +24,5 @@ was die Ausführung von beliebigem Code mittels eines Pufferüberlaufs ermöglic
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1214.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f3ef16cfee9001905c476030fe96bef0bddcd1d7"
 # $Id$

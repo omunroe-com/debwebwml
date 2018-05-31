@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1d375be05504b040735ebff31defefe5ec0be33b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ян Бёлих и Ян Хорн обнаружили многочисленные уязвимости в гипервизоре

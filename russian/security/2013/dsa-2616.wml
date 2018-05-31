@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a98446aaf3adc90dfad1357c7ee75b911b6a90c3" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера в сценариях CGI</define-tag>
 <define-tag moreinfo>
 <p>В nagios3, системе мониторинга и управления узлом/службами/сетью, была

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="693e4d1146ea6c1afc0d3b05f4f037d8b73e3dcb" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка ввода</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что curl, клиент и библиотека для получения файлов с серверов

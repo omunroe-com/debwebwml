@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="70c4ad816a89a9d7c207788f46a51733beabb5a8" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner a découvert que le module additionnel winbind pour pppd ne

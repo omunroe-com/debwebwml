@@ -1,6 +1,6 @@
 #use wml::debian::template title="Пакеты для Debian Jr., которые уже были созданы"
 #include "$(ENGLISHDIR)/devel/debian-jr/packaged.tags"
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7a1d930a6d320a958fe1229cba759c7e4e3def80" maintainer="Lev Lamberov"
 
 Этот список и прилагаемые комментарии являются персональным мнением разработчиков Debian
 Jr. и не являются официальным заявлением Debian по

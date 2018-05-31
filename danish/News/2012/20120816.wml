@@ -2,7 +2,7 @@
 
 <define-tag release_date>2012-08-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="616580d333e65f37642acc8b36ec3e75ac3b24e9"
 
 <p>Debian-fællesskabet er stolt over at kunne fejre sin 19. fødselsdag siden Ian 
 Murdocks oprindelige 

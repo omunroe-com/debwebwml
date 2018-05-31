@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a792fe3e62ccf918314baab7b2351032fb8d4172"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ問題が Icinga、ホスト及びネットワーク監視システムに見つかりました。

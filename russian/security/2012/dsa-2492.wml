@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="372f1e841c44799b38f8f7bf7f6b901076e5dd94" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Расширение Phar для PHP неправильно обрабатывает специально сформированные файлы в формате tar,

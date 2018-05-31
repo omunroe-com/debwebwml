@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ef6c296f2d3d731efa8786987fdb6d74f92e3edf" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Rainer Gerhards, projektleder for rsyslog, rapporterede om en sårbarhed i 

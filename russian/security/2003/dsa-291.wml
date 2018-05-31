@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1f763393216585898233c8de696f37a6e630184e"
 <define-tag description>переполнения буфера</define-tag>
 <define-tag moreinfo>
 <p>Тимо Сирайнен (Timo Sirainen) обнаружил несколько уязвимых мест

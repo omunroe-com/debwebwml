@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="4099b0af013595f199ff7e8933edc80fd3313e55" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Kurt Fitzner a découvert un dépassement de tampon dans nbd, un système de

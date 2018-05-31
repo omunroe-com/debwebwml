@@ -28,7 +28,7 @@ kernel-patch-2.4.19-mips (mips+mipsel) のバージョン 2.4.19-0.020911.6
 <p>早急に kernel-images パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="87d8ca0fba0e326572a539211a93d459291bb755"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-270.data"
 # $Id$

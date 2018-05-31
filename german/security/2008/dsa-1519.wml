@@ -19,4 +19,4 @@ Inkludierung beliebiger Dateien ermöglicht.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1519.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9cb833ba84fbdd2a76b926b93cafa01e759b832e"

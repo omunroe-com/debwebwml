@@ -1,6 +1,6 @@
 #use wml::debian::template title="메일링 리스트"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.59" maintainer="Sebul"
+#use wml::debian::translation-check translation="6e5008b51180c747355fc109df669e30a83b30c4" maintainer="Sebul"
 #
 # Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-01-11
 <toc-display/>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f266e326547809ae3cb74d078f66a35cb3baaacd" maintainer="Lev Lamberov"
 <define-tag abbr>ukuugcon</define-tag>
 <define-tag year>1999</define-tag>
 <define-tag pagetitle> UKUUG - Linux '99 Conference </define-tag>

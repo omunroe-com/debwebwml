@@ -29,7 +29,7 @@ entregar a quem se voluntariar para fazer algum tipo de palestra ou workshop.</p
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="776147ba7a19330519ffb80d31b4bc8d57917b5a"
 # Translator: Carlos Lisboa <carloslisboa@gmail.com>
 #Related Links here (free form)
 <ul>

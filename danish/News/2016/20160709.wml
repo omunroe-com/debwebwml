@@ -5,7 +5,7 @@
 <define-tag pagetitle>DebConf16 afsluttet i Cape Town, og datoer for DebConf17 offenliggjort</define-tag>
 <define-tag release_date>2016-07-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c9c0b35ea350445ddeb76c0f8b58d810380ae4ab"
 
 <p>I dag, lørdag den 9. juli 2016, sluttede den årlige Debian Developers and 
 Contributors Conference.  Med over 280 deltagere fra hele verden, og 113 timers 

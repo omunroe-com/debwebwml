@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-02-09" SUMMARY="Noyau, Empaquetage, Événements, Mac, Vendeurs, Noms d'utilisateur, Licence, Élection"
-#use wml::debian::translation-check translation="1.8" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 6e&nbsp;<em>DWN</em> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. Andreas Barth

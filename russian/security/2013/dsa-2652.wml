@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3f97242cbf8bd1416f288678c97af17426b8faba" maintainer="Lev Lamberov"
 <define-tag description>экспансия внешней сущности</define-tag>
 <define-tag moreinfo>
 <p>Брэд Хилл из iSEC Partners обнаружил, что многие реализации XML

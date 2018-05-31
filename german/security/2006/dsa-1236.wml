@@ -13,4 +13,4 @@ sie an die System-Shell weitergereicht werden.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1236.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c5e9c0fdf434a25f7ca94b5e98ef649cebc29502"

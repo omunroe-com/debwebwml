@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="31270f92e5153d19fe364e715cb95a05128b65f4" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Kousuke Ebihara upptäckte att redcloth, en Ruby-modul som används

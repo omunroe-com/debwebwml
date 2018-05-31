@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b25e92a39f7ff2ff1b5f4236de30c0bdcff1c022" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Якуб Вилк обнаружил, что в requests, библиотеке HTTP для языка Python,

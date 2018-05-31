@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bcf42ed8d94df5e6dfe756075440c9df7b3779ea"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Esta actualización no corrige por sí misma ninguna vulnerabilidad en GCC, sino que

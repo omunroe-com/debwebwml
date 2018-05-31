@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2bddeefd590fc8bf776bdc018bed81cfcca65daa" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В библиотеке администрирования MIT Kerberos 5 (libkadm5srv) было обнаружено

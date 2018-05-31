@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="9b2cf33010168c90a21209352d8f14932899ec47" maintainer="Thomas Vincent"
 <define-tag description>Déréférencement de pointeur NULL</define-tag>
 <define-tag moreinfo>
 <p>Marek Vavruša et Lubos Slovak ont découvert que NSD, un serveur de nom

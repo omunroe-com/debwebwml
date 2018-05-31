@@ -2,7 +2,7 @@
 # Updated by Antti-Juhani Kaijanaho on 1999-12-05 
 # Updated by Tommi Vainikainen on 2000-07-20
 #use wml::debian::template title="Tietoa sivujen saatavuudesta useilla kielillä"
-#use wml::debian::translation-check translation="1.90"
+#use wml::debian::translation-check translation="5503938e18f6554298cec23bac0d12bcbec75849"
 #use wml::debian::toc
 
 <protect pass=2>

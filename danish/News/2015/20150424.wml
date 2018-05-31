@@ -3,7 +3,7 @@
 <define-tag pagetitle>Deltag i LTS-projektet og hjælp med udforme Wheezys og Jessies LTS</define-tag>
 <define-tag release_date>2015-04-24</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
 
 <p>Næsten et år efter fødslen af <a href="https://wiki.debian.org/LTS">Debian 
 Long Term Support-projektet (LTS)</a>, kan Squeeze LTS betragtes som en succes. 

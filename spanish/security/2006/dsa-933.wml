@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="850a591401504087280fc81128012e6a2ee22168" maintainer="Juan M. Garcia"
 <define-tag description>ejecución de órdenes arbitrarias</define-tag>
 <define-tag moreinfo>
 <p>Patrice Fournier descubrió que hylafax pasaba datos de usuario no

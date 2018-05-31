@@ -1,6 +1,6 @@
 #use wml::debian::template title="Errata do instalatora Debiana"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.202" mindelta="1" maxdelta="1"
+#use wml::debian::translation-check translation="5fbad2acf1cb56fef9b4d43873a9730e0908251a" mindelta="1" maxdelta="1"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
 <!-- info: d-i Stretch Alpha5 was released -->

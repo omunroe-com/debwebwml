@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2cd2c6e234276a39c29f78f9c4113e69b317f9a4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джозеф Биш обнаружил, что работа Konversation, IRC-клиента для KDE с удобным

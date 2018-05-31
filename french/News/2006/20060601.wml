@@ -1,7 +1,7 @@
 <define-tag pagetitle>Fin du support de la sécurité pour Debian&nbsp;3.0</define-tag>
 <define-tag release_date>2006-06-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Frédéric Bothamy"
 
 <h2>Le support de la sécurité pour Debian GNU/Linux&nbsp;3.0 se terminera
 le 30&nbsp;juin</h2>

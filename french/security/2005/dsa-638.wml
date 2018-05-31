@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="b546da30c30e6c5a85f9f9cf90592e33082ba63a" maintainer="DFS Task Force"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;jaguar&nbsp;» a découvert deux problèmes de sécurité dans gopherd,

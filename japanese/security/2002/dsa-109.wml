@@ -23,4 +23,4 @@ JavaScript は、Faq-O-Matic FAQ マネージャの動いているウェブサ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-109.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6678c1dff7786db40b2b3b267875555883a33315"

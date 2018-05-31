@@ -1,5 +1,5 @@
 #use wml::debian::template title="Установка Debian Potato" NOCOPYRIGHT="yes" NOLANGUAGES="yes"
-#use wml::debian::translation-check translation="1.16" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8de8ee2ace25b3b9f49c9313c24533a8065649a0" maintainer="Lev Lamberov"
 
 <H3>Автор: Марк Стоун (Mark Stone)</H3>
 

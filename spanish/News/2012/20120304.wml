@@ -4,7 +4,7 @@
 <define-tag release_date>2012-03-03</define-tag>
 #use wml::debian::news
 
-#use wml::debian::translation-check translation="1.4" 
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" 
 
 <p>La conferencia anual del proyecto Debian ya está cerca. Recorriendo lugares
 alrededor del mundo desde el año 2000, este año la DebConf se realizará

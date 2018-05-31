@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="da92ae594a5343f5177264fa4481c5e21f8362cb" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Такеши Терада обнаружил уязвимость в PHPMailer, библиотеке PHP для

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="149881a9cf3d05b0c83db2e16d05eaeca043a8d6"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Oscar Reparaz さんが iodine、DNSサーバ経由で IPv4

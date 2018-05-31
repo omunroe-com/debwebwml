@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c991c9f49e2ef25cf12d8c4326f5eca445e4dfd8" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder blev opdaget i dissectorerne til LDAP, RTPS og NBAP samt i 

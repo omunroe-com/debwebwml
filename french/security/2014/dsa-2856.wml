@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="fc1479089acf4a89c7696796331c5e612ec8fa27" maintainer="Jean-Pierre Giraud"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>Le paquet Apache Commons FileUpload pour Java pourrait entrer dans une

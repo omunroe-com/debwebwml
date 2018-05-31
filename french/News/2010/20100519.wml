@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="8933c76fb4d966775ab8b9742040a20b78902e0e" maintainer="Thomas Vincent"
 <define-tag pagetitle>Une meilleure DebConf10 avec votre aide : donnez ou devenez un sponsor</define-tag>
 <define-tag release_date>2010-05-19</define-tag>
 #use wml::debian::news

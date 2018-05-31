@@ -3,7 +3,7 @@
 <define-tag webpage>http://www.ui.ac.id/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4" maintainer="François Lankar"
+#use wml::debian::translation-check translation="e9e76385e9817601ee1d58ba3d641f0572aaaa03" maintainer="François Lankar"
 # Original translation by Nicolas Bertolissio
 
 <p>

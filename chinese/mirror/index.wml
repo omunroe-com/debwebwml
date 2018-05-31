@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 镜像" BARETITLE="true"
-#use wml::debian::translation-check translation="1.61" maintainer="Boyuan Yang"
+#use wml::debian::translation-check translation="bd86b0ad25988ff5a8899346e64baf4909abd886" maintainer="Boyuan Yang"
 
 <p>Debian 使用镜像在全球范围内进行分发，
 以此让用户们能够更好地提供访问我们仓库的内容。</p>

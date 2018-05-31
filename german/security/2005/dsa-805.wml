@@ -51,5 +51,5 @@ Version 2.0.54-5 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-805.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="a0c4171d6c81bedeb59d5d9a10e1141c0d317e22" mindelta="1"
 # $Id$

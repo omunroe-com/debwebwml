@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="c79f39d339d827cd1bd95ea2e6b7d49b2cc7db95" maintainer="DFS Task Force"
 <define-tag description>Faille de sécurité des répertoires temporaires</define-tag>
 <define-tag moreinfo>
 <p>L'équipe de sécurité de SUSE a été alertée que dans quelques cas, 

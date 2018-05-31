@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-16" SUMMARY="APT, Instalador, XFS, Woody, AMD64, *BSD, Empaquetar, Debian España, KDE, tmpfs"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="6df448e0976da574b5e1329749403e73eeba663b"
 
 <p>Bienvenidos a la edición número 50 de este año de las DWN, el boletín
 semanal de la comunidad de Debian. Finalmente, el <a

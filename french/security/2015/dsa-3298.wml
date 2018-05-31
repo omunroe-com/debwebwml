@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="36cd549add6bc51131df25bb4ead07c9853ab643" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Le paquet (<q>bundle</q>) WebDAV Jackrabbit était vulnérable à une attaque

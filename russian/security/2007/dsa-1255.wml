@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3497c95d1d5c2c4b824a65a45a1e8b8919338eb3" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Лю Кишуа обнаружил, что библиотека GNOME gtop выполняет недостаточную

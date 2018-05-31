@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7719c5bf7dbd89f6fdc4a43d8c26b7fc197b35ba" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В JasPer, библиотеке для работы с файлами JPEG-2000, было обнаружено

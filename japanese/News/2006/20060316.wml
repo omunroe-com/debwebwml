@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 <define-tag pagetitle>Debian は GNU FDL を条件付きでフリーだと考えます</define-tag>
 <define-tag release_date>2006-03-16</define-tag>
 #use wml::debian::news

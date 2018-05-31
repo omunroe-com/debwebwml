@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="53818e82472602984554a8e51638d291a08d26a0"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Daniel P. Berrange さんが、libxml2

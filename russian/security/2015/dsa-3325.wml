@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="84f679a999515ec6ae9ed61e1b5a18f4528746cc" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В HTTPD-сервере Apache было обнаружено несколько уязвимостей.</p>

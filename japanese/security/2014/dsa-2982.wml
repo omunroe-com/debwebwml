@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ba66f4f727202a95fb38e4001c7f015fb906dcc3"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Sean Griffin さんが Active Record 用 PostgreSQL アダプタに脆弱性を2件発見しました。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="00f6c1a20538a12d0e1d366d76c4e21ae02b767c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Марцин <q>Icewall</q> Нога из Cisco Talos обнаружил две уязвимости в

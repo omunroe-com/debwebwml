@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="2581ce47d9d0462dfd24f8535da4ba0c8ab82860" maintainer="DFS Task Force"
 <define-tag description>Mauvaises permissions de fichier</define-tag>
 <define-tag moreinfo>
 <p>Simon Josefsson a remarqué que le fichier de configuration tspc.conf de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2b49fe479f1c05b78f5bf261b56e01f3253d3d0c" maintainer="Lev Lamberov"
 <define-tag description>фиксированное имя сокета в каталоге с правом на запись любым пользователем</define-tag>
 <define-tag moreinfo>
 <p>Штефан Бюлер обнаружил, что специфичный для Debian файл настройки для

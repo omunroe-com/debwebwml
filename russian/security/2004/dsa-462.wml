@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9d760cbab9cfb10db0caaad570a11de8adc0314c" maintainer="Lev Lamberov"
 <define-tag description>отсутствие отмены привилегий</define-tag>
 <define-tag moreinfo>
 <p>Стив Кэмп из проекта Debian Security Audit обнаружил проблему в

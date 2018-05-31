@@ -1,7 +1,7 @@
 # From: "Victor H De la Luz Rodriguez" <vdelaluz@geofisica.unam.mx>
 # Current as of September 04, 2015. 2015 Who Audit
 # 2015 email: https://lists.debian.org/debian-www/2015/09/msg00036.html
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d229c7cd52b91d56770e36bcd444d185a9d7306e"
 # Translation: Helge Kreutzmann <debian@helgefjell.de> 2009-03-05
 
 <define-tag pagetitle>Mexikanischer Weltraumwetterservice (SCiESMEX), Geophysik-Institut campus Morelia (IGUM), Nationale Universität von Mexiko (UNAM), Mexiko</define-tag>

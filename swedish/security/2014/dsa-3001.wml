@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f142ce5b358b32fec3e90c73d18c5076bbc083b9" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Multipla säkerhetsproblem har upptäckts i Wordpress, ett

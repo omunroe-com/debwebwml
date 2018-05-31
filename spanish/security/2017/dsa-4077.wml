@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a5d8ef765a03b2df0eef9dd90ee2892b70ab4c33"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron varias vulnerabilidades en GIMP, el programa de manipulación de imágenes de GNU («GNU Image

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b6e0cc11ad6486179bcb4ee6736fc81e6115518e" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В MAD, библиотеке для декодирования аудио в формате MPEG, было обнаружено

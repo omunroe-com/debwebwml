@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="d507cd3a4c18992170ec74f24b200098c7f53da7" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>

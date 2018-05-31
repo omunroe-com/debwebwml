@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d9fdc7911d30dec8a421580b7df64ba3c920f6a1" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Дэниель Шреклинг обнаружил, что программа просмотра MIME в horde3, наборе

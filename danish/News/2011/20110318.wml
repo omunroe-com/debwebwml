@@ -5,7 +5,7 @@
 <define-tag pagetitle>Projektet Debian Derivatives Exchange lanceret</define-tag>
 <define-tag release_date>2011-03-18</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="15a2ca53d4acf1c3102c38853746de21c8221ed6"
 
 <p>Debian-projektet har taget endnu et vigtigt skridt mod et bedre samarbejde 
 med det mere end 300 derivative distributioner, ved at lancere 

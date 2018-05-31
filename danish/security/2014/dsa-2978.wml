@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="53818e82472602984554a8e51638d291a08d26a0" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Daniel P. Berrange opdagede en lammelsesangrebssårbarhed (denial of service) 

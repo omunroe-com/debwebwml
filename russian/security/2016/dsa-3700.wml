@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b4de07d941fbcbcbdb78a70fc5263d924fbbf318" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Asterisk, наборе инструментов для PBX и телефонии с открытым исходным

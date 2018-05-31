@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a1c93513e93d9273b6cf26374d864a61d767ea80" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В mysql-connector-java, Java-драйвере баз данных (JDBC) для MySQL,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cd7ce16a39894a629551f97ae787d1ac1fbc56ab" maintainer="Lev Lamberov"
 <define-tag description>уязвимость форматной строки</define-tag>
 <define-tag moreinfo>
 <p>Кан Ширани обнаружил уязвимость форматной строки в gnats, системе

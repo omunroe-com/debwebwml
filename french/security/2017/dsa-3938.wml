@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="b325bbf33c2cb5d18a8204d7d06f1dc2ed1f606f" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Matviy Kotoniy a signalé que la fonction gdImageCreateFromGifCtx()

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="27894e5d054d19341491f3ac090577803ecb8047" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Флориан Ваймер обнаружил переполнение буфера в коде udisks, предназначенном для грамматического

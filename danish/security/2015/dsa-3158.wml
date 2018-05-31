@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="29ea8d025f958bf1b3b25f0683a87d1be7b99405" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski og Hanno Boeck opdagede flere sårbarheder i unrtf, et 

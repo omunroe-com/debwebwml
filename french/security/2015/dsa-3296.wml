@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="d67e9d7d982b244af375690d9a93d26128794c52" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Sidorov a découvert que libcrypto++, une bibliothèque généraliste

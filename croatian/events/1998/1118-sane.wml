@@ -27,7 +27,7 @@ Debian Projekt<br>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="4baaa8285acd6ce08dcd20f0001f5c958be73b7b"
 #Related Links here (free form)
 <ul>
   <li><a href="http://www.nluug.nl/">Netherlands UNIX Users Group</a><br>

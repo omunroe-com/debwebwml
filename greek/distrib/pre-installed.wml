@@ -1,6 +1,6 @@
 #use wml::debian::template title="Εταιρίες που προ-εγκαταστούν το Debian" GEN_TIME="yes"
 #use wml::debian::countries
-#use wml::debian::translation-check translation="1.17" maintainer="George Papamichelakis"
+#use wml::debian::translation-check translation="9ba568e2e47cdf19d19bf9fae8992285f759d267" maintainer="George Papamichelakis"
 #include "$(ENGLISHDIR)/distrib/pre-installed.inc"
 
 # Translator, please see the following NOTE line 31

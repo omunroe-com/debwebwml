@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ddda387300fcb6a1fddf878933802f14446ef926"
 <define-tag description>無限ループ、バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が 2 件、メールサーバと協調して添付ファイルのスキャンを行うように設計された

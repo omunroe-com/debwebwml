@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="eb802383e972013e2be59e88e35cfa088968a164"
 <define-tag description>escalada de privilegios del usuario mail</define-tag>
 <define-tag moreinfo>
 <p>Florian Heinz <email heinz@cronon-ag.de> envió a la lista de correo de

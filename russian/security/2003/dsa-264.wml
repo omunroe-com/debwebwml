@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="62dce0bf1839d5618f463a0fa59546a30f570873"
 <define-tag description>не проверяются имена файлов</define-tag>
 <define-tag moreinfo>
 <p>Разработчики lxr, основного инструмента управления перекрёстными

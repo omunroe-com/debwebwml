@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Instalacja sieciowa z małej płyty CD"
 #use wml::debian::release_info
 #use wml::debian::installer
-#use wml::debian::translation-check translation="1.66"
+#use wml::debian::translation-check translation="40eeef5c10b97819abf8467d7f2a8038a8729ff8"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p><q>Instalacja sieciowa</q> lub po angielsku w skrócie <q>netinst</q> jest

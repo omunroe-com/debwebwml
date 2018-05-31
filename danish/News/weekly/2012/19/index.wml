@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-10-01" SUMMARY="Opdatering af Debian 6.0: 6.0.6 udgivet, rapporter fra de seneste BSP'er, resultater fra Debians Google Summer of Code, Mini-DebConf i Paris"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97"
 
 # $Id$
 # $Rev: 4302 $

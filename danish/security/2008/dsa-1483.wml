@@ -16,4 +16,4 @@ er dette problem rettet i version 5.4.1~dfsg-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1483.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d507cd3a4c18992170ec74f24b200098c7f53da7" mindelta="1"

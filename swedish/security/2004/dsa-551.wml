@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d52d3f55417c9dc4dd2b60e7c12509863357bf88" mindelta="1"
 <define-tag description>felaktig hantering av interna variabler</define-tag>
 <define-tag moreinfo>
 <p>

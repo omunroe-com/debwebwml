@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="67b3c5f83f6c58030e443662c6b87a0eb2fdcee3" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere problemer blev opdaget i openvpn, en virtuelt privat 

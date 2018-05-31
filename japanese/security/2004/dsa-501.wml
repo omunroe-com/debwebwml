@@ -32,7 +32,7 @@ exim 3 のバージョン 3.36-11 と exim 4 のバージョン 4.33-1
 <p>直ちに exim パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b4ca2cc0f5adefa2a37e2e959040d5c3df556161"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-501.data"
 # $Id$

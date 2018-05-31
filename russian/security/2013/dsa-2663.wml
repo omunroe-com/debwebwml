@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3ec6bc952c4082395c3c19aae1d6315092c1b61b" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера на основе стека</define-tag>
 <define-tag moreinfo>
 <p>Мартин Шоберт обнаружил уязвимость стека в tinc, службе

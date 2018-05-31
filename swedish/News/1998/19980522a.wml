@@ -1,7 +1,7 @@
 <define-tag pagetitle>Hamm (utvecklingsversion 2.0) ny djupfryst</define-tag>
 <define-tag release_date>1998-05-22</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="b5b8a873eb30a241ba638b0eed790d5068944103"
 
 <p>Hamm har nu djupfrysts.
 Till denna punkt har de flesta nya versioner av paket tillåtits i

@@ -67,5 +67,5 @@ behoben sein, da sie von aktuellen Versionen zurückportiert wurden.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-639.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="317f9a8458898f66d75f1b8d8bb19b7353d38702"
 # $Id$

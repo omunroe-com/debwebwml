@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f772883067add20767982da8f7fb03fa39f41d27"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Mike Wiacek さんにより、Python 言語向け暗号アルゴリズムとプロトコル集

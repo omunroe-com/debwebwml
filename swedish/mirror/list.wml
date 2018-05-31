@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians världsomspännande spegelplatser" BARETITLE=true
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="ef7400a6ea2c98aed253709dd68a428201e21d88"
 
 <p>Debian finns spritt (<em>speglat</em>) på hundratals
 servrar över Internet. Att använda en näraliggande server kommer troligen att snabba upp

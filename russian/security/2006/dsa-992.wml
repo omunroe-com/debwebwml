@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6ffc5529746ceb8ad95a23310a6122201d4b8444" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Саймон Килвингтон обнаружил, что специально сформированные изображения в формате PNG могут

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="fac6b8b2be0776f0d517928e7c45bb6d94aed294"
 <define-tag description>入力検証の誤り</define-tag>
 <define-tag moreinfo>
 <p>Teemu Salmela さんが GNU tar に脆弱性を発見しました。

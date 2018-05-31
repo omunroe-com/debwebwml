@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a532744a613e440ec3f93d1b0bad3bbdb66b3f9a"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>'landave' descubrió una vulnerabilidad por desbordamiento de memoria dinámica («heap») en el

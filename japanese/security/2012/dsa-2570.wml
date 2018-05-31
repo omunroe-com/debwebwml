@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="5f4a0a2b8caaf9c8d362590e82a1815fe70b0efd"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>High-Tech Bridge SA Security Research Lab が、OpenOffice.org に NULL

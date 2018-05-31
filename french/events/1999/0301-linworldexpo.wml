@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.15" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="7ead2c31aef16da7cd78e827a8a5508df2f33276" maintainer="Nicolas Bertolissio"
 <define-tag abbr>linworld-expo</define-tag>
 <define-tag year>1999</define-tag>
 <define-tag pagetitle>Conférence et exposition Linux World</define-tag>

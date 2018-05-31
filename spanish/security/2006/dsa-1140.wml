@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="6ee4f5fe427a47655124f3bef52b9c8182c676f1" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Legerov descubrió que los comentarios excesivamente grandes podían

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ae111c6d7d103115f5424f5877280ef09a6d3b4c" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В Icedove, версии клиента электронной почты и лент новостей Mozilla Thunderbird

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="8a1a7fbf132f6d6a303a82d91e6f87a872b5b6b9" maintainer="juanma"
 <define-tag description>desbordamiento de buffer, desbordamiento de entero</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidades en Squid, la caché de

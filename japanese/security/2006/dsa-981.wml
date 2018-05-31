@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="951b11af3b21e8e016add91df549590eb7e1cd2f"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>felinemalice さんが、SVGAlib 用の postscript ビューア BMV

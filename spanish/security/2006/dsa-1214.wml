@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="f3ef16cfee9001905c476030fe96bef0bddcd1d7" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>La actualización original que proporcionó en el DSA 1214-1 era insuficiente,

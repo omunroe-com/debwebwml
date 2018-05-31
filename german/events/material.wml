@@ -1,5 +1,5 @@
 #use wml::debian::template title="Materialien und Merchandising für Debian-Veranstaltungen" BARETITLE=true
-#use wml::debian::translation-check translation="1.52"
+#use wml::debian::translation-check translation="26e7afd08a3d132537cb0972825ac139f5b0fa42"
 #use wml::debian::toc
 # $Id$
 # Translator: Gerfried Fuchs <alfie@debian.org> 2001-10-22

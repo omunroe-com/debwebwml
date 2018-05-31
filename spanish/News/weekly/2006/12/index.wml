@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header SUMMARY="AMD64, instalador, expulsión, entrevista, elección de DPL, JBoss, documentación"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="9b434ca949f25719f34890741ae9a6b35987a1b8"
 
 <p>Bienvenidos a la décimo segunda edición de este año de las DWN, el boletín
 semanal de la comunidad de Debian. Robert Millan ha <a

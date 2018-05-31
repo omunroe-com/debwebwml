@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="74c2420d25d8469a4d4471f3c02b10d84683c8cd" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах для NDS, PacketBB, WSP, MMSE, RLC, LDSS, RLC и OpenFlow

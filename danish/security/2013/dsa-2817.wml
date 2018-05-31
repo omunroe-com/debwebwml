@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d0a3dccdfc2500264bddbf6deb3dd22cba2e0dc7" mindelta="1"
 <define-tag description>heltalsoverløb</define-tag>
 <define-tag moreinfo>
 <p>Timo Warns rapporterede om flere heltalsoverløbssårbarheder i libtar, et 

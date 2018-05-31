@@ -1,5 +1,5 @@
 #use wml::debian::template title="Construções do Debian-Installer"
-#use wml::debian::translation-check translation="1.19" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="3df77e50bec322ce2d4245a1b5f3c10c643ef04e" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <h2>Construções de CDs</h2>
 

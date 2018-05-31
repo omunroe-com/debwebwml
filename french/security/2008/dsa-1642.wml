@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="edc6fab49fbe2a1bf586eda02e1099e5f3b30e38" maintainer="Thomas Péteul"
 <define-tag description>Script intersite</define-tag>
 <define-tag moreinfo>
 <p>Will Drewry a découvert qu'Horde permettait à des attaquants d'envoyer un

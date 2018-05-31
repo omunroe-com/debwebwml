@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="fcb4f2b4bd8102aef79738b9d73ec4b0f63939ab" maintainer="Juan M. Garcia"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Jens Steube descubrió dos vulnerabilidades en masqmail, un cliente

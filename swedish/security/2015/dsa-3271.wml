@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2b423339b6af058a43fdb2d33f91d714b23663a2" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Tuomas Räsänen upptäckte att osäker signalhantering i nbd-server, servern

@@ -14,4 +14,4 @@ kunne gøre det muligt for en fjernangriber at udføre vilkårlig kode.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1610.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="beff16d80bfcadabfc5c51dac98a278efa6db7e3" mindelta="1"

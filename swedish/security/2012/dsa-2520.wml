@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="fd8cd9379f58d77c7e06f00a1c20c1b12572e845" mindelta="1"
 <define-tag description>Flera heap-baserade buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Timo Warns från PRE-CERT upptäckte flera heap-baserade buffertspill i

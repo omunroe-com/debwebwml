@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Installer リリース候補 1 をついに発表</define-tag>
 <define-tag release_date>2004-08-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="6d2359c35e16214604ee9eb1a159c9ddc3cf9158"
 
 <p>
 Debian-Installer チームは、Debian sarge インストーラの最初のリリース候補を発表します。

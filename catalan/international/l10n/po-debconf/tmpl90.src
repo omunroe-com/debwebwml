@@ -1,5 +1,5 @@
 #use wml::debian::template title="Estat de la localització de les plantilles amb fitxers PO per al codi de llengua: @tmpl_lang@"
-#use wml::debian::translation-check translation="1.4" maintainer="Jordi Mallach"
+#use wml::debian::translation-check translation="8536cf419447d00f034a8e3ad9efa6a243462fe7" maintainer="Jordi Mallach"
 #include '$(ENGLISHDIR)/international/l10n/dtc.def'
 
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"

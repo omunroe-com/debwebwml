@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="493539ed71fe4d8034e91c5f3d9b142635c6f9ef" maintainer="DFS Task Force"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>La <i>Apache Software Foundation</i> a annoncé que quelques versions de

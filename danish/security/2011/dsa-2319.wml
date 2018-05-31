@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1387312f67ee8c570374bf47fc41a693c881cfda" mindelta="1"
 <define-tag description>race-tilstand</define-tag>
 <define-tag moreinfo>
 <p>Neel Mehta opdagede en race-tilstand i Policykit, et framework til håndtering

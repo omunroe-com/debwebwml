@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cfc1b1526a7228d6bddf579ffe86ecacdb77ce12" maintainer="Lev Lamberov"
 <define-tag description>неинициалированная переменная</define-tag>
 <define-tag moreinfo>
 <p>В webcalendar, многопользовательском календаре на основе PHP, была

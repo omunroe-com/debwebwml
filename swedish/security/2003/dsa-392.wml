@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="3872ed130c684a6446cccc8c8d0d2de263a3777c" mindelta="1"
 <define-tag description>buffertspill, exponering av filer och kataloger</define-tag>
 <define-tag moreinfo>
 <p>

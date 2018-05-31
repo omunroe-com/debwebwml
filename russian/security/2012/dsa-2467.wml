@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e1fc533b03ccabee179b8d680c4d995e55f7c34a" maintainer="Lev Lamberov"
 <define-tag description>небезопасные настройки по умолчанию</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Mahara, программа для создания портфолио, блога и резюме,

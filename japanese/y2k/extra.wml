@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian の西暦 2000 年問題" GEN_TIME="yes"
 #use wml::fmt::url
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="271a253dd99f0ef02252bf27c7df23a9254f7724"
 
 <p>
 このページは西暦 2000 年問題についての 2 ページ目です。

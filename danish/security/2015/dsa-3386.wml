@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="aceea3f462698d5ee17186ab0fa0efd168914db1" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sårbarheder er fundet i unzip, et arkivudpakningsprogram til .zip-filer.  

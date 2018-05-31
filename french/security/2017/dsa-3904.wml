@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="5c85acacd594bb0fde4f34ed6041cb70ad81a6d2" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Clément Berthaux de Synaktiv a découvert deux vulnérabilités dans BIND,

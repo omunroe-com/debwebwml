@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="2bd18a67682540fb7c79d49a858ca9bcfaa704ed" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Georgi Guninski a découvert deux débordements de pile dans <i>exim</i>. 

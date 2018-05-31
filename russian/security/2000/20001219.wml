@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>На прошлой неделе была выпущена рекомендация по безопасности Zope,
 в которой указано, что Эрик Энге обнаружил проблему в способе вычисления ролей в Zope. В некоторых
 ситуациях Zope проверяет неправильную иерархию каталогов, что может привести к тому, что

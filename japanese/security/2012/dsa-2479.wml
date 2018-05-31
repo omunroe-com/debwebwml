@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c40d6bb1794605d91a9e3560c308158776a396a3"
 <define-tag description>off-by-one</define-tag>
 <define-tag moreinfo>
 

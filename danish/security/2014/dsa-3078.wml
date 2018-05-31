@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ed8a4886d51e563934e657bd3dbe32680f492b8e" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En heltalsunderløbsfejl, førende til et heapbaseret bufferoverløb, blev 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="480588e2eff1b449ca92913a4d98927d97b8967e" mindelta="1"
 <define-tag description>certifikatverifikationsfejl</define-tag>
 <define-tag moreinfo>
 <p>Suman Jana rapporterede at GnuTLS, i modsætning til den dokumenterede 

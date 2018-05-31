@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" mindelta="1"
+#use wml::debian::translation-check translation="6ab326dfd505ca821077c5edce399f2c0f801b86" mindelta="1"
 <define-tag description>attack mot symboliska länkar</define-tag>
 <define-tag moreinfo>Säkerhetsrättelsen för joe som släpptes 2000-11-22
 innehöll ett problem: den skapade DEADJOE-filen säkert, men skrev inte något

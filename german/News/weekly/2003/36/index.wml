@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-09" SUMMARY="Rezension, Webmagick, PostgreSQL, Libwww, dpkg, GNU, FSF, Politik, Sicherheit, NordicOS, griechischer Leitfaden"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 # $Id$
 # Translation: Gerfried Fuchs <alfie@debian.org> 2003-09-08
 

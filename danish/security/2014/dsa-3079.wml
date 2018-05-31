@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2917d777bdfb3305d9ccbc3ad034a59e2d00c42c" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhed blev opdaget i ppp, en implementering af Point-to-Point 

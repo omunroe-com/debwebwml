@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="5c85acacd594bb0fde4f34ed6041cb70ad81a6d2" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Clément Berthaux fra Synaktiv opdagede to sårbarheder i BIND, en 

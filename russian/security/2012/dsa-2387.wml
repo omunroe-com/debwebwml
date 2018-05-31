@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="71d5af9b1cd6fd105ad56ceb3b77fdb4b202bf64" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p><q>timtai1</q> обнаружил, что simpleSAMLphp, платформа аутентификации и

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2a0f25696671e93b488564034d0f06cd65547ae6" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Gergely Gábor Nagy från Tresorit upptäckte att libcrypto++, ett

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-07-08" SUMMARY="GNOME, RFC, Menü, Debconf, Lizenzen, DDP, Konferenzen, FDL"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 # Translation: Gerfried Fuchs <alfie@debian.org> 2003-07-15
 

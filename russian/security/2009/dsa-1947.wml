@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9f5679e6fe7bad2fdba3e7adbc14303e07a2cadc" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки входных данных</define-tag>
 <define-tag moreinfo>
 <p>Мэт Элдер обнаружил, что Shibboleth, интегрированная система единого

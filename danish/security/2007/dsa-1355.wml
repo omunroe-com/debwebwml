@@ -20,4 +20,4 @@ version 3.5.7-3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2007/dsa-1355.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="8f5479868dd54dbeff78f96b07a66afb10eb7174" mindelta="1"

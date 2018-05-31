@@ -1,5 +1,5 @@
 #use wml::debian::template title="El proyecto «debian-volatile»"
-#use wml::debian::translation-check translation="1.18" maintainer="batgirl"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="batgirl"
 #use wml::debian::release_info
 
 <h2>«Debian-volatile» para usuarios finales</h2>

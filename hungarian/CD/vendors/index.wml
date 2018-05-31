@@ -2,7 +2,7 @@
 #use wml::debian::countries
 #include "$(ENGLISHDIR)/CD/vendors/vendors.inc"
 
-#use wml::debian::translation-check translation="1.55"
+#use wml::debian::translation-check translation="ffb5a017610490ea0bcad4fd7ac4a7f02a0668a3"
 # <!-- translated by Szabolcs Siebenhofer <the7up@gmail.com> -->
 
 <p>

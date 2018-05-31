@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-04-11" SUMMARY="Elezione, Internazionalizzazione, General Resolution, Debian-Installer, su+sudo, Xen"
-#use wml::debian::translation-check translation="1.8" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="9b434ca949f25719f34890741ae9a6b35987a1b8" maintainer="Daniele Venzano"
 
 <p>Benvenuti al quindicesimo numero di DWN di quest'anno, il bollettino settimanale 
 per la comunità Debian. Martin Zobel-Helas ha <a

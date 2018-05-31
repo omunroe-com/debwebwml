@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="05a9dbb8e5e0a02f3fa8dc9bdb2b34bbfb9ea726"
 <define-tag description>安全でないファイル名引用</define-tag>
 <define-tag moreinfo>
 <p>Brian May さんが、Postscript や PDF ファイルからテキストを抽出するユーティリティ

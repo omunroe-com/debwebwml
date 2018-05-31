@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cb00833d9b85e635a610526fb174adde3da39f57" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at et bufferoverløb i MuPDF-fremviseren kunne føre til udførelse 

@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Kiadási információk Debian CD képekkel kapcsoaltosan" BARETITLE=true
-#use wml::debian::translation-check translation="1.34" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Szabolcs Siebenhofer"
 
 <p>
 Ez az oldal hisztroikusan tartalmazza a hivatalos Debian CD képekkel kapcsolatos

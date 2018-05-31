@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="31ea7670f4161d1b8bb616bcc692315f8863c8e9" mindelta="1"
 <define-tag description>rettighedsforøgelse</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at brugere med en gyldig agentlogin, kunne anvende fabrikerede 

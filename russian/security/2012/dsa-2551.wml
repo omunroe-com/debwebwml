@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="209699f1cd99d59926d600169f3afb438163d95f" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Глен Эастэйс обнаружил, что сервер ISC DHCP, сервер для автоматического

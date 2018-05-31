@@ -48,5 +48,5 @@ Verwundbarkeit beheben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-908.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="68ab1a6e12f6ba90c0d47c2406b1647a02455ffd" mindelta="1"
 # $Id$

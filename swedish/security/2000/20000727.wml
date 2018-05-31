@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="552686a10b02cd905edda8597ad6abd9243d30a2" mindelta="1"
 <define-tag description>lokalt säkerhetshål</define-tag>
 <define-tag moreinfo>Versionen av userv som distribuerades med Debian
 GNU/Linux 2.1 (slink) hade ett problem med fd-växlingsalgoritmen, i vilken

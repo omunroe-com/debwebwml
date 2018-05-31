@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6cab84c6e31afa18e9223c57ca2ec248f88267d4"
 <define-tag description>情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>Yuval Yarom さんと Katrina Falkner さんが、サイドチャネル攻撃を経由して RSA

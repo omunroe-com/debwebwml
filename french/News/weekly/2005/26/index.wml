@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-06-28" SUMMARY="Charte, Etch, Programmes XML, Empaquetage, Construction, TeXlive, DebianPeru"
-#use wml::debian::translation-check translation="1.6" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="09c8de4214e938e26eeaf5c5d5bbb5937213f414" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 26e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian. Rafael

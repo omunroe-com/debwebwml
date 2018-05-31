@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="778bbfaac229c1ea008e58777ccb97f94fd1158c" maintainer="Baptiste Jammet"
 <define-tag description>Contournement de restrictions</define-tag>
 <define-tag moreinfo>
 <p>Ivan Fratric de l'équipe de sécurité de Google a découvert un bogue dans nginx,

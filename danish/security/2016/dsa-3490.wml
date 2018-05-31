@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d013d10cd6397b31bbadc8043916c2df646d1032" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jakub Palaczynski opdagede at websvn, en webfremviser til Subversion-arkiver, 

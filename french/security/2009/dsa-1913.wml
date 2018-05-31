@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="908a5e8ecb671929e618239c6fcf8420432a37fe" maintainer="David Prévot"
 <define-tag description>Vulnérabilité d'injection SQL</define-tag>
 <define-tag moreinfo>
 <p>

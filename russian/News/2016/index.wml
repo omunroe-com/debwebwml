@@ -1,6 +1,6 @@
 #use wml::debian::template title="Новости за 2016 год"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f3d0b806a95104a974cbde10fc2353e5ea11bdc0" maintainer="Lev Lamberov"
 
 <p><:= get_recent_list ('.', '0', '$(ENGLISHDIR)/News/2016', '',
 '\d+\w*') :></p>

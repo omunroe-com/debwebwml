@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="8b843fe1425a78b8724b0f3c068296568cd5a142"
 <define-tag description>LTS セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>ANSSI の Florian Maury さんが、検証、再帰、キャッシュ DNS リゾルバ

@@ -10,4 +10,4 @@ følsomme oplysninger i dem. Vi anbefaler at du opgraderer dine cron-pakker.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2001/dsa-024.data'
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="98c7ecaade34b007f309964ad4de8638677324d3"

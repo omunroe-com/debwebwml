@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-09-03" SUMMARY="OpenOffice, WNPP, Sicherheit, Fehlerkorrekturen, Fehler, Testing, TrueType-Zeichensätze, Apsfilter, Debian auf CD"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 # $Id$
 
 <p>Willkommen zur 34. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

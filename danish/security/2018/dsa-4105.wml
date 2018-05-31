@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d80d1acf0fe17385f4142224bc1fc7b5bf23941c" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at mpv, en medieafspiller, var sårbar over for fjernudførelse af 

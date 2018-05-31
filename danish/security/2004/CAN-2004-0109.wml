@@ -1,5 +1,5 @@
 #use wml::debian::template title="Kerne-sårbarhedsmatrix vedr. CAN-2004-0109" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="987f462ebc132b3c47e4b0eb75cc9dc81106ef99" mindelta="1"
 
 <p>Følgende sårbarhedsmatrix forklarer hvilke kerneversioner i den stabil 
 (woody) og ustabile (sid) distribution, som indeholder rettelser til 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="87d8ca0fba0e326572a539211a93d459291bb755"
 <define-tag description>локальное присвоение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Загрузчик модулей ядра в Linux 2.2 и Linux 2.4 содержит изъян в

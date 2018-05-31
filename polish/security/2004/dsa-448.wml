@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer=""
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9" maintainer=""
 <define-tag description>kilka naruszeń bezpieczeństwa</define-tag>
 <define-tag moreinfo>
 <p>Odkryto kilka naruszeń bezpieczeństwa w pwlib, bibliotece używanej

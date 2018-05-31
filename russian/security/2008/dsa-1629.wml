@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ff3b75ade496b04253cb5dbd461621d02dcf0d05" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Себастиан Крамер обнаружил, что Postfix, агент передачи электронной почты,

@@ -1,6 +1,6 @@
 <define-tag pagetitle>Bản tuyên bố về việc Dmitry Bogatov bị bắt giữ</define-tag>
 <define-tag release_date>2017-04-17</define-tag>
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
+#use wml::debian::translation-check translation="d011e08f3d2b6948b38e8ca6a5e2ecfa836f32dc" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
 #use wml::debian::news
 # $Id$
 

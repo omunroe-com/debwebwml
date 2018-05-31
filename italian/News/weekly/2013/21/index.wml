@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-12-02" SUMMARY="Pillole dal team di rilascio, un nuovo membro per la Commissione Tecnica, Alioth è tornato, relazioni dalle mini DebConf di novembre, pillole dal team di Debian Med"
-#use wml::debian::translation-check translation="1.10" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Mirco Scottà"
 
 # $Rev: 5315 $
 # Status: [frozen]

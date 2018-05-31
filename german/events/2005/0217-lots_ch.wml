@@ -26,7 +26,7 @@ Verträge über Debian gehalten.</p>
 
 #use wml::debian::past_event
 # $Id$
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="acfad9e19c596da7eb800c848b7074ddd86044d3"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.lots.ch/2005/Projekte.html?id=404">Eine kurze Einführung in das Debian-Projekt</a>

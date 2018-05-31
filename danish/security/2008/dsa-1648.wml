@@ -17,4 +17,4 @@ dette problem rettet i version 0.99.2-13.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1648.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="46e0aa5ed77e021e78b1181c8decf67621005d94" mindelta="1"

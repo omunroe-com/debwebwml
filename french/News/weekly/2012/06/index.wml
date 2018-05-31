@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-03-20" SUMMARY="Élections du chef de projet Debian 2012, première version de Debian Edu basée sur <q>Squeeze</q>, Comptes-rendus des dernières chasses aux bogues"
-#use wml::debian::translation-check translation="1.7" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

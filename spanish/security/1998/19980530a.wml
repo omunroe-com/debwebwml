@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="db1de9b4d182abe0614b8e9fa5648020926d480e"
 <define-tag moreinfo>
 <p>Hemos recibido información de que alguien puede aprovechar un 
 desbordamiento de búfer simple para ganar acceso al grupo shadow en sistemas

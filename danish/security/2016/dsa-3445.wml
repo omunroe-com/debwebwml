@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c7c3136608828fcd1fc96d31451eaaf3b5dd4ee7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Javantea opdagede at pygments, en generisk syntaks-highlighter, var sårbar 

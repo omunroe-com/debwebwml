@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="d1da82b68b76ac0257283104f9f5c8ed48568c17" maintainer="Alexander Reshetov"
 <define-tag description>нeдocтaтoчнaя oбpaбoткa вxoдныx дaнныx</define-tag>
 <define-tag moreinfo>
 <p>Kees Cook oбнapyжил, чтo yтилиты chfn и chsh нeпpaвильнo

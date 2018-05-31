@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5d2b47c8dcfe6d4f095b7b0a5bdc4a0ab1fdf859"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Antoine Delignat-Lavaud さんと Karthikeyan Bhargavan さんが、

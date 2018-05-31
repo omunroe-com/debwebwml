@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="dc789b4ef17fd36cbf5692840da05247dbaaa564" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Les commandes pg_ctlcluster, pg_createcluster et pg_upgradecluster ne

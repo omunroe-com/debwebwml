@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1550abca3d44042b386810514223a5c63669bcc9"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Google セキュリティチームの Michele Spagnuolo さんが、.zip

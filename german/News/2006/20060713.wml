@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-Server nach Einbruch wieder hergestellt</define-tag>
 <define-tag release_date>2006-07-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 # $Id$
 
 <p>Ein zentraler Debian-Server wurde nach einer Kompromittierung neu

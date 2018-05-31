@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="298288e3ea6445681fee7fa3ba935b13aebb35de" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Михал Марек обнаружил, что ruby-archive-tar-minitar, библиотека Ruby,

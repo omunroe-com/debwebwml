@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-10-04" SUMMARY="Constant Usable Testing, pillole dal Team FTP, Google Summer of Code, pillole dal Team Publicity"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="f1d948670b86947f623a9b451e5940ecf566d500"
 
 <!--
 $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="97b8ff2bd6d60ba794da1bddafc016083a7eac27"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Kingcope さんが、ProFTPD、強力なモジュール型

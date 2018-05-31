@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="ae9f1d7975b989b88cd4b7ad7549c6d0ecbba976" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Nhiều lỗ hổng bảo mật đã được sửa trong bộ đa dồn kênh và

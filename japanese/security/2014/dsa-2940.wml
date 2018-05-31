@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="619c722415d54b21d9a8785427f654eca0b29aee"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Struts ActionForm オブジェクトにアクセス確認が欠けていることが発見されました。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cbfe95e0a9c1e87cf4be580991a74eb134b41ab0" maintainer="Lev Lamberov"
 <define-tag abbr>PLG</define-tag>
 <define-tag year>2006</define-tag>
 <define-tag pagetitle>Practical Linux</define-tag>

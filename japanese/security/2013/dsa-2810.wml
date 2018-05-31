@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d16ec14fb629056ca8754b317db3f2088b433251"
 <define-tag description>ヒープオーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>Charlie Somerville さんが、Ruby

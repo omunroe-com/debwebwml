@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 2.2 actualitzada (r7)</define-tag>
 <define-tag release_date>2002-07-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <define-tag revision>2.2r7</define-tag>
 

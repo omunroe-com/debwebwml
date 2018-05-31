@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="af888a84e301412e943f1488f3fdc97db17338e2" maintainer="Lev Lamberov"
 <define-tag description>удалённый отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Ряд потенциальных удалённых отказов в обслуживании был выявлен в

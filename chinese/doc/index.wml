@@ -1,5 +1,5 @@
 #use wml::debian::template title="說明[CN:文檔:][HKTW:文件:]"
-#use wml::debian::translation-check translation="1.111"
+#use wml::debian::translation-check translation="755893e6e0cd2bdf43a98ad6c7d58a4d54b496a6"
 
 <p>說明[CN:文檔:][HKTW:文件:][CN:与:][HKTW:與:]使用手冊在每一個[CN:操作系統:][HKTW:作業系統:]中都是很重要的一部份，是描述\
 程序操作和使用的技术手册。正由[CN:于:][HKTW:於:]說明[CN:文檔:][HKTW:文件:]\

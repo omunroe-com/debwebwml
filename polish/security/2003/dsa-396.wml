@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 <define-tag description>brakujący element, błędne przeliczanie</define-tag>
 <define-tag moreinfo>
 <p>Odkryto kilka dziur w thttpd, małym serwerze HTTP.

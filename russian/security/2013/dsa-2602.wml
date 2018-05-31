@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dab56055ad33031be3b29312fafe0981bd2bfca4" maintainer="Lev Lamberov"
 <define-tag description>включение внешней сущности XML</define-tag>
 <define-tag moreinfo>
 <p>Юрий Дяченко обнаружил, что Zend Framework использует ПО для грамматического

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6267e9a2f71dd5e3a12c5eb13f60f528bb7e8b4b"
 <define-tag description>ファイルデスクリプタ漏洩</define-tag>
 <define-tag moreinfo>
 <p>Stefan Pfetzing さんが、Secure Shell v2 (SSH2) プロトコルサーバ

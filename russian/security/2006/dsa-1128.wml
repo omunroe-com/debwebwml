@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1da9fa47138b542908eaa5a9fa7b1614a1dc81e1" maintainer="Lev Lamberov"
 <define-tag description>ошибка прав доступа</define-tag>
 <define-tag moreinfo>
 <p>Ян Ронг Ге обнаружил, что неправильные права доступа к разделяемой странице памяти

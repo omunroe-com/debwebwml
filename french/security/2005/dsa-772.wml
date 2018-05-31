@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="354a76afc46f79e67f01bc860c0c9ed0017acbb3" maintainer="Mohammed Adnène Trojette"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Eduard Bloch a découvert un bogue dans apt-cacher, un système de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0d50171c51f96fa7187be1c1536a183f51fd63f0" maintainer="Lev Lamberov"
 <define-tag pagetitle>Новый поисковый движок на веб-сайте Debian</define-tag>
 <define-tag release_date>2000-10-25</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="a28543e380542019eea02093eb6cda9413663676" maintainer="Pierre Machard"
 <define-tag description>Débordements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Dan Jacobson a relevé un problème dans <i>noffle</i>, un serveur de news

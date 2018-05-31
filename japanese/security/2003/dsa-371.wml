@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="54f5d94e40c0797dddde79c02f79ebd75aa77afc"
 <define-tag description>クロスサイトスクリプティング</define-tag>
 <define-tag moreinfo>
 <p>CGI.pm の start_form() 関数にクロスサイトスクリプティング脆弱性が存在します。

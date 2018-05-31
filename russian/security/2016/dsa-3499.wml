@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7e58a90c995e3fb9afc7bc9b674a7a0da87a4bd1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Pillow, библиотеке Python для выполнения сканирования, были обнаружены

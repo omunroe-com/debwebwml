@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d72ec9af3906d5f8e6e7d7a7d5704bbdd708ba74"
 <define-tag description>explotación remota</define-tag>
 <define-tag moreinfo>
 <p>Mark Dowd, de ISS X-Force, encontró un error en las rutinas de análisis

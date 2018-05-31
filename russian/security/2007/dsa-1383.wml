@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="59b9038b2b03fdbfbddf613ee9416bbe52a9cd8c" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптинг</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что межсайтовый скриптинг в GForge,

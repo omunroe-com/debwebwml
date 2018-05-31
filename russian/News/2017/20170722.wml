@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b7a122dcf8c7e6eadb6aa6711cf455d2e2644829" maintainer="Lev Lamberov"
 <define-tag pagetitle>Обновлённый Debian 9: выпуск 9.1</define-tag>
 <define-tag release_date>2017-07-22</define-tag>
 #use wml::debian::news

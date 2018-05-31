@@ -1,5 +1,5 @@
 #use wml::debian::template title="Согласование содержания"
-#use wml::debian::translation-check translation="1.2" 
+#use wml::debian::translation-check translation="0dbdbbf9b5488033e15adf800ec9b7aa8bcbc58c" 
 
 <H3>Как сервер узнаёт, какой файл нужно отображать</H3>
 <P>Вы можете заметить, что внутренние ссылки не заканчиваются на .html. Это

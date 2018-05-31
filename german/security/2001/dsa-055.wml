@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d1306e634845b9ed277edeb78cd1cc1a37335513"
 # Translator: Alexander Reiter <leckse@gmx.net>
 <define-tag description>Unautorisierter Zugang über das Netz</define-tag>
 <define-tag moreinfo>

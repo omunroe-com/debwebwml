@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="999ca277a17dd370f10f485ac3e43ed45c3441d7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at texlive-base, TeX Live-pakken der indeholder de essentielle 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9fa09fd2a7faa0c3fd57b25f706730dbd9ddc03c" mindelta="1"
 <define-tag description>flere sårbarheder</define-tag>
 <define-tag moreinfo>
 <p>Kevin Chen opdagede at ukorrekt behandling af framebuffer-forespørgsler i 

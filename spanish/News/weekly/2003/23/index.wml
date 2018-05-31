@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-06-10" SUMMARY="XSF, Menú, Sarge, OpenSSL, Aniversario, Knoppix, Votos, FreeBSD, Kerberos, Cohete, I18n, Licencias, UTF8"
 # $Id$
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2"
 
 <p>Bienvenidos a la edición número 23 de las DWN, el boletín semanal de la 
 comunidad Debian. Hay una pequeña y divertida <a

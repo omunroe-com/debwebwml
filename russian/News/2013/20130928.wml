@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Lev Lamberov"
 <define-tag pagetitle>Debian Edu / Skolelinux Wheezy — полное решение на базе Linux для вашей школы</define-tag>
 <define-tag release_date>2013-09-28</define-tag>
 #use wml::debian::news

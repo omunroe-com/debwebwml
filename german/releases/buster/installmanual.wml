@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/buster/release.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a88cfbde1da751dce0eda78e677f2313dbf4a479"
 
 
 <if-stable-release release="stretch">

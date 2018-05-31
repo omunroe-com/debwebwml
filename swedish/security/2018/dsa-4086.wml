@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5bc1c6de95b4f4154c74fcab63dfe0dbdada5af1" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Nick Wellnhofer upptäckte att vissa funktionsanrop i XPath-predikat

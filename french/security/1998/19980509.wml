@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="99d9281ec114bc899622b2b4aa3ce542cab01e5b" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Nous avons reçu un rapport comme quoi <i>procps</i>&nbsp;1.2.6 contient une
 création de fichier et un bug de corruption dans <i>XConsole</i>. Si vous

@@ -3,7 +3,7 @@
 <define-tag pagetitle>D&eacute;partement des syst&egrave;mes informatiques, Granges, Suisse</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="42ed5864f99f192ac3359947f6fc2a0fe9c70739" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian sur certains serveur <q>de bureautique critiques</q>, par

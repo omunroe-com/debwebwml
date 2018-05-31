@@ -38,5 +38,5 @@ Version 0.0.6E4F8-6 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-316.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="dfced456302c08a13588adef698869b73c06322d"
 # $Id$

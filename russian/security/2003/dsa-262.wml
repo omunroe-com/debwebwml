@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="03be4e124eb885e906d28006cf4bf10fb15aa45e"
 <define-tag description>удалённая эксплуатация</define-tag>
 <define-tag moreinfo>
 <p>Себастьян Крамер (Sebastian Krahmer) из команды проверки безопасности

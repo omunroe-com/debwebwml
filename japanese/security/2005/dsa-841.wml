@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f733e046089a8025c38be85dbb92fd93a83205d1"
 <define-tag description>フォーマット文字列脆弱性</define-tag>
 <define-tag moreinfo>
 <p>フォーマット文字列脆弱性がメール処理ユーティリティを収録する

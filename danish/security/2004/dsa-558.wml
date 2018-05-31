@@ -17,4 +17,4 @@ Apache 2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-558.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="45a133052dae9c3da2214064efdae484da514775" mindelta="1"

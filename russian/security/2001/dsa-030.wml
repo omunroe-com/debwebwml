@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1e50ac3d41b5e280b3bfeec438669c049126f9d6" maintainer="Lev Lamberov"
 <define-tag moreinfo>Крис Эванс, Джозеф Майерс, Михал Залевский, Алан Кокс
 и другие отметили ряд проблем в некоторых компонентах образцовой
 реализации X Window System (на основе которой создана система XFree86). Хотя

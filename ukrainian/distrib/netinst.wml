@@ -2,7 +2,7 @@
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.25" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="717d85ad546169c82332f68ecc5db3644c9f86fd" maintainer="Borys Yanovych"
 
 <p>Цей метод встановлення потребує наявності з'єднання з мережею 
 Internet <em>в процесі</em> встановлення. При цьому потрібно буде

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Free and Open Source Software Developers' Meeting -- Отчёт"
 # $Id$
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" maintainer="Lev Lamberov"
 
 <p>Проект Debian был представлен на собственном стенде, также мероприятие посетило
 довольно много разработчиков, которые использовали эту конференцию в качестве места встречи.  Это мероприятие проходило

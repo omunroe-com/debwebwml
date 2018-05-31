@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="777c4005911fa865791b525565d7396a78cd9c99" maintainer="David Prévot"
 <define-tag description>Dépassement de zone de mémoire du système</define-tag>
 <define-tag moreinfo>
 <p>

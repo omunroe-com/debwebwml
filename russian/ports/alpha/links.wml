@@ -1,6 +1,6 @@
 #use wml::debian::template title="Перенос на Alpha -- Ссылки" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
-#use wml::debian::translation-check translation="1.44" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Lev Lamberov"
 
 <h1>Ссылки переноса на платформу Alpha</h1>
 

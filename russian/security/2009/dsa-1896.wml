@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7ecc6be4937a3d3e04de81752d4492013a43008a" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В пакетах opensaml и shibboleth-sp, используемых Shibboleth 1.x, было обнаружено

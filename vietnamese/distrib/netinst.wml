@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.28" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="0717ab9b3acaffa53951c342ede04db08ce488b0" maintainer="Trần Ngọc Quân"
 #use wml::debian::template title="Cài đặt Debian thông qua Internet" BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"

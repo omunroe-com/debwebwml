@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="746c70c87d1f0fd4947480fd25a3081a6140d079"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Alex Chapman さんが<q>MMS over

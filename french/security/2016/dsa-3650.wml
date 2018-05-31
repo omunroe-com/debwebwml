@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="36bb2d3d23a35abc7ef7993165e77cedf2f0ce5b" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Felix Doerre et Vladimir Klebanov de l'Institut de Technologie de

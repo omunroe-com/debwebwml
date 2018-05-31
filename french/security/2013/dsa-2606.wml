@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="0be1d5fe4650b48be8f90b920e601837c64b26b6" maintainer="David Prévot"
 <define-tag description>Compétition de lien symbolique</define-tag>
 <define-tag moreinfo>
 <p>

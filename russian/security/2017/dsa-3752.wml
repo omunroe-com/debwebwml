@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="73d592eaaac4ab403090953427ed08ec4efcbf8a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Питер Ву обнаружил, что использование указателей после освобождения памяти в PC/SC

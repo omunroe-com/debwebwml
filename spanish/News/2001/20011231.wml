@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="juanma"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="juanma"
 <define-tag pagetitle>Soporte del Euro en Debian</define-tag>
 <define-tag release_date>2001-12-31</define-tag>
 #use wml::debian::news

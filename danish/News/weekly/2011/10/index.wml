@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-24" SUMMARY="Kommende Debian-opdatering: 6.0.2, Nye øvelsessessioner på IRC, Planet Debian Derivatives, Grafisk installering af Debian GNU/kFreeBSD"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 # $Id$
 # $Rev: 2331 $

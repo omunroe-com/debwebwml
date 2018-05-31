@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="05a9dbb8e5e0a02f3fa8dc9bdb2b34bbfb9ea726" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Protection de noms de fichiers peu sûre</define-tag>
 <define-tag moreinfo>

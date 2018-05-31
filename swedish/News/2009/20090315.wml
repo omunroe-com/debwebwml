@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="717a38afebdec30ca4ea504355607d616ce60b6e"
 <define-tag pagetitle>Skolelinux för skolor i Rheinland-Pfalz</define-tag>
 <define-tag release_date>2009-03-15</define-tag>
 #use wml::debian::news

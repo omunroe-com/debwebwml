@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9c07b0835cf9c381805b4aefb3f921043c981946"
 <define-tag pagetitle>Wydarzenia w 1998 roku</define-tag>
 #use wml::debian::template title="Wydarzenia w 1998 roku"
 #use wml::debian::recent_list

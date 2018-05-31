@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5d19754129fa25321fad316595d534d5ad132da9" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Макс Фоцелер обнаружил переполнение целых чисел во вспомогательном приложении

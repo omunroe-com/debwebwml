@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="2c9f8dd32462c863f89af7c5c71f6b3790608994" maintainer="juanma"
 <define-tag description>no se saneaba la entrada</define-tag>
 <define-tag moreinfo>
 <p>Graham Dumpleton descubrió una debilidad que afectaba a todos los

@@ -17,4 +17,4 @@ version 2.7.3-3sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-924.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="4099b0af013595f199ff7e8933edc80fd3313e55" mindelta="1"

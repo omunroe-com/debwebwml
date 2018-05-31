@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b50688b1c5fd7f11515704f36f19bcf3a1b5c701"
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
 <p>Foram relatadas duas vulnerabilidades no sendmail.</p>

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Erster offizieller Testzyklus für Debian GNU/Linux 2.2 begonnen</define-tag>
 <define-tag release_date>2000-05-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1a8626fae1df15924d17633643edb17df0f236f0"
 # Translator: Helge Kreutzmann, kreutzm@itp.uni-hannover.de, 2005-07-25
 # $Id$
 

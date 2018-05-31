@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" mindelta="1"
+#use wml::debian::translation-check translation="40fd790b1ec0c5522b743cdbbdcbe11e4b771856" mindelta="1"
 <define-tag description>Tillgänglighet för LTS-stöd för Debian 6.0 / Squeeze</define-tag>
 <define-tag moreinfo>
 <p>Den inledande organisationen och uppsättningen av Squeeze LTS har nu skett

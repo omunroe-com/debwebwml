@@ -1,5 +1,5 @@
 #use wml::debian::template title="Informace o&nbsp;verzi Debian <q>buster</q>"
-#use wml::debian::translation-check translation="1.3" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="57acbab5de96524bfd76890f9791fe30010551e3" maintainer="Miroslav Kure"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/buster/release.data"

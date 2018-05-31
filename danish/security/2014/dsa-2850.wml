@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="57ced59d2f13e7b5ec60a8a44b4d056fccacd850" mindelta="1"
 <define-tag description>heapbaseret bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer fra Red Hat Product Security Team opdagede en heapbaseret 

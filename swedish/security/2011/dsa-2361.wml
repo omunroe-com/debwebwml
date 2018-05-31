@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d132336cbd413ca3976432863ab1c307efa470f4" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att ChaSen, ett Japanskt morfologiskt analyssystem,

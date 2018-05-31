@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7a716b9ab0c82b7f83a72f21910992197af35966" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Brandon Perry upptäckte att xerces-c, ett validerande XML-tolkbibliotek

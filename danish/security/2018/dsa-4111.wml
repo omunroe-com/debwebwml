@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1d234abd0cb6d3d7e75ce722a9fea224df8bb875" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Mikhail Klementev, Ronnie Goodrich og Andrew Krasichkov opdagede at manglende 

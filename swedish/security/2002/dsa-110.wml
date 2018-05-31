@@ -15,4 +15,4 @@ dem installerade.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-110.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ee24937fbfcb986923c55864c3ff9ced5b7823e3" mindelta="1"

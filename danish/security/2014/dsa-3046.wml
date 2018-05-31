@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3c27c783d6ceba76d1c1c296137b09f4d75bc245" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Der blev rapporteret at MediaWiki, en webstedsmotor til samarbejdsprojekter, 

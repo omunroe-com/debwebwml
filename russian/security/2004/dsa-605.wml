@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="09bb9d549a46131936f0ac5ec411977eb1bae5f7" maintainer="Lev Lamberov"
 <define-tag description>настройки не учитываются</define-tag>
 <define-tag moreinfo>
 <p>Гарис Сехик обнаружил несколько уязвимостей в viewcvs, утилите для

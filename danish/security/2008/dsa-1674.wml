@@ -16,4 +16,4 @@ distribution (sid), er dette problem rettet i version 0.4-10.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1674.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3fca68678ea6ba7ddb95e5662a84ce47833c69ba" mindelta="1"

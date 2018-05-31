@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="597062fb50c44c251eb9991ec3292a5aeb0b5931"
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
 <p>Dois buffer overflows foram descobertos no purity, um jogo para nerds

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f09576d8bbd2b2ec2ae0e4921bd0b3254cd1ad21" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Андреас Нолден обнаружил ошибку в функциях декодирования UTF8 в

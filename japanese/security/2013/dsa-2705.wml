@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4b17fce2f34d0c9fdf3124ac47c4495f09e24e69"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Jibbers McGee さんが、高性能で構造自由な文書志向のデータ格納庫

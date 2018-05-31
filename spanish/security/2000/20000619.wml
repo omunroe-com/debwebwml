@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="11fb44acea95ca34886b039e6100cc7e0224fd06"
 <define-tag moreinfo>Ciertas versiones de xinetd tienen un error en el
 mecanismo de control de acceso. Si usa un nombre de host para el control de
 acceso al servicio ( localhost en lugar de 127.0.0.1 ), xinetd le permitirá

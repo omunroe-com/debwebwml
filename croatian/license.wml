@@ -1,5 +1,5 @@
 #use wml::debian::template title="Licenca Debian WWW stranica" NOCOPYRIGHT="true" BARETITLE="true"
-#use wml::debian::translation-check translation="1.25"
+#use wml::debian::translation-check translation="284aaf82ac364d497b28761d38eb85efc09a7cca"
 
 <div class="centerblock">
 <p>Vlasnik autorskih prava &copy; 1997-$(CUR_YEAR)

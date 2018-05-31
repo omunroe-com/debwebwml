@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e16d172fd59ad74eccafd23efb87bcde82e9bbbd" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Константин Белоусов и Алан Кокс обнаружили, что недостаточные проверки

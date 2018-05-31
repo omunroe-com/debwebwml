@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="51f874fb262eec870d6f8a20b72640eb894cc361"
 <define-tag description>Pufferüberlauf</define-tag>
 <define-tag moreinfo>
 <p>»infamous41md« entdeckte einen Pufferüberlauf in uw-imap, dem

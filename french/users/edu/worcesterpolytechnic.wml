@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.gdc.wpi.edu/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Guillaume Seren"
+#use wml::debian::translation-check translation="bfc58c999cac6249a63c5062b206bd7a0a731275" maintainer="Guillaume Seren"
 
 # Translators:
 # Nicolas Bertolissio, 2005.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="80fcedffb55ea69b4f47eb4500d1d2bcff2059f1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Штефан Хорст обнаружил уязвимость в API абстракции базы данных Drupal,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba9ff6c874832e7516a161947942b8c7a1a9aff1" maintainer="Lev Lamberov"
 <define-tag description>удалённая уязвимость DoS</define-tag>
 <define-tag moreinfo>
 <p>Марк Личфилд обнаружил переполнение буфера в веб-сервере

@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Ảnh bìa cho đĩa CD Debian" BARETITLE=true
 # $Id$
-#use wml::debian::translation-check translation="1.41" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="95c243c81514bf27ba01b6a583d56cfc6d7947eb" maintainer="Trần Ngọc Quân"
 
 <p>Phần đồ họa chính thức cho các bản phát hành hiện tại và gần đây có lẽ sẵn có
 trên trang wiki <a href="https://wiki.debian.org/DebianArt/Themes">chủ đề</a>.

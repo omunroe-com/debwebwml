@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-10-09" SUMMARY="DDP, DDTS, Pacotes de Bancos de Dados, Listas, Licenças"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p><strong>O DDP Precisa de Você!</strong> O <a
 href="$(HOME)/doc/ddp">Debian Documentation Project</a> 

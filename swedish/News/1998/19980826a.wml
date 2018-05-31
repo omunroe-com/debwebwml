@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian i pressen: Direktsänt på BBC?</define-tag>
 <define-tag release_date>1998-08-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="15ae7cd5e3ba581d7aca2fe1ab43b9d0825ac2bb"
 
 <p>Nåja, kanske inte helt direktsänt...
 men vi ingår i bilden på Chris Nuttalls artikel

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f686b20ff827193a320bf26cc6851434693647cf"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han encontrado múltiples vulnerabilidades en Tor, un sistema de comunicación

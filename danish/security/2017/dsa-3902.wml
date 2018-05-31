@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0fab96aaba2c9367604b4dac52ea2370d47c7496" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at jabberd2, en instant messenger-Jabber-server, tillod anonyme 

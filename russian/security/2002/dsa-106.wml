@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3dd6714bfa3884367436b3a46cc38ff96fce5a3c" maintainer="Lev Lamberov"
 <define-tag description>удалённая уязвимость</define-tag>
 <define-tag moreinfo>
 Себастиан Крамер обнаружил несколько мест в коде <a href="http://rsync.samba.org/">\

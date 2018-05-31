@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f06976b693056726b71e86693a13b7da96ed161a"
 <define-tag description>przepełnienie bufora</define-tag>
 <define-tag moreinfo>
 <p>Leon Juranic odkrył przepełnienie bufora związane z 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b95c64eb749661d4fced9c6dbfa899c799978272" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Emmanuel Thome upptäckte att saknad rengörning i kommandot oarsh i

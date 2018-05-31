@@ -1,6 +1,6 @@
 #use wml::debian::ddp title="O SVN do Projeto de Documentação do Debian"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.30" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="a5ea87f6c443e6385e8f5bab46572598466f0bc8" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>O Projeto de Documentação do Debian armazena suas páginas e muitos de seus
 manuais no servidor Subversion do Debian em <strong>svn.debian.org</strong>.

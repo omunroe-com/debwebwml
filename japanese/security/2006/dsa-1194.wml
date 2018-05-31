@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="96e9168c004e655c10692fb5d43ad59f0e9982be"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Windows メタファイル形式のファイルを読み込むためのライブラリ

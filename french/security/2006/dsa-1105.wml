@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="a4b815800ea91548f23febf6f2a6e293ac90997b" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Federico L. Bossi Bonin a découvert un dépassement de tampon dans le greffon

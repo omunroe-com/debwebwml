@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Lev Lamberov"
 <define-tag description>заверешние жизненного цикла</define-tag>
 <define-tag moreinfo>
 <p>Поддержка обновлений безопасности для веб-браузера chromium для

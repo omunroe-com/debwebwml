@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="94bc0cfa49a2c8f942c6de66e7d6742efc3f16df"
 <define-tag description>情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>Juliano Rizzo さんと Thai Duong さんが、TLS/SSL

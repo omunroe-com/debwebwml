@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0a16238978f5a74e5e453dc0960cbae462d8b4fe"
 <define-tag description>arquivos temporários inseguros</define-tag>
 <define-tag moreinfo>
 <p>O Zack Weinberg descobriu um uso inseguro de arquivos temporários no

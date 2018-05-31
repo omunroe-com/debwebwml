@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="46d7f144de04a1fa1b68eecaf0dba2f6f447631d"
 <define-tag description>directorio temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Christian Jaeger informó de un error en logcheck que potencialmente

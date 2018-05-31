@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="81ed1ff6623d5de6ffd871e62fd2ec4ca4f03bee" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Jan Rekorajski descubrió que el parche del núcleo para servidores privados

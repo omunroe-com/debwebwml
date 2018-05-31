@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="e3f46bfc4e821e7ca484f51c50189f3cd29bc100" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Karthikeyan Bhargavan et Gaetan Leurent de l'INRIA ont découvert un

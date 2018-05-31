@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f4424b27037553814e1f2ec9d3c8ac15d2eaef6c" maintainer="Lev Lamberov"
 <define-tag moreinfo>Xmonisdn представляет собой апплет X, показывающий статус
 соединений ISDN. Вы можете настроить его так, чтобы при нажатии левой или правой кнопки мыши на
 нём запускалось два сценария. Xmonisdn устанавливается с флагом прав доступа, позволяющим запускать его

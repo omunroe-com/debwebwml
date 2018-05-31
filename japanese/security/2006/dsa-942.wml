@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="24da195a26b729edc1231dade2abcf5f8dac8f33"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>設計上の誤りが Albatross ウェブアプリケーションツールキットに発見されました。

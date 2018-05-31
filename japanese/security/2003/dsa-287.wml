@@ -21,7 +21,7 @@ Internet Relay Chat (IRC) クライアントである EPIC に
 <p>EPIC パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7dc01c25991c05059e76e3af78071ccb908f828f"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-287.data"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="871183d7cc8b0aa6f49d99643125fc67310d67fa" maintainer="Lev Lamberov"
 <define-tag description>слабое шифрование</define-tag>
 <define-tag moreinfo>
 <p>Ютака Оива обнаружил уязвимость в библиотеке Open Secure Socket Layer

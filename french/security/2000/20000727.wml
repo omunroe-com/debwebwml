@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="552686a10b02cd905edda8597ad6abd9243d30a2" maintainer="DFS Task Force"
 <define-tag moreinfo>La version de userv distribuée avec la Debian 
 GNU/Linux&nbsp;2.1 (<em>Slink</em>) a un problème dans son algorithme de 
 cache&nbsp;: il peut de temps à autre faire appel à une référence hors du 

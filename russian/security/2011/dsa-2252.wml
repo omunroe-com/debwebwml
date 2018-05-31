@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1720d71ce2193ab86b0f8da6fc61eeacf87193d7" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что ПО для грамматического разбора заголовков сообщений в почтовом сервере Dovecot

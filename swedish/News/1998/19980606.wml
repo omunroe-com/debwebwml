@@ -1,7 +1,7 @@
 <define-tag pagetitle>Kachina Technologies Inc. hjälper utvecklingen av Debian Sparc</define-tag>
 <define-tag release_date>1998-06-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 Kachina Technologies Inc.
 (<a href="http://kachinatech.com">http://kachinatech.com</a>)

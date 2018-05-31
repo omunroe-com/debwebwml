@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="b8648b22ee70d300cc97ec0cf977b41dc6f926ce" maintainer="Thomas Vincent"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Mikulas Patocka a découvert un dépassement d'entier lors du traitement de

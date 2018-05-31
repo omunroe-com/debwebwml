@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="13666d94bfc85d2ea2e78d7967a53e907c47f695" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джацачандран Паланисами из Cygate AB сообщил, что BIND, реализация

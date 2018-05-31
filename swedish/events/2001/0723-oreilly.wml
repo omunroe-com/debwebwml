@@ -26,7 +26,7 @@ programvaru-projekt som FlightGear och OpenBSD.
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="908f87523da476e558c93ba5599f3756147d647b"
 <ul>
   <li><a href="http://conferences.oreillynet.com/cs/os2001/pub/10/sessions.html">Sammankomster</a>
   <li><a href="http://conferences.oreillynet.com/cs/os2001/pub/10/bofs.html">BoF-sammankomster</a>

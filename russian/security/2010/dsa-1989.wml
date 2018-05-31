@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2282c98c54aeb8602caf5ad399dd9eb075c1a260" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Дэн Розенберг обнаружил состояние гонки в FUSE, файловой системе пользовательского пространства.

@@ -1,7 +1,7 @@
 #use wml::debian::template title="Programmes des candidats au poste de responsable du projet" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.3" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="5c911f9a27fd8806f12fd87d860f2fd9c0e40a77" maintainer="Thomas Vincent"
 
 <p>
 Vous trouverez ci-dessous le programme du candidat à l'élection

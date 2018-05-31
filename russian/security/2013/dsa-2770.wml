@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="07f53e915b829ca3c842faf426e69f234def8382" maintainer="Lev Lamberov"
 <define-tag description>обход авторизации</define-tag>
 <define-tag moreinfo>
 <p>Джон Фицпатрик из MWR InfoSecurity обнаружил уязвимость, состоящую в обходе

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 4.0 -- 發行備注" BARETITLE=true
-#use wml::debian::translation-check translation="1.5" maintainer="Hsin-lin Cheng"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714" maintainer="Hsin-lin Cheng"
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/info"

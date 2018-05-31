@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="2bd18a67682540fb7c79d49a858ca9bcfaa704ed"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Alexander Hvostov さんと Julien Blache さんと Aurelien Jarno

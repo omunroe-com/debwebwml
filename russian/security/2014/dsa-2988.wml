@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dcdd03851973fa1e2459548fbf7af29086a57d7e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Бен Хаукс обнаружил, что некорректная обработка сообщения от пира в

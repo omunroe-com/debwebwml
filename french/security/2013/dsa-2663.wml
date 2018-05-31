@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="3ec6bc952c4082395c3c19aae1d6315092c1b61b" maintainer="Thomas Vincent"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Martin Schobert a découvert une vulnérabilité de pile dans tinc, un démon

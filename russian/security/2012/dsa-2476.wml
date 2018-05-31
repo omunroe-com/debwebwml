@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f24ae0ddbbde88ea314a7741f2bd85228c35d7fc" maintainer="Lev Lamberov"
 <define-tag description>уязвимость форматной строки</define-tag>
 <define-tag moreinfo>
 <p>intrigeri обнаружил ошибку форматной строки в pidgin-otr, дополнении Pidgin для

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Untersuchung über kryptographische Software im »Main«-Archiv von Debian" BARETITLE=true
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 # $Id$
 # Translator: Helge Kreutzmann <debian@helgefjell.de>, 2008-04-22
 

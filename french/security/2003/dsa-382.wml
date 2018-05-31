@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="9cd30fc67cbde9071eb7f48fd07fc92a70dcf193" maintainer="DFS Task Force"
 <define-tag description>Faille de sécurité possible à distance</define-tag>
 <define-tag moreinfo>
 <p>Un bogue a été trouvé dans la gestion des tampons d'OpenSSH où un tampon 

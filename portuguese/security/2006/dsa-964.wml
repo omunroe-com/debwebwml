@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="b6bf03d787fb16b2f9f3854b982b3254c02d7369" maintainer="Marco Carvalho"
 <define-tag description>estouro de pilha</define-tag>
 <define-tag moreinfo>
 <p>Um problema foi descoberto no gnocatan, a versão para computador do jogo

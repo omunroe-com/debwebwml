@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="b1de4b4ed85aeb62c80b5f636c6658a9dec1d6dc" mindelta="1"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Бас ван Шаик и Кевин Бэкхаус обнаружили переполнение буфера в стеке

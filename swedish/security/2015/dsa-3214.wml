@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7545ecdb6181c66ccdb92a3a7ca7d0e57dd6ea4c" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En sökvägstraverseringssårbarhet har upptäckts i sändlistehanteraren

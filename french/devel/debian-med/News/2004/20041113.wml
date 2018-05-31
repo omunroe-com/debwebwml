@@ -1,7 +1,7 @@
 <define-tag pagetitle>Live-CD le plus riche en paquets de Debian Med</define-tag>
 <define-tag release_date>2004-11-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3" maintainer="Pierre Pantaléon"
+#use wml::debian::translation-check translation="1c27b6ff87e758d1b5b224e8db918e7b29097e82" maintainer="Pierre Pantaléon"
 
 <p><a href="http://dirk.eddelbuettel.com/quantian.html">Quantian</a>
 est une variante <a href="http://www.knoppix.org/">Knoppix</a>/Debian

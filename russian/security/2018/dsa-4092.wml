@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d1daec46a7071f3b5d7189aae311b0ffd8bd4ed7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Команда безопасности cPanel обнаружила, что awstats, утилита для анализа

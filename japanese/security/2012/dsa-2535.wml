@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="91d3d0c2f7965a20a86128bd31430bf9dc97033c"
 <define-tag description>クロスサイトスクリプティング</define-tag>
 <define-tag moreinfo>
 

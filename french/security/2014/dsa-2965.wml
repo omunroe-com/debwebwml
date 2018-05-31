@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="6e7acdf44a52eb7ff8883dacd52f850f666eab77" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Murray McAllister a découvert un dépassement de tas dans l'outil en ligne de

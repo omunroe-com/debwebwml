@@ -1,5 +1,5 @@
 #use wml::debian::template title="Motius per a escollir Debian"
-#use wml::debian::translation-check translation="1.57" maintainer="Jordi Mallach"
+#use wml::debian::translation-check translation="e14d234b80b26e4d988a538537b1b0f406a4f377" maintainer="Jordi Mallach"
 #include "$(ENGLISHDIR)/releases/info"
 
 <p>Gràcies per tindre en consideració el fet d'usar Debian per

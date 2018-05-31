@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0bf09a003054363eb8b02cbfeec42051d35d4ab9"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma さんにより、ALSA 向けに設計された PCM

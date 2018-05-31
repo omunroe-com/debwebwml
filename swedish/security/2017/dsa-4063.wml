@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f8f80142665ea03aebb76800003d966a32116735" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Toshifumi Sakaguchi upptäckte att PowerDNS Recursor, en högpresterande

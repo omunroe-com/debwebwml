@@ -16,4 +16,4 @@ version 01.03.00.99.svn.300-3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1165.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fa773aff79020fe9a333937f6da3d92ec2341edb" mindelta="1"

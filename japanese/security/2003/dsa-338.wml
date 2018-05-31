@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2648fa1818592812a30e91b6e25165d239ff9991"
 <define-tag description>SQL インジェクション</define-tag>
 <define-tag moreinfo>
 <p>runlevel [runlevel@raregazz.org] さんが、ProFTPD の PostgreSQL

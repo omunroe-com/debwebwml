@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-10-01" SUMMARY="Usos do Debian, Smart Cards, Traduções de Manpages, Debiandoc, Inicializando o Indy, Encontro Hacker"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>Bem vindo a trigésima oitava edição da DWN, a newsletter semanal para a
 comunidade Debian, que hoje inclui artigos de Ludovic Rousseau e Andrew 

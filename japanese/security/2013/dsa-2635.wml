@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="49a739be7e0e7d2bbae62d3f93205de0565f36aa"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Malcolm Scott さんが、ユーザごとの設定が可能な

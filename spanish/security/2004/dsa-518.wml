@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="f72ecb05af157932762ce3147d679c2c66050dad" maintainer="juanma"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE identificó una vulnerabilidad en el navegador web Opera

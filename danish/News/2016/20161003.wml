@@ -5,7 +5,7 @@
 <define-tag pagetitle>Flere donationer øger pålideligheden ved Debians vigtigste infrastruktur</define-tag>
 <define-tag release_date>2016-10-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e551b06070278a866bd28835210e6fac13d5e0d2"
 
 <p>I løbet af de seneste måneder har 
 <a href="http://www.hpe.com/engage/opensource">\

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e153d8338e79b8967c02d2ea8cd1e068f21ad572"
 <define-tag description>任意のコードの実行</define-tag>
 <define-tag moreinfo>
 <p>オープンソースの DjVu 実装プロジェクト djvulibre

@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.inab.org/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="886f8c20cc9f2a967cdb4badc92ea4a5c876d555"
 
 <p>
     Vi bruger Debian på webservere, DNS-servere, Moby-tjenester og 

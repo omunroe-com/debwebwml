@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="62ff9020f842c4c35cd7d2ca62f14e6ec4e9ccfd" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Gustavo Grieco upptäckte att Expat, ett XML-tolkningsbibliotek för C,

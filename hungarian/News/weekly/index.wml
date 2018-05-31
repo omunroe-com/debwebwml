@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Index"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Szabolcs Siebenhofer"
 
 # <!-- Translated by Hajnalka Hegedűs <heha@inf.elte.hu> -->
 # <!-- Updated by Szabolcs Siebenhofer <the7up@gmail.com> -->

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7dbc9f44843bf6b878f0cfe306cd2a076a59db41" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление исправляет неуточнённую проблему безопасности в VirtualBox, связанную

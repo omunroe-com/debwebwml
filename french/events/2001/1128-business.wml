@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="0ecacfcfc92745d94c35fc25689c833fbe903126" maintainer="Nicolas Bertolissio"
 <define-tag abbr>FSRU</define-tag>
 <define-tag year>2001</define-tag>
 <define-tag pagetitle>Logiciel libre&nbsp;: modèles commerciaux et initiatives d'entreprises</define-tag>

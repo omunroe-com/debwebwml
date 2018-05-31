@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a27186426d8f2ab23893ddc98301006e7cd50459"
 <define-tag description>安全でない一時ファイル</define-tag>
 <define-tag moreinfo>
 <p>注意: 管理的な問題が組み合わさった結果、

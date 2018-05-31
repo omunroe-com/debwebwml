@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="b1de4b4ed85aeb62c80b5f636c6658a9dec1d6dc" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Bas van Schaik et Kevin Backhouse ont découvert une vulnérabilité de

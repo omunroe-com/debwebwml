@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="b19b5b6547dc3534df9ad91f2cb5d7c5614224f5"
 <define-tag description>Buffertspill i äldre versioner av cfingerd</define-tag>
 <define-tag moreinfo><p>
 Debians aktuella version är inte sårbar för detta problem.

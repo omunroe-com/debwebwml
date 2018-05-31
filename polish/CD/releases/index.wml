@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Informacje wydania obrazów płyt Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.34"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <p>Ta strona zawiera historyczne informacje <q>z ostatniej chwili</q>
 odnoszące się do obrazów płyt Debiana.</p>

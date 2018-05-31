@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-19" SUMMARY="Cd/dvd, Hurd, C++-ABI, utgivningsgrupp, BTS, QA, utskrifter, SSH"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 
 <p>Välkommen till årets 29:e utgåva av DWN, veckonyhetsbrevet för Debianfolk.
 När det här numret publiceras är årets

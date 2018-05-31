@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.seznam.cz/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="866294a282a7e7ea99decf4d17f197da4d2afe83" maintainer="Nicolas Bertolissio"
 
 <p>
 Seznam.cz, a.s. (un portail sur la Toile) fonctionne avec Debian sur la

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="dace092385d19a97d0a21f78d1600118aa5bc25b"
 <define-tag pagetitle>Security Advisories from 2017</define-tag>
 #use wml::debian::template title="<pagetitle>" GEN_TIME="yes"
 #use wml::debian::recent_list

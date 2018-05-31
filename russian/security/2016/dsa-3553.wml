@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fbbe62d1d39feb217406213f84318d52b5fe7245" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Регис Леруа из Makina Corpus обнаружил, что varnish, кеширующий обратный

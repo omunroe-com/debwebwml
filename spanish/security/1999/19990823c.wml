@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="juanma"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73" maintainer="juanma"
 <define-tag moreinfo>Todas las versiones anteriores de trn usaban un nombre de
 archivo codificado en /tmp como almacenamiento temporal. Un enlace simbólico
 malvado podía causar que un usuario sobreescribiera sin saberlo archivos a

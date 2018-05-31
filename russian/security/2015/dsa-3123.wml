@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e2a3312d34e7d627dae59cfac14dd9c91efbe8be" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В binutils, наборе инструментов для манипуляции двоичными файлами, были

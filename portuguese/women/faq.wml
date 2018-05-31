@@ -1,7 +1,7 @@
 #use wml::debian::template title="Perguntas Feitas Frequentemente (FAQ)" BARETITLE="true"
 #use wml::debian::faqs
 ### todo: verify links
-#use wml::debian::translation-check translation="1.9" maintainer="Paulo Henrique de Lima Santana (phls)"
+#use wml::debian::translation-check translation="6be37d6341c5a56a59a9f66a9f363de30dd3e47a" maintainer="Paulo Henrique de Lima Santana (phls)"
 
     <question>
         Por que existem tão poucas mulheres na área de computação / FLOSS?

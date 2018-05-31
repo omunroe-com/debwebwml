@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-02-28" SUMMARY="Debian 6.0 <q>Squeeze</q> リリース、新しいレイアウトとウェブサイト関連のニュース、使いやすい <q>Squeeze</q> のバックポート"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="f3d5ed6297fc8b7e45a2ab7501f5d88ba8a328cf"
 
 <define-tag MID whitespace=delete>https://lists.debian.org/$0</define-tag>
 

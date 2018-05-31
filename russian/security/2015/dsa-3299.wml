@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b1c57566b568efd05e55fdd292e8ef0958a738c8" maintainer="Lev Lamberov"
 <define-tag description>обновление безопаности</define-tag>
 <define-tag moreinfo>
 <p>Йохан Олофсон обнаружил возможность обхода аутентификации в

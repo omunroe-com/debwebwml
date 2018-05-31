@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="0e1ff0a8c1db51043d573e238fc4cee010f3a2f2" maintainer="Pierre Machard"
 <define-tag description>Exploitation à distance</define-tag>
 <define-tag moreinfo>
 <p>Janusz Niewiadomski et Wojciech Purczynski ont rapporté un dépassement

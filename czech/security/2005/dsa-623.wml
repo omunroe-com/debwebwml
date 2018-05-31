@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="1223b935e056d48824c2e3a9258587d5d0cf38e0" maintainer="Juraj Kubelka"
 <define-tag description>přetečení bufferu</define-tag>
 <define-tag moreinfo>
 <p>Jonathan Rockway objevil přetečení bufferu v&nbsp;nasm,

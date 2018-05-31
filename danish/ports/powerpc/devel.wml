@@ -1,5 +1,5 @@
 #use wml::debian::template title="PowerPC-tilpasning -- udvikling" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.19"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 #include "$(ENGLISHDIR)/ports/powerpc/menu.inc"
 
 <br>

@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Manuais do DDP para Desenvolvedores"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
-#use wml::debian::translation-check translation="1.50" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="59390b0c2b74805c7b65b2027f728b6598acfc82" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 # Translators: only "Upgrading checklist" commented bellow (line 54)
 #              needs to be translated to be sync with current 1.57

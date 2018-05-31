@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b0729cb4d784cb3f2895f682b67be6e030f369fa" mindelta="1"
 <define-tag description>omvandling mellan char och int</define-tag>
 <define-tag moreinfo>
 <p>

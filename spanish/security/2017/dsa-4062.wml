@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="efb9e19ae8c1ac071763750a20f6c60f2fc454ca"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que el modo de navegación privada en el navegador web Mozilla

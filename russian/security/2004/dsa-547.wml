@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4a8ae1177ff509d420e724cb613a2f5b9826df1b"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Маркус Майснер (Marcus Maissner) из команды разработки SUSE обнаружил

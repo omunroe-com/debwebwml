@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="638ee10e8a5b6508526f43628582776c6888d874" maintainer="Lev Lamberov"
 <define-tag moreinfo>В GnuPG недавно было обнаружено две ошибки:
 
 <ol>

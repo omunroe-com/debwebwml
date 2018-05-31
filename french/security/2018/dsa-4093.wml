@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="19269fe99356650d39bc4a5c1ae56e1a7f6fb028" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Josef Gajdusek a découvert qu'OpenOCD, un débogueur JTAG pour ARM et

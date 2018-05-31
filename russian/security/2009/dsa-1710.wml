@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2ef23b8cf5bc8f8ae53031628b8414727e309ea9" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Спайк Шпигель обнаружил переполнение буфера в gmetad,

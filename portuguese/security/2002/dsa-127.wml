@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="6403ab8b4d5803abd84f2c458aac314ee33d08d6" translation_maintainer="Michelle Ribeiro"
 <define-tag description>buffer overflow remoto</define-tag>
 <define-tag moreinfo>
 <p>Uma auditoria interna do mantenedor do pacote xpilot (um jogo tático

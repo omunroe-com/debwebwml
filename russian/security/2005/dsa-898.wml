@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dab92085a254fe252884e193ff2b37554b2e53d5" maintainer="Lev Lamberov"
 <define-tag description>ошибки программирования</define-tag>
 <define-tag moreinfo>
 <p>В phpsysinfo, приложении для отслеживания информации об узле, написанном на языке

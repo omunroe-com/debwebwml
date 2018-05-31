@@ -1,7 +1,7 @@
 #use wml::debian::template title="Liputan Pers" NOHEADER=yes
 #use wml::debian::countries
 #include "$(ENGLISHDIR)/News/press/press.tags"
-#use wml::debian::translation-check translation="1.18" maintainer="Izharul Haq"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Izharul Haq"
 # Initial translation by jkartawijaya
 
 <h3>Debian di Media Cetak</h3>

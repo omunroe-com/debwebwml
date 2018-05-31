@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0746a7961085d6d1aa9c70bc10871f0f5a9070d7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En heapkorruptionssårbarhed blev opdaget i net-snmp, en samling Simple 

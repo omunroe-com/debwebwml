@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="106fc6ed3d98e8a3b89b38704b6866f797b8923c" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Flere bufferoverløb blev opdaget i OpenAFS, implementeringen af det 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="67fefa79302e52056dbe18ab7dea358349195825" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En brist har upptäckts i mediawiki, en wikimotor: en domänöverskridande

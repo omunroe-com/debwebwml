@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d28e81b7a4ed61aacfbe403f8a99980a0c15bbf6" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>William Robinet et Michal Zalewski ont découvert de multiples vulnérabilités

@@ -5,7 +5,7 @@
 <define-tag pagetitle>Lançado o Debian 9 <q>Stretch</q></define-tag>
 <define-tag release_date>2017-06-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Marcelo Santana"
+#use wml::debian::translation-check translation="aefc4546404b2af3e1bf681db2fb90b234a77012" maintainer="Marcelo Santana"
 
 <p>Depois de 26 meses de desenvolvimento, o projeto Debian tem o orgulho de
 apresentar a sua nova versão estável 9 (codinome <q>Stretch</q>), que será

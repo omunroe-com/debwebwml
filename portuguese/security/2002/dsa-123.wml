@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="0e1ff0a8c1db51043d573e238fc4cee010f3a2f2" translation_maintainer="Michelle Ribeiro"
 <define-tag description>vulnerabilidade remota</define-tag>
 <define-tag moreinfo>
 <p>Janusz Niewiadomski e Wojciech Purczynski relataram um buffer overflow

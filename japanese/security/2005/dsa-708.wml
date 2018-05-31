@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4cf7853027077a4d82970cd048710f3b181d44ee"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE 社の研究員が PHP の画像処理関数に 2 つの問題を発見しました。

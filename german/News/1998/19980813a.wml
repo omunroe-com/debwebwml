@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian in den Nachrichten: Die Kopfschmerzen des nächsten Jahrhunderts</define-tag>
 <define-tag release_date>1998-08-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="1b22fcf74cb1c92c62b422a416905983eecff303"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-03-03
 
 Debian GNU/Linux wurde im <q>News</q>-Bereich von Wired erwähnt. Michael

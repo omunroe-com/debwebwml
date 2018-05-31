@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="8cc542a92d926fbf4909b359779e02b0ac7c704a" maintainer="Juan M. Garcia"
 <define-tag description>posición con referencia nula</define-tag>
 <define-tag moreinfo>
 <p>La implementación Internet Key Exchange version 1 (IKEv1) en racoon

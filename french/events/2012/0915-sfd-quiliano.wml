@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="599abb4b72eb5fe778890461594f6a6149f3bbe5" maintainer="David Prévot"
 <define-tag abbr>SFD-Quiliano</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>Journée du logiciel libre</define-tag>

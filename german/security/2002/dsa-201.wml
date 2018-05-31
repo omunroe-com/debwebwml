@@ -19,5 +19,5 @@ Pakete.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-201.data"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="73898fa14fae4862813c59ba871518a356e84039"
 # $Id$

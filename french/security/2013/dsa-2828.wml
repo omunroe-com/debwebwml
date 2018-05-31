@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="jean-pierre giraud"
+#use wml::debian::translation-check translation="d609ff4fcb0021e6dd288de057a1ef6cd2b1ac13" maintainer="jean-pierre giraud"
 <define-tag description>Plusieurs vulnérabilités</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans Drupal, une plateforme

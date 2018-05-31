@@ -16,4 +16,4 @@ version 0.23.9.dfsg-2 and neon_0.24.6.dfsg-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-506.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="670cb0b32537eae2091768fd5b015c576b27e561" mindelta="1"

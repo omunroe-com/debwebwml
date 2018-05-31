@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="597062fb50c44c251eb9991ec3292a5aeb0b5931" maintainer="Giuseppe Sacco"
 <define-tag description>overflow di un buffer</define-tag>
 <define-tag moreinfo>
 <p>Due overflow di buffer sono stati scoperti in purity,

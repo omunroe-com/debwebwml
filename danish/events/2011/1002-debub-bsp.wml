@@ -19,7 +19,7 @@ overført til Debian og Ubuntu.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e867effb54558e5104877e77bf1ae4314346a64d"
 <ul>
 <li><a href="http://sipb.mit.edu/office/">SIPB's websted</a></li>
 <li><a href="./0821-debub-bsp">den foregående fest</a></li>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="53a80c9fc252ed5446be0db6cd4e1c0319a20e79" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В botan1.10, библиотеке C++, предоставляющей поддержку для многих операций

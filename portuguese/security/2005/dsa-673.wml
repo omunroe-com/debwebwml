@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="5d19754129fa25321fad316595d534d5ad132da9"
 <define-tag description>estouro de inteiro</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler descobriu um estouro de inteiro em uma aplicação auxiliar

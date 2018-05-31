@@ -43,5 +43,5 @@ Version 4.4.0-2 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-789.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d6d7754a3b85bdb1e6264fa6022e59f0bacb38fb" mindelta="1"
 # $Id$

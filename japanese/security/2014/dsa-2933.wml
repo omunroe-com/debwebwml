@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2f14178d29c52f7e447da350f46201c1a92db717"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が複数、x86 ハードウェアの完全仮想化を行う

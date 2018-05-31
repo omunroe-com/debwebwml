@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c02d3a582f0441fb75aaa1d8dad35190f716e609"
 <define-tag description>入力のサニタイズ漏れ</define-tag>
 <define-tag moreinfo>
 <p>メーリングリストを管理する minimalist に、リモートの攻撃者が

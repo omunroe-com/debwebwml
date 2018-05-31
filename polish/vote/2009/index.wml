@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="82a1e4b055b90cf6ba7e98ac718cd8ec4c5a6697"
 <define-tag pagetitle>Zagadnienia poruszone w 2009 roku</define-tag>
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::votebar

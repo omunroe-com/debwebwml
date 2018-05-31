@@ -22,4 +22,4 @@ når de er klar.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1839.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="529fd123145845e2590626ade3e000aa06636d69" mindelta="1"

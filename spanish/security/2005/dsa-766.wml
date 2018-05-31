@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="29ee23a04d844faa77787aa51e48c10ddd3d4db4" maintainer="Juan M. Garcia"
 <define-tag description>fallo de autorización</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto una vulnerabilidad en webcalendar, un calendario

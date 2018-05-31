@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="083b632dcdce42d1686d3521096de47792bab45e" maintainer="Lev Lamberov"
 <define-tag description>многочисленные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>В веб-бразуере mozilla-firefox были обнаружен многочисленные уязвимости,

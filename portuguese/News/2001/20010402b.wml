@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian lamenta a perda de dois membros do projeto</define-tag>
 <define-tag release_date>2001-04-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3de426e6474a2e45152360efc3467b8ce757f550"
 
 <p>O Projeto Debian perdeu recentemente dois membros de sua "família".
 Chris Rutter foi morto num trágico acidente de carro e Fabrizio Polacco

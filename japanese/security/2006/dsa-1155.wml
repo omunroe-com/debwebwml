@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="73a727f1325fbc4975fdb2e40733b64a7f464974"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>修正後の sendmail バイナリが、現在の安定版 (stable)

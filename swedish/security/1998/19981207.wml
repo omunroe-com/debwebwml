@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" mindelta="1"
+#use wml::debian::translation-check translation="ed8a278916070826c40d64dd1239b67f2281fa4c" mindelta="1"
 <define-tag moreinfo>
 Vi har upptäckt att fte-paketet som kom med i slink (frozen)
 och potato (unstable) inte avsäger sig sina rootprivilegier när

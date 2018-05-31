@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7ac7b61ae518437c0c45e55d8e28f51980b53222"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE обнаружили возможность переполнения буфера в библиотеке wv,

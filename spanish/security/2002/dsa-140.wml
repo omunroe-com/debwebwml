@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="13c452a4e1790e20bd9ca8396296691eadf9703d"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores de la biblioteca PNG han corregido un desbordamiento

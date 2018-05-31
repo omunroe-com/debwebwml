@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="86e0bec820f9d99dc7fe20330f8b868c82943d9c"
 <define-tag description>cross site scripting</define-tag>
 <define-tag moreinfo>
 <p>Earl Hood, autor do mhonarc, um conversor de email para HTML, descobriu

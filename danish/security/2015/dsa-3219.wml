@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0582fd3a0ade138088175e76bca4b908e2e0e9ac" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Stefan Roas opdagede en måde at forårsage et bufferoverløb i DBD-FireBird, 

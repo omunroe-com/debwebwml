@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="55071b013cdfa962682f9efcae6ba93571aa2647" maintainer="Juan M. Garcia"
 <define-tag description>mensaje de error informativo</define-tag>
 <define-tag moreinfo>
 <p>David Maciejak advirtió que webcalendar, un calendario multiusuario para PHP,

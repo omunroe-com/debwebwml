@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ff0f64b4bd2b829177c77628b94979dbfa9b452e" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Кевин Финистер обнаружил, что несколько возможных переполнений целых чисел в библиотеке TIFF

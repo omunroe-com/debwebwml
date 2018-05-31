@@ -22,4 +22,4 @@ version 2.23beta1-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1205.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="8a8bd9975a1f24d390a192514ff88c1e4c4e058e" mindelta="1"

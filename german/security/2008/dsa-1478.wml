@@ -19,4 +19,4 @@ möglicherweise der Ausführung beliebigen Codes führen.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1478.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="45aec85357e975d60f2bbd9bb94fbb55f9ccbf2d"

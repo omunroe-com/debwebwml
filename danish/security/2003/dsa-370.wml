@@ -17,4 +17,4 @@ version 0.5.2-7.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-370.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9186b50395ef676fcfa313b08128d2b6d6a1d185" mindelta="1"

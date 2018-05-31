@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f1551c44d5630ff3cfa645fc21e2dc8c3c64d04d"
 <define-tag description>メモリの二重開放</define-tag>
 <define-tag moreinfo>
 

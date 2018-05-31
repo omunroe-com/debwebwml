@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="3b7bca6621925198c4f0902c0a6e40c296adcbd9" maintainer="Juan M. Garcia"
 <define-tag description>ejecución insegura de programa</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler, del proyecto de auditoría de seguridad de Debian, descubrió que

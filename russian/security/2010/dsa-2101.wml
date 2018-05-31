@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e8bb5cba307ee9eaeacff8eb2404aab188a87e06" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В диссекторе для протокола ASN.1 BER и в SigComp Universal Decompressor Virtual Machine для

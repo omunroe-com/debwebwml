@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ff94253b524a95650781a07780fc4f45e24a4ff6" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Julien Bernard upptäckte att libndp, ett bibliotek för IPv6 Neighbor

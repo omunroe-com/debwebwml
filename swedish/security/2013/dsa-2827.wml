@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c7e7cde6356d6f3b4028ffcda30f910877ffe53d" mindelta="1"
 <define-tag description>godtycklig filuppladdning via deserialisering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Apache Commons FileUpload, ett paket för att göra 

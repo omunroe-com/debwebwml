@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-12" SUMMARY="LSB, GCC, consultores, Ada, transición, dependencias, archivo, documentación"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 <p>Bienvenidos a la vigésimo octava edición de este año de las DWN, el boletín
 semanal de la comunidad de Debian. Bill Allombert ha hecho un <a

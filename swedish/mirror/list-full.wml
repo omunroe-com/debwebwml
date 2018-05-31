@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians världsomspännande spegelplatser" BARETITLE=true
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="346f82cf48a105b4686a44b1d3a4fe7a11adc9c0"
 
 <p>Detta är en <strong>fullständig</strong> lista över Debianspeglar.
 För varje plats listas de olika typerna av tillgängligt material

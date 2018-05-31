@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c7e7cde6356d6f3b4028ffcda30f910877ffe53d"
 <define-tag description>非直列化を経由した任意のファイルのアップロード</define-tag>
 <define-tag moreinfo>
 <p>Apache Commons FileUpload、堅牢で高性能なファイルアップロード機能を

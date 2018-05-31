@@ -1,6 +1,6 @@
 #use wml::debian::template title="Russian-speaking Debian community"
 #use wml::debian::toc
-#use wml::debian::translation-check original="russian" translation="1.34"
+#use wml::debian::translation-check original="russian" translation="8dc76634ac4975424b1df0260d1cd6175e09ce82"
 
 <p>This page about all Russian in Debian. If you believe it does not
 contain some information please tell it to the <a href="#l10n">Russian

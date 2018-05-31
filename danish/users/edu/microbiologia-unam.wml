@@ -3,7 +3,7 @@
 <define-tag pagetitle>Microbiology laboratory, Science Faculty, UNAM, Mexico</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b0fdb3ba534689967b4e5ef9ccaf726162c0be2d"
 
 <p>
     Vi er en gruppe, der arbejder på livets oprindelse og tidlige evolution.

@@ -1,5 +1,5 @@
 #use wml::debian::template title="HOWTO: efterfråga en ny sändlista"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda"
 
 <P>Det här dokumentet är avsett att hjälpa till vid skapandet av
 sändlistor på <a href="https://lists.debian.org/">lists.debian.org</a>.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="544bbb92b516c89696c41ee16ddd678b954bebb8" maintainer="DFS Task Force"
 <define-tag description>Dépassements d'entier</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans a découvert plusieurs dépassements d'entier dans <i>xpdf</i>, 

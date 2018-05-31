@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian predstavlja integrirano SGML okružje</define-tag>
 <define-tag release_date>1999-03-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <P>Debianova upravo objavljena verzija 2.1, nudi SGML, XML i DSSSL
 infrastrukturu i pakete. Debianov domišljati SGML podsustav ga čini odličnom

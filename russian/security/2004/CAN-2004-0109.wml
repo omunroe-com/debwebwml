@@ -1,5 +1,5 @@
 #use wml::debian::template title="Мартица уязвимости ядра CAN-2004-0109" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="987f462ebc132b3c47e4b0eb75cc9dc81106ef99"
 
 <p>Эта матрица показывает, в каких версиях ядра в стабильном (woody)
 и нестабильном (sid) дистрибутивах уязвимость <a

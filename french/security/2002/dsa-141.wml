@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="9732e586e1ba28dae1242fa915f0506d2eda84ad" maintainer="Pierre Machard"
 <define-tag description>Débordement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Eckehard Berns a découvert un débordement de tampon dans le programme

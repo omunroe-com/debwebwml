@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="68ab1a6e12f6ba90c0d47c2406b1647a02455ffd" maintainer="Simon Paillard"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Colin Leroy a découvert plusieurs dépassements de tampon dans un certain

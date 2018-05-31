@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian の世界中のミラーサイト" BARETITLE=true
-#use wml::debian::translation-check translation="1.10" maintainer="victory"
+#use wml::debian::translation-check translation="f476ac8d5a92e3c1054615ed5926e75258fde007" maintainer="victory"
 
 <p>Debian はインターネット上の数百のサーバに配布(<em>ミラー</em>)されています。
 近いサーバを使うことでおそらくダウンロードが速くなり、

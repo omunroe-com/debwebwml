@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-02-10" SUMMARY="Invito a presentare progetti e mentori per Debian GSoC 2014, pillole dal Release Team, rapporti dai recenti sprint Debian"
-#use wml::debian::translation-check translation="1.7" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Mirco Scottà"
 
 # $Rev: 5414 $
 # Status: [content-frozen]

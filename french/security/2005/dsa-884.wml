@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="64abbc5bd95032249f8946884416961bbe78f258" maintainer="Simon Paillard"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>Mike O'Connor a découvert que l'installation par défaut de Horde3 dans

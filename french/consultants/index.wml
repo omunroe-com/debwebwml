@@ -1,5 +1,5 @@
 #use wml::debian::template title="Conseillers" NOCOMMENTS="yes" GENTIME="yes"
-#use wml::debian::translation-check translation="1.25" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="6ec312d77fd4c46ce8e0adbcf9dc83c742645275" maintainer="Nicolas Bertolissio"
 
 <p>
 Debian fait partie des logiciels libres et offre gratuitement de l'aide sur ses

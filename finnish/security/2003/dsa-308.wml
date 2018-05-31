@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bb3388d16ecf54be25b0d6de6b5c2df24e6db2e0"
 <define-tag description>epäluotettavat väliaikaistiedostot</define-tag>
 <define-tag moreinfo>
 <p>Paul Szabo havaitsi että znew, gzip-paketin sisältämä komentotiedosto,

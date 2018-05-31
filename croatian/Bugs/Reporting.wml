@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian BTS - prijavljivanje bugova" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.65"
+#use wml::debian::translation-check translation="df01ce5c3018f4c89390ae4e4f6a92400cd26406"
 
 <h1>Kako prijaviti bug u Debianu koristeći alat <q>reportbug</q></h1>
 

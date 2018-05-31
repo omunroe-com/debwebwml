@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-03-20" SUMMARY="2012 年 Debian プロジェクトリーダー選挙、最初の <q>Squeeze</q> ベースの Debian Edu をリリース、最近のバグ潰しパーティの報告"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Rev: 3435 $
 # Status: [frozen]

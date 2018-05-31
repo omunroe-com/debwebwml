@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b50688b1c5fd7f11515704f36f19bcf3a1b5c701"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>sendmail に 2 つの脆弱性が報告されました。</p>

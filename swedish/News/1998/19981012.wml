@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux startbar på Corels NetWinder</define-tag>
 <define-tag release_date>1998-10-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="b75d6bdbcd09bfa733bb45e44e28305cf4256c83"
 
 <p>Det är nu möjligt att starta Corels NetWinder-dator med Debian GNU/Linux,
 tack vare arbetet som lagts ned av Jim Pick och de andra lagmedlemmarna

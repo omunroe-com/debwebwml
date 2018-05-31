@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d20934ce8becc701685ac68ee9d968eb67708f41"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Inria の Antoine Delignat-Lavaud さんが、署名で利用される ASN.1

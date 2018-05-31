@@ -19,4 +19,4 @@ kan potentielt udnyttes af en fjernangriber.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-290.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b0729cb4d784cb3f2895f682b67be6e030f369fa"

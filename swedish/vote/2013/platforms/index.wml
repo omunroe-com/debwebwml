@@ -1,7 +1,7 @@
 #use wml::debian::template title="Valplattformar för projektledarkandidaterna" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="f7c4c936496959c1cd3c2b395cbe395a0cf74b00"
 
 	<p>
 		Här följer de valplattformar som de olika kandidaterna för Debians 

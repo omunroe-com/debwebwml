@@ -1,5 +1,5 @@
 #use wml::debian::template title="Negocjowanie zawartości"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0dbdbbf9b5488033e15adf800ec9b7aa8bcbc58c"
 
 <h3>Skąd serwer wie, który plik obsługiwać</h3>
 <p>Zapewne zauważyłeś, że linki wewnętrzne nie kończą się na .html.

@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.tce.edu/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4" maintainer="Vincenzo Musco"
+#use wml::debian::translation-check translation="43fdc4167e54207e3bf7749f48de2290ab8329d7" maintainer="Vincenzo Musco"
 # Original translation by Nicolas Bertolissio
 
 <p>

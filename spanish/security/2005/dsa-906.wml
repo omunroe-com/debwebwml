@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="07172a28f4c57fadc36d28d4b0d5a5fe3910a9d4" maintainer="Juan M. Garcia"
 <define-tag description>desbordamientos de buffer</define-tag>
 <define-tag moreinfo>
 <p>Colin Leroy descubrió varios desbordamientos de buffer en algunas de

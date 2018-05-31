@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-projektet har valgt Stefano Zacchiroli som sin næste projektleder</define-tag>
 <define-tag release_date>2010-04-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Jævnfør sine <a href="$(HOME)/devel/constitution">vedtægter</a> har 
 Debian-projektet valgt Stefano Zacchiroli som Debians projektleder i perioden 

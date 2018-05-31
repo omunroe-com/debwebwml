@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Expo e Semana de Conferências</define-tag>
 <define-tag release_date>2001-06-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="4f38229a53c2766162fa7c627e693dffe18cd523"
 
 <p>A semana que vem vai ser muito ocupada para o Projeto Debian.
 Nós estaremos presentes em quatro exibições e conferências que ocorrerão

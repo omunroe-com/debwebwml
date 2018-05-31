@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.enbuenosaires.com/index-en.html</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6c413488cd8eb4583c326b2c3634efe9021ed478"
 #Translation: Helge Kreutzmann <debian@helgefjell.de>, 2007-10-06
 
 <p>

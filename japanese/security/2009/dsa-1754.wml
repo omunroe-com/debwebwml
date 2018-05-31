@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7da00370a2e3d97493e5c21f2b07ae7c588b9679"
 <define-tag description>不十分なアクセスチェック</define-tag>
 <define-tag moreinfo>
 <p>コマンドライン、ウェブおよび電子メールに対応したバグトラックシステム

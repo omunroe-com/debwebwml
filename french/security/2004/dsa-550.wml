@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="7ac7b61ae518437c0c45e55d8e28f51980b53222" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE a découvert un dépassement de tampon dans la bibliothèque wv, 

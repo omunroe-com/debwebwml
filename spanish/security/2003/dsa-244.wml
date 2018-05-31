@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a28543e380542019eea02093eb6cda9413663676"
 <define-tag description>desbordamientos de búfer</define-tag>
 <define-tag moreinfo>
 <p>Dan Jacobson avisó de un problema en noffle, un servidor de noticias

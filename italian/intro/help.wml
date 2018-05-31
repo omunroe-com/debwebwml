@@ -1,5 +1,5 @@
 #use wml::debian::template title="Come posso aiutare Debian?"
-#use wml::debian::translation-check translation="1.15" maintainer="Giovanni Mascellani"
+#use wml::debian::translation-check translation="986f7d00e6fb951659655dc3661878f65a4d3f5a" maintainer="Giovanni Mascellani"
 
 <p>Se vuoi partecipare allo sviluppo di Debian ci sono tanti
 campi nei quali possono aiutare sia utenti esperti che inesperti.</p>

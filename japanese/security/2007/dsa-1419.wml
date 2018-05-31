@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="41702524aa74fdaa480ee880715ea68c9ede9a20"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>OpenOffice.org の標準データベースエンジン HSQLDB に欠陥が発見されました。

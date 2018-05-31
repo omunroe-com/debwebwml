@@ -8,7 +8,7 @@ canna パッケージには、遠隔地から不正アクセスされる問題�
 お使いの canna パッケージを直ちにアップグレードすることをお勧めします。 
 </define-tag>
 
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20000702.data'

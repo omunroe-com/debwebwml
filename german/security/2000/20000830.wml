@@ -15,5 +15,5 @@ löschen.</p>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20000830.data'
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="f7f72e20a06b210ebc293e57ee967964d53eb463"
 # $Id$

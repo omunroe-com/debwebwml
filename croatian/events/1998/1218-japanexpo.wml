@@ -22,7 +22,7 @@ japanskih distribucija Linuxa do poslovnih tema (sva su na japanskom).
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="e4f447b798d7c736880a08773ad73bbf98465736"
 #Related Links here (free form)
 <ul>
   <li><A HREF="http://www.joho-kyoto.or.jp/KICH/">Kyoto International Conference Hall</A><BR>

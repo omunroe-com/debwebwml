@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Проверка на автентичността на дисковете с Дебиан" BARETITLE=true
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d9920ae4704d3e6aebe73f36974292bc23743924"
 
 <p>
 Официалните дискове с Дебиан се издават заедно с подписани файлове с контролни

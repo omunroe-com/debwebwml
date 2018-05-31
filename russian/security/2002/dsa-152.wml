@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b777090c7e5f56aeff16395d586da588f139e7a8" maintainer="Lev Lamberov"
 <define-tag description>отсутствие случайного начального числа</define-tag>
 <define-tag moreinfo>
 <p>Текущие версии l2tpd, клиентской/серверной программы для туннелирования уровня канала

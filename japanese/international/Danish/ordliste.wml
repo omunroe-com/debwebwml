@@ -1,5 +1,5 @@
 #use wml::debian::template title="デンマーク語の Debian -- 対訳集" NOHEADER="true" BARETITLE="true"
-#use wml::debian::translation-check translation="1.12" original="danish"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" original="danish"
 
 # This is a list of words used when translating the web pages, documentation 
 # and package/program descriptions, and hence there is no English version.  It 

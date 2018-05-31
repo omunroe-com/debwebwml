@@ -1,5 +1,5 @@
 #use wml::debian::template title="Push Mirroring"
-#use wml::debian::translation-check translation="1.23" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="9ae3ddb6aaa10c980283e45c39be20d7c0a3090d" maintainer="Luca Monducci"
 
 <p>Il push mirroring è una modalità di mirroring che minimizza il tempo
 richiesto affinché le modifiche all'archivio raggiungano i

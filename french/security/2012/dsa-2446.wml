@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="b291f295ba1a1eed66c52b99f674230386c6ed82" maintainer="David Prévot"
 <define-tag description>Traitement incorrect de mémoire</define-tag>
 <define-tag moreinfo>
 <p>

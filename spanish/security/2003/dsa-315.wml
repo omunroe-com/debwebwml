@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="670adbdb23a950f63b4bd1a9ceb93d93f950e812"
 <define-tag description>desbordamientos de búfer, denegación de
 servicio</define-tag>
 <define-tag moreinfo>

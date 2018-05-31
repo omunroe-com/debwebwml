@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="73a727f1325fbc4975fdb2e40733b64a7f464974" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Оказалось, что двоичные файлы sendmail зависят от libsasl2 (&gt;= 2.1.19.dfsg1),

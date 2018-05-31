@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="16af68c626506bffcc8bc5def6130b2807924f79" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Хоссейн Лотфи и Якуб Ирасек из Secunia Research обнаружили многочисленные

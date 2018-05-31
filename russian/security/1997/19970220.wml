@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ae4a72744f84be54cae3e4ec65a8488af3af84d1" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 <p>Выход при переполнении, но screen теряет права суперпользователя до выполнения
 кода.

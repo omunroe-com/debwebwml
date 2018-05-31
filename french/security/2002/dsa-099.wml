@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4" maintainer="Pierre Machard"
 <define-tag description>Détournement de session IRC</define-tag>
 
 <define-tag moreinfo>

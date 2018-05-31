@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2017-08-14" SUMMARY="Bienvenue sur les Nouvelles du projet Debian !, nouvelles internes et événements, demandes d'aide, par-delà le code, nouvelles de l'extérieur, comptes-rendus, liens rapides vers des médias sociaux de Debian"
-#use wml::debian::translation-check translation="1.6" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Jean-Pierre Giraud"
 
 # $Id$
 # $Rev: 1641 $

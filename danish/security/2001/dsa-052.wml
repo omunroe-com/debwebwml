@@ -10,4 +10,4 @@ afvikle tilfældig kode med root-rettigheder.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-052.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="71fb0da6aba283067a58286292fd34f79c72dcd9"

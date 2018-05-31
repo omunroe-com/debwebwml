@@ -9,6 +9,6 @@ unsicher erstellt.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-105.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="def5a0a076dd7ff2aac05b88181c7cc8b8772034"
 # Translator: Gerfried Fuchs <alfie@debian.org> 2002-01-21
 # $Id$

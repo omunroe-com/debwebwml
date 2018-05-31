@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="72b72dc51b99e32fd630b33d57903b04660a9ebd" maintainer="Nicolas Bertolissio"
 <define-tag abbr>KILTe</define-tag>
 <define-tag year>2007</define-tag>
 <define-tag pagetitle>Journée Linux de Kiel</define-tag>

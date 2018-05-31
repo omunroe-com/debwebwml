@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian y el año 2000" GEN_TIME="yes"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="065b283f5cc2262459236e07deb01a3a086f1ef3"
 #use wml::fmt::url
 
 <p>Uno de los objetivos de Debian es ofrecer el sistema más robusto

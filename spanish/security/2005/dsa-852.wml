@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="da373818ddab84d18b2c75f0f24ea537f759b36d" maintainer="Juan M. Garcia"
 <define-tag description>vulnerabilidades en cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descubrió dos vulnerabilidades de cadena de formato

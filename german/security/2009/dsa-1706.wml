@@ -19,4 +19,4 @@ behoben.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1706.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ee863f5e660da19991a12f139465b06f6af580fb"

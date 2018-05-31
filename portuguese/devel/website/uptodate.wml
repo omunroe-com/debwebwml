@@ -1,5 +1,5 @@
 #use wml::debian::template title="Mantendo as traduções da página atualizadas"
-#use wml::debian::translation-check translation="1.18" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="5906c5c1a380b2b57c9650ad00be21b432a3be04" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>Como as páginas não são estáticas, é uma boa idéia controlar a qual
 versão do original uma dada tradução refere-se, e usar esta informação

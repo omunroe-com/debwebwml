@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5eb41c35494f3fcf4f85a9aff8ae0ace493b10e8"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>ICAP サーバの実装 c-icap に脆弱性が複数見つかっています。リモートの攻撃者に

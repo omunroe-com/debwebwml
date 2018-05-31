@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="516b05fcb4590e3fc8fe8187b6666de0385a18f9"
 <define-tag description>различные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Обнаружены две уязвимости в libapache-mod-ssl:</p>

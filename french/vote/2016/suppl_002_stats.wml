@@ -1,5 +1,5 @@
 #use wml::debian::template title="Résolution générale : rendre publique la liste de diffusion debian-private" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="eda8f65d19db487bb82b88a427d29d34572c4282" maintainer="Jean-Paul Guillonneau"
 
 #include "vote_002_index.src"

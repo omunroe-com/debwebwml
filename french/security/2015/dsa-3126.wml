@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="04d6a726b50748ca6b95a4be31ecacdbcce87818" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>libmagic, telle que PHP l'utilise, provoquerait un accès mémoire hors

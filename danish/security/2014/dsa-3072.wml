@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="690bdffbfa274ee4d8baed1e7d5009ed17d5ae37" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Francisco Alonso fra Red Hat Product Security fandt et problem i værktøjet 

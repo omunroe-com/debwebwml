@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="399355d7485b8de93c65786c3024c892a6896285" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Дэн Розенберг обнаружил, что lxr-cvs, инструмент для индексации кода с

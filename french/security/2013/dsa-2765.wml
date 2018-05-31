@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="d0d009e5396066efaf4ba889c111b0ab849a22eb" maintainer="Thomas Vincent"
 <define-tag description>Augmentation de droits</define-tag>
 <define-tag moreinfo>
 <p>Davfs2, un client de système de fichiers pour WebDAV, appelle la fonction

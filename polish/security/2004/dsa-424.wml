@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cb5daadcfca2befc549c93425ea71c88518c4d60"
 <define-tag description>przepełnienie bufora</define-tag>
 <define-tag moreinfo>
 <p>Znaleziono naruszenie bezpieczeństwa w menedżerze plików Midnight Commander.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="185c0d4e569bbacaca9dc39e1563c09c934b1fc3"
 <define-tag description>クロスサイトスクリプティング 脆弱性</define-tag>
 <define-tag moreinfo>
 <p>クロスサイトスクリプティング脆弱性が遅延の記録、可視化システム

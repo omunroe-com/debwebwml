@@ -1,6 +1,6 @@
 #use wml::debian::template title="Ejemplo de auditoría automatizada: flawfinder"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.8" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Juan M. Garcia"
 # $Id$
 
 <p><a href="https://packages.debian.org/flawfinder">flawfinder</a> es un analizador de

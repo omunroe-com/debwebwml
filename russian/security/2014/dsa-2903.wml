@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1101211a46ee35992ddbf23f45fe8d0409c48b68" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В charon, службе для обработки IKEv2 в strongSwan, наборе IKE/IPsec, была обнаружена

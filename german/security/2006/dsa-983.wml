@@ -17,5 +17,5 @@ Version 0.36-12 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-983.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="209164cd3b895067d2de14b54dedfd9a99fd3d46" mindelta="1"
 # $Id$

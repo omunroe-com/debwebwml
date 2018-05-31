@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ac15e795f18dac3f2107abb00781c568df915f7f" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Гельмут Гуммель из команды безопасности TYPO3 обнаружил, что TYPO3, система

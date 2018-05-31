@@ -1,6 +1,6 @@
 #use wml::debian::template title="쓸만한 번역 제안"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.39" maintainer="Sebul"
+#use wml::debian::translation-check translation="7fce35397b85232374e07ada8bb4f49a830c5d1b" maintainer="Sebul"
 
 <p>번역에 제한되지 않는 관찰할 일반적인 것에 대한 <a href="working">웹 페이지에서 작업하기</a>에 관한 페이지를 보세요.
 

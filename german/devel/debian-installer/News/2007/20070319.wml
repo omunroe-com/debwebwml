@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Installer Etch RC2</define-tag>
 <define-tag release_date>2007-03-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-04-01
 
 <p>

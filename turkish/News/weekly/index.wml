@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Dizin"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.26" maintainer="Onur Aslan"
+#use wml::debian::translation-check translation="775af418d254a5191061a7f4455787906b66f1a8" maintainer="Onur Aslan"
 
 <p>
 Debian topluluğu için hazırlanmış haber bülteni; 

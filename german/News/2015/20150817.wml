@@ -23,7 +23,7 @@
 <define-tag release_date>2015-08-17</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="475df144b54167549c17fcf9dc92852702beb8fb"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2015-11-04
 
 ##

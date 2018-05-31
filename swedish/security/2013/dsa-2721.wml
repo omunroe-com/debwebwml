@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4ce78ac30674d4d2cfcb069573f538f49beb964e" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Ett buffertspill har upptäckts i nginx, en liten, kraftfull och

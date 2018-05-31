@@ -35,4 +35,4 @@ kunne træde i kraft.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1896.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7ecc6be4937a3d3e04de81752d4492013a43008a" mindelta="1"

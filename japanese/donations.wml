@@ -1,5 +1,5 @@
 #use wml::debian::template title="寄付"
-#use wml::debian::translation-check translation="1.89"
+#use wml::debian::translation-check translation="3ef20c68abbcff30a1fe6c684b35209471cc17f3"
 
 <p>
 寄付は <a href="$(HOME)/devel/leader">Debian プロジェクトリーダー</a>

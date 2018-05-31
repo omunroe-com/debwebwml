@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a38c1dbd52714ec7090ccc0a4cafece00c9879fa" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Mariusz Ziulek rapporterade att libssh2, ett bibliotek för SSH2 på

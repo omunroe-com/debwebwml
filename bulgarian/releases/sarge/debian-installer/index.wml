@@ -1,7 +1,7 @@
 #use wml::debian::template title="Инсталиране на Дебиан &ldquo;etch&rdquo;" NOHEADER="true"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/sarge/release.data"
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <h1>Инсталиране на sarge</h1>
 

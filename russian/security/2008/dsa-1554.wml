@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c093fc2ce69faf59e6301d5a82e78b0aaf66da95" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Roundup, система отслеживания проблем, неправильно экранирует ввод в формате HTML,

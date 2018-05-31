@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0fa23206c72c9c543a94218c3c5486e87d43577c" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>En lammelsesangrebssårbarhed blev rapporteret i varnish, en moderne og 

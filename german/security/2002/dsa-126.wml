@@ -15,5 +15,5 @@ in IMP zerstört hat.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-126.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="463077fd27ece5cc31348879643324e68a3c8e73"
 # $Id$

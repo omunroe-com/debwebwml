@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="661101196997bc74527d1c660849c9e6bb527d61" maintainer="David Prévot"
 <define-tag description>Débordement de zone de mémoire du système</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="06ae48f6f25aa18b6637b6687d9e0c6d6cb4f301"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Stefan Cornelius さんと Reimar Doeffinger さんが、MPlayer ムービープレイヤが

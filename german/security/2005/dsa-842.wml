@@ -19,5 +19,5 @@ Version 1.0.0.009.dfsg-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-842.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="28d8ff585668c08044e137eaa95a16971cd9bd42" mindelta="1"
 # $Id$

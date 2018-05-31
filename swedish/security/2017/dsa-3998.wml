@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d8bc37be6320e87f372e148fec03b600db6b9488" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Martin Thomson upptäckte att nss, biblioteket Mozilla Network Security

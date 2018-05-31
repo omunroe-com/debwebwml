@@ -1,7 +1,7 @@
 <define-tag pagetitle>Seconde version candidate à la publication de l'installateur Debian pour Etch</define-tag>
 <define-tag release_date>2007-03-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Nicolas Bertolissio"
 
 <p>
 L'<a href="https://wiki.debian.org/DebianInstaller/Team">équipe</a> de

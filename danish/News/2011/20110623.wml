@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian skifter til LibreOffice</define-tag>
 <define-tag release_date>2011-06-23</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="dbb2b64a184bdf59ad7b3a341ea50994ff991f25"
 
 <p>Debian-projektet er stolt over at kunne annoncere, at overgange fra 
 OpenOffice.org til LibreOffice nu er gennemført.   LibreOffice har allerede 

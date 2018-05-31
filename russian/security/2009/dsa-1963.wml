@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="484a69642a363a8c1aef8f7bd1d312139c855c3b" maintainer="Lev Lamberov"
 <define-tag description>ошибка реализации шифрования</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Unbound, преобразователь DNS, неправильно

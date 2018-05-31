@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="81ccd64b803dba5dae67d98dc92eb0abe181fc2a"
 <define-tag description>ejecución de comandos remotos</define-tag>
 <define-tag moreinfo>
 <p>El equipo de seguridad de SuSE ha revisado las partes críticas del paquete

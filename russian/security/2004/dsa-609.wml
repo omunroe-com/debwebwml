@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a60e75fcd40b85f01c2ca0e77106b28cc578389d" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Адам Заброки обнаружил многочисленные переполнения буфера в atari800, эмуляторе

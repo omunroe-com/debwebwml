@@ -1,6 +1,6 @@
 #use wml::debian::template title="Останні новини" NOHEADER="true"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.37" maintainer="Volodymyr Bodenchuk"
+#use wml::debian::translation-check translation="3031d1f6c3aecff064fb32b8ce8c34a17317f5e5" maintainer="Volodymyr Bodenchuk"
 
 <a class="rss_logo" href="news">RSS</a>
 <h1><a href="$(CUR_YEAR)/">Останні новини</a></h1>

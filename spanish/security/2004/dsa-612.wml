@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="f471b93710b6633acb468260a24e6d52c502002d" maintainer="juanma"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Rudolf Polzer descubrió una vulnerabilidad en a2ps, un conversor

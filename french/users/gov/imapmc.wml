@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.ima.sp.gov.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="41f335e550ee81c2e258a0fad9091dc934c6280a" maintainer="Thomas Vincent"
 
 <p>
 Nous utilisons Debian sur tous les serveurs Linux (il y a aussi des serveurs

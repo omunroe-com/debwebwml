@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="85512c580b2e8ad3e5709c11fe4666d9377cd3e8" mindelta="1"
 <define-tag description>SQL-injicering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Zabbix, ett nätverksövervakningsverktyg, inte

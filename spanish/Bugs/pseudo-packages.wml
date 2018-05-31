@@ -1,5 +1,5 @@
 #use wml::debian::template title="SSF de Debian - pseudo-paquetes" NOHEADER="true" NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="482085cdd7ca98a1a3142933dbb60ab68c4c36e5"
 
 <H1>Pseudo-paquetes del sistema de seguimiento de fallos de Debian</H1>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="565e5f69e752ffb77a2dd9febee91bc7d7fcaa14"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が HP Linux Printing and Imaging System に見つかりました:

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="290a9d071dfd5716d37e393c98181d4c1e6e0e7b"
 <define-tag description>誤った API の使用法</define-tag>
 <define-tag moreinfo>
 <p>BOINC 分散コンピューティング基盤のコアクライアントが、OpenSSL の RSA 関数

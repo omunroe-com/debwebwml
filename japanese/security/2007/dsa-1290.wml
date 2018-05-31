@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f99a932b5d8d6168ba8fe6e611c81cb247d244db"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>web メールのパッケージである Squirrelmail が HTML フィルタについて、

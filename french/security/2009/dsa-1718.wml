@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="290a9d071dfd5716d37e393c98181d4c1e6e0e7b" maintainer="Jean-Edouard Babin"
 <define-tag description>Mauvaise utilisation de l'interface de programmation</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert que le client principal pour l'infrastructure distribuée

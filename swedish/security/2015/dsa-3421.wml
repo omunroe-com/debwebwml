@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0d4adef4db7afedd1c51b4d075709db2be3eb132" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Hector Marco och Ismael Ripoll, från Cybersecurity UPV Research Group

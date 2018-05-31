@@ -2,7 +2,7 @@
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/sid/archive.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.85"
+#use wml::debian::translation-check translation="9518c60303c8ec346849a2261c93fcfd8f618da1"
 # $Id$
 # Translator: Thimo Neubauer <thimo@debian.org>
 # Updated by: Frank Lichtenheld <frank@lichtenheld.de>

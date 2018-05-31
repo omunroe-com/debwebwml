@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9f03869d9b99f2255c463d07286d25bd6ef414d4" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Randell Jesup och Firefox-gruppen upptäckte att srtp, Cisco's

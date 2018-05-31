@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="72eb3583bf159710fceca5f40fc6b3b9a879d260" maintainer="Frédéric Bothamy"
 <define-tag pagetitle>Debian n'utilisera que des versions libres du système de fenêtrage X</define-tag>
 <define-tag release_date>1998-04-09</define-tag>
 #use wml::debian::news

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Concours de logo Debian</define-tag>
 <define-tag release_date>1999-02-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="2f69850c1c2c60e25d1cb5010150adb956a52cc1" maintainer="Frédéric Bothamy"
 
 
 <p>Le projet Debian se cherche un nouveau logo. Pour l'instant 

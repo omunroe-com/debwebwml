@@ -1,6 +1,6 @@
 #use wml::debian::template title="Информация о выпуске Debian GNU/Linux 2.2 (potato)" BARETITLE=yes
 #use wml::debian::release
-#use wml::debian::translation-check translation="1.69"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/potato/release.data"
 #include "$(ENGLISHDIR)/releases/info"

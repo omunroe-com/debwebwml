@@ -4,7 +4,7 @@
 <meta name="keywords" content="social contract, dfsg, social contract,
 dfsg, dfsg, debian social contract, dfsg">
 :#meta#}
-#use wml::debian::translation-check translation="1.30" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
+#use wml::debian::translation-check translation="0f52c7e5a149db8184ce50fb99c50cf253a5834c" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
 
 #  Original document: contract.html
 #  Author           : Manoj Srivastava ( srivasta@tiamat.datasync.com )

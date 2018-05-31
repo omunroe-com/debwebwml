@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="dab92085a254fe252884e193ff2b37554b2e53d5" maintainer="Juan M. Garcia"
 <define-tag description>errores de programación</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varias vulnerabilidaes en phpsysinfo, una

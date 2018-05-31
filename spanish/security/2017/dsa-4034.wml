@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="93a6968ae86191f6005be2cf1091702125c24734"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>'shamger' y Carlo Cannas descubrieron que un error de programación en

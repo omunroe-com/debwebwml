@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="ef6c296f2d3d731efa8786987fdb6d74f92e3edf" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Rainer Gerhards, chef du projet rsyslog, a signalé une vulnérabilité dans

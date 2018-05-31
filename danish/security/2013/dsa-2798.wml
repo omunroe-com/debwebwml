@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4d60b553e2fc2e049569ddfdadbce9eb4011d97c" mindelta="1"
 <define-tag description>ukontrolleret værtsnavn i SSL-certifikat</define-tag>
 <define-tag moreinfo>
 <p>Scott Cantor opdagede at curl, et filhentningsværktøj, deaktiverede 

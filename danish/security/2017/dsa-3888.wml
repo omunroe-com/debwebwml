@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c6a3b21b42fda39273427b5a1f43fced4cdbec1c" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Qualys Research Labs opdagede en hukommelseslækage i mailtransportagenten 

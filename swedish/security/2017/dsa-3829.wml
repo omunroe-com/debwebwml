@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6aa54e4ecd05cfc8365fd856de87665349fa562e" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Quan Nguyen upptäckte att en saknad kontroll av avgränsningar i

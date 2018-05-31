@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="613ec724ca1f1de2004a425984783cf3c47f4fa0" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Филип Мартин (Philip Martin) обнаружил, что серверы Subversion, использующие HTTP, аварийно завершаются при

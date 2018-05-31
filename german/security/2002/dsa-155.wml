@@ -28,5 +28,5 @@ Konqueror neu zu starten.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-155.data"
-#use wml::debian::translation-check translation="1.5" maxdelta="1"
+#use wml::debian::translation-check translation="fbd7af7d4edfd4cf5cd8dc79ac4548e406bbf29d" maxdelta="1"
 # $Id$

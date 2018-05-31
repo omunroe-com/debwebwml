@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="63acfe388c39a5265ed75347ca8b6a3f2bd36516" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Колум Хаттон сообщил, что сервер XML-RPC в supervisor, системе для

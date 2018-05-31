@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="06a685cddde21348f32a23e53510e7a1c665c048" maintainer="juanma"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Stefan Nordhausen ha identificado un agujero local de seguridad en

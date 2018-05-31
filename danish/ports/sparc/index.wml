@@ -1,5 +1,5 @@
 #use wml::debian::template title="SPARC-tilpasning" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
 
 <h1>Debians SPARC-tilpasning</h1>

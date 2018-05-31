@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="947c9c7b288691adcafa70a9cb642e4ed8991ceb"
 <define-tag description>範囲外メモリアクセス</define-tag>
 <define-tag moreinfo>
 <p>infamous42md さんが、IPv4 ネットワークを自動的に設定する

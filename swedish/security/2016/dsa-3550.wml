@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b1307afe8edb4c3ecfdf3f411ac29bd1b5c4ae2d" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Shayan Sadigh upptäckte en sårbarhet i OpenSSH: Om PAM-stöd är aktiverat

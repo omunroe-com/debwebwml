@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="de8c425679bcef95af74cccb077b7de1160d9517" mindelta="1"
 <define-tag description>filers og enhedsnoders ejerskab ændres til kvm-gruppe</define-tag>
 <define-tag moreinfo>
 <p>Bastian Blank opdagede at libvirtd, en dæmon til håndtering af virtuelle 

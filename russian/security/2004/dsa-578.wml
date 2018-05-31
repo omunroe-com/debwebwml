@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="016cd4d907a7ec082df314b5e56e49dcdc9fb496" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Карлос Баррос обнаружил переполнение буфера в функции аутентификации HTTP

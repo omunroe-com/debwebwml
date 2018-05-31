@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="4a64ad4833f45239bab8746e915d49ad9697f97e"
 <define-tag pagetitle>MAPS: un proyecto respetable para sus avisos</define-tag>
 <define-tag release_date>1998-02-23</define-tag>
 #use wml::debian::news

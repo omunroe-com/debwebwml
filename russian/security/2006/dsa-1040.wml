@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c3782a3d2c53086a6713eaed1d0f4607a5b2b92d" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>В gdm, дисплейном менеджере для X, была обнаружена уязвимость,

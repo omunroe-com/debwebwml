@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="613ec724ca1f1de2004a425984783cf3c47f4fa0" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Philip Martin opdagede at HTTP-baserede Subversion-servere går ned, når de 

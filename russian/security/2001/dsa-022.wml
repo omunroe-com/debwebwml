@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4f9f6862b19e7b0c7a9d8cfd16ecd8186131ff19" maintainer="Lev Lamberov"
 <define-tag moreinfo>Предыдущие версии программы exmh использовали /tmp для хранения
 временных файлов. Проверки того, что кто-то поместил символическую ссылку с
 тем же именем в /tmp не производились. Таким образом, программа была уязвима к атаке через

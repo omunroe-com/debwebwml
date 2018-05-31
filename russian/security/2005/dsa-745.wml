@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="95dcbcbe97887a0730e528f9021fc3cab4056a36" maintainer="Lev Lamberov"
 <define-tag description>ошибки проверки ввода</define-tag>
 <define-tag moreinfo>
 <p>В drupal и его встроенном модуле xmlrpc были обнаружены две ошибки ввода. Эти ошибки

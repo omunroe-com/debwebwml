@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="40ce2126ebd87d862207b8d6d96677e0b1338a36" maintainer="Lev Lamberov"
 <define-tag description>удалённый отказ в обслуживании / эксплоит</define-tag>
 <define-tag moreinfo>
 <p>Марк Литчфилд обнаружил возможность вызвать отказ в обслуживании в

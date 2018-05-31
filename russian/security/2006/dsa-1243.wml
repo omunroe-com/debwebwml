@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c17042a74927744370b508cdfbf15f5d96d7ac42" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Рено Лифшиц обнаружил, что gv, программа просмотра PostScript и PDF для X,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="cda6c5b3b9c40c2e777b713615d3e45ab49ffe78"
 <define-tag moreinfo>
 Marcus Meissner さんにより、samba が二カ所で一時ファイルを安全なやり方で作成していないことが発見されました。
 

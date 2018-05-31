@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="7477a4e0ec5b3a06fde28c5b88b87c6e43901445" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Einar Lonn opdagede, at under visse omstændigheder, benyttede bind9, en 

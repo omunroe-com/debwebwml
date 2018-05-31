@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="35b31be86422e6d1619eb5d48022c533e4a400cd" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer fra Red Hat Product Security opdagede at libvdpau, 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="0a16238978f5a74e5e453dc0960cbae462d8b4fe" maintainer="Pierre Machard"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Zack Weinberg a découvert une utilisation non sécurisée de fichiers

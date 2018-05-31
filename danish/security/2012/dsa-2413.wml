@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e7baccb7b0026bc025ce5c4c1bef6dc74619ca03" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>To bufferoverløb er opdaget i libarchive, et bibliotek som stiller en 

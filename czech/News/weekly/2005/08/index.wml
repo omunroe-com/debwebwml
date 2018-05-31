@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-02-22" SUMMARY="Translation, Moria, FTPMaster, Unstable, APT, Packaging, MPlayer, License, Expos"
-#use wml::debian::translation-check translation="1.6" maintainer="Petr Houstek"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Petr Houstek"
 
 <p>Vítejte u&nbsp;letošního 8. vydání DWN, týdenního zpravodaje pro komunitu okolo
 Debianu. Manoj Srivastava <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="441507211602277a4ed1b172cb705f8da32e9b6c" maintainer="Simon Paillard"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs dépassements de tampon ont été découverts dans cgiirc, un client

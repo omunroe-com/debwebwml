@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3497c95d1d5c2c4b824a65a45a1e8b8919338eb3"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Liu Qishuai さんが、GNOME gtop ライブラリがシステムの /proc

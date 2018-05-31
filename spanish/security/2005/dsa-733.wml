@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="d6c7aeb75ba59d31ac4e05060a46aa105f4ded12" maintainer="Juan M. Garcia"
 <define-tag description>archivos temporales inseguros</define-tag>
 <define-tag moreinfo>
 <p>Justin Rye descubrió que crip, una herramienta para extraer,

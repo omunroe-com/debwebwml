@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="91d3d0c2f7965a20a86128bd31430bf9dc97033c" mindelta="1"
 <define-tag description>domänöverskridande skriptangrepp</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att rtfm, Request Tracker FAQ Manager, innehåller

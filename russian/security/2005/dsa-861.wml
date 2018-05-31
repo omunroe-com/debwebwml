@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="51f874fb262eec870d6f8a20b72640eb894cc361" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" обнаружил переполнение буфера в uw-imap, IMAP-сервере Вашингтонского

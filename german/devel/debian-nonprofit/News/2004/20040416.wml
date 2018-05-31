@@ -2,7 +2,7 @@
 <define-tag release_date>2003-04-16</define-tag>
 
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc"
 # $Id$
 # Initial translation: Helge Kreutzmann <kreutzm@itp.uni-hannover.de> 2005-08-06
 

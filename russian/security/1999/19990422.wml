@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d623d1ffc2b1ff9c62f4e34d213291e515d408b0" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 <p>Была выпущена новая версия procmail, которая содержит исправления некоторых недавно обнаруженных
 переполнений буфера, которых не было в версии 3.13.

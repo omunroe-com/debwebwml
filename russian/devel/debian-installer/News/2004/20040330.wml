@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="57906d70d1439c1c0d3fdbdda3cbfcc29229871e" maintainer="Lev Lamberov"
 <define-tag pagetitle>Обновление Beta 3</define-tag>
 <define-tag release_date>2004-03-30</define-tag>
 #use wml::debian::news

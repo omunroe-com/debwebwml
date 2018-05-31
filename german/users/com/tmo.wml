@@ -6,7 +6,7 @@
 <define-tag webpage>http://www.tmo.co.jp/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 # Translation: Helge Kreutzmann <debian@helgefjell.de> 2010-12-10
 
 <p>

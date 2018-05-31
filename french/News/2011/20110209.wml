@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="David Prévot"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="David Prévot"
 <define-tag pagetitle>Modification de la clé utilisée pour signer l'archive Debian</define-tag>
 <define-tag release_date>2011-02-09</define-tag>
 #use wml::debian::news

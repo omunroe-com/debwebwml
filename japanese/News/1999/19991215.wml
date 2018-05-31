@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 2.1r4 リリース</define-tag>
 <define-tag release_date>1999-12-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <P>Debian GNU/Linux 2.1 (別名 slink) の更新版がリリースされました。
 新しいリリースであるバージョン 2.1r4 にはセキュリティおよび 2000 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="a087948ecd4b3d7de2a1c29ef95becc2f44d4097" maintainer="Giuseppe Sacco"
 <define-tag description>overflow di un buffer</define-tag>
 <define-tag moreinfo>
 <p>Mordred Labs e altri hanno trovato varie vulnerabilità

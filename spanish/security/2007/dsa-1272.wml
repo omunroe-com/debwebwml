@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="6d23ee28b444e62652ecb0d1ce980ba0a78e616a" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Moritz Jodeit descubrió un desbordamiento de búfer por una posición en

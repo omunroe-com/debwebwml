@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="04794a05ea28a8a3a9d99c0e40aa0fa64b8d2eb9"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>MIT の Tom Yu さんと Sam Hartman さんが Kerberos v4 管理サーバの

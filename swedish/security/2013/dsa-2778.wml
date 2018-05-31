@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="80c9ef297175b18efce190e2657b7043adb7ed19" mindelta="1"
 <define-tag description>heapbaserat buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Robert Matthews upptäckte att Apache-modulen FCGID, en FastCGI-implementation

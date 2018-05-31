@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a3d3d5a0ff413c154bb2ea294d254f25220fc2f1" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Юстин Виншиф и Эндрю Ститс обнаружили ошибку в dhcp, сервере DHCP

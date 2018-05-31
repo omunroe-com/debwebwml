@@ -23,5 +23,5 @@ hvordan Debian-projektet fungerer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6d3863488b42ade25b1f0e9f917b559a6fa22a66"
 #Related Links here (free form)

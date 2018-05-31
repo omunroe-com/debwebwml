@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b718cfbc1d4f903d519c88ed5acadc097ec38d05"
 <define-tag description>入力のサニタイズ漏れ</define-tag>
 <define-tag moreinfo>
 <p>ムービープレーヤ MPlayer が SDP セッションデータ入力を適切に検証しておら

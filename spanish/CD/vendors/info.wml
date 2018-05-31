@@ -1,5 +1,5 @@
 #use wml::debian::template title="Información para vendedores de CD"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="d377aef268f44033788f7d9e6266449cf10bf079"
 
 <p>Si desea vender discos ópticos que contengan Debian, las ideas más importantes que
 debería comprender son las siguientes:</p>

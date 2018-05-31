@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux på x86-maskiner" BARETITLE="true"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="e9c587fe48386f2bedf1d5a6284b6959c2b4635c"
 
 <p>Da det var den arkitektur understøttet af Debian, gælder de fleste af 
 Debians generelle websider denne tilpasning.</p>

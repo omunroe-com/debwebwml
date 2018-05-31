@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4b78e25e667425de470b43ed1ab211467744ece0" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Кевин Финистер обнаружил две проблемы в Bluetooth FTP-клиенте

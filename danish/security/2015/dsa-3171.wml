@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b295e5faab77a29a560ea68000568c46ce830563" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Richard van Eeden fra Microsoft Vulnerability Research opdagede at Samba, en 

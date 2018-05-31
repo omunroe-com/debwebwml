@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 <define-tag pagetitle>Debian インストーラ 7.0 Beta1 リリース</define-tag>
 <define-tag release_date>2012-08-04</define-tag>
 #use wml::debian::news

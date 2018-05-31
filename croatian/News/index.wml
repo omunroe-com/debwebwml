@@ -1,6 +1,6 @@
 #use wml::debian::template title="Najnovije vijesti" NOHEADER="true"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.28"
+#use wml::debian::translation-check translation="e60836d59658ca5615e6d0ada46ab69937738d62"
 
 <a class="rss_logo" href="news">RSS</a>
 <h1><a href="$(CUR_YEAR)/">Najnovije vijesti</a></h1>

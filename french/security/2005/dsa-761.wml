@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="83801bb1f88d59acab6d62e756c56d828d1ee1b7" maintainer="Simon Paillard"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>La mise à jour de sécurité DSA 761-1 pour heartbeat contenait un bogue

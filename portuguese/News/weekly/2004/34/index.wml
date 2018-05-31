@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-08-31" SUMMARY="Repositório, Kernel, Freenode, Sarge, Desenvolvimento, contrib, Kaffe, Desktop"
-#use wml::debian::translation-check translation="1.10" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à trigésima quarta edição deste ano da DWN, o periódico semanal
 para a comunidade Debian.  Em uma <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fb7f3b9f3b82769b01bb3e437da6e147fca08f12"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Adam Boileau さんが、オープンソース構内交換機 (PBX、Private Branch

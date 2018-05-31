@@ -17,5 +17,5 @@ Version 1.0b-8 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-356.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9adb2fd8f5412494b458542149fbf1d9ef939cf3"
 # $Id$

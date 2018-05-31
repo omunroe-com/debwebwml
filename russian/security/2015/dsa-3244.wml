@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2fc5a17ed79329427689fb4863ab5fdcc1176314" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В ownCloud, веб-сервисе облачного хранилища файлов, музыки, контактов,

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Boceto del funcionamiento de la red de autocompilación" BARETITLE="true"
-#use wml::debian::translation-check translation="1.9" maintainer="Fernando Cerezal"
+#use wml::debian::translation-check translation="4094875c3a7aafc988b5f218b0a629fab415552a" maintainer="Fernando Cerezal"
 
 <p>
 En el corazón del sistema está la base de datos de <TT>wanna-build</TT>,

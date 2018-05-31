@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="11f139834b434da130414d66c8f8120ca847f7a1"
 <define-tag description>creación de socket insegura</define-tag>
 <define-tag moreinfo>
 Problema con permisos malos en socket de control para X.

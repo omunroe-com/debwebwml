@@ -1,5 +1,5 @@
 #use wml::debian::template title="Indsend oplysninger om cd-forhandler"
-#use wml::debian::translation-check translation="1.22"
+#use wml::debian::translation-check translation="8c7c1ae9759fa292ec185218b009c0dafb0002ea"
 #use wml::debian::countries
 
 <p>Hvis du ønsker at indsende oplysninger om en forhandler af Debian-cd'er, kan 

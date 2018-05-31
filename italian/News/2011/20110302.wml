@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian annuncia il primo mirror di sicurezza sud americano</define-tag>
 <define-tag release_date>2011-03-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Mark Caglienzi"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Mark Caglienzi"
 
 <p>Il progetto Debian è lieto di annunciare la nascita del primo mirror
 ufficiale <code>security.debian.org</code> in Sud America, contenente tutti gli

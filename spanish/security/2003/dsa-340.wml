@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a27186426d8f2ab23893ddc98301006e7cd50459"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>NOTA: debido a una combinación de problemas administrativos, este aviso

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8514ff1f0db87a0e77ab4e8719fd82cece1a8b1d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В libebml, библиотеке для обработки файлов в формате Extensible Binary Meta Language,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="ac9b569906cd99349198e6a3529a7502efd82671"
 <define-tag abbr>DebConf3</define-tag>
 <define-tag year>2003</define-tag>
 <define-tag pagetitle>III Conferência Debian</define-tag>

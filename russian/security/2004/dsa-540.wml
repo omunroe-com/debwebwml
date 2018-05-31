@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="473ddf04f77aad1995ea734010ad4ad4a82337ff"
 <define-tag description>небезопасное создание файла</define-tag>
 <define-tag moreinfo>
 <p>Иероэн ван Вольфелаар (Jeroen van Wolffelaar) обнаружил возможность

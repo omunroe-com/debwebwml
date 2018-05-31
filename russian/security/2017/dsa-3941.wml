@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="52ddfda248eae01d12b31eada324e208fa849ea1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В семействе игровых движков idtech4 (Quake III Arena) было обнаружено переполнение

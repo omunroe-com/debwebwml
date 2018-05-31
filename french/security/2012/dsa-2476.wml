@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="f24ae0ddbbde88ea314a7741f2bd85228c35d7fc" maintainer="Thomas Vincent"
 <define-tag description>Vulnérabilité de chaîne de formatage</define-tag>
 <define-tag moreinfo>
 <p>intrigeri a découvert une erreur de chaîne de formatage dans pidgin-otr, un greffon de discussion

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>La versión de bind de Debian GNU/Linux 2.1 es vulnerable
 a varios ataques de denegación de servicio, como cita el aviso del CERT
 CA-99.14. Fíjese en que bind en Debian GNU/Linux 2.1 (bind 8.2.1) <em>no</em>

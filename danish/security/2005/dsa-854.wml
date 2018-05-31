@@ -16,4 +16,4 @@ version 3.8.3-5sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-854.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="df1090a661ef0119942fbc32d1480967438cf1fa" mindelta="1"

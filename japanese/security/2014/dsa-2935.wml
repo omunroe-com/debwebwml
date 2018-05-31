@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cdbf3a3ed3cca02a32f0e4c0df75a1b0467673a4"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>It was 発見ed that malformed 応答/反応s from a Gadu-Gadu ファイル relay

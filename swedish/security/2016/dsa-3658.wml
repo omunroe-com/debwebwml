@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="15050f0402bc36b0280198d89fea50d0a886c2e3" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Hanno Boeck upptäckte flera sårbarheter i libidn, GNU-biblioteket

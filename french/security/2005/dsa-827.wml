@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="ae3c5a306f9d63bd1810710719709a02e178a420" maintainer="Simon Paillard"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>Moritz Muehlenhoff a découvert que backupninja créait un fichier temporaire

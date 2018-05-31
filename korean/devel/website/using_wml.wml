@@ -1,5 +1,5 @@
 #use wml::debian::template title="WML "
-#use wml::debian::translation-check translation="1.13" maintainer="Sebul"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Sebul"
 
 <p>WML은 Web site Meta Language을 뜻합니다. WML은 입력 파일
 .wml 을 얻어서, 그 안에 있는 것을 처리하고 (기본 HTML에서 Perl 코드까지!), 

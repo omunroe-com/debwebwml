@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b860b4e43a35951b1ff10620a7226dce78ec28a3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が CAPWAP、GMR-1 BCCH、PPP、NBAP、RDP、HTTP、DCP ETSI

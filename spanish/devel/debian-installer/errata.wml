@@ -1,7 +1,7 @@
 #use wml::debian::template title="Erratas del instalador de Debian"
 #use wml::debian::recent_list
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="1.227" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="c75cafbee4a0fdc9c9a699b41b22f3e35a529b64" maintainer="Laura Arjona Reina"
 
 <h1>Erratas en «<humanversion />»</h1>
 

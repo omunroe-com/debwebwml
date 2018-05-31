@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f005b5e6651b4e9b1b52e4069a0b639bd28b764b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>TERASOLUNA Framework Development Team opdagede en lammelsesangrebsårbarhed 

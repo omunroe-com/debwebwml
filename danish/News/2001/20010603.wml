@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-projektet på Linux Expo i Italien</define-tag>
 <define-tag release_date>2001-06-03</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1f838c296004face091db76786f789729f61fe86"
 
 <p>Det første Linux Expo i Italien finder sted den 6.-7. juni i Milano.  
 Debian-projektet har fået mulighed for at køre en stand i ".org"-pavilionen

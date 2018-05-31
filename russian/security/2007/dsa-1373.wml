@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="27622737a8a282d885c1f80106740d5f79c4850f" maintainer="Lev Lamberov"
 <define-tag description>изменение каталога</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что ktorrent, клиент BitTorrent для KDE, содержит

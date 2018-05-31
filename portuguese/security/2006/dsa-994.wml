@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="852b8a6329e63e144544320a209c37462a74058d" maintainer="Marco Carvalho"
 <define-tag description>negação de serviço</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma descobriu uma condição de negação de serviço no servidor

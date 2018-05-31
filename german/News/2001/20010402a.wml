@@ -1,7 +1,7 @@
 <define-tag pagetitle>Das Debian-Projekt auf der Linux Expo Madrid</define-tag>
 <define-tag release_date>2001-04-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="556b589eeea9338a9287e12938aac123b7122af6"
 
 # Translation: Frank Ronneburg <fr@openoffice.de>
 

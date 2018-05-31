@@ -30,7 +30,7 @@ Vulnerabilities and Exposures プロジェクトでは以下の問題を確認�
 <p>直ちに squid パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="6ee4ef90b66269aabc2f321e857702f17f702fb3"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-576.data"
 # $Id$

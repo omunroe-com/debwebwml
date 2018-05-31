@@ -1,7 +1,7 @@
 <define-tag pagetitle>Das Debian-Projekt führt Verfassung ein</define-tag>
 <define-tag release_date>1998-12-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-11-24
 
 <p>Das Debian-Projekt hat eine Verfassung eingeführt, die unter <a

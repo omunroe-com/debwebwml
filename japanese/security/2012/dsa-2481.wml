@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bc964e4b68d9131f1bba543f8988d86821ca8879"
 <define-tag description>追加グループの削除の失敗</define-tag>
 <define-tag moreinfo>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="257db401ca0b155ba91cc7cf7db720ae979173f2" maintainer="Jean-Paul Guillonneau"
 <define-tag pagetitle>Résolution générale : rendre publique la liste de diffusion debian-private</define-tag>
 <define-tag status>F</define-tag>
 # meanings of the <status> tag:

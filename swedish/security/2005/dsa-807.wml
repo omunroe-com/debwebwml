@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="15e4eb701e466a5b75d996bbe91f31a16331320d" mindelta="1"
 <define-tag description>förbigående av acl-restriktioner</define-tag>
 <define-tag moreinfo>
 <p>

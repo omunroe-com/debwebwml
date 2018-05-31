@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cb1e0f564c0d29ad3c043c0e20c20161e8b1cbd6" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att bristande validering av indata i åtgärderna twikidraw 

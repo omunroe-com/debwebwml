@@ -30,7 +30,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="121e967ed6fc8156669b91bad7febd2073ea1e0f"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.linuxtag.org/">LinuxTag</a><br>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b86353bbcec0db93ce26f234fde5866c7eba3d4b" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>В реализации кода для чтения формата GIF в netpbm-free, наборе утилит для

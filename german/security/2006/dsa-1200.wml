@@ -19,5 +19,5 @@ Qt-basierten Anwendung zu betrachten.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1200.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f14732fea42a9ec7ae765acd4837d06a9e06bcab"
 # $Id$

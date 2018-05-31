@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="81ccd64b803dba5dae67d98dc92eb0abe181fc2a" maintainer="Giuseppe Sacco"
 <define-tag description>esecuzione remota di comandi</define-tag>
 <define-tag moreinfo>
 <p>Il team della sicurezza di SuSE ha rivisto alcune parti critiche

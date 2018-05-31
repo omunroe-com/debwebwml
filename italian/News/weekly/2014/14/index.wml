@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-10-27" SUMMARY="podcast Debian &amp; Stuff, Debian ritorna a GNOME come desktop predefinito, contribuire a Debian in altri modi, l'iniziativa Ada e l'Outreach Program For Women, chi ha 15 anni?!, relazioni sul supporto a lungo termine per Squeeze, Risoluzione Generale: accoppiamento del sistema di init, pillole dai manutentori di Debian Multimedia, Debian Quiz Game, serve aiuto!, Debian DebUtsav'14"
-#use wml::debian::translation-check translation="1.4" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Mirco Scottà"
 
 # $Rev: 5730 $
 # Status: [content-frozen]

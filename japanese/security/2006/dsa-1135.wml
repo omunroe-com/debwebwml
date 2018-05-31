@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="345ae5829873b136fcf7fa26bf52ec7b6b9904eb"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Kevin Kofler さんにより、MusicBrainz タギングライブラリ libtunepimp

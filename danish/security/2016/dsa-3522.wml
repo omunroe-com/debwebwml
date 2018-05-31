@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2188819dfdd7422591ad1f6d24fdf7ee56624d63" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Alex Rousskov fra The Measurement Factory opdagede at Squid3, en komplet 

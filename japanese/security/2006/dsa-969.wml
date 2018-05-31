@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="b339a77580e06b206bedadd0ee4df7dd5cae5ef8"
 <define-tag description>設計上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler さんが、ユーザコマンドを scp と sftp

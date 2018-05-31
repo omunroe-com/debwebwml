@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8b8fe789f79334d4f6dfc87817c6dce85f5578d3"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>El equipo de seguridad de la aplicación Shopify informó de que ruby-loofah, una

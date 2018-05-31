@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="898c2200ceb1c05065e4dd35c0ea88975029aeb1" maintainer="Jean-Pierre Giraud"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Yves Younan et Ryan Pentney ont découvert que libgadu, une bibliothèque

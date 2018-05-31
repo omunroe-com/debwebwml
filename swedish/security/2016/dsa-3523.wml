@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="77fa036416471154b3a8de4b5b47e14b54b8652e" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Denna uppdatering inaktiverar biblioteket Graphite font shaping i

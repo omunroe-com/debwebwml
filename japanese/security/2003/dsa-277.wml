@@ -18,7 +18,7 @@
 <p>早急に apcupsd パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5061ad2f45b4126c7edc6ecd42633418598db5a6"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-277.data"
 # $Id$

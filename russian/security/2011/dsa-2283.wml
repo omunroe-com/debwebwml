@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5f3b498511139678e4933c68b3dd0b1e4b0d1df4" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Тим Цингельман обнаружил, что из-за некорректного сценария настройки

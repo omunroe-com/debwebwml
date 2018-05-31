@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="03eddc156b33aa7724a6157cff3f20cd7bfdc0dc" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Joshua Rogers a découvert une vulnérabilité de chaîne de formatage dans la

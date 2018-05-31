@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="779b452788a4a12efb1184cddd2c525ed88766e2" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Michael S. Tsirkin de Red Hat a découvert un défaut de dépassement de

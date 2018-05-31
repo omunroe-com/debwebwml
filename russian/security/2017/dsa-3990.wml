@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="895228aa91fa0709a0412b20408670a5307725a5" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Клаус-Петер Юнган обнаружил, что недостаточная проверка RTCP-пакетов

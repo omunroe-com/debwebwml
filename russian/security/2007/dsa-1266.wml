@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="15b66a4f18e990acd5417b5fa88a127644b0e6f3" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Жерардо Ричарте обнаружил, что GnuPG, свободная замена PGP, предоставляет

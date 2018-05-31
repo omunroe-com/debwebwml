@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e62fb8013b11944cc4b00f10f1dfd189197e0f47"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Mu Security research team により、DIGEST-MD5 ネゴシエーション時の Simple

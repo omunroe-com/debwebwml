@@ -4,7 +4,7 @@
 <define-tag pagetitle>Département des sciences de l'informatique, universit&eacute; de Salzbourg, Salzbourg, Autriche</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Steve Petruzzello"
+#use wml::debian::translation-check translation="980f85012110ed03b31639431c966d19e8533f3d" maintainer="Steve Petruzzello"
 
 <p>
 L'infrastructure informatique de nos sites utilise Debian GNU/Linux.

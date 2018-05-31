@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian uznaje GNU FDL za warunkowo wolne</define-tag>
 <define-tag release_date>2006-03-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 # $Id$
 
 <p>Projekt Debian zdecydował, że dokumenty dystrybuowane pod licencją

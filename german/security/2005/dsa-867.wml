@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1f93df0fd3c41c553b94531dbec2bd78a3570ca8"
 <define-tag description>Unsichere temporäre Datei</define-tag>
 <define-tag moreinfo>
 <p>Eduard Bloch entdeckte, dass eine Datei mit Regeln in module-assistant,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4c9f52eca4c264c310453d2f72dfd4e2a4667f3c"
 <define-tag description>diretório temporário inseguro</define-tag>
 <define-tag moreinfo>
 <p>O fdclone cria um diretório temporário no /tmp para trabalhar nele. 

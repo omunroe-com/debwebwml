@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="DDP:n kehittäjän oppaat"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
-#use wml::debian::translation-check translation="1.65"
+#use wml::debian::translation-check translation="e58910f188b6d887c1e0310e961ee8e79d21888c"
 
 <document "Debianin linjan kuvaus (englanninkielinen)" "policy">
 

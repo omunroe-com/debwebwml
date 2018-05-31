@@ -21,4 +21,4 @@ version 4.3.5-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2098.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e6f1c8c97fb2749159fd68e3b35411645541e394" mindelta="1"

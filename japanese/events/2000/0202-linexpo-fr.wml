@@ -27,5 +27,5 @@ Debian ブースに行く予定ですが、まだまだ人が足りません!
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="dfb78b1f850726ef4ae20e8b1f89a71d69b92eb4"
 #Related Links

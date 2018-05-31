@@ -38,4 +38,4 @@ version 2.4.1-13.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-364.data"
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="c9d3368d270e05503dd47a2ff4db44ae74fff36d" mindelta="1"

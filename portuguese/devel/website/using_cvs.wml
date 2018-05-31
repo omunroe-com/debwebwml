@@ -1,5 +1,5 @@
 #use wml::debian::template title="Usando o CVS"
-#use wml::debian::translation-check translation="1.25" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="9c92d70cdc40a6ce300ddad821bd6a0cdb55212d" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>CVS é um programa para ajudar a gerenciar várias pessoas trabalhando
 simultaneamente no mesmo material. Cada usuário cria uma cópia local do

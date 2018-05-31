@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="269fd8be31b291ff3ccda8cd83c47505ced8c4ef"
 <define-tag pagetitle>Beta 1 av utgåvan av Debian Jessie-installeraren</define-tag>
 <define-tag release_date>2014-08-13</define-tag>
 #use wml::debian::news

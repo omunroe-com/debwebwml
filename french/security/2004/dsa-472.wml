@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="8cc2a5470ec79874964656d8be1fbd1ab8b8c4b7" maintainer="DFS Task Force"
 <define-tag description>Plusieurs failles de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp et Jaguar ont découvert plusieurs failles de sécurité utilisant 

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-05-31" SUMMARY="Pillole dal DPL, Avvio parallelo, Conferme di partecipazione alla DebConf, Declassificazione della mailing list debian-private"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <!--
 $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="71d630abc57bb60d7c1694659534d651f857ae15" maintainer="Juan M. Garcia"
 <define-tag description>no se saneaba la entrada</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler descubrió que pstotext, una utilidad para extraer

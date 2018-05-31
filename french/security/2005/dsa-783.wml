@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="3f90bacfd8cde334321554443fd15935c68b1a65" maintainer="Simon Paillard"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>Eric Romang a découvert une vulnérabilité de fichier temporaire dans un

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9bfbf65c16f0d502edf9503fe4a7194e69af6781"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Chris Evans さんが、GIF 画像を扱う共有ライブラリ libungif4

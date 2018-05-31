@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4ce78ac30674d4d2cfcb069573f538f49beb964e"
 <define-tag description>バッファオーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>小型で強力、拡張性に優れたウェブ/プロキシサーバ nginx に、信頼できない上流

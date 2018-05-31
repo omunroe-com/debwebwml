@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cf6a93b6e5d1a4cf12a8f7ed1132898c1c6370cc"
 <define-tag description>PRNG が状況により正常に乱数の種を再生成しない</define-tag>
 <define-tag moreinfo>
 <p>python-crypto の疑似乱数生成器に暗号の脆弱性が発見されました。</p>

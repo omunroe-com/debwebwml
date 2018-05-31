@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9ed6c472aed0557d35aac94f8a5a1a4f3f0c57dd"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Stefan Kaltenbrunner さんにより、DNS プログラミングのためのライブラリおよ

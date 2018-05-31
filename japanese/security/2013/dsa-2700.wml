@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="430313f59ed8b7598bfc4ce2a4ac80e433ec952c"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が GTPv2、ASN.1 BER、PPP CCP、DCP ETSI、MPEG

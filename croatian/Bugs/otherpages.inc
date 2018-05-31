@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="fce042d9dcdefa00f89c0eafd4e31a5a2d7ef7db"
 
 <p>Druge BTS stranice:
 

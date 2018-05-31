@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b6fe82c39289923a86f8c9dfa7969c3db98ad904" maintainer="Lev Lamberov"
 <define-tag description>небезопасный временный файл</define-tag>
 <define-tag moreinfo>
 <p>Разработчики Trustix обнаружили создание небезопасного временного файла в

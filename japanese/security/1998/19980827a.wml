@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="eb22fddc523a7a9a4544a7c1ef144e415b8d2d73"
 <define-tag description>faxsurvey スクリプトが任意のコマンドを実行</define-tag>
 <define-tag moreinfo>
 <p>hylafax の前のリリースに収録されている faxsurvey

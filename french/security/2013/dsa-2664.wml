@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="023e9a5865378046d0558188ac70e4f701b186d1" maintainer="Thomas Vincent"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Stunnel, un programme conçu pour fonctionner en tant que tunnel SSL universel pour 

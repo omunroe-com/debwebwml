@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c78b16c248c03c9e6055d7c9f43e3910d0c447ab" maintainer="Lev Lamberov"
 <define-tag abbr>ForumIT</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>Forum IT Summer Academy</define-tag>

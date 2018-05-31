@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d5922890989213eb97c82e10261f7ea94b0108e7" maintainer="Lev Lamberov"
 <define-tag description>ошибка реализации</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что реализация STARTTLS в IMAP-сервере

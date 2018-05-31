@@ -18,6 +18,6 @@ nichts, diesen Protokolliermechanismus zu deaktivieren.</p>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19980828b.data'
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="f0ec8942dbe43e07744303cf2c915c9eba3d548e"
 # $Id$
 # Translator: Helge Kreutzmann, Helge.Kreutzmann@itp.uni-hannover.de, 2003-08-27

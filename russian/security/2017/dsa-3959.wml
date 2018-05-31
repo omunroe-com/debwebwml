@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a5e18a1dcdbec32061c03af3cc38f72d37f55da9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дэниел Генкин, Люк Валента и Ювал Яром обнаружили, что библиотека Libgcrypt

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2582191af2fd381e0e0ffba268e24f3ae88cb4a2"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ問題がファイルの種類を判定するツール file

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="d36affe7a06c539365cdce017f6f477099838a04" maintainer="Juan M. Garcia"
 <define-tag description>desbordamientos de enteros, bucle infinito</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto varios errores en Clam Antivirus, el escáner para antivirus

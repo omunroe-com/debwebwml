@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-05-31" SUMMARY="Debian プロジェクトリーダからの一言、並列起動、DebConf 再確認、debian-private メーリングリストの機密解除"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0"
 
 <!--
 $Rev: 291 $

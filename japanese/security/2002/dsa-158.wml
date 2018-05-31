@@ -30,6 +30,6 @@
 <p>早急に gaim パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b683fd461d031035624a738a969d37fb4d260052"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-158.data"

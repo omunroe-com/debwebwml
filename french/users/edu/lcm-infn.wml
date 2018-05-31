@@ -1,5 +1,5 @@
 # From: "Marco Bianchi" <azhrael.blanc@gmail.com>
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="073fb4d39f98866abfb992ac2b99ce63a26f9db1" maintainer="Thomas Vincent"
 
 <define-tag pagetitle>Laboratoire de calcul et multimédia, Université des études de Milan, Italie</define-tag>
 <define-tag webpage>http://lcm.mi.infn.it/</define-tag>

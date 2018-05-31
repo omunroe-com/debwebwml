@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" mindelta="1"
+#use wml::debian::translation-check translation="1e50ac3d41b5e280b3bfeec438669c049126f9d6" mindelta="1"
 <define-tag description>buffertspill, osäker temporärfilshantering, överbelastningsattack</define-tag>
 <define-tag moreinfo>Chris Evans, Joseph S. Myers, Michal Zalewski, Alan Cox,
 med flera har upptäckte ett antal problem i flera delar av

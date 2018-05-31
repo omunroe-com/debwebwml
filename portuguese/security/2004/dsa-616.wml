@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="282af0eee63827c41410d4cc8a790dbb654e55d9"
 <define-tag description>formato de string</define-tag>
 <define-tag moreinfo>
 <p>Joel Eriksson descobriu uma vulnerabilidade de formato de

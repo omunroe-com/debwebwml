@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0131e070fe56375144e24d15c0e096ec1f1ba575" maintainer="Lev Lamberov"
 <define-tag description>указатель после освобождения памяти</define-tag>
 <define-tag moreinfo>
 

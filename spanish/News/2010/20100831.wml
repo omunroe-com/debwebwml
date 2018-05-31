@@ -1,7 +1,7 @@
 <define-tag pagetitle>El proyecto Debian lamenta la pérdida de Frans Pop</define-tag>
 <define-tag release_date>2010-08-31</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Douglas Cerna"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Douglas Cerna"
 # $Id$
 
 <p>La comunidad del proyecto Debian ha perdido a uno de sus

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Il progetto Debian piange la perdita di Adrian von Bidder</define-tag>
 <define-tag release_date>2011-04-23</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" maintainer="Mark Caglienzi"
+#use wml::debian::translation-check translation="bf4891f7107381410e784a0077f3b52735f29ecd" maintainer="Mark Caglienzi"
 
 # $Id$
 

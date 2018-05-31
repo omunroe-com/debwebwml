@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ff2af7496b30316ad5253c65f3adc21e85e914ea" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Мартин Варгерс и Нит Мотт описали аварийное завершение работы Mozilla из-за

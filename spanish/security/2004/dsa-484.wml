@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6f265b1bfc5f646ec5888e0db4689f9e18fea9d8"
 <define-tag description>fallo al liberar privilegios</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descubrió una vulnerabilidad en xonix, un juego en el que

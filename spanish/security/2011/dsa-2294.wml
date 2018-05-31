@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Luis Uribe"
+#use wml::debian::translation-check translation="32f7124997f67f8878eb6bb760879e16a79edefe" maintainer="Luis Uribe"
 <define-tag description>falta de saneamiento de entrada</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que un insuficiente saneamiento de la entrada en

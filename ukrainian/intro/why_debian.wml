@@ -1,5 +1,5 @@
 #use wml::debian::template title="Чому саме Debian?"
-#use wml::debian::translation-check translation="1.63" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="d629a9a8041a6b54189f4599d7db5a065fcfd453" maintainer="Borys Yanovych"
 #include "$(ENGLISHDIR)/releases/info"
 
 <p>Дякуємо, що ви розглядаєте можливість використання Debian на

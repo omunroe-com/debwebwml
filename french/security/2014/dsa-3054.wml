@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="1b912ead1cdf587c8d4217953868b9349152f9f6" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs problèmes ont été découverts dans le serveur de base de données

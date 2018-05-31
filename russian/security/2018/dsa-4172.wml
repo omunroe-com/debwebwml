@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b41b0ebcc23ca0097d64706c3865f88ab642cb68" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В реализации языка программирования Perl были обнаружены многочисленные

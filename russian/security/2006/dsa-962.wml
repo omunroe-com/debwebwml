@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4e0b93b83f0b8c25828b4aa60e8c5d1698535ad1" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" и Крис Эванс обнаружили несколько переполнений динамической

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="348f1200424e4cf2887e5de7300e7d8de80c7ff2" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Чарли Смартуэйт из aTech Media обнаружил уязвимость в HAProxy, быстром

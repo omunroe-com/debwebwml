@@ -1,5 +1,5 @@
 #use wml::debian::template title="Alpha で動作する Debian/GNU Linux" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
 
 <h1>Alpha 上で動作する Debian GNU/Linux &ndash; ステータス</h1>

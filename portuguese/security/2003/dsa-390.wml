@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b985197f8e2819fc7410c3bb0db06fce51b2378c"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descobriu um buffer overflow no marbles, ao processar a variável 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="4f38229a53c2766162fa7c627e693dffe18cd523"
 <define-tag pagetitle>Semana de Debian Expo y Conference</define-tag>
 <define-tag release_date>2001-06-30</define-tag>
 #use wml::debian::news

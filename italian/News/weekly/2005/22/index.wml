@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-05-31" SUMMARY="Rilascio, Archivio, legale, Debconf, Debian Day"
-#use wml::debian::translation-check translation="1.4" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Daniele Venzano"
 
 <p>Benvenuti al ventiduesimo numero di quest'anno di DWN, il notiziario settimanale 
 per la comunità Debian. Andreas Barth si sta già preparando per il dopo rilascio di 

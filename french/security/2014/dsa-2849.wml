@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d0be637467cbd2e3bbec76e0e3c6193e1d2d811c" maintainer="Jean-Pierre Giraud"
 <define-tag description>Divulgation d'informations</define-tag>
 <define-tag moreinfo>
 <p>Paras Sethia a découvert que libcurl, une bibliothèque de transfert

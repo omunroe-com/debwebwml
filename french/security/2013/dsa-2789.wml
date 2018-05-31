@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="6fc9c5965a68ed19091dec075678aa92d76743f2" maintainer="Thomas Vincent"
 <define-tag description>Déni de service et contournement d'autorisation</define-tag>
 <define-tag moreinfo>
 <p>Une vulnérabilité a été découverte dans l'analyseur ASN.1 de strongSwan, un

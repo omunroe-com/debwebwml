@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="5f3b498511139678e4933c68b3dd0b1e4b0d1df4" maintainer="Cédric Boutillier"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Tim Zingelmann a découvert qu'à cause d'un script de configuration incorrect, 

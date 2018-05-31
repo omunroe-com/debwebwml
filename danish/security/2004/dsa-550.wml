@@ -15,4 +15,4 @@ version 0.7.1+rvt-2woody3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-550.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7ac7b61ae518437c0c45e55d8e28f51980b53222" mindelta="1"

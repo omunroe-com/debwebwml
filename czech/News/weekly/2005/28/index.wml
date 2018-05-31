@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-12" SUMMARY="LSB, GCC, Consultants, Ada, Transition, Dependencies, Archive, Documentation"
-#use wml::debian::translation-check translation="1.6" maintainer="Vladimir Mezera"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Vladimir Mezera"
 
 <p>Vítejte u&nbsp;letošního 28. vydání DWN, týdenního zpravodaje pro komunitu
 okolo Debianu. Bill Allombert <a

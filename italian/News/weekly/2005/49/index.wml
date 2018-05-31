@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-12-06" SUMMARY="Risoluzione, DebConf, /tmp, Transizione, udev, Pacchettizzazione, Krb4, GCC 2.95"
-#use wml::debian::translation-check translation="1.9" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Daniele Venzano"
 
 <p>Benvenuti al quarantanovesimo numero di DWN di quest'anno, il bollettino
 settimanale per la comunità Debian.  Roland Stigge ha <a

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="91dca351cdc900f4e5928721effeceb1e8d4bf4e"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto múltiples vulnerabilidades en Asterisk, un conjunto de herramientas

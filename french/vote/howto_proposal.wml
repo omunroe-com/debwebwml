@@ -1,7 +1,7 @@
 <define-tag pagetitle>Procédures pour soumettre une proposition de résolution générale ou un amendement</define-tag>
 #use wml::debian::template title="<pagetitle>" BARETITLE="true" NOHEADER="true" NOHOMELINK="true"
 #use wml::debian::votebar
-#use wml::debian::translation-check translation="1.28" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="beb188a1e37dd39a8004ebd9faddc4b43118a184" maintainer="Nicolas Bertolissio"
 
 # Premier traducteur : Christian Couder
 

@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.exercito.gov.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0f8488583fcd141c32d63aef29c56c07b0fcc9a1"
 
 <p>
   Den brasilianske hær anvender Debian på netværksservere.  

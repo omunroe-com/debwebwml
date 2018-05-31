@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.ict-bedrijf.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Vincenzo Musco"
+#use wml::debian::translation-check translation="f0b07a631c1a7cebdcd893cb66d56483e463e27a" maintainer="Vincenzo Musco"
 # Original translation by Nicolas Bertolissio
 
 <p>

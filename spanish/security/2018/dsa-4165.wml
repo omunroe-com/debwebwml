@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="132486e47436283e0a2d78c34a0fd8f3a263b035"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Michal Kedzior encontró dos vulnerabilidades en LDAP Account Manager, una interfaz

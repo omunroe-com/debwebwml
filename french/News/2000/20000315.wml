@@ -1,7 +1,7 @@
 <define-tag pagetitle>Des T-shirts Debian disponibles</define-tag>
 <define-tag release_date>2000-03-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="87ee7378c809f66c809f4ac65a05f48b9ff7c3d0" translation_maintainer="Martin Quinson"
 
 <p><a href="http://www.copyleft.net">Copyleft</A> offre maintenant des
 T-Shirts aux couleurs de Debian, avec des slogans à la mode. Tous ceux

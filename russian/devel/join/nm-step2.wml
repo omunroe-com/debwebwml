@@ -1,6 +1,6 @@
 #use wml::debian::template title="Шаг 2: Установление личности" NOHEADER="true"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.38" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b59849318da01faabdbc1d5bb5e05f99c4f7a61a" maintainer="Lev Lamberov"
 
 <p>Информация на этой странице, хотя она и является публичной, будет интересна в первую
 очередь будущим разработчикам Debian.</p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="b24431ababc4fc9b7e3e2dd318ba982706802266" maintainer="Juan M. Garcia"
 <define-tag description>desbordamientos de buffer</define-tag>
 <define-tag moreinfo>
 <p>Markus Oberhumer descubrió una debilidad en la forma de gestionar las entradas no

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="d0b034ac4423c229c439b2fd32e6531c27fc9aa2" maintainer="Thomas Péteul"
 <define-tag pagetitle>Les préparations pour la première version candidate à la publication de Lenny sont connues pour casser quelques media d'installation de la beta 2 et etch-et-demie</define-tag>
 <define-tag release_date>2008-09-27</define-tag>
 #use wml::debian::news

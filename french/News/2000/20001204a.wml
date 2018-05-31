@@ -1,7 +1,7 @@
 <define-tag pagetitle>Microship est basé sur Debian</define-tag>
 <define-tag release_date>2000-12-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="1c69a9e6fc43fe5afb6627efa13137321f09b4a0" translation_maintainer="Martin Quinson"
 
 <p>[ Cet article a été écrit par «&nbsp;Steven K. Roberts&nbsp;» &lt;wordy@microship.com&gt;.
 Et vous, quel usage faites vous de Debian&nbsp;?&nbsp;:]

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>分散ファイルシステム AFS に二つの欠陥が発見されました。</p>

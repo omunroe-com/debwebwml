@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7015ee157604c28139577b3308ca1c49821f6215" maintainer="Lev Lamberov"
 <define-tag description>плохое значение по умолчанию</define-tag>
 <define-tag moreinfo>
 <p>В ruby1.8 была обнаружена уязвимость, которая может приводить к

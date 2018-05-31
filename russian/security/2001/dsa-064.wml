@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="47dab89886b1a634b9c1913fa847ab2affa7022a" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 Проект SecureNet Service сообщил, что w3m (консольный веб-браузер) содержит

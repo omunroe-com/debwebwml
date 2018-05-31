@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="374b4fd05c0393dc1fc7219aead08d65a10110c1" maintainer="DFS Task Force"
 <define-tag description>Fichiers et répertoires temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans Perl, le langage de

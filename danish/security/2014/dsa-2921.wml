@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="30bc9cbd06621fb0efd2f0dc5e7678f5fc455b79" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Michael Niedermayer opdagede en sårbarhed i xbuffy, et værktøj til visning af 

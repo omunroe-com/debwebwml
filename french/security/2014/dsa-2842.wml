@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="e57e8a7d527825d1c59f9a76988b3333337eab66" maintainer="Jean-Pierre Giraud"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>Alvaro Munoz a découvert une injection d'entité externe XML (XXE) dans

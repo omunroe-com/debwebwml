@@ -21,4 +21,4 @@ problem.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1092.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="62448fa10e5960a7efc5964155a327d5d0fc9f5d" mindelta="1"

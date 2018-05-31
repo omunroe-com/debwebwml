@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4bfd3f8179566cab8a6949a0f5bc2d6cb000f992" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Эндрю Бартлет из Catalyst сообщил о проблеме в некоторых

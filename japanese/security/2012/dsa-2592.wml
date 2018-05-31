@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="aa8a996da32a4b62257e6df690fb90aabee35efd"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>Marko Myllynen さんが、強力なテキストモードブラウザ ELinks が GSS

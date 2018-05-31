@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d80d1acf0fe17385f4142224bc1fc7b5bf23941c"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió que mpv, un reproductor multimedia, era vulnerable a ataques de ejecución

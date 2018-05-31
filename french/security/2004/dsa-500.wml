@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="e86d24308a145243a2bf529dc4830ba36839bc14" maintainer="DFS Task Force"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Tatsuya Kinoshita a découvert une faille de sécurité dans <i>flim</i>, une 

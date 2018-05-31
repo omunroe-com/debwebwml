@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7c396e993d66e83cd721f63295084042e5ef7376"
 <define-tag description>przepełnienie bufora</define-tag>
 <define-tag moreinfo>
 <p>Odkryto kilka naruszeń bezpieczeństwa w nd, interfejsie WebDAV linii poleceń, za pomocą których

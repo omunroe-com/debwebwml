@@ -1,6 +1,6 @@
 #use wml::debian::template title="パッケージのメンテナ向けの監査方法"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Debian アーカイブに含まれるパッケージのメンテナは、
 自分自身でコードに一通り目を通すことを検討してください。</p>

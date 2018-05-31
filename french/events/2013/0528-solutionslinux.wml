@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="David Prévot"
+#use wml::debian::translation-check translation="56a1208ec61483cabeba1c723937aa496cde2c1c" maintainer="David Prévot"
 <define-tag abbr>SL13</define-tag>
 <define-tag year>2013</define-tag>
 <define-tag pagetitle>Solutions Linux</define-tag>

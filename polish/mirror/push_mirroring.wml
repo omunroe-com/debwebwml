@@ -1,5 +1,5 @@
 #use wml::debian::template title="Tworzenie serwerów lustrzanych metodą push"
-#use wml::debian::translation-check translation="1.19"
+#use wml::debian::translation-check translation="48c018003148cdb0e35078a6238cc08fe53c5f36"
 
 <p>Metoda push tworzenia serwerów lustrzanych minimalizuje czas potrzebny,
 aby zmiany w archiwum pojawiły się na serwerach lustrzanych.

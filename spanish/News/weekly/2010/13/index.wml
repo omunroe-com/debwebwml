@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-10-04" SUMMARY="Noticias sobre «Constantly Usable Testing (CUT)», Noticias del equipo FTP, Reporte acerca del «Google Summer of Code», Noticias del equipo de publicidad"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="f1d948670b86947f623a9b451e5940ecf566d500" maintainer="Fernando C. Estrada"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl

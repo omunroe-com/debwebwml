@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-06-28" SUMMARY="Policy, Etch, Programs, Packami XML, BuCostruzione, TeXlive, DebianPeru"
-#use wml::debian::translation-check translation="1.6" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="09c8de4214e938e26eeaf5c5d5bbb5937213f414" maintainer="Daniele Venzano"
 
 <p>Benvenuti al ventiseiesimo numero di quest'anno di DWN, il notiziario 
 settimanale per la comunità Debian. Rafael Laboissiere si è <a

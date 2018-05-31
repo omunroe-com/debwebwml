@@ -1,7 +1,7 @@
 <define-tag pagetitle>DDJ: Inde i Debian Hurd</define-tag>
 <define-tag release_date>2000-12-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e3e10eb63ac08cbb6fc1f18c7263546ee2538a7a"
 
 <p>December 2000-udgaven af Dr. Dobb's Journal indeholder en artikel med titlen
 'Inde i Debian Hurd' skrevet af Jerry Epplin.  Artiklen er ganske udtømmende og

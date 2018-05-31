@@ -1,6 +1,6 @@
 <define-tag pagetitle>صدور دبيان جنو/لينكس 5.0</define-tag>
 <define-tag release_date>2009-02-14</define-tag>
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 #use wml::debian::news
 
 <div class="bidi">

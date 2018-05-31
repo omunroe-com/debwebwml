@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="ff1b78cc37a15dd28c23c72b02812f96707ce861" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Écrasement de variable</define-tag>
 <define-tag moreinfo>

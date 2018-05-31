@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="7c0d1b0814003ff80bbb35fcb15efaeba7ca9a7c"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2000-6-21" SUMMARY="Testcykel 2 avslutas; omstrukturering av startdisketter; &quot;provides&quot; med versioner; röstningssystemet undersöks."
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>
 <b>Välkommen</b> till Debian Weekly News, ett nyhetsbrev för Debianutvecklare.

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debians nye, ny vedligeholder-process passerer 100</define-tag>
 <define-tag release_date>2000-11-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="016101921e3277b0722c7063b21dfc5fbd1db807"
 
 <p>I den forgangne uge har antallet af nye medlemmer optaget i Debian via ny 
 vedligeholder-processen passeret 100.  Der er pt. mere end 100 ansøgere under

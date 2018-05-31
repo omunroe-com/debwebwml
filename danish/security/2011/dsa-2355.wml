@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f7afc3d24603d216e3b2d4a17d34c0340bdbfaea" mindelta="1"
 <define-tag description>formatstrengssårbarhed</define-tag>
 <define-tag moreinfo>
 <p>Leo Iannacone og Colin Watson opdagede en formatstrengssårbarhed i Pythons 

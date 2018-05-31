@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="80da9320a8b0ed15ce47d4bcaa76bcc122fd748b" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Guido Vranken a découvert qu'une gestion incorrecte de la mémoire dans

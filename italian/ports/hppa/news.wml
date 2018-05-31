@@ -1,6 +1,6 @@
 #use wml::debian::template title="Port su PA-RISC -- Ultime notizie" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hppa/menu.inc"
-#use wml::debian::translation-check translation="1.5" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="c49855dd2fe6e7858e3f04946849442d1c1cd618" maintainer="Luca Monducci"
 
 <h1>Ultime notizie su Debian per PA-RISC</h1>
 

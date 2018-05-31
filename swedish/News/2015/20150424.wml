@@ -28,7 +28,7 @@
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="1.2" maintainer="Andreas Rönnquist"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Andreas Rönnquist"
 
 
 ## You may use plain HTML here; we recommend to stick with paragraphs,

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Activation des pages d'événements Debian</define-tag>
 <define-tag release_date>1999-02-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Frédéric Bothamy"
 
 <P>Un nouvel ensemble de pages a été ajouté au site web de Debian. Ce sont
 les pages d'événements, qui sont disponibles à 

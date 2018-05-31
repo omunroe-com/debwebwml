@@ -1,6 +1,6 @@
 #use wml::debian::template title="SPARC-siirros" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/sparc/menu.inc"
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <h1>Debianin SPARC-siirros</h1>
 

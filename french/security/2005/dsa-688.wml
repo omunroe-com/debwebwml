@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="88b45c37ca81e6a2fd893a9db4f87924c18c229a" maintainer="DFS Task Force"
 <define-tag description>Entrée non vérifiée</define-tag>
 <define-tag moreinfo>
 <p>Les développeurs en amont ont découvert plusieurs problèmes dans squid, le

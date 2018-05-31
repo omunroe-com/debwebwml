@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="5c8aef6aa3374d4ee2c1c598f9ac4c2d3443fc35" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Libffi, une bibliothèque utilisée pour appeler du code écrit dans un

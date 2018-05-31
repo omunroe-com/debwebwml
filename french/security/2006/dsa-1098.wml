@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Gregory Colpart"
+#use wml::debian::translation-check translation="895abda2291d2e9fab5973bc921fccaf2f2f1e09" maintainer="Gregory Colpart"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Michael Marek a découvert que la suite Horde ne vérifiait pas correctement 

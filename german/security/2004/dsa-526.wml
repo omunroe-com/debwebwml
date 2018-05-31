@@ -25,5 +25,5 @@ Version 1.150-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-526.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="629ef1689813ef4e1a6999ebe40e28ce1a4b9c72"
 # $Id$

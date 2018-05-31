@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9"
 <define-tag description>przepełnienie bufora</define-tag>
 <define-tag moreinfo>
 <p>Znaleziono naruszenie bezpieczeństwa w slocate, programie do indeksowania

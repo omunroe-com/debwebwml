@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-12-05" SUMMARY="GPM, la congelación, DFSG, documentación, eventos, compilación automática de paquetes"
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 # Traducido por Carlos Valdivia Yagüe <valyag@hotpop.com>
 
 <p><strong>Salimos con retraso.</strong> Lo sentimos, pero Joey asistió al

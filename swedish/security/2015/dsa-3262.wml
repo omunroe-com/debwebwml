@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="58769b896630a544d6d18df15c23c3da6787fae1" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jason Geffner upptäckte ett buffertspill i den emulerade floppydiskenheten,

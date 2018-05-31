@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-09-17" SUMMARY="Pillole dal team FTP, pillole dal DPL, elezioni per il comitato tecnico"
-#use wml::debian::translation-check translation="1.8" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97" maintainer="Mirco Scottà"
 
 # $Rev: 4249 $
 # Status: [content-frozen]

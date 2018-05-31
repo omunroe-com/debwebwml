@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f8d1443ec5293fdf40616c8eec82c95972fc6cbf"
 <define-tag pagetitle>Debian 6.0 långtidsstöd når slutet av sin livslängd</define-tag>
 <define-tag release_date>2016-02-12</define-tag>
 #use wml::debian::news

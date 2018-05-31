@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="2dea119ada2e100c12905e5917ab1c7791558f35"
 <define-tag description>入力に対する誤ったサニタイジング</define-tag>
 <define-tag moreinfo>
 <p><q>infamous41md</q> さんと Chris Evans さんにより、Portable Document Format (PDF)

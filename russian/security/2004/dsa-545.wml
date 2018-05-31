@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="14594dbfe6ae94ab00be588b6b5f1fd7f1f54143"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Альваро Мартинес Эхевариа (Alvaro Martinez Echevarria) обнаружил

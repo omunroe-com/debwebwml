@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 9.0 -- Poznámky k vydaniu" BARETITLE=true
 #use wml::debian::release
-#use wml::debian::translation-check translation="1.1" maintainer="Ivan Masar"
+#use wml::debian::translation-check translation="3f60e9ab95c589dd5a1ca0b0d443957dfc33a362" maintainer="Ivan Masar"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/stretch/release.data"

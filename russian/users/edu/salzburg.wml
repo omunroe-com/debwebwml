@@ -1,6 +1,6 @@
 # From: Daniel Hofer <dhofer@cosy.sbg.ac.at>
 # Ping: Wed, 28 Dec 2011 09:14:02 +0100 (CET) <4EFACFA7.2060809@cosy.sbg.ac.at>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="980f85012110ed03b31639431c966d19e8533f3d" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Департамент компьютерных наук, Зальцбургский университет, Зальцбург, Австрия</define-tag>
 <define-tag webpage>http://www.cosy.sbg.ac.at/</define-tag>

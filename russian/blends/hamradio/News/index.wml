@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Последние новости Debian Hamradio"
 #use "../navbar.inc"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6e56b4e2dbb6e975651897056c57191cdc6f00b4" maintainer="Lev Lamberov"
 
 <:= get_recent_list ('$(CUR_YEAR)', '0',
 '$(ENGLISHDIR)/blends/hamradio/News', '', '\d+\w*') :>

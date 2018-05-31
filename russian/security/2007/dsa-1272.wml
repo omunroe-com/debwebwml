@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6d23ee28b444e62652ecb0d1ce980ba0a78e616a" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Мориц Йодайт обнаружил переполнение буфера в tcpdump, мощном

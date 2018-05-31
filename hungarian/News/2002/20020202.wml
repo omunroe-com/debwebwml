@@ -2,7 +2,7 @@
 <define-tag release_date>2002-02-02</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 # <!-- translated by Istvan Gyorsok <gyorsok@freemail.hu> -->
 

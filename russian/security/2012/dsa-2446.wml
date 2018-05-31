@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b291f295ba1a1eed66c52b99f674230386c6ed82" maintainer="Lev Lamberov"
 <define-tag description>некорректная обработка памяти</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что некорректная обработка памяти в функции png_set_text2()

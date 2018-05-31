@@ -19,7 +19,7 @@ Apache httpd に対するバグ修正が行えます。ただし、apache-ssl �
 <p>直ちに apache パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3c3fcf60e38a849c94c76c44581b43304ef40513"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-525.data"
 # $Id$

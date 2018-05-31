@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a30964a96394f9d7daf701a4dd489a4f8b3417fe" mindelta="1"
 <define-tag description>felaktiga rättigheter</define-tag>
 <define-tag moreinfo>
 <p>Andreas Beckmann upptäckte att phpBB, ett webbforum, så som det installeras

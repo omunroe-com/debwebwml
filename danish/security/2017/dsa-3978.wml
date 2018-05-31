@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0e7bc885231037690c577429814479f18852fb45" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Marcin Noga opdagede et bufferoverløb i JPEG-indlæseren i biblioteket GDK 

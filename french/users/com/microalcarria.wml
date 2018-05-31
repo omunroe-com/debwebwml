@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.microalcarria.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="fe44bbfe061713984098d987de0b3ba159044803" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous avons choisi Debian GNU/Linux pour sa fiabilité, son système de gestion

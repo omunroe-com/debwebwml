@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="eea38bc5d39e1a8fa3b763ecbe2cf8a4e0cfa1d6" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Марчин Слусарц обнаружил два переполнения целых чисел в

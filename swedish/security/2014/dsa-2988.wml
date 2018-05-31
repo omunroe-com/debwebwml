@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dcdd03851973fa1e2459548fbf7af29086a57d7e" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ben Hawkes upptäckte att inkorrekt hantering av peermeddelanden i

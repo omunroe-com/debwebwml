@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Jean-Pierre Giraud"
 <define-tag description>Fin de vie</define-tag>
 <define-tag moreinfo>
 <p>La prise en charge de sécurité du navigateur web Chromium pour la

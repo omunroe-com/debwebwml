@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="843c66f604e874d00a4c05ab97b84e1474149d14" maintainer="Jean-Paul Guillonneau"
 <define-tag pagetitle>Le projet Debian déplore la perte de Clytie Siddall</define-tag>
 <define-tag release_date>2015-02-04</define-tag>
 #use wml::debian::news

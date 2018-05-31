@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Hsin-lin Cheng"
+#use wml::debian::translation-check translation="9fcc9dae29b68fc404a741cc37991e40e6cb1efb" maintainer="Hsin-lin Cheng"
 <define-tag description>輸入驗證不足</define-tag>
 <define-tag moreinfo>
 

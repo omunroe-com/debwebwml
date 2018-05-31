@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f7afc3d24603d216e3b2d4a17d34c0340bdbfaea" maintainer="Lev Lamberov"
 <define-tag description>уязвимость форматной строки</define-tag>
 <define-tag moreinfo>
 <p>Лео Ианнокоун и Колин Уотсон обнаружили уязвимость форматной строки

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="7f973f92a9099b68151cdf911e146c7ef38eacd6" maintainer="DFS Task Force"
 <define-tag description>Format de chaînes de caractères</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs failles de sécurité basées sur les formats de chaînes de 

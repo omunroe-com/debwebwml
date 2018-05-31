@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="71c27f2d9bad50138020836886e1fbed4a7aefac" maintainer="DFS Task Force"
 <define-tag description>Abandon des privilèges manquant</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp a découvert un problème dans <i>trr19</i>, une application

@@ -13,4 +13,4 @@ opstrøms 2.2.7.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-200.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="889dc8a1259b47ea6bdda9a1d8702e98782b2ee5"

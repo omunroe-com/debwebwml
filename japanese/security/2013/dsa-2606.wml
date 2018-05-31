@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0be1d5fe4650b48be8f90b920e601837c64b26b6"
 <define-tag description>シンボリックリンク競合</define-tag>
 <define-tag moreinfo>
 <p>FTP サーバ ProFTPd が、設定によっては

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="2c7cedb8e0fb02b64c3c71add86fe5d90b281fe8"
 <define-tag description>minicom で suid している場合にバッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>コンピュータセキュリティフォーラムの最近のメッセージで

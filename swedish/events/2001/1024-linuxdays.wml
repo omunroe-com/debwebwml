@@ -38,7 +38,7 @@ vilket ger en introduktion till filosofin bakom projektet och operativsystemet.
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e8c5ee0a115c16eef751d4ca37f2e90fb31188b5"
 <ul>
  <li><a href="http://www.linuxday.lu/">Linuxdays</a>
  <li><a href="http://www.linuxday.lu/lxd_home_agenda.html">Program</a>

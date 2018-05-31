@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="c2434c576c2729acf0ef2c551e7efd392fa6ad5f" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon, dépassements d'entier</define-tag>
 <define-tag moreinfo>
 <p>Pavel Kankovsky a découvert que de nombreux dépassements de tampon

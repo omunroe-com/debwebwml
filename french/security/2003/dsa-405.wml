@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="c85f251517fb173b8c2aaa010f9ef09a1be5e6fa" maintainer="DFS Task Force"
 
 <define-tag description>Mauvais abaissement de privilèges</define-tag>
 <define-tag moreinfo>

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Как поддерживать переводы web-сайта в актуальном состоянии"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="5906c5c1a380b2b57c9650ad00be21b432a3be04"
 
 <P>Так как web-страницы не являются статическими, то хорошо бы отслеживать, к
 какой версии оригинала относится данный перевод, и использовать эту информацию,

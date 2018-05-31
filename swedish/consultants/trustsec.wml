@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="trustsec IT solutions GmbH"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="02bb3ab210af6e5a828b06ac64246b5d067cc0cd"
 
 <p>trustsec är en Debian development partner och betalar en Debianutvecklare
 för att jobba med S/390-anpassningen av Debian. 

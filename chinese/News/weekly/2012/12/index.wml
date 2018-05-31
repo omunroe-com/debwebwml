@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-06-11" SUMMARY="Debian 欢迎多样化，用 AWS 重编译, armhf 和 s390x 成为正式架构"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Id$
 # $Rev: 3893 $

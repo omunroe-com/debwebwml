@@ -3,7 +3,7 @@
 <define-tag pagetitle>Debian 7.0 <q>Wheezy</q> publicado</define-tag>
 <define-tag release_date>2013-05-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Laura Arjona Reina"
 
 
 <p>

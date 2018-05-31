@@ -1,6 +1,6 @@
 <define-tag pagetitle>Eventos em 2006</define-tag>
 #use wml::debian::template title="Eventos em 2006"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="9031c0684f17341a83a39c06272faf78c98ee81e" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <:= get_recent_list ( '.', '0', '$(ENGLISHDIR)/events/2006', 'table', '\d+.*' ) :>

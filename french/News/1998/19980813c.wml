@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Frédéric Bothamy"
 <define-tag pagetitle>Cinquième anniversaire de Debian&nbsp;!</define-tag>
 <define-tag release_date>1998-08-13</define-tag>
 #use wml::debian::news

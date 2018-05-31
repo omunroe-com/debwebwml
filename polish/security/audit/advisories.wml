@@ -1,6 +1,6 @@
 #use wml::debian::template title="Ostrzeżenia Audytu Bezpieczeństwa"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="0ad4d180b114f128c3363384351694a7bbe6a069"
 
 <p>Poniżej znajdują się najnowsze ostrzeżenia, które zostały opublikowane 
 jako bezpośrednie wyniki tego projektu audytu.</p>

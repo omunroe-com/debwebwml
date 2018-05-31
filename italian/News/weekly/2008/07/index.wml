@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2008-07-21" SUMMARY="Aggiornamenti sul processo di rilascio di Lenny, Debian-installer supporterà  il caricamento di firmware esterno, Buone regole per i pacchetti di debug"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.11" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Daniele Venzano"
 
 <p>Benvenuti a questo settimo numero dell'anno in corso di DPN, il notiziario per la comunità Debian.<br>
 Alcuni degli argomenti trattati in questo numero:</p>

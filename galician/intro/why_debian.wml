@@ -1,6 +1,6 @@
 #use wml::debian::template title="Razóns para escoller Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.74"
+#use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858"
 
 <p>Gracias por considerar usar Debian para manexar a súa computadora.
 Se inda non está de todo convencido de porqué debería probar Debian, considere o

@@ -17,4 +17,4 @@ senere.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-430.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="71c27f2d9bad50138020836886e1fbed4a7aefac" mindelta="1"

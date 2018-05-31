@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="644d2f4409dc45ac0d2f82fd04bd81c67d177045" maintainer="Lev Lamberov"
 <define-tag description>использование указателей после освобождения памяти</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что GnuPG 2 использует освобождённый указатель при проверке

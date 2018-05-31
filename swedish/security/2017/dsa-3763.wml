@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d4445888547e60c221477a264a82d8ce965f8232" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Florian Heinz och Martin Kluge rapporterade att pdns-recursor, en

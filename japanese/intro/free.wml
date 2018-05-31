@@ -1,5 +1,5 @@
 #use wml::debian::template title="フリーとは何だろう？" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.28"
+#use wml::debian::translation-check translation="f07bd566a6ef9d671b89a11c2890c93dfea43a35"
 
 <H1>フリーとは何だろう？
 <tt>あるいは</tt>フリーソフトウェアとは何を意味するのか？</H1>

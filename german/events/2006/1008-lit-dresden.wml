@@ -28,6 +28,6 @@ vertreten sein. Außerdem wird es einen Vortrag über Debian GNU/Linux 4.0
 </define-tag>
 
 #use wml::debian::past_event 
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="e7c0756d481d5cce60b7c61e60efe35315709b70"
 # Translator: Alexander Schmehl <tolimar@debian.org> 2006-09-02
 #Related Links here (free form)

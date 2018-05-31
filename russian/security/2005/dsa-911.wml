@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c5c33a016c751dda6c8e394eb40736a67e3ee558" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В gtk+2.0,  библиотеке для отрисовки XPM-изображений для Gtk+ GdkPixBuf,

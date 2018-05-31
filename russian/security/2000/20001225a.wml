@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9935cd8456950748eabb78a1723066b91eff94c3" maintainer="Lev Lamberov"
 <define-tag moreinfo>Lez обнаружил уязвимость форматной строки в stunnel (инструементе
 для создания универсального SSL-тоннеля для других сетевых служб). Брайн Хатч
 ответил, указав, что он уже готовит новый выпуск с многочисленными

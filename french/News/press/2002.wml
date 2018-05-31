@@ -1,7 +1,7 @@
 #use wml::debian::template title="Couverture par la presse en 2002" NOHEADER=yes
 #use wml::debian::countries
 #include "$(ENGLISHDIR)/News/press/press.tags"
-#use wml::debian::translation-check translation="1.1" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="d2b5c1fc581ef6d1c67c63c2105c7d75f2e104ce" maintainer="Frédéric Bothamy"
 # Initial translation by Willy Picard
 
 <h3>Debian dans la presse</h3>

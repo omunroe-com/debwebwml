@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a0c4171d6c81bedeb59d5d9a10e1141c0d317e22" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В Apache2, масштабируемом расширяемом веб-сервере следующего поколения,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Lev Lamberov"
 <define-tag pagetitle>Debian переходит на <q>GNU LIBC 6</q></define-tag>
 <define-tag release_date>1997-07-10</define-tag>
 #use wml::debian::news

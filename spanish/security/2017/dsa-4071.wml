@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="94aa200f735529f8913f579989d8c615c1ceabf5"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Gabriel Corona informó de que sensible-browser de sensible-utils, una

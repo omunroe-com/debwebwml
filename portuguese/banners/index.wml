@@ -1,6 +1,6 @@
 #use wml::debian::template title="Banners Debian" BARETITLE=true
 #include "$(ENGLISHDIR)/banners/index.tags"
-#use wml::debian::translation-check translation="1.26" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="d6c46dd9023a0dbb2bbdfc4f9233580b48e9ba73" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>Estes banners podem ser usados para promover o Debian em páginas web. 
 

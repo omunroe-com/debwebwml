@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian em CDs" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.40" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>Se você quiser obter o Debian em CD ou pendrive USB, veja abaixo as
 opções disponíveis. Se tiver problemas, por favor, verifique o <a

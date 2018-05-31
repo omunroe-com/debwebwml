@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7bab9156b6f9ddcd9a4d47cd6fa2f4a0d4fb8b32" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att ett sidokanalangrepp i sessionsnyckelhanteringen

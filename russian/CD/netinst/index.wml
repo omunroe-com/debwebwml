@@ -3,7 +3,7 @@
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 
-#use wml::debian::translation-check translation="1.66" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="40eeef5c10b97819abf8467d7f2a8038a8729ff8" maintainer="Lev Lamberov"
 
 <p><q>CD для сетевой установки</q>, или <q>netinst</q>&nbsp;&mdash; это один компакт-диск,
 позволяющий установить всю операционную систему. Он содержит только

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="497797c5ee35bad8a14dae3fd536775a9756bcb2" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Andrew Tinits rapporterede om et potentielt udnytbart bufferoverløb i 

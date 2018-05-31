@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7545ecdb6181c66ccdb92a3a7ca7d0e57dd6ea4c" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Mailman, менеджере списков рассылки, была обнаружена уязвимость, проявляющаяся в

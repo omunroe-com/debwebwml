@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>
 Colin Phipps descubrió que los paquetes wxuberant-ctags tal y como se
 distribuyen con Debian GNU/Linux 2.2 crea archivos temporales de forma

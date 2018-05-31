@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1d55958b60d7cd05467c146ddfd7ff466991945d" maintainer="Lev Lamberov"
 <define-tag description>небезопасный PID-файл</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что OpenIPMI, библиотека и инструменты Intelligent

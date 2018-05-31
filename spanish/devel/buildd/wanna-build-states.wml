@@ -1,5 +1,5 @@
 #use wml::debian::template title="Estados de Wanna-build: una explicación" BARETITLE="true"
-#use wml::debian::translation-check translation="1.25" 
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" 
 
     <p>Esta página intenta explicar lo que significa cada estado de 
       wanna-build y qué le pasará al paquete cuando esté en ese estado.

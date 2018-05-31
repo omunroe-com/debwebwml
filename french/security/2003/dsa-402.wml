@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="c02d3a582f0441fb75aaa1d8dad35190f716e609" maintainer="DFS Task Force"
 <define-tag description>Entrée non assainie</define-tag>
 <define-tag moreinfo>
 <p>Un problème de sécurité a été découvert dans <i>minimalist</i>, un

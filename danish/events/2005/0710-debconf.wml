@@ -27,7 +27,7 @@ arkitekturer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="6a24e781e566e910efff6acc9e8d7b1f587a236d"
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.debconf.org/debconf5/">websted</a>

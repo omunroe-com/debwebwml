@@ -15,7 +15,7 @@ Ihnen die Werbung für Debian erleichtern</define-tag>
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="1.4" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Erik Pfannenstein"
 
 
 <p>

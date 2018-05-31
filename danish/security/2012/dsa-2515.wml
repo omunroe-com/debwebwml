@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9b2cf33010168c90a21209352d8f14932899ec47" mindelta="1"
 <define-tag description>null-pointerdereference</define-tag>
 <define-tag moreinfo>
 <p>Marek Vavruša og Lubos Slovak opdagede, at NSD, en autoritativ 

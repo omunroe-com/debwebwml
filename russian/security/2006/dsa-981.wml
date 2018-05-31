@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="951b11af3b21e8e016add91df549590eb7e1cd2f" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>"felinemalice" обнаружил переполнение целых чисел в BMV, просмотрщике PostScript для

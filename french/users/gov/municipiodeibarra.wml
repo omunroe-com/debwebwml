@@ -2,7 +2,7 @@
 <define-tag webpage>http://www.municipiodeibarra.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="a966c85b524bbf5b8d255fd07888226e4d44bd83" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous disposons de deux serveurs fonctionnant sous Debian Sarge&nbsp;3.1,

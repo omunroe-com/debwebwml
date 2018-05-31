@@ -15,4 +15,4 @@ version 1.1.20final+rc1-10.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-573.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2bddeaf6b331564ef64a80aff1b495ac6e041ab5" mindelta="1"

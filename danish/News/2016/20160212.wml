@@ -1,7 +1,7 @@
 <define-tag pagetitle>Langtidsunderstøttelse af Debian 6.0 ophører</define-tag>
 <define-tag release_date>2016-02-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f8d1443ec5293fdf40616c8eec82c95972fc6cbf"
 
 <p>Debians hold bag <a href="https://wiki.debian.org/LTS/">Long Term Support 
 (LTS)</a> oplyser hermed, at understøttelsen af Debian 6.0 (<q>squeeze</q>) 

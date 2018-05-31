@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="b52cc69ac2876df7be786758308998e89884713e" maintainer="Jean-Edouard Babin"
 <define-tag description>Débordement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Un débordement d'entier a été découvert dans le code de validation des images

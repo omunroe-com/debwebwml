@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian banners" BARETITLE=true
-#use wml::debian::translation-check translation="1.26" maintainer="Jordi Mallach"
+#use wml::debian::translation-check translation="d6c46dd9023a0dbb2bbdfc4f9233580b48e9ba73" maintainer="Jordi Mallach"
 #include "$(ENGLISHDIR)/banners/index.tags"
 
 <p>Aquests banners es poden usar per a anunciar Debian en les pàgines web.</p>

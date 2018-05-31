@@ -1,7 +1,7 @@
 #use wml::debian::template title="Изменение кодов клавиш PowerPC" NOHEADER="yes"
 #use wml::fmt::verbatim
 #include "$(ENGLISHDIR)/ports/powerpc/menu.inc"
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0cfff43768945b514bb734757927bbbd8b043626" maintainer="Lev Lamberov"
 
 
 <h2>Уведомление о кодах клавиш PowerPC в Linux!</h2>

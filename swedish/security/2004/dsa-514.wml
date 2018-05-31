@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a577c58298377966964384b233c404993f3d5575" mindelta="1"
 <define-tag description>funktion som misslyckas och tömning av TLB</define-tag>
 <define-tag moreinfo>
 <p>

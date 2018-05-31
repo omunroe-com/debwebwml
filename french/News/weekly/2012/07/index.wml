@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-02" SUMMARY="Brèves de l'équipe Debian Med ; compte-rendu de la rencontre de l'équipe des administrateurs système Debian ; salut, et encore merci pour les nouvelles"
-#use wml::debian::translation-check translation="1.10" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

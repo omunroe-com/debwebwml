@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="91ec125d5b119b9143f3fb307ac483315a85d311" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En SQL-indsprøjtningssårbarhed er opdaget i siden <q>Latest data</q> i 

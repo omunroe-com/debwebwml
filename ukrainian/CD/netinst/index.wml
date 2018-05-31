@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Встановлення через мережу за допомогою мінімального компакт-диску"
-#use wml::debian::translation-check translation="1.60" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="f2513a9bb52a29efaac26c207ce82b9137c22ebc" maintainer="Borys Yanovych"
 #use wml::debian::release_info
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"

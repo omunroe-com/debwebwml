@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="eec0d04f0e9d9e27c3a5c40ddf71fb413aae5e8e" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>BIND, un serveur DNS, est prédisposé à une vulnérabilité de déni de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="898c2200ceb1c05065e4dd35c0ea88975029aeb1" mindelta="1"
 <define-tag description>heapbaseret bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Yves Younan og Ryan Pentney opdagede at libgadu, et bibliotek beregnet til 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="b456da5ef82cc8a566d590e59254e92fbb3a1a85" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sikkerhedssårbarheder blev opdaget i Heirlooms mailx, en implementering af 

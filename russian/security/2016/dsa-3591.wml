@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2131ffcd4b0efa58cad20da8ee397421adec396b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Боб Фрищенхан из проекта GraphicsMagick обнаружил уязвимость, приводящую

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="a6e36e39afa08b8ed545626703c284d45fcf109c" maintainer="juanma"
 <define-tag description>desbordamientos de entero</define-tag>
 <define-tag moreinfo>
 <p>«infamous41md» descubrió varios desbordamientos de entero en las

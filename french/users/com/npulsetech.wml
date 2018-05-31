@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.npulsetech.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="a0f811ea36e0eb6c6040bc3404ee305ee490db83" maintainer="Thomas Vincent"
 
 <p>
 nPulse Technologies conçoit et implémente des produits de surveillance de

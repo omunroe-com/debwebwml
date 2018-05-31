@@ -30,4 +30,4 @@ version 1:1.15.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2022.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="03787d5d13b696c0e8ce4a71d1186925f40ec882" mindelta="1"

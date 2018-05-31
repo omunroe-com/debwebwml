@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="aee33e673fa636f3bbea34f5edee0e75fdfb9755"
 <define-tag description>incialización impropia de variable</define-tag>
 <define-tag moreinfo>
 <p>Kim Nielsen encontró recientemente un problema interno con el servidor CVS

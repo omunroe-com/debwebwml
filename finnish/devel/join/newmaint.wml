@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debianin uusien jäsenten nurkkaus" BARETITLE="true"
-#use wml::debian::translation-check translation="1.79"
+#use wml::debian::translation-check translation="4c1461fb2972062a851231cbf75f5b0413e6a1d9"
 
 <p>Debianin uusien jäsenten prosessi on sarja vaadittuja
 menettelyitä, joilla tullaan viralliseksi Debian-kehittäjäksi (DD).

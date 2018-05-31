@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9da3ce153e5dc908ac9755cf1af8214ab27ea071" mindelta="1"
 <define-tag description>fjärraktiverat stackspill</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att dhcpcd, en DHCP-klient, var sårbar för ett

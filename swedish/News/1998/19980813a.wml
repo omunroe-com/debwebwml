@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian i pressen: År 2000-huvudvärk</define-tag>
 <define-tag release_date>1998-08-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="1b22fcf74cb1c92c62b422a416905983eecff303"
 
 <p>Debian GNU/Linux har omnämnts i Wireds nyhetssektion.
 Michael Stutz skrev en artikel med titeln

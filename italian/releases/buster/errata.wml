@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 10 &mdash; Errata" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.1" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="b6a7091f73c11a22a8f619653012ca182cd13179" maintainer="Luca Monducci"
 #include "$(ENGLISHDIR)/releases/info"
 
 <toc-display/>

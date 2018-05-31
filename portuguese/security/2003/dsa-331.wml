@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0be381b04fdad61b582d8074378229132a16cd54"
 <define-tag description>arquivo temporário inseguro</define-tag>
 <define-tag moreinfo>
 <p>A biblioteca libmagick do imagemagick, sob certas circunstâncias, cria

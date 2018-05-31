@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="32f7124997f67f8878eb6bb760879e16a79edefe" mindelta="1"
 <define-tag description>städar inte indata</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att otillräcklig rengörning av indata i Freetypes

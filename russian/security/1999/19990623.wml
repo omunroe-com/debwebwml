@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="166945915f0d0fd909d442953cca024468bf0775" maintainer="Lev Lamberov"
 <define-tag moreinfo>Стало известно, что версия mailman, поставляемая
 в составе
 Debian GNU/Linux 2.1, содержит проблему в коде проверки списка администраторов.

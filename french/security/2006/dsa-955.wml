@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="bfb456139d47afa16d79398fa262a2c876dcf71a" maintainer="Simon Paillard"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>Deux bogues de déni de service ont été découverts dans le serveur de listes

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3210e9e77317058b1db073810a63eb17c61799c9"
 <define-tag description>epäluotettava väliaikaistiedosto</define-tag>
 <define-tag moreinfo>
 <p>Paul Szabo havaitsi epäluotettavan väliaikaistiedoston luontitavan

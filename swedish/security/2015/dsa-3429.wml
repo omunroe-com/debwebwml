@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="19c96ce1202ef80dc6cfe6f7b9f296dfb48042cb" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Michal Kowalczyk och Adam Chester upptäckte att saknad rengörning

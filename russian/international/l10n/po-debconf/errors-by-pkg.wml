@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ошибки в переведённых шаблонах Debconf: по пакетам"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="dcf23a8d7d7e4f701d2711305cd961b97f272a50"
 #include '$(ENGLISHDIR)/international/l10n/dtc.def'
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
 

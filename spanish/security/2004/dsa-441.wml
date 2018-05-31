@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea"
 <define-tag description>olvido en la comprobación del valor devuelto por la función</define-tag>
 <define-tag moreinfo>
 <p>Paul Starzetz y Wojciech Purczynski, de isec.pl, <a

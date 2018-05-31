@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="abd1b3d024227c140c171534f698331997521f4b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Аникет Нандкишор Кулкарни обнаружил, что в tomcat7, сервлете и движке

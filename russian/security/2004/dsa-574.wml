@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="32f7f2321be5904328e9fcbb1298b8fe908a99ab" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки каталога</define-tag>
 <define-tag moreinfo>
 <p>Разработчики основной ветки разработки обнаружили проблему в cabextract, инструменте для

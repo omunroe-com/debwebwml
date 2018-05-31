@@ -17,7 +17,7 @@ KDE 3.2 およびそれ以降のバージョンでは、telnet URI
 <p>直ちに KDE ライブラリパッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f72ecb05af157932762ce3147d679c2c66050dad"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-518.data"
 # $Id$

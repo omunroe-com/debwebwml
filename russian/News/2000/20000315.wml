@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="87ee7378c809f66c809f4ac65a05f48b9ff7c3d0" maintainer="Lev Lamberov"
 <define-tag pagetitle>Доступны футболки Debian</define-tag>
 <define-tag release_date>2000-03-15</define-tag>
 #use wml::debian::news

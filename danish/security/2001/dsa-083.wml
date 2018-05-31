@@ -13,4 +13,4 @@ er tilgængelig i den stabile Debian GNU/Linux 2.2.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-083.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a4b9edeb0512b131d96a2dfec1c4effcd75855a2"

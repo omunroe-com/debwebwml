@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a532744a613e440ec3f93d1b0bad3bbdb66b3f9a" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>'landave' upptäckte ett heap-baserat buffertspill i metoden

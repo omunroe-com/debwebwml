@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cdd4e93d0c481a26ab7621802d7cc8f7dca6d9cb" mindelta="1"
 <define-tag description>serveröverskridande scripsårbarhet</define-tag>
 <define-tag moreinfo>
 <p>Emilio Pinna upptäckte en serveröverskridande skriptsårbarhet i sidan

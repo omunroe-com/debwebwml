@@ -17,4 +17,4 @@ version 8.01-6 af gs-gpl og 7.07.1-9sarge1 af gs-esp.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1510.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1fcf57ce94e7eda8509835937a8cdfb456c395af" mindelta="1"

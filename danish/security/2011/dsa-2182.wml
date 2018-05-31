@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bc6568022184c7fb8f9de68d9143fa26498adba2" mindelta="1"
 <define-tag description>shell-kommando-indsprøjtning</define-tag>
 <define-tag moreinfo>
 <p>Dominik George opdagede at Logwatch ikke sikrede mod shell-metategn i 

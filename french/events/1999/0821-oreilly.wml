@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="92e2dd8f5fe9a361b0753f1de627f06cee1f4569" maintainer="Nicolas Bertolissio"
 <define-tag abbr>oreilly</define-tag>
 <define-tag year>1999</define-tag>
 <define-tag pagetitle>Conférence Linux O'Reilly</define-tag>

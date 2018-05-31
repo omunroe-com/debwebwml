@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2f090c0aed43adf8e68cd2dd2a5c8b2cd2b4f779" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Винсен Ле Жэрре обнаружил переполнение целых чисел в pixman,

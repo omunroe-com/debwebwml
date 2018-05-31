@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="e6dec969579c178a1db9c74c8de45ecb2196bbd2" maintainer="Frédéric Bothamy"
 <define-tag description>Manipulation de compartiments sûrs vulnérable</define-tag>
 <define-tag moreinfo>
 <p>Une faille de sécurité a été découverte dans le fichier Safe.pm qui

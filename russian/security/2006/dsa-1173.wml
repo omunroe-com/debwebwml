@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="65f031f098440c11ba255ba25480f4d3d3a6e44a" maintainer="Lev Lamberov"
 <define-tag description>слабое шифрование</define-tag>
 <define-tag moreinfo>
 <p>Дэниель Блайхенбахер обнаружил уязвимость в OpenSSL,

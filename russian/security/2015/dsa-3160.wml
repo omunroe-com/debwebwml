@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3a5e003b8d278d472bcafefd339ffd7ac771019b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Оливье Фурдан обнаружил, что отсутствие проверки ввода в коде Xserver

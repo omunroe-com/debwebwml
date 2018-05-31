@@ -20,4 +20,4 @@ dette problem snart blive rettet.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1853.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c8794af6ced77affeb6b1107a0e815104038b2e2" mindelta="1"

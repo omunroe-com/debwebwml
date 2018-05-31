@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="a577c58298377966964384b233c404993f3d5575" maintainer="juanma"
 <define-tag description>failing function and TLB flush</define-tag>
 <define-tag moreinfo>
 <p>Paul Starzetz y Wojciech Purczynski, de isec.pl, descubrieron

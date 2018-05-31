@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="57906d70d1439c1c0d3fdbdda3cbfcc29229871e"
 <define-tag pagetitle>Debian-Installer beta 4 lançado para 10 arquiteturas</define-tag>
 <define-tag release_date>2004-04-30</define-tag>
 #use wml::debian::news

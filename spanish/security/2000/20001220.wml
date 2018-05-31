@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>Una semana ocupada para el equipo Zope: el lunes se
 liberó otra alarma de seguridad que mostraba un problema potencia encontrado
 por Peter Kelly. Este problema implicaba la protección incorrecta de datos

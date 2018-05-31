@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="b27d11d23c55bd839184766c856e4d6d383c8a48" maintainer="Simon Paillard"
 <define-tag description>Contournement d'authentification</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert que libpam-ldap, le module d'authentification à interface

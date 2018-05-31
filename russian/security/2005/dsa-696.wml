@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="211ba76dadb8608aa2057e8b5e3f3dfbf1786aa6" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Паул Сзабо обнаружил ещё одну уязвимость в функции File::Path::rmtree

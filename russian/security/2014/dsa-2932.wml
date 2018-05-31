@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="515ec59207bb1d71ed67796c2d94f86ee38d7de9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В qemu, быстром эмуляторе процессора, были обнаружены несколько уязвимостей.</p>

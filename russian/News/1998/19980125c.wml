@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7da51ca6775295150d7cb37e97be72d7507891dd" maintainer="Lev Lamberov"
 <define-tag pagetitle>Партнёры Debian</define-tag>
 <define-tag release_date>1998-01-25</define-tag>
 #use wml::debian::news

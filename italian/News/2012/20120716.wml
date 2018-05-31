@@ -16,7 +16,7 @@
 ## http://www.copyblogger.com/magnetic-headlines/ might help you create a
 ## catchy title for that
 <define-tag pagetitle>DebConf lascia il segno in America Centrale</define-tag>
-#use wml::debian::translation-check translation="1.4" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Mirco Scottà"
 
 ## When is this announcement likely to be send out?  Please keep in mind,
 ## that it should also be reviewed and translated

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="008aa65c7e0c796c1765c91ce28ce910fac30294" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To beslægtede problemer blev opdaget i Expat, et C-bibliotek til fortolkning 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="814cd4331924b2591032efcf88b28ebdbcd0fa93" maintainer="Lev Lamberov"
 <define-tag description>недостаточное экранирование</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что netrik, текстовый веб-браузер с привязками клавиш в стиле

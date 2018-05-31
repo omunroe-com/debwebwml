@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3b6b8984c8fb174c83c31ebb592afc3e38d3a9a5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>cPanels säkerhetsgrupp rapporterade en tid för kontroll till tid för

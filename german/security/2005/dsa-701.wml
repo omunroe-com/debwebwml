@@ -28,5 +28,5 @@ Version 3.0.10-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-701.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="d4f996b3a39d3128b43a58d08d1e171650e895d7" mindelta="1"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4e24061190d31f80509d49a1aaf22333a7c0f957" maintainer="Lev Lamberov"
 <define-tag description>удалённая уязвимость</define-tag>
 <define-tag moreinfo>
 

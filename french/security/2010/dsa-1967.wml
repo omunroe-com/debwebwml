@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="248fee27f86f8502d019aae579d225118927c633" maintainer="David Prévot"
 <define-tag description>Traversée de répertoires</define-tag>
 <define-tag moreinfo>
 <p>

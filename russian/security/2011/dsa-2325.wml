@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="42c121cc7f8d2c3b8f5d97a1a50ebe084e8ca2a3" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий/отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Переполнение буфера в поддержке <q>эмуляции Linux</q> в ядре FreeBSD

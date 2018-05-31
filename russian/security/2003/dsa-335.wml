@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="23ae8046d8061f28eced3d1fdd465316befd1274"
 <define-tag description>некорректные права доступа</define-tag>
 <define-tag moreinfo>
 <p>mantis, web-ориентированная система отслеживания ошибок на основе

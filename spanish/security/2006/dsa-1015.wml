@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="842f44e93fa539a73fa7939d95f4da6587ef45a2" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Mark Dowd descubrió una debilidad en la gestión de señales asíncronas

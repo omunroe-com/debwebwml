@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="a280f1f7fd2de92aa4cb51e6541fc2b486d444bf" mindelta="1"
 <define-tag description>LTS-sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Når sudo er opsat til at tillade at en bruger redigerer filer under en mappe, 

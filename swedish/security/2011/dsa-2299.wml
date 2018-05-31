@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="9ce7c534d4a34537a2180a032d7d20f820ecdb92" mindelta="1"
 <define-tag description>komprometterad certifikatutfärdare</define-tag>
 <define-tag moreinfo>
 <p>En icke auktoriserat SSL-certifikat har upptäckts i det fria

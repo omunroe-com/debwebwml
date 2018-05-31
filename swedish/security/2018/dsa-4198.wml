@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="79b2d19b9b7be22b89d3d393e24a6fe1abc23f6f" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Albert Dengg upptäckte att felaktig tolkning av

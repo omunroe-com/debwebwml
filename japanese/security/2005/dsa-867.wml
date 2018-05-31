@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1f93df0fd3c41c553b94531dbec2bd78a3570ca8"
 <define-tag description>安全でない一時ファイル</define-tag>
 <define-tag moreinfo>
 <p>Eduard Bloch さんが、モジュールパッケージの作成を楽にするツール module-assistant

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c0eb2724a50391b6ee38e0568d7b4d8ee0235fb2" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Йорн Шнивайц обнаружил, что git, распределённая система управления

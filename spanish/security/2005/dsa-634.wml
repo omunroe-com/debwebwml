@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="0e248e3cc0255acdb2cac64b43e08665b631e6de" maintainer="juanma"
 <define-tag description>validación débil de nombre de máquina y de
 usuario</define-tag>
 <define-tag moreinfo>

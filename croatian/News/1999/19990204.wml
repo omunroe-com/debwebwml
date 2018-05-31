@@ -1,7 +1,7 @@
 <define-tag pagetitle>Natječaj za Debianov logo</define-tag>
 <define-tag release_date>1999-02-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="2f69850c1c2c60e25d1cb5010150adb956a52cc1"
 
 <p>Debian projekt traži novi logo. Trenutno Debian ima poluslužben logo koji
 se može vidjeti na &lt;<newsurldead "$(HOME)/logos/oldlogo.gif">&gt;.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="58da8a44b5513985c2c6f73c994d18480340333f" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В Mojolicious, инфраструктуре веб-приложений Perl, было обнаружено несколько

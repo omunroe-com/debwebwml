@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c22b8579d06c856c7d910f4993a6ef81d4584944" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Fabian Yamaguchi a découvert plusieurs vulnérabilités dans VLC, un lecteur

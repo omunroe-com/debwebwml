@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="c2a5035b44cfa7eae6bf8d60b4f49d5994077379"
 <define-tag moreinfo>
 La versión de curl distribuida con Debian GNU/Linux 2.2 tenía un error
 el el código de registro de errores: cuando creaba un mensaje de error

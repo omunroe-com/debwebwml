@@ -76,7 +76,7 @@ personer som kan hjälpa till att installera och demonstrera Debian på plats.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="3e6b7619089f17a8075c0af135baffef0d483336"
 #Related Links
 <ul>
   <li><A HREF="http://corvette.me.vt.edu/~vtlug/">VTLUG</A>

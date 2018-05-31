@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c7bd8940a6152cd703d0b682cef3f26876dbff71" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Sikkerhedskonsulenter hos NRI Secure Technologies opdagede en 

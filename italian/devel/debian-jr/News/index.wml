@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Cristian Rigamonti"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Cristian Rigamonti"
 #use wml::debian::template title="Latest News for Debian Jr."
 #use wml::debian::recent_list
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1af7779c296785520c81301bb1d4c6ef509b15c3"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Andrea Barisani さんにより、svgalib

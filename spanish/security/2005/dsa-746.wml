@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="cb2f5e57816102a710a9531570f81e67023f636e" maintainer="Juan M. Garcia"
 <define-tag description>error en la validación de la entrada</define-tag>
 <define-tag moreinfo>
 <p>Se ha identificado una vulnerabilidad en la biblioteca xmlrpc incluida

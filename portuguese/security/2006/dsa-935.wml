@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="cb65138f9c5b1da48a5192c3f10d2bf35e439d1d" maintainer="Marco Carvalho"
 <define-tag description>vulnerabilidade de formato de string</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE reportou uma vulnerabilidade de formato de string no mod_auth_pgsql,

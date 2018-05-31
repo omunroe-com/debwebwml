@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4dce4f5c77a1bcdf09f3cb3b15c8e603882f6416"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Jonathan Gray さんと Stanislaw Pitucha さんが、高速な

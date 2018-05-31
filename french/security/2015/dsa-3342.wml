@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="351953904ff7bbb2ca8dc322544fee5d1e2f62ed" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Loren Maggiore de <q>Trail of Bits</q> a découvert que l'analyseur 3GP

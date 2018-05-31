@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="6add43f21b16d584a1be74e3bfe55aa242cdd028" mindelta="1"
 <define-tag description>otillräcklig rengöring av indata</define-tag>
 <define-tag moreinfo>
 <p>Nicola Fioravanti upptäckte att F*X, en webbtjänst för överföring av

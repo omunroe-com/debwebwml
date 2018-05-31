@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="ec9f33957a305a72c02d84e7dbba8fbc16a62c56" maintainer="Juan M. Garcia"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Derek Noonburg ha corregido varias vulnerabilidades potenciales en xpdf, que

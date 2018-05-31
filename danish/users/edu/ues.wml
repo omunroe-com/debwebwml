@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.ues.edu.sv/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f0807d091ed4bf483d454211920483b57133919f"
 
 <p>
     Siden 2004-2005 har vi anvendt Debian. Vi har i øjeblikket 30 servere, der 

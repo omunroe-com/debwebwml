@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.sara.nl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c6e20b7c1e7d6c22fa4476bc1d65d311da78a6c4"
 
 <p>
   SARA er et af de mest avancerede data- og netværkscentre i Holland, som

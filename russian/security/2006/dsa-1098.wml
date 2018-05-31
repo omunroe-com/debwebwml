@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="895abda2291d2e9fab5973bc921fccaf2f2f1e09" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Михаэль Марек обнаружил, что инфраструктура веб-приложений Horde выполняет

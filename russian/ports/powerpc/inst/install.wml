@@ -1,6 +1,6 @@
 #use wml::debian::template title="Перенос на PowerPC -- Установка " NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/inst/menu.inc"
-#use wml::debian::translation-check translation="1.23" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="70cf45edbaeb4b8fc8f99d683f2f5c5c4435be92" maintainer="Lev Lamberov"
 
 <h2> Установка Debian GNU/Linux на машины PowerPC </h2>
 <p>

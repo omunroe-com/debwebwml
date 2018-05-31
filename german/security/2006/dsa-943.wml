@@ -20,6 +20,6 @@ Version 5.8.7-9 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-943.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="4816088dd00f6001dccb1bfab064b88b07e2b7c9" mindelta="1"
 # $Id$
 # Translator: Tobias Toedter 2006-01-28

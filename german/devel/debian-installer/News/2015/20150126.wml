@@ -1,6 +1,6 @@
 <define-tag pagetitle>Debian-Installer Jessie RC1-Veröffentlichung</define-tag>
 <define-tag release_date>2015-01-26</define-tag>
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="72054e441b6c0ba87adde711c05f78fc9eab5d70"
 # Translation: Holger Wansing <linux@wansing-online.de>, 2015
 #use wml::debian::news
 

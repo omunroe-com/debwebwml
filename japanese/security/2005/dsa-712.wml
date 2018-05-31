@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e6b0f874e568860ec7f8c1b72da189b1eba8e185"
 <define-tag description>ファイルの取り扱いが安全では無い</define-tag>
 <define-tag moreinfo>
 <p>Tim Dijkstra さんは、geneweb のアップグレードの際に問題を発見しました。

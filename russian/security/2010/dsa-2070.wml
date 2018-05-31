@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="be6f9fc87f76a961142ecf88f4c4ec31adad17c6" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Роберт Свики обнаружил несколько уязвимостей в библиотеке шрифтов

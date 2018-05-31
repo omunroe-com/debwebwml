@@ -1,7 +1,7 @@
 <define-tag pagetitle>Ajude a equipe do Instalador do Debian: teste a nova versão do instalador!</define-tag>
 <define-tag release_date>2012-08-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.8" maintainer="Marcelo Santana"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Marcelo Santana"
 
 <p>  
 A equipe do Instalador do Debian anunciou a primeira versão beta do

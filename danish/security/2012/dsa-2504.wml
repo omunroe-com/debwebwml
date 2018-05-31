@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="83923a54aeb3fbeae6a35a03afb80eee74a4abb2" mindelta="1"
 <define-tag description>informationsafsløring</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at Spring Framework indeholdt en 

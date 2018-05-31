@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-01" SUMMARY="Lançamento, Cluster, LinuxWorld, Hurd, Empacotamento, AMD64"
-#use wml::debian::translation-check translation="1.5" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo a nona edição deste ano da DWN, o periódico semanal para
 a comunidade Debian.  Harald Welte <a

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/NetBSD" BARETITLE="yes" NOHEADER="yes"
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.24" maintainer="Jordi Mallach"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Jordi Mallach"
 #include "$(ENGLISHDIR)/ports/netbsd/menu.inc"
 {#style#:
 <style type="text/css">

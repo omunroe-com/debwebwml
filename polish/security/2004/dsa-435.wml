@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer=""
+#use wml::debian::translation-check translation="15fd395f29730d842dc03f6a195f15b2163d0ab9" maintainer=""
 <define-tag description>przepełnienie sterty</define-tag>
 <define-tag moreinfo>
 <p>Odkryto naruszenie bezpieczeństwa w mpg123, odtwarzaczu plików mp3

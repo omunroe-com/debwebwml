@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c0dae2f7ed3fcb0438ece986b7058d99bf787d1d" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Дэн Розенберг обнаружил, что недостаточная проверка ввода в код обработки контейнеров

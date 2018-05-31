@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a5e18a1dcdbec32061c03af3cc38f72d37f55da9" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Daniel Genkin, Luke Valenta och Yuval Yarom upptäckte att Libgcrypt

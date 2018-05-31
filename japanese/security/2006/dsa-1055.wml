@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9220d14279d18808f80f20c7c46fa1e56b147033"
 <define-tag description>プログラム上の誤り</define-tag>
 <define-tag moreinfo>
 <p>Martijn Wargers さんと Nick Mott

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73" maintainer="Lev Lamberov"
 <define-tag moreinfo>Тод Миллер сообщил о новой версии sudo, в которой исправлено
 переполнения буфера, которое потенциально может использоваться для получения прав суперпользователя в
 локальной системе. Данное исправления sudo 1.6.3p6  доступно в пакете sudo 1.6.2p2-1potato1

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="463077fd27ece5cc31348879643324e68a3c8e73"
 <define-tag description>libc NLSPATH バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>最初の報告提出者: &lt;solar@ideal.ru&gt;</p>

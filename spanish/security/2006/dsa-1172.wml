@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="f2f04ad008e2a6b51ef3d87c858fcc346211d7e4" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto dos vulnerabilidades en BIND9, el servidor de

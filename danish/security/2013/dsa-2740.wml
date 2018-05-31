@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="29b02b42199757574b8261270eff22d3390eaa7a" mindelta="1"
 <define-tag description>sårbarhed i forbindelse med udførelse af skripter på tværs af servere</define-tag>
 <define-tag moreinfo>
 <p>Nick Brunn opdaterede en mulig sårbarhed i forbindelse med udførelse af 

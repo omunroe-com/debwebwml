@@ -16,4 +16,4 @@ udgået og dets brugere anbefales at anvende PyGopherd i stedet for.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-387.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d2338be941e3d4dc61d3c91deadc3192c3e3fe7c" mindelta="1"

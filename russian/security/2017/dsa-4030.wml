@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d05a3549d3e1c61b95f9f98d704ffc8e6345a28d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В roundcube, веб-решении для IMAP-серверов на основе AJAX с возможностью изменения темы

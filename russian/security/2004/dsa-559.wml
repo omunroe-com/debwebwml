@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="06a685cddde21348f32a23e53510e7a1c665c048"
 <define-tag description>небезопасный временный файл</define-tag>
 <define-tag moreinfo>
 <p>Стефан Нордхаузен (Stefan Nordhausen) идентифицировал проблему локальной

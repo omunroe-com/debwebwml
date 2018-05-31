@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0bd4e5a8622c5460949db49c45323687b17e7188"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>El Equipo de respuesta ante incidencias de seguridad de Citrix («Citrix Security Response Team») descubrió que corosync, una implementación de motor de cluster («cluster

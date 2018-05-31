@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="d02ac3f22e1a64f9294473524432f989b86c9166"
 <define-tag description>Symboliska länkar kan användas för att göra filer läsbara av alla användare</define-tag>
 <define-tag moreinfo>Vissa versioner av fönstersystemet X sätter
 <kbd>/tmp/.X11-unix</kbd> läsbar av alla,

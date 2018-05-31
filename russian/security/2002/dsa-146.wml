@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8b42e1150c36058439d0d39d8f62352b3d2ae990" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>В библиотеке RPC, используемой в dietlibc, варианте libc, оптимизированном с целью создания

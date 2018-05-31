@@ -3,7 +3,7 @@ publication pour Etch vont casser la plupart des images de la troisième version
 bêta</define-tag>
 <define-tag release_date>2006-10-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="d17587b4d021a8114ccad5db3e44d4fe063207d0" maintainer="Nicolas Bertolissio"
 
 <p>
 Les derniers préparatifs ont débuté pour la première version candidate à la

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="eb802383e972013e2be59e88e35cfa088968a164" mindelta="1"
 <define-tag description>utökning av privilegier för e-postanvändare</define-tag>
 <define-tag moreinfo>
 <p>

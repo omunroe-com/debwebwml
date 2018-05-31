@@ -17,5 +17,5 @@ Version 2.4.4rel-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1106.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="70c4ad816a89a9d7c207788f46a51733beabb5a8" mindelta="1"
 # $Id$

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c2f28352fb60c96010e0f3050bc2275af3f5cc13" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Andrea Barisani descubrió que xzgv, un visor de imágenes para X con un selector

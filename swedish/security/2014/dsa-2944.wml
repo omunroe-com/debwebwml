@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="8e049d6205dea058510f0647a20a4626c8ee87e5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Joonas Kuorilehto upptäckte att GNU TLS utförde otillräcklig

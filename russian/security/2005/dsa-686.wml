@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a65c974df05a01b50b3f633e22573b8acedeca32" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Альберт Пюгеч Галисиа обнаружил уязвимость, проявляющуюся в обходе каталога,

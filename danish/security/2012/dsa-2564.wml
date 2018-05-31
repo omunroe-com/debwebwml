@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a5fc65fb871e384c5b337ea200521bce46ef0b0e" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>gpernot opdagede, at Tinyproxy, en HTTP-proxy, var sårbar over for et 

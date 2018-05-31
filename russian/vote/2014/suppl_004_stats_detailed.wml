@@ -1,6 +1,6 @@
 #use wml::debian::template title="Общее решение: Ограничение срока службы членов Технического комитета" BARETITLE="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="445232cc5c67ab212737516f736d8b4bc64f64e1" maintainer="Lev Lamberov"
 
 
     <table width="90%">

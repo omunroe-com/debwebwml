@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-12" SUMMARY="LSB, GCC, Berater, Ada, Übergang, Abhängigkeiten, Archiv, Dokumentation"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 # $Id$
 
 <p>Willkommen zur 28. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

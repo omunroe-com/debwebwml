@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="67fefa79302e52056dbe18ab7dea358349195825" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En fejl blev opdaget i mediawiki, en wikimotor: Forvrænging tværdomænereglen 

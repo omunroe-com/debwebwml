@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="f98d4020b6fc6e8defa7aa4a780c4cab5f339e0f" maintainer="Thomas Vincent"
 <define-tag description>Conflit d'interprétation</define-tag>
 <define-tag moreinfo>
 <p>PHP, un langage de script généraliste couramment utilisé pour le

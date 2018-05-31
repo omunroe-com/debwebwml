@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="cacceb12dcc3ba7016137ad10b1681dfc45b01cd" maintainer="Juan M. Garcia"
 <define-tag description>creación insegura de archivo temporal</define-tag>
 <define-tag moreinfo>
 <p>Eric Romang descubrió que gtkdiskfree, un programa de GNOME que

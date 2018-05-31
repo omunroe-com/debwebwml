@@ -26,4 +26,4 @@ alpha-arkitekturerne, og i version 3.0-23 (woody) kun på i386-arkitekturen.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-310.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fd613688ef24df0ee5d84a77bc6a77a3638482bc"

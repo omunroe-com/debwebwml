@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f96c0dbcb88015e3ff2ff19a307cce9277370691" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Charles Duffy opdagede at klassen Commandline i værktøjerne til 

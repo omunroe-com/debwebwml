@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240"
 <define-tag moreinfo>
 Un aviso liberado por Core-SDI indica que una combinación de errores en ssh y
 la biblioteca rsaref2 pueden ser explotados para ganar acceso remoto a la

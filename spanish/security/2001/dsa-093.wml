@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="672cac75afd4600367a37deed4d04012c757a8b2"
 <define-tag description>DdS remoto</define-tag>
 <define-tag moreinfo>
 Wietse Venema informó que encontró una vulnerabilidad de denegación de

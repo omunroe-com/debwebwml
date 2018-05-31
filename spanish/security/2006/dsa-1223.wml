@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="fac6b8b2be0776f0d517928e7c45bb6d94aed294" maintainer="Juan M. Garcia"
 <define-tag description>error de validación de la entrada</define-tag>
 <define-tag moreinfo>
 <p>Teemu Salmela descubrió una vulnerabilidad en GNU tar que podía permitir

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="da604a40d69e488704fed886ff3118ea46733b41" mindelta="1"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Irssi, IRC-клиенте для терминала, были обнаружены многочисленные уязвимости,

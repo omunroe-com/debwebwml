@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Jean-Edouard Babin"
 
 <define-tag pagetitle>Mise à jour de Debian GNU/Linux 4.0</define-tag>
 <define-tag release_date>2008-12-18</define-tag>

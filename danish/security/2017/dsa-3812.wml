@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cc2d55e7ed75272c54c04d052b277129e0b55e79" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at ioquake3, en ændret udgave af spilmotoren ioQuake3, udførte 

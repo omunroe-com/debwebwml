@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian aus dem Internet holen" BARETITLE=true
-#use wml::debian::translation-check translation="1.32"
+#use wml::debian::translation-check translation="9bc7028aecff09464573558f6c4618c566a3d84b"
 # $Id$
 
 <P>Debian ist im Internet zum Download verfügbar.</p>

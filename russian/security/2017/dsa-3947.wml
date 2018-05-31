@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="03d084811ceb494d7c950d1a653b54e1e28ef0b1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Jeriko One обнаружил, что newsbeuter, текстовая программа для просмотра RSS,

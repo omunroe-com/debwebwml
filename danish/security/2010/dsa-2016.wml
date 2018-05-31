@@ -43,4 +43,4 @@ version 6.16-1, og vil snart blive overført til distributionen testing
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2016.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="acc32211ad0ee4813745fc98bba7daa0befd9e8d" mindelta="1"

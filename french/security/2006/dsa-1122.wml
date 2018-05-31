@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="164a6a38f1a152566ad8172ac34d33995a5dfcfa" maintainer="Simon Paillard"
 <define-tag description>Chaîne de formatage</define-tag>
 <define-tag moreinfo>
 <p>Peter Bieringer a découvert que la fonction de journalisation du module Perl

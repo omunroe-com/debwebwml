@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="bf0b010c2d9fdaf138b33c7cb8c8cb03f22ba0ab" maintainer="juanma"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron varias vulnerabilidades de denegación de servicio

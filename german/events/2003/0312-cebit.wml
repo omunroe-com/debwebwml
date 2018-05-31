@@ -32,7 +32,7 @@ halten.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="5e446b5a4f29264e725120ea97733728f1b8de1b"
 # $Id$
 #Related Links here (free form)
 <ul>

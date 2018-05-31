@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c9c6c0d2be0a5b7f5eeeaa333686bc7347a4cd35" mindelta="1"
 <define-tag description>läser utanför bufferten</define-tag>
 <define-tag moreinfo>
 <p>

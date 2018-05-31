@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Linux CD zadarmo" NOHEADER=true BARETITLE=true
-#use wml::debian::translation-check translation="1.1" maintainer="Stanislav Valasek"
+#use wml::debian::translation-check translation="4dc6aa7c1925469f923a41d0b3ac63f8b2d27ee2" maintainer="Stanislav Valasek"
 #use wml::debian::toc
 
 # Translators, I would not bother translating this file. Its sole

@@ -24,4 +24,4 @@ version 3.7-6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1026.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b24431ababc4fc9b7e3e2dd318ba982706802266" mindelta="1"

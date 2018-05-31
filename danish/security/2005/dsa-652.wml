@@ -34,4 +34,4 @@ unstable/non-free ikke indeholder unarj-pakken.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-652.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dec8be4144e85848ed052e0b195dc0e53a1ef727" mindelta="1"

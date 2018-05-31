@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ba4d2f3021be8896c96b311ae1cfcb9a81b4e3eb" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В пакетах xmltooling, используемых Shibboleth, было обнаружено

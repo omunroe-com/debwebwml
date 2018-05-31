@@ -3,7 +3,7 @@
 <define-tag pagetitle>Universitet i Valencia, Spanien - Instituttet for robotforskning</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="19967b4c9aa3da955f49ef99ac0a9d117606c8a4"
 
 <p>
   På Universitet i Valencia (Spanien) anvendes Debian "etch" som

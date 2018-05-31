@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian på arabisk"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="beba513cc61cb417f11c06a7edb49ee6e566d791"
 
 <ul>
   <li>Der arbejdes på at føje understøttelse af arabisk til Debian, særligt

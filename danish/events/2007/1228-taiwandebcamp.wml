@@ -46,7 +46,7 @@ Walis Buya(&#29926;&#27511;&#26031;&#65294;&#28006;&#20126;) vil deltage.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 #Related Links here (free form)
 <ul>
  <li><a href='https://wiki.debian.org.tw'>Taiwan Debian User Group</a></li>

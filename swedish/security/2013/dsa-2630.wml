@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0df7ab72a9f485ce1c0b6619e4a9af941d3b18aa" mindelta="1"
 <define-tag description>programmeringsfel</define-tag>
 <define-tag moreinfo>
 <p>Sumit Soni upptäckte att PostgreSQL, en objektrelationsdatabas,

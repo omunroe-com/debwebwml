@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="11cad26c4a1ad9e81e2a4497866e4a044fbb9c03" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Jakob Balle descubrió una vulnerabilidad en la gestión de adjuntos

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f041d85204cbc2bc95ab3ecb471f98ade2d7e72c" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Gustavo Grieco upptäckte en sårbarhet rörande användning efter frigörning

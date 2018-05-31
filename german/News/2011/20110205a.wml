@@ -1,7 +1,7 @@
 # The content of this announcement has been frozen
 # please refrain from changing it, but feel free to fix gramar / typoes /
 # style (if not intrusive)
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7"
 # Translated: Holger Wansing <linux@wansing-online.de>, 2011
 
 <define-tag pagetitle>Debian 6.0 <q>Squeeze</q> veröffentlicht</define-tag>

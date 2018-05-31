@@ -14,4 +14,4 @@ mit einer nicht standardmäßigen Konfiguration auftreten.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1521.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="58bc02c898a6df1e4cb6eba970a95c277d81dc4c"

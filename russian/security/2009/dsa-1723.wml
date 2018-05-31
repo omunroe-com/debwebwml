@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c8e308c0d709e2099924234284c26672935455e5" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Майкл Брукс обнаружил, что phpMyAdmin, инструмент для администрирования MySQL

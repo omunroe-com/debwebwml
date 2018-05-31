@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="3849e632e159ad71ff33e9ac7435af4ecd8bbffc" maintainer="Thomas Vincent"
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>
 <p>Aki Helin d'OUSPG a découvert de nombreux problèmes de lecture hors limites

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Projeto Debian Jr."
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.54" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="3e562153a22522109efbb70c616b0f2f6246fcb3" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <H2>Debian para crianças de 1 a 99</H2>
 

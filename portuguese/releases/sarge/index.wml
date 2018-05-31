@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/sarge/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.31" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="0a158377b74b807d40736c5de7ac54c071d55714" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>O Debian GNU/Linux 3.1 (a.k.a. <em>sarge</em>) foi
 lançado dia 06 de junho de 2005. A nova versão inclui muitas 

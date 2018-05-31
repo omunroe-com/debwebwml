@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Yannick Roehlly"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Yannick Roehlly"
 <define-tag pagetitle>(Pré)-Annonce d'une variante de Debian destinée aux organisations sans but lucratif</define-tag>
 <define-tag release_date>2003-07-04</define-tag>
 #use wml::debian::news

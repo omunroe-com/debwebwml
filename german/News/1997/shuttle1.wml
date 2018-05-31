@@ -1,7 +1,7 @@
 <define-tag pagetitle>Neues Computer-Betriebssystem fährt auf dem Space Shuttle mit</define-tag>
 <define-tag release_date>1997-04-01</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # Translator: Helge Kreutzmann <debian@helgefjell.de>, 2006-09-10
 # $Id$
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ce28f9a2534cfcb23d5232d0487cc6f04d7f3f0f"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が、メールサーバと協調して添付ファイルのスキャンを行うように設計された

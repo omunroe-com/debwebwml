@@ -1,6 +1,6 @@
 #use wml::debian::template title="데비안 9 -- 정오표" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.9" maintainer="Sebul"
+#use wml::debian::translation-check translation="7f910d78f53ef9502f748a4f6e7e16f68f71c2ed" maintainer="Sebul"
 
 #include "$(ENGLISHDIR)/releases/info"
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Cyril Brulebois"
+#use wml::debian::translation-check translation="6a24e781e566e910efff6acc9e8d7b1f587a236d" maintainer="Cyril Brulebois"
 <define-tag abbr>DebConf5</define-tag>
 <define-tag year>2005</define-tag>
 <define-tag pagetitle>Conférence Debian</define-tag>

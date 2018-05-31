@@ -6,7 +6,7 @@
 
 <define-tag release_date>2016-07-09</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Paulo Henrique de Lima Santana (phls)"
+#use wml::debian::translation-check translation="c9c0b35ea350445ddeb76c0f8b58d810380ae4ab" maintainer="Paulo Henrique de Lima Santana (phls)"
 
 <p>
 Hoje, sábado, 09 de julho de 2016, a Conferência Anual 

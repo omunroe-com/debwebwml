@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fb8c5c0febe487845569f85d6ea775ac38818e38" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Frediano Ziglio upptäckte ett buffertspill i spice, ett klient- och

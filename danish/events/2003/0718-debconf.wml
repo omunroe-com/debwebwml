@@ -25,7 +25,7 @@ arkitekturer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="ac9b569906cd99349198e6a3529a7502efd82671"
 #Related Links here (free form)
 <ul>
  <li><a href="0718-debconf-report">Rapport</a></li>

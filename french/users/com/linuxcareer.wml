@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.linuxcareer.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="b87903b6e472ec1425edaa9a7523d5e524624084" maintainer="Baptiste Jammet"
 
 <p>
     Que ce soit nos stations de travail ou nos serveurs, nous ne fonctionnons qu'avec

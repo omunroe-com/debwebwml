@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2017-11-09" SUMMARY="데비안 9 업데이트: 9.2 나옴, OpenSSL 1.0 및 Qt4가 Buster에서 빠짐, FTP 서비스 끝, DebConf 메일링리스트 를 lists.debian.org 로 옮김, MiniDebConf in Cuba, 외부 뉴스: Reproducible Builds Summit 2017, GitLab 에서 DCO 로 바뀜, 데비안 소셜 미디어로부터의 빠른 링크"
-#use wml::debian::translation-check translation="1.4" maintainer="Sebul"
+#use wml::debian::translation-check translation="f483023f65e4e02fe6ecf0e2bf5954aca7a17e54" maintainer="Sebul"
 
 # $ Id : index.wml, v 1.4 2017/11/11 10:04:55 holgerw Exp $
 # $Rev$

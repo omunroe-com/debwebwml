@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b864ddb3883b24e3f16bffa284c09ac4113bae15"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Andreas Seltenreich さんにより、ハッシュ計算法を用いた電子メールの郵便料金支払い手法 hashcash

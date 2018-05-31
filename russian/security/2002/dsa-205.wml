@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2261cd325d9f26ff6d8b3bf65e48ac8493b73716"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Стив Кемп (Steve Kemp) и Джеймс Антилл (James Antill) обнаружили

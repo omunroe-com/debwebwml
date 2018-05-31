@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="50dcc63d4c73a8c154f16df5f382af1428cc806d" maintainer="Lev Lamberov"
 <define-tag description>подделка межсайтового запроса</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что ikiwiki, реализация Wiki, не защищает

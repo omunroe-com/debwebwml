@@ -1,7 +1,7 @@
 <define-tag pagetitle>Opdateret Debian 7: 7.7 udgivet</define-tag>
 <define-tag release_date>2014-10-18</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8656611c0ec97bc22445bbab6e9b240772c6cd6e"
 # $Id:
 
 <define-tag release>7</define-tag>

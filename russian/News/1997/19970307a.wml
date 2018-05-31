@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="598c30129dff8e065339ea3cd6e03d086b42e3d4" maintainer="Lev Lamberov"
 <define-tag pagetitle>Изменения в управлении Проектом Debian</define-tag>
 <define-tag release_date>1997-03-07</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9"
 <define-tag moreinfo>Nos han informado de que las versiones anteriores de
 libtermcap contenía un desbordamiento de búfer explotable.  Debian por sí
 misma no es explotable por este bug ya que se abandonó en favor de terminfo

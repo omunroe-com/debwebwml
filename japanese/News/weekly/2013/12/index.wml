@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-06-10" SUMMARY="Debian は GSoC の学生を歓迎します、OPW 実験の結果、DPL からの一言、debian-multimedia.org が期限切れになりました"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="7b03bd081c95cb0fe0996febbd8d40941d05e054"
 
 # $Rev: 5059 $
 # Status: [frozen]

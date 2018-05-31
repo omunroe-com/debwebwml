@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ee863f5e660da19991a12f139465b06f6af580fb" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Тобиас Кляйн обнаружил, что переполнение целых чисел в коде мультимедиа

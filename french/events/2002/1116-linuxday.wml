@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="2b2dc9660b622bf902a3f7fa71818ca6f6dc3f58" maintainer="Nicolas Bertolissio"
 <define-tag abbr>Linuxday</define-tag>
 <define-tag year>2003</define-tag>
 <define-tag pagetitle>LinuxDay 2002</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="fdd54e8982faf6aea51cfe06772200d65b10cad5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Mancha upptäckte en sårbarhet i rsyslog, ett system för loggbehandling.

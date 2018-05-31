@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4f2a4678d1f7446ddbbe6cc9cbb075c38942c7f5"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Michael Meffie さんが OpenAFS、分散ファイルシステムに発見されました。

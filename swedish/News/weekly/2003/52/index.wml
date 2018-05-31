@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-30" SUMMARY="Sammanfattning, testningsutgåvan, non-free, installationsprogrammet, APT, Perl"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 
 <p>Välkommen till årets 52:a utgåva av DWN, veckonyhetsbrevet för Debianfolk.
 LinuxCertified

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-01-28" SUMMARY="NetInst, x86-64, DPL Election, PTS, Debian-Edu, Interest, Quality, Award, LWCE, DFSG"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07"
 
 <p>Witamy w czwartym w tym roku numerze DWN, tygodniku dla osób zainteresowanych
 i związanych z Debianem. Netcraft niedawno dodał <a

@@ -1,7 +1,7 @@
 <define-tag pagetitle>France Telecom verwendet Debian</define-tag>
 <define-tag release_date>1999-09-17</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="0956d9b2525d37c9f896cfc2107fe0af92325e96"
 # Translator: Helge Kreutzmann <kreutzm@itp.uni-hannover.de>, 2005-12-17
 # $Id$
 

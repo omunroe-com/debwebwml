@@ -18,4 +18,4 @@ version 2.8.2-1.2sarge3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-974.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="40d6c8b7bbb487cf736a0e2d9074fd23af15d0ef" mindelta="1"

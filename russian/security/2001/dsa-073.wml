@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9a99575c062127918f3281c8b6dae250900185a5" maintainer="Lev Lamberov"
 <define-tag description>три удалённых уязвимости</define-tag>
 <define-tag moreinfo>
 Команда Horde выпустила версию 2.2.6 IMP (почтовой веб-программы на основе

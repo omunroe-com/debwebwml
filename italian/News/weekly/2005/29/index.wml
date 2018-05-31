@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-19" SUMMARY="CD/DVD, Hurd, C++ ABI, Team di rilascio, BTS, QA, Stampa, SSH"
-#use wml::debian::translation-check translation="1.12" maintainer=Daniele Venzano"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776" maintainer=Daniele Venzano"
 
 <p>Benvenuti al ventinovesimo numero di quest'anno di DWN, il notiziario 
 settimanale per la comunità Debian. Quando uscirà questo numero la <a

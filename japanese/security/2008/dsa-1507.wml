@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="21e6cd386e3a3983f6d7e7344070d636f590fafe"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>Peter Paul Elfferich さんにより、horde フレームワークの面会予約コンポーネ

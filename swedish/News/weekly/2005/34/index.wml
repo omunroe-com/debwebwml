@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-08-23" SUMMARY="Installation, kärna, licens, LSB, arkiv, beroenden, konferens, fel, paketering, LDAP"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>Välkommen till årets 34:e utgåva av DWN, veckonyhetsbrevet för Debianfolk.
 Debians projektledare har

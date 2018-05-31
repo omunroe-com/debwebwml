@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Luca Monducci"
 <define-tag pagetitle>Debian partecipa al &ldquo;Summer of Code 2008&rdquo; di Google</define-tag>
 <define-tag release_date>2008-04-27</define-tag>
 #use wml::debian::news

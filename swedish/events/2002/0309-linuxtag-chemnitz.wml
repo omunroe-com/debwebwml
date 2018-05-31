@@ -19,7 +19,7 @@ Bramer och Henning Heinold.
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="e5c3f254bd47859e66326dfa75a978ebe5b2b0ba"
 <ul>
   <li><a href="http://www.tu-chemnitz.de/linux/tag/">Fjärde Chemnitz-Linuxdagen</a><br>
   <li><a href="http://www.infodrom.org/Debian/events/CLT4/">Samordning</a><br>

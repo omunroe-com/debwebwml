@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-23" SUMMARY="CD, Skolelinux, DPL, XFree86, RPMseek, Noyau"
-#use wml::debian::translation-check translation="1.14" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 38e&nbsp;<i>DWN</i> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. Puisque depuis

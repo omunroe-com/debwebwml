@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.startsiden.no/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="46436f34130a6e842f16216bbe89b4a936e6a2cb"
 
 <p>
     Debian driver pt. alle vores eksterne og nogle interne servere, spændende 

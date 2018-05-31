@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="67e3c544e1bb84dde21f4fe2da0c2c6cdedfa255" mindelta="1"
 <define-tag description>saknad rengörning av indata</define-tag>
 <define-tag moreinfo>
 <p>Tim Starling upptäckte att den Debian-hemmahörande CGI-wrappern för

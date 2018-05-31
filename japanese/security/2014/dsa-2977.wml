@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7aef9de36727d7d631ac77d19f683272593d2dec"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Don A. Baley さんが lzo 圧縮ハンドラに整数オーバーフローを発見しています。

@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.uni-kassel.de/go/mrt</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="88c201a1b6a56bf80889bb84c7603d67b8803483"
 
 <p>
     Vi anvender Debian/squeeze til vores firewall/pakkefilter, vores 

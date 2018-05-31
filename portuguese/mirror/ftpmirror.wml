@@ -2,7 +2,7 @@
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/sid/archive.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.74" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <toc-display />
 

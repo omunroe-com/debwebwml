@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a7b9812e9ac869a3471afcd13b5e6c3f2b1c902b"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>Isaac Wilcox さんが、人気のあるメール取得および転送ユーティリティ

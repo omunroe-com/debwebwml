@@ -5,7 +5,7 @@
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-#use wml::debian::translation-check translation="1.85" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="134c799c2f934b5ca7ed7cfb8842c0471814d549" maintainer="Jean-Paul Guillonneau"
 # Translators:
 # Willy Picard, 2002-2004.
 # Philippe Bataille, 2002.

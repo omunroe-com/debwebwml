@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="956e4d593026c81577427b835d4ff87ee74b595d" mindelta="1"
 <define-tag description>saknad kontroll av indata</define-tag>
 <define-tag moreinfo>
 <p>

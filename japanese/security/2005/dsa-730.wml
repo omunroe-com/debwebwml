@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="aec8dd4d0fb2ab62f161709b53fef1fae02d1977"
 <define-tag description>競合条件</define-tag>
 <define-tag moreinfo>
 <p>Imran Ghory さんが、ブロックソートを使った高品質なファイル圧縮伸張プログラム

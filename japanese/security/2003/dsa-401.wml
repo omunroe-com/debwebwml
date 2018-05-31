@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="98017460c9492e85efa3e634602b65182ceba72c"
 <define-tag description>フォーマット文字列</define-tag>
 <define-tag moreinfo>
 <p>The SuSE Security Team により、柔軟性に富んだクライアント/サーバ FAX

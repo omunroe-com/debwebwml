@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="5bc1c6de95b4f4154c74fcab63dfe0dbdada5af1" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>Nick Wellnhofer 는 XPath 술부 안의 어떤 함수 호출이 

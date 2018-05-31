@@ -17,4 +17,4 @@ bruger, der kører sup.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-353.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b3f0e3390b289d7aad95d9ada7a059018ebf70cb"

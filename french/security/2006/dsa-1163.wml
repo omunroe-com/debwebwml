@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="9e310b1164a8be5e10b0d5d4bedd0e22b9ee4f69" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Michael Gehring a découvert plusieurs accès potentiels au-delà des limites

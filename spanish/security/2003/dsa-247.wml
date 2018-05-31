@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b220fd30b00329f5d913f4e573261bff12f24c96"
 <define-tag description>saneamiento de entrada incorrecto</define-tag>
 <define-tag moreinfo>
 <p>Los desarrolladores de courier, un servidor de correo del lado del

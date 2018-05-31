@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="1e20f57ad1f3bcc6113c689183fd14eb4f687a14" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>Un bogue a été découvert dans gallery donnant à tous les utilisateurs

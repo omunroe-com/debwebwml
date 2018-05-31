@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bbb6fd138b9a23cd97d648dbd406c02452c4696a" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что squid3, высокопроизводительный кэширующий прокси-сервер для

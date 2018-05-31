@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="36cf7de56713c5101e60ee8a34e607ebf01286ef" maintainer="Pierre Machard"
 <define-tag description>Exploitation locale du <i>root</i></define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE <a href="http://www.idefense.com/advisory/11.06.02.txt">\

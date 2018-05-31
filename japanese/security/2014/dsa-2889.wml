@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c27adc8f33a24f7fdf912db35a969641730e3935"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>SQL インジェクション脆弱性が postfixadmin、Postfix

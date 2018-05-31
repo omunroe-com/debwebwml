@@ -33,4 +33,4 @@ zu erlauben, geheime Schlüssel zu importieren: --allow-key-import.
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2000/20001225b.data'
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="638ee10e8a5b6508526f43628582776c6888d874"

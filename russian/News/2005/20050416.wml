@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 <define-tag pagetitle>Новая редакция Debian GNU/Linux 3.0 (r5)</define-tag>
 <define-tag release_date>2005-04-16</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Johan Haggi"
+#use wml::debian::translation-check translation="67a7aaca3dff1f0259760b607eb2183390aa4e8c" maintainer="Johan Haggi"
 <define-tag pagetitle>Debian-NP alla Summer Source Conference in Croazia</define-tag>
 <define-tag release_date>2003-09-10</define-tag>
 #use wml::debian::news

@@ -1,7 +1,7 @@
 #use wml::debian::template title="Список того, что нужно сделать для веб-сайта Debian" BARETITLE=true
 #use wml::debian::common_tags
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.86" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fec8d607f478cb64b87fed6cb217d4621db3f8fa" maintainer="Lev Lamberov"
 
 # Note to translators: there should be no need to translate this file,
 # unless you're some sort of masochistic psycho :)

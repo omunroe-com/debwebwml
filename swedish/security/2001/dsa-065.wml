@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="36eea2b986041ec2e2e2462d7f7d216e793ec6eb" mindelta="1"
 <define-tag description>fjärrfilutökning/-skapande</define-tag>
 <define-tag moreinfo>
 Michal Zalewski upptäckte att Samba inte korrekt kontrollerar NetBIOS-namn

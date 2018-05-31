@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="1dc9c4eafc8c4f6356ae08e1f599af20dfd5bf71" maintainer="David Prévot"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>

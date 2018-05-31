@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="14594dbfe6ae94ab00be588b6b5f1fd7f1f54143" maintainer="juanma"
 <define-tag description>denegación de servicio</define-tag>
 <define-tag moreinfo>
 <p>Alvaro Martinez Echevarria descubrió un problema en CUPS, el

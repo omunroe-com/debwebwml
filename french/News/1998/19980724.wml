@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.18" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Frédéric Bothamy"
 #Initial translator: Willy Picard
 <define-tag pagetitle>Publication de Debian GNU/Linux 2.0 «&nbsp;Hamm&nbsp;»</define-tag>
 <define-tag release_date>1998-07-24</define-tag>

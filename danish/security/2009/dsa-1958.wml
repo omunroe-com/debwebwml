@@ -19,4 +19,4 @@ er dette problem rettet i 2.2.6b-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1958.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d0fdcb5cd8c336ee499487ea8578d46b6b597bc8" mindelta="1"

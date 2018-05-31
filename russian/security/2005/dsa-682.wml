@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2c9f8dd32462c863f89af7c5c71f6b3790608994" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>В дополнение к <a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-0116">CAN-2005-0116</a> были обнаружены ещё уязвимости в

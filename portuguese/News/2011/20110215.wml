@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian volatile substituído por novo conjunto de atualizações</define-tag>
 <define-tag release_date>2011-02-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Marcelo Santana"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Marcelo Santana"
 
 <p>O repositório Debian Volatile está descontinuado a partir da chegada da
 versão 6.0 do Debian (<q>Squeeze</q>). Ele está sendo substituído pelo

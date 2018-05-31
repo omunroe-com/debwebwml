@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="18688e839438dad87da9f5e4f4a25d23f19a9954" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere problemer blev opdaget i libytnef, et bibliotek der anvendes til at 

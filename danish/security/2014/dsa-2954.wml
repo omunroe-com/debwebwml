@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0d62d72b836bed87ab94bc478cb8f5df35974856" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at mailserveren Dovecot var sårbar over for et lammelsesangreb 

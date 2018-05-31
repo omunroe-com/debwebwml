@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-08-16" SUMMARY="Testing, Kernel, Bug, AMD64, Espulsione, Finanziamenti, Donne, Incontri, NEW, Gutenprint"
-#use wml::debian::translation-check translation="1.7" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Daniele Venzano"
 
 <p>Benvenuti a questo trentatreesimo numero dell'anno in corso di DWN, il 
 notiziario settimanale per la comunità Debian. Oggi è il dodicesimo compleanno 

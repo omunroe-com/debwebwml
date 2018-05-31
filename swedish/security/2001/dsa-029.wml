@@ -29,4 +29,4 @@ omedelbart.</define-tag>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/2001/dsa-029.data'
-#use wml::debian::translation-check translation="1.4" mindelta="1"
+#use wml::debian::translation-check translation="c371429c7a2c0e812d09977961ce80d0838cc8ef" mindelta="1"

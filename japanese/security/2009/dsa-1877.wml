@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="360b91beb591734dc32402c7e23c14f66dd1ef82"
 <define-tag description>サービス拒否攻撃/任意のコードの実行</define-tag>
 <define-tag moreinfo>
 <p>MySQL の 4.0.0 から 5.0.83 には、mysqld の libmysqld/sql_parse.cc の

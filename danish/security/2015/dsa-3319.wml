@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9fcb0932f522538a1be28e7f025b40ab110f6793" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jonathan Foote opdagede at BIND DNS-serveren ikke på korrekt vis håndterede

@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Computer Problem"
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ab44d17d91bb4d671fe7be6e9d0233d23af8abee" maintainer="Lev Lamberov"
 
 <p>
 Мы выполняем много работы с Asterisks, Samba, Apache, FTP, Email,

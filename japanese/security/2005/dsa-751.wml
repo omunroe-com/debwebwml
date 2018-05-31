@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8045e409cf0d984e0830131382e10936d4c4da8d"
 <define-tag description>IP 偽装</define-tag>
 <define-tag moreinfo>
 <p>上流の開発者が人気のあるウェブプロキシキャッシュ Squid の

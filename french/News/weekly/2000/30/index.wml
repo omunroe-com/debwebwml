@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2000-9-19" SUMMARY="Élaboration d'un nouvel installateur Debian, améliorations d'apt, corrections de sécurité pour 2.1 bientôt clôturées"
-#use wml::debian::translation-check translation="1.15" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Thomas Huriaux"
 
 <p>Nous avons le plaisir de vous présenter la 30e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian.</p>

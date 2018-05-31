@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4deaea8ab71127b2b49d892404d43c45db20f692"
 <define-tag description>varias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Jacub Jelinek descubrió varias vulnerabilidades en Midnight

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-05-29" SUMMARY="Surveillance de la bande passante, Configuration d'Apt, WineX, Prospectus"
-#use wml::debian::translation-check translation="1.13" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Pierre Machard"
 
 <p>Bienvenue pour la vingt-deuxième publication de la <i>DWN</i> de l'année,
 la lettre d'information hebdomadaire pour la communauté Debian. Nous sommes

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-05-03" SUMMARY="Leadership, PHP, Release, Admin, DebConf, Scheme, BSP, Wep Applications"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="29fcd200d6f21585d73e0e7d5c4755438f14a656"
 
 <p>Benvenuti a questo diciottesimo numero di DWN, il bollettino settimanale per 
 la comunità Debian. Come esempio di funzionamento della coda testing, il primo pacchetto 

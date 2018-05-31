@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="842ccedd0008fa7a919921795bdd9c312f89c212" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Brian Carpenter, Geeknik Labs og 0xd34db347 opdagede at cURL, et 

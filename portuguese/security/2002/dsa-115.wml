@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="765f538c8153ec02bfed3f807356ba2e7b4eb854" translation_maintainer="Michelle Ribeiro"
 <define-tag description>checagem de limite quebrada e mais</define-tag>
 <define-tag moreinfo>
 <p>Stefan Esser, que também é um membro do time PHP, encontrou uma  

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="584faa2a3070dfb30c55f7f325441f91037b79a1" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Питер Врегденхил обнаружил, что awstats, полнофункиональный анализатор журнала

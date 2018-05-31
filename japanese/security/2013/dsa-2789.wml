@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6fc9c5965a68ed19091dec075678aa92d76743f2"
 <define-tag description>サービス拒否及び認証の迂回</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が strongSwan、IPsec により保護されたリンクを確立する

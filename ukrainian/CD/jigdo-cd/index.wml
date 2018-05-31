@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Завантаження образів компакт-дисків Debian за допомогою jigdo" BARETITLE=true
-#use wml::debian::translation-check translation="1.79" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="50e08a0a9711fff76d977fcb3d80e8d02785fc4b" maintainer="Borys Yanovych"
 #use wml::debian::toc
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/info"

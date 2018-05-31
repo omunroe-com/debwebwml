@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="32b04531ff13483dee044acff87f094caa4cac3e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Михаэль Эдер и Томас Киттель обнаружили, что Heimdal, реализация

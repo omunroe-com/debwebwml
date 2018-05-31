@@ -1,5 +1,5 @@
 #use wml::debian::template title="Eventi più importanti legati a Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.43" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="ffee6a44844c148ec5da04451b5e38a9b17ac341" maintainer="Giuseppe Sacco"
 
 <p>Questa pagina contiene un elenco di avvenimenti inerenti la comunità, che
 prevedono la partecipazione di Debian.</p>

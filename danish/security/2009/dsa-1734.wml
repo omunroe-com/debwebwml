@@ -22,4 +22,4 @@ data-objekter gemt på dine smart card.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1734.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b9a9eec77394c4d79d827b9f35ea4d5f9a5643a6" mindelta="1"

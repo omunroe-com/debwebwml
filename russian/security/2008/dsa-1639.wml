@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="154bf0e2946d56fb2e5f4bb0a6daa63f0752f614" maintainer="Lev Lamberov"
 <define-tag description>выполнение команды</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что twiki, платформа для совместной работы на базе веб,

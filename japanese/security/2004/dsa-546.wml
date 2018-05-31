@@ -32,7 +32,7 @@ Gtk+1.2 用の Gdk-pixbuf は外部パッケージです。Gtk+2.0 では、Gdk-
 <p>直ちに gdk-pixbuf パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0681ba88124b449d4e1615f403a1d9c05e26a800"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-546.data"
 # $Id$

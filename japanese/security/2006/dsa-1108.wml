@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="076556af2ddd82711181a480d385bcfc02a804bf"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>mutt メールリーダが、IMAP

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7aef9de36727d7d631ac77d19f683272593d2dec" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Дон Бэйли обнаружил переполнение целых чисел в обработчике сжатия lzo,

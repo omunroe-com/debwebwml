@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="494dbe8f269595f7acb06aeded752a47fa9a9d35" maintainer="Lev Lamberov"
 <define-tag description>состояние гонки</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что состояние гонки в сценарии init.d для работы сервера

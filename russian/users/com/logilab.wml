@@ -1,6 +1,6 @@
 # From: Nicolas Chauvat <nicolas.chauvat@logilab.fr>
 # Current as of: 11/17/2014 - 2014 Who Audit
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="28c8b9bda237665c8af8e024c28640360defdbf2" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Logilab, Париж, Франция</define-tag>
 <define-tag webpage>http://www.logilab.fr/</define-tag>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6f1cc87e85bbb35c215306cf9d79a275d8073f59"
 <define-tag description>安全でないモジュールのサーチパス</define-tag>
 <define-tag moreinfo>
 

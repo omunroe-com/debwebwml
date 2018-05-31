@@ -1,6 +1,6 @@
 #use wml::debian::template title="Проект з перекладу описів пакунків Debian — DDTP"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.21" maintainer="Andrey Golovin"
+#use wml::debian::translation-check translation="ec96a0bc6bd9a925a5253675a502b32dba0eff27" maintainer="Andrey Golovin"
 
 
 <p>

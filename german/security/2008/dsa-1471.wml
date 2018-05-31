@@ -21,4 +21,4 @@ Anwendung zu öffnen.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1471.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0461abd5fa1fd04d71e582bd6237164f9c916005"

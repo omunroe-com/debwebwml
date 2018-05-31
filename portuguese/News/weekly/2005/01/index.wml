@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-01-04" SUMMARY="Arch, GNU/Linux, Mozilla, Eyecatcher, MPEG, experimental, ITPs, Logotipo, Marca Registrada, BSP"
-#use wml::debian::translation-check translation="1.17" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="de065148af0b42f30506da2a32cd035051de0165" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à primeira edição deste ano da DWN, o periódico semanal
 para a comunidade Debian.  Martin Michlmayr <a

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Índice"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>
 <b>Bem-vindo às Notícias do Projeto Debian</b>, um boletim informativo para a 

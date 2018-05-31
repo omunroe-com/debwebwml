@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7a5c26245e818a99000bf9a1732df7a7e0d36ae7"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数のセキュリティ問題がウェブ上のブログ管理ツール Wordpress

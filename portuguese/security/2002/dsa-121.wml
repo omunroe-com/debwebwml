@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="9161e1484da2b08816136306de69db56e18b9e14" translation_maintainer="Michelle Ribeiro"
 <define-tag description>buffer overflow, problema com links simbólicos, troca de diretório ".."</define-tag>
 <define-tag moreinfo>
 <p>Problemas graves de segurança relatados foram encontrados no pacote xtell, um

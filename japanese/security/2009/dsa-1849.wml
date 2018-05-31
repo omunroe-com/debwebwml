@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1f56ea60b482e10bcccbbc0e9d2ebdffc110e1ca"
 <define-tag description>設計ミス</define-tag>
 <define-tag moreinfo>
 <p>W3C XML Signature recommendation に HMAC 出力変換に関連したプロトコルレ

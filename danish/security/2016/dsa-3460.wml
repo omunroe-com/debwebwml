@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f9632d5f19d9f06697816f036cd2ce1ac8696f2d" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at privoxy, en webproxy med avancerede filtreringsmuligheder, 

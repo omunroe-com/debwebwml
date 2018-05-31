@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Liste der rsync-Spiegel für Debian-CD-Images" BARETITLE=true
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="d15cbd4e121ea975532c1dda0bc1b79f69cee45d"
 # Translator: Gerfried Fuchs <alfie@debian.org> 2002-01-21
 # $Id$
 

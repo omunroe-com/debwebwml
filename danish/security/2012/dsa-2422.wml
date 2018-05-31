@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="d61623bcab3e21765058a1d4dd1ccefc152632c2" mindelta="1"
 <define-tag description>manglende grænsekontroller</define-tag>
 <define-tag moreinfo>
 <p>Værktøjet til at genkende filtyper, file, og dets tilhørende bibliotek, 

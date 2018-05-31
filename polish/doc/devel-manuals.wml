@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Podręczniki deweloperów DDP"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
-#use wml::debian::translation-check translation="1.69"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2"
 
 <document "Podręcznik Polityki Debiana" "policy">
 

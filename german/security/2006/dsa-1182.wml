@@ -15,5 +15,5 @@ wurde dieses Problem in Version 1.4.4-1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1182.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="df8f4c152e12030b4f3e888761f951046952fb58"
 # $Id$

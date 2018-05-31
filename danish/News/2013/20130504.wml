@@ -3,7 +3,7 @@
 <define-tag pagetitle>Debian 7.0 <q>Wheezy</q> udgivet</define-tag>
 <define-tag release_date>2013-05-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Efter mange måneders uafbrudt udvikling, er Debian-projektet stolt over at 
 kunne præsentere sin nye stabile version 7.0 (med kodenavnet <q>Wheezy</q>).

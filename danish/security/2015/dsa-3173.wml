@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="acce4c7cd463268056390d131b60eb9a1ab320b8" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at libgtk2-perl, en Perl-grænseflade til 2.x-serien af Gimp 

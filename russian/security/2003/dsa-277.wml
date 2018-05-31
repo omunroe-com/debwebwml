@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5061ad2f45b4126c7edc6ecd42633418598db5a6"
 <define-tag description>переполнение буфера, строка формата</define-tag>
 <define-tag moreinfo>
 <p>Демон контроля и управления источниками бесперебойного питания APC

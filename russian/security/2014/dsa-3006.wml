@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="72bc1ed400ff8d1f93e3c8e8bfbf7f57f932323a" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Xen, решении для виртуализации, были обнаружены многочисленные проблемы

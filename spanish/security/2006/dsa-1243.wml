@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c17042a74927744370b508cdfbf15f5d96d7ac42" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Renaud Lifchitz descubrió que gv, el visor PostScript y PDF para X, no

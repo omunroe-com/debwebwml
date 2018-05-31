@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="b657fd9bb95c93c952599e28e714f0cb3739a0d0" maintainer="Simon Paillard"
 <define-tag description>Condition de concurrence</define-tag>
 <define-tag moreinfo>
 <p>Une condition de concurrence dans la gestion du système de fichiers des

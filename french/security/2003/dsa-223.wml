@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="1eecc5cc1832ee0777f3a53edb8aba1c32232328" maintainer="Pierre Machard"
 <define-tag description>Fuite d'informations</define-tag>
 <define-tag moreinfo>
 <p>Une faille de sécurité a été découverte dans geneweb,

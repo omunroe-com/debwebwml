@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2b49fe479f1c05b78f5bf261b56e01f3253d3d0c" mindelta="1"
 <define-tag description>fixat socketnamn i mapp som är skrivbar av alla</define-tag>
 <define-tag moreinfo>
 <p>

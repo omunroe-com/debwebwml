@@ -6,7 +6,7 @@
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="1.3" maintainer="Frans Spiesschaert"
+#use wml::debian::translation-check translation="9351381414f64cddb54ed5d723830ed63dabcc57" maintainer="Frans Spiesschaert"
 
 <p>
 Moet u een computerlabo of een volledig schoolnetwerk beheren? Wilt u servers, werkstations en laptops installeren die onderling samenwerken? Wenst u de stabiliteit van Debian met reeds vooraf geconfigureerde netwerkdiensten? Wilt u systemen en verschillende honderden of zelfs meer gebruikersaccounts beheren met een webtoepassing? Heeft u zich al afgevraagd of en hoe u oudere computers kunt blijven gebruiken?

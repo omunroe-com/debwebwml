@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="64d52f702a87d1ebdc358715fca8fa6e4062b743" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Разработчики Ethereal обнаружили переполнение буфера в диссекторе для

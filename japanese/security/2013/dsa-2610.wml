@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bf2f4b36f5e3f8a7ff08126ea864e77e4c7cf595"
 <define-tag description>任意のスクリプト実行</define-tag>
 <define-tag moreinfo>
 <p>ウェブベースの監視システム Ganglia が入力のサニタイズを十分に行っていません。

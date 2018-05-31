@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="99e31f16344daa2986102784829ad44c8055fe37" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Wojciech Regula opdagede en XML External Entity-sårbarhed i XML Parser i 

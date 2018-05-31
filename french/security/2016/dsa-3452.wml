@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="ef57671ec0b2ec4093d7d4998f84bc0f36af187e" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p><q>DrWhax</q> du projet Tails a signalé l'absence, dans Claws Mail, de

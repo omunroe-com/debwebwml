@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f44c81e3a72f62f2d236756f2bbbaef37732c135" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy opdagede at Tag Image File Format-biblioket (TIFF) var sårbart 

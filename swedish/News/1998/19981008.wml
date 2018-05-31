@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debians inställning angående KDE-licensen</define-tag>
 <define-tag release_date>1998-10-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Det har förekommit många kontroverser om de olika licenskraven under vilka
 KDEs [<a href="#footnote1">1</a>] och Troll Techs [<a href="#footnote2">2</a>]

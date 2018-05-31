@@ -21,4 +21,4 @@ fordi den binære lppasswd-fil tilfældigvis er installeret med setuid
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2007.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2a633dd265f39b93db2349ff0e23f0ff72d8e86e" mindelta="1"

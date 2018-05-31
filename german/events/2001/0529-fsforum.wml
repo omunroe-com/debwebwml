@@ -28,5 +28,5 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9db4428ea884053381eba153196dd267651faf2b"
 #Related Links here (free form)

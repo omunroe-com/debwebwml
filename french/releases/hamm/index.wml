@@ -1,5 +1,5 @@
 #use wml::debian::template title="Informations relatives à Debian 2.0 («&nbsp;hamm&nbsp;»)"
-#use wml::debian::translation-check translation="1.12" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Nicolas Bertolissio"
 
 <strong>Debian&nbsp;2.0 est obsolète.</strong>
 

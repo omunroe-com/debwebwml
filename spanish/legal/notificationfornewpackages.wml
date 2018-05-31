@@ -1,5 +1,5 @@
 #use wml::debian::template title="Notificación de código fuente con cifrado no restringido" BARETITLE=true
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="16f8863b5a80b644458dbf8f2ffc4ef0ef0644e8"
 
 # Nota bene! This is basically draft text from the lawyers, and it must
 # _not_ be modified for spelling errors and such. Formatting changes are

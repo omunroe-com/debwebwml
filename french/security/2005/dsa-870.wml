@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="ccd0ca3ef29b95e94ec67516eac5c22252be2847" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy a remarqué que sudo, un programme qui fournit des droits

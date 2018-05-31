@@ -1,6 +1,6 @@
 #use wml::debian::template title="Port su PowerPC (APUS)" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/inst/menu.inc"
-#use wml::debian::translation-check translation="1.12" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="a9738774706d265243f4d1b6f43b411f8536f5c8" maintainer="Luca Monducci"
 
 <h1>Installazione di Debian GNU/Linux su macchine APUS PowerPC</h1>
 

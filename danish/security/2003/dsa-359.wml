@@ -15,4 +15,4 @@ i version 1.2.2-1woody2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-359.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="b237c2d3809e316857351954f4f90e53bac39e65" mindelta="1"

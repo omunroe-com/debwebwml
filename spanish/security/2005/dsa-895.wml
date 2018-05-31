@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="b791730e61f6df891c335d141ff7b3c796b06b6b" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Masanari Yamamoto descubrió un uso incorrecto de variables de entorno

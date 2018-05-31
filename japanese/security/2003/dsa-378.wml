@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="5d23437f7b78628d684f86966f260106f2d38b51"
 <define-tag description>バッファオーバフロー、サービス不能 (DoS) 攻撃</define-tag>
 <define-tag moreinfo>
 <p>Nicolas Boullis さんは、ネットワーク対戦が可能なゲーム mah-jong

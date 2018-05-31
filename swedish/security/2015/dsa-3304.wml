@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="004d671e34b2fd7e284fa2afff6eb96be733e458" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Breno Silveira Soares från Servico Federal de Processamento de Dados

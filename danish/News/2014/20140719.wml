@@ -1,7 +1,7 @@
 <define-tag pagetitle>Opdateret Debian 6.0: 6.0.10 udgivet</define-tag>
 <define-tag release_date>2014-07-19</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="085e12f1760f1f8c0ee4dfffd8e6c2a0199a74cb"
 # $Id:
 
 <define-tag release>6.0</define-tag>

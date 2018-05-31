@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="65f031f098440c11ba255ba25480f4d3d3a6e44a"
 <define-tag description>暗号強度の不足</define-tag>
 <define-tag moreinfo>
 <p>Daniel Bleichenbacher さんにより、OpenSSL

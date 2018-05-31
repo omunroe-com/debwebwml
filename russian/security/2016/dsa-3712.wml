@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8501c30ff4055e4aaad5c69c058103e4095cfd09" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Николас Брауд-Сантони обнаружил, что неправильная очистка последовательности

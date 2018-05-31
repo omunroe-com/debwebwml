@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-19" SUMMARY="CDs/DVDs, Hurd, C++-ABI, Veröffentlichungsteam, BTS, QA, Drucken, SSH"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 # $Id$
 
 <p>Willkommen zur 29. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

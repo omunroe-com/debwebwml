@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a0d600d01715dbbf4914085465813e3a9593ddd4"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>セキュリティ関連の問題が複数、仮想プライベートネットワーク (VPN、Virtual

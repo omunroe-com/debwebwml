@@ -1,5 +1,5 @@
 #use wml::debian::template title="Уголок новых участников Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.83" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="854b866cca446c10c793f389da230fdf2238e68a" maintainer="Lev Lamberov"
 
 <p>Чтобы стать официальным разработчиком Debian (Debian Developer, DD), нужно пройти
 процедуру получения членства в Debian (Debian New Member).

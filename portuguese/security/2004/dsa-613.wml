@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="73a2b6c74b656924c6b042c5c1c1f6d28bcf078c"
 <define-tag description>loop infinito</define-tag>
 <define-tag moreinfo>
 <p>Brian Caswell descobriu que um pacote SMB formatado incorretamente

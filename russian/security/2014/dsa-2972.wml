@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b3f97b721a5b6b5466555815e0d34a44463ebbd8" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Энди Лутомирски обнаружил, что системный вызов ptrace не проверяет

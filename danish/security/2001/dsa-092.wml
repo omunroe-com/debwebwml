@@ -16,4 +16,4 @@ opgraderer din wmtv-pakke.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-092.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f9efc9a3fa35e1c6d9ab31a07e6b6b7e674a28db"

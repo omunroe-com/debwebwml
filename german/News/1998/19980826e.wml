@@ -1,7 +1,7 @@
 <define-tag pagetitle>Zusätzliche Anbieter nehmen an den wachsenden Bemühungen zur LSB teil</define-tag>
 <define-tag release_date>1998-08-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="caeeb2deb4a95d52c9476520955deb69cee6c089"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-08-04
 
 <h3>Zusätzliche Anbieter nehmen an den wachsenden Bemühungen zur <acronym 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="450b5dd3786d560d1d2248949ee1914543fec82c"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>セキュリティ勧告 <a href="dsa-591">DSA 591</a> では対応しきれていなかった GD

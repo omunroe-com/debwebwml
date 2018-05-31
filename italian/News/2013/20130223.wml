@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Francesca Ciceri"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Francesca Ciceri"
 <define-tag pagetitle>Aggiornata Debian 6.0: rilasciata la versione 6.0.7</define-tag>
 <define-tag release_date>2013-02-23</define-tag>
 #use wml::debian::news

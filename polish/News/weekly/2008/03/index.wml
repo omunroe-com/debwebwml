@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2008-05-26" SUMMARY="Bity od Lidera, OpenSSL, Nowy Perl, backoprts.org, Wielkie pakiety, SANE, Licencjonowanie, Tłumaczenia dla Enigmail, Nagłówki pocztowe Debiana, HOWTO instalatora, archive.debian.net, Zmiany w Lennym"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Witamy w trzecim w tym roku wydaniu WPD, biuletynu społeczności Debiana.
 Steve McIntyre rozesłał nowe <q>Bity od Lidera Projektu</q>. Ostatnio został

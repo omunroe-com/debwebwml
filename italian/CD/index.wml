@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian su CD" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.40" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b" maintainer="Luca Monducci"
 
 <p>Per ottenere Debian su CD o su una chiavetta USB sono disponibili le
 opzioni descritte di seguito. In caso di problemi, si invita a leggere le

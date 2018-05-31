@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="c2d9e87a153b9120eabfc6b2b75d4f320240133b" maintainer="Marco Carvalho"
 <define-tag description>estouro de pilha</define-tag>
 <define-tag moreinfo>
 <p>Um estouro de pilha foi descoberto no jogo crossfire que permite que

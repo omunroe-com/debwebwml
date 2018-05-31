@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Lev Lamberov"
 <define-tag abbr>UbuLocJam-DebBsp</define-tag>
 <define-tag year>2011</define-tag>
 <define-tag pagetitle>Ubuntu Local Jam and Debian Bug Squashing Party</define-tag>

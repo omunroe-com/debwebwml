@@ -1,7 +1,7 @@
 <define-tag pagetitle>'Linux Actual' が Debian GNU/Linux 2.0 'Hamm' CD を収録</define-tag>
 <define-tag release_date>1998-10-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="6b2aae6e7e06bb8666c32bebb1d01bd6f98c23a3"
 
 
 <p>スペインの雑誌 "Linux Actual" は、今のところスペイン語利用者のための

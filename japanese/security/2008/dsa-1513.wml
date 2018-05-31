@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a6b0285f6a5040ef4c396df0c80251e46872bc24"
 <define-tag description>情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>最小のメモリフットプリントで動作する高速なウェブサーバ lighttpd が、特定

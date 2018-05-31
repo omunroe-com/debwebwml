@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="65ae0245f9fa89d248126bf6e0a3f51a744163d7" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Juliane Holzt a découvert qu'Icecast2, un serveur de flux média, pourrait

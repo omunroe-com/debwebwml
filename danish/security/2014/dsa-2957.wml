@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5f7f04fa25d4ebc5b992a7d7e58b3d9cbc52d84f" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Omer Iqbal opdagede at Mediawiki, en wikimotor, fortolkende ugyldige 

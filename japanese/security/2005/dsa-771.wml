@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="acfad9e19c596da7eb800c848b7074ddd86044d3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の問題が万能ネームサーバ pdns に発見されました。

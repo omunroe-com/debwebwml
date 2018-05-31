@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0e0e9853d2f4c48d1488dc87a6b510acaae86ec1"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>Microsoft 社の CHM ファイルを扱うためのライブラリである chmlib

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3fca68678ea6ba7ddb95e5662a84ce47833c69ba"
 <define-tag description>安全でない一時ファイルの生成</define-tag>
 <define-tag moreinfo>
 <p>Javier Fernandez-Sanguino Pena さんにより、chroot 管理ツール Jailer の一

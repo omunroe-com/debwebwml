@@ -1,5 +1,5 @@
 #use wml::debian::template title="어떻게 데비안을 도울까?"
-#use wml::debian::translation-check translation="1.31" maintainer="Sebul"
+#use wml::debian::translation-check translation="167c966b63631bcd2668bf5d49ae21952f6d11c7" maintainer="Sebul"
 
 <p>데비안의 개발에 도움을 생각하고 있다면
 경험자와 비경험자 모두 도움을 줄 영역이 많습니다:</p>

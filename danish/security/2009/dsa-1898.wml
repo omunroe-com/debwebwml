@@ -17,4 +17,4 @@ version 2.6.22+dfsg-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1898.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="0ec74087adcac0972e7686493c083cf5d4512ba4" mindelta="1"

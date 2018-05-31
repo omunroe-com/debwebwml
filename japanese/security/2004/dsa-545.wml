@@ -13,7 +13,7 @@ UDP データグラムを送ることで、容易に CUPS でのブラウジン�
 <p>直ちに cups パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="14594dbfe6ae94ab00be588b6b5f1fd7f1f54143"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-545.data"
 # $Id$

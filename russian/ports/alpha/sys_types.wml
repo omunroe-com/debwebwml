@@ -1,6 +1,6 @@
 #use wml::debian::template title="Перенос на платформу Alpha — Типы систем" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
-#use wml::debian::translation-check translation="1.23" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="efe2a380651d51ff9da2564cfbc4359842f9b975" maintainer="Lev Lamberov"
 
 <p>
 Этот список может быть неполным, поэтому если вы видите, что в нём чего-то нет или что

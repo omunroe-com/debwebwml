@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0ecacfcfc92745d94c35fc25689c833fbe903126" maintainer="Lev Lamberov"
 <define-tag abbr>FSRU</define-tag>
 <define-tag year>2001</define-tag>
 <define-tag pagetitle>Свободное программное обеспечение в России и в мире</define-tag>

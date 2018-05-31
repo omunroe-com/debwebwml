@@ -17,4 +17,4 @@ root-rettigheder, også selvom printer-systemet er opsat korrekt.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-275.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b2db128b1c1aedfea85014427385efa259c63bbb"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fd613688ef24df0ee5d84a77bc6a77a3638482bc"
 <define-tag description>ejecución inadecuada de setuid root</define-tag>
 <define-tag moreinfo>
 <p>XaoS, un programa para mostrar imágenes fractales, se instalaba con

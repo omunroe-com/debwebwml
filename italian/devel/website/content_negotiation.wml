@@ -1,5 +1,5 @@
 #use wml::debian::template title="Negoziazione dei contenuti"
-#use wml::debian::translation-check translation="1.2" maintainer="skizzhg"
+#use wml::debian::translation-check translation="0dbdbbf9b5488033e15adf800ec9b7aa8bcbc58c" maintainer="skizzhg"
 
 <h3>Come fa il server a sapere quale file utilizzare</h3>
 <p>Avrai notato che i link interni non finiscono in .html. Questo

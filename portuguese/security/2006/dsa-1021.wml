@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="3b7bca6621925198c4f0902c0a6e40c296adcbd9" maintainer="Marco Carvalho"
 <define-tag description>execução insegura de programa</define-tag>
 <define-tag moreinfo>
 <p>Max Vozeler do Projeto de Auditoria de Segurança do Debian

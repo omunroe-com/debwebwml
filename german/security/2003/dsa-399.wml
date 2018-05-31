@@ -19,5 +19,5 @@ Version 1.1.11.20030409-2 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-399.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9907359c4b61adfdd6e74644cb87c0ea4b383bd8"
 # $Id$

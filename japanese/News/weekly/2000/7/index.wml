@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2000-02-23" SUMMARY="パッケージ 100 個以上もうすぐ削除; DPL 投票開始; new-maintainer 最新情報; Debian Alpha 問題"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>
 <b>ようこそ。</b>Debian 開発者のみなさん向けニューズレター、

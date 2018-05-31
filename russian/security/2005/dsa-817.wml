@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="392b2a99cac7e665e8640c896de228b8f038afbc" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Переполнение целых чисел, приводящее к переполнению буфера, было обнаружено

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e83d05dbbf1409adc6a7c339904577c6d5f22f7a" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Это &mdash; обновление DSA для базы данных MySQL до версии 5.1.72. Это обновление содержит исправления множественных

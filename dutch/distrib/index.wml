@@ -1,6 +1,6 @@
 #use wml::debian::template title="Verkrijgen van Debian"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="1.59"
+#use wml::debian::translation-check translation="0258a9ad572cf94a4162601989a462256f69df0f"
 
 # Translator: Bas Zoetekouw <bas@debian.org>
 # Translation date: Tue Jun 11 00:58:19 CEST 2002

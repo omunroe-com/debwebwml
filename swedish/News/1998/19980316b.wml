@@ -1,7 +1,7 @@
 <define-tag pagetitle>Novare bidrar med maskinvara till Debian</define-tag>
 <define-tag release_date>1998-03-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1"
 
 <p>Under en lång tid har Novare
 (<a href="http://www.novare.net">http://www.novare.net</a>)

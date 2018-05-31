@@ -1,7 +1,7 @@
 <define-tag pagetitle>d-i-Debcamp auf der Oldenburger Linux-Entwickler-Konferenz</define-tag>
 <define-tag release_date>2003-09-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 # $Id$
 
 Mehr als zehn debian-installer-Entwickler trafen sich für vier Tage in

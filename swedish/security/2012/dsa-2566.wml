@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="acd10a17ab494c7316efddb0160ed1450686dc5c" mindelta="1"
 <define-tag description>heap-baserat buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Exim, en e-posttransportagent, inte tillräckligt

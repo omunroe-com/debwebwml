@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a9e432a75260c43416433130428b031d1f3bcba6" mindelta="1"
 <define-tag description>heltalsoverløb</define-tag>
 <define-tag moreinfo>
 <p>Alexander Gavrun opdagede et heltalsoverløb i TIFF-biblioteket i 

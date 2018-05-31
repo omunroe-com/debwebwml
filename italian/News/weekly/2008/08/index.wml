@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2008-08-04" SUMMARY="Lenny in freeze, Debian GNU/Linux 4.0 aggioranata per includere il supporto per hardware più nuovo, Annunciato programma per l'ottava Debian Conference, Debian Days in giro per il mondo"
-#use wml::debian::translation-check translation="1.11" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Daniele Venzano"
 
 <p>Benvenuti a questo ottavo numero dell'anno in corso di DPN, il notiziario per la comunità Debian.<br>
 

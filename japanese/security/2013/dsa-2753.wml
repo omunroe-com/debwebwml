@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4030d1ca755421838b73c516cd299cdd4bb80d5a"
 <define-tag description>情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>Mediawiki、wiki エンジンの複数の API モジュールが CSRF

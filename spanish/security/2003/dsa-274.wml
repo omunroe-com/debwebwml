@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d15ea2b06e7bffc711e747e60fc8ed7f30fc2773"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Byrial Jensen descubrió un par de desbordamientos de búfer por una

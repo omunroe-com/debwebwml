@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="4d7eec21871d818163333e587fbf6238e1415048" maintainer="Juraj Kubelka"
 <define-tag description>neošetřený vstup</define-tag>
 <define-tag moreinfo>
 <p>Cross-site scripting zranitelnost byla objevena v&nbsp;namazu2,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="02d8a418bb8efe7a2d3a1750d6a02beadce8318f" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Toby Hsieh, Peter McLarnan, Ankit Gupta, Sudhir Rao og Kevin Reintjes 

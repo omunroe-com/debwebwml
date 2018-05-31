@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="f78f9eb2cbd510e59fc9fc77aa38523626624eed" maintainer="David Prévot"
 <define-tag description>Exécution de commandes d'interpréteur</define-tag>
 <define-tag moreinfo>
 

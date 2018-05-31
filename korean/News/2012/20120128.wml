@@ -1,7 +1,7 @@
 <define-tag pagetitle>데비안 6.0 업데이트: 6.0.4 릴리즈</define-tag>
 <define-tag release_date>2012-01-28</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # First-Translator: 서현관 <westporch@gmail.com> 2012-02-05
 # Last-Translator: 서현관 <westporch@gmail.com> 2012-02-06
 

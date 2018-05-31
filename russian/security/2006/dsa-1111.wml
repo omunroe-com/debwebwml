@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b657fd9bb95c93c952599e28e714f0cb3739a0d0" maintainer="Lev Lamberov"
 <define-tag description>состояние гонки</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что состояние гонки в файловой системе procfs может приводить

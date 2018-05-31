@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Obtention du mélange"
 #use wml::debian::blends::gis
 #use "../navbar.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="289205d50f64d1fbef6272d8b76dbfdbd5b0af6f" maintainer="Jean-Paul Guillonneau"
 
 <p>« Debian GIS Pure Blend » est distribué <a href="../../../intro/free">sans restriction</a>
 par Internet.</p>

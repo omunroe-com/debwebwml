@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="88b45c37ca81e6a2fd893a9db4f87924c18c229a"
 <define-tag description>入力に対するサニタイジングの欠落</define-tag>
 <define-tag moreinfo>
 <p>squid 開発元のデベロッパーらは、squid に複数の問題を発見しました。squid は、

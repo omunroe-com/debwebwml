@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5dc7b4bdff96b260f7add85aca772659b3cd08c6" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В сервере баз данных MySQL были обнаружены несколько уязвимостей. Уязвимости

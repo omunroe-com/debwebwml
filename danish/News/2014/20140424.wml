@@ -1,7 +1,7 @@
 <define-tag pagetitle>Langtidsunderstøttelse af Debian 6.0 annonceret</define-tag>
 <define-tag release_date>2014-04-24</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id:
 
 <p>Debian-projektet er glad for at kunne annoncere, at selv om den almindelige 

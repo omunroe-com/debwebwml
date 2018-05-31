@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c8794af6ced77affeb6b1107a0e815104038b2e2" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Рональд Волджерс обнаружил, что memcached, высокопроизводительная система кэширования

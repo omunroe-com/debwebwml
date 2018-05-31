@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="d537d10d79893435e716586f7d28ca12605e0551" maintainer="Cédric Boutillier"
 <define-tag description>Erreur d'implémentation</define-tag>
 <define-tag moreinfo>
 <p>Juraj Somorovsky, Andreas Mayer, Meiko Jensen, Florian Kohlar, Marco 

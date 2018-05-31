@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b6efdb9b284a4def8da7e043b8e598ad211fdea7" maintainer="Lev Lamberov"
 <define-tag description>ошибка выделения памяти</define-tag>
 <define-tag moreinfo>
 <p>Шимон Зигмунт и Михал Бартожевич обнаружили ошибку выделения

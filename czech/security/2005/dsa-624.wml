@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juraj Kubelka"
+#use wml::debian::translation-check translation="15ed6e160d98bbfdd5032757a3ee09a5623e6c27" maintainer="Juraj Kubelka"
 <define-tag description>přetečení bufferu</define-tag>
 <define-tag moreinfo>
 <p>Bylo objeveno přetečení bufferu v&nbsp;zip, správce .zip

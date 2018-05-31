@@ -1,7 +1,7 @@
 #use wml::debian::template title="Informações de Instalação do Debian &ldquo;wheezy&rdquo;" NOHEADER="true"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/wheezy/release.data"
-#use wml::debian::translation-check translation="1.18" maintainer="Marcelo Santana"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Marcelo Santana"
 
 <h1>Instalando o Debian <current_release_wheezy></h1>
 

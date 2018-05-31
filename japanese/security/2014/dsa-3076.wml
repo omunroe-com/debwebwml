@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="89c684d94c9a9cd81a09dd4aa2ac79e0d571c246"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>SigComp UDVM、AMQP、NCP、TN5250 用の

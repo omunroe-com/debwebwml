@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0320f443a9e103511b214ba1d8cbe1cfecfbfa3f"
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Várias vulnerabilidades foram descobertas no MySQL, um banco de dados

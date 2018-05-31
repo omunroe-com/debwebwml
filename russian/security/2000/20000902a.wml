@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73" maintainer="Lev Lamberov"
 <define-tag moreinfo>Недавно в screen была обнаружена уязвимость форматной строки,
 которая может использоваться для получения повышенных прав в случае, если на screen установлен флаг прав доступа, позволяющий запускать её от лица владельца. В Debian GNU/Linux 2.1
 (slink) утилита screen поставляется с таким флагом прав доступа, поэтому данная уязвимость может использоваться для получения прав

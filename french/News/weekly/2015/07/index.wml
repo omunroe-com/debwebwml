@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2015-09-02" SUMMARY="Stefano Zacchiroli primé, l'installateur de Stretch, modifications dans l'archive, une équipe UEFI, publication de FreedomBox, brèves de l'équipe de publication, des mainteneurs de Perl et de l'équipe Wanna Build, comptes-rendus, trucs et astuces, événements"
 
-#use wml::debian::translation-check translation="1.6" translation_maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="df43bb6e84c97a996c3bc2e6f21a87bd08c18b92" translation_maintainer="Jean-Pierre Giraud"
 
 # $Id$
 # $Rev$

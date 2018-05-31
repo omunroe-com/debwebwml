@@ -1,7 +1,7 @@
 <define-tag pagetitle>Datoerne for DebConf12 i Nicaragua er bekræftet</define-tag>
 <define-tag release_date>2011-11-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="632d5a33bd4ccbe05e7efad326c36a8b1eb91810"
 # $Id:
 
 <h2>DebConf12 finder sted i Managua, Nicaragua, i juli 2012</h2>

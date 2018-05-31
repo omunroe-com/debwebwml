@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cb796037bf3028c075b1b1d4e737893d43c775bf" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Илья ван Шпрудель из IOActive обнаружил несколько проблем безопасности в

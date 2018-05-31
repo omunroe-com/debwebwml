@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6393b6d14c8f9a3369d3cf3d4b0b8d7a1c861194" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Jann Horn från Google Project Zero upptäckte att högnivåpakethanteraren

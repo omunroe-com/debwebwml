@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="209699f1cd99d59926d600169f3afb438163d95f" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Glen Eustace opdagede, at ISC DHCP-serveren, en server til automatisk 

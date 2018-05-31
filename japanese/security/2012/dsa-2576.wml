@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4c87a5fb00178d9248b1c52fbf9964e8cdc2fd29"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Andy Lutomirski さんが TPM ユーザ空間デーモンである tcsd

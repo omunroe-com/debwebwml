@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian squeeze -- Manual d'instal·lació" BARETITLE=true
 #use wml::debian::release
-#use wml::debian::translation-check translation="1.4" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2" maintainer="Guillem Jover"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/squeeze/release.data"

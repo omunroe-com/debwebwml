@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="61adf0d4782c5ac3bd21c948361798341dd555ec" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Луиджи Ауремма обнаружил переполнение буфера, возникающее при преобразовании файлов ASF

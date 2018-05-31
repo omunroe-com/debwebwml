@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a87f1d8f4f5eb72531f41e5968d4cb2cf0182e3d"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>情報漏洩の脆弱性が Drupal、多機能コンテント管理基盤に発見されています。

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c1e4dd7cf3425d7a284ebb019095ad8cbf0133c7" maintainer="Lev Lamberov"
 <define-tag description>уязвимость службы</define-tag>
 <define-tag moreinfo>
 <p>zen-parse обнаружил ошибку в текущей реализации at, которая приводит

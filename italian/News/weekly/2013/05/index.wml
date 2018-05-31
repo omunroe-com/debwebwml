@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-03-04" SUMMARY="Rilasciato Debian 6.0.7, invito a presentare progetti e mentori per GSoC 2013, avanzamento nel rilascio di Wheezy, immagine per arm64"
-#use wml::debian::translation-check translation="1.4" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mirco Scottà"
 
 # $Rev: 4710 $
 # Status: [content-frozen]

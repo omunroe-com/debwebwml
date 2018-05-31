@@ -38,4 +38,4 @@ chpass/chfn kao nove gecos informacije.
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1997/19970220.data'
 
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="ae4a72744f84be54cae3e4ec65a8488af3af84d1"

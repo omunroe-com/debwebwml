@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="65ae0245f9fa89d248126bf6e0a3f51a744163d7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Juliane Holzt opdagede at Icecast2, en medieserver til streaming, kunne 

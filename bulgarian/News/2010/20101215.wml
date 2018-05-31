@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 <define-tag pagetitle>Дебиан 6.0 <q>Squeeze</q> ще излезе с напълно свободно ядро Линукс</define-tag>
 <define-tag release_date>2010-12-15</define-tag>
 #use wml::debian::news

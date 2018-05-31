@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c2434c576c2729acf0ef2c551e7efd392fa6ad5f"
 <define-tag description>バッファオーバフロー、整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Pavel Kankovsky さんは、X および X11 用の画像ライブラリ imlib

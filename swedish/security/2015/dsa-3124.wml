@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d45e67eca887ec8e0dc5aba06313ebb5820fc72f" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Thorsten Eckel från Znuny GMBH och Remo Staeuble från InfoGuard upptäckte

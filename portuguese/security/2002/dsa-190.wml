@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e28c1c1137728c3ac08641d539d939db849183fb"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Al Viro encontrou um problema no código de manipulação de imagem usado no

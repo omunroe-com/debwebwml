@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="46cd57e0ab7971279f6bb9bb74ef6bfd008645e6" maintainer="David Prévot"
 <define-tag description>Dépassement de tampon par le bas</define-tag>
 <define-tag moreinfo>
 <p>

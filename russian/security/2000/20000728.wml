@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версии клиента ISC DHCP, поставляемые в составе Debian GNU/Linux 2.1 (slink)
 и Debian GNU/Linux 2.2 (potato), содержат уязвимость суперпользователя. Команда OpenBSD
 сообщает, что клиент неправильно выполняет команды, включённые в ответы

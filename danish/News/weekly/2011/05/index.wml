@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-03-28" SUMMARY="Opdateret Debian: 6.0.1 udgivet, projektet Debian Derivative Exchange lanceret, bits fra Debian Installer Team"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <define-tag MID whitespace=delete>https://lists.debian.org/$0</define-tag>
 

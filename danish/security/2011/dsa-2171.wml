@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0673d80442ee1e01852c577932547e94bf19b67e" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Matthew Nicholson opdagede et bufferoverløb i SIP-kanaldriveren i Asterisk, 

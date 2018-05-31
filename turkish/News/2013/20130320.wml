@@ -7,7 +7,7 @@
 <define-tag release_date>2013-03-20</define-tag>
 #use wml::debian::news
 
-#use wml::debian::translation-check translation="1.4" maintainer="Onur Aslan"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Onur Aslan"
 
 
 <p>

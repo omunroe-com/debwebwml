@@ -28,7 +28,7 @@ grundlæggende trin, som er nødvendige for at pakke software.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 #Related Links here (free form)
 <ul>
  <li><a href="http://2011.rmll.info/">Officielt RMLL-websted</a></li>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fcfaffb3575cef67da923323c10ca01a74bd2732" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Марсин Нога обнаружил отрицательное переполнение целых чисел в Lhasa, утилите

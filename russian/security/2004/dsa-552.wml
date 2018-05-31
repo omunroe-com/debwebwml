@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ad5305f1eba47904aa58b303252d5f38875b0f95"
 <define-tag description>не производится очистка входного текста</define-tag>
 <define-tag moreinfo>
 <p>Маркус Майснер (Marcus Meissner) обнаружил возможность переполнения

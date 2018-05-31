@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ccfac441ce2e390723f47b0effba9aecbafef9c0" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Версия nfs-server, поставляемая в составе Debian
 GNU/Linux 2.1, содержит переполнение буфера в fh_buildpath(). Функция допускает, что

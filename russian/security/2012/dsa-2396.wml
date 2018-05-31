@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="66990fedaf7bba1a99811f6972c399513ef20090" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Николя Могоринью обнаружил переполнение динамической памяти в коде эмуляции

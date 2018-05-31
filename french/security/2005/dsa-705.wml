@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="2be335f2516da8f084f4ae82013b9a05ef098f05" maintainer="DFS Task Force"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs possibilités de dénis de service ont été découvertes dans wu-ftpd,

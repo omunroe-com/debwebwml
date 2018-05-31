@@ -1,6 +1,6 @@
 #use wml::debian::template title="Platform for Mehdi Dogguy" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.4" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="a439a765160f5092943223f5f32301c16b65286e" maintainer="Thomas Vincent"
 <div id="who-i-am">
 <h1>Qui je suis</h1>
 

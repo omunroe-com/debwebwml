@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="49c7ec55d38a868863616b524ccd396e8960ac76" maintainer="Jean-Edouard Babin"
 <define-tag description>Vérification d'entrées manquantes</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert que GForge, une plate-forme de développement collaborative,

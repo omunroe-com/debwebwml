@@ -1,6 +1,6 @@
 #use wml::debian::template title="Buku-Buku Debian" GEN_TIME="yes"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.69" maintainer="Samsul Ma'arif"
+#use wml::debian::translation-check translation="ffa2c14382ae665747cae88bfe83a6a92a450600" maintainer="Samsul Ma'arif"
 # Translator:
 # Samsul Ma'arif <samsul@samsul.web.id>
 # Izharul Haq <atoz.chevara@yahoo.com>

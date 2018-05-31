@@ -9,6 +9,6 @@ behält, könnte zu unzumutbarer Größe anwachsen.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-093.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="672cac75afd4600367a37deed4d04012c757a8b2"
 # Translator: Gerfried Fuchs <alfie@debian.org> 2001-12-16
 # $Id$

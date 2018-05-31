@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4b46026f52c6565ab1b024d27e71292a9f6eec71" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тэвис Орманди обнаружил, что NTFS-3G, драйвер чтения/записи для файловой системы NTFS для

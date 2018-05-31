@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Obsah"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28" maintainer="Slavko"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Slavko"
 <p>
 <b>Vitajte v Aktualitách Projektu Debian</b>, spravodaji pre komunitu
 Debianu. <a href="current/issue/">Najnovšie číslo</a>

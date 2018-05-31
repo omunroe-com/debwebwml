@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="91a45e9fe8412860669edfc9b78549b1275a3bd7"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descobriu um buffer overflow no xpcd-svga que pode ser

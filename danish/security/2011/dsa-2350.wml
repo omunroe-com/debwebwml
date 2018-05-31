@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3f468c7cc56d43c1ce1e1f5c7e7e28f953c873f6" mindelta="1"
 <define-tag description>manglende kontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at manglende fornuftighedskontrol af inddata i Freetypes 

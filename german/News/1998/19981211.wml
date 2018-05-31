@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian bringt den Cluster aus 512 Computern ins Guinness Buch der Rekorde</define-tag>
 <define-tag release_date>1998-12-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="fb2c1468f75b757ceada92f7e78d9e6367d22b19"
 
   <!--                             -*- Mode: SGML -*-
   Translator       : Philipp Frauenfelder (pfrauenf@debian.org)

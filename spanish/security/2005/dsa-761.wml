@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="83801bb1f88d59acab6d62e756c56d828d1ee1b7" maintainer="Juan M. Garcia"
 <define-tag description>archivos temporales inseguros</define-tag>
 <define-tag moreinfo>
 <p>La actualización de seguridad DSA 761-1 para heartbeat contenía un error

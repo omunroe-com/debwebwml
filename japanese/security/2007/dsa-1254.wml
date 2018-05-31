@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f8736cd3f4bbb8e8bac500abb8837a084da4fb26"
 <define-tag description>入力の不十分なサニタイズ</define-tag>
 <define-tag moreinfo>
 <p>Bind ネームサーバデーモンが細工した DNS クエリによって\

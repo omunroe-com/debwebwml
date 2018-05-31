@@ -1,5 +1,5 @@
 #use wml::debian::template title="Abonnement à la liste de diffusion debian-announce"
-#use wml::debian::translation-check translation="1.12" translation_maintainer="Sébastien Kalt"
+#use wml::debian::translation-check translation="524a402de6e78d832d2498f56eb5df88f84b5c43" translation_maintainer="Sébastien Kalt"
 
 <P>La liste de diffusion «&nbsp;debian-announce&nbsp;» est une 
 <a href="https://foldoc.org/mailing%20list">liste 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Estrutura Organizacional do Debian"
-#use wml::debian::translation-check translation="1.14" maintainer="Claudio Ferreira Filho (filhocf)"
+#use wml::debian::translation-check translation="5c3ace6e77dd17f5a0f8fca6c2aba0d3423c9f9e" maintainer="Claudio Ferreira Filho (filhocf)"
 
 <p>Ocasionalmente, as pessoas precisam contatar alguém sobre um aspecto
 em particular do Debian. A seguir temos uma lista de diferentes tarefas

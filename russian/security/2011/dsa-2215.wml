@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="704b8150262a23951b9c37b6e71f3ad0e7fb24bc" maintainer="Lev Lamberov"
 <define-tag description>обход каталога</define-tag>
 <define-tag moreinfo>
 <p>Дилан Саймон обнаружил, что gitolite, ПО для управления шлюзом на основе SSH для

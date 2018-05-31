@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="e53e72bce507271c4807138d8179354d959b85dc" maintainer="David Prévot"
 <define-tag description>Injection de commande d'interpréteur</define-tag>
 <define-tag moreinfo>
 <p>

@@ -17,5 +17,5 @@ betroffen, da KDE 3.2 bereits die Korrektur enthält.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-692.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="47ce9de5c21bf467950c0870b40e0e33a5ef5327" mindelta="1"
 # $Id$

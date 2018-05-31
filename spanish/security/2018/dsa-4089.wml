@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="13666d94bfc85d2ea2e78d7967a53e907c47f695"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Jayachandran Palanisamy de Cygate AB informó de que BIND, una implementación

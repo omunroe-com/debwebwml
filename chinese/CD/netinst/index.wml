@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="从最小光盘进行网络安装"
 #use wml::debian::release_info
 #use wml::debian::installer
-#use wml::debian::translation-check translation="1.66"
+#use wml::debian::translation-check translation="40eeef5c10b97819abf8467d7f2a8038a8729ff8"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p><q>网络安装</q>或<q>netinst CD</q>是单张光盘，可以\

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="548c9335f8293fda4421ec0311f37590410392cb" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ник Семпанис обнаружил, что dnsmasq, небольшой кэширующий DNS-прокси и

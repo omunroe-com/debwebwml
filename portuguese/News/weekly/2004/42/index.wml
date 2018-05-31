@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-10-26" SUMMARY="i386, Licença, Conferências, Configuração, m17n, Banco de Dados, Empacotamento, Woody"
-#use wml::debian::translation-check translation="1.9" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="21de25da834516d8008adc91fe6eb00081f41714" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à quadragésima segunda edição da DWN, o periódico semanal
 para a comunidade Debian.  Roger So <a

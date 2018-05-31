@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e6b3ac017c0c14787976a3dfbc7c4c45657c2d04"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad de desbordamiento de memoria en Sharutils, un conjunto de

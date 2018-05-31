@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0e5a8b419ccf083aca5abdad79b4e2f940c2bb5e" maintainer="Lev Lamberov"
 <define-tag description>конфликт интерпретаций</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что NTP, реализация протокола сетевого времени,

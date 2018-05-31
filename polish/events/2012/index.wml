@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6f5a6d82800ea4f715e54937a2f74c0b248deb40"
 <define-tag pagetitle>Wydarzenia w 2012 roku</define-tag>
 #use wml::debian::template title="Wydarzenia w 2012 roku"
 #use wml::debian::recent_list

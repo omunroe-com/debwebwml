@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="ea7bd894c29fce0ef0ed2558c46e37662aeed4ad"
 <define-tag description>olvido en saneamiento de entrada</define-tag>
 <define-tag moreinfo>
 <p>Primoz Bratanic descubrió un error en libpam-pgsql, un módulo de PAM

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d6c7aeb75ba59d31ac4e05060a46aa105f4ded12" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>Джастин Рай обнаружил, что crip, инструмент для кодирования, копирования и создания

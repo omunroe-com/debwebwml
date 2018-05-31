@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f282ff3a428a76b63648c6136bac62b57921cd57" maintainer="Lev Lamberov"
 <define-tag description>ошибка сбрасывания прав суперпользователя</define-tag>
 <define-tag moreinfo>
 <p>MPM_ITK является альтернативным модулем для множественной обработки для Apache HTTPD

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5e7d1dba338d1d233885589b0f73005bd8ad80fe" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>В обновлении DLA-25-1 для python2.6 была обнаружена регрессия,

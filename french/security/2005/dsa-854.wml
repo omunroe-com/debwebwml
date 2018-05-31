@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="df1090a661ef0119942fbc32d1480967438cf1fa" maintainer="Simon Paillard"
 <define-tag description>Boucle infinie</define-tag>
 <define-tag moreinfo>
 <p>Simon Nielsen a découvert que l'extracteur BGP de tcpdump, un outil puissant

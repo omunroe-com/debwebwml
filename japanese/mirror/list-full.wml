@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian の世界中のミラーサイト" BARETITLE=true
-#use wml::debian::translation-check translation="1.6" maintainer="victory"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="victory"
 
 <p>これは Debian ミラーの<strong>完全な</strong>リストです。
 サイトごとに異なるミラー対象をそれぞれのアクセス手段とともにリストしています。</p>

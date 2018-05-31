@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.t-mobile.cz/web/cz/residential</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="23237e3ec7c7dae713dfa77054bfca05c91aa0b4"
 
 <p>
 	T-Mobile Czech Republic a. s. (härefter T-Mobile) driver ett mobilt

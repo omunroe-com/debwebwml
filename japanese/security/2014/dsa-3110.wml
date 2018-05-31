@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c049f2dce646bf8089126a7b3b2a50add8ab74f7"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>wiki エンジン mediawiki に欠陥が発見されています:

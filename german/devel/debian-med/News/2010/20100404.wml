@@ -1,7 +1,7 @@
 <define-tag pagetitle>Bewerben Sie sich für Google Summer of code 2010 mit Debian Med!</define-tag>
 <define-tag release_date>2010-04-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # Translator: Helge Kreutzmann <debian@helgefjell.de>, 2010-06-02
 # $Id$
 

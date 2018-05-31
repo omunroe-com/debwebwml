@@ -1,5 +1,5 @@
 #use wml::debian::template title="Dokumentace"
-#use wml::debian::translation-check translation="1.105" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="c790f7f61751233c03e89933584b7792b6970aef" maintainer="Michal Simunek"
 
 <p>Důležitou částí každého operačního systému je dokumentace, technické
 příručky, které popisují práci a&nbsp;používání programů. V&nbsp;rámci úsilí

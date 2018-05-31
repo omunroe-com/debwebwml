@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ef6c296f2d3d731efa8786987fdb6d74f92e3edf" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Райнер Герхардс, лидер проекта rsyslog, сообщил об уязвимости в

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="c79f39d339d827cd1bd95ea2e6b7d49b2cc7db95" maintainer="juanma"
 <define-tag description>vulnerabilidad de directorio temporal</define-tag>
 <define-tag moreinfo>
 <p>El equipo de seguridad de SUSE fue avisado de que en algunos casos

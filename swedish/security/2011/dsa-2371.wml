@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b4aa0e989d7f7dbf75904dd5f49d11873ad01ef5" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Två buffertspill har upptäckts i JasPer, ett bibliotek för hantering

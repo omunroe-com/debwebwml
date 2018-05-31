@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="db6b440c2a9650e7faa720ee59239f93f9d7b6d5" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Картикеян Бхаргаван и Гаэтан Лёрен из INRIA обнаружили уязвимость в

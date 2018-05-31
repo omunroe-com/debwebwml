@@ -16,5 +16,5 @@ Beide führen zu einer Diensteverweigerung (<q>denial of service</q>).</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1172.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f2f04ad008e2a6b51ef3d87c858fcc346211d7e4"
 # $Id$

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-03-07" SUMMARY="Sottoprogetti, BSD, CDD, Elezione, Backports, QA, Servizio, Log"
-#use wml::debian::translation-check translation="1.10" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Daniele Venzano"
 
 <p>Benvenuti al decimo numero di quest'anno di DWN, il notiziario settimanale 
 per la comunità Debian.  Se avete problemi a trovare la distribuzione che fa 

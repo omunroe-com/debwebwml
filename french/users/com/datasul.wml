@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.datasul.com.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="6d8b65b82b167d34deba3316ca3edc12692c476e" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian sur un serveur FTP/Samba, ce serveur est utilisé pour les

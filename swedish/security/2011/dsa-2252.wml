@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1720d71ce2193ab86b0f8da6fc61eeacf87193d7" mindelta="1"
 <define-tag description>programmeringsfel</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att tolken av meddelandehuvuden i e-postservern

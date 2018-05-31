@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-22" SUMMARY="Licenças, Instalador, Uso, Pesquisa, Bugs, Eleições, Empacotamento, OpenLDAP"
-#use wml::debian::translation-check translation="1.9" translation_maintainer="Gustavo Rezende Montesino"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" translation_maintainer="Gustavo Rezende Montesino"
 
 <p>Bem vindo à décima segunda edição da DWN, o periódico semanal para a
 comunidade Debian.  A <a

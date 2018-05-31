@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="df8f4c152e12030b4f3e888761f951046952fb58" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Faiblesse de chiffrement</define-tag>
 <define-tag moreinfo>

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-08-09" SUMMARY="Debian <q>Squeeze</q> のフリーズ、DebConf10 が終了、フリーの Debian 本、Debian ライブ <q>Squeeze</q> の alpha2"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f"
 
 <!--
 $Rev: 658 $

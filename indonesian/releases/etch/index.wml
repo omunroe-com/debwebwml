@@ -1,5 +1,5 @@
 #use wml::debian::template title="Informasi Rilis Debian &ldquo;etch&rdquo;"
-#use wml::debian::translation-check translation="1.24" maintainer="Izharul Haq"
+#use wml::debian::translation-check translation="c710875977df3e89b8c9f9efeac3d093f5a97201" maintainer="Izharul Haq"
 #Translator: Izharul Haq <atoz.chevara@yahoo.com>
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/etch/release.data"

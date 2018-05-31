@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="0ba0f1a88a6a768ec4226717864cd5f59e98f12c"
 <define-tag description>loppumaton silmukka</define-tag>
 <define-tag moreinfo>
 <p>Andrew Griffiths ja iDEFENSE Labs löysivät ongelman tcpdump:ista,

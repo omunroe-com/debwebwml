@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer=""
+#use wml::debian::translation-check translation="ebb0426f3f26a39f7e4cefc55eefb4482ca6fba6" maintainer=""
 <define-tag description>kilka naruszeń bezpieczeństwa</define-tag>
 <define-tag moreinfo>
 <p>Odkryto kilka naruszeń bezpieczeństwa w XFree86. Poprawki przedstawiono poniżej wraz

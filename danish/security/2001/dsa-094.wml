@@ -10,4 +10,4 @@ blevet tilbageført til version 1.1-10 i Debian.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-094.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="92b92dcb2cc472365cd013b61db6340a82fc7b3d"

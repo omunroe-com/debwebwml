@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Síťová instalace z minimálního CD"
 #use wml::debian::release_info
 #use wml::debian::installer
-#use wml::debian::translation-check translation="1.65" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="8b3abaef7cee20746f4558ee0493e0a5bdd0aca9" maintainer="Michal Simunek"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p><q>Síťová instalace</q>, nebo také <q>netinst</q> CD, je jedno CD, které vám umožňuje

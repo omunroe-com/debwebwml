@@ -14,4 +14,4 @@ din <code>fetchmail</code>-pakke.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-071.data"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5da6de64152d996ff3869a0a6d634ec36b3bf8f6"

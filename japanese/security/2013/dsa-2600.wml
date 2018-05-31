@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6d1691ee39a60573b90940b3195da572558a024f"
 <define-tag description>特権の昇格</define-tag>
 <define-tag moreinfo>
 <p>Jann Horn さんが、lpadmin グループにいる CUPS

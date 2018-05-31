@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ac1fbe85cffa8f3103b8243e50a2ca81612151f7" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Сильван Дефрес обнаружил переполнение буфера в libexif, библиотеке

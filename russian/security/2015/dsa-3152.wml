@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="85962590dd1eb1a1b2ddd8912a5943d7ab7391fa" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В функции test_compr_eb() была обнаружена уязвимость, позволяющая осуществлять чтение и

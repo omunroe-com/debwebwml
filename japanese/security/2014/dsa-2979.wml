@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5984a524ec5c1819b344e4b3c93ad1cae0b19dad"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Fail2ban、指定ホストからのアクセスを禁止するプログラムに、

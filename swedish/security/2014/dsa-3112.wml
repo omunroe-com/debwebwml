@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7565caaa9da7e26b6cf474dd0dcd418c7ee2d112" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Michele Spagnuolo från Googles säkerhetsgrupp har upptäckt två

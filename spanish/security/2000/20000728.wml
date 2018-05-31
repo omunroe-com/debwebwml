@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="55a70d0c0f3df8d4df237334ac6de72daaa99f73"
 <define-tag moreinfo>Las versiones del cliente DHCP de Debian GNU/Linux 2.1
 (slink) y Debian GNU/Linux 2.2 (potato) son vulnerables a una explotación de
 root. El equipo de OpenBSD informa de que el cliente ejecuta de forma

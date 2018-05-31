@@ -17,4 +17,4 @@ egroupware-pakker.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2013.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dded74bdb5a7f523a2ca6c87c19922eb9e9a773c" mindelta="1"

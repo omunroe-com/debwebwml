@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="de8c425679bcef95af74cccb077b7de1160d9517" maintainer="Lev Lamberov"
 <define-tag description>изменения владельца файлов и нод устройств на группа kvm</define-tag>
 <define-tag moreinfo>
 <p>Бастиан Бланк обнаружил, что libvirtd, служба управления виртуальными

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="49c7ec55d38a868863616b524ccd396e8960ac76"
 <define-tag description>入力のサニタイズ不足</define-tag>
 <define-tag moreinfo>
 <p>共同開発ツール GForge が一部の入力のサニタイズを十分に行っていないため、

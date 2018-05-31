@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9f1c76798294e34ac1dd25c5587369148730d558"
 <define-tag description>不十分なセキュリティチェック</define-tag>
 <define-tag moreinfo>
 <p>Apache ウェブサーバが AllowOverride ディレクティブの Options= パラメー

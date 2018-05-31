@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="15e4eb701e466a5b75d996bbe91f31a16331320d"
 <define-tag description>acl 制限の迂回</define-tag>
 <define-tag moreinfo>
 <p>Apache に強力な暗号化 (HTTPS サポート) を提供する mod_ssl

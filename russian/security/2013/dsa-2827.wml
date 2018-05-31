@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c7e7cde6356d6f3b4028ffcda30f910877ffe53d" maintainer="Lev Lamberov"
 <define-tag description>загрузка произвольного файла через десериализацию</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Apache Commons FileUpload, пакет для облегчения

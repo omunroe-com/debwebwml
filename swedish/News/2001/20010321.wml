@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian på CeBIT-mässan</define-tag>
 <define-tag release_date>2001-03-21</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="df41e65661d703f47e65d4a7e343e3e7e701656c"
 
 <p>CeBIT är en av världens viktigaste datormässor tillsammans med Comdex i
 Las Vegas.

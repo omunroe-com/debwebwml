@@ -1,7 +1,7 @@
 <define-tag pagetitle>Aggiornamento di Debian GNU/Linux 2.2 (r7)</define-tag>
 <define-tag release_date>2002-07-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Giuseppe Sacco"
 
 <define-tag revision>2.2r7</define-tag>
 

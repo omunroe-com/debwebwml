@@ -1,6 +1,6 @@
 #use wml::debian::template title="Razlozi odabiranja Debiana"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.57"
+#use wml::debian::translation-check translation="e14d234b80b26e4d988a538537b1b0f406a4f377"
 
 <p>Hvala vam što razmatrate korištenje Debian za rad na svom
 stroju. Ako baš niste uvjereni zašto biste trebali iskušati Debian,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f32c33721cc135a8a3048b45257dd549162f897b"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Marvin S. Addison さんが、CAS認証プロトコルを扱うPHPライブラリ Jasig phpCAS

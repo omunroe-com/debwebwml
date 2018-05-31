@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-projektet deltager i LinuxTag 2011</define-tag>
 <define-tag release_date>2011-05-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3ae1a94fef18fb6c5a45c172c62bcab2013331f4"
 
 <p>Debian-projektet er glad for at kunne annoncere, at det igen i år vil være 
 repræsenteret ved LinuxTag-begivenheder i Berlin, Tyskland.  På standen vil 

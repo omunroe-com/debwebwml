@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="c3ed32fdcdbe66d04f206e6a2447e0b1be9158fd" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Simon Kilvington a découvert que des images PNG spécialement conçues

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4e05c81cbe77a19ad1264049515edaebe2ca8ba4"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Luigi Auriemma さんにより、Tracker 音楽ライブラリ DUMB

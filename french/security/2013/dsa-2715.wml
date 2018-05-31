@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="13c85e7cf74a28fc991efd1f3c3566336e871c46" maintainer="David Prévot"
 <define-tag description>Exécution de code</define-tag>
 <define-tag moreinfo>
 <p>

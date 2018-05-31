@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2527918cd5fec950bc5d2b2cafa4dcff7d117538" maintainer="Lev Lamberov"
 <define-tag description>отсутствие инициализации</define-tag>
 <define-tag moreinfo>
 <p>Фахем Митха отметил, что команда iptables, инструмент администрирования

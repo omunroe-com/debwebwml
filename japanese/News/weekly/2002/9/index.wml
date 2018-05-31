@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-02-27" SUMMARY="Woody, 暗号の統合, OpenOffice, メニューシステム, Aid システム, アップグレード, DPL 選挙, PR"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian 週刊ニュースの
 今年の第 9 号へようこそ。Linux Weekly News の仲間が開発版の Debian

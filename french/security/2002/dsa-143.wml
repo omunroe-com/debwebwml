@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="f06d0e399e44a5a00fe38f405c3197a345bb2b28" maintainer="Pierre Machard"
 <define-tag description>Débordement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Un bogue sur un  débordement d'entier a été découvert dans la bibliothèque

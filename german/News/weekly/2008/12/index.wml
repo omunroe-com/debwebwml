@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2008-10-08" SUMMARY="Notizen vom DPL, Was Sie für Lenny tun können, 500.000er Fehler gemeldet"
-#use wml::debian::translation-check translation="1.16"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 #use wml::debian::acronyms
 
 <!--

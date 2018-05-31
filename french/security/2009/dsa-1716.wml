@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Péteul"
+#use wml::debian::translation-check translation="a7f68578ee2ad60836873bdea79d1334004b6a71" maintainer="Thomas Péteul"
 <define-tag description>Débordement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Il a été découvert que xvnc4viewer, un client logiciel d'affichage

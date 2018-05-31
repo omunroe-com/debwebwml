@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="2eb8a8cac36937941637546fffbab0bd9d7c470f" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Symeon Paraschoudis a découvert que la fonction curl_easy_duphandle() dans

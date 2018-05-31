@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f3c726117098cbad981aa37998a20dba2d26b831" maintainer="Lev Lamberov"
 <define-tag description>слабые идентификаторы сессии</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Ajaxterm, веб-терминал, создаёт слабые

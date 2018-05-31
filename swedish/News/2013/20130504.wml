@@ -1,5 +1,5 @@
 # Status: [content-frozen]
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <define-tag pagetitle>Debian 7.0 <q>Wheezy</q> utgiven</define-tag>
 <define-tag release_date>2013-05-04</define-tag>

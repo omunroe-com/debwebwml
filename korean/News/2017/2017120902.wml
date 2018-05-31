@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Sebul"
+#use wml::debian::translation-check translation="c550a2d918185fd8e04525eef6273ecc6d3913d9" maintainer="Sebul"
 <define-tag pagetitle>데비안 9 업데이트: 9.3 나옴</define-tag>
 <define-tag release_date>2017-12-09</define-tag>
 #use wml::debian::news

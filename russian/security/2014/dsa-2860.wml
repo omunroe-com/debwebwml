@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9c35ecceb07ef51aed5d522b48021957eb709f1b" maintainer="Lev Lamberov"
 <define-tag description>раскрытие информации</define-tag>
 <define-tag moreinfo>
 <p>Холгер Левсен обнаружил, что parcimonie, утилита для обновления связки

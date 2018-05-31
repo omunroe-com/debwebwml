@@ -1,7 +1,7 @@
 <define-tag pagetitle>Richiesta di contributi per DebConf11</define-tag>
 <define-tag release_date>2011-04-08</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4" maintainer="Mark Caglienzi"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Mark Caglienzi"
 
 <p>Esortiamo la presentazione di proposte per saggi, esposizioni,
 sessioni di discussione e seminari per Debconf11. Le presentazioni non

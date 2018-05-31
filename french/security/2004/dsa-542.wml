@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="d70164e0c586dc45629827285436626e8f92949b" maintainer="DFS Task Force"
 <define-tag description>Entrée non assainie</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs failles de sécurité ont été découvertes dans les versions 

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 7 — Известные ошибки" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.17" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e673bc1c67aefd757c294a7f38eb9aa9f501bd2e" maintainer="Lev Lamberov"
 
 #include "$(ENGLISHDIR)/releases/info"
 

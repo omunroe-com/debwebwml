@@ -1,6 +1,6 @@
 #use wml::debian::template title="Suggerimenti utili per la traduzione"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.36" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Giuseppe Sacco"
 
 <p>Vedi anche le pagine <a href="working">lavorare sulle pagine web</a>
 che descrive alcune regole generali da osservare, non solo limitatamente

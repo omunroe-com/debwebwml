@@ -1,5 +1,5 @@
 #use wml::debian::template title="コンサルタント" NOCOMMENTS="yes" GENTIME="yes"
-#use wml::debian::translation-check translation="1.25"
+#use wml::debian::translation-check translation="6ec312d77fd4c46ce8e0adbcf9dc83c742645275"
 
 <p>フリーソフトウェアである Debian は
 <a href="../MailingLists/">メーリングリスト</a>

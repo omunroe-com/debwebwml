@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6c5bb25e3cf06fdc6bf2bf286d63f69322b07618" maintainer="Jean-Paul Guillonneau"
 <define-tag pagetitle>Résolution générale : limitation de la durée du mandat des membres du Comité technique</define-tag>
 <define-tag status>F</define-tag>
 # meanings of the <status> tag:

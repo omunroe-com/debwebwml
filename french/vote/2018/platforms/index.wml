@@ -1,7 +1,7 @@
 #use wml::debian::template title="Programmes des candidats au poste de responsable du projet" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="642f9a3796ea2749d15d3b96278b106ebd19c4d6" maintainer="Jean-Pierre Giraud"
 
     <p>
       Vous trouverez ci-dessous le programme des candidats à l'élection

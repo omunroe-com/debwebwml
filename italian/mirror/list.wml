@@ -1,5 +1,5 @@
 #use wml::debian::template title="Siti mirror di Debian in tutto il mondo" BARETITLE=true
-#use wml::debian::translation-check translation="1.13" maintainer="skizzhg"
+#use wml::debian::translation-check translation="ef7400a6ea2c98aed253709dd68a428201e21d88" maintainer="skizzhg"
 
 <p>Debian è distribuita (<em>mediante mirror</em>) su centinaia di
 server su internet. L'utilizzo di un server vicino dovrebbe aumentare

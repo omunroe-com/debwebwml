@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b76af358a84f5c3bd509f1b8fed21d7078642fc5" maintainer="Lev Lamberov"
 <define-tag description>небезопасные файлы /tmp</define-tag>
 <define-tag moreinfo>
 Пользовательские стартовые сценарии X иногда создают уязвимый файл в /tmp.

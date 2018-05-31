@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="99d9281ec114bc899622b2b4aa3ce542cab01e5b"
 <define-tag moreinfo>
 Hemos recibido infomación que dice que procps 1.2.6 contiene una creación de
 archivo y un error de corrupción en XConsole. Si tiene instalado procps en sus

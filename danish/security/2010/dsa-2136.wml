@@ -21,4 +21,4 @@ er dette problem rettet i version 0.2.1.26-6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2136.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="86774a4f23d7e2f850bceee369111c19464f1bef" mindelta="1"

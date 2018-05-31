@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5d3d9de4bced28f8cdfbebda9829844119110e85" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>В phpLDAPadmin, веб-интерфейсе для администрирования серверов LDAP, было

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1d234abd0cb6d3d7e75ce722a9fea224df8bb875" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Михаил Клементьев, Ронни Гудрич и Андрей Красичков обнаружили, что

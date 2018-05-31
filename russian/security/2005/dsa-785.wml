@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b27d11d23c55bd839184766c856e4d6d383c8a48" maintainer="Lev Lamberov"
 <define-tag description>отход аутентификации</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что libpam-ldap, подключаемый модуль аутентификации с

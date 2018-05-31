@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5bc1c6de95b4f4154c74fcab63dfe0dbdada5af1"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Nick Wellnhofer descubrió que ciertas llamadas a funciones dentro de predicados

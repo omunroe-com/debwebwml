@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.deqx.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="866294a282a7e7ea99decf4d17f197da4d2afe83"
 
 <p>
  Vi använder en ensam Debianarbetsstation (Sarge) på vårt interna nätverk

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a0acabec6cdd1a7a7acb0fd1372e3096cedbb808" mindelta="1"
 <define-tag description>arraylæsning uden for grænserne</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at en ondsindet klient kunne få en GNUTLS-server til at gå ned, 

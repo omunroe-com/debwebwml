@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2dcaf19bb1f02a0122fb67734760b8009a727abc" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jakub Wilk opdagede at dpkg ikke på korrekt vis fortolkede filnavne omgivet 

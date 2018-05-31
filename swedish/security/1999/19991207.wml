@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240"
 <define-tag description>överbelastningsattack i Sendmail</define-tag>
 <define-tag moreinfo>Versionen av sendmail som medföljde Debian GNU/Linux
 2.1 har ett mindre problem i koden för regenerering av aliasdatabasen.

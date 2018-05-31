@@ -1,5 +1,5 @@
 #use wml::debian::template title="Merchandise do Debian" GEN_TIME="yes" BARETITLE="true"
-#use wml::debian::translation-check translation="1.4" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="a627c8b76fd1fe6d55226147a68f175715aba547" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>
 Como a popularidade do Debian cresceu, nós temos recebido muitos pedidos

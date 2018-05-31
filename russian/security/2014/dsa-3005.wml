@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2c06e63d5556aef515b141d1bfb4202d58c15c5e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Томаш Тринка обнаружил переполнение динамической памяти в обработчике статуса gpgsm

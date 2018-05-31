@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="878b8653453da10270cec8f226b0c69d9e52fadc" maintainer="Lev Lamberov"
 <define-tag description>павышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Рафаль Войчик из Bromium обнаружил, что FreeBSD неправильно обрабатывает

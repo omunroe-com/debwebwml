@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="9e127478c2cfcc2540d1b09eb1262d086be31eee" mindelta="1"
 <define-tag description>udførelse af skripter på tværs af websteder</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhed i forbindelse med udførelse af skripter på tværs af websteder i

@@ -1,7 +1,7 @@
 #use wml::debian::template title="Les versions de Debian"
 #include "$(ENGLISHDIR)/releases/info"
 
-#use wml::debian::translation-check translation="1.71" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="5182e9999d26541c0f07c58dc26b6e27996fd193" maintainer="Jean-Paul Guillonneau"
 
 #  Original translation by Jérôme Marant
 # Autres traductions : voir journal

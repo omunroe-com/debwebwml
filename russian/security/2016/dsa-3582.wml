@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="62ff9020f842c4c35cd7d2ca62f14e6ec4e9ccfd" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Густаво Грико обнаружил, что Expat, библиотека для языка C для выполнения грамматического

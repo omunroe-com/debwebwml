@@ -1,6 +1,6 @@
 #use wml::debian::template title="Säkerhetskorsreferenser" GEN_TIME="yes" NOHEADER="jajamän"
 #use wml::debian::securityreferences
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="642ec8f30a9387cf157c220f2bdc34f844689aaf"
 
 <p>
 <a href="https://security-tracker.debian.org/">Debians säkerhetsproblemsspårare</a>

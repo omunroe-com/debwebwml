@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4dce6841f6a180d0ed873e6baa69e83f1c54fefe" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В коде для грамматического разбора расширений для TLS-сервера OpenSSL

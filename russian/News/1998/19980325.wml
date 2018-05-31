@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a553d10d287ae4c6edfc7a80671f7572361d798b" maintainer="Lev Lamberov"
 <define-tag pagetitle>Заморозка кода (и другие слухи)</define-tag>
 <define-tag release_date>1998-03-25</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c70680ffbd027674198b8a5b19d279e3ffe5dbd2"
 <define-tag description>path transversal de cookie</define-tag>
 <define-tag moreinfo>
 <p>Uma vulnerabilidade foi descoberta no KDE, através da qual restrições 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux 3.0 &ndash; Errata" BARETITLE=true
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 

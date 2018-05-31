@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="7cefa57cfb766fb058b5efc45f8aa805895ad4c3" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>John Heasman, de <em>Next Generation Security Software</em>, descubrió un

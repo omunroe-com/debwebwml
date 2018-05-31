@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5ceeec7e8e3cd6d1372f1f3e8e660c94c2d1a4fe"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy さんは、非常に移植性が高い IA-32 PC エミュレータ bochs の 

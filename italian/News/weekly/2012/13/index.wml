@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-06-25" SUMMARY="Freeze, reindirizzamento dei mirror, resoconto finanziario sulla DebConf11 e relazioni varie"
-#use wml::debian::translation-check translation="1.7" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Mirco Scottà"
 
 # $Rev: 3956 $
 # Status: [freeze]

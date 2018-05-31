@@ -19,5 +19,5 @@ cvsbug nicht.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-806.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e17c58d2b1f55166c41cb0c62b7f4c755fbba7f7" mindelta="1"
 # $Id$

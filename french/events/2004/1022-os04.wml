@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Cyril Brulebois"
+#use wml::debian::translation-check translation="550e466ad94b4e9ecee8928f5f2faf5be723dbbc" maintainer="Cyril Brulebois"
 <define-tag abbr>OS04</define-tag>
 <define-tag year>2004</define-tag>
 <define-tag pagetitle>OS04</define-tag>

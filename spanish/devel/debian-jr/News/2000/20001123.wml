@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 <define-tag pagetitle>La página para el logotipo de Debian Jr. acepta envíos</define-tag>
 <define-tag release_date>2000-11-23</define-tag>
 #use wml::debian::news

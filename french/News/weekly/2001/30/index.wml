@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-11-14" SUMMARY="Brevets, Menu, ITPs, Sourceforge, disquettes de démarrage, ATLAS"
-#use wml::debian::translation-check translation="1.10" maintainer="Guillaume Estival"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Guillaume Estival"
 
 <p><strong>Breveter autre chose que du logiciel.</strong> Sunnanvind a
 encore fait ressortir <a

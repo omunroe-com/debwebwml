@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-2-1" SUMMARY="Concours pour le logo, publication de gnome-apt, problèmes avec libtool, aide demandée"
-#use wml::debian::translation-check translation="1.21" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Thomas Huriaux"
 
 <p>Nous avons le plaisir de vous présenter la 5e&nbsp;<em>DWN</em> de
 l'année, la lettre d'information hebdomadaire de la communauté Debian.

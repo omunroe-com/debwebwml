@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4deee97a3fb1766eeeba3bf14e3787bd6cc8dc27" maintainer="Lev Lamberov"
 <define-tag description>скомпрометированные сертификаты авторитета</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено несколько неавторизованных сертификатов SSL, выданных

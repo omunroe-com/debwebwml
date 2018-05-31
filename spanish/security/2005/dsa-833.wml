@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="bfd723b4be0ce015c6721bfd3c8fc2056603b9f7" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>Esta actualización sólo se ocupa de los paquetes binarios para la

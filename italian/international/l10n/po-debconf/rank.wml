@@ -1,6 +1,6 @@
 #use wml::debian::template title="Stato della localizzazione in Debian &mdash; Classifica delle lingue in base ai file PO dei modelli debconf"
 #include "$(ENGLISHDIR)/international/l10n/dtc.def"
-#use wml::debian::translation-check translation="1.5" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="9b292f44a39541d2f3e00486d1f6076c676fdd1f" maintainer="Luca Monducci"
 
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
 

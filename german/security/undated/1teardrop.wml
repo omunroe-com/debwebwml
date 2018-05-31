@@ -6,5 +6,5 @@ zu lassen.</define-tag>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/undated/1teardrop.data'
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="11f139834b434da130414d66c8f8120ca847f7a1"
 # Translator: Noel Köthe, noel@koethe.net, 2001-06-21

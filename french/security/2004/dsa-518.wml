@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f72ecb05af157932762ce3147d679c2c66050dad" maintainer="DFS Task Force"
 <define-tag description>Entrée non vérifiée</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE a identifié une faille de sécurité dans le navigateur web Opera qui

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d4ea8efe37362262fff077374cf82b6d1caef74f" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Hans Jerry Illikainen upptäckte att libdg2, ett bibliotek för

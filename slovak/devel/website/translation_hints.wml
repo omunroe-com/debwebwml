@@ -1,6 +1,6 @@
 #use wml::debian::template title="Užitočné rady prekladateľom"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.39" maintainer="Slavko"
+#use wml::debian::translation-check translation="7fce35397b85232374e07ada8bb4f49a830c5d1b" maintainer="Slavko"
 <p>Prosím, pozrite si stránku o <a href="working">práci na webových stránkach</a>,
 ktorá popisuje niektoré všeobecné veci, nie len vo vzťahu
 k prekladom.

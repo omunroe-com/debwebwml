@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="fa773aff79020fe9a333937f6da3d92ec2341edb" maintainer="Simon Paillard"
 <define-tag description>Mauvaise vérification des entrées</define-tag>
 <define-tag moreinfo>
 <p>Lionel Elie Mamane a découvert une vulnérabilité dans capi4hylafax, un

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1e6edff17ac49ab1ef035934b52fd6f383348361" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy opdagede et heapbaseret bufferoverløb i 

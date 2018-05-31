@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0d04733fd22bbb750dae3104f7966662b01fcd05" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
 <p>Nicholas Gregoire och Cris Neckar upptäckte flera minneshanteringsfel

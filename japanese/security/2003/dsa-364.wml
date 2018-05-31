@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="c9d3368d270e05503dd47a2ff4db44ae74fff36d"
 <define-tag description>バッファオーバフロー、任意のコマンド実行</define-tag>
 <define-tag moreinfo>
 <p>man-db は Debian システムに標準の man(1) コマンドを提供します。

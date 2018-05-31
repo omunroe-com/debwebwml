@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="124f06add18395512c78e361047f63b6eeea261d"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Google Security Team の Will Drewry さんにより、ソース閲覧ツール

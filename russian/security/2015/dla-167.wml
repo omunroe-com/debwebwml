@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="487dda856f92f6f5f76c0266911099d0832304d4" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>Коусуке Эбихара обнаружил, что redcloth, модуль Ruby для

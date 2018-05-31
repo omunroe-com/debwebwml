@@ -1,6 +1,6 @@
 #use wml::debian::template title="Le projet de traduction de descriptions de Debian &mdash; DDTP"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.28" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="251c5302348624f0a9612aa8586c1067cbb692bb" maintainer="Nicolas Bertolissio"
 
 <p>
 Le <a href="https://ddtp2.debian.net">projet de traduction des descriptions de

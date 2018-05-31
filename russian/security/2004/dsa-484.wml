@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6f265b1bfc5f646ec5888e0db4689f9e18fea9d8"
 <define-tag description>неправильный отказ от привилегий</define-tag>
 <define-tag moreinfo>
 <p>Стив Кемп (Steve Kemp) обнаружил уязвимость в игре xonix. Игра

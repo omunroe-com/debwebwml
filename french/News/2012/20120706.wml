@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian vous invite à la journée Debian</define-tag>
 <define-tag release_date>2012-07-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Cédric Boutillier"
 
 <p>Le projet Debian, l'équipe derrière le système d'exploitation libre Debian,
 vous invite à participer à la journée Debian qui se tiendra le 7 juillet 2012

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="79472e8a7b149ba84f4bda680ab9791ebd1fb348" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Sergey Bobrov upptäckte att cookie-tolkning i Django och Google

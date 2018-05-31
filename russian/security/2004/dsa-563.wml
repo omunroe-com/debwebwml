@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="9d49b4bfc1b8124103d05a1e9ea4fae97587f783"
 <define-tag description>не производится очистка входного текста</define-tag>
 <define-tag moreinfo>
 <p>Эта рекомендация является дополнением к DSA 563-1 и 563-2, которые не

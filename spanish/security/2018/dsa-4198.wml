@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="79b2d19b9b7be22b89d3d393e24a6fe1abc23f6f"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Albert Dengg descubrió que el análisis sintáctico incorrecto de mensajes &lt;stream:error&gt;

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Oversættelse af Debians websider" BARETITLE=true
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="1.52"
+#use wml::debian::translation-check translation="63debed7d9f6d7ea6c3e932aea334d4e00d16662"
 
 <p>For at gøre oversætternes arbejde så let som muligt, genereres siderne lidt
 anderledes end mange af dem du måske er vant til. Websiderne genereres faktisk

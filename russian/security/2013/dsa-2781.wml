@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cf6a93b6e5d1a4cf12a8f7ed1132898c1c6370cc" maintainer="Lev Lamberov"
 <define-tag description>в некоторых ситуациях PRNG некорректно заполняется повторно</define-tag>
 <define-tag moreinfo>
 <p>Была обнаружена уязвимость шифрования в генераторе псевдослучайных чисел

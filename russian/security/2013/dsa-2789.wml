@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6fc9c5965a68ed19091dec075678aa92d76743f2" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании и обход авторизации</define-tag>
 <define-tag moreinfo>
 <p>В утилите грамматического разбора ASN.1 из strongSwan, службы IKE,

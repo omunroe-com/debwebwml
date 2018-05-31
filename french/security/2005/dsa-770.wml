@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Mohammed Adnène Trojette"
+#use wml::debian::translation-check translation="6c79052561208b9aa8ea466fe77d17dd94069489" maintainer="Mohammed Adnène Trojette"
 <define-tag description>Création de fichiers temporaires non sécurisée</define-tag>
 <define-tag moreinfo>
 <p>John Goerzen a découvert que gopher, un client pour le protocole

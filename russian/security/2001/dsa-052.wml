@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="71fb0da6aba283067a58286292fd34f79c72dcd9" maintainer="Lev Lamberov"
 <define-tag description>некорректный отказ от привилегий</define-tag>
 <define-tag moreinfo>
 Дэниел Кобрас обнаружил и исправил проблему в sendfiled, которая

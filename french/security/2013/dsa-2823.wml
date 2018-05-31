@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="2f46483b99e3767a76e06f1448255e7bd0aef07e" maintainer="Thomas Vincent"
 <define-tag description>Dépassements d'entier par le bas</define-tag>
 <define-tag moreinfo>
 <p>Bryan Quigley a découvert un dépassement d'entier par le bas dans Pixman,

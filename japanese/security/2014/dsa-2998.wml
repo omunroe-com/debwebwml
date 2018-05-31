@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="869dc31d8677976fd4452fbe79c6a9af1eaaf970"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数の脆弱性が Secure Sockets Layer ツールキット OpenSSL

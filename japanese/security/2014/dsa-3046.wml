@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3c27c783d6ceba76d1c1c296137b09f4d75bc245"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>共同作業用ウェブサイトエンジン MediaWiki が、ユーザが作成した javascript

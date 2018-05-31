@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="002fc86db471bd9a7b618b25545192e64526665f" maintainer="David Prévot"
 <define-tag description>Erreur d'implémentation</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-04-15" SUMMARY="PopCon, Menu, Prawo, Usunięcia, Wydanie, Kategorie, Analiza, x86-64, NetBSD, Hurd, Alioth, SPI"
 # $id: index.wml,v 1.8 2003/02/26 09:08:24 joey Exp $
-#use wml::debian::translation-check translation="1.27"
+#use wml::debian::translation-check translation="8dba7ef8c7a857e37f21ea9355d7c02d91438d91"
 
 <p>Witaj w piętnastym w tym roku numerze DWN, tygodniku dla osób
 zainteresowanych i związanych z Debianem. Uważajcie na wasze maszyny, bo

@@ -1,6 +1,6 @@
 # Status: [content-frozen]
 # $Rev$
-#use wml::debian::translation-check translation="1.1" maintainer="Andreas Rönnquist"
+#use wml::debian::translation-check translation="d0ea677694003bb7561809045b401f5dc5e6c7b6" maintainer="Andreas Rönnquist"
 
 <define-tag pagetitle>Säkerhetsstöd för Wheezy har lämnats över till LTS-gruppen</define-tag>
 

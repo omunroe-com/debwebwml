@@ -1,7 +1,7 @@
 <define-tag pagetitle>Nøgleudløb gør de fleste etch RC1-aftryk ubrugelige</define-tag>
 <define-tag release_date>2007-02-10</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8d1f9387753a5d5994a4e2d998a8c586929b1eb6"
 
 <p>Udløbet af Debian-arkivets signeringsnøgle for 2006 er gjort de fleste 
 etch RC1-installeringsmedier ubrugelige.  De eneste aftryk, der stadig skulle

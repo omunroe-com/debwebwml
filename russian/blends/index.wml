@@ -1,5 +1,5 @@
 #use wml::debian::template title="Чистые смеси Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.27" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Lev Lamberov"
 
 <p>
 Чистые смеси Debian представляют собой решение для групп людей с особыми нуждами.

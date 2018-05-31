@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d9e02aff73ec00d06205a79bcaf7cc25fa774ae2" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Джунан Джан обнаружил несколько проблем в wavpack, наборе программ

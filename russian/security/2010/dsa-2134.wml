@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3126379c188d1c17fb83967a5f21ea18ea669e2a" maintainer="Lev Lamberov"
 <define-tag description>готовящиеся изменения в формате рекомендация по безопасности</define-tag>
 <define-tag moreinfo>
 <p>Традиционно рекомендации по безопасности Debian включали в себя значения MD5 для проверки

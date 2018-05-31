@@ -1,5 +1,5 @@
 #use wml::debian::template title="Як отримати Debian через Internet" BARETITLE=true
-#use wml::debian::translation-check translation="1.32" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="9bc7028aecff09464573558f6c4618c566a3d84b" maintainer="Borys Yanovych"
 
 <p>Ви маєте можливість завантажити Debian через Internet</p>
 

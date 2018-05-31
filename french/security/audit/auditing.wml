@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.19" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9" maintainer="Simon Paillard"
 #use wml::debian::template title="Conduire un audit"
 #use wml::debian::recent_list
 

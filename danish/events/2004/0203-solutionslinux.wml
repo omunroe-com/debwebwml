@@ -25,7 +25,7 @@ projektmedlemmer vil repræsentere projektet og demonstrere styresystemet.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="5f2e552417ac8c8eb0d5535d3f46577eb03bc169"
 #Related Links here (free form)
 <ul>
  <li><a href="0203-solutionslinux-report">Rapport</a></li>

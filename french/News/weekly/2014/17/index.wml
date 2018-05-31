@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-12-29" SUMMARY="Édition de sources en ligne, recherche de code pour Debian, prise en charge d'UEFI dans Jessie, limitation des mandats du Comité technique, quatrième compte-rendu de Freexian sur Long Term Support (LTS) Debian, communication sur C++11, notes et usage dans Jessie, rapports de bogues pour Jessie, les questions des Nouvelles du projet Debian : commissaires aux comptes, que faites-vous ?, autres nouvelles"
-#use wml::debian::translation-check translation="1.5" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 5933 $

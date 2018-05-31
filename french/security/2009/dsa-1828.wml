@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="6f1cc87e85bbb35c215306cf9d79a275d8073f59" maintainer="Thomas Vincent"
 <define-tag description>Chemin de recherche de module non sécurisé</define-tag>
 <define-tag moreinfo>
 

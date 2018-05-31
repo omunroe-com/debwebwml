@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c8e7006389ed8d322438976ef4ef0da8712cb7ad" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В MuPDF, просмотрщике PDF, были обнаружены многочисленные уязвимости,

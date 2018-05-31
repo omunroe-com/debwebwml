@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian korišten u eBayu</define-tag>
 <define-tag release_date>1999-10-20</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="f6d19a5b374cd439895bd28d27672571962a736b"
 
 <P>Debian Linux distribucija se koristi u eBayu (NASDAQ: EBAY
 <newsurl "http://www.ebay.com/">), vodećoj svjetskoj mrežnoj zajednici za

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="efa0dc8bcc67fb75951b266bad040ec796ff0a02" maintainer="Lev Lamberov"
 <define-tag description>небезопасные временные файлы</define-tag>
 <define-tag moreinfo>
 <p>В xlsview из набора catdoc, набора программ для преобразования Word в TeX и обычный текст,

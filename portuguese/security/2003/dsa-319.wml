@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4d92b0c94db9db5b80e230b88eb9caaf26b5bd90"
 <define-tag description>falsificação de Id de sessão</define-tag>
 <define-tag moreinfo>
 <p>O script miniserv.pl do pacote webmin não trata adequadamente 

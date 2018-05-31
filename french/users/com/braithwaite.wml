@@ -4,7 +4,7 @@
 <define-tag webpage>http://braithwaite.ca/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="0677478d8bd2f8749acd861c80483363d829a159" maintainer="Nicolas Bertolissio"
 
 <p>
 Tous nos serveurs fonctionnent sous Debian Etch (sauf un qui est utilisé pour

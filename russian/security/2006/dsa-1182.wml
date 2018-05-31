@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="df8f4c152e12030b4f3e888761f951046952fb58" maintainer="Lev Lamberov"
 <define-tag description>слабое шифрование</define-tag>
 <define-tag moreinfo>
 <p>Даниэл Блайхенбахер обнаружил проблему в пакете шифрования GNU TLS,

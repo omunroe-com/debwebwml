@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="abd1b3d024227c140c171534f698331997521f4b" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Aniket Nandkishor Kulkarni upptäckte att i tomcat7, en servlet och

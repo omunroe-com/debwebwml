@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f176771d8dde81e94da7842cfcbb46d24a71f722" maintainer="Lev Lamberov"
 <define-tag description>обход аутентификации</define-tag>
 <define-tag moreinfo>
 <p>В проекте Codenomicon CROSS из strongSwan, решения для VPN на основе IPsec, была

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="36fd5309560d680b2cbc26b9bc746a23e78b05e0"
 <define-tag description>не производится очистка входного текста</define-tag>
 <define-tag moreinfo>
 <p>Обнаружена возможность утечки информации в CUPS, Common UNIX Printing

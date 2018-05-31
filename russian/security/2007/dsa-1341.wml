@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7056ebf9e1b8467a8a96ad6f2864975bdbc9415f" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление содержит исправленные пакеты для предыдущего стабильного выпуска (sarge).

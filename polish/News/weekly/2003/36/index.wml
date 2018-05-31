@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-09" SUMMARY="Przegląd, Webmagick, PostgreSQL, Libwww, dpkg, GNU, FSF, Polityka, Bezpieczeństwo, NordicOS, Grecki przewodnik"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>Witaj w trzydziestym szóstym w tym roku numerze DWN, tygodnika dla osób
 zainteresowanych i związanych z Debianem.  <a

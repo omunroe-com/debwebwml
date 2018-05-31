@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="0673d80442ee1e01852c577932547e94bf19b67e" maintainer="Alexander Reshetov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Matthew Nicholson обнаружил переполнение буфера в драйвере SIP канала

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f2f900d7593295d8cc57f50a2eb3cb892840a57c" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 В версиях пакетов PHP 4 до версии 4.0.3 несколько ошибое форматной
 строки позволяют при помощи специально сформированных запросов выполнять код от лица

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="29b02b42199757574b8261270eff22d3390eaa7a"
 <define-tag description>クロスサイトスクリプティング脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Nick Brunn さんが、python-django、高レベルの Python

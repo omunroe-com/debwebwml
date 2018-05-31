@@ -1,5 +1,5 @@
 #use wml::debian::template title="Dokumentasjon"
-#use wml::debian::translation-check translation="1.112" maintainer="Hans F. Nordhaug"
+#use wml::debian::translation-check translation="4cc418b4108c40df6d989062391e335da6594e23" maintainer="Hans F. Nordhaug"
 # Oversatt til norsk av Tor Slettnes <tor@slett.net>
 # Oppdatert av Peter Karlsson <peterk@debian.org>
 # Oppdatert av Hans F. Nordhaug <hansfn@gmail.com>, 2008-2017.

@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Debian Hamradio «Pure Blend»" NOHEADER="true" BLENDHOME="true"
 #use wml::debian::recent_list
 #use wml::debian::blends::hamradio
-#use wml::debian::translation-check translation="1.3" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Laura Arjona Reina"
 
 <span class="download"><a href="<stable-amd64-url/>">
 Descargar Debian Hamradio <stable-version/><br/><em>(64-bit LiveDVD)</em></a>

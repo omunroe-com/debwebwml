@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="84c60c5e2236e18a643b7da10712d9d17f0bf9f3" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Лиам Хелмер отметил, что sudo, программа, предоставляющая ограниченные права

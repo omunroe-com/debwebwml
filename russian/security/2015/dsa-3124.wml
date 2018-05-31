@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d45e67eca887ec8e0dc5aba06313ebb5820fc72f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Торстен Эккель из Znuny GMBH и Ремо Штойбл из InfoGuard обнаружили

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7879d32974b525ad74482086ef21eca42110f536" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Доминик Шайрлинк и Скотт Гири из Vend сообщили о небезопасном поведении

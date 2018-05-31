@@ -1,6 +1,6 @@
 #use wml::debian::template title="Lista kontrolna kandydata"
 #include "$(ENGLISHDIR)/devel/join/nm-steps.inc"
-#use wml::debian::translation-check translation="1.26"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Informacje zawarte na tej stronie, mimo że dostępne publicznie, 
 będą interesujące głównie dla przyszłych Deweloperów Debiana.</p>

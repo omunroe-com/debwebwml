@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8af45dec601c1bb2d638d5978077ed7f9d859c12" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптинг</define-tag>
 <define-tag moreinfo>
 <p>В редакторе обогощённого текста движка блогов Movable Type

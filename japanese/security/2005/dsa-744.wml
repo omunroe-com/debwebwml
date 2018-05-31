@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d498086c27fc1692c530ffd8132b58fea07ad246"
 <define-tag description>プログラムミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>Sven Tantau さんがユーザ空間のファイルシステムである fuse

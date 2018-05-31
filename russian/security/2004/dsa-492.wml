@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e136c07d60b1dc9d8bfc53515faa156e45713880"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Херберт Ксю (Herbert Xu) сообщил, что локальные пользователи могут

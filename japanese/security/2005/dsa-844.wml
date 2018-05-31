@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8c0bd8bc846124ec7eab99867d01c193d033ffa2"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>/etc/shadow に対してユーザの HTTP 認証を行う Apache

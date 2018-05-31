@@ -1,7 +1,7 @@
 # From: Warange Rajesh Ramesh <u03148@cs.unipune.ernet.in>
 # Date: Fri, 01 Jul 2005 12:26:51 +0530
 # Message-ID: <42C4E933.9000205@cs.unipune.ernet.in>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="acfad9e19c596da7eb800c848b7074ddd86044d3" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Департамент компьютерных наук, Университет Пуны, Индия</define-tag>
 <define-tag webpage>http://cs.unipune.ernet.in/</define-tag>

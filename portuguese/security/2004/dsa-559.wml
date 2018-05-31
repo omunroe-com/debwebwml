@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="06a685cddde21348f32a23e53510e7a1c665c048"
 <define-tag description>Arquivo temporário inseguro</define-tag>
 <define-tag moreinfo>
 <p>Stefan Nordhausen identificou uma falha de segurança local no

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="49a7fdf4f6cd7a3e200a03ef2d4ca7346171037c" maintainer="Pierre Machard"
 <define-tag description>Attaque de type déni de service à distance</define-tag>
 <define-tag moreinfo>
 <p>Nous avons reçu des rapports spécifiant que in.uucpd, un agent 

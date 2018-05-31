@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7c17d9fcb6807e0273b3babf5d256c26735cbfc8" maintainer="Lev Lamberov"
 <define-tag pagetitle>Compaq жертвует Debian систему Alpha</define-tag>
 <define-tag release_date>1998-10-19</define-tag>
 #use wml::debian::news

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c6a0f49003fbc426b77eacfb48bb58c870b65376"
 <define-tag description>サニタイズ処理チェックの欠落 </define-tag>
 <define-tag moreinfo>
 <p>Stephen Gran さんが、base64 で異常なエンコードがなされた

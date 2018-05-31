@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.god.de/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9ca2ca8477c70ee7788f7affabf2252210ff313e"
 
 <p>
   Nós migramos nossos 8 servidores de várias distribuições comerciais

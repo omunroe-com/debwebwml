@@ -16,7 +16,7 @@ X Window System 用ユーティリティ xitalk に欠陥が発見されまし�
 <p>直ちに xitalk パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="9d760cbab9cfb10db0caaad570a11de8adc0314c"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-462.data"
 # $Id$

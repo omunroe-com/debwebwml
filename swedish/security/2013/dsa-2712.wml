@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="31ea7670f4161d1b8bb616bcc692315f8863c8e9" mindelta="1"
 <define-tag description>utökning av privilegier</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att användare med en giltig agent-login kunde använda

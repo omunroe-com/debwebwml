@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Когда процесс joe (Joe's Own Editor) умирает из-за соответствующего сигнала, а не
 из-за обычного выхода из программы, он сохраняет список файлов, которые редактировались в этот момент в файл с
 именем `DEADJOE' в текущем каталоге. К сожалению, это делает небезопасным способом, что

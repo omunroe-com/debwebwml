@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="57522ed06a3de36e4fe5fc3386728a4813c077db" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Les anciennes versions de <i>mailx</i> utilisaient des ouvertures de fichiers 
 non sécurisées dans la sous-arborescence de <i>/tmp</i> pour l'écriture. 

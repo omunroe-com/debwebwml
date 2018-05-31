@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5d56e540020ecc51c0dbfa4690869b89576b52ee"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>ASN1 (抽象構文記法、Abstract Syntax Notation One) 構造を管理するライブラリ

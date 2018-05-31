@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 7 aktualisiert: 7.1 veröffentlicht</define-tag>
 <define-tag release_date>2013-06-15</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 # $Id$
 # Translated by: Pfannenstein Erik <debianignatz@gmx.de>, 2013-06-19
 

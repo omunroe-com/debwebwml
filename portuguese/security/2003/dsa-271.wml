@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="6ff0e0e23e8e238982ba6f42dce5d7a7544e72cc"
 <define-tag description>alteração não autorizada de senha</define-tag>
 <define-tag moreinfo>
 <p>Um problema foi descoberto no ecartis, um gerenciador de listas de discussão, 

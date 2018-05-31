@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6cab84c6e31afa18e9223c57ca2ec248f88267d4" mindelta="1"
 <define-tag description>informationslækage</define-tag>
 <define-tag moreinfo>
 <p>Yarom og Falkner opdagede, at hemmelige RSA-nøgler kunne lækkes via et 

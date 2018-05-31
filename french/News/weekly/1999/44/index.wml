@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-11-17" SUMMARY="Une politique d'utilisation des machines de Debian; Correctifs an 2000 pour Slink; Corel Linux; 50000 bogues"
-#use wml::debian::translation-check translation="1.19" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Thomas Huriaux"
 # Original translation by Jérôme Marant
 
 <p>

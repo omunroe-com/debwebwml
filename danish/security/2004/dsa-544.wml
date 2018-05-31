@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c6a84fd28be72f30424f2b65a5bd2dfadbbe202c" mindelta="1"
 <define-tag description>usikker midlertidig mappe</define-tag>
 <define-tag moreinfo>
 <p>Ludwig Nussel har opdaget et problem i webmin, et webbaseret administrativ 
@@ -17,4 +17,4 @@ af webmin og version 1.090-1 af usermin.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-544.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c6a84fd28be72f30424f2b65a5bd2dfadbbe202c" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="18d5f46cf939eb6e73e520e85db0a333f08d64ea" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Nick Wellnhofer upptäckte att funktionen xsltFormatNumberConversion

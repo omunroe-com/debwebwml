@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-10-18" SUMMARY="インストーラ, GNOME, メーリングリスト, OpenSolaris, セキュリティ, ライセンス, binutils, Wiki, ファイアウォール"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 42 号へようこそ。Flavio Villanustre さんは、Elive 0.3

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="898c2200ceb1c05065e4dd35c0ea88975029aeb1" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Ив Юнан и Райан Пэнтни обнаружили, что libgadu, библиотека для

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="3497c95d1d5c2c4b824a65a45a1e8b8919338eb3" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de búfer</define-tag>
 <define-tag moreinfo>
 <p>Liu Qishuai descubrió que la biblioteca de GNOME gtop no realizaba un

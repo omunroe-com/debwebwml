@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="1335cc4541e7a7fc86189194ffa2aaffdc00df0a" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Jean-René Reinhard, Olivier Levillain et Florian Maury ont signalé que

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Мегьер Лазло сообщил в Bugtraq, что служба cfingerd, поставляемая в
 составе Debian GNU/Linux 2.2, содержит проблему в коде ведения журнала. Соединение

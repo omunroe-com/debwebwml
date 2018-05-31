@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="74742b2d709a96da79c5e7d342696e9dac4b04e3" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>fc fann ett buffertspill i den variabelexpanderingskod som används i sudo

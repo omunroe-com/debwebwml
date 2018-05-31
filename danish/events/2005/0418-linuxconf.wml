@@ -23,7 +23,7 @@ sikkerhed, embedded systemer og OpenOffice.org.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="766111936d0b6934bb83a599a0aa8f3c2edbcc85"
 #Related Links here (free form)
 <ul>
   <li><a href="http://lca2005.linux.org.au/program.php">detaljeret program</a>

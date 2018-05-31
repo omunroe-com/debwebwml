@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7bbe2776f332edb7a3d881910c990796f15d2da7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах/парсерах для DNP, RSL, LLRP, GSM A-bis OML, ASN 1 BER

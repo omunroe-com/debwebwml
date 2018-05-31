@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-09-03" SUMMARY="OpenOffice, WNPP, Security, Bug-Fixing, Bugs, Testing, TrueType Fonts, Apsfilter, Debian on CD"
 # $Id$
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>데비안 공동체를 위한 올해의 34번째 DWN이다. 좋은 소식이 베네수엘라에서
 왔는데 <a href="http://www.linuxtoday.com/news_story.php3?ltsn=2002-08-30-011-26-NW-LL-PB">리눅스

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="190570227ccc093ac64465ed1d34d2d8220f44de"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Steve Kemp descobriu um buffer overflow no zblast-svgalib, ao salvar 

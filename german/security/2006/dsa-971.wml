@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2f6cd3d43bad6d1ecf55df9121dd799bbd5bf696"
 <define-tag description>Pufferüberlauf</define-tag>
 <define-tag moreinfo>
 <p>SuSE-Forscher entdeckten Heap-Überlauf-Fehler in Xpdf, der Programmsammlung

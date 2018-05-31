@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6d2f4d174dfd15a872dc8bad6473685bf6326e80" maintainer="Lev Lamberov"
 <define-tag pagetitle>Голосования 2013 года</define-tag>
 #use wml::debian::template title="<pagetitle>" NOHEADER="true"
 #use wml::debian::votebar

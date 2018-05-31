@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9edc97aec5e5b8212703f2f6f3ecf9a46a006bbe"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE は、PDF (portable document format) 関連のプログラム群である xpdf

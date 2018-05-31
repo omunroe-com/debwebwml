@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="5bfd8843847d7badbff1ba5f64c6e72aae514334" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Dragana Damjanovic upptäckte att en autentiserad klient kunde krascha

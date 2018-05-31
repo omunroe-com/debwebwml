@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="3bffea2dd8c3d1696264925f4857d667f1c8333b" maintainer="Marco Carvalho"
 <define-tag description>erro de programação</define-tag>
 <define-tag moreinfo>
 <p>Uma condição de negação de serviço foi descoberta no bluez-hcidump, um

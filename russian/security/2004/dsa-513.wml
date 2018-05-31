@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="da653520e0a148feb26b0dfd47fe0ea48c9b969a"
 <define-tag description>строка формата</define-tag>
 <define-tag moreinfo>
 <p>jaguar@felinemenace.org обнаружил уязвимость строки формата в

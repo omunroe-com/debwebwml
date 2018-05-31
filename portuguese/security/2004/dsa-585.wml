@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="a818aca70a99bbdfc6dbf13d723c89374a9282d5"
 <define-tag description>erro de programação</define-tag>
 <define-tag moreinfo>
 <p>Uma vulnerabilidade foi descoberta na suíte shadow que fornece programas

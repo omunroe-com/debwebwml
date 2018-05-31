@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0c818110a9f1627720a4ff0f4230238b1845894f" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптинг</define-tag>
 <define-tag moreinfo>
 <p>Маркус Питон и Витаутас Пауликас обнаружили, что встроенный видео

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="91595b39343ddab71116d8471f5f5789db624810" maintainer="juanma"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>Se ha descubierto una vulnerabilidad en cscope, un programa para

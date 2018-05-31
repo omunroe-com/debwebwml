@@ -10,7 +10,7 @@
 0.4.1-9woody1.1 で修正されています。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2261cd325d9f26ff6d8b3bf65e48ac8493b73716"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-205.data"
 # $Id$

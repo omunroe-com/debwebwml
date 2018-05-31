@@ -30,4 +30,4 @@ immédiatement.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-276.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="8b53fd05f191cb6bc6c920a103b2f2502e22689e" maintainer="DFS Task Force"

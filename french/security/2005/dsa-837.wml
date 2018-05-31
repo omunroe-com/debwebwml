@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="5cff59ec686a38a89eceae886c30b2a63a9d9006" maintainer="Simon Paillard"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Tom Ferris a découvert un bogue dans la gestion des noms d'hôte IDN par Mozilla

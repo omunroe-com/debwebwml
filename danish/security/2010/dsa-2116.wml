@@ -24,4 +24,4 @@ påvirket af dette problem.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2116.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f95bd8a6ae75810f1aded5af2f901b23da44a84f" mindelta="1"

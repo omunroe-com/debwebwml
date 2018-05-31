@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="a8914697e978e3e81b376de4a364ab44f464804b" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>Bob Nomnomnom rapporterede om en lammelsesangrebssårbarhed (denial of 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c12438d6ecdf640f20d92fb6713eb43115b0cf1b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Томас Гербет обнаружил, что viewvc, веб-интерфейс для репозиториев

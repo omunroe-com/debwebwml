@@ -1,7 +1,7 @@
 <define-tag pagetitle>Първи южноамерикански огледален сървър за обновявания по сигурността</define-tag>
 <define-tag release_date>2011-03-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>Проектът Дебиан с удоволствие обявява първия официален огледален сървър на
 <code>security.debian.org</code> в Южна Америка.

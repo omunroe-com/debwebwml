@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.10" maintainer="David Prévot"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="David Prévot"
 
 <define-tag pagetitle>Nouvelle apparence pour les sites Debian</define-tag>
 

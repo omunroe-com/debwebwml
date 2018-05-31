@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="1f6c6417eb98a37e0f9efaa73c1145ee77d4e1fb"
 <define-tag moreinfo>La versión de amd que se distribuía con Debian GNU/Linux
 2.1 es vulnerable a una explotación remota. Pasar un nombre de directorio
 grande al código de registro de amd desbordaría un búfer, lo que podía ser

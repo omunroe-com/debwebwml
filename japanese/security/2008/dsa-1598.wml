@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e9f5798e72f3ba88a4736d8983d1e394dca842fa"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>クロスプラットフォーム画像ツールキット Tk の GIF 画像展開ツールにバッファ

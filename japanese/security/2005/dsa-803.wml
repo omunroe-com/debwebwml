@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="acfad9e19c596da7eb800c848b7074ddd86044d3"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が Apache ウェブサーバに発見されました。HTTP

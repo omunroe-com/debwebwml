@@ -1,5 +1,5 @@
 #use wml::debian::template title="Organigrama de Debian"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="5c3ace6e77dd17f5a0f8fca6c2aba0d3423c9f9e"
 
 <p>Ocasionalmente la gente necesita contactar con alguien sobre un aspecto
 en particular de Debian. La siguiente es una lista de diferentes ocupaciones y

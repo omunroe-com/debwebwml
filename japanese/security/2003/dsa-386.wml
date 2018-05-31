@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="237b15e781d1769cd377fc0518929572027e1c46"
 <define-tag description>入力値の正当性チェックに関するバグ</define-tag>
 <define-tag moreinfo>
 <p>SuSE セキュリティチームは、メール送信に利用される Perl モジュール Mail::Mailer

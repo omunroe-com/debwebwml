@@ -1,6 +1,6 @@
 #use wml::debian::template title="El mecanismo de <q>propuesta de actualizaciones</q>"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.10" maintainer="Santi Moreno"
+#use wml::debian::translation-check translation="09c8de4214e938e26eeaf5c5d5bbb5937213f414" maintainer="Santi Moreno"
 
 <p>Todos los cambios en la versión <q>estable</q> (y <q>antigua</q>) de la
 distribución son tratados mediante un periodo extenso de prueba antes de ser

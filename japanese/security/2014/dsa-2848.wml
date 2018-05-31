@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="5dc7b4bdff96b260f7add85aca772659b3cd08c6"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の問題が MySQL データベースサーバに発見されました。脆弱性は MySQL

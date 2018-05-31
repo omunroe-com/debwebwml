@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="89255289408a58e12e58f9e3ae14868f6706fad6" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Hiroya Ito de GMO Pepabo, Inc. a signalé que checkpw, un programme

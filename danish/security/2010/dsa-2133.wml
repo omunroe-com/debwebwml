@@ -23,4 +23,4 @@ mipsel vil snart blive frigivet.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2133.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="c7855e6c9e501f45cf17148e30bf911f7696a37f" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="268448b0fd376bf430681012a06414801ef14a32" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Harry Sintonen opdagede at GNU tar ikke på korrekt vis håndterede membernavne 

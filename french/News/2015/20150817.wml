@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="475df144b54167549c17fcf9dc92852702beb8fb" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Debian et <q>Software Freedom Conservancy</q> annoncent le projet <q>Copyright Aggregation</q></define-tag>
 <define-tag release_date>2015-08-17</define-tag>
 #use wml::debian::news

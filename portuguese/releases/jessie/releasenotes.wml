@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/jessie/release.data"
-#use wml::debian::translation-check translation="1.2" maintainer="Marcelo Santana"
+#use wml::debian::translation-check translation="429b669e74a655a084feebb28db397b6384634d3" maintainer="Marcelo Santana"
 
 <if-stable-release release="wheezy">
 <p>Esta é uma <strong>versão ainda em desenvolvimento</strong> das Notas de

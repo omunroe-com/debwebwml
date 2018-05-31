@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bd00b3c138abe83311330fdd18668d56da35e187" mindelta="1"
 <define-tag description>udvidelse af eksterne XML-entiteter</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede, at Perl-modulet XML::Atom ikke deaktiverede eksterne entiteter,

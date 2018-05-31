@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="001f238af5addfe627ddf8a260eaef00aad146e8" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Йоуни Малинен обнаружил проблему, связанную с очисткой ввода, в wpa_cli и

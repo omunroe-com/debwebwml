@@ -2,7 +2,7 @@
 <define-tag release_date>2017-12-09</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c550a2d918185fd8e04525eef6273ecc6d3913d9"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2017-12-20
 
 <define-tag release>9</define-tag>

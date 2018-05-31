@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="31610b69e582f42f4174beda987dbfe45cb86b9d"
 <define-tag description>情報漏洩</define-tag>
 <define-tag moreinfo>
 <p>ネットワークバックアップサービス bacula がコンソール

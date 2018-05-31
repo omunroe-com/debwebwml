@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="728a63f3ffe474923b31e9edf030e6016a8beaca" maintainer="juanma"
 <define-tag description>desbordamiento de buffer</define-tag>
 <define-tag moreinfo>
 <p>[&nbsp;Esta versión muestra la lista con los paquetes correctos

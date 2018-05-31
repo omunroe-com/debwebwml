@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="98017460c9492e85efa3e634602b65182ceba72c" maintainer="DFS Task Force"
 <define-tag description>Attaque sur les formats de chaînes de caractères</define-tag>
 <define-tag moreinfo>
 <p>L'équipe de sécurité de SuSE a découvert plusieurs failles de sécurité 

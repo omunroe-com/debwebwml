@@ -1,5 +1,5 @@
 #use wml::debian::template title="문서"
-#use wml::debian::translation-check translation="1.114" maintainer="Sebul"
+#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618" maintainer="Sebul"
 
 <p>운영체제의 중요한 부분 중 하나는 문서, 프로그램의 사용과 운영을
 설명하는 기술 설명서입니다. 고품질 자유 운영체제를 만들기 위한 노력의 일환으로

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2dd9aafde8454eb079c7671f3000ce8f650a1276" mindelta="1"
 <define-tag description>överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Sébastien Bocahu upptäckte att modulen <q>reverse proxy add forward</q>

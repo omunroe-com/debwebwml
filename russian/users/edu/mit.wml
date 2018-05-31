@@ -1,5 +1,5 @@
 # From: Jonathan D. Proulx <jon@ai.mit.edu>
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9f3c17a16f57631a165fb3ded537883908bdbc18" maintainer="Lev Lamberov"
 
 <define-tag pagetitle>Лаборатория искусственного интеллекта, Массачусетский технологический институт, США</define-tag>
 <define-tag webpage>http://www.ai.mit.edu/</define-tag>

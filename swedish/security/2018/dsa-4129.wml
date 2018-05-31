@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="500b05c4a19ba284705855f89898af0d775f08be" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera heapbufferöverläsningar har upptäckts i freexl, ett bibliotek

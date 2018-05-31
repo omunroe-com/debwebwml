@@ -22,7 +22,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="8f911da1362b4bef3e88c3f9c60cf76bd4e655cf"
 #Related Links here (free form)
 # <ul>
 #   <li><a href="http://www.infodrom.org/Mail-Archive/debian-events-de/">Postlisten debian-events-eu</a>

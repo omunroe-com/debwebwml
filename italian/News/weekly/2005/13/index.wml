@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-29" SUMMARY="Installer, Liste, Elezioni, Pacchettizzazione, QA, Licenze, CD/DVD, Hurd/L4"
-#use wml::debian::translation-check translation="1.9" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Daniele Venzano"
 
 <p>Benvenuti a questo tredicesimo numero dell'anno di DWN, il notiziario settimanale 
 per la comunità Debian.  James Troup ha <a

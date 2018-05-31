@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2fdbc2c9a7e022c3ceb1a7017de8e885b02bd0ba" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sårbarheder blev opdaget i MuPDF, et letvægts-PDF-fremviser.  Projektet 

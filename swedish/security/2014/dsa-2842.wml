@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e57e8a7d527825d1c59f9a76988b3333337eab66" mindelta="1"
 <define-tag description>överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Alvaro Munoz upptäckte en injektion av externa XML-enheter (XXE) i 

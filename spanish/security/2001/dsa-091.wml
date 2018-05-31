@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="77d9f87a3d967102c04b88784818a67ec8a9e3e0"
 <define-tag description>login influenciado</define-tag>
 <define-tag moreinfo>
 Si la característica UseLogin está activada en ssh los usuarios locales

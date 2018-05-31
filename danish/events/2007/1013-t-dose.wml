@@ -25,5 +25,5 @@ under nøglesigneringsfesten.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f0803a6b1673f8be2dafc80ac6e9843989decbf3"
 #Related Links here (free form)

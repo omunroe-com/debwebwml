@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-07-26" SUMMARY="ニューヨークで開催される Debian Day、インドで開催されるミニ Debian カンファレンス、Debian インストーラ beta1、Debian ポッドキャスト、ユーザを引き付けるには?"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="64a931c5064583fdfbe7bf218bffe9344e4ae65a"
 
 <!--
 $Rev: 568 $

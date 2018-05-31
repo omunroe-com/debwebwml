@@ -1,5 +1,5 @@
 #use wml::debian::template title="Документация"
-#use wml::debian::translation-check translation="1.114" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618" maintainer="Lev Lamberov"
 
 <p>Важной частью любой операционной системы является документация,
 технические руководства, описывающие работу программ и их использование.

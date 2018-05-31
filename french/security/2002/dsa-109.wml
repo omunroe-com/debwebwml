@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="6678c1dff7786db40b2b3b267875555883a33315" maintainer="Pierre Machard"
 <define-tag description>Vulnérabilité des éléments dynamiques</define-tag>
 <define-tag moreinfo>
 <p>En raison du non-échappement d'un code HTML, Faq-0-Matic renvoyait

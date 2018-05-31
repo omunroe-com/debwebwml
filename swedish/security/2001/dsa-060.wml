@@ -11,4 +11,4 @@ uppgraderar ditt fetchmailpaket omedelbart.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-060.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="8e425863ccd6f0497d14d178d29ceddf830cb93b" mindelta="1"

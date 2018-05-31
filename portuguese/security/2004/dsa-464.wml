@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="178c1fc5fcef8ac7560d128463690fb33188f703"
 <define-tag description>tratamento de imagem quebrado</define-tag>
 <define-tag moreinfo>
 <p>Thomas Kristensen descobriu uma vulnerabilidade no gdk-pixbuf (pacote binário

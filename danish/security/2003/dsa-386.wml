@@ -20,4 +20,4 @@ version 1.44-1woody1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-386.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="237b15e781d1769cd377fc0518929572027e1c46" mindelta="1"

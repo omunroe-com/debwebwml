@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c2e281b183a91bd79f2e942a9010439b0053f4f5" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что недостаточная очистка входных данных в libevt, библиотеке

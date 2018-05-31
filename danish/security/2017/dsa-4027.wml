@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ed1b8784f98a3778af3f719a9e861d4c076d8534" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhed er fundet i databasesystemet PostgreSQL:  Lammelsesangreb og 

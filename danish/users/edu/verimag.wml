@@ -4,7 +4,7 @@
 <define-tag webpage>http://www-verimag.imag.fr/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bf9be73e7ab2b445cd1ad1e9a17b5946a907d69c"
 
 <p>
     Alle (10) UNIX-servere kører Debian GNU/Linux:  Autentifikation (NIS), NFS 

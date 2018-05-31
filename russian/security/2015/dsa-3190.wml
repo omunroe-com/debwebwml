@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3c563adabbf34cee86dbd64e32a2ab07578e0b40" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Патрик Коулман обнаружил, что SSH клиент Putty не вычищает

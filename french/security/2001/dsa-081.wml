@@ -20,4 +20,4 @@ SSL), toutes deux pour Debian GNU/Linux&nbsp;2.2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-081.data"
-#use wml::debian::translation-check translation="1.3" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="e30667d7071e2fa0f2894bd237d16d4989d911b5" maintainer="DFS Task Force"

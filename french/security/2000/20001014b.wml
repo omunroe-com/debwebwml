@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="f2f900d7593295d8cc57f50a2eb3cb892840a57c" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Dans les versions des paquets <i>PHP&nbsp;4</i> antérieures à la version&nbsp;4.0.3,
 de nombreux bogues de format de chaînes permettent la construction correcte de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e6d62366b1abc1f88b1b9f5588d9b61caf91fc34" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>En sårbarhet rörande förbigång av autentisering har upptäckts i mbed TLS,

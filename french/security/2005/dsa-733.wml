@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="d6c7aeb75ba59d31ac4e05060a46aa105f4ded12" maintainer="Simon Paillard"
 <define-tag description>Fichiers temporaires non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>Justin Rye a découvert que crip, un outil en mode terminal d'extraction, de

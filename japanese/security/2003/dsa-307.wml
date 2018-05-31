@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="43951ab8a6b959d285b04871474f2a9b13309751"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>gPS はシステムプロセスを視覚的に見るためのアプリケーションです。

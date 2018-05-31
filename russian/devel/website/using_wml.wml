@@ -1,5 +1,5 @@
 #use wml::debian::template title="Использование WML"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
 
 <p>WML означает web site meta language -- метаязык web-сайтов. Это означает,
 что WML принимает на вход файлы .wml, обрабатывает их содержимое (которое

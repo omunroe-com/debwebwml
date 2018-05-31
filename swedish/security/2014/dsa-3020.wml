@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="cda7846219e8029c291ff0db55c3b76caff74202" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Under en granskning för EDF, upptäckte Raphael Geissert att paketet

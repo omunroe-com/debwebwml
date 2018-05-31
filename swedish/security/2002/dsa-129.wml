@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="49a7fdf4f6cd7a3e200a03ef2d4ca7346171037c" mindelta="1"
 <define-tag description>fjärröverbelastning</define-tag>
 <define-tag moreinfo>
 <p>Vi har fått flera rapporter om att in.uucpd, en autentiseringsagent i

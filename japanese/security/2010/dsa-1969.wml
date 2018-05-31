@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="8925b9dfda2b22e6cf7c3a6a1dc16d9818f5b55f"
 <define-tag description>整数アンダーフロー</define-tag>
 <define-tag moreinfo>
 

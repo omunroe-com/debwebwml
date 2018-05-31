@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="852b8a6329e63e144544320a209c37462a74058d" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Луиджи Аурэйма обнаружил отказ в обслуживании в сервере для свободной игры

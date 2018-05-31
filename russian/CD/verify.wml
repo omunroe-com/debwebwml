@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Проверка подлинности компакт-дисков Debian" BARETITLE=true
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="553c55e0ca1d5d45ffeaab254ac5430bed284238" maintainer="Lev Lamberov"
 
 <p>
 Официальные выпуски компакт-дисков Debian содержат подписанные файлы с контрольными суммами;

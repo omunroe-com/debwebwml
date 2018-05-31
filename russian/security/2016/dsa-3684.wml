@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="511449358990d64100b8cf6c2ac85f964eb84c59" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Пали Рохар обнаружил, что libdbd-mysql-perl, DBI-драйвер баз данных MySQL

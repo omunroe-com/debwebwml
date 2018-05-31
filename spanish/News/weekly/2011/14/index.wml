@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-11-04" SUMMARY="Actualización para Debian <q>Lenny</q> y <q>Squeeze</q>, fechas de la DebConf12, usos de Emdebian, procedimiento para nuevos miembros"
-#use wml::debian::translation-check translation="1.7" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="e7a43e9d7fba0dacfd02fa428fb89faf507617cf" maintainer="Fernando C. Estrada"
 
 <p>Le damos la bienvenida a la 14ª edición de este año del boletín de
 las noticias del proyecto Debian (DPN), el boletín informativo de la

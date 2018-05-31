@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7ede51affe90b6c6bf838f48246e324d57c17c46" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Сотрудники NISCC сообщили, что MyDNS, сервер DNS, использующий баду данных SQL для хранения

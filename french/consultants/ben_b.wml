@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Ben Bell"
-#use wml::debian::translation-check translation="1.2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="1dec5e3bbb4b0d98ac258ca55b7b0d4cf17dbbc3" maintainer="Nicolas Bertolissio"
 
 <p>
 Je suis spécialisé dans la conception et la mise en oeuvre d'infrastructures

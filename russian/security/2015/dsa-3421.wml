@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0d4adef4db7afedd1c51b4d075709db2be3eb132" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Гектор Марко и Исмаил Риполл из Cybersecurity UPV Research Group

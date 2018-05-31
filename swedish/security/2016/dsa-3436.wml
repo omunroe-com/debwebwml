@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="db6b440c2a9650e7faa720ee59239f93f9d7b6d5" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Karthikeyan Bhargavan och Gaetan Leurent på INRIA upptäckte en brist i

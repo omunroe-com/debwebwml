@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5f4a0a2b8caaf9c8d362590e82a1815fe70b0efd" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Сотрудники High-Tech Bridge SA Security Research Lab обнаружили многочисленные уязвимости,

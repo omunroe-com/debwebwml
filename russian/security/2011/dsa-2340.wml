@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="9975e97b4d31e86bcc394220db727b8834737dfa" maintainer="Lev Lamberov"
 <define-tag description>слабое хэширование паролей</define-tag>
 <define-tag moreinfo>
 <p>magnum обнаружил, что хэширование паролей blowfish, используемое среди

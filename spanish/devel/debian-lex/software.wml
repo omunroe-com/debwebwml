@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian-Lex - Software útil para la abogacía"
-#use wml::debian::translation-check translation="1.10" maintainer="David Moreno Garza"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="David Moreno Garza"
 
 <h2><a id="administration" name="administration">Administración de un despacho de abogados</a></h2>
 <h3><a href="http://lcm.ngo-bg.org/">Sistema de Manejo de Casos Legales</a></h3>

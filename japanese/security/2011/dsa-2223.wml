@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="4d3d94ad37b0110bfff15dd15fb66627ecba53cc"
 <define-tag description>SQL インジェクション</define-tag>
 
 <define-tag moreinfo>

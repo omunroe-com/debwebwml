@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b860b4e43a35951b1ff10620a7226dce78ec28a3" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>В диссекторах для CAPWAP, GMR-1 BCCH, PPP, NBAP, RDP, HTTP, DCP ETSI и в инструменте

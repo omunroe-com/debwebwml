@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="edc6fab49fbe2a1bf586eda02e1099e5f3b30e38" maintainer="Lev Lamberov"
 <define-tag description>межсайтовый скриптинг</define-tag>
 <define-tag moreinfo>
 <p>Уилл Дрюри обнаружил, что Horde позволяет удалённым злоумышленникам отправлять

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="258317c310baac58fbd30303218eb6bfd7614a76" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Fichiers temporaires peu sûrs</define-tag>
 <define-tag moreinfo>

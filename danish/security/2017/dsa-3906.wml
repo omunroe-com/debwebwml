@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="d7b95a93fc423853e3b99a281b2076e317cb03d4" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To sårbarheder er opdaget i Undertow, en webserver skrevet i Java, hvilke 

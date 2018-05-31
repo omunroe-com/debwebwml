@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="d1298745a48c009d28155b666f89ceb2cf09de02" maintainer="Pierre Machard"
 <define-tag pagetitle>Événements en 2003</define-tag>
 #use wml::debian::template title="Événements en 2003"
 #use wml::debian::recent_list

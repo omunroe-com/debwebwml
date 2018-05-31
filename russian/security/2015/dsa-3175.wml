@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4dfbc3f9726f7562a0e47f907728772af7221ac3" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Матеуш Кочильски и Марек Кромеке обнаружили, что переполнение целых чисел

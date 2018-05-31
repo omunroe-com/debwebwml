@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="92b92dcb2cc472365cd013b61db6340a82fc7b3d" maintainer="Pierre Machard"
 <define-tag description>Trou de sécurité sur les éléments dynamiques</define-tag>
 <define-tag moreinfo>
 Barry A. Warsaw a rapporté plusieurs trous de sécurité en rapport 

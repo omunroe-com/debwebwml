@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-06-14" SUMMARY="Sondage de la communauté Debian, installation automatique de paquets spécifiques au matériel, apparence graphique et thèmes de bureau pour <q>Squeeze</q>"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Simon Paillard"
 
 <!--
 $Id$

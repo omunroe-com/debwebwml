@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="e55d6711b36ead45e64e33a48cbd94044c19290c" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon, attaque sur les formats de chaînes de caractères</define-tag>
 <define-tag moreinfo>
 <p>Morgan alias SM6TKY a découvert et corrigé plusieurs failles de sécurité 

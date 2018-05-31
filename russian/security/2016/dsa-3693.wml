@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6f8d9ab9a01ee8a60fca661c089fb7fb4b12f8cd" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В графической библиотеке GD, были обнаружены многочисленные уязвимости,

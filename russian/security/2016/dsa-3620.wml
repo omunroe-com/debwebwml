@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="571176afeaeecd5cfd996e1bf7554cf533639b72" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ив Юнань из Cisco Talos обнаружил несколько уязвимостей в

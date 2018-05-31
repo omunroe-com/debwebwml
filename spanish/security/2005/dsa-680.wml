@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="ba9e252891916576643ba6f9c19f3dd78403743a" maintainer="juanma"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Michael Krax descubrió una vulnerabilidad de guiones a través del

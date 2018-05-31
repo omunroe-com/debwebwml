@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="94c7ab265147cf1eeb6bea2f39e54bce51c20831" maintainer="Marco Carvalho"
 <define-tag description>Falta de limpeza da entrada</define-tag>
 <define-tag moreinfo>
 <p>As correções anteriores para as vulnerabilidades no pacote sudo funcionaram

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b8ae1215a53663b7d9337f58116b0f7e0d2ee4ef" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Феликс Вильгельм обнаружил, что Evince, программа для просмотра документов, небезопасно

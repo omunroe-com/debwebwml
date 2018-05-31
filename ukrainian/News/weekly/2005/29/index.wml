@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-07-19" SUMMARY="CD/DVD, Hurd, C++ ABI, Команда випуску, BTS, QA, Друк, SSH"
-#use wml::debian::translation-check translation="1.12" maintainer="Borys Yanovych"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776" maintainer="Borys Yanovych"
 
 <p>Ласкаво просимо до 29-го в цьому році випуску DWN, щотижневого інформаційного бюлетеня
 спільноти Debian. До того часу, коли цей випуск побачить світ, в Фінляндії завершиться цьогорічна

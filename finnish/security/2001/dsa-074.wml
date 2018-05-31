@@ -15,4 +15,4 @@ Maker -paketin välittömästi.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-074.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="9cfc5a4bdbe66da595999dc9e633fff98ddf85cb" mindelta="1"

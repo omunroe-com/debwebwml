@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" mindelta="1"
+#use wml::debian::translation-check translation="db1de9b4d182abe0614b8e9fa5648020926d480e" mindelta="1"
 <define-tag moreinfo>
 <p>Vi har fått en rapport om att man kan använda en enkel buffertspillsattack
 för att få tillgång till gruppen shadow på system som kör klock.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="b19d0290c12b14d747994c6d112857d6af0e6c69" maintainer="Trần Ngọc Quân"
 <define-tag description>cập nhật bảo mật</define-tag>
 <define-tag moreinfo>
 <p>Tìm thấy nhiều lỗ hổng bảo mật trong Iceweasel, trình duyệt web

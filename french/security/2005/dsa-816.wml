@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="0c51b8ff34c17868bd2f86ac91fef7abc581e1e9" maintainer="Simon Paillard"
 <define-tag description>Dépassement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Søren Sandmann a découvert un bogue dans l'allocation de mémoire pour les

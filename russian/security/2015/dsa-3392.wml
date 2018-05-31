@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5ba4dd58fe33da99e6fa012f7af3d531f53ea76e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Пенгсу Ченг обнаружил, что FreeImage, библиотека для работы с различными

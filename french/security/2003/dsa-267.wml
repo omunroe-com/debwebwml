@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="62c72dd065e29af674c101185c7217c5eeee3538" maintainer="Pierre Machard"
 <define-tag description>Débordement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Un débordement de tampon a été découvert dans <i>lpr</i>, un système BSD 

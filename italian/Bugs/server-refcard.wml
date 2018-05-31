@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian BTS &mdash; Scheda di riferimento del mail server" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="1.39" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="d57880fc68c4033938ec5f4b76af957cf31ea743" maintainer="Giuseppe Sacco"
 
 <h1>Scheda di Riferimento dei server di posta</h1>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.13" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="73a28a0a52483b069940757e205e7fa820d9f1ca" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Мы обнаружили, что пакет ftpwatch, поставляемый в составе Debian
 GNU/Linux 1.3 и более поздних выпусках, содержит уязвимость, которая позволяет

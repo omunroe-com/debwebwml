@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-10-28" SUMMARY="SPI, Votes, Brochure, Construction, Installation, Bogues, Zope, Installateur, Glibc"
-#use wml::debian::translation-check translation="1.11" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Frédéric Bothamy"
 
 <p>Nous avons le plaisir de vous présenter la 43e&nbsp;<i>DWN</i> de l'année,
 la lettre d'information hebdomadaire de la communauté Debian. L'équipe <a

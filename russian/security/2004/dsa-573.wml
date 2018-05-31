@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2bddeaf6b331564ef64a80aff1b495ac6e041ab5" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых числе</define-tag>
 <define-tag moreinfo>
 <p>Крис Эванс обнаружил несколько переполнений буфера в xpdf, которые присутствуют и в

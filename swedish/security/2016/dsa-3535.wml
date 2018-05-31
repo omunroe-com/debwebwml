@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3d01a2137129c816da7c713bc9d1e9e5e7a128cf" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Stelios Tsampas upptäckte ett buffertspill i Kamailio SIP proxyn

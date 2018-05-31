@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="14ab6ac0d7b707530cf1dd241af96e704c2a2f19"
 <define-tag moreinfo>
 Nos han informado de que la versión de mirror distribuída en Debian GNU/Linux
 2.1 podía ser explotada remotamente. Cuando se replica un sitio remoto, su

@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Immagini live installabili"
 #use wml::debian::release_info
 #use wml::debian::installer
-#use wml::debian::translation-check translation="1.18" maintainer="Mark Caglienzi"
+#use wml::debian::translation-check translation="566eb2b064b9f0ba2857df0113835d39cd34e5c2" maintainer="Mark Caglienzi"
 
 #include "$(ENGLISHDIR)/releases/images.data"
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="46e03cfff45c32c06a388708c3069102f987f4e6" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Guillem Jover opdagede at funktionaliteten til hentning af changelog i 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6c79052561208b9aa8ea466fe77d17dd94069489" maintainer="Lev Lamberov"
 <define-tag description>небезопасное создание временных файлов</define-tag>
 <define-tag moreinfo>
 <p>Джон Гёрцен обнаружил, что gopher, клиент для протокола Gopher

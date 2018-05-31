@@ -20,4 +20,4 @@ version 1.1.14-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1938.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ab568f1256502deb091c61a4918c00a0d3353e72" mindelta="1"

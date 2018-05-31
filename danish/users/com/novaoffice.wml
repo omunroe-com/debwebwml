@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.novaoffice.no/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f3ce9aeeb727dfd80db1e7a32d1ea84b407d2697"
 
 <p>
     Vi bruger Debian på mange af vore servere, og baserer produktion af it- og

@@ -22,5 +22,5 @@ Apache-SSL とバージョン 2.8.7-1 の libapache-mod-ssl で修正されて�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-120.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="e3a0682a4360857d18b4fc69a7353cbfc22635f8"
 # $Id$

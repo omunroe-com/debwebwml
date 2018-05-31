@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0746a7961085d6d1aa9c70bc10871f0f5a9070d7"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad por corrupción de la memoria dinámica («heap») en net-snmp, una colección de

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Yannick Roehlly"
+#use wml::debian::translation-check translation="57e257fa32ad4ee431a219bb7288b5262082357a" maintainer="Yannick Roehlly"
 <define-tag pagetitle>Debian-NP au Sommet mondial sur la société de l'information</define-tag>
 <define-tag release_date>2003-12-13</define-tag>
 #use wml::debian::news

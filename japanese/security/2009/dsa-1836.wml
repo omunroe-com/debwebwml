@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1d191c6b42bb95ff48ef329e3a1ba44eb0006e73"
 <define-tag description>入力のサニタイズ漏れ</define-tag>
 <define-tag moreinfo>
 <p>Vinny Guido さんにより、リッチテキストウェブエディタコンポーネント

@@ -20,4 +20,4 @@ Dies kann dazu führen, dass falsche Benutzer private Adressdaten ändern.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1507.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="21e6cd386e3a3983f6d7e7344070d636f590fafe"

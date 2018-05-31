@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="132e7f156f67a573fd6f39fa1b6303f0a492a240"
 <define-tag description>Buffertspill i lsof</define-tag>
 <define-tag moreinfo>När lsof är setuid-root eller setgid-kmem är det
 sårbart för ett buffertspill som kan leda till en direkt

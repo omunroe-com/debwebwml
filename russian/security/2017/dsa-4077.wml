@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a5d8ef765a03b2df0eef9dd90ee2892b70ab4c33" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В GIMP, GNU Image Manipulation Program, было обнаружено несколько

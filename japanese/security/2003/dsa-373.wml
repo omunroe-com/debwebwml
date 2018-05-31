@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d76cdbb91eb0ae266437115f2e398064860ac400"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Christian Jaeger さんが、qmail で使われるメール自動返信プログラム

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="Lev Lamberov"
 <define-tag moreinfo>Программа mail (простой инструмент для чтения и отправки
 электронной почты), поставляемая в составе Debian GNU/Linux 2.2, содержит переполнение
 буфера в коде для грамматического разбора входных данных. Поскольку mail устанавливается с флагом прав доступа, позволяющим запускать её от

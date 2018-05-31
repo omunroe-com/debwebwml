@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="f7f72e20a06b210ebc293e57ee967964d53eb463"
 
 <define-tag description>Nog steeds van buiten onveilig door gebruik van buffer overflows</define-tag>
 <define-tag moreinfo>

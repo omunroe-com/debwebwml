@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.zeto.olsztyn.pl/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="b335f0f167ddc813dc1df0af9d1d5bc09a730805"
 
 <p>
 	ZETO är en organisation som skapar tillämpningsprogram till kunder.

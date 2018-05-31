@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="fac6b8b2be0776f0d517928e7c45bb6d94aed294" mindelta="1"
 <define-tag description>felaktiv kontroll av indata</define-tag>
 <define-tag moreinfo>
 <p>

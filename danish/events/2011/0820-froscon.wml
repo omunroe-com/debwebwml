@@ -19,7 +19,7 @@ Debian 6.0 (codenamed <q>Squeeze</q>) præsenteres.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 #Related Links here (free form)
 <ul>
     <li><a href="http://www.froscon.org/">officielt FrOSCon-websted</a></li>

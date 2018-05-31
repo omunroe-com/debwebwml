@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8c7d2cc74cc85d93122bb9456f4f27a8b015edeb" maintainer="Lev Lamberov"
 <define-tag description>повышение привилегий</define-tag>
 <define-tag moreinfo>
 <p>Тэвис Орманди и Жульен Тинэ обнаружили, что служба pulseaudio

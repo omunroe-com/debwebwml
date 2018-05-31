@@ -1,5 +1,5 @@
 #use wml::debian::template title="Pliki PO &mdash; pakiety nie zinternacjonalizowane"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="8536cf419447d00f034a8e3ad9efa6a243462fe7"
 
 #include '$(ENGLISHDIR)/international/l10n/dtc.def'
 

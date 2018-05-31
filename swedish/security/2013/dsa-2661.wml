@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="e52ae82010f174668775e3726d5f6d91252d05f1" mindelta="1"
 <define-tag description>utlämnande av information</define-tag>
 <define-tag moreinfo>
 <p>David Airlie och Peter Hutterer från Red Hat upptäckte att xorg-server,

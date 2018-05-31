@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3c1d134a908e20a9ccca90f37f8f9e688ce56b56" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности LTS</define-tag>
 <define-tag moreinfo>
 <p>В OpenSSL было обнаружено несколько уязвимостей.</p>

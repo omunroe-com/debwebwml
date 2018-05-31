@@ -1,7 +1,7 @@
 <define-tag pagetitle>Bekanntgabe des Linux Compatibility Standards-Projekts</define-tag>
 <define-tag release_date>1998-08-11</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="03c72fbb3ca27f3e1f70767e3ebea58f8367f216"
 # Translator: Helge Kreutzmann <debian@helgefjell.de> 2007-02-04
 
 Debian und Red Hat arbeiten zusammen an einer schriftlichen Spezifikation des

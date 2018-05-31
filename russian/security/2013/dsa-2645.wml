@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0852993c1a4125fc45a9310dd9446f294903d4b6" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Овиду Мара сообщил в 2010 году об уязвимости в утилите ping, часто используемой

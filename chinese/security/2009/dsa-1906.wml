@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Hsin-lin Cheng"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd" maintainer="Hsin-lin Cheng"
 <define-tag description>Clamav 的 stable 與 oldstable 版本停止開發公告</define-tag>
 <define-tag moreinfo>
 

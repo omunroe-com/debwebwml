@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="338b5c1939274e9adabcc1dd20f212f11f97085c"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Обнаружены несколько возможностей переполнения буфера в ethereal,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="fe29fd30060dae958b2cb5e2c2a8b5871a244103" maintainer="David Prévot"
 <define-tag description>Protocole de communication non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>

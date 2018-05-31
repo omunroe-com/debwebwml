@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1ab2a585e21cfb0098413342f2f8db3bc189d3ca" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Robert Luberda upptäckte ett buffertspill i syslog-loggningskoden från

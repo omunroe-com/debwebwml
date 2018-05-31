@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="7da00370a2e3d97493e5c21f2b07ae7c588b9679" maintainer="David Prévot"
 <define-tag description>Vérifications d'accès insuffisantes</define-tag>
 <define-tag moreinfo>
 <p>

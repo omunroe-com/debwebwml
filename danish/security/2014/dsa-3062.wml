@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="073250af9779d48e3355f4ecd7b3b6701ae06b60" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>HD Moore fra Rapid7 opdagede et symlinkangreb i Wget, et kommandolinjeværktøj 

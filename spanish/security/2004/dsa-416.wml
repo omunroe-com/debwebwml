@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="470e798a24b01632de220f669ffafc23926d8f52"
 <define-tag description>desbordamiento de buffer, travesía por directorio</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad en fsp, utilidades cliente para File Service Protocol

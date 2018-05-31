@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="aa4c5bfb61791d854fa3e74e2ebcf9f55d532882"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Laurent Butti さんと Garming Sam さんが NTLMSSPv2

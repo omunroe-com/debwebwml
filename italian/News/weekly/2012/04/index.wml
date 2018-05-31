@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-20" SUMMARY="Addio Lenny!, GNU/Hurd sta arrivando, dpkg pronto per multiarch"
-#use wml::debian::translation-check translation="1.6" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Mirco Scottà"
 
 <p>Benvenuti nel quarto numero di quest'anno della DPN, la newsletter
 della comunità Debian. In questa edizione troviamo:</p>

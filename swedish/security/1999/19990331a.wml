@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="b19b5b6547dc3534df9ad91f2cb5d7c5614224f5"
 <define-tag description>Symbolisk länk kan användas för att ändra filrättigheter</define-tag>
 <define-tag moreinfo>Vissa implementationer av xfs sätter felaktigt
 rättigheterna på <kbd>/tmp/.font-unix</kbd> även om det är en symbolisk länk till en

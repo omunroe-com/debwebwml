@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="93a6968ae86191f6005be2cf1091702125c24734" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p><q>shamger</q> og Carlo Cannas opdagede at en programmingsfejl i Varnish, en 

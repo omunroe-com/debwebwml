@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Suport"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="1.2" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="782509a51027ad88b32dc7e3bf5b2d3e608d61c8" maintainer="Ana Custura"
 # $Id$
 
 <h2>Documentație</h2>

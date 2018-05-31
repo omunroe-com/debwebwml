@@ -1,6 +1,6 @@
 #use wml::debian::template title="Webová stránka Debianu v rôznych jazykoch" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.92" maintainer="Slavko"
+#use wml::debian::translation-check translation="1ca12fe9834fe5c9cf51372a9682c92e7b333cc7" maintainer="Slavko"
 <protect pass=2>
 <:
 $lang = languages_footer();

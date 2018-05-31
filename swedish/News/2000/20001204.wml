@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Hurd-artikel i Dr. Dobb's Journal</define-tag>
 <define-tag release_date>2000-12-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e3e10eb63ac08cbb6fc1f18c7263546ee2538a7a"
 
 <p>Decemberutgåvan 2000 av Dr. Dobb's Journal innehåller en artikel med
 rubriken "Inside Debian Hurd" skriven av Jerry Epplin.

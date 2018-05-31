@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad"
 <define-tag moreinfo>El problema que fue reportado previamente para joe ha
 sido encontrado en otros editores. Cuando nano (un clon libre de pico) muere
 inesperadamente intenta un mensaje de ayuda a un archivo nuevo con un texto

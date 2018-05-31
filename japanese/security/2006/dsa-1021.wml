@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3b7bca6621925198c4f0902c0a6e40c296adcbd9"
 <define-tag description>安全でないプログラムの実行</define-tag>
 <define-tag moreinfo>
 <p>Debian 監査プロジェクトの Max Vozeler さんが、Postscript

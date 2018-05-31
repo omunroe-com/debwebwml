@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian BTS &mdash; メールサーバ・リファレンスカード" NOHEADER=yes
-#use wml::debian::translation-check translation="1.39"
+#use wml::debian::translation-check translation="d57880fc68c4033938ec5f4b76af957cf31ea743"
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
 
 <h1>メールサーバ・リファレンスカード</h1>

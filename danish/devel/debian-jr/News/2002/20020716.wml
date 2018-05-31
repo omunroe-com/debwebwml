@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Jr. -- Hvordan går det?</define-tag>
 <define-tag release_date>2002-07-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 <p>Vi har oprettet en <a href="https://wiki.debian.org/DebianJr">side</a> på
 <a href="https://wiki.debian.org/FrontPage">DebianWiki</a> som et sted hvor

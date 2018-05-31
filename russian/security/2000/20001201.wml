@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6ab326dfd505ca821077c5edce399f2c0f801b86" maintainer="Lev Lamberov"
 <define-tag moreinfo>Исправление безопасности для joe, выпущенное 22 ноября 2000 года,
 содержит следующую проблему: файл DEADJOE создаётся безопасным способом, но запись в него
 не производится. Эта проблема была исправлена в версии 2.8-15.2.

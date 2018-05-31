@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bac0e67f421554edea5609a46fb7d115efbe5707"
 <define-tag description>scripts a través del sitio</define-tag>
 <define-tag moreinfo>
 <p>Se ha informado de una vulnerabilidad de scripts a través del

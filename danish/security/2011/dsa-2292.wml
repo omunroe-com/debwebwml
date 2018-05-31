@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ac94fa8eb3f65938712e862c7c89531b7e209cd6" mindelta="1"
 <define-tag description>lammelsesangreb</define-tag>
 <define-tag moreinfo>
 <p>David Zych opdagede at ISC DHCP gik ned ved behandling af visse pakker,

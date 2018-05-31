@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="45a133052dae9c3da2214064efdae484da514775"
 <define-tag description>разыменование нулевого указателя</define-tag>
 <define-tag moreinfo>
 <p>Джулиан Решке (Julian Reschke) сообщил о проблеме в mod_dav Apache 2,

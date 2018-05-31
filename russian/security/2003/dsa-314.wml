@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="4658fedefa6b2bdc8568436b43e99f54fd34863e"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Рик Патель (Rick Patel) обнаружил, что atftpd уязвим к переполнению

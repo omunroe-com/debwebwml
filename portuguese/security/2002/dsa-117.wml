@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="aee33e673fa636f3bbea34f5edee0e75fdfb9755" translation_maintainer="Michelle Ribeiro"
 <define-tag description>inicialização incorreta de variável</define-tag>
 <define-tag moreinfo>
 <p>Kim Nielsen encontrou recentemente um problema interno no servidor CVS e relatou

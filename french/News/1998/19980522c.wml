@@ -1,7 +1,7 @@
 <define-tag pagetitle>Des développeurs Debian parlerons au Linux Kongress</define-tag>
 <define-tag release_date>1998-05-22</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="8c10b313dc8692f4c3df51462fdad85ce2626b9f" translation_maintainer="Martin Quinson"
 
 Certains développeurs participerons au
 <a href="http://www.linux-kongress.org/">Linux Kongress</a>

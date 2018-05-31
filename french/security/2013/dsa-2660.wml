@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="fceebc5888fd750f4089685d9e1ab2c6f335592c" maintainer="Thomas Vincent"
 <define-tag description>Exposition d'informations sensibles</define-tag>
 <define-tag moreinfo>
 <p>Yamada Yasuharu a découvert que cURL, une bibliothèque de transfert par URL,

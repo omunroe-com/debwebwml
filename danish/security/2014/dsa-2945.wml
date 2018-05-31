@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ed18ccc64b2a8f343569c8da7dc1d2bf66019e5a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Thomas Stangner opdagede en sårbarhed i chkrootkit, en rootkitdetektor, 

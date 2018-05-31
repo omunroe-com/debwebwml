@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian GNU/Linux on x86" BARETITLE=true
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="e9c587fe48386f2bedf1d5a6284b6959c2b4635c"
 
 <p>作为 Debian 支持的第一个架构，\
 大多数 Debian 网页适用于此移植。</p>

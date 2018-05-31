@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2008-07-21" SUMMARY="Mises à jour du processus de publication de Lenny, Chargement de firmwares externes par l'installateur Debian, Les bonnes pratiques du débogage de paquets" 
-#use wml::debian::translation-check translation="1.11" maintainer="Arnaud Bonvallet"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Arnaud Bonvallet"
 #use wml::debian::acronyms
 
 <p>Nous avons le plaisir de vous présenter le septième numéro de l'année des

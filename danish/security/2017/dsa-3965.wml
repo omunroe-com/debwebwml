@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="6a85c7345de7d245b292248dfd46fc2c42b4a46e" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Thomas Jarosch opdagede en stakbaseret bufferoverløbsfejl i file, et værktøj 

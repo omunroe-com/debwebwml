@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3f97242cbf8bd1416f288678c97af17426b8faba"
 <define-tag description>外部エンティティ展開</define-tag>
 <define-tag moreinfo>
 <p>iSEC Partners の Brad Hill さんが、多くの XML

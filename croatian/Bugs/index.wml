@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debianov sustav praćenja bugova" BARETITLE=true NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
 #{#style#:<link rel="stylesheet" href="https://bugs.debian.org/css/bugs.css" type="text/css">:##}
-#use wml::debian::translation-check translation="1.76"
+#use wml::debian::translation-check translation="7da2d70ffabbcb0357ece269fc2ae3a2963477d8"
 {#meta#:
 <script type="text/javascript" src="hashbug_redirect.js"></script>
 :#meta#}

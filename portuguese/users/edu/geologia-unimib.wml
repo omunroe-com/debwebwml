@@ -3,7 +3,7 @@
 <define-tag pagetitle>Department of Geological Sciences and Geotechnology, University of Milano-Bicocca, It&aacute;lia</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="31ff7af53612e66d9893cc20b5b1525c28e9514d" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>
     Nós usamos Debian GNU/Linux para termos um servidor para o departamento,

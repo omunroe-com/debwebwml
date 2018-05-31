@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="58e2c29e46e28686c42fbf6cb964bd92f9226fb5" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>To ikke-beskrevne sårbarheder blev opdaget i OpenJFX, en rig 

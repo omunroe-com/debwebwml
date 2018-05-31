@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="1999-2-8" SUMMARY="Wichert Akkerman vald till projektledare; debhelper används av 50%"
-#use wml::debian::translation-check translation="1.17"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <p>
 <b>Välkommen</b> till den sjätte utgåvan av Debian Weekly News, ett

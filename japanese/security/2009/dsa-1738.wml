@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ffbe9426c64ff19b2983afc0eba5588a486c7cdb"
 <define-tag description>任意のファイルアクセス</define-tag>
 <define-tag moreinfo>
 <p>David Kierznowski さんにより、マルチプロトコルファイル転送ライブラリ

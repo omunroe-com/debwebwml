@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f44fb83c961656337a7f29f45fbed84b4135fea7" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В libmodule-signature-perl, модуле Perl для работы с файлами CPAN SIGNATURE, были обнаружены

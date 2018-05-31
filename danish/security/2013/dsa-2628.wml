@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="61669122c124b7c8aef909848a1841b34f845aca" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Garth Mollett opdagede et overløbsproblem med en fildescriptor i anvendelsen 

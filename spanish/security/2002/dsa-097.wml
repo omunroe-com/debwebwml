@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="83bbdaca47faf6e5a1249a8be8bf6b2fd7bad78f"
 <define-tag description>Ejecución de programa incontrolada</define-tag>
 <define-tag moreinfo>
 <p>Patrice Fournier descubrió un error en todas las versiones de Exim

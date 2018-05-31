@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f98d4020b6fc6e8defa7aa4a780c4cab5f339e0f" mindelta="1"
 <define-tag description>fortolkningskonflikt</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at PHP, et skriptsprog der er anvendeligt til alle formål og som 

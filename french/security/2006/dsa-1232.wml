@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="c6a0f49003fbc426b77eacfb48bb58c870b65376" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Vérifications de sécurité manquantes</define-tag>
 <define-tag moreinfo>

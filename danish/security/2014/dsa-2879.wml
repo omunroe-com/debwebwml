@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1b5d5d1de20b4e80c9575e451fbc613e3e1bf3f6" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at libssh, et lille SSH-bibliotek skrevet i C, ikke nulstillede 

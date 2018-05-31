@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="9b2cf33010168c90a21209352d8f14932899ec47"
 <define-tag description>ヌルポインタ参照</define-tag>
 <define-tag moreinfo>
 

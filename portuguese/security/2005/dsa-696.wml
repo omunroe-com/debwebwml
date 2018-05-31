@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="211ba76dadb8608aa2057e8b5e3f3dfbf1786aa6"
 <define-tag description>falha de design</define-tag>
 <define-tag moreinfo>
 <p>Paul Szabo descobriu outra vulnerabilidade na função File::Path::rmtree

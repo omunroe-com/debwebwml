@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="juanma"
+#use wml::debian::translation-check translation="c2434c576c2729acf0ef2c551e7efd392fa6ad5f" maintainer="juanma"
 <define-tag description>desbordamientos de buffer y de entero</define-tag>
 <define-tag moreinfo>
 <p>Pavel Kankovsky descubrió que varios de los desbordamientos de buffer que

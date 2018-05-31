@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e2bc2d8acb09c62700ded3606ff7d260af3c4ea7" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Несколько уязвимостей, состоящих в отказе в обслуживании, были обнаружены в кодовой базе dcraw,

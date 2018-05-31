@@ -16,4 +16,4 @@ er dette problem rettet i version 4.2.2-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2007/dsa-1292.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="f09576d8bbd2b2ec2ae0e4921bd0b3254cd1ad21" mindelta="1"

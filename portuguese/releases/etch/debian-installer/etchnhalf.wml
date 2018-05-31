@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/etch/release.data"
 #include "$(ENGLISHDIR)/releases/etch/debian-installer/etchnhalf-images.data"
-#use wml::debian::translation-check translation="1.10" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="e09c37a1ea30b36abe95dc6b79728c547fb12619" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 
 

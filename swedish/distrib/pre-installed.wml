@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.40"
+#use wml::debian::translation-check translation="0d933cd4eac080999aba5c6000c2d80ffbc04cb9"
 #use wml::debian::template title="Datorföretag som förinstallerar Debian" GEN_TIME="yes"
 #use wml::debian::countries
 #include "$(ENGLISHDIR)/distrib/pre-installed.inc"

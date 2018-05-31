@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d76cdbb91eb0ae266437115f2e398064860ac400"
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
 <p>Christian Jaeger descobriu um buffer overflow no autorespond, 

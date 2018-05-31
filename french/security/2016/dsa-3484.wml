@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="fc3a952c5e3724d94148d2a6999a97f6c48498ff" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Stepan Golosunov a découvert que xdelta3, un utilitaire de comparaison

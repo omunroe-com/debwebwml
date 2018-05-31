@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="6c5bb25e3cf06fdc6bf2bf286d63f69322b07618" maintainer="Jean-Pierre Giraud"
               <h3>Quorum</h3>
               <ul>
                 <li>L’option 1 a atteint le quorum : 208 &gt; 48.0468521341409</li>

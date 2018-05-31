@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="317f9a8458898f66d75f1b8d8bb19b7353d38702"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Andrew V. Samoilov さんは、ファイル閲覧・管理ソフト mc (midnight commander)

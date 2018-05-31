@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1936841f002ca29a0bf824712cb9bb1072141914" maintainer="Lev Lamberov"
 <define-tag description>двойное освобождение памяти</define-tag>
 <define-tag moreinfo>
 <p>Авторы tinyproxy, легковесного HTTP-прокси, обнаружили ошибку

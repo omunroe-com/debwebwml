@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0ffe2ac8e152c33ae8b54e87dfe2628a9df94166"
 <define-tag description>デザイン上の欠陥</define-tag>
 <define-tag moreinfo>
 <p>田中 哲さんにより、Ruby で書かれた Wiki エンジン Hiki Wiki

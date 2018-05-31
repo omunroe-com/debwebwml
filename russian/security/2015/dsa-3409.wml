@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0a9be5a2026211f1bbee2f35d88ca16357780bc0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В коде обработки управляющей последовательности ECH (символа исключения) эмулятора

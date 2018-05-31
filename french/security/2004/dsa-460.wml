@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="1b3646562c6ac50d777b87d91753a389cffad246" maintainer="DFS Task Force"
 <define-tag description>Fichier temporaire non sécurisé</define-tag>
 <define-tag moreinfo>
 <p>Alan Cox a découvert que l'utilitaire <i>isag</i> (qui affiche de manière

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Informations sur la version «&nbsp;Wheezy&nbsp;» de Debian"
-#use wml::debian::translation-check translation="1.15" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="a4158e0a1fed94e1ffcdb299e61ace2cbbcecc61" maintainer="Jean-Paul Guillonneau"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/wheezy/release.data"

@@ -16,7 +16,7 @@ mpg321 を使って再生させる必要があります。</p>
 <p>直ちに mpg321 パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="db187a49a761707642e0818f85a3350d70f09b7c"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-411.data"
 # $Id$

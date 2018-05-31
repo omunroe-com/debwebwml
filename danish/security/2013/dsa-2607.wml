@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="48dbc7d22248968c34f0f185db074726dc661a08" mindelta="1"
 <define-tag description>bufferoverløb</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at QEMU's kode til emulering af e1000, ikke håndhævede 

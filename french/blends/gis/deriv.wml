@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Distributions dérivées"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="a2385eca625b03cb7d545f28b511d14a5f12adbe" maintainer="Jean-Paul Guillonneau"
 
 <p>Les paquets source de Debian mis à jour par l’équipe GIS de Debian sont
 également utilisés par les gens qui s'occupent de tenir à jour les logiciels

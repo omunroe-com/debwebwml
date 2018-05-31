@@ -1,7 +1,7 @@
 <define-tag pagetitle>O Projeto Debian na Linux Expo Madrid</define-tag>
 <define-tag release_date>2001-04-02</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="556b589eeea9338a9287e12938aac123b7122af6"
 
 A <a href="http://www.linuxexpomadrid.com/">Linux Expo Madrid</a>
 (De 4 a 5 de Abril, Madrid, Espanha) é uma das maiores exposições cobrindo Linux e Software Livre em Madrid. Mais de 3,500 visitantes compareceram ao evento

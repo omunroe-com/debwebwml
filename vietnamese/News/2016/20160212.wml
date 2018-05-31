@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 6.0 không còn được hỗ trợ dài hạn nữa</define-tag>
 <define-tag release_date>2016-02-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
+#use wml::debian::translation-check translation="f8d1443ec5293fdf40616c8eec82c95972fc6cbf" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
 
 <p>Nhóm <a href="https://wiki.debian.org/LTS/">Hỗ trợ dài hạn (LTS)</a> Debian
 thông báo rằng việc hỗ trợ Debian 6.0

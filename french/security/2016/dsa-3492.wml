@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="8d473bdc0f77e032f600aed6d2b5edacaae839c3" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>La partie concernant Wheezy dans la mise à jour précédente de gajim,

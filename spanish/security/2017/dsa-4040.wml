@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="cc092ec17f5afae92f0ff3c9be604050d79b2e6a"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Esta actualización corrige varias vulnerabilidades de imagemagick: varios problemas

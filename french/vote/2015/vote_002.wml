@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.7" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="cf21a688d8fae7e8a880c3b6421b447384ddbcbf" maintainer="Jean-Paul Guillonneau"
 <define-tag pagetitle>Résolution générale : mise à jour de la procédure standard de Résolution</define-tag>
 <define-tag status>W</define-tag>
 # signification des balises <status> :

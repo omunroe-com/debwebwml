@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="dcdd03851973fa1e2459548fbf7af29086a57d7e"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Ben Hawkes さんが、Transmission bittorrent

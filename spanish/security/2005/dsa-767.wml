@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="eea38bc5d39e1a8fa3b763ecbe2cf8a4e0cfa1d6" maintainer="Juan M. Garcia"
 <define-tag description>desbordamientos de enteros</define-tag>
 <define-tag moreinfo>
 <p>Marcin Slusarz descubrió dos vulnerabilidades de desbordamientos

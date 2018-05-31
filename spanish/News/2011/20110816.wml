@@ -2,7 +2,7 @@
 
 <define-tag release_date>2011-08-16</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.6" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="0c65efba2fa793413ad62116ca7bf4a8cce57348" maintainer="Fernando C. Estrada"
 
 <p>El proyecto Debian se complace en celebrar su 18° cumpleaños desde el <a
 href="https://groups.google.com/d/msg/comp.os.linux.development/-/xty88y5OLaMJ">anuncio

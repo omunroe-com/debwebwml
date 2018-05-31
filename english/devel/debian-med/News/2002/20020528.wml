@@ -1,5 +1,5 @@
 <define-tag pagetitle>Talk at LinuxTag in Magdeburg</define-tag>
-#use wml::debian::translation-check translation="1.27" original="german"
+#use wml::debian::translation-check translation="8cf54a2e68607a0e2fcca249ecec7cb8d1cb1755" original="german"
 <define-tag release_date>2002-05-28</define-tag>
 {#style#:<link rel="stylesheet" href="../../talks.css" type="text/css" />:#style#}
 #use wml::debian::news

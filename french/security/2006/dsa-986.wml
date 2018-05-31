@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="0c2c75a8fa4216aa458a83dd32e5ab533eeb5331" maintainer="Simon Paillard"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Evgeny Legerov a découvert plusieurs accès à la mémoire hors des limites

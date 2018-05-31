@@ -1,6 +1,6 @@
 #use wml::debian::template title="Port su PowerPC &mdash; Installazione " NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/powerpc/inst/menu.inc"
-#use wml::debian::translation-check translation="1.23" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="70cf45edbaeb4b8fc8f99d683f2f5c5c4435be92" maintainer="Luca Monducci"
 
 <h2>Installazione di Debian GNU/Linux su macchine PowerPC</h2>
 

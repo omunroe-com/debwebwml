@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1f24c1600338b1fd97265d35fa1d169a4de6a025"
 <define-tag description>várias vulnerabilidades</define-tag>
 <define-tag moreinfo>
 <p>Um problema foi descoberto no ecartis, um gerenciador de lista de

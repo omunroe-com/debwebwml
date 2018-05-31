@@ -4,7 +4,7 @@
 <define-tag webpage>http://lindenlab.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.3" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="602747c6ed0c33306e1ebcc9d46030249744b2da" maintainer="Nicolas Bertolissio"
 
 <p>
 Les concepteurs du jeu en ligne <a href="http://secondlife.com/">Second

@@ -19,4 +19,4 @@ Blenders <q>Bild öffnen</q>-Dialog durchgeschaut wird.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1567.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7ada9b9e28cf4dd11a98f18fc04e81aa890e11b3"

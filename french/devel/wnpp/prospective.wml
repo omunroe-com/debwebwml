@@ -1,5 +1,5 @@
 #use wml::debian::template title="Paquets prospectifs" GEN_TIME="true"
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="f49611cb55aa09fd5351490070f08bc13071863c" maintainer="Pierre Machard"
 
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
 

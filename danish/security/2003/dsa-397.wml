@@ -14,4 +14,4 @@ version 7.2.1-2woody4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-397.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2cfdd3ad39f658e44565e6e18b3b098287e9ed44" mindelta="1"

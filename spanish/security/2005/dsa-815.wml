@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="28fc0ad49cbb1ab22a2cf65188cb93bd3ff891ec" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Ilja van Sprundel descubrió error serio en la gestión del archivo

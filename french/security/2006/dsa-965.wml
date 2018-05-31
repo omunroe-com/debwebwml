@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="8cc542a92d926fbf4909b359779e02b0ac7c704a" maintainer="Simon Paillard"
 <define-tag description>Déréférencement d'un pointeur nul</define-tag>
 <define-tag moreinfo>
 <p>L'implémentation de la version&nbsp;1 du protocole «&nbsp;Internet Key

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-05-14" SUMMARY="Debian 6.0 のアップデート: 6.0.5 の公開、DebConf12 の締め切り、多様性に関する宣言についての一般決議"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 
 # $Rev: 3771 $
 # Status: [frozen]

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="3f5c388a28fa3b6a070c624659eba25f7dbfaf35"
 <define-tag description>ヒープベースのバッファオーバフロー</define-tag>
 <define-tag moreinfo>
 

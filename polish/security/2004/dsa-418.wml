@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="03d30d46e1ee87576ab24f22043e32943a1d41e1"
 <define-tag description>wyciek przywilejów</define-tag>
 <define-tag moreinfo>
 <p>Znaleziono błąd w vbox3, systemie odpowiedzi głosowych dla isdn4linux,

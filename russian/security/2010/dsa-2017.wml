@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f4e83afecd0360a633ee87dafb1926d3e8134d88" maintainer="Lev Lamberov"
 <define-tag description>небезопасный каталог для временных файлов</define-tag>
 <define-tag moreinfo>
 <p>Дэн Розенберг обнаружил, что звуковой сервер PulseAudio создаёт

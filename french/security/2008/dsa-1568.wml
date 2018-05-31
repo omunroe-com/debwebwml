@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="da344fab0612b0b7f67cbd28c5cd44cf3b7eb771" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Vérification d'entrée manquante</define-tag>
 <define-tag moreinfo>

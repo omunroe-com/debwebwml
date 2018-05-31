@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d0ea677694003bb7561809045b401f5dc5e6c7b6"
 <define-tag pagetitle>Wheezy のセキュリティサポートが LTS チームに移行されました</define-tag>
 <define-tag release_date>2016-04-25</define-tag>
 #use wml::debian::news

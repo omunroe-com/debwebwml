@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="17224dde6fd52dd722b881c11cfa944d4e8760fc" maintainer="Lev Lamberov"
 <define-tag description>гонка при проверке пути</define-tag>
 <define-tag moreinfo>
 <p>Локальный пользователь, имеющий права на выполнение команд через sudo,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="414a665abfe83a45a1f26980ac5eab1ec35917a1" maintainer="Pierre Machard"
 <define-tag description>Débordement d'entier</define-tag>
 <define-tag moreinfo>
 <p>Un débordement d'entier a été découvert dans la bibliothèque RPC qui

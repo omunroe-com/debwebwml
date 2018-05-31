@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="84e8f8fe4f93afadc1470d77e88601c6513da555" maintainer="Lev Lamberov"
 <define-tag description>несколько уязвимостей</define-tag>
 <define-tag moreinfo>
 <p>Флориан Ваймер обнаружил две проблемы безопасности в ПО для синхронизации времени Chrony

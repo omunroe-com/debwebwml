@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="aa8a996da32a4b62257e6df690fb90aabee35efd" mindelta="1"
 <define-tag description>programmeringsfejl</define-tag>
 <define-tag moreinfo>
 <p>Marko Myllynen opdagede at ELinks, en avanceret teksttilstandswebbrowser, på 

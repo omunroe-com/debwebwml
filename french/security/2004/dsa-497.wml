@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="4deaea8ab71127b2b49d892404d43c45db20f692" maintainer="DFS Task Force"
 <define-tag description>Plusieurs failles de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Jacub Jelinek a découvert plusieurs failles de sécurité dans <i>Midnight

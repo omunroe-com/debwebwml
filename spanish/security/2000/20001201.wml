@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="6ab326dfd505ca821077c5edce399f2c0f801b86" maintainer="Juan M. Garcia"
 <define-tag moreinfo>El parche de seguridad para joe liberado el 22 de
 noviembre de 2000 tenía un problema: creaba el archivo de seguridad DEADJOE
 pero no escribía nada en él. Esto ha sido reparado en la versión 2.8-15.2.

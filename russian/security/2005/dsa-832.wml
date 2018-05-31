@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fc084ae196ec51c56a31715ac9016d9471defb5d" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>В gopher, текстовом клиенте для протокола Gopher Distributed Hypertext, были обнаружены

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fda7e863a36296ece1a75d0bcc7559db9a6f54a9" mindelta="1"
 <define-tag description>buffertspill</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att Tor, ett onlineverktyg för integritet, felaktigt

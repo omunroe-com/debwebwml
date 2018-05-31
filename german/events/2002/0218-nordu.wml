@@ -19,7 +19,7 @@
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="238c41b49b20382db3f8e703a93ff100be048b94"
 # Translator: Gerfried Fuchs <alfie@debian.org> 2002-01-08
 # $Id$
 <ul>

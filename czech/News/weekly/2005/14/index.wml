@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-04-05" SUMMARY="Vydávání, Balíčkování, LSB, Odstraňování, Výpadek, Přítulnost, GNOME"
-#use wml::debian::translation-check translation="1.5" maintainer="Petr Houstek"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Petr Houstek"
 
 <p>Vítejte u letošního 14. vydání DWN, týdenního zpravodaje pro komunitu okolo
 Debianu. Hurd <a href="http://www.superunprivileged.org/">žije</a>.

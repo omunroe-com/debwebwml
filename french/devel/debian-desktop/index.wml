@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian comme poste de travail"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.44" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="f17adfcaa4dbad74178134aa94c26efff40b0722" maintainer="Thomas Huriaux"
 # Original translation by Yann Forget
 
 <h2>Le système d'exploitation universel pour votre poste de travail</h2>

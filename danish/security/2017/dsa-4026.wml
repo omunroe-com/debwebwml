@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="dac2e3036eee4d669b53485340df4efb21a400f0" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Wen Bin opdagede at bchunk, en applikation der kan konvertere et CD-filaftryk 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-08-02" SUMMARY="Popisy, PopCon, přístupnost, init, ARM, Alioth, patenty, zkušenosti, příležitosti"
-#use wml::debian::translation-check translation="1.14" maintainer="Ondrej Cecak"
+#use wml::debian::translation-check translation="88253d82bf691f2bb09a4b9526f024cab1de845f" maintainer="Ondrej Cecak"
 
 <p>Vítejte u&nbsp;letošního 31. vydání DWN, týdenního zpravodaje pro komunitu
 okolo Debianu. Geert Stappers <a

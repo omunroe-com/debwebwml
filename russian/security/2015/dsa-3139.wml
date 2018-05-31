@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8039a5dc74710c5a871ed6dbf0b0167bd61d83d9" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Мэтью Дэлей обнаружил, что squid, кеш веб-прокси, неправильно

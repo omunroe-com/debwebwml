@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a4cd0e485993a5c20e04ac8691f779e9c3320291" maintainer="Lev Lamberov"
 <define-tag description>форматная строка</define-tag>
 <define-tag moreinfo>
 <p>Флорен Денье обнаружил многочисленные уязвимости форматной строки в инфраструктуре Linux

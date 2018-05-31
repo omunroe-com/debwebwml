@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Index"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="1.28"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # $Id$
 # Translator: Thimo Neubauer <thimo@debian.org>
 # Updated: Holger Wansing <linux@wansing-online.de>, 2011

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="68dfe88263c9f8d65d38214353a5c27a525a6f9b"
 <define-tag description>Mehrere Verwundbarkeiten</define-tag>
 <define-tag moreinfo>
 <p>Mehrere sicherheitsrelevante wurden in Mozilla und davon abgeleiteten

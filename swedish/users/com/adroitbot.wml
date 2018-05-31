@@ -1,6 +1,6 @@
 # From: Yogendra Sisodia <yogendra@adroitbot.com>
 # Current as of 2016/11/26
-#use wml::debian::translation-check translation="1.1" maintainer="Andreas Rönnquist"
+#use wml::debian::translation-check translation="aa4f6bb60bd35837c2d1b6895714e55cd178a627" maintainer="Andreas Rönnquist"
 
 <define-tag pagetitle>Adroitbot Technologies, Jaipur, Indien</define-tag>
 <define-tag webpage>http://www.adroitbot.com/</define-tag>

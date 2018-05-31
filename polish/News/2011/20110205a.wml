@@ -5,7 +5,7 @@
 <define-tag pagetitle>Debian 6.0 <q>Squeeze</q> wydany</define-tag>
 <define-tag release_date>2011-02-06</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7"
 
 <p>Po 24 miesiącach nieustannego rozwijania, Projekt Debian
 ma zaszczyt zaprezentować nową stabilną wersję 6.0 (nazwa kodowa

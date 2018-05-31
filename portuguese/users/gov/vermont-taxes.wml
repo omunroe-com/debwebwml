@@ -1,5 +1,5 @@
 # From: "Cort, Tom" <Tom.Cort@state.vt.us>
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="276ee7c4d8c9136b2234d7b655f6ae6958954faf" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <define-tag pagetitle>Vermont Department of Taxes, State of Vermont, EUA</define-tag>
 <define-tag webpage>http://www.state.vt.us/tax/</define-tag>

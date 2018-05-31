@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="346433d42e38e30b0a91a5cebea614a0151f8ab7" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Qualys Research Labs opdagede adskillige sårbarheder i procps, et sæt 

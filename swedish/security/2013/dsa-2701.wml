@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c471d1bcf6117ca423467b96e04a19d1a6328d6d" mindelta="1"
 <define-tag description>överbelastning</define-tag>
 <define-tag moreinfo>
 <p>Man har upptäckt att tjänsten kpasswd som kör på UDP port 464

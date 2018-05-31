@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="9e127478c2cfcc2540d1b09eb1262d086be31eee" maintainer="David Prévot"
 <define-tag description>Script intersite</define-tag>
 <define-tag moreinfo>
 <p>

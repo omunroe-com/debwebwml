@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-30" SUMMARY="Paketieren, FDL-Diskussion, Python, ITP, Autotools, Quellcode"
-#use wml::debian::translation-check translation="1.15"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 # $Id$
 
 <p>Willkommen zur 39. Ausgabe der DWN in diesem Jahr, dem wöchentlichen

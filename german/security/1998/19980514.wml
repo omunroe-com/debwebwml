@@ -8,6 +8,6 @@ den Aufruf von beliebigen Programmen.</p>
 
 # do not modify the following line
 #include '$(ENGLISHDIR)/security/1998/19980514.data'
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="a5d6af41558dd8bf8106ed8fd92339e78c089775"
 # $Id$
 # Translator: Helge Kreutzmann, Helge.Kreutzmann@itp.uni-hannover.de, 2003-08-26

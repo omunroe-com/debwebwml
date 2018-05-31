@@ -17,7 +17,7 @@
 <p>直ちに ethereal パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="bf0b010c2d9fdaf138b33c7cb8c8cb03f22ba0ab"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-528.data"
 # $Id$

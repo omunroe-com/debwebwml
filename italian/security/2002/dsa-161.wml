@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="f57c8a58d075a95019fa91ec673df38f845d6200" maintainer="Giuseppe Sacco"
 <define-tag description>acquisizione di privilegi</define-tag>
 <define-tag moreinfo>
 <p>&Egrave; stato scoperto un problema riguardo i privilegi utente all'interno

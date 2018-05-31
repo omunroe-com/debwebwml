@@ -24,4 +24,4 @@ om du använder suidmanager.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2001/dsa-059.data"
-#use wml::debian::translation-check translation="1.3" mindelta="1"
+#use wml::debian::translation-check translation="5a6dc5697e152d3853f90b188a6fc83ea3adf235" mindelta="1"

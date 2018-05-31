@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="b2197ad353421851cec5d86d487ffaa564ca10dd" maintainer="juanma"
 <define-tag description>escalada de privilegios</define-tag>
 <define-tag moreinfo>
 <p>John Heasman y algunos otros descubrieron un error en el motor de

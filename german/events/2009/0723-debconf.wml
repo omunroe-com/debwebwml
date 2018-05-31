@@ -38,7 +38,7 @@
 
 #use wml::debian::past_event
 #Related Links here (free form)
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="fac261268f3a958c28bb81a6c6c5376088fb9ff8"
 # Translator: Tobias Quathamer <toddy@debian.org> 2009-04-14
 <ul>
  <li><a href="http://debconf9.debconf.org/">Allgemeine DebConf-Website</a></li>

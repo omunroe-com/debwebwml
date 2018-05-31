@@ -2,7 +2,7 @@
 <define-tag release_date>2010-08-06</define-tag>
 #use wml::debian::news
 # $Id$
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="bc0435375be39ff3c5ec5cee0b504eeb0edd28d1"
 # Translator: Erik Pfannenstein <DebianIgnatz@gmx.de>, 2011-04-20
 
 <p>In diesem Moment, während der jährlichen Debian-Entwicklerkonferenz 

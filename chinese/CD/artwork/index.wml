@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Debian CD 的插圖" BARETITLE=true
-#use wml::debian::translation-check translation="1.40" maintainer="Kanru Chen"
+#use wml::debian::translation-check translation="100364f4972df7a5b7874f69cbff87bee524409a" maintainer="Kanru Chen"
 
 <p>如果您已經製作了您自己的 CD 封面影像，並且願意
 與我們分享，<a

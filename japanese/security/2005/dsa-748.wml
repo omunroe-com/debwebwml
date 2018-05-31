@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="7015ee157604c28139577b3308ca1c49821f6215"
 <define-tag description>不適切なデフォルト値</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が ruby1.8 に発見されました。ruby xmlrpc

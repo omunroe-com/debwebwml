@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc" maintainer="Thomas Vincent"
 <define-tag pagetitle>Un article sur Debian Med dans BMC bioinformatics.</define-tag>
 <define-tag release_date>2010-12-21</define-tag>
 #use wml::debian::news

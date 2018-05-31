@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fae708b249723001636f8ac7412e8dd65f5e580f"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Maxim Shudrak さんと HP Zero Day Initiative が DNS サーバ BIND

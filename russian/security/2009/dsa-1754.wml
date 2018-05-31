@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="7da00370a2e3d97493e5c21f2b07ae7c588b9679" maintainer="Lev Lamberov"
 <define-tag description>недостаточная проверка доступа</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что roundup, система отслеживания ошибок с интерфейсами командной

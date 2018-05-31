@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="a89bd261bce1ed1e89c6a779e28625bf4f26aa90"
 <define-tag description>悪意のあるメールで任意のコードの実行が可能</define-tag>
 <define-tag moreinfo>
 <p>Paul Boehm さんにより、Mutt には parse.c

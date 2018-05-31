@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d7dd6ef96881030b054613d7765772b369333946" maintainer="Lev Lamberov"
 <define-tag description>удалённая уязвимость</define-tag>
 <define-tag moreinfo>
 Стивен ван Акер сообщил на bugtraq, что версия cfingerd (настраиваемой

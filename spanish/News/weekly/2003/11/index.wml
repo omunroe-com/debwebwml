@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-03-18" SUMMARY="Elecciones a DPL, OpenOffice.org, Instalador, Lista de correo, PAM, LSB, IPv6, Accessibilidad, Licencia"
 # $id: index.wml,v 1.8 2003/02/26 09:08:24 joey Exp $
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>
 Bienvenidos a la décimo primera edición de este año de las DWN, el boletín

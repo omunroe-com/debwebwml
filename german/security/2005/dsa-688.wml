@@ -15,5 +15,5 @@ Version 2.5.8-3 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-688.data"
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="88b45c37ca81e6a2fd893a9db4f87924c18c229a" mindelta="1"
 # $Id$

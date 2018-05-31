@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="c1d96fdc4eb12f63f3a47e83a79d699908cf4bf1"
 <define-tag description>estouro de buffer</define-tag>
 <define-tag moreinfo>
 <p>Um estouro de heap foi descoberto no decodificador de subimagens

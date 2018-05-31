@@ -1,7 +1,7 @@
 <define-tag pagetitle>Vecka med Debianmässor och konferenser</define-tag>
 <define-tag release_date>2001-06-30</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="4f38229a53c2766162fa7c627e693dffe18cd523"
 
 <p>Den kommande veckan kommer att vara bråda dagar för Debianprojektet.
 Vi kommer att närvara vid fyra mässor och konferenser som äger rum under

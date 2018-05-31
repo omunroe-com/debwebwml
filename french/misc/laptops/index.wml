@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian à emporter"
-#use wml::debian::translation-check translation="1.15" maintainer="Thomas Marteau"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Thomas Marteau"
 
 <p>Cette page décrit Debian pour les portables.
 # TODO: a real description!

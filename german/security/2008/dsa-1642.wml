@@ -19,4 +19,4 @@ werden.</p>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1642.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="edc6fab49fbe2a1bf586eda02e1099e5f3b30e38"

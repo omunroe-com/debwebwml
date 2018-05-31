@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="83bbdaca47faf6e5a1249a8be8bf6b2fd7bad78f" translation_maintainer="Michelle Ribeiro"
 <define-tag description>Execução de programa não controlada</define-tag>
 <define-tag moreinfo>
 <p>Patrice Fournier descobriu uma falha em todas as versões do Exim anteriores ao

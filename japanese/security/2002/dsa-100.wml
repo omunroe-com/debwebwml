@@ -19,4 +19,4 @@ GOBBLES さんはこのバグを突いた攻撃方法を発見したと主張し
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-100.data"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="53bf82f3a92612287a30149abda57760f0abddc6"

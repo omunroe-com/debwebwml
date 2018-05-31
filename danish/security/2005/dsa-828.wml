@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="1df4260bcb82db4954543d438dfed4c1181d60be" mindelta="1"
 <define-tag description>authentication handling</define-tag>
 <define-tag moreinfo>
 <p>Opstrømsudviklerne af squid, den populære WWW-proxycache, har opdaget at

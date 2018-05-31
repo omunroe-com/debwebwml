@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="aec8dd4d0fb2ab62f161709b53fef1fae02d1977" maintainer="Lev Lamberov"
 <define-tag description>состояние гонки</define-tag>
 <define-tag moreinfo>
 <p>Имран Гори обнаружил состояние гонки в bzip2, высококачественной

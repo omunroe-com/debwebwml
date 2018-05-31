@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="87db6ddeae285bb37adaa1876af77516aa8dc730" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at en programmeringsfejl i behandlingen af HTTPS-forespørgsler i 

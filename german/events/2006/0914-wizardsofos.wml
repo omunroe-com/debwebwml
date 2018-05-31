@@ -23,6 +23,6 @@ sein.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="f92b9969c2252e35e56a75dd786a8bc01838bcf8"
 # Translator: Alexander Schmehl <tolimar@debian.org> 2006-09-07
 #Related Links here (free form)

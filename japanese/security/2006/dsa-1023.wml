@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="fd7870e306cab1c27f57461fd25055f1634b05c3"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner さんが、KDE 3 用の多用途メディアプレイヤ

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="5cbd74450d7e1f5697c60eba66a4a5fa5483b3d3" maintainer="Nicolas Bertolissio"
 
 <define-tag description>Déni de service</define-tag>
 <define-tag moreinfo>

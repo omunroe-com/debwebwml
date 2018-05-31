@@ -1,7 +1,7 @@
 <define-tag pagetitle>引き続き Debian ロゴを募集中</define-tag>
 <define-tag release_date>1997-03-26</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="110c362af86c1824259b016837baaed49f7c64ac"
 
 <p>Debian はロゴを探しています。現在の候補を見たい場合や貢献をしたい場合は、
 Debian logo のページ:

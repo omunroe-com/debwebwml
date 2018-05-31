@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3bf94125d1a6bfb5361e1198dc59863d03158318" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Хошеан Корер обнаружил, что дополнение на языке Python для импорта изображений SVG в dia,

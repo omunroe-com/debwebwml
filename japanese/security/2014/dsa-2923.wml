@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="846ab8f4211469307bedb1a97ca0563cab82678f"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が OpenJDK、Oracle Java 基盤の実装に見つかりました。任意のコードの実行や

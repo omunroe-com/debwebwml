@@ -1,7 +1,7 @@
 <define-tag pagetitle>Linux Hardware Solutions støtter Debian-projektet</define-tag>
 <define-tag release_date>1999-02-25</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="afbb734077ff9e0af62afe35606e2581f40c2cc1"
 
 <h2>Nyheder</h2>
 

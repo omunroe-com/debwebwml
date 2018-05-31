@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="901514405f912cb313fb30ed1a3704d1143e7cfa"
 <define-tag description>archivos temporales inseguros</define-tag>
 <define-tag moreinfo>
 <p>Tim Waugh encontró algunos usos inseguror de archivos temporales en el

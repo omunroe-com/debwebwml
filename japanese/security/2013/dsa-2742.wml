@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="f98d4020b6fc6e8defa7aa4a780c4cab5f339e0f"
 <define-tag description>解釈の衝突</define-tag>
 <define-tag moreinfo>
 <p>PHP、広く利用されているウェブアプリケーション開発用多目的スクリプティング言語が

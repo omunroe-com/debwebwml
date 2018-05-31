@@ -17,4 +17,4 @@ version 5.0.32-7etch11.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1877.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="360b91beb591734dc32402c7e23c14f66dd1ef82" mindelta="1"

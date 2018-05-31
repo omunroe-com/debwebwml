@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="97a3f3c2cd2348904080e8fe0752b97ef51f91b7" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Леон Юраник обнаружил, что BNC, множественный прокси для сессий IRC, не всегда

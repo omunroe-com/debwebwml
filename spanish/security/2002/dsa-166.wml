@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="597062fb50c44c251eb9991ec3292a5aeb0b5931"
 <define-tag description>desbordamientos de búfer</define-tag>
 <define-tag moreinfo>
 <p>Se han descubierto dos desbordamientos de búfer en purity, un juego para

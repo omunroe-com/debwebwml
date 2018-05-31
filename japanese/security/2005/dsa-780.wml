@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="69fbf206e427f7dd051e77659b1d9319cae6df71"
 <define-tag description>入力サニタイズの誤り</define-tag>
 <define-tag moreinfo>
 <p>バグが xpdf のフォント処理コードに発見されました。

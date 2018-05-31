@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian-Lex - Юридическое ПО"
-#use wml::debian::translation-check translation="1.10" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Lev Lamberov"
 
 <h2><a id="administration" name="administration">Администрирование офиса юридической организации</a></h2>
 <h3><a href="http://lcm.ngo-bg.org/">Legal Case Management System</a></h3>

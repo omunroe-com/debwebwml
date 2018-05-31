@@ -4,7 +4,7 @@
 <define-tag webpage>http://www.caminosca.com/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="d728eec2357c8602308f1881ec093ec26c5370e9" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian pour nos serveurs réseau. Nous l'avons choisie pour sa

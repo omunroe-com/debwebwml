@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="43282716a946badce7e86317c3cf55122ee5f909" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Jesse Hertz fra Matasano Security opdagede at Mercurial, et distribueret 

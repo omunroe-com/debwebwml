@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="94aa200f735529f8913f579989d8c615c1ceabf5" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Gabriel Corona rapporterede at sensible-browser fra sensible-utils, en 

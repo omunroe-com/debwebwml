@@ -29,6 +29,6 @@ betreuen.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="8cf8784dcf64243de8c00a200b6cdeddc79fd883"
 # $Id$
 #Related Links here (free form)

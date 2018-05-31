@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="0c24c25c5782bff829d991bc43c0f1a3c7406732"
 <define-tag abbr>LWE06</define-tag>
 <define-tag year>2006</define-tag>
 <define-tag pagetitle>German LinuxWorld Conference &amp; Expo</define-tag>

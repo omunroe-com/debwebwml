@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ff002cb5ab2e566341c7cac5e8d38b4941b6d72f" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В arj, версии архиватора arj с открытым исходным кодом, были обнаружены

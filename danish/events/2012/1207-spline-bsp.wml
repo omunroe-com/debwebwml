@@ -26,7 +26,7 @@ så medbring din egen bærbare computer.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="5b17df7dade8cf09ad4a984568c6d34fbef8dccb"
 <ul>
     <li><a href="http://www.openstreetmap.org/?minlon=13.297477722168&amp;minlat=52.4560737609863&amp;maxlon=13.2974786758423&amp;maxlat=52.4560775756836">\
 	spline-bygningens beliggenhed</a></li>

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Oplysninger om hvordan man anvender Debians søgemaskine"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="faac753e853745f84b366bfd32a4cd60e721616f"
 
 <p>Debians søgemaskine på adressen <a href="https://search.debian.org/">https://search.debian.org/</a> 
 giver mulighed for flere forskellige søgemetoder, afhængigt af hvad du ønsker at gøre.</p>

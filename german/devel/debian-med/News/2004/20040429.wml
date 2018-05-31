@@ -1,7 +1,7 @@
 <define-tag pagetitle>Mitbetreuer für die Debian Med-Webseiten</define-tag>
 <define-tag release_date>2004-04-29</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
 # $Id$
 
 <h2>Mitbetreuer für die Debian-Med-Webseiten</h2>

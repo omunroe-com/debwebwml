@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-03-25" SUMMARY="Выборы DPL, TrustedDebian, Mozilla, BSP, Netwinder, KDE, Браузер, Эксперимент, CD"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Приветствуем вас в 12-м в этом году выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian. До окончания выборов лидера

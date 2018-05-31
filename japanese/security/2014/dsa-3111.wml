@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0927a48f7072f16d915566f9b360af1853eec762"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski さんが、cpio アーカイブファイルを作成、抽出するツール

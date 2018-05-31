@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Различные руководства Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/misc-manuals.defs"
-#use wml::debian::translation-check translation="1.27" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="22399c62579d11741ce27b579050a90d7feda8ca" maintainer="Lev Lamberov"
 
 <document "История проекта Debian" "history">
 

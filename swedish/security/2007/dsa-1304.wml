@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8" mindelta="1"
+#use wml::debian::translation-check translation="b128ca5f062ffd92dfde8a7b5888d4e87ec075f2" mindelta="1"
 <define-tag description>flera sårbarheter</define-tag>
 <define-tag moreinfo>
                  <p><a href="https://security-tracker.debian.org/tracker/CVE-2006-6060">CVE-2006-6060</a> <a href="https://security-tracker.debian.org/tracker/CVE-2006-6106">CVE-2006-6106</a> <a href="https://security-tracker.debian.org/tracker/CVE-2006-6535">CVE-2006-6535</a> <a href="https://security-tracker.debian.org/tracker/CVE-2007-0958">CVE-2007-0958</a>

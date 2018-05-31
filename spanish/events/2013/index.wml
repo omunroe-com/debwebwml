@@ -1,7 +1,7 @@
 <define-tag pagetitle>Eventos en 2013</define-tag>
 #use wml::debian::template title="Eventos en 2013"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="1.1" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="2f4aa66a2a9d81c42d0cfc036d6829021e5c428f" maintainer="Laura Arjona Reina"
 
 <:= get_recent_list ( '.', '0', '$(ENGLISHDIR)/events/2013', 'table', '\d+.*' ) :>
 

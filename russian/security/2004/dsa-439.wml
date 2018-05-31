@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea"
 <define-tag description>различные уязвимости</define-tag>
 <define-tag moreinfo>
 <p>Недавно обнаружены несколько способов использования ошибок в ядре

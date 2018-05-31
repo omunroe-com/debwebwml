@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="2684c27fe4b209c4c423f4f2b1207e56256ec8b9" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Shmuel H upptäckte att GIMP, GNU:s bildmanipuleringsprogram

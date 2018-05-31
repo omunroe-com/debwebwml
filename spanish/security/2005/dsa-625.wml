@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="juanma"
+#use wml::debian::translation-check translation="98453cc8869027b4695d104b83f4acf9d4369b68" maintainer="juanma"
 <define-tag description>desbordamientos de buffers</define-tag>
 <define-tag moreinfo>
 <p>Danny Lungstrom descubrió dos desbordamientos de buffers en pcal,

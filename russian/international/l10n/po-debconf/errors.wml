@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ошибки в переведённых шаблонах Debconf"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="b339a77580e06b206bedadd0ee4df7dd5cae5ef8"
 #include "$(ENGLISHDIR)/international/l10n/po-debconf/menu.inc"
 
 <p>

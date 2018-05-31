@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="737e31d579fb28438d16dc3ad6afeb3a068dbd81" maintainer="Jean-Paul Guillonneau"
 <define-tag pagetitle>Larissa Reis</define-tag>
 #use wml::debian::profiles
 #include "$(ENGLISHDIR)/women/profiles/profiles.def"

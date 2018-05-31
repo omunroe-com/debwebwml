@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f682c1cc0d897dcf52e4a8292d23969ffc6472a6" maintainer="Lev Lamberov"
 <define-tag description>переполение буфера</define-tag>
 <define-tag moreinfo>
 <p>Оливер Кароу обнаружил, что интерфейс WebDBM к базе данных MaxDB,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c2b12b07818481156f57633f0e84f28d8b815765" maintainer="Lev Lamberov"
 <define-tag pagetitle>Обновлённый Debian 8: выпуск 8.1</define-tag>
 <define-tag release_date>2015-06-06</define-tag>
 #use wml::debian::news

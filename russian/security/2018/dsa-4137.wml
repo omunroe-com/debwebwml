@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ef2979d0210ace9389b35cb8d47babaedcc6dc3e" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Libvirt, библиотеки абстракций для виртуализации, было обнаружено

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="19f098a697632062c3f6ad7ad259ba35857ecb61" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Hendrik Weimer descubrió que awstats podía ejecutar órdenes arbitrarias con

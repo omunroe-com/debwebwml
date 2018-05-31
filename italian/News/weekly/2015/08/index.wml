@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2015-10-22" SUMMARY="Benvenuto alla nuova DPN, Notizie interne e avvenimenti, richieste di aiuto, qualcosa di più di un semplice codice, Relazioni, Notizie dall'esterno"
-#use wml::debian::translation-check translation="1.5" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="c1c66b7984840c5be08cc4527bebf482859e61fa" maintainer="Mirco Scottà"
 
 # $Rev$
 # Status: [content-frozen]

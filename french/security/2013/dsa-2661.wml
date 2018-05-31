@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="e52ae82010f174668775e3726d5f6d91252d05f1" maintainer="Thomas Vincent"
 <define-tag description>Divulgation d'informations</define-tag>
 <define-tag moreinfo>
 <p>David Airlie et Peter Hutterer de Red Hat ont découvert que xorg-server,

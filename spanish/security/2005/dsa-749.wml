@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="0e442c640efc207e6b89ad6e23eb8ac0edc17a1f" maintainer="Juan M. Garcia"
 <define-tag description>error en la cadena de formato</define-tag>
 <define-tag moreinfo>
 <p>Se descubrió una vulnerabilidad en el paquete ettercap que podía

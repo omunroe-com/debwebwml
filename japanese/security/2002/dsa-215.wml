@@ -22,7 +22,7 @@ Timo Sirainen さんにより、Cyrus IMAP サーバに、リモートの攻撃�
 </define-tag>
 
 
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f1ec4f64a065e50009b31fe90c8a954bef502d54"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-215.data"
 # $Id$

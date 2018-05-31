@@ -1,7 +1,7 @@
 #use wml::debian::template title="Programas de los candidatos a Líder de Proyecto" BARETITLE="true"
 #use wml::debian::votebar
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="1.1" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="b5f05c96c6050528a469bd2c6b98ee73e88c67d6" maintainer="Laura Arjona Reina"
 
     <p>
       A continuación se muestran los programas electorales de cada uno

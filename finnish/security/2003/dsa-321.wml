@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e730e2790df8d6f2d5b3970869a717ac3b84638c"
 <define-tag description>puskurin ylivuoto</define-tag>
 <define-tag moreinfo>
 <p>radiusd-cistron sisältää vian joka mahdollistaa puskurin ylivuodon

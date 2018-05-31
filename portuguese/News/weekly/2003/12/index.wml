@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-03-25" SUMMARY="Eleições para DPL, TrustedDebian, Mozilla, BSP, Netwinder, KDE, Navegador, Experiência, CDs"
 # $id: index.wml,v 1.8 2003/02/26 09:08:24 joey Exp $
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Bem-vindo à décima segunda edição da DWN, o periódico semanal para a
 comunidade Debian. A eleição para líder deste ano terminará em menos de 

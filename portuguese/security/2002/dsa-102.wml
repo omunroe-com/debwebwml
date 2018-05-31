@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" translation_maintainer="Michelle Ribeiro"
+#use wml::debian::translation-check translation="c1e4dd7cf3425d7a284ebb019095ad8cbf0133c7" translation_maintainer="Michelle Ribeiro"
 <define-tag description>vulnerabilidade em daemon</define-tag>
 <define-tag moreinfo>
 <p>zen-parse encontrou uma falha na atual implementação do at, que leva a uma

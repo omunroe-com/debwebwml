@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="32b04531ff13483dee044acff87f094caa4cac3e"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Michael Eder y Thomas Kittel descubrieron que Heimdal, una

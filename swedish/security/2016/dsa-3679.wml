@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="a3016833e761cd38170a53d1ebf91b3178249f2d" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Lukas Reschke upptäckte att Apache Jackrabbit, en implementation av

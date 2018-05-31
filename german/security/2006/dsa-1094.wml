@@ -17,5 +17,5 @@ Version 3.1-31sarge1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1094.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="c4421d0e8b513d227b3157a219c5c9a35b8de068" mindelta="1"
 # $Id$

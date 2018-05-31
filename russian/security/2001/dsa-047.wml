@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d889a8268860815cc622a3680b5db5e63af61185" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Было обнаружено, что ядра, используемые в Debian GNU/Linux 2.2, содержат
 многочисленные проблемы безопасности. Ниже приводится список проблем, который

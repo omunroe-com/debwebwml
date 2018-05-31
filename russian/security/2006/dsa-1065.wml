@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="21886a4e9fcb635830b5b055a2ff5e6439ac9c6a" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Матео Роси и Леонардо Макари обнаружили, что hostapd, служба аутентификации для

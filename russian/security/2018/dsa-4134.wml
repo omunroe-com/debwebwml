@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e24a7b27210cba3237ad1f504cabccd01d801e8d" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Бъёрн Боссельман обнаружил, что автодополнение bash для umount из пакета

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c0968cd5d4cfd7d145914d0c90a56116952da38b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Тэвис Орманди обнаружил, что заплата для bash, GNU Bourne-Again Shell, использованная для исправления <a href="https://security-tracker.debian.org/tracker/CVE-2014-6271">CVE-2014-6271</a>,

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="616b9b70dde0941ba153de8b300a241747d1b964" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В модуле User для Drupal, инфраструктуры управления содержимым, была обнаружена

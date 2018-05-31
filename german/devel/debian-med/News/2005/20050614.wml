@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Med day auf der DebConf 5 in Helsinki</define-tag>
 <define-tag release_date>2005-06-14</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 # $Id$
 
 <p>Andreas Tille <a href="https://lists.debian.org/debian-med/2005/06/msg00024.html">

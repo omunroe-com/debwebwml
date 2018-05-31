@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c96376dcfc00bf2c3a3acf24336e0f0b3905bf2b" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Le greffon Mechanism de Blueman, un gestionnaire Bluetooth graphique,

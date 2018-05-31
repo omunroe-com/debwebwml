@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="c13fb49fb04d3b39e6e9a2f23e3b794802d82bdc" maintainer="Juan M. Garcia"
 <define-tag description>desbordamiento de buffer, doble liberación de memoria</define-tag>
 <define-tag moreinfo>
 <p>Daniel Wachdorf informó de dos problemas en la distribución MIT

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>
 Les anciennes versions de <i>bind</i> sont vulnérables à un débordement de
 tampon pendant une demande de requête inversée, autorisant potentiellement

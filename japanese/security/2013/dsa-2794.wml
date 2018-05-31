@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="140164a55b3131923be612ec7e7e8a18c4653a5f"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>複数の欠陥が SPIP、公開用ウェブサイトエンジンに発見されました。

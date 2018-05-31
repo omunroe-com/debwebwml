@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="73325ffa00d886c93317489d1f68d2c5dcd12ef2"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Rod Widdowson, de Steading System Software LLP, descubrió un error de programación

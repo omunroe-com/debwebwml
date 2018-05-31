@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="3e7852e739f95d7a12ef7c66307df78d8450138a" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Tobias Brunner fandt en sårbarhed i forbindelse med omgåelse af 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="53cc780e89b8210947f3f38b4b3f12ad38b2d4a9" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>В PCRE, библиотеке поддержки совместимых с Perl регулярных выражений, было обнаружено переполнение

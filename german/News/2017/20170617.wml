@@ -12,7 +12,7 @@
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="1.1" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="aefc4546404b2af3e1bf681db2fb90b234a77012" maintainer="Erik Pfannenstein"
 
 <p>Das Debian-Projekt freut sich, nach 26 Monaten die neue Stable-Version 9 
 (Codename <q>Stretch</q>) vorstellen zu dürfen, welche dank der 

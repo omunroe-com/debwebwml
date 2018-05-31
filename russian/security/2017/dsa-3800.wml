@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0e79e151cdf7ae8eb1e7dd3d5fbba2b03d6f4c29" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Марко Романо обнаружил, что libquicktime, библиотека для чтения и записи

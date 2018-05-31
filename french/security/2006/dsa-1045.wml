@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="507ad243460ad3f31a0c884f2f0854647ed57905" maintainer="Simon Paillard"
 <define-tag description>Erreur de conception</define-tag>
 <define-tag moreinfo>
 <p>Hendrik Weimer a découvert qu'OpenVPN, le démon de réseau privé virtuel,

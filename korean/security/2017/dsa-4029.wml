@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Sebul"
+#use wml::debian::translation-check translation="dc789b4ef17fd36cbf5692840da05247dbaaa564" maintainer="Sebul"
 <define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>pg_ctlcluster, pg_createcluster 그리고 pg_upgradecluster 명령이

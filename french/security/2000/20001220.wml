@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>Une semaine chargée pour l'équipe Zope&nbsp;: lundi, une 
 autre alerte de sécurité révélait un problème potentiel trouvé par Peter 
 Kelly. Ce problème concerne la protection incorrecte des données mises à 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="c2ca9c8b1a94fece13aed04eb31349c4b5156808"
 <define-tag description>falha de design</define-tag>
 <define-tag moreinfo>
 <p>A equipe de desenvolvimento do Python descobriu uma falha em sua

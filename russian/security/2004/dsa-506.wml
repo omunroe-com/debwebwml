@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="670cb0b32537eae2091768fd5b015c576b27e561"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Стефан Эссер (Stefan Esser) обнаружил ошибку в neon, клиентской

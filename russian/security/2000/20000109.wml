@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="36eea2b986041ec2e2e2462d7f7d216e793ec6eb" maintainer="Lev Lamberov"
 <define-tag moreinfo>Версия lpr, поставляемая в составе Debian
 GNU/Linux 2.1, и обновлённая версия 2.1r4 содержат две
 проблемы безопасности:

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a5e18a1dcdbec32061c03af3cc38f72d37f55da9" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Daniel Genkin, Luke Valenta et Yuval Yarom ont découvert que Libgcrypt

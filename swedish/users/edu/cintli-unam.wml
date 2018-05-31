@@ -1,5 +1,5 @@
 # From: "Victor H De la Luz Rodriguez" <vdelaluz@geofisica.unam.mx>
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="d229c7cd52b91d56770e36bcd444d185a9d7306e"
 
 <define-tag pagetitle>Mexican Space Weather Service (SCiESMEX), Geophysics Institute campus Morelia (IGUM), National University of Mexico (UNAM), Mexico</define-tag>
 <define-tag webpage>http://www.sciesmex.unam.mx/</define-tag>

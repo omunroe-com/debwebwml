@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-01" SUMMARY="Paketieren, Verantwortlichkeit, Xen, Markenbildung, Secure APT, Exim, Dokumentation, Übersetzungen"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="468a03db54efe3303f84ef8261dd6078cce0a411"
 #use wml::debian::acronyms
 # $Id$ XXX
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="7879d32974b525ad74482086ef21eca42110f536" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Dominic Scheirlinck og Scott Geary fra Vend rapporterede om usikker 

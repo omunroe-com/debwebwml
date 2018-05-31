@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="cab8d3bd891eb1055bbb9269e1705968f26c53d0" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Cette annonce de sécurité corrige la DSA 458-2 qui causait des

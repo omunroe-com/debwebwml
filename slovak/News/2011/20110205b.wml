@@ -1,7 +1,7 @@
 # Status: sent
 # $Id$
 # $Rev: 1610 $
-#use wml::debian::translation-check translation="1.10" maintainer="Slavko"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174" maintainer="Slavko"
 
 <define-tag pagetitle>Nový vzhľad webstránok Debianu</define-tag>
 

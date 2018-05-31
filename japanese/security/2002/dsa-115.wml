@@ -28,4 +28,4 @@ PHP3 のバージョン 3.0.18-22 と、PHP4 のバージョン 4.1.2-1 で修�
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-115.data"
 # $Id$
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="765f538c8153ec02bfed3f807356ba2e7b4eb854"

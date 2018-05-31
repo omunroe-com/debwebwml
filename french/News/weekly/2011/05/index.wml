@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-03-28" SUMMARY="Publication de la mise à jour de Debian 6.0.1, lancement du projet d'échange avec les distributions dérivées, brèves de l'équipe en charge de l'installateur Debian"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.8" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

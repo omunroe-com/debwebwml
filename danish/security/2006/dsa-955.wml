@@ -20,4 +20,4 @@ version 2.1.5-10.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-955.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bfb456139d47afa16d79398fa262a2c876dcf71a" mindelta="1"

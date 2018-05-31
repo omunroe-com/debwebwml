@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="7e248ab1143f1d53baccaadd6cc28f814f1da70c" maintainer="Juan M. Garcia"
 <define-tag description>error de programación</define-tag>
 <define-tag moreinfo>
 <p>Daniel Drake descubrió un problema en fetchmail, un programa cliente

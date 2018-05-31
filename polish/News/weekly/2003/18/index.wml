@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-05-06" SUMMARY="Apt, pliki conf, i386, Debian-Lex, niezawodność, Credits, Konferencje, Subversion, Miniconf3, Usunięcia"
-#use wml::debian::translation-check translation="1.21"
+#use wml::debian::translation-check translation="f4cc036b1bd5cba9b9d584f4d5516bbfb9229776"
 <p>Witaj w osiemnastym w tym roku numerze DWN, tygodniku dla osób
 zainteresowanych i związanych z Debianem.  Jako dopełnienie zaszłorocznego
 przeglądu <a href="http://floss1.infonomics.nl">FLOSS</a>, Uniwersytet

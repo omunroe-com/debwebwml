@@ -19,4 +19,4 @@ version 0.47-9.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-820.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="830621cd82e3778615aa3a885ab770997c8740c1" mindelta="1"

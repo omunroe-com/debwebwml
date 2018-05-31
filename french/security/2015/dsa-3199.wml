@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="0fcf9a248ef4a2bc56c7f3d1c5a22ce2824264de" maintainer="Thomas Vincent"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Anton Rager et Jonathan Brossard de l'équipe de sécurité des produits de

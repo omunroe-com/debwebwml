@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bf945389e258ddef21e7ed102a7e0ebd0081ccca"
 <define-tag description>revelación de código fuente</define-tag>
 <define-tag moreinfo>
 <p>Se ha encontrado una vulnerabilidad de seguridad en todas las versiones

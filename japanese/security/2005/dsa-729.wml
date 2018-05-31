@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="568a2d309717ae2d8c5b7031a877a641e41b98fb"
 <define-tag description>入力のサニタイジング欠落</define-tag>
 <define-tag moreinfo>
 <p>iDEFENSE 社の研究員が、サーバサイド HTML 組み込みスクリプト言語 PHP

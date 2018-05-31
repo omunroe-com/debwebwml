@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Juan M. Garcia"
+#use wml::debian::translation-check translation="fa773aff79020fe9a333937f6da3d92ec2341edb" maintainer="Juan M. Garcia"
 <define-tag description>entrada no saneada</define-tag>
 <define-tag moreinfo>
 <p>Lionel Elie Mamane descubrió una vulnerabilidad de seguridad en

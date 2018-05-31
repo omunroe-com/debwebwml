@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="60605af75946463c3acbce9efbe189f7890c1c90" maintainer="Lev Lamberov"
 <define-tag description>ошибка разработки</define-tag>
 <define-tag moreinfo>
 <p>Михаэль Бола обнаружил ошибку в Squid, популярном прокси для WWW.

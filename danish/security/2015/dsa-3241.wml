@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ab85de57756f35376e41f733bae57e6978316c3b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>John Heasman opdagede at søgemaskinen Elasticsearchs håndtering af 

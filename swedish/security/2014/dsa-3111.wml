@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0927a48f7072f16d915566f9b360af1853eec762" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Michal Zalewski upptäckte ett problem med skrivning utanför gränserna i

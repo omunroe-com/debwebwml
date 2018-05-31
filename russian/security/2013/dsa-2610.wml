@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bf2f4b36f5e3f8a7ff08126ea864e77e4c7cf595" maintainer="Lev Lamberov"
 <define-tag description>выполнение произвольного сценария</define-tag>
 <define-tag moreinfo>
 <p>Недостаточная очистка ввода в Ganglia, системе мониторинга на базе веб,

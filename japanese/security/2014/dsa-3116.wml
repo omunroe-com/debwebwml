@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="c2e3212b89f7af7ed54c308b6645057380630e4d"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>X.509 証明書の解析にメモリ漏洩が発見されています。サービス拒否につながります。</p>

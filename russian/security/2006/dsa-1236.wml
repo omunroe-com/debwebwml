@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c5e9c0fdf434a25f7ca94b5e98ef649cebc29502" maintainer="Lev Lamberov"
 <define-tag description>отсутствие проверки чистоты</define-tag>
 <define-tag moreinfo>
 <p>Антти-Йухани Каийанахо обнаружил, что enemies-of-carlotta, простой

@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-05-12" SUMMARY="Les membres de Debian votent un code de conduite, ouverture des inscriptions à DebConf14, retrait de SPARC de Jessie, avenir prometteur pour Debian dans les systèmes intégrés, brèves de l'équipe de publication, nouvelles de la rencontre systemd + GNOME"
-#use wml::debian::translation-check translation="1.3" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="8fb751b7c1cfbe3cd729a336b64ae649edfd8b09" maintainer="Cédric Boutillier"
 
 # $Id$
 # $Rev: 5624 $

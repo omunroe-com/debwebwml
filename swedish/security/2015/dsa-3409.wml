@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="0a9be5a2026211f1bbee2f35d88ca16357780bc0" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Ett minnesförstörande heltalsspill i hanteringen av kontrollsekvensen ECH

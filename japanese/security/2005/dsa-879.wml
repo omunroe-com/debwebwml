@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1e20f57ad1f3bcc6113c689183fd14eb4f687a14"
 <define-tag description>プログラミングの誤り</define-tag>
 <define-tag moreinfo>
 <p>バグが gallery に発見されました。登録済みの全 postnuke

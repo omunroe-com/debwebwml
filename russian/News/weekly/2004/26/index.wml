@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-07-06" SUMMARY="Quantian, GNOME, X11, Лицензия, Система установки, GNU/kFreeBSD, Списки, Openswan, Архив"
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 
 <p>Приветствуем вас в 26-м за этот год выпуске DWN, еженедельного
 информационного бюллетеня сообщества Debian. Форум debianHELP проводит

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="983f688b1f4324d62b0d84bb8852627983993f05" maintainer="Lev Lamberov"
 <define-tag description>недостаточное экранирование</define-tag>
 <define-tag moreinfo>
 <p>Теему Салмела обнаружил, что links, текстовый веб-браузер,

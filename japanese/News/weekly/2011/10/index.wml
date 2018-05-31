@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-24" SUMMARY="Debian GNU/Linux のアップデート: 6.0.2、新しい IRC トレーニングセッション、Planet Debian 派生物への参加、Debian GNU/kFreeBSD のグラフィカルインストーラ"
-#use wml::debian::translation-check translation="1.14"
+#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
 
 # $Rev: 2331 $
 # Status: [frozen]

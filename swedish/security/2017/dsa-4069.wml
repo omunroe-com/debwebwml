@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="96c20f0746ecf93bc792172a473bc89e300e2720" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Francesco Sirocco upptäckte en brist i otrs2, Open Ticket Request

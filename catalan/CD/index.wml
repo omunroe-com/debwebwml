@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Debian en CD" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="1.40" maintainer="Alytidae"
+#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b" maintainer="Alytidae"
 
 <p>Si voleu obtenir Debian en CD o en memòria usb mireu més avall
 per a les opcions disponibles. En cas que tingueu algun problema,

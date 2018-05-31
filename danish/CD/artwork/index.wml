@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Grafik til Debian-cd'er" BARETITLE=true
-#use wml::debian::translation-check translation="1.41"
+#use wml::debian::translation-check translation="95c243c81514bf27ba01b6a583d56cfc6d7947eb"
 
 <p>Officiel grafik til aktuelle og nylige udgivelser, kan være tilgængelig på 
 wikisiden <a href="https://wiki.debian.org/DebianArt/Themes">themes</a>.</p>

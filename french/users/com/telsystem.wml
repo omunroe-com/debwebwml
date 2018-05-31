@@ -5,7 +5,7 @@
 <define-tag webpage>http://www.telsystem.com.br/</define-tag>
 
 #use wml::debian::users
-#use wml::debian::translation-check translation="1.1" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="42317b46688bd42bed5681d4582a59f30ee8a899" maintainer="Nicolas Bertolissio"
 
 <p>
 Nous utilisons Debian exclusivement comme passerelle et pare-feu, pour l'accès

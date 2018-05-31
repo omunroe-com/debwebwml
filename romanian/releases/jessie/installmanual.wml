@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian jessie -- Ghid de instalare" BARETITLE=true
-#use wml::debian::translation-check translation="1.5" maintainer="Ana Custura"
+#use wml::debian::translation-check translation="e7a43e9d7fba0dacfd02fa428fb89faf507617cf" maintainer="Ana Custura"
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="41a6d459c77258b2fd767f1a301b8b323a07e733" maintainer="Lev Lamberov"
 <define-tag description>ошибка прав доступа к файлу</define-tag>
 <define-tag moreinfo>
 <p>Петер Пальфрадер обнаружил, что в системе управления версиями Git

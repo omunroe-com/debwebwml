@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="d4dc224f456377792840747f6f306cabd1caf264" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Специалисты из MWR InfoSecurity обнаружили переполнение буфера в pcscd, встроенной программе

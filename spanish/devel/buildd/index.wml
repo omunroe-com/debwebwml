@@ -1,5 +1,5 @@
 #use wml::debian::template title="Red autocompiladora" BARETITLE="true"
-#use wml::debian::translation-check translation="1.27"
+#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
 
 <p>La red autocompiladora es un desarrollo de Debian que gestiona las
 compilaciones de paquetes para

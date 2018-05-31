@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="a344c983d62e0f902caa8d31afb51481f4b569ad" maintainer="DFS Task Force"
 <define-tag moreinfo>Le paquet canna distribué dans la Debian
 GNU/Linux&nbsp;2.1 peut être exploité à distance pour obtenir un accès.
 Cela est rendu possible en débordant un tampon par l'envoi de la commande

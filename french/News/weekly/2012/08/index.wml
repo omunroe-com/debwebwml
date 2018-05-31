@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-16" SUMMARY="Élection du chef de projet, inscriptions à DebConf12, initiatives personnelles de chasses aux bogues"
-#use wml::debian::translation-check translation="1.9" maintainer="David Prévot"
+#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="David Prévot"
 
 # $Id$
 # $Rev: 1641 $

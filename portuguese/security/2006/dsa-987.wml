@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="417287205bfc45d07b571838c05beb86e454c9c3" maintainer="Marco Carvalho"
 <define-tag description>estouros de pilha</define-tag>
 <define-tag moreinfo>
 <p>Jim Meyering descobriu vários estouros de pilha no GNU tar, que podem

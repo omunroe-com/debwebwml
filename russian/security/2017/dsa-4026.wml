@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dac2e3036eee4d669b53485340df4efb21a400f0" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Вен Бин обнаружил, что bchunk, приложение для преобразования образов компакт-дисков

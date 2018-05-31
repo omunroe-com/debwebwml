@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="80c9ef297175b18efce190e2657b7043adb7ed19"
 <define-tag description>ヒープベースのバッファオーバーフロー</define-tag>
 <define-tag moreinfo>
 <p>Robert Matthews さんが、Apache FCGID モジュール、Apache HTTP サーバ用の FastCGI

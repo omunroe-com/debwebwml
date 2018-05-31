@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-12-06" SUMMARY="Rezoluce, DebConf, /tmp, překlad, udev, balíčkování, Krb4, GCC 2.95"
-#use wml::debian::translation-check translation="1.9" maintainer="Ondrej Cecak"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Ondrej Cecak"
 
 <p>Vítejte u&nbsp;letošního 49. vydání DWN, týdenního zpravodaje pro komunitu
 okolo Debianu. Roland Stigge <a

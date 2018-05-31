@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian BTS &mdash; informações para desenvolvedores" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="1.99" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="33ca549a7a4f5f50ef26749a5882613fb0715a03" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <h1>Informações sobre o sistema de processamento de bugs para
 mantenedores de pacotes e classificadores de bugs</h1>

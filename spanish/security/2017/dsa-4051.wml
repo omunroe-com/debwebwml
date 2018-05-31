@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="31062928930c5d1bde3ea562f87a1901990517e0"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron dos vulnerabilidades en cURL, una biblioteca para transferencia de URL.</p>

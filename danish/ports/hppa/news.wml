@@ -1,5 +1,5 @@
 #use wml::debian::template title="PA-RISC-tilpasning -- nyheder" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="c49855dd2fe6e7858e3f04946849442d1c1cd618"
 #include "$(ENGLISHDIR)/ports/hppa/menu.inc"
 
 <h1>Nyheder om Debian til PA-RISC</h1>

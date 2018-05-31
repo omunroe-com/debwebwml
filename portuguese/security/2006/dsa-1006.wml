@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Marco Carvalho"
+#use wml::debian::translation-check translation="c3ed32fdcdbe66d04f206e6a2447e0b1be9158fd" maintainer="Marco Carvalho"
 <define-tag description>Falta de limpeza da entrada</define-tag>
 <define-tag moreinfo>
 <p>"kcope" descobriu que no servidor FTP wzdftpd falta limpeza da entrada

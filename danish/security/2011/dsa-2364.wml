@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ecd395a52739373b3f6a84eaa225fb2b786da18d" mindelta="1"
 <define-tag description>ukorrekt rettighedskontrol</define-tag>
 <define-tag moreinfo>
 <p>Debians X-wrapper håndhæver, at X-serveren kun kan startes fra en konsol.

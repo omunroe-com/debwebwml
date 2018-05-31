@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
 # $Id$
 <define-tag pagetitle>Debian GNU/Linux 3.1 aktualisiert (r1)</define-tag>
 <define-tag release_date>2005-12-20</define-tag>

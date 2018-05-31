@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Puget Sound Technology"
-#use wml::debian::translation-check translation="1.4" maintainer="skizzhg"
+#use wml::debian::translation-check translation="1dec5e3bbb4b0d98ac258ca55b7b0d4cf17dbbc3" maintainer="skizzhg"
 
 <p>Migrazione BSD <-> Linux; formazione in loco su misura. Formazione su
 Apache, Postfix, sicurezza di Linux e linea di comando Unix.</p>

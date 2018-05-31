@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5eb41c35494f3fcf4f85a9aff8ae0ace493b10e8" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В c-icap, реализации ICAP-сервера, были обнаружены несколько

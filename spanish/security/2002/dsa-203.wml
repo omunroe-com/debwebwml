@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="39e4bee06fdab8b723c7e77db178c08e7b4f74b8"
 <define-tag description>ejecución de comando arbitrario</define-tag>
 <define-tag moreinfo>
 <p>Robert Luberda encontró un problema de seguridad en smb2www, un cliente

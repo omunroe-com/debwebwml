@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ed43effc6df249a689fee1f7e63935bb1402972d"
 <define-tag description>TLS 検証の迂回</define-tag>
 <define-tag moreinfo>
 <p>Maksim Otstavnov さんが、Telepathy フレームワーク向け Jabber/XMPP

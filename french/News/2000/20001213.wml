@@ -1,7 +1,7 @@
 <define-tag pagetitle>Le projet Debian à la  LinuxFEST 2000</define-tag>
 <define-tag release_date>2000-12-13</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Martin Quinson"
+#use wml::debian::translation-check translation="a4dcccf7481fab638e6ad6579f50fbd2891aab02" translation_maintainer="Martin Quinson"
 
 <p>Le projet Debian tiendra un stand à la LinuxFEST de cette année à
 Belgrade, en Yougoslavie. LinuxFEST 2000 aura lieu du 15 au 18

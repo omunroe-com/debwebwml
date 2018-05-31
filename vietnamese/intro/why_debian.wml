@@ -1,6 +1,6 @@
 #use wml::debian::template title="Lý do lựa chọn Debian"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.74" maintainer="Tuấn Nguyễn Anh <tuan89.ktdn@gmail.com>"
+#use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858" maintainer="Tuấn Nguyễn Anh <tuan89.ktdn@gmail.com>"
 
 <p>Cảm ơn vì đã cân nhắc sử dụng Debian cho máy tính của bạn.
 Nếu như bạn cảm thấy chưa được thuyết phục tại sao nên thử dùng Debian thì hãy xem qua những lý do sau đây:

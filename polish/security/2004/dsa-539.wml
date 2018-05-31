@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer=""
+#use wml::debian::translation-check translation="c79f39d339d827cd1bd95ea2e6b7d49b2cc7db95" maintainer=""
 <define-tag description>naruszenie bezpieczeństwa katalogów tymczasowych</define-tag>
 <define-tag moreinfo>
 <p>Zespół SUSE, zajmujący się bezpieczeństwem, wykrył, że w niektórych

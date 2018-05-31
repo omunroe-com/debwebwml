@@ -21,4 +21,4 @@ version 0.2.6.1-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1744.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="fc574375f17b0d5b28ca43df7c81c5f5d9d10317" mindelta="1"

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="ca0f712ac8e102dc911ee4a21c3a32ce36ba2847"
 <define-tag description>入力に対する不十分なサニタイジング</define-tag>
 <define-tag moreinfo>
 <p>"infamous41md" さんにより、Hewlett-Packard 社で開発された socks サーバ

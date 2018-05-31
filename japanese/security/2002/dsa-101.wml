@@ -12,4 +12,4 @@ Debian GNU/Linux の安定版リリースのバージョン 1.6.2p2-2.1 で修�
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-101.data"
 # $Id$
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="3e04347844f1889b0e3e77ca62857b31e05b5119"

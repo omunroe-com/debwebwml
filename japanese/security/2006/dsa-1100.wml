@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="54372e1681011e110298c582446e67d9eb7e45d2"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Microsoft 社の Word 文書を参照するためのライブラリ wv2 に、

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="48b7c01a50ec707d1c20ba1d757d589118a4fda7" maintainer="Lev Lamberov"
 <define-tag abbr>Guaiba</define-tag>
 <define-tag year>2012</define-tag>
 <define-tag pagetitle>Доклад и обсуждение: Что такое Проект Debian?</define-tag>

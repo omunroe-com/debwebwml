@@ -24,5 +24,5 @@ foredrag.</p>
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="914d94590364e270c6c9cc6731826c0c2652b1a2"
 #Related Links here (free form)

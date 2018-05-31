@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="085e12f1760f1f8c0ee4dfffd8e6c2a0199a74cb"
 <define-tag pagetitle>Debian 6.0 更新: 6.0.10 リリース</define-tag>
 <define-tag release_date>2014-07-19</define-tag>
 #use wml::debian::news

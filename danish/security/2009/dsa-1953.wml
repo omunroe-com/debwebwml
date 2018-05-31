@@ -21,4 +21,4 @@ ikke klar endnu.  De vil blive frigivet så snart de bliver tilgængelige.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1953.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="69a7dfeebc4828498e71edeac5b0b3de2e7492d6" mindelta="1"

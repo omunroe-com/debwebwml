@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="84e8f8fe4f93afadc1470d77e88601c6513da555"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Florian Weimer さんが Chrony 時刻同期ソフトウェアにセキュリティ問題を2件

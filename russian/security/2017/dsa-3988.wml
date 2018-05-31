@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4078ce9be4e6c560b634ffd8581a35ab68dfb2df" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В функции decode_digit() в libidn2-0, библиотеке проекта GNU для поддержки

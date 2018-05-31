@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2360ed6556e1fb180630dd5a2465af76ebded03e" maintainer="Lev Lamberov"
 <define-tag description>переполнение буфера</define-tag>
 <define-tag moreinfo>
 <p>Гленн-Рэндерс Персон обнаружил переполнение буфера в библиотеке libpng,

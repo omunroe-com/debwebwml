@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="245bbb4bdeff70725f741d56b1e37663fbab130b" maintainer="Lev Lamberov"
 <define-tag description>переполнение динамической памяти</define-tag>
 <define-tag moreinfo>
 <p>Джон Хисман обнаружил переполнение динамической памяти в функциях OpenOffice.org,

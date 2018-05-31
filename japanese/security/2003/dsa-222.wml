@@ -20,7 +20,7 @@ href="http://www.idefense.com/advisory/12.23.02.txt">発見</a>しました。
 <p>すぐに xpdf パッケージをアップグレードすることを勧めます。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="237e6a273f7a4e5f3e218682d6dfed03e5c6fe8f"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-222.data"
 # $Id$

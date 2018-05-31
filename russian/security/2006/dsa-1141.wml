@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c6d8e54dcd2005b198bc1863509cbd528915c6aa" maintainer="Lev Lamberov"
 <define-tag description>переполнение целых чисел</define-tag>
 <define-tag moreinfo>
 <p>Евгений Легеров обнаружил, что чрезмерно длинные комментарии могут привести к аварийному завершению работы gnupg,

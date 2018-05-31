@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="b50688b1c5fd7f11515704f36f19bcf3a1b5c701" maintainer="DFS Task Force"
 <define-tag description>Dépassements de tampon</define-tag>
 <define-tag moreinfo>
 <p>Deux vulnérabilités dans sendmail ont été signalées.</p>

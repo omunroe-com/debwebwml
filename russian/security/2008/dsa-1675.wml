@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3038f2c5d4858f2f82245cc5c45c078c802666c4" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Масако Ооно обнаружил, что phpMyAdmin, веб-интерфейс для администрирования

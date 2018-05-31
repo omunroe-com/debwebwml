@@ -1,5 +1,5 @@
 # From: Micky Del Favero <micky@mesina.net>
-#use wml::debian::translation-check translation="1.1" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="8de571e7971744dd6cc5c978e737a8364d476d4c" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 
 <define-tag pagetitle>BMR Genomics, Padova, It&aacute;lia</define-tag>
 <define-tag webpage>http://www.bmr-genomics.it/</define-tag>

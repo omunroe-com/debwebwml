@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-06-08" SUMMARY="Rilascio Sarge, CodeFest, QA, GNOME, Libreria, Keysigning, Java"
-#use wml::debian::translation-check translation="1.13" maintainer="Daniele Venzano"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Daniele Venzano"
 
 <p>Benvenuti al ventitreesimo numero di quest'anno di DWN, il notiziario settimanale 
 per la comunità Debian. Ora che Debian 3.1 è stata rilasciata, la gente sta celebrando 

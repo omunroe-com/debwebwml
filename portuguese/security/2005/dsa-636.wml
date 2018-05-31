@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="a6d46c4175b30d9628d48f2899c039d8eac9e044"
 <define-tag description>arquivos temporários inseguros</define-tag>
 <define-tag moreinfo>
 <p>Vários usos inseguros de arquivos temporários foram descobertos nos

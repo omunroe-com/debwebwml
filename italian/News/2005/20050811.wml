@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.4" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="6f0063b49127f977a7a185b807cf862c694c66b0" maintainer="Luca Monducci"
 <define-tag pagetitle>Il Progetto Debian aggiunge il supporto di sicurezza per AMD64</define-tag>
 <define-tag release_date>2005-08-11</define-tag>
 #use wml::debian::news

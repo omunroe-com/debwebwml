@@ -17,5 +17,5 @@ Version 5.0-3.woody.1 behoben.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-333.data"
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="bd3aceaf0dd406210fe4d5d056b027ddba668482"
 # $Id$

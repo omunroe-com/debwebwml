@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="b3f0e3390b289d7aad95d9ada7a059018ebf70cb"
 <define-tag description>archivo temporal inseguro</define-tag>
 <define-tag moreinfo>
 <p>sup, un paquete que se usa para mantener colecciones de archivos en

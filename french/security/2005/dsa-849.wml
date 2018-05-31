@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="e2a9a7eccc5f11e94b9a6f0e230cba5a03e31285" maintainer="Simon Paillard"
 <define-tag description>Erreur de programmation</define-tag>
 <define-tag moreinfo>
 <p>«&nbsp;Supernaut&nbsp;» a remarqué que shorewall, «&nbsp;Shoreline

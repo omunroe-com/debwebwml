@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c394caa4b9c9f6be4fa0cea52ab6f41a1554d4f4" maintainer="Lev Lamberov"
 <define-tag moreinfo>
 Версия htdig, поставляемая в составе Debian GNU/Linux 2.1, содержит проблему,
 связанную с вызовом внешних программ для обработки отличных от HTML документов: она вызывает

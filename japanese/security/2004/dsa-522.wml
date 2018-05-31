@@ -14,7 +14,7 @@
 <p>直ちに super パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="adac8c6d64fbffb33a62a73454a133c208c9c483"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-522.data"
 # $Id$

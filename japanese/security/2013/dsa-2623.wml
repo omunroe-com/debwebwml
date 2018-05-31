@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="0afaf17f4b4eef2125a79971c192dcb67cff5ea0"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Kevin Cernekee さんが、悪意のある VPN ゲートウェイが細工した応答を送ることにより、

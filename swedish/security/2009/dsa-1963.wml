@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="484a69642a363a8c1aef8f7bd1d312139c855c3b"
 <define-tag description>felaktig kryptografisk implementering</define-tag>
 <define-tag moreinfo>
 <p>Det upptäcktes att Unbound, en DNS-uppslagare, inte

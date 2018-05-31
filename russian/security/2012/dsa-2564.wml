@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a5fc65fb871e384c5b337ea200521bce46ef0b0e" maintainer="Lev Lamberov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>gpernot обнаружил, что Tinyproxy, HTTP-прокси, содержит

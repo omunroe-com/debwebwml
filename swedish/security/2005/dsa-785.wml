@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="b27d11d23c55bd839184766c856e4d6d383c8a48" mindelta="1"
 <define-tag description>förbigående av autentisering</define-tag>
 <define-tag moreinfo>
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="DFS Task Force"
+#use wml::debian::translation-check translation="1223b935e056d48824c2e3a9258587d5d0cf38e0" maintainer="DFS Task Force"
 <define-tag description>Dépassement de tampon</define-tag>
 <define-tag moreinfo>
 <p>Jonathan Rockway a découvert un dépassement de tampon dans nasm, l'assembleur

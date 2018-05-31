@@ -1,5 +1,5 @@
 #use wml::debian::template title="Состояния wanna-build: объяснение" BARETITLE="true"
-#use wml::debian::translation-check translation="1.25" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Lev Lamberov"
 
     <p>На этой странице объясняется значение каждого состояния wanna-build и
       то, что произойдёт с пакетом, если он находится в этом состоянии. Целевой

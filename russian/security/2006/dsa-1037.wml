@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="1af7779c296785520c81301bb1d4c6ef509b15c3" maintainer="Lev Lamberov"
 <define-tag description>ошибка программирования</define-tag>
 <define-tag moreinfo>
 <p>Антреа Барисани обнаружила, что zgv, просмотрщик графики на svgalib,

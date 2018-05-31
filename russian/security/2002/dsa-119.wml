@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="8d37ef50b0f1cd1d0cd0e8a651f1b6a719fde006" maintainer="Lev Lamberov"
 <define-tag description>локальная уязвимость суперпользователя, удалённая клиентская уязвимость</define-tag>
 <define-tag moreinfo>
 <p><a href="mailto:joost@pine.nl">Йост Пол</a> сообщает, что OpenSSH

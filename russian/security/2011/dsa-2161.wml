@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Alexander Reshetov"
+#use wml::debian::translation-check translation="dc13901bc43feb7732e32993c830e23873f09356" maintainer="Alexander Reshetov"
 <define-tag description>отказ в обслуживании</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что обработчик плавающей запятой в OpenJDK,

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-01-20" SUMMARY="Java, 翻訳, 賞, インストーラ, BTS, イベント, Ext2, 足りないもの, libtool"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="a486fd007d2c7ecf3888a1839ca0e3b753fb19f1"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 3 号へようこそ。どうやら我々は、<a

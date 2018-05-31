@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="73a2b6c74b656924c6b042c5c1c1f6d28bcf078c"
 <define-tag description>無限ループ</define-tag>
 <define-tag moreinfo>
 <p>Brian Caswell さんは、不正な形式の SMB パケットによって ethereal

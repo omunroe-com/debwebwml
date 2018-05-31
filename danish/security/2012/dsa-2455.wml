@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="ac15e795f18dac3f2107abb00781c568df915f7f" mindelta="1"
 <define-tag description>manglende fornuftighedskontrol af inddata</define-tag>
 <define-tag moreinfo>
 <p>Helmut Hummel fra TYPO3's sikkerhedsteam, opdagede at TYPO3, et system til 

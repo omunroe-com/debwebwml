@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="867f67e53befc8a6ea3564bd2a3e435de1a0085b" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Эдди Харари сообщил, что SSH-служба OpenSSH позволяет получить список пользователей

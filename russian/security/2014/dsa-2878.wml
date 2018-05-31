@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="0452387eccf6c600b918419a76036fe2f4041064" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Мэтью Дэлей обнаружил многочисленные уязвимости в VirtualBox, решении

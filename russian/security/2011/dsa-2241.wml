@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="002fc86db471bd9a7b618b25545192e64526665f" maintainer="Lev Lamberov"
 <define-tag description>ошибка реализации</define-tag>
 <define-tag moreinfo>
 <p>Нельсон Элхаж обнаружил, что некорректная обработка памяти во время

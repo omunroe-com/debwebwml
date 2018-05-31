@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="653a8b9eecb6739264bd0fcb1d0854103300a759"
 <define-tag description>クォートの欠落、不完全なパース</define-tag>
 <define-tag moreinfo>
 <p>Brian Campbell さんは、2 つのセキュリティに関わる問題を gkrellm-newsticker

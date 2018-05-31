@@ -1,7 +1,7 @@
 <define-tag pagetitle>VA Linux Systems, O'Reilly og SGI sponserer produkt til detailhandlen</define-tag>
 <define-tag release_date>1999-10-12</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <h3>Populær ikke-kommerciel Linux-distribution i pakke med cd-rom og bog</h3>
 

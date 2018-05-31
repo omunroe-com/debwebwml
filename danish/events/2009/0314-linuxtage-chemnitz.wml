@@ -22,7 +22,7 @@ foredrag og workshops.</p>
 
 </define-tag>
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 #Related Links here (free form)
 <ul>
   <li><a href="https://wiki.debian.org/DebianEventsChemnitzerLinuxTage2009">organiserings-wikiside</a></li>

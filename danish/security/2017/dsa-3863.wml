@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="723e86d5c5bc3edc841db0c22e4cbd6d8d8210c1" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Denne opdateringer retter flere sårbarheder i imagemagick:  Forskellige 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hålla översättningarna à jour"
-#use wml::debian::translation-check translation="1.18"
+#use wml::debian::translation-check translation="5906c5c1a380b2b57c9650ad00be21b432a3be04"
 
 <p>Eftersom webbsidor inte är statiska är det bra att kunna hålla reda på
 vilken version av originalet som en viss sida översätter, och använda denna

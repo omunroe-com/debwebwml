@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="438c4dd992dbc3e81ec2ee12a7eaf908bf42edfd"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>セキュリティ問題が2件 (SNMP 設定を経由した SQL

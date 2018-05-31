@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" mindelta="1"
+#use wml::debian::translation-check translation="16753e055fc35625a7a66288e1bd1d3a1eed9617" mindelta="1"
 <define-tag description>exekvering av godtycklig kod</define-tag>
 <define-tag moreinfo>
 <p>

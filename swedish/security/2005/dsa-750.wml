@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="947c9c7b288691adcafa70a9cb642e4ed8991ceb" mindelta="1"
 <define-tag description>läser utanför tillåtet minne</define-tag>
 <define-tag moreinfo>
 <p>

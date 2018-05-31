@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2016-01-01" SUMMARY="Disparition de Ian Murdock, nouvelles internes et événements, demandes d'aide, comptes-rendus, nouvelles de l'extérieur"
 
-#use wml::debian::translation-check translation="1.7" translation_maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c7e1743e1581dc1d5f5075d5ddb7699a7358bd8f" translation_maintainer="Jean-Pierre Giraud"
 
 
 # $Id$

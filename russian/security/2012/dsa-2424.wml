@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="bd00b3c138abe83311330fdd18668d56da35e187" maintainer="Lev Lamberov"
 <define-tag description>загрузка внешней сущности XML</define-tag>
 <define-tag moreinfo>
 <p>Было обнаружено, что Perl-модуль XML::Atom не отключает

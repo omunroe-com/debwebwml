@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="d62cf605bb517ebc60466c6d05b9e4f16bd7f77c"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>chromium ウェブブラウザに脆弱性が複数見つかりました。</p>

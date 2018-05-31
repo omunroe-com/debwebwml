@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="569360971e8eb7511086aae80595d5518e85c728" maintainer="Lev Lamberov"
 <define-tag description>отсутствие очистки ввода</define-tag>
 <define-tag moreinfo>
 <p>Данкан Гилмор обнаружил, что yarssr, программа для агрегации и чтения RSS,

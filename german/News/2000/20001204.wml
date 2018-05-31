@@ -1,7 +1,7 @@
 <define-tag pagetitle>DDJ: Inside Debian Hurd</define-tag>
 <define-tag release_date>2000-12-04</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="e3e10eb63ac08cbb6fc1f18c7263546ee2538a7a"
 # $Id$
 
 <p>Die Dezember 2000 Ausgabe von Dr. Dobbs Journal enthält einen Artikel

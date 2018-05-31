@@ -71,7 +71,7 @@ Debian.
 </define-tag>
 
 #use wml::debian::past_event
-#use wml::debian::translation-check translation="1.11"
+#use wml::debian::translation-check translation="e4f447b798d7c736880a08773ad73bbf98465736"
 #Related Links
 <ul>
   <li><A HREF="http://corvette.me.vt.edu/~vtlug/">VTLUG</A>

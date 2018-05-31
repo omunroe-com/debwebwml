@@ -31,7 +31,7 @@ alpha 向けイメージの 2.4.24-3、powerpc 向けの 2.4.22-10 の各バー�
 <a href="CAN-2004-0077">脆弱性の一覧表</a></p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="f80bad83ef3e835cb82bdcd1c3f52868fc57cdea"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-438.data"
 # $Id$

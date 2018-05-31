@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="acd10a17ab494c7316efddb0160ed1450686dc5c"
 <define-tag description>ヒープベースのバッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>メール転送エージェントである Exim が DKIM 用の DNS

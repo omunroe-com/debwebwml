@@ -1,5 +1,5 @@
 #use wml::debian::template title="Rincón de los desarrolladores de Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="1.251" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="83e7c9d3117e07a0acc4360149be71547b0ec7a7" maintainer="Fernando C. Estrada"
 
 <p>La información de esta página, a pesar de ser pública, es
 principalmente de interés para los desarrolladores de Debian.</p>

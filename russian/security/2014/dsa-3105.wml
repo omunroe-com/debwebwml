@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b456da5ef82cc8a566d590e59254e92fbb3a1a85" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В Heirloom mailx, реализации команды <q>mail</q>, были обнаружены

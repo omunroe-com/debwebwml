@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-07-12" SUMMARY="ミュンヘンでのバグ潰しパーティ、次の Debian の誕生日、メーリングリスト管理者からの一言、DPL からの一言"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="8da95139c3595d47371ba8d288784086ae2ebacd"
 
 <!--
 $Rev: 519 $

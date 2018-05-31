@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="77ae07f8a2af63a8ba978637f20f741059c7a62e"
 <define-tag description>セキュリティ更新</define-tag>
 <define-tag moreinfo>
 <p>脆弱性が OpenSSL の TLS/DTLS Heartbeat 拡張サポートに発見されました。

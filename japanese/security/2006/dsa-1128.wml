@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1da9fa47138b542908eaa5a9fa7b1614a1dc81e1"
 <define-tag description>パーミッションの誤り</define-tag>
 <define-tag moreinfo>
 <p>Yan Rong Ge さんにより、高可用性 Linux サブシステム heartbeat

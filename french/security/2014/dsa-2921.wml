@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="30bc9cbd06621fb0efd2f0dc5e7678f5fc455b79" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Michael Niedermayer a découvert une vulnérabilité dans xbuffy, un utilitaire

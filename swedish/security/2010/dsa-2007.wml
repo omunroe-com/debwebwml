@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="2a633dd265f39b93db2349ff0e23f0ff72d8e86e"
 <define-tag description>formatsträngssårbarhet</define-tag>
 
 <define-tag moreinfo>

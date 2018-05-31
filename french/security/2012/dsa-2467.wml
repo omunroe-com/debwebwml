@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" maintainer="David Prévot"
+#use wml::debian::translation-check translation="e1fc533b03ccabee179b8d680c4d995e55f7c34a" maintainer="David Prévot"
 <define-tag description>Défauts non sécurisés</define-tag>
 <define-tag moreinfo>
 <p>

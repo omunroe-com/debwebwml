@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="93f9ec29a9d79391f858712be49e7f64f2d395a3" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Nikolay Ermishkin från Mail.Ru's säkerhetsgrupp och Stewie upptäckte

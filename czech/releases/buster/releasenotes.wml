@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/buster/release.data"
-#use wml::debian::translation-check translation="1.1" maintainer="Miroslav Kure"
+#use wml::debian::translation-check translation="b6a7091f73c11a22a8f619653012ca182cd13179" maintainer="Miroslav Kure"
 
 <if-stable-release release="stretch">
 <p>Tato verze poznámek&nbsp;pro zatím nevydaný Debian 10

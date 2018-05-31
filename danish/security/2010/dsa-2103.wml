@@ -15,4 +15,4 @@ og vil blive overført til distributionen testing (squeeze) om kort tid.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2103.data"
-#use wml::debian::translation-check translation="1.1" mindelta="1"
+#use wml::debian::translation-check translation="bfd0e3e7d0a8a46331a0740ef9138bb41ee2c2d0" mindelta="1"

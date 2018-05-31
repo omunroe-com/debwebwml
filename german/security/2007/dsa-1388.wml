@@ -33,4 +33,4 @@ Wir empfehlen Ihnen, Ihre dhcp-Pakete zu aktualisieren.
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2007/dsa-1388.data"
 # $Id$
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="a17db4488db04b96d1ea4c04982f6cde6872a09a"

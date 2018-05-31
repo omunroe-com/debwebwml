@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Pobieranie obrazów płyt Debiana przy użyciu BitTorrenta" BARETITLE=true
-#use wml::debian::translation-check translation="1.33"
+#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
 # oryginalny plik CD/torrent-cd/index
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"

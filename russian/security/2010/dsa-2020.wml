@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ed049e333a5dc6842f1c60b2c2ffa0e0637e8005" maintainer="Lev Lamberov"
 <define-tag description>недостаточная очистка ввода</define-tag>
 <define-tag moreinfo>
 <p>Иван Шмаков обнаружил, что компонент htmlscrubber для ikiwiki,
