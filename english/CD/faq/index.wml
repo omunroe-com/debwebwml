@@ -569,7 +569,7 @@ for CD optical media type:
 </p>
 
 <p>For Linux, there are also the X programs
-<a href="http://www.gnome.org/projects/brasero/">Brasero</a>,
+<a href="https://www.gnome.org/projects/brasero/">Brasero</a>,
 <a href="http://k3b.plainblack.com/">K3B</a> and
 <a href="http://www.xcdroast.org/">X-CD-Roast</a>,
 to name a few. Note that they're all frontends to the previously
@@ -577,7 +577,7 @@ mentioned low-level burning applications.</p>
 
 <dl>
   <dt><strong><a id="brasero"
-  href="http://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
+  href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
 
   <dd>Select the button <i>Burn Image</i>. Then click on
   <i>Click here to select a disc image</i>, browse and select your
