@@ -34,6 +34,10 @@ use constant INSTALLDIR => '../www';
 
 my $VCS = Local::VCS->new();
 
+# Cache the repo history for performance
+print "Initialising VCS cache\n";
+$VCS->cache_repo();
+
 ###############################################################
 # "main"
 {
