@@ -126,11 +126,17 @@ sub cache_file {
     
     _debug "cache_file($file)";
     if ($self->{CACHE}{"$file"}) {
-#	print "$file is already cached...\n";
+	_debug "$file is already cached...";
 	_debug "cache_file($file) returning early";
 	return;
     }
-#    print "Adding $file to cache\n";
+    _debug "Adding $file to cache\n";
+
+    # Store the current directory so we can return there
+    my $start_dir = cwd;
+    my $topdir = $self->get_topdir();
+    chdir ($topdir) or die "Can't chdir to $topdir: $!\n";    
+
     my (@commits);
     open (GITLOG, "git log -p -m --first-parent --name-only --numstat --format=format:\"%H %ct\" -- $file |") or die "Can't fork git log: $!\n";
     my ($cmt_date, $cmt_rev);
@@ -146,6 +152,7 @@ sub cache_file {
     }
     close GITLOG;
     _debug "cache_file($file) done";
+    chdir ($start_dir);
     return;
 }
 
@@ -168,7 +175,7 @@ sub cache_repo {
     # Store the current directory so we can return there
     my $start_dir = cwd;
     my $topdir = $self->get_topdir();
-    chdir ($topdir) or die "Can't chdir to $topdir: $!\n";    
+    chdir ($topdir) or die "Can't chdir to $topdir: $!\n";
 
     my (@commits);
     my $count = 0;
@@ -518,6 +525,8 @@ sub file_info
 	my %options = @_;
 	my $quiet = $options{quiet} || undef;
 	my %pathinfo;
+	$file =~ s,^(../)*,,g;
+	_debug "Looking for details of file $file";
 	my @commits = $self->_grab_commits($file);
 	if (@commits) {
 	    # Grab the data we want from the first entry in the
