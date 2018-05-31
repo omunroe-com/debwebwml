@@ -11,7 +11,10 @@
 # Modified by Javier Fernandez-Sanguino <jfs@debian.org> to support CVS
 # status of files in order to detect removed files or out-of-date CVS copies
 #
-# © Copyright 2000-2008 Software in the public interest, Inc.
+# Modified by Steve McIntyre <93sam@debian.org> to switch to using our
+# generic VCS support, as part of the move to git
+#
+# © Copyright 2000-2018 Software in the public interest, Inc.
 # This program is released under the GNU General Public License, v2.
 
 # $Id$
