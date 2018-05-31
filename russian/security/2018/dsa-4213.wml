@@ -1,0 +1,81 @@
+#use wml::debian::translation-check translation="72e985dfa9b7a9be1fca49944d2bccd5d39a088c"
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>В qemu, быстром эмуляторе процессора, было обнаружено несколько
+уязвимостей.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15038">CVE-2017-15038</a>
+
+    <p>Туомас Тюнккюнен обнаружил утечку информации в 9pfs.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15119">CVE-2017-15119</a>
+
+    <p>Эрик Блэйк обнаружил, что NBD-сервер недостаточно ограничивает
+    большие запросы опций, что приводит к отказу в обслуживании.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15124">CVE-2017-15124</a>
+
+    <p>Дэниэл Берранж обнаружил, что интегрированный VNC-сервер
+    недостаточно ограничивает выделение памяти, что может приводить к
+    отказу в обслуживании.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15268">CVE-2017-15268</a>
+
+    <p>Утечка памяти в поддержке веб-сокетов может приводить к отказу в обслуживании.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15289">CVE-2017-15289</a>
+
+    <p>Госян Ню обнаружил запись за пределами выделенного буфера памяти в эмуляции графического
+    адаптера Cirrus, которая может приводить к отказу в обслуживании.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-16845">CVE-2017-16845</a>
+
+    <p>Сирил Чатрас обнаружил утечку информации в эмуляции PS/2 клавиатуры и мыши,
+    которая может использоваться в ходе миграции
+    экземпляров.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-17381">CVE-2017-17381</a>
+
+    <p>Дэнчжань Хэюаньдун Бицзюньхуа и Ливэйчао обнаружили, что
+    ошибка реализации в реализации vring в virtio может приводить
+    к отказу в обслуживании.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-18043">CVE-2017-18043</a>
+
+    <p>Эрик Блэйк обнаружил переполнение целых чисел во внутренне используемом
+    макросе, которое может приводить к отказу в обслуживании.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5683">CVE-2018-5683</a>
+
+    <p>Цзян Синь и Линь ЧжэЧэн обнаружил доступ к памяти за границами выделенного буфера в
+    эмуляции VGA-адаптера, который может приводить к отказу в обслуживании.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7550">CVE-2018-7550</a>
+
+    <p>Сирил Чатрас обнаружил, что запись за пределами выделенного буфера памяти в ходе
+    использования мультизагрузки может приводить к выполнению произвольного кода.</p></li>
+
+</ul>
+
+<p>Данное обновление содержит обратный перенос ряда средств для снижения степени опасности
+от уязвимости Spectre v2, касающейся современных ЦП
+(<a href="https://security-tracker.debian.org/tracker/CVE-2017-5715">\
+CVE-2017-5715</a>). За дополнительной информацией обращайтесь по адресу
+<a href="https://www.qemu.org/2018/01/04/spectre/">\
+https://www.qemu.org/2018/01/04/spectre/</a></p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1:2.8+dfsg-6+deb9u4.</p>
+
+<p>Рекомендуется обновить пакеты qemu.</p>
+
+<p>С подробным статусом поддержки безопасности qemu можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/qemu">\
+https://security-tracker.debian.org/tracker/qemu</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4213.data"
