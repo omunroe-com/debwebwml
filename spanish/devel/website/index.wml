@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ayuda con las Páginas web de Debian" BARETITLE=true
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Gildardo A. Maravilla Jácome"
+#use wml::debian::translation-check translation="7f92d5e217e2a0041acf36deec4f32b04a0cfb49" maintainer="Gildardo A. Maravilla Jácome"
 
 <h3>Introducción</h3>
 
@@ -23,7 +23,7 @@ Todas las discusiones que involucran el sitio web tienen lugar ahí.
   -- <em>¡lectura recomendada!</em>
   <li><a href="working">creación o edición de páginas en inglés</a>
     <ul>
-      <li><a href="using_cvs">cómo usar el CVS</a>
+      <li><a href="using_cvs">cómo usar el CVS (obsoleto)</a>
       <li><a href="using_wml">cómo usar WML</a>
       <li><a href="htmlediting">cómo utilizar HTML en las páginas
 Web de Debian</a>
