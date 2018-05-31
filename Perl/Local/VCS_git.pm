@@ -36,7 +36,7 @@ use 5.008;
 
 use File::Basename;
 use File::Find;
-use File::Spec::Functions qw( rel2abs splitdir catfile rootdir catdir );
+use File::Spec::Functions qw( abs2rel rel2abs splitdir catfile rootdir catdir );
 use File::stat;
 use Carp;
 use Fcntl qw/ SEEK_SET /; 
@@ -44,7 +44,7 @@ use Data::Dumper;
 use Date::Parse;
 use POSIX qw/ WIFEXITED /;
 use List::MoreUtils 'first_index'; 
-use Cwd qw(cwd);
+use Cwd qw/cwd/;
 use Time::HiRes qw/gettimeofday/;
 use Data::Dumper;
 
@@ -104,6 +104,24 @@ sub _debug
 	return;
 }
 
+# Internal helper function. Try to change to the target directory. If
+# we can't for some reason (e.g. it doesn't exist), print an error
+# *and* change to the fallback directory instead, then return false..
+#
+# Useful in a number of places in this code where we're in a nested
+# set of chdir() calls and we want to exit cleanly on error
+sub _safe_chdir {
+    my $target = shift;
+    my $fallback = shift;
+
+    if (!chdir($target)) {
+	print STDERR "ERROR: Can't chdir to $target: $!\n";
+	chdir($fallback) or die "Can't chdir to fallback dir $fallback: $!\n";
+	return 0;
+    }
+    return 1;
+}
+
 sub _add_cache_entry {
     my $self = shift;
     my $file = shift;
@@ -132,10 +150,9 @@ sub cache_file {
     }
     _debug "Adding $file to cache\n";
 
-    # Store the current directory so we can return there
-    my $start_dir = cwd;
-    my $topdir = $self->get_topdir();
-    chdir ($topdir) or die "Can't chdir to $topdir: $!\n";    
+    if ($self->get_topdir() !~ /^\.$/) {
+	croak "cache_file() needs to be called in the root of the webwml repo\n";
+    }
 
     my (@commits);
     open (GITLOG, "git log -p -m --first-parent --name-only --numstat --format=format:\"%H %ct\" -- $file |") or die "Can't fork git log: $!\n";
@@ -152,7 +169,6 @@ sub cache_file {
     }
     close GITLOG;
     _debug "cache_file($file) done";
-    chdir ($start_dir);
     return;
 }
 
@@ -167,15 +183,19 @@ sub cache_repo {
 	return;
     }
 
+    if ($self->get_topdir() !~ /^\.$/) {
+	croak "cache_repo() needs to be called in the root of the webwml repo\n";
+    }
+
     # If not, clear the cache and rebuild from scratch. We might havs
     # some files cached individually, and that would confuse things
     # now.
     $self->{CACHE} = {};
 
     # Store the current directory so we can return there
-    my $start_dir = cwd;
+    my $startdir = cwd;
     my $topdir = $self->get_topdir();
-    chdir ($topdir) or die "Can't chdir to $topdir: $!\n";
+    _safe_chdir($topdir, $startdir) or die "Can't chdir to $topdir: $!\n";
 
     my (@commits);
     my $count = 0;
@@ -194,7 +214,7 @@ sub cache_repo {
 	}
     }
     close GITLOG;
-    chdir ($start_dir);
+    chdir ($startdir);
     $self->{REPO_CACHED} = 1;    
 #    print Dumper($self->{CACHE});
     my $tmp = $self->{CACHE};
@@ -203,7 +223,8 @@ sub cache_repo {
 }    
 
 # Internal helper function - grab a list of all the commits to a given
-# file
+# file. This mist be relative to the top level of the repository. The
+# caller must deal with this
 sub _grab_commits
 {    
     my $self = shift;
@@ -239,8 +260,29 @@ sub cmp_rev
 	my $file = shift or return undef;
 	my $rev1 = shift or return undef;
 	my $rev2 = shift or return undef;
+	my $ret = undef;
 
-	my @commits = $self->_grab_commits($file);
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "cmp_rev(): looking for details of file $relfile, indir $indir";
+
+	my @commits = $self->_grab_commits($relfile);
 #	print Dumper(@commits);
 	my $pos1 = -1;
 	my $pos2 = -1;
@@ -261,23 +303,22 @@ sub cmp_rev
 	if ($pos1 == -1) {
 	    # Not found
 	    print "ERROR: commit $rev1 not found in revisions of $file\n";
-	    return undef;
-	}
-	if ($pos2 == -1) {
+	    $ret = undef;
+	} elsif ($pos2 == -1) {
 	    # Not found
 	    print "ERROR: commit $rev2 not found in revisions of $file\n";
-	    return undef;
-	}
-	if ($pos1 == $pos2) {
-	    return 0;
+	    $ret = undef;
+	} elsif ($pos1 == $pos2) {
+	    $ret = 0;
 	} elsif ($pos1 < $pos2) {
-	    return 1;
+	    $ret = 1;
 	} else {
-	    return -1;
+	    $ret = -1;
 	}
 
-	# should never be reached
-	croak "Internal error: this should never be executed";
+	# Now return to the directory where we started
+	chdir($startdir);
+	return $ret;
 }
 
 =item count_changes
@@ -305,12 +346,33 @@ sub count_changes
 	my $file = shift  or  return undef;
 	my $rev1 = shift || '';
 	my $rev2 = shift || '';
+	my $ret = 0;
 
 	if ($rev1 =~ m/^\Q$rev2\E$/) { # same revisions
 	    return 0;
 	}
 
-	my @commits = $self->_grab_commits($file);
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "count_changes(): looking for details of file $relfile, indir $indir";
+
+	my @commits = $self->_grab_commits($relfile);
 
 	# If unset, go for the last revision
 	if (length($rev2) == 0) {
@@ -336,14 +398,16 @@ sub count_changes
 	if ($pos1 == -1) {
 	    # Not found
 	    print "ERROR: commit $rev1 not found in revisions of $file\n";
-	    return undef;
-	}
-	if ($pos2 == -1) {
+	    $ret = undef;
+	} elsif ($pos2 == -1) {
 	    # Not found
 	    print "ERROR: commit $rev2 not found in revisions of $file\n";
-	    return undef;
+	    $ret = undef;
 	}
-	return $pos1 - $pos2;
+	$ret = $pos1 - $pos2;
+	# Now return to the directory where we started
+	chdir($startdir);
+	return $ret;
 }
 
 # return the type of the input argument (file, dir, symlink, etc)
@@ -417,12 +481,18 @@ sub path_info
 	# This may not sound very quick, but it's much better than asking git
 	# about all the details individually!
 
+	# FIXME! path_info will not work unless you start at the root
+	# of the repository.
+
 	my $self = shift;
 	my ($dir,%options) = @_;
 	my %files_wanted;
 
 	croak("No file or directory specified") unless $dir;
 	_debug "path_info ($dir)";
+	if ($self->get_topdir() !~ /^\.$/) {
+	    croak "path_info() needs to be called in the root of the webwml repo\n";
+	}
 
 	my $recurse   = $options{recursive} || $options{recurse} || 0;
 	my $match_pat = $options{match_pat} || undef;
@@ -525,9 +595,27 @@ sub file_info
 	my %options = @_;
 	my $quiet = $options{quiet} || undef;
 	my %pathinfo;
-	$file =~ s,^(../)*,,g;
-	_debug "Looking for details of file $file";
-	my @commits = $self->_grab_commits($file);
+
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "file_info(): looking for details of file $relfile, indir $indir";
+	my @commits = $self->_grab_commits($relfile);
 	if (@commits) {
 	    # Grab the data we want from the first entry in the
 	    # commits list, i.e. the most recent commit.
@@ -536,6 +624,8 @@ sub file_info
 	    $pathinfo{'cmt_rev'} = $commits[0]{'cmt_rev'};
 	}
 
+	# Now return to the directory where we started
+	chdir($startdir);
 	return %pathinfo;	
 }
 
@@ -561,14 +651,35 @@ sub get_log
 	my $rev2 = shift || '';
 	my @logdata;
 	my $command;	
+
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "get_log(): looking for details of file $relfile, indir $indir";
+
 	if ($rev1 eq '' and $rev2 eq '') {
-	    $command = sprintf( 'git log --date=unix %s', $file );
+	    $command = sprintf( 'git log --date=unix %s', $relfile );
 	} elsif ($rev2 eq '') {
-	    $command = sprintf( 'git log --date=unix %s^..%s %s', $rev1, $rev1, $file );
+	    $command = sprintf( 'git log --date=unix %s^..%s %s', $rev1, $rev1, $relfile );
 	} elsif ($rev1 eq '') {
-	    $command = sprintf( 'git log --date=unix ..%s %s', $rev2, $file );
+	    $command = sprintf( 'git log --date=unix ..%s %s', $rev2, $relfile );
 	} else {
-	    $command = sprintf( 'git log --date=unix %s..%s %s', $rev1, $rev2, $file );
+	    $command = sprintf( 'git log --date=unix %s..%s %s', $rev1, $rev2, $relfile );
 	}		
 
 	_debug "get_log: running $command";
@@ -628,8 +739,10 @@ sub get_log
 		 'date'    => $date,
 		 'message' => $message,
 	    };
+	    chdir($startdir);
 	    return reverse @logdata;
 	}
+	chdir($startdir);
 	return undef;
 }
 
@@ -662,10 +775,30 @@ sub get_diff
 	# hash to store the output
 	my %data;
 
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "get_diff(): looking for details of file $relfile, indir $indir";
+
 	my $command = sprintf( 'git diff %s %s -u %s 2> /dev/null', 
 		defined $rev1 ? "$rev1" : '', 
 		defined $rev2 ? "$rev2" : '', 
-		$file );
+		$relfile );
 
 #	print "$command\n";
 
@@ -689,6 +822,8 @@ sub get_diff
 	}
 	close( $git );
 
+	# Now return to the directory where we started
+	chdir($startdir);
 	return %data;
 }
 
@@ -717,9 +852,28 @@ sub get_file
 
 	croak( "No such file: $file" ) unless -f $file;
 
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "get_file(): looking for details of file $relfile, indir $indir";
 
 	my $command = sprintf( 'git show %s:%s', 
-		$rev, $file );
+		$rev, $relfile );
 
 	my $text;
 	open ( my $git, '-|', $command ) 
@@ -731,6 +885,9 @@ sub get_file
 	close( $git );
 	croak("Error while executing `$command': $!") unless WIFEXITED($?);
 	
+	# Now return to the directory where we started
+	chdir($startdir);
+
 	# return the file
 	return $text;
 }
@@ -753,16 +910,45 @@ sub get_oldest_revision
 {
 	my $self = shift;
 	my $file = shift or croak("No file specified");
+	my $ret = undef;
 
 	croak( "No such file: $file" ) unless -f $file;
 
-	my @commits = $self->_grab_commits($file);
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "get_oldest_revision(): looking for details of file $relfile, indir $indir";
+
+	my @commits = $self->_grab_commits($relfile);
+
 	if (@commits) {
 	    # Simply return the last revision in our list
-	    return $commits[$#commits]{'cmt_rev'};
+	    $ret = $commits[$#commits]{'cmt_rev'};
+	} else {
+	    # Should hopefully never get here!
+	    croak(" Could not find any revisions for $file");
 	}
-	# Should hopefully never get here!
-	croak(" Could not find any revisions for $file");
+
+	# Now return to the directory where we started
+	chdir($startdir);
+
+	# return the information
+	return $ret;
 }
 
 =item get_newest_revision
@@ -784,16 +970,44 @@ sub get_newest_revision
 {
 	my $self = shift;
 	my $file = shift or croak("No file specified");
+	my $ret = undef;
 
 	croak( "No such file: $file" ) unless -f $file;
 
-	my @commits = $self->_grab_commits($file);
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "get_newest_revision(): looking for details of file $relfile, indir $indir";
+
+	my @commits = $self->_grab_commits($relfile);
 	if (@commits) {
-	    # Simply return the last revision in our list
-	    return $commits[0]{'cmt_rev'};
+	    # Simply return the first revision in our list
+	    $ret = $commits[0]{'cmt_rev'};
+	} else {
+	    # Should hopefully never get here!
+	    croak(" Could not find any revisions for $file");
 	}
-	# Should hopefully never get here!
-	croak(" Could not find any revisions for $file");
+
+	# Now return to the directory where we started
+	chdir($startdir);
+
+	# return the information
+	return $ret;
 }
 
 =item next_revision
@@ -823,8 +1037,31 @@ sub next_revision
 	my $file = shift or return undef;
 	my $rev1 = shift or return undef;
 	my $move = shift or return undef;
+	my $ret = undef;
 
-	my @commits = $self->_grab_commits($file);
+	croak( "No such file: $file" ) unless -f $file;
+
+	# Work out where we need to be. This can be quite hairy if the
+	# user has given us a mix of relative and absolute paths from
+	# their program. Do this cleanly, somehow...!
+	# First of all, store the current directory so we can return
+	# there
+	my $startdir = cwd;
+	my $indir = dirname($file);
+	my $basefile = basename($file);
+	# Change to the directory of the file we've been asked about
+	_safe_chdir($indir, $startdir) or return undef;
+	$indir = cwd;
+	# That should be inside the repo, so now we can change to the
+	# repo root
+	my $topdir = $self->get_topdir();
+	_safe_chdir($topdir, $startdir) or return undef;
+	# Now calculate where the file is, relative to the repo root
+	my $reldir = abs2rel($indir, cwd);
+	my $relfile = catdir($reldir, $basefile);
+	_debug "next_revision(): looking for details of file $relfile, indir $indir";
+
+	my @commits = $self->_grab_commits($relfile);
 #	print Dumper(@commits);
 	my $pos1 = -1;
 	my $pos2 = -1;
@@ -843,19 +1080,25 @@ sub next_revision
 
 	if ($pos1 == -1) {
 	    # Can't find the specified revision
-	    return undef;
+	    $ret = undef;
+	} else {
+	    # API specifies -ve as older, but out list is sorted the other
+	    # way...
+	    $pos2 = $pos1 - $move;
+
+	    if ($pos2 < 0 or $pos2 >= $#commits) {
+		# Out of range when looking for the new revision
+		$ret = undef;
+	    } else {
+		$ret = $commits[$pos2]{'cmt_rev'};
+	    }
 	}
 
-	# API specifies -ve as older, but out list is sorted the other
-	# way...
-	$pos2 = $pos1 - $move;
+	# Now return to the directory where we started
+	chdir($startdir);
 
-	if ($pos2 < 0 or $pos2 >= $#commits) {
-	    # Out of range when looking for the new revision
-	    return undef;
-	}
-
-	return $commits[$pos2]{'cmt_rev'};
+	# return the information
+	return $ret;
 }
 
 =item get_topdir
@@ -877,22 +1120,24 @@ sub get_topdir
 	my $file = shift || '.';
 
 	# Are we in topdir? Easy!
-	if (-d ".git") {
+	if (-d ".git" and -d "english") {
 	    return ".";
 	}
 
 	# Otherwise, walk up the tree until we find a .git or hit the
 	# root directory
 	my $dir = "..";
-	my ($root_dev, $root_ino) = stat("/");
+	my $root = stat("/");
 
 	while (1 == 1) {
-	    if (-d "$dir/.git") {
+	    _debug "Looking at $dir";
+	    if (-d "$dir/.git" and -d "$dir/english") {
 		return "$dir";
 	    }
-	    my ($dev, $ino) = stat("$dir");
-	    if ($root_dev == $dev and $root_ino == $ino) {
-		croak ("Unable to determine top-level directory");
+	    my $sb = stat("$dir");
+	    _debug "Comparing ($sb->dev, $sb->ino) to ($root->dev, $root->ino)";
+	    if ($root->dev == $sb->dev and $root->ino == $sb->ino) {
+		croak ("Unable to find the top-level webwml directory");
 	    }
 	    $dir = "../$dir";
 	}

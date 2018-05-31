@@ -13,6 +13,7 @@ use Local::Cvsinfo;
 use Local::VCS;
 use Webwml::TransCheck;
 use Webwml::Langs;
+use Cwd qw/cwd/;
 
 my $file = "english/CD/faq/index.wml";
 my $rev1;
@@ -95,6 +96,33 @@ if (!defined $ret) {
     $ret = "<undef>";
 }
 print "4. (old, new) returned $ret\n";
+
+##########################################################
+print "#############################\n";
+print "VCS->cmp_rev::: from another directory\n";
+my $startdir = cwd;
+chdir "/tmp";
+$ret = $VCS->cmp_rev("$startdir/$file", , ,);
+if (!defined $ret) {
+    $ret = "<undef>";
+}
+print "1. (no revs specified) returned $ret\n";
+$ret = $VCS->cmp_rev("$startdir/english/../english/CD/faq/index.wml", $rev1, $rev1);
+if (!defined $ret) {
+    $ret = "<undef>";
+}
+print "2. (equal revs) returned $ret\n";
+$ret = $VCS->cmp_rev("$startdir/english/CD/faq/index.wml", $rev1, $rev2);
+if (!defined $ret) {
+    $ret = "<undef>";
+}
+print "3. (new, old) returned $ret\n";
+$ret = $VCS->cmp_rev("$startdir/english/CD/faq/index.wml", $rev2, $rev1);
+if (!defined $ret) {
+    $ret = "<undef>";
+}
+print "4. (old, new) returned $ret\n";
+chdir "$startdir";
 
 ##########################################################
 print "#############################\n";
