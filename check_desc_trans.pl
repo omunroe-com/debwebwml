@@ -15,6 +15,8 @@
 # are missing, which files are outdated, and if there are files translating
 # files that are no longer in the English directory.
 #
+# The script needs to be run from the top level webwml directory.
+#
 # The language to check can be specified on the command line, in 
 # language.conf, or in the DWWW_LANG environment variable.
 #

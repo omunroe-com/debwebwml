@@ -13,13 +13,15 @@
 # Copyright 2008 Bas Zoetekouw <bas@debian.org>.
 
 # Invocation:
-#   karma.pl [language]
+#   ./karma.pl [language]
 # list of languages in webwml:
 #    english esperanto french japanese german arabic catalan bulgarian
 #    chinese croatian czech danish dutch farsi finnish greek hungarian
 #    indonesian italian korean lithuanian norwegian romanian russian
 #    slovene spanish swedish turkish
-
+#
+# The script needs to be run from the top level webwml directory.
+#
 use File::Basename;
 use File::Spec::Functions;
 use FindBin;
