@@ -1,0 +1,79 @@
+#use wml::debian::translation-check translation="72e985dfa9b7a9be1fca49944d2bccd5d39a088c" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i qemu, en snabb processoremulator.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15038">CVE-2017-15038</a>
+
+	<p>Tuomas Tynkkynen upptäckte ett informationsläckage i 9pfs.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15119">CVE-2017-15119</a>
+
+	<p>Eric Blake upptäckjte att NBD-servern begränsar stora alternativförfrågningar
+	otillräckligt, vilket leder till överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15124">CVE-2017-15124</a>
+
+	<p>Daniel Berrange upptäckte att den integrerade VNC-servern
+	inte begränsar minnesallokering tillräckligt, vilket kunde resultera i
+	överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15268">CVE-2017-15268</a>
+
+	<p>Ett minnesläckage i websocketsstöd kan resultera i överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15289">CVE-2017-15289</a>
+
+	<p>Guoxiang Niu upptäckte en OOB-skrivning i den emulerade grafikkretsen
+	Cirrus vilket kunde resultera i överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-16845">CVE-2017-16845</a>
+
+	<p>Cyrille Chatras upptäckte ett informationsläckage i PS/2 mus- och
+	tangentbordsemulering vilket kunde exploateras under instansmigration.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-17381">CVE-2017-17381</a>
+
+	<p>Dengzhan Heyuandong Bijunhua och Liweichao upptcäkte att ett
+	implementationsfel i virtio vring-implementationen kunde resultera
+	i överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-18043">CVE-2017-18043</a>
+
+	<p>Eric Blake upptäckte ett heltalsspill i ett internt använt
+	macro som kunde leda till överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5683">CVE-2018-5683</a>
+
+	<p>Jiang Xin och Lin ZheCheng upptäckte en OOB-minnesåtkomst i den
+	emulerade VGA-adaptern som kunde resultera i överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7550">CVE-2018-7550</a>
+
+	<p>Cyrille Chatras upptäckte en OOB-minnesskrivning vid anvädning av
+	multiboot kunde resultera i exekvering av godtycklig kod.</p></li>
+
+</ul>
+
+<p>Denna uppdatering bakåtanpassar även ett antal lindringar mot
+Spectre v2-sårbarheten som påverkar moderna CPUer
+(<a href="https://security-tracker.debian.org/tracker/CVE-2017-5715">\
+CVE-2017-5715</a>).  För ytterligare en information, vänligen se
+<a href="https://www.qemu.org/2018/01/04/spectre/">\
+https://www.qemu.org/2018/01/04/spectre/</a></p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 1:2.8+dfsg-6+deb9u4.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era qemu-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om qemu vänligen se 
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/qemu">\
+https://security-tracker.debian.org/tracker/qemu</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4213.data"
