@@ -261,7 +261,7 @@ sub check_translation
 	# Here we compare the original version with the translated one and print
 	# a note for the user if their first or last numbers are too far apart
 	# From translation-check.wml
-	my $version_diff = $VCS->count_changes($orig_file, $version, $translation);
+	my $version_diff = $VCS->count_changes($orig_file, $translation, $version);
 	if (!defined $version_diff) {
 	    print "check_translation: error from count_changes for orig_file $orig_file, file $file\n";
 	} else {

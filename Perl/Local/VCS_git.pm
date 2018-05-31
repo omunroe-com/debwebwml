@@ -336,7 +336,7 @@ sub count_changes
 	    print "ERROR: commit $rev2 not found in revisions of $file\n";
 	    return undef;
 	}
-	return $pos2 - $pos1;
+	return $pos1 - $pos2;
 }
 
 # return the type of the input argument (file, dir, symlink, etc)
