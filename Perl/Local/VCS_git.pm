@@ -143,6 +143,12 @@ sub cache_file {
     my $file = shift;
     
     _debug "cache_file($file)";
+
+    if ($self->{REPO_CACHED}) {
+	_debug "cache_file() returning early - whole repo already cached";
+	return;
+    }
+
     if ($self->{CACHE}{"$file"}) {
 	_debug "$file is already cached...";
 	_debug "cache_file($file) returning early";

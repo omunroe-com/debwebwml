@@ -43,6 +43,7 @@ $VCS->cache_file($file);
 $VCS->cache_file($file);
 $VCS->cache_repo();
 $VCS->cache_repo();
+$VCS->cache_file($file);
 print " ... done!\n";
 
 ########
