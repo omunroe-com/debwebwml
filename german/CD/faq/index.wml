@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Häufig gestellte Fragen über Debian-CDs" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="9e4da1d32463262f3e8d3d3bc1f36c64c318b666"
+#use wml::debian::translation-check translation="fef9d7d88f19e840904323fadec4d40c551fc627"
 # $Id$
 # Translator: Gerfried Fuchs <alfie@debian.org> 2002-01-29
 # Updated: Holger Wansing <linux@wansing-online.de>, 2011 - 2017.
@@ -599,7 +599,7 @@ für optische Medien vom Typ CD:
 </p>
 
 <p>Für Linux gibt es unter anderen auch X-Programme wie
-<a href="http://www.gnome.org/projects/brasero/">Brasero</a>,
+<a href="https://www.gnome.org/projects/brasero/">Brasero</a>,
 <a href="http://k3b.plainblack.com/">K3B</a> und
 <a href="http://www.xcdroast.org/">X-CD-Roast</a>
 um ein paar zu nennen. Beachten Sie, dass alle auf den oben genannten
@@ -607,7 +607,7 @@ Kommandozeilen-Brennprogrammen aufsetzen.</p>
 
 <dl>
   <dt><strong><a id="brasero"
-  href="http://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
+  href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
 
   <dd>Wählen Sie den Knopf <i>Abbild brennen</i>. Klicken Sie dann auf
   <i>Hier klicken, um ein Abbild auszuwählen</i>, suchen Sie die von Ihnen

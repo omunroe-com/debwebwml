@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Domande ricorrenti sui CD Debian" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="9e4da1d32463262f3e8d3d3bc1f36c64c318b666" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="fef9d7d88f19e840904323fadec4d40c551fc627" maintainer="Luca Monducci"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <p><strong>%body</strong></p>
@@ -671,7 +671,7 @@ per i supporti ottici DVD e BD:
 </p>
 
 <p>Per Linux ci sono anche dei programmi sotto X
-<a href="http://www.gnome.org/projects/brasero/">Brasero</a>,
+<a href="https://www.gnome.org/projects/brasero/">Brasero</a>,
 <a href="http://k3b.plainblack.com/">K3B</a> e
 <a href="http://www.xcdroast.org/">X-CD-Roast</a>
 per citarne alcuni. Si noti che sono tutti delle interfacce per le
@@ -680,7 +680,7 @@ applicazioni di masterizzazione citate in precedenza.
 
 <dl>
   <dt>
-<strong><a id="brasero" href="http://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
+<strong><a id="brasero" href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
 
   <dd>
 Selezionare il bottone <i>Masterizza immagine</i>. Poi fare clic su

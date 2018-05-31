@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="ЧАстые ВОпросы о CD Debian" NOHEADER=true BARETITLE=true
-#use wml::debian::translation-check translation="9e4da1d32463262f3e8d3d3bc1f36c64c318b666" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="fef9d7d88f19e840904323fadec4d40c551fc627" maintainer="Lev Lamberov"
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 # $Id$
@@ -567,7 +567,7 @@ Linux/Unix?</toc-add-entry>
 </p>
 
 <p>В Linux также существуют программы для X
-<a href="http://www.gnome.org/projects/brasero/">Brasero</a>,
+<a href="https://www.gnome.org/projects/brasero/">Brasero</a>,
 <a href="http://k3b.plainblack.com/">K3B</a> и
 <a href="http://www.xcdroast.org/">X-CD-Roast</a>,
 и многие другие. Заметьте, все они являются интерфейсами к указанным ранее
@@ -575,7 +575,7 @@ Linux/Unix?</toc-add-entry>
 
 <dl>
   <dt><strong><a id="brasero"
-  href="http://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
+  href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
 
   <dd>Выберите кнопку <i>Записать образ</i>. Затем нажмите на
   <i>Нажмите здесь, чтобы выбрать образ диска</i>, выберите

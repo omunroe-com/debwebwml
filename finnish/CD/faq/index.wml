@@ -473,7 +473,7 @@ wodimia Debian-pohjaisissa järjestelmissä cdrecordin sijaan.
 </p>
 
 <p>Linuxille on olemassa myös X-ohjelmat 
-<a href="http://www.gnome.org/projects/brasero/">Brasero</a>,
+<a href="https://www.gnome.org/projects/brasero/">Brasero</a>,
 <a href="http://k3b.plainblack.com/">K3B</a>, 
  ja
 <a href="http://www.xcdroast.org/">X-CD-Roast</a>, 
@@ -482,7 +482,7 @@ Jokainen edellä mainituista on graafinen käyttöliittymä cdrecord-ohjelmalle.
 
 <dl>
   <dt><strong><a id="brasero"
-  href="http://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
+  href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
 
   <dd>Valitse painike <i>Kirjoita levykuva</i>/<i>Burn Image</i>.
   Sitten napsauta painiketta <i>Valitse levykuva napsauttamalla

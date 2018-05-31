@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Ofte stillede spørgsmål om Debians cd'er" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="9e4da1d32463262f3e8d3d3bc1f36c64c318b666"
+#use wml::debian::translation-check translation="fef9d7d88f19e840904323fadec4d40c551fc627"
 #include "$(ENGLISHDIR)/releases/info"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
@@ -528,7 +528,7 @@ cd-medier:
 <tt>wodim -v dev=/dev/sr0 -eject -sao debian-x.y.z-arch-CD-NN.iso</tt></p>
 
 <p>Til Linux er der også X-programmerne
-<a href="http://www.gnome.org/projects/brasero/">Brasero</a>,
+<a href="https://www.gnome.org/projects/brasero/">Brasero</a>,
 <a href="http://k3b.plainblack.com/">K3B</a> og
 <a href="http://www.xcdroast.org">X-CD-Roast</a>
 for at nævne et par stykker.  Bemærk, at de alle er overbygninger til de 
@@ -536,7 +536,7 @@ før omtalte lavniveaubrænderprogrammer.</p>
 
 <dl>
   <dt><strong><a id="brasero"
-  href="http://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
+  href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
 
   <dd>Vælg knappen <i>Burn Image</i>.  Dernæst vælges 
   <i>Click here to select a disc image</i>, hvorefter man navigerer hen til den

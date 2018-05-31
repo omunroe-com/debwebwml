@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Чести въпроси за дисковете с Дебиан" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="9e4da1d32463262f3e8d3d3bc1f36c64c318b666"
+#use wml::debian::translation-check translation="fef9d7d88f19e840904323fadec4d40c551fc627"
 #include "$(ENGLISHDIR)/releases/info"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
@@ -514,7 +514,7 @@ href="http://www.gnu.org/software/xorriso/xorriso.html">xorriso</a> (за вси
 </p>
 
 <p>За Линукс са налични и следните графични програми:
-<a href="http://www.gnome.org/projects/brasero/">Brasero</a>,
+<a href="https://www.gnome.org/projects/brasero/">Brasero</a>,
 <a
 href="http://k3b.plainblack.com/">K3B</a>, <a
 href="http://www.xcdroast.org/">X-CD-Roast</a> и много други. Всичките са просто
@@ -523,7 +523,7 @@ href="http://www.xcdroast.org/">X-CD-Roast</a> и много други. Вси�
 <dl>
 
   <dt><strong><a id="brasero"
-  href="http://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
+  href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
 
   <dd>Изберете от бутона <i>Burn Image</i>, след това <i>Click here to select a
   disc image</i>, изберете изтегления файл ISO, проверете

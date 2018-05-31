@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Preguntas frecuentes sobre los CDs de Debian" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="9e4da1d32463262f3e8d3d3bc1f36c64c318b666" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="fef9d7d88f19e840904323fadec4d40c551fc627" maintainer="Laura Arjona Reina"
 
 # $Id$
 
@@ -582,7 +582,7 @@ DVDs y medios ópticos BD:
 </p>
 
 <p>Para Linux, también tiene los programas para X 
-<a href="http://www.gnome.org/projects/brasero/">Brasero</a>,
+<a href="https://www.gnome.org/projects/brasero/">Brasero</a>,
 <a href="http://k3b.plainblack.com/">K3B</a>, y 
 <a href="http://www.xcdroast.org/">X-CD-Roast</a>,
 por nombrar algunos. Sepa que sólo son interfaces para las aplicaciones
@@ -590,7 +590,7 @@ de grabación de bajo nivel mencionadas anteriormente.</p>
 
 <dl>
  <dt><strong><a id="brasero"
-   href="http://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
+   href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
  
    <dd>Seleccionar el botón <i>Grabar Imagen</i>. Entonces, clic en
    <i>Haga clic aquí para seleccionar una imagen de disco</i>, seleccione el
