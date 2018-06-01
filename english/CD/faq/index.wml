@@ -942,7 +942,7 @@ installed. From an empty directory, give the following command:</p>
 
 <div class="centerblock">
 <p>
-<tt>git clone https://alioth.debian.org/anonscm/git/debian-cd/debian-cd.git</tt>
+<tt>git clone https://salsa.debian.org/images-team/debian-cd.git</tt>
 </p>
 </div>
 
