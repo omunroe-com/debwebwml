@@ -45,24 +45,28 @@
 通信論壇檔案室</a> 。你可以在論壇中做<a href="$(HOME)/MailingLists/subscribe">訂閱</a>
 及<a href="$(HOME)/MailingLists/unsubscribe">取消訂閱</a>的動作。
 然而，你並不需要為了寄信給論壇而事先做訂閱 - 如果你沒有訂閱，
-只需要請求回信時，以副本的方式寄給你。</p>
+只需要請求回信時，以抄送的方式寄給你。</p>
 
 <p>使用光碟安裝若有問題時相關的通信論壇：</p>
 
 <ul>
 
-  <li><a href="https://lists.debian.org/debian-cd/">debian-cd</a>:
+  <li><a href="https://lists.debian.org/debian-cd/">debian-cd</a>：
   討論關於光碟映像檔的製作程序、可用的光碟映射站台、以光碟開機遇到的問題及新的正式映像檔公告。</li>
 
-  <li><a href="https://lists.debian.org/debian-boot/">debian-boot</a>: A
+  <li><a href="https://lists.debian.org/debian-boot/">debian-boot</a>：
   光看名稱可能會有一些誤解，這個論壇事實上涵蓋了安裝的程序；任何在能成功以光碟開機後所遭遇的問題，
   在這裏詢問會比在 debian-cd 詢問，來得恰當。</li>
 
-  <li><a href="https://lists.debian.org/debian-user/">debian-user</a>:
+  <li><a href="https://lists.debian.org/debian-live/">debian-live</a>：
+  Debian Live 计划的列表，专注于开发用于构建 Debian Live（Debian 现场）镜像所使用的软件，
+  但也可以用来讨论使用这些镜像时的问题。
+
+  <li><a href="https://lists.debian.org/debian-user/">debian-user</a>：
   提供給 Debian 使用者的通用支援論壇。著重在成功安裝後，在使用系統上所遭遇的問題。
   另外，也有很多提供給非英語系使用者的論壇：
   <a href="https://lists.debian.org/debian-user-catalan/">卡達隆尼亞語</a>,
-  <a href="https://lists.debian.org/debian-chinese-big5/">中文</a>,
+  <a href="https://lists.debian.org/debian-chinese-gb/">中文</a>,
   <a href="https://lists.debian.org/debian-user-danish/">丹麥語</a>,
   <a href="https://lists.debian.org/debian-esperanto/">世界語</a>,
   <a href="https://lists.debian.org/debian-user-french/">法語</a>,
@@ -157,7 +161,11 @@
 
 <toc-add-entry name="update-cd">什麼是 "update"（更新）的光碟？</toc-add-entry>
 
-<p>更新光碟指的是包含所有從 rev0 或是之後的穩定修正版本到最新版本之間有異動的套件的光碟。例如，假如你已經有全套的 3.0rev0 光碟，你可以使用 "update-3.0rev2" 光碟來把 3.0rev0 更新到 3.0rev2。</p>
+<p>更新光碟指的是包含所有從某个大版本初始发行版本（例如 7.<strong>0</strong>、
+8.<strong>0</strong> 等）到稍后的某个稳定版小版本更新之间所有变更的软件包的光盘。
+例如，如果您已经拥有一套完整的<q>debian-8.0.0</q>光盘，您可以增加一份
+<q>debian-update-8.2.0</q>光盘以使得<q>debian-8.0.0</q>套件变成<q>debian-8.2.0</q>
+套件。
 
 <p>這種光碟是給供應商需要供應大量的正式版光碟用 (會比
 自行燒錄的便宜)。
@@ -310,10 +318,12 @@ href="#what-is">上面的解釋</a>。此外，請確定您有設定 BIOS 從光
 <gototop>
 # ============================================================
 
-<toc-add-entry name="list-image-contents">我能列出一張映像檔中包含的套件清單嗎？</toc-add-entry>
+<toc-add-entry name="list-image-contents">我能列出一張光盘中包含的套件清單嗎？</toc-add-entry>
 
-<p>可以，但是只有該映像檔的 <tt>.jigdo</tt> 檔案存在時。這項功能可以使用和上一個問題同樣的搜尋
-腳本 - 請看 <a href="../jigdo-cd/#search">jigdo 網頁</a>。</p>
+<p>可以。请浏览 <a href="https://cdimage.debian.org/cdimage/">cdimage.debian.org</a>
+并获取对应的 <tt>.list.gz</tt> 文件——它将会列出镜像中的所有软件包和源码文件。
+对于 Debian Live 镜像，您可以在镜像文件的相同目录下找到某些类似的文件，其后缀名
+可能为 <tt>.packages</tt>。下载文件后，您可以在其中搜索需要的软件包名称。
 
 <gototop>
 # ============================================================
@@ -374,7 +384,6 @@ href="../../security/faq#testing">"testing" 安全支援</a>的資訊可以參�
 <toc-add-entry name="small-dvd">為何我下載的 DVD 映像檔不到 1&nbsp;GB？它應該要超過 4&nbsp;GB 才對</toc-add-entry>
 
 <p><a id="wget-dvd"></a>最可能的原因是，您使用的下載工具不支援太大的檔案，例如它可能沒辦法下載超過 4&nbsp;GBytes 的檔案。
-通常症狀是當您下載檔案時，您的下載工具回報的檔案大小 (下載下來的資料量) 比正常剛好小 4&nbsp;GB。例如，如果您下載
 的 DVD 映像檔是 4.4&nbsp;GB，您的工具可能會回報 0.4&nbsp;GB。</p>
 
 <p>一些版本的 <tt>wget</tt> 也存在此問題 - 請更新 <tt>wget</tt> 或是使用 <tt>curl</tt> 命另來下載：
@@ -656,25 +665,25 @@ href="https://cdimage.debian.org/cdimage/archive/">cdimage.debian.org
 <gototop>
 # ============================================================
 
-<toc-add-entry name="diy">我有一個本地端的 Debian 映射站台，而且想要
+<toc-add-entry name="diy">我有一個本地端的 Debian 镜像站，而且想要
 製作我自己的光碟。我應該怎麼做呢？</toc-add-entry>
 
 <p>除了 <a href="$(HOME)/mirror/">本地端的 Debian 映射</a>，
 你也需要很多的磁碟空間。光碟的製作命令稿位於
 <em>debian-cd</em> 套件中。然而，較好的方式還是使用
- SVN 中最新的程式碼。（相同地，你還是應該查看套件的相依性，
+ git 仓库中最新的程式碼。（相同地，你還是應該查看套件的相依性，
 來確認你有全部必要的工具。）</p>
 
-<p>要取得最新的 SVN 版本，確定你有安裝 SVN 。
+<p>要取得最新的 git 版本，请先確定你有安裝 git 。
 在一個空目錄下，輸入下列指令：</p>
 
 <div class="centerblock">
 <p>
-<tt>svn co svn://svn.debian.org/svn/debian-cd/trunk</tt>
+<tt>git clone https://salsa.debian.org/images-team/debian-cd.git</tt>
 </p>
 </div>
 
-<p>你是否應該使用這些命令稿呢？請查看
+<p>在您使用这些命令脚本的同时，請考虑查看
 <a href="https://lists.debian.org/debian-cd/">debian-cd 郵遞論壇的檔案庫</a>
  來找尋不可避免的問題的解決方式。 :-)</p>
 
