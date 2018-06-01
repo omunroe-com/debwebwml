@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="97c63276e44b98a1da68595f99dc2712f2352661" maintainer="Boyuan Yang"
+<define-tag description>安全更新</define-tag>
+<define-tag moreinfo>
+<p>Etienne Stalmans 发现 git，一个快速、可扩展的分布式版本控制系统，\
+目前易受一个利用恶意编写的 .gitmodules 文件中的子模块名称而允许任意代码\
+执行的漏洞的影响。</p>
+
+<p>对旧稳定版本（jessie），该问题已在 1:2.1.4-2.1+deb8u6
+版本中修复。</p>
+
+<p>对当前稳定版本（stretch），该问题已在 1:2.11.0-3+deb9u3
+版本中修复。</p>
+
+<p>我们推荐您升级您的 git 软件包。</p>
+
+<p>如需了解 git 的详细安全状况，请参考其安全追踪页面：
+<a href="https://security-tracker.debian.org/tracker/git">https://security-tracker.debian.org/tracker/git</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4212.data"

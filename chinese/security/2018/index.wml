@@ -1,0 +1,12 @@
+#use wml::debian::translation-check translation="8635bbbedf6cf68c100d16e30d03160b02a7aad7" maintainer="Boyuan Yang"
+<define-tag pagetitle>2018 年安全通告</define-tag>
+#use wml::debian::template title="<pagetitle>" GEN_TIME="yes"
+#use wml::debian::recent_list
+
+<:= get_recent_list ('.', '0', '$(ENGLISHDIR)/security/2018', '', 'dsa-\d+' ) :>
+
+<p>要获取最新 Debian 安全通告，您可以订阅我们的
+<a href="https://lists.debian.org/debian-security-announce/">\
+<strong>debian-security-announce</strong></a> 邮件列表。
+您也可以<a href="https://lists.debian.org/debian-security-announce/2018/">\
+浏览列表的在线存档</a>。</p>
