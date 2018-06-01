@@ -20,12 +20,15 @@ use File::Spec::Functions;
 use File::Find;
 use lib ($0 =~ m|(.*)/|, $1 or ".") ."/Perl";
 use Webwml::TransCheck;
+use Local::VCS;
 
 my $help = 0;
 my $verbose = 0;
 my $dry_run = 0;
 my $revs_file = "";
+my $db_file = "";
 my %rev_map;
+my $VCS = Local::VCS->new();
 
 sub usage {
         print <<'EOT';
@@ -35,6 +38,8 @@ Options:
   --verbose      run verbosely
   --dry-run      do not modify translation-check headers
   --revisions=REVISIONS  location of the cvs2git revisions map file
+  --db=DB        location of a single translated_txt.db to update, *instead* of
+	         scanning for translation-check headers
 
 Find all wml/src/etc. files under the current directory, updating revisions for
 translations.
@@ -196,6 +201,7 @@ sub parse_file
 if (not GetOptions ("help"      => \$help,
 		    "verbose=i" => \$verbose,
 		    "dry-run"   => \$dry_run,
+		    "db=s"      => \$db_file,
 		    "revisions=s" => \$revs_file))
 {
         warn "Try `$0 --help' for more information.\n";
@@ -211,16 +217,61 @@ if (! -f $revs_file) {
 }
 parse_revisions($revs_file);
 
-my @wmlfiles = sort(find_files_ext(".", 'wml'));
-my @incfiles = sort(find_files_ext(".", 'inc'));
-my @pofiles = sort(find_files_ext(".", 'po'));
-my @srcfiles = sort(find_files_ext(".", 'src'));
-my @files;
-push @files, @wmlfiles;
-push @files, @incfiles;
-push @files, @pofiles;
-push @files, @srcfiles;
-vlog("Found " . scalar(@files) . " files to work on\n");
-for my $file (@files) {
-    parse_file($file);
+if (length($db_file) < 2) {
+    # Mode 1 - scan for files which need translation-check header
+    # updates
+    my @wmlfiles = sort(find_files_ext(".", 'wml'));
+    my @incfiles = sort(find_files_ext(".", 'inc'));
+    my @pofiles = sort(find_files_ext(".", 'po'));
+    my @srcfiles = sort(find_files_ext(".", 'src'));
+    my @files;
+    push @files, @wmlfiles;
+    push @files, @incfiles;
+    push @files, @pofiles;
+    push @files, @srcfiles;
+    vlog("Found " . scalar(@files) . " files to work on\n");
+    for my $file (@files) {
+	parse_file($file);
+    }
+} else {
+    my %translated_files;
+    # Mode 2 - update a single translated_txt.db file
+    if (! -f $db_file) {
+	die "Can't find $db_file, abort!\n";
+    }
+    open IN, "< $db_file" or die "Couldn't open $db_file: $!";
+    my $language;
+    $db_file =~ m,^([^/]*)/, and $language = $1;
+    vlog("working on $db_file, language $language\n");
+    while (my $line = <IN>)
+    {
+	if (($line =~ m%^([A-Za-z0-9\/\.\-\_]*)[\ \t]*([0-9]+\.[0-9]+)$%)
+	    and (-f "$language/$1"))
+	{
+	    $translated_files{$1} = $2;
+	}
+    }
+    close IN;
+    my $num_trans = scalar(keys %translated_files);
+    vlog("Parsed $db_file, found revisions for $num_trans translations\n");
+    vlog("Caching repo for performance...");
+    $VCS->cache_repo();
+    vlog(" ...done");
+    if (!$dry_run) {
+	vlog ("  Rewriting $db_file with git revisions");
+	open OUT, "> $db_file" or die "Couldn't write $db_file: $!";
+	for my $file (sort keys %translated_files) {
+	    my $targetfile = "$language/$file";
+	    my $revision = $translated_files{$file};
+	    my $hash = $rev_map{"$targetfile"}{"$revision"}{"commit_hash"};
+	    if (!defined $hash) {
+		print "Can't find a hash for $targetfile revision $revision\n";
+		$hash = $VCS->get_newest_revision($targetfile);
+		print "Most recent revision is $hash, using that instead\n";
+	    } else {
+		printf OUT "%-64s  %s\n", $file, $hash;
+	    }
+	}
+	close OUT;
+    }
 }
