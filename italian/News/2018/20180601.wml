@@ -1,0 +1,55 @@
+#use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Vicenzo Campanella"
+<define-tag pagetitle>Debian 7 Long Term Support raggiunge la fine del suo ciclo di vita</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+<p>Il Team Debian Long Term Support (LTS) annuncia che Debian 7 "Wheezy" ha
+raggiunto la fine del suo ciclo di vita il 31 maggio 2018, cinque anni
+dopo il suo rilascio che è avvenuto il 4 maggio 2013.</p>
+
+<p>Debian non fornirà ulteriori aggiornamenti di sicurezza per Debian 7. Un
+subset di pacchetti di Wheezy sarà supportato da esterni. Per maggiori
+informazioni è possibile consultare il sito <a href="https://wiki.debian.org/LTS/Extended">
+Extended LTS</a>.</p>
+
+<p>Il Team LTS preparerà la transizione verso Debian 8 "Jessie", che è
+l'attuale rilascio oldstable. Il Team LTS riprenderà il supporto dal Team
+di Sicurezza il 17 giugno 2018.</p>
+
+<p>Debian 8 riceverà a sua volta il Long Term Support per cinque anni a partire
+dalla sua data di rilascio, e cioè fino al 30 giugno 2020. Le architetture
+supportate includono amd64, i386, armel e armhf.</p>
+
+<p>Per maggiori informazioni sull'utilizzo di Jessie LTS e sull'aggiornamento
+da Wheezy LTS è possibile consultare <a href="https://wiki.debian.org/LTS/Using">LTS/Using</a>.</p>
+
+<p>Debian il suo Team LTS ringraziano gli utenti contribuenti, gli sviluppatori e
+gli sponsor che rendono possibile l'estensione del ciclo di vita dei precedenti
+rilasci stabili e che hanno reso possibile il successo di questo LTS.</p>
+
+<p>Chi si affida a Debian LTS è invitato a considerare l'idea di
+<a href="https://wiki.debian.org/LTS/Development">unirsi al team</a>,
+fornire patch, testare oppure
+<a href="https://wiki.debian.org/LTS/Funding">contribuire alla raccolta di fondi</a>.</p>
+
+<h2>A proposito di Debian</h2>
+
+<p>
+Il Progetto Debian è stato fondato nel 1993 con il fine di essere un
+progetto di una comunità veramente libera. Da lì, il progetto è cresciuto
+fino a diventare uno dei più vasti e influenti progetti open source.
+Migliaia di volontari da tutto il mondo collaborano al fine di creare e di
+mantenere il software Debian. Disponibile in 70 lingue e con una vasta gamma
+di architetture supportate, Debian si definisce il
+<q>sistema operativo universale</q>.
+</p>
+
+<h2>Maggiori informazioni</h2>
+<p>Per maggiori informazioni su Debian Long Term Support è possibile visitare la pagina
+<a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>.</p>
+
+<h2>Informazioni di contatto</h2>
+
+<p>Per maggiori informazioni, visitare il sito web di Debian presso
+<a href="$(HOME)/">https://www.debian.org/</a> oppure inviare una mail a
+&lt;press@debian.org&gt;.</p>

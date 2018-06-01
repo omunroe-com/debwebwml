@@ -1,0 +1,59 @@
+#use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Frans Spiesschaert"
+<define-tag pagetitle>Einde van de verlengde ondersteunde levenscyclus van Debian 7</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+<p>Het langetermijnondersteuningsteam (Long Term Support - LTS) van Debian
+kondigt aan dat de ondersteuning voor Debian 7
+"Wheezy" zijn einde heeft bereikt op 31 mei 2018, 
+vijf jaar na zijn oorspronkelijke uitgave op 4 mei 2013.</p>
+
+<p>Debian zal niet langer beveiligingsupdates ter beschikking stellen voor
+Debian 7. Een aantal Wheezy-pakketten zullen door derden ondersteund worden.
+Gedetailleerde informatie is te vinden op
+<a href="https://wiki.debian.org/LTS/Extended"> Extended LTS</a>.</p>
+
+<p>Het LTS-team zal de overgang naar Debian 8 "Jessie" voorbereiden, de
+huidige <q>oldstable</q> release. Het LTS-team zal op 17 juni 2018
+de ondersteuning ervan overnemen van het beveiligingsteam.</p>
+
+<p>Ook Debian 8 zal tot vijf jaar na zijn oorspronkelijke uitgave
+langetermijnondersteuning genieten, welke zal eindigen op 30 juni 2020.
+Tot de ondersteunde architecturen behoren amd64, i386, armel en armhf.</p>
+
+<p>Voor meer informatie over het gebruik van Jessie LTS en de opwaardering
+vanuit Wheezy LTS kunt u terecht op
+<a href="https://wiki.debian.org/LTS/Using">LTS/Using</a>.</p>
+
+<p>Debian en zijn LTS-team houden eraan alle gebruikers, ontwikkelaars
+en sponsors te bedanken die bijgedragen hebben tot het mogelijk maken
+van een verlengde levensduur voor vroegere stabiele releases en die van deze
+LTS een succes gemaakt hebben.</p>
+
+<p>Indien u aangewezen bent op Debian LTS kunt u misschien overwegen om
+<a href="https://wiki.debian.org/LTS/Development">toe te treden tot het team</a>,
+en bij te dragen met patches, met uittesten of met
+<a href="https://wiki.debian.org/LTS/Funding">financiering</a>.</p>
+
+<h2>Over Debian</h2>
+
+<p>
+Het Debian-project werd in 1993 door Ian Murdock opgestart met het doel er
+een echt vrij gemeenschapsproject van te maken. Sindsdien is het
+uitgegroeid tot een van de grootste en meest invloedrijke opensourceprojecten.
+Duizenden vrijwilligers van over de hele wereld werken samen om de Debian
+software te ontwikkelen en te onderhouden. Beschikbaar in 70 talen en met
+een ondersteuning voor een enorm scala computertypes, noemt Debian zichzelf 
+het <q>universele besturingssysteem</q>.
+</p>
+
+<h2>Bijkomende Informatie</h2>
+<p>Meer information over de langetermijnondersteuning in Debian is te vinden op
+<a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>.</p>
+
+<h2>Contactinformatie</h2>
+
+<p>Raadpleeg voor verdere informatie de webpagina's van Debian op
+<a href="$(HOME)/">https://www.debian.org/</a> of stuur een e-mail
+(in het Engels) naar &lt;press@debian.org&gt;.</p>
+

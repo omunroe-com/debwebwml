@@ -1,0 +1,59 @@
+#use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Jean-Pierre Giraud"
+<define-tag pagetitle>Annonce de la fin de vie du suivi à long terme de Debian 7</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+<p>L'équipe du suivi à long terme (LTS) de Debian annonce par ce message
+que la prise en charge de Debian 7 (<q>Wheezy</q>) a atteint sa fin de
+vie le 31 mai 2018, cinq ans après sa publication initiale le 4 mai 2013.</p>
+
+<p>Debian ne fournira plus désormais de mises à jour de sécurité pour
+Debian 7. Un sous-ensemble de paquets de Wheezy sera pris en charge
+par des intervenants extérieurs. Vous trouverez des informations détaillées
+sur la page <a href="https://wiki.debian.org/LTS/Extended">Extended LTS</a>.</p>
+
+<p>L'équipe LTS préparera la transition vers Debian 8 « Jessie » qui
+est la distribution oldstable actuelle. L'équipe LTS prendra le relais de
+l'équipe en charge de la sécurité pour le suivi le 17 juin 2018.</p>
+
+<p>Debian 8 recevra aussi un suivi à long terme de cinq ans à compter de sa
+publication initiale et qui prendra fin le 30 juin 2020. Les architectures
+prises en charges comprennent amd64, i386, armel et armhf.</p>
+
+<p>Pour plus d'informations sur l'utilisation de Jessie LTS et la mise à
+niveau à partir de Wheezy LTS, veuillez vous référer à la page du wiki
+<a href="https://wiki.debian.org/fr/LTS/Using">LTS/Using</a>.</p>
+
+<p>Debian et l'équipe LTS aimeraient remercier tous ceux, utilisateurs
+contributeurs, développeurs et parrains, qui rendent possible le
+prolongement de la vie des anciennes distributions <q>stable</q> et qui ont
+fait de LTS un succès.</p>
+
+<p>Si vous dépendez de Debian LTS, vous pouvez envisager de
+<a href="https://wiki.debian.org/fr/LTS/Development">rejoindre l'équipe</a>,
+en fournissant des correctifs, en réalisant des tests ou en
+<a href="https://wiki.debian.org/fr/LTS/Funding">finançant l'initiative</a>.</p>
+
+<h2>À propos de Debian</h2>
+
+<p>
+Le projet Debian a été fondé en 1993 par Ian Murdock pour être un projet
+communautaire réellement libre. Depuis cette date, le projet Debian est
+devenu l'un des plus importants et des plus influents projets à code
+source ouvert. Des milliers de volontaires du monde entier travaillent
+ensemble pour créer et maintenir les logiciels Debian.
+Traduite en soixante-dix langues et prenant en charge un grand nombre
+de types d'ordinateurs, la distribution Debian est conçue
+pour être le <q>système d'exploitation universel</q>.
+</p>
+
+<h2>Plus d'informations</h2>
+<p>Vous trouverez plus d'informations sur le suivi à long terme (LTS) de
+Debian sur la page du wiki
+<a href="https://wiki.debian.org/fr/LTS/">https://wiki.debian.org/LTS/</a>.</p>
+
+<h2>Contact</h2>
+
+<p>Pour de plus amples informations, veuillez consulter le site internet
+de Debian <a href="$(HOME)/">https://www.debian.org/</a> ou envoyez un
+courrier électronique à &lt;press@debian.org&gt;.</p>

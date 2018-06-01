@@ -1,0 +1,68 @@
+#use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Andreas Rönnquist"
+<define-tag pagetitle>Debian 7 Långtidsstöd (LTS) når end-of-life</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+##
+## Translators:
+## - if translating while the file is in publicity-team/announcements repo,
+##   please ignore the translation-check header. Publicity team will add it
+##   including the correct translation-check header when moving the file
+##   to the web repo
+##
+## - if translating while the file is in webmaster-team/webwml repo,
+##   please use the copypage.pl script to create the page in your language
+##   subtree including the correct translation-check header.
+##
+
+<p>Debian med Långtidsstöd (Long Term Support - LTS) tillkännager härmed att
+stödet för Debian 7 "Wheezy" har nått sitt end-of-life 31 Maj 2018, fem år
+efter dess ursprungliga utgåva 4 Maj 2013.</p>
+
+<p>Debian kommer inte att tillhandahålla ytterligare säkerhetsstöd för
+Debian 7. En delmängd av Wheezy-paket kommer att få stöd från externa
+parter. Detaljerad information kan hittas på <a href="https://wiki.debian.org/LTS/Extended">
+Utökad LTS</a>.</p>
+
+<p>LTS-gruppen kommer att förbereda övergången till Debian 8 "Jessie",
+som är den aktuella gamla stabila utgåvan. LTS-gruppen kommer att ta över
+stöd från säkerhetsgruppen den 17 Juni 2018.</p>
+
+<p>Debian 8 kommer även att få långtidsstöd i fem år efter dess ursprungliga
+utgåva med stöd som upphör 30 Juni 2020. Arkitekturerna med stöd innefattar
+amd64, i386, armel och armhf.</p>
+
+<p>För ytterligare information om användning av Jessie LTS och uppgradering
+från Wheezy LTS var vänlig se <a href="https://wiki.debian.org/LTS/Using">LTS/Användning</a>.</p>
+
+<p>Debian och dess grupp för långtidsstöd skulle vilja tacka alla bidragande
+användare, utvecklare och sponsorer som gör det möjligt att förlänga
+livet på föregående stabila utgåvor, och som har gjort denna LTS till
+en framgång.</p>
+
+<p>Om du förlitar dig på Debian LTS, var vänlig att överväg att 
+<a href="https://wiki.debian.org/LTS/Development">gå med gruppen</a>,
+tillhandahålla patchar, testning eller
+<a href="https://wiki.debian.org/LTS/Funding">finansiera insatserna</a>.</p>
+
+<h2>Om Debian</h2>
+
+<p>
+Debianprojektet grundades 1993 av Ian Murdock med målsättningen att vara
+ett verkligt fritt gemenskapsprojekt. Sedan dess har projektet vuxit till
+att bli ett av de största och mest inflytelserika öppenkällkodsprojekten.
+Tusentals frivilliga från hela världen jobbar tillsammans för att skapa och
+underhålla Debianmjukvara. Tillgängligt i 70 språk och med stöd för en
+enorm bredd av datortyper kallar sig Debian <q>det universella
+operativsystemet</q>.
+</p>
+
+<h2>Mer information</h2>
+<p>Ytterligare information om Debian Long Term Support kan hittas på
+<a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>.</p>
+
+<h2>Kontaktinformation</h2>
+
+<p>För ytterligare information var vänlig besök Debians webbplats på
+<a href="$(HOME)/">https://www.debian.org/</a> eller skicka e-post till
+&lt;press@debian.org&gt;.</p>
