@@ -1,0 +1,59 @@
+#use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Omer Ozarslan"
+<define-tag pagetitle>Debian 7 Uzun Vade Desteği'nin ömrünün sona ermesi</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+<p>Debian Uzun Vade Desteği (Long Term Support - LTS) Takımı, Debian 7 "Wheezy"
+sürümüne verilen desteğin sürümün piyasaya çıkış tarihi 4 Mayıs 2013'ten beş
+yıl sonra, 31 Mayıs 2018 tarihinde sona erdiğini duyurur.</p>
+
+<p>Debian tarafından Debian 7 için daha fazla güvenlik güncellemesi
+sağlanmayacaktır. Wheezy paketlerinin bir kısmı üçüncü şahıslar tarafından
+desteklenecektir. Detaylı bilgiyi
+<a href="https://wiki.debian.org/LTS/Extended">Uzatılmış LTS</a> sayfasında
+bulabilirsiniz.</p>
+
+<p>LTS takımı mevcut eski stabil sürüm olan Debian 8 "Jessie"ye geçişi
+hazırlayacak. LTS takımı, 17 Haziran 2018 tarihinde güvenlik takımından
+destekleme görevini devralacak.</p>
+
+<p>Debian 8 de piyasaya çıkış tarihinden itibaren 30 Haziran 2020'ye kadar beş
+yıllık Uzun Vade Desteği alacaktır. Desteklenen mimariler amd64, i386, armel ve
+armhf'yi içermektedir.</p>
+
+<p>Jessie LTS'nin kullanımı ve Wheezy LTS'nin güncellenmesi hakkında daha fazla
+bilgi almak için lütfen
+<a href="https://wiki.debian.org/LTS/Using">LTS/Kullanım</a> sayfasına
+başvurunuz.</p>
+
+<p>Debian ve LTS takımı, katkıda bulunan bütün kullanıcılara, geliştiricilere
+ve sponsorlara teşekkür eder. Onların sayesinde bu sürümün hayatının uzaması
+mümkün olmuş ve bu LTS bir başarı haline gelmiştir.</p>
+
+<p>Eğer Debian LTS'ye bel bağlamakta/itimat etmekteyseniz, lütfen <a
+href="https://wiki.debian.org/LTS/Development">takıma katılmayı</a>, yama ve
+testler sağlamayı ya da <a href="https://wiki.debian.org/LTS/Funding">bu
+çabaları maddi olarak desteklemeyi</a> göz önünde bulundurun.
+
+<h2>Debian Hakkında</h2>
+
+<p>
+Debian projesi 1993 yılında Ian Murdock tarafından hakiki bir özgür toplum
+projesi olarak kurulmuştur. Bu yıldan beri proje genişleyerek en büyük ve en
+etkili açık kaynak projelerinden biri haline gelmiştir. Dünyanın dört bir
+yanından binlerce gönüllü Debian yazılımını ortaya çıkarmak ve bakımını yapmak
+için beraberce çalışmaktadır. 70 dilde mevcut olan ve birçok değişik
+bilgisayar türünü destekleyen Debian kendisini <q>evrensel işletim sistemi</q>
+olarak adlandırmaktadır.
+</p>
+
+<h2>Daha Fazla Bilgi</h2>
+<p>Debian Uzun Vade Desteği hakkında daha fazla bilgi
+<a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>
+adresinde bulunabilir.</p>
+
+<h2>İrtibat Bilgisi</h2>
+
+<p>Daha fazla bilgi için, lütfen Debian web sayfalarını
+<a href="$(HOME)/">https://www.debian.org/</a> adresinde ziyaret edin ya da
+&lt;press@debian.org&gt; adresine eposta yollayın.</p>
