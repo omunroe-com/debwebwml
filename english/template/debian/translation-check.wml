@@ -49,8 +49,23 @@
   <gettext><em>Note:</em> The original document of this translation no longer exists.</gettext>
 </define-tag>
 
+# This is the message that is displayed if the translation appears to
+# be newer than the referenced original file. This should never
+# happen!
+<define-tag originalolder>
+    <gettext>Wrong translation version!</gettext>
+</define-tag>
+
 <perl>
 <protect pass="2">
+
+# Grotty, but it works...
+use lib "Perl";
+use lib "../Perl";
+use lib "../../Perl";
+use lib "../../../Perl";
+use lib "../../../../Perl";
+use Local::VCS ':all';
 
 sub check_translation {
 
@@ -94,34 +109,17 @@ for (; $level > 0; $level--) { $parents .= "../"; }
 pop @relative_dir;
 @relative_dir = reverse @relative_dir;
 $relative_dir = join '/', @relative_dir;
+my $orig_file = "$parents/$original_dir/$relative_dir/$file";
 
-# Read the original CVS/Entries file and extract version from it
-if (open (CVS_ENTRY,"<$parents/$original_dir/$relative_dir/CVS/Entries")) {
-    while (<CVS_ENTRY>) {
-	($version) = $_ =~ m,/\Q$file\E/([\d\.]*),;
-	last if $version;
-    }
-    close CVS_ENTRY;
-} else {
-    $version = "1.1";
-}
-if ($version ne "")
+my $VCS = Local::VCS->new();
+my %file_info = $VCS->file_info($orig_file);
+$version = $file_info{'cmt_rev'};
+unless ($version)
 {
-	print ${file} . "'s original CVS revision is: $version\n"
-		if ($debug >= 1);
-
-	@version_numbers = split /\./,$version;
-	$major_number = @version_numbers[0];
-	$last_number = pop @version_numbers;
-	die "Invalid CVS revision for $file: $version\n"
-		unless ($major_number =~ /\d+/ && $last_number =~ /\d+/);
-
-	@translation_numbers = split /\./,$translation;
-	$major_translated_number = @translation_numbers[0];
-	$last_translated_number = pop @translation_numbers;
-	die "Invalid translation revision for $file: $translation\n"
-		unless ($major_translated_number =~ /\d+/ && $last_translated_number =~ /\d+/);
+	die "Could not get revision number - bug in script?\n";
 }
+
+my $version_diff = $VCS->count_changes($orig_file, $translation, $version);
 
 # Here we compare the original version with the translated one and print
 # a note for the user if their first or last numbers are too far apart
@@ -130,17 +128,19 @@ print "Comparing original $version to translation version $translation\n" if ($d
 
 </protect>
 $output = '';
-if ($version eq "") {
-	$output = qq(<originalgone/>)
-}
-elsif ( $major_number != $major_translated_number ) {
+if (!defined $version) {
+    $output = qq(<originalgone/>)
+} else {
+
+    if ($version_diff < 0) {
+	# Shouldn't ever happen unless people have broken the pages
+	# manually
+	$output = qq(<strong><originalolder/></strong>)
+    } elsif ( $version_diff >= $max_versions ) {
 	$output = qq(<strong><translationoutofdate/></strong>)
-}
-elsif ( $last_number - $last_translated_number >= $max_versions ) {
-	$output = qq(<strong><translationoutofdate/></strong>)
-}
-elsif ( $last_number - $last_translated_number >= $min_versions ) {
+    } elsif ( $version_diff >= $min_versions ) {
 	$output = qq(<translationaged/>)
+    }
 }
 
 if ($output ne "") {
