@@ -277,6 +277,14 @@ about the tags:</p>
 <dt><code>a11y</code></dt>
   <dd>This bug is relevant to the accessibility of the package.</dd>
 
+<dt><code>ftbfs</code></dt>
+  <dd> The package fails to build from source. If the bug is assigned to a
+    source package, that package fails to build. If the bug is assigned
+    to a binary package, the affected source packages fail to build. The
+    tag is applicable to non-standard build environments (e.g. using
+    Build-Depends from experimental), but the severity should be below
+    serious (release critical) in such cases.</dd>
+
 <dt><bts_release_tags></dt>
   <dd>These are release tags, which have two effects. When set on a bug,
     the bug can only affect the particular release (though it may also affect
