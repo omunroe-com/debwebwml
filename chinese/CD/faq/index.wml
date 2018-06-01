@@ -59,7 +59,7 @@
   在這裏詢問會比在 debian-cd 詢問，來得恰當。</li>
 
   <li><a href="https://lists.debian.org/debian-live/">debian-live</a>：
-  Debian Live 计划的列表，专注于开发用于构建 Debian Live（Debian 现场）镜像所使用的软件，
+  Debian Live 计划的列表，专注于开发用于构建 Debian Live（Debian 实况）镜像所使用的软件，
   但也可以用来讨论使用这些镜像时的问题。
 
   <li><a href="https://lists.debian.org/debian-user/">debian-user</a>：
@@ -91,7 +91,7 @@
 # ============================================================
 
 <toc-add-entry name="why-jigdo">為什麼我應該使用 "jigdo" 這個程式？
-我比較喜歡簡單的 HTTP 或 FTP 的下載方式耶！</toc-add-entry>
+我比較喜歡簡單的 HTTP 下載方式耶！</toc-add-entry>
 
 <p>截至今日，已經有將近 <a href="$(HOME)/mirror/list">300 個 Debian
 的映射站台</a>（這些是包含有完整的以 .deb 檔案格式發行的 Debian 套件），
@@ -165,7 +165,7 @@
 8.<strong>0</strong> 等）到稍后的某个稳定版小版本更新之间所有变更的软件包的光盘。
 例如，如果您已经拥有一套完整的<q>debian-8.0.0</q>光盘，您可以增加一份
 <q>debian-update-8.2.0</q>光盘以使得<q>debian-8.0.0</q>套件变成<q>debian-8.2.0</q>
-套件。
+套件。</p>
 
 <p>這種光碟是給供應商需要供應大量的正式版光碟用 (會比
 自行燒錄的便宜)。
@@ -331,7 +331,7 @@ href="#what-is">上面的解釋</a>。此外，請確定您有設定 BIOS 從光
 <toc-add-entry name="outdated">正式版光碟上的軟體已經過期了 - 為什麼你們不釋出新的版本呢？</toc-add-entry>
 
 <p>當我們認為軟體真的穩定，我們才會製作正式版的 "穩定" 發行套件。
-不幸地是，穩定版本大約每 1.5 年才會發行一次…</p>
+不幸地是，穩定版本大約每 2 年才會發行一次…</p>
 
 <p>在 Debian 中，如果你需要更多較新版本的軟體，
 你可以先安裝 "穩定"版，然後再升級（經由網路）你想要的軟體
@@ -351,32 +351,69 @@ href="../../security/faq#testing">"testing" 安全支援</a>的資訊可以參�
 
 <p> <a href="../">光碟映像檔網頁</a> 底下的附註顯示的就是最新版本的編號。</p>
 
-<p>對於提供直接 HTTP/FTP 下載的映射站台，大多使用 "標準" 的定義方式
-<tt>/&lt;版本&gt;/&lt;架構&gt;/&lt;映像檔名稱&gt;.iso</tt>，
-例如： <tt>/3.0_r1/i386/binary-i386-1.iso</tt> 或是
-<tt>/3.0_r1/source/source-1.iso</tt>.
-</p>
-
 <gototop>
 # ============================================================
 
-<toc-add-entry name="verify">我如何確認下載的光碟映像檔是正確的呢？</toc-add-entry>
+<toc-add-entry name="verify">我如何確認下載和刻录的的光碟映像檔是正確的呢？</toc-add-entry>
 
-<p>如果你是使用 <a href="../jigdo-cd/">jigdo</a>，在產生映像檔之後，映像檔的總和檢查碼會自動被驗證。
-若是用 HTTP 或是 FTP 下載，可使用 <tt>md5sum</tt> 這個工具軟體來計算你下載檔案的總和檢查碼，
-然後與隨著 <a href="https://cdimage.debian.org/debian-cd/">正式版本的 jigdo 檔案</a>一起發佈的
-<tt>MD5SUMS</tt>這個檔案中的總和檢查碼來做比對。</p>
+<p>有关如何验证包含 ISO 文件校验和的签名文件真实性的相关详细说明可以在另外的
+<a href="../verify">真实性验证页面</a>中找到。在密码学上验证了校验和文件后，我们可以检查：
 
-<p>視窗版的 <tt>md5sum</tt> 程式可從 <a href="http://www.cygwin.com">Cygwin suite</a> 取得 
-(安裝 "coreutils" 套件)，或是你能從 <a href="http://www.mingw.org/">MinGW</a> 找到單獨 
-(standalone) 預先編譯好的二進位檔案。</p>
+<ul>
+ <li><strong>下载的 ISO 镜像文件</strong>和找到的校验和文件相匹配。
+ 计算 ISO 文件的校验和可以使用诸如<q>sha512sum</q>或<q>sha256sum</q>
+ 这样的工具。
+ </li>
+ <li>已<strong>写入光学媒体</strong>的数据校验和和找到的校验和文件相匹配。
+ 这个操作描述起来会稍微麻烦一些。
+ </li>
+</ul>
 
-<p>為了確認映像檔不只是被正確地的下載，而且真的是正式的映像檔，
-你也必須使用 <a href="https://keyring.debian.org">Debian GPG keyring</a> 來確認 <tt>MD5SUMS</tt> 檔案
-中的 GnuPG 簽名。 我們鼓勵光碟供應商做這樣的動作。</p>
+<p>对已写入光学介质的数据校验时，主要问题是某些介质的类型可能会返回比 ISO
+镜像数据更多的字节。当 CD 以 TAO 模式写入时，末尾的无用数据无法避免；
+DVD-R[W]、格式化为 DVD-RW、DVD+RW、BD-RE 和 USB 数据棒时也可能出现类似问题。
+因此，我们需要在媒体上读取与 ISO 镜像上完全相同扇区的数据；读取更多的数据
+将改变校验和结果。</p>
 
-<p>如果你想要輕鬆地在 Unix/Linux 系統上檢查很多光碟映像檔或是燒錄的光碟，
-<a href="http://fly.cnuce.cnr.it/software/#checkiso">checkiso</a> 這個命令稿可以幫你很大的忙。</p>
+<ul>
+ <li><q>isosize</q>程序可以用来找到应当从光学媒体读取的合适的字节数量。
+  它会显示光学媒体的<q>扇区计数</q>与<q>扇区大小</q>，其中<q>&lt;设备名&gt;</q>
+  是加载的光学媒体的设备文件名。
+  <br/><tt>$ /sbin/isosize -x &lt;设备名&gt;</tt>
+  <br/><tt>sector count: 25600, sector size: 2048
+  </tt>
+ </li>
+ <li><q>扇区计数</q>和<q>扇区大小</q>的数值应当传递到<q>dd</q>
+  程序中以从光学媒体中读取合适的字节数，字节流将管道送至合适的校验和工具
+  （sha512sum、sha256sum 等）。
+  <br/><tt>$ dd if=&lt;device&gt; count=&lt;sector count&gt; bs=&lt;sector size&gt; | sha512sum
+  </tt>
+ </li>
+ <li>将所计算的校验和数值和先前在校验和文件中得到和合适校验和（SHA512SUMS 文件、
+ SHA256SUMS 文件等）进行对比即可进行验证。
+ </li>
+</ul>
+
+<p>除此之外，还有一个有用的帮助脚本，名为 <a
+href="https://people.debian.org/~danchev/debian-iso/check_debian_iso">
+check_debian_iso</a>，它可以验证 <em>ISO 镜像文件</em>和
+<em>光学媒体</em>，自动读取合适大小的字节并随后计算校验和并与校验和文件
+进行对比。</p>
+
+<ul>
+ <li><strong>ISO 镜像文件校验。</strong>
+  下列命令将把 debian-6.0.3-amd64-netinst.iso
+  文件使用 SHA512SUMS 文件中提供的校验和数值进行对比校验。
+  <br/><tt>$ ./check_debian_iso  SHA512SUMS  debian-6.0.3-amd64-netinst.iso</tt>
+ </li>
+ <li><strong>光学媒体校验。</strong>
+  下列命令将把以 /dev/dvd 文件访问的媒体和 debian-6.0.3-amd64-DVD-1.iso
+  文件以及提供的 SHA512SUMS 校验和文件一起进行对比校验。
+  注意 ISO 镜像文件本身并不是必要的，其名称仅仅用来定位对应的校验和文件。
+  <br/><tt>$ ./check_debian_iso  SHA512SUMS  debian-6.0.3-amd64-DVD-1.iso  /dev/dvd</tt>
+ </li>
+</ul>
+
 
 <gototop>
 # ============================================================
