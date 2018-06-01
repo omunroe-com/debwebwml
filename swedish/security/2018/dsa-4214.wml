@@ -1,0 +1,27 @@
+#use wml::debian::translation-check translation="98450b2e9138675e3c0f26e7372bc8e190458a9b" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Man har upptäckt att Zookeeper, en tjänst för underhåll av
+konfigurationsinformation, inte påtvingade någon auktorisering / autentisering
+när en server försöker deltaga i ett Zookeeper-quorum.</p>
+
+<p>Denna uppdatering bakåtanpassar autentiseringsstöd. Ytterligare
+konfigurationssteg behövs, var vänlig se
+<a href="https://cwiki.apache.org/confluence/display/ZOOKEEPER/Server-Server+mutual+authentication">https://cwiki.apache.org/confluence/display/ZOOKEEPER/Server-Server+mutual+authentication</a>
+för ytterligare information.</p>
+
+<p>För den gamla stabila utgåvan (Jessie) har detta problem rättats
+i version 3.4.9-3+deb8u1.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 3.4.9-3+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era zookeeper-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om zookeeper vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/zookeeper">https://security-tracker.debian.org/tracker/zookeeper</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4214.data"
