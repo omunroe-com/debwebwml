@@ -1,0 +1,69 @@
+# Status: [frozen]
+# $Id$
+# $Rev$
+<define-tag pagetitle>Debian 7 Long Term Support reaching end-of-life</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+##
+## Translators: 
+## - if translating while the file is in publicity-team/announcements repo,
+##   please ignore the translation-check header. Publicity team will add it
+##   including the correct translation-check header when moving the file 
+##   to the web repo
+##
+## - if translating while the file is in webmaster-team/webwml repo,
+##   please use the copypage.pl script to create the page in your language
+##   subtree including the correct translation-check header.
+##
+
+<p>The Debian Long Term Support (LTS) Team hereby announces that Debian 7
+"Wheezy" support has reached its end-of-life on May 31, 2018,
+five years after its initial release on May 4, 2013.</p>
+
+<p>Debian will not provide further security updates for Debian 7. A
+subset of Wheezy packages will be supported by external parties. Detailed
+information can be found at <a href="https://wiki.debian.org/LTS/Extended">
+Extended LTS</a>.</p>
+
+<p>The LTS Team will prepare the transition to Debian 8 "Jessie", which
+is the current oldstable release. The LTS team will take over support
+from the Security Team on June 17, 2018.</p>
+
+<p>Debian 8 will also receive Long Term Support for five years after its
+initial release with support ending on June 30, 2020. The supported
+architectures include amd64, i386, armel and armhf.</p>
+
+<p>For further information about using Jessie LTS and upgrading from Wheezy
+LTS, please refer to <a href="https://wiki.debian.org/LTS/Using">LTS/Using</a>.</p>
+
+<p>Debian and its LTS Team would like to thank all contributing users,
+developers and sponsors who are making it possible to extend the life
+of previous stable releases, and who have made this LTS a success.</p>
+
+<p>If you rely on Debian LTS, please consider
+<a href="https://wiki.debian.org/LTS/Development">joining the team</a>,
+providing patches, testing or
+<a href="https://wiki.debian.org/LTS/Funding">funding the efforts</a>.</p>
+
+<h2>About Debian</h2>
+
+<p>
+The Debian Project was founded in 1993 by Ian Murdock to be a truly
+free community project. Since then the project has grown to be one of
+the largest and most influential open source projects. Thousands of
+volunteers from all over the world work together to create and
+maintain Debian software. Available in 70 languages, and
+supporting a huge range of computer types, Debian calls itself the
+<q>universal operating system</q>.
+</p>
+
+<h2>More Information</h2>
+<p>More information about Debian Long Term Support can be found at
+<a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>.</p>
+
+<h2>Contact Information</h2>
+
+<p>For further information, please visit the Debian web pages at
+<a href="$(HOME)/">https://www.debian.org/</a> or send mail to
+&lt;press@debian.org&gt;.</p>
