@@ -147,14 +147,14 @@
 
   </ul>
  </when>
-# DDP Subversion repo access (used)
+# DDP Git repo access (used)
  <when <match <get-var vcstype /> "ddp" action=report />>
-  <set-var vcsweb="https://anonscm.debian.org/viewvc/ddp/manuals/trunk/<get-var cvsname />/" />
-  <set-var vcsrepo="svn://svn.debian.org/svn/ddp/manuals/trunk/<get-var cvsname /> <get-var cvsname />" />
-  <p><gettext domain="doc">The latest <get-var srctype /> source is available through the <a href="https://www.debian.org/doc/cvs">Subversion</a> repository.</gettext></p>
+  <set-var vcsweb="https://salsa.debian.org/ddp-team/<get-var cvsname />" />
+  <set-var vcsrepo="https://salsa.debian.org/ddp-team/<get-var cvsname />.git" />
+  <p><gettext domain="doc">The latest <get-var srctype /> source is available through the <a href="https://packages.debian.org/git">Git</a> repository.</gettext></p>
   <ul>
     <li><gettext domain="doc">Web interface: </gettext><a href="<get-var vcsweb />"><get-var vcsweb /></a></li>
-    <li><gettext domain="doc">VCS interface: </gettext><tt>svn co <get-var vcsrepo /></tt></li>
+    <li><gettext domain="doc">VCS interface: </gettext><tt>git clone <get-var vcsrepo /></tt></li>
   </ul>
  </when>
 # Generic CVS repo access (unused)
@@ -210,4 +210,3 @@
   <gettext domain="doc">Debian package (archived)</gettext>
   <strong><a href="http://archive.debian.net/src:%0">%0</a></strong>
 </define-tag>
-
