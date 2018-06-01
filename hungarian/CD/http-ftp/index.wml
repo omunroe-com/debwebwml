@@ -18,7 +18,7 @@ használhatod a következőket: <a href="http://aria2.sourceforge.net/">aria2</a
 <q><tt>wget&nbsp;-c&nbsp;</tt><em>URL</em></q> or
 <q><tt>curl&nbsp;-C&nbsp;-&nbsp;-L&nbsp;-O&nbsp;</tt><em>URL</em></q>.
 Windows alatt ezt próbálhatod ki:
-<a href="http://www.freedownloadmanager.org/">Free Download Manager</a>
+<a href="https://www.freedownloadmanager.org/">Free Download Manager</a>
 Mac&nbsp;OS estén ezt nézd meg: 
 <a href="http://code.google.com/p/cocoawget/">CocoaWget</a>.
 Szintén nézz szét a <a href="http://en.wikipedia.org/wiki/Comparison_of_download_managers">

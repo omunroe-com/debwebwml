@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Pobieranie obrazów płyt Debiana przez HTTP/FTP" BARETITLE=true
-#use wml::debian::translation-check translation="a2a93c6af14d9de0d3c3aa2b2d7fa4d06a48ee43"
+#use wml::debian::translation-check translation="cf70d650aa100e46bef1d204684fde520cf8d52e"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
 
@@ -17,7 +17,7 @@ Pod Unixem możesz użyć programów <a href="http://aria2.sourceforge.net/">ari
 <q><tt>wget&nbsp;-c&nbsp;</tt><em>URL</em></q>, czy też
 <q><tt>curl&nbsp;-C&nbsp;-&nbsp;-L&nbsp;-O&nbsp;</tt><em>URL</em></q>.
 Pod Windows spróbuj
-<a href="http://www.freedownloadmanager.org/">Free Download Managera</a>.
+<a href="https://www.freedownloadmanager.org/">Free Download Managera</a>.
 Pod Mac&nbsp;OS jest dostępny
 <a href="http://code.google.com/p/cocoawget/">CocoaWget</a>.
 

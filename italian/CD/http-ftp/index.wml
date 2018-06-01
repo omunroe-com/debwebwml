@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Scaricare le immagini dei CD/DVD Debian via HTTP/FTP" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="a2a93c6af14d9de0d3c3aa2b2d7fa4d06a48ee43" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="cf70d650aa100e46bef1d204684fde520cf8d52e" maintainer="Luca Monducci"
 
 <div class="tip">
 <p><strong>Si raccomanda di non scaricare le immagini dei CD o dei DVD
@@ -15,7 +15,7 @@ Sotto Unix, si può usare <a href="http://aria2.sourceforge.net/">aria2</a>,
 <a href="http://dfast.sourceforge.net/">wxDownload Fast</a> oppure (dalla
 riga di comando) <q><tt>wget&nbsp;-c&nbsp;</tt><em>URL</em></q> oppure
 <q><tt>curl&nbsp;-C&nbsp;-&nbsp;-L&nbsp;-O&nbsp;</tt><em>URL</em></q>. Sotto
-Windows, si può provare <a href="http://www.freedownloadmanager.org/">Free
+Windows, si può provare <a href="https://www.freedownloadmanager.org/">Free
 Download Manager</a>.
 Sotto Mac&nbsp;OS si può usare <a href="http://code.google.com/p/cocoawget/">\
 CocoaWget</a>. È possibile consultare un <a

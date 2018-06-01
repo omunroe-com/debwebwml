@@ -17,7 +17,7 @@ você pode usar <a href="http://aria2.sourceforge.net/">aria2</a>,
 (na linha de comando) <q><tt>wget&nbsp;-c&nbsp;</tt><em>URL</em></q> ou
 <q><tt>curl&nbsp;-C&nbsp;-&nbsp;-L&nbsp;-O&nbsp;</tt><em>URL</em></q>.
 No Windows, você pode experimentar o
-<a href="http://www.freedownloadmanager.org/">Free Download Manager</a>.
+<a href="https://www.freedownloadmanager.org/">Free Download Manager</a>.
 No Mac&nbsp;OS, dê uma olhada no
 <a href="http://code.google.com/p/cocoawget/">CocoaWget</a>.
 Você também pode dar uma olhada na <a

@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Загрузка образов CD/DVD дисков Debian через HTTP/FTP" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="a2a93c6af14d9de0d3c3aa2b2d7fa4d06a48ee43" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cf70d650aa100e46bef1d204684fde520cf8d52e" maintainer="Lev Lamberov"
 
 <div class="tip">
 <p><strong>Пожалуйста, не загружайте образы CD или DVD из web-браузера тем же
@@ -17,7 +17,7 @@
 или (из командной строки) <q><tt>wget&nbsp;-c&nbsp;</tt><em>URL</em></q>
 или <q><tt>curl&nbsp;-C&nbsp;-&nbsp;-L&nbsp;-O&nbsp;</tt><em>URL</em></q>.
 В Windows вы можете использовать
-<a href="http://www.freedownloadmanager.org/">Free Download Manager</a>.
+<a href="https://www.freedownloadmanager.org/">Free Download Manager</a>.
 В Mac&nbsp;OS взгляните на
 <a href="http://code.google.com/p/cocoawget/">CocoaWget</a>.
 Вы также можете посмотреть <a

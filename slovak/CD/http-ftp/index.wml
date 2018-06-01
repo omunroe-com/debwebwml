@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Sťahovanie obrazov CD/DVD Debianu pomocou HTTP/FTP" BARETITLE=true
-#use wml::debian::translation-check translation="a2a93c6af14d9de0d3c3aa2b2d7fa4d06a48ee43" maintainer="Ivan Masar"
+#use wml::debian::translation-check translation="cf70d650aa100e46bef1d204684fde520cf8d52e" maintainer="Ivan Masar"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
 
@@ -14,7 +14,7 @@ môžete použiť <a href="http://aria2.sourceforge.net/">aria2</a>, <a href="ht
 <q><tt>wget&nbsp;-c&nbsp;</tt><em>URL</em></q> alebo
 <q><tt>curl&nbsp;-C&nbsp;-&nbsp;-L&nbsp;-O&nbsp;</tt><em>URL</em></q>.
 Na systémoch Windows môžete skúsiť
-<a href="http://www.freedownloadmanager.org/">Free Download Manager</a>.
+<a href="https://www.freedownloadmanager.org/">Free Download Manager</a>.
 Na Mac&nbsp;OS si pozrite
 <a href="http://code.google.com/p/cocoawget/">CocoaWget</a>.
 Tiež sa môžete pozrieť na <a

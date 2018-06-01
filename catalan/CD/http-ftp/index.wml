@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Descarregant imatges de CD/DVD via HTTP/FTP" BARETITLE=true
-#use wml::debian::translation-check translation="a2a93c6af14d9de0d3c3aa2b2d7fa4d06a48ee43" maintainer="Alytidae"
+#use wml::debian::translation-check translation="cf70d650aa100e46bef1d204684fde520cf8d52e" maintainer="Alytidae"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
 
@@ -15,7 +15,7 @@ a continuar descàrregues. Sota Unix, podeu usar <a href="http://aria2.sourcefor
 <q><tt>wget&nbsp;-c&nbsp;</tt><em>URL</em></q> o
 <q><tt>curl&nbsp;-C&nbsp;-&nbsp;-L&nbsp;-O&nbsp;</tt><em>URL</em></q>.
 Sota Windows, podeu provar
-<a href="http://www.freedownloadmanager.org/">Free Download Manager</a>.
+<a href="https://www.freedownloadmanager.org/">Free Download Manager</a>.
 Sota Mac&nbsp;OS, mireu-vos
 <a href="http://code.google.com/p/cocoawget/">CocoaWget</a>.
 També podeu fer una ullada al <a
