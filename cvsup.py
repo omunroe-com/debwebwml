@@ -15,6 +15,9 @@ import logging
 import os
 import subprocess
 
+print("CVS no longer supported")
+sys.exit(1)
+
 logging.basicConfig(level=logging.INFO)
 
 logging.info('Getting list of entries in the repository.')
