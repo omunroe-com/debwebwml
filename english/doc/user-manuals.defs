@@ -21,7 +21,7 @@
 # keeps pt-br fot html files to comply with Apache rewriting.
 
 # formats: see manuals.defs for available ones
-# langs: If unset, file extention becomes .html instead of .en.html 
+# langs: If unset, file extention becomes .html instead of .en.html
 # cvsname: set "cvsname" when the DDP svn repo name is not same as "name"
 
 # vcstype="ddp": DDP subversion site (no need for vcsweb and vcsrepo)
@@ -64,11 +64,11 @@
 <define-tag inddpsvn-debian-reference>
   <inddpcvs name="debian-reference" cvsname="quick-reference"
             langs="en fr de es it ja pt zh-cn zh-tw"
-            formats="html txt pdf" 
+            formats="html txt pdf"
             srctype="XML"
             vcstype="git"
-            vcsweb="https://salsa.debian.org/debian/debian-reference.git"
-            vcsrepo="git://salsa.debian.org/debian/debian-reference"
+            vcsweb="https://salsa.debian.org/debian/debian-reference"
+            vcsrepo="https://salsa.debian.org/debian/debian-reference.git"
             />
 </define-tag>
 
@@ -78,27 +78,26 @@
             langs="ar bg ca cs da de el en es eu fi fr gl he hi hu it ja lt nb nl pl pt-br pt ro ru sk sv tr vi zh-cn zh-tw"
             formats="pdf"
             srctype="XML"
-            vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/collab-maint/refcard.git/"
-            vcsrepo="git://anonscm.debian.org/collab-maint/refcard.git"
+            cvsname="refcard"
+            vcstype="ddp"
             />
 </define-tag>
 
 <define-tag inddpsvn-debian-handbook>
   <inddpcvs name="debian-handbook"
             langs="ar da de el en es fa fr hr id it ja nb pl pt-br ro ru tr vi zh-cn"
-            formats="html" 
+            formats="html"
             srctype="XML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/debian-handbook/debian-handbook.git/"
-            vcsrepo="git://anonscm.debian.org/debian-handbook/debian-handbook.git"
+            vcsweb="https://salsa.debian.org/hertzog/debian-handbook"
+            vcsrepo="https://salsa.debian.org/hertzog/debian-handbook.git"
             />
 </define-tag>
 
 <define-tag inddpsvn-aptitude>
   <inddpcvs name="aptitude"
             langs="cs en es fi fr it ja ru"
-            formats="html" 
+            formats="html"
             srctype="XML"
             vcstype="git"
             vcsweb="https://anonscm.debian.org/cgit/aptitude/aptitude.git/"
@@ -111,8 +110,8 @@
             langs="de es fr en it ja pl pt"
 #    Commenting out the txt variant for now, since the generated links are
 #    not working (see #803541). holger-guest
-#    formats="html txt" 
-            formats="html txt" 
+#    formats="html txt"
+            formats="html txt"
             srctype="XML"
             vcstype="git"
             vcsweb="https://anonscm.debian.org/cgit/apt/apt.git/"
@@ -125,8 +124,8 @@
             langs="de es fr en it ja pl pt"
 #    Commenting out the txt variant for now, since the generated links are
 #    not working (see #803541). holger-guest
-#    formats="html txt" 
-            formats="html txt" 
+#    formats="html txt"
+            formats="html txt"
             srctype="XML"
             vcstype="git"
             vcsweb="https://anonscm.debian.org/cgit/apt/apt.git/"
@@ -138,13 +137,13 @@
 # DDP SVN or java-common's SVN available at:
 # https://anonscm.debian.org/viewvc/pkg-java/trunk/java-common/debian-java-faq/
 <define-tag inddpsvn-debian-java-faq>
-  <inddpcvs name="debian-java-faq" 
+  <inddpcvs name="debian-java-faq"
         langs="en it fr"
         formats="html txt"
         srctype="SGML"
         cvsname="java-faq"
         vcstype="ddp"
-        /> 
+        />
 </define-tag>
 
 <define-tag inddpsvn-securing-debian-howto>
@@ -152,7 +151,7 @@
             langs="en de fr pt-br"
             formats="html txt pdf ps"
             srctype="SGML"
-            cvsname="securing-howto"
+            cvsname="securing-debian-manual"
             vcstype="ddp"
             />
 </define-tag>
