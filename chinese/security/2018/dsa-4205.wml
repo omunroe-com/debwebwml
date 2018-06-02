@@ -2,7 +2,7 @@
 <define-tag description>Debian 8 终止支持的预先通知</define-tag>
 <define-tag moreinfo>
 
-<p>在此通知 Debian 8（代号”jessie“）的常规安全支持将于今年六月十七日结束。</p>
+<p>在此通知 Debian 8（代号“jessie”）的常规安全支持将于今年六月十七日结束。</p>
 
 <p>与先前的发行版本类似，额外的长期支持将只针对某些限定范围的机器架构和软件包提供。
 届时我们会发布一份单独的声明进行通知。</p>
