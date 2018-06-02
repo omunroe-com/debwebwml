@@ -4,13 +4,13 @@
 #
 # Frans Pop <elendil@planet.nl>, 2007, 2008, 2009.
 # Jeroen Schot <schot@a-eskwadraat.nl>, 2011, 2012.
-# Frans Spiesschaert <Frans.Spiesschaert@yucom.be>, 2014, 2017.
+# Frans Spiesschaert <Frans.Spiesschaert@yucom.be>, 2014, 2017, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: templates\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-06-12 23:00+0200\n"
+"PO-Revision-Date: 2018-06-02 20:17+0200\n"
 "Last-Translator: Frans Spiesschaert <Frans.Spiesschaert@yucom.be>\n"
 "Language-Team: Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>\n"
 "Language: nl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 #: ../../english/search.xml.in:7
 msgid "Debian website"
@@ -111,7 +111,7 @@ msgstr "Ondersteuning"
 
 #: ../../english/template/debian/common_translation.wml:52
 msgid "Pure Blends"
-msgstr "Doelgroepspecifieke collecties"
+msgstr "Specifieke uitgaven"
 
 #: ../../english/template/debian/common_translation.wml:55
 #: ../../english/template/debian/links.tags.wml:46
@@ -205,7 +205,6 @@ msgstr "in versie 2.2"
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
 #: ../../english/template/debian/footer.wml:105
-#, fuzzy
 #| msgid ""
 #| "To report a problem with the web site, e-mail our publicly archived "
 #| "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-"
@@ -225,9 +224,9 @@ msgstr ""
 "Nederlands) naar <a href=\"mailto:debian-l10n-dutch@lists.debian.org"
 "\">debian-l10n-dutch@lists.debian.org</a>. Problemen met de Nederlandse "
 "vertaling kunnen eveneens naar het tweede adres worden gestuurd. Zie de <a "
-"href=\"m4_HOME/contact\">contactpagina</a> voor algemene contactinformatie. "
-"De broncode van de website is <a href=\"m4_HOME/devel/website/using_cvs"
-"\">beschikbaar</a>."
+"href=\"m4_HOME/contact\">contactpagina</a> voor andere contactinformatie. De "
+"broncode van de website is <a href=\"https://salsa.debian.org/webmaster-team/"
+"webwml\">beschikbaar</a>."
 
 #: ../../english/template/debian/footer.wml:108
 msgid "Last Modified"
@@ -521,7 +520,7 @@ msgstr "<em>N.B.</em> Het origineel van deze vertaling bestaat niet meer."
 
 #: ../../english/template/debian/translation-check.wml:56
 msgid "Wrong translation version!"
-msgstr ""
+msgstr "Onjuiste vertalingsversie!"
 
 #: ../../english/template/debian/url.wml:4
 msgid "URL"
