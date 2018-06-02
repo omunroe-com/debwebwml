@@ -10,7 +10,7 @@ script), because the web site is mirrored.
 <p>The site is generated in one of three ways:
 <ul>
   <li>the bulk of it is generated using WML, from the 
-      <a href="$(DEVEL)/website/using_cvs"><q>webwml</q> CVS tree</a>
+      <a href="$(DEVEL)/website/using_git"><q>webwml</q> git repository</a>
   <li>the documentation is generated either using DocBook XML (use of DebianDoc
       SGML is being phased out), from the
       <a href="$(DOC)/cvs"><q>ddp</q> Subversion repository</a>; or
@@ -20,7 +20,7 @@ script), because the web site is mirrored.
       e.g. the mailing list (un)subscription pages
 </ul>
 
-<p>An automatic update (from the CVS repositories and other sources to the
+<p>An automatic update (from the git repository and other sources to the
 webtree) is being run six times a day.
 
 <p>If you'd like to contribute to the site, do <strong>not</strong> simply
@@ -72,16 +72,16 @@ you can easily install the <code>wml</code> package. Read the pages on
 
 <toc-add-entry name="sources">Sources</toc-add-entry>
 
-<p>The source for the web pages is stored under CVS. CVS is a version
+<p>The source for the web pages is stored under git. git is a version
 control system, which allows us to keep a log of which, who, when, and why changes
 occurred, etc. It is a safe way to control the concurrent editing of source
 files among multiple authors, which is crucial for us because the Debian web
 team is rather large in size.
 
 <p>If you are unfamiliar with this program, you will want to read the pages
-on <a href="using_cvs">using CVS</a>.
+on <a href="using_git">using git</a>.
 
-<p>The topmost webwml directory in the CVS repository contains directories
+<p>The topmost webwml directory in the git repository contains directories
 named after the languages the web site is in, two makefiles and several
 scripts. The translation directory names should be in English and lowercase
 (e.g. "german", not "Deutsch").
