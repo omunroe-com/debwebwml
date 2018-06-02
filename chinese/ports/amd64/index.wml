@@ -1,5 +1,5 @@
 #use wml::debian::template title="AMD64 移植"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
+#use wml::debian::translation-check translation="e0c6f41f1286d47e6b6efb1541e6f273b62cc8fb"
 
 
 #use wml::debian::toc
@@ -38,8 +38,8 @@ AMD64 一直是官方支持的 Debian 架构。</p>
 <li>内存页默认不可执行</li>
 </ul>
 
-<p>内核支持原生执行旧版32位二进制程序，
-ia32-libs 软件包提供了这些核心库。</p>
+<p>内核支持原生执行旧版32位二进制程序，所需的软件库由 Debian 的 <a
+href="https://wiki.debian.org/Multiarch">Multiarch 机制</a>提供。</p>
 
 
 <toc-add-entry name="i386support">i386 上的简单 AMD64 运行时支持</toc-add-entry>
@@ -68,9 +68,9 @@ href="https://lists.debian.org/debian-amd64/">debian-amd64</a>
 <ul>
 #<li><a href="https://alioth.debian.org/docman/view.php/30192/21/debian-amd64-howto.html">debian-amd64 howto 及 FAQ</a></li>
 
-<li><a href='https://anonscm.debian.org/viewvc/debian-amd64/'>CVS 仓库</a></li>
+#<li><a href='https://anonscm.debian.org/viewvc/debian-amd64/'>CVS 仓库</a></li>
 
-<li><a href="https://alioth.debian.org/projects/debian-amd64/">debian-amd64 Alioth 项目</a></li>
+#<li><a href="https://alioth.debian.org/projects/debian-amd64/">debian-amd64 Alioth 项目</a></li>
 
 <li><a href="https://wiki.debian.org/DebianAMD64">debian-amd64 Wiki</a></li>
 </ul>
