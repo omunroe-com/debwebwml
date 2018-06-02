@@ -16,8 +16,8 @@
 ##
 
 <p>Debian med Långtidsstöd (Long Term Support - LTS) tillkännager härmed att
-stödet för Debian 7 "Wheezy" har nått sitt end-of-life 31 Maj 2018, fem år
-efter dess ursprungliga utgåva 4 Maj 2013.</p>
+stödet för Debian 7 "Wheezy" har nått sitt end-of-life 31 maj 2018, fem år
+efter dess ursprungliga utgåva 4 maj 2013.</p>
 
 <p>Debian kommer inte att tillhandahålla ytterligare säkerhetsstöd för
 Debian 7. En delmängd av Wheezy-paket kommer att få stöd från externa
@@ -26,10 +26,10 @@ Utökad LTS</a>.</p>
 
 <p>LTS-gruppen kommer att förbereda övergången till Debian 8 "Jessie",
 som är den aktuella gamla stabila utgåvan. LTS-gruppen kommer att ta över
-stöd från säkerhetsgruppen den 17 Juni 2018.</p>
+stöd från säkerhetsgruppen den 17 juni 2018.</p>
 
 <p>Debian 8 kommer även att få långtidsstöd i fem år efter dess ursprungliga
-utgåva med stöd som upphör 30 Juni 2020. Arkitekturerna med stöd innefattar
+utgåva med stöd som upphör 30 juni 2020. Arkitekturerna med stöd innefattar
 amd64, i386, armel och armhf.</p>
 
 <p>För ytterligare information om användning av Jessie LTS och uppgradering
