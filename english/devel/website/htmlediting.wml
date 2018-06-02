@@ -23,8 +23,8 @@ more easy to translate.</p>
 <dd>
 The wml files and other files should have lines fitting in a normal 
 terminal window. This is easier to edit in vi, better searchable and 
-easier to translate. It's also important because CVS is line orientated
-and it's harder to resolve conflicts in long lines.
+easier to translate. It's also important because
+it's harder to resolve conflicts in long lines.
 </dd>
 <dt>keep tags in separate lines if possible</dt>
 <dd>

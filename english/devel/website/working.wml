@@ -17,10 +17,10 @@ less space, e.g. 50 MB for english/.</p>
 
 <h3>Partial checkouts</h3>
 
-<p>Lots of people won't have the whole <code>webwml</code> CVS tree checked
+<p>Lots of people won't have the whole <code>webwml</code> git tree checked
 out, which sometimes leads to missing files and broken builds, in case a
-crucial new file is added and one doesn't do a full <kbd>cvs update</kbd> in
-the directory. Remember to verify that you have all the required files (like
+crucial new file is added and one doesn't have a full checkout.
+Remember to verify that you have all the required files (like
 .wmlrc files) before complaining to us.</p>
 
 <h3><q>What are these lines beginning with `#'?</q></h3>
@@ -50,7 +50,7 @@ of the site to get rebuilt.</p>
 
 <h3>When adding new directories, also add the Makefile!</h3>
 
-<p>Some care should be taken when adding a new directory to CVS. If the
+<p>Some care should be taken when adding a new directory to git. If the
 current directory is listed in ../Makefile then you <b>must</b> create a
 Makefile in it &mdash; otherwise <tt>make</tt> will give an error message.</p>
 
@@ -79,7 +79,7 @@ information needed when working in that area.</p>
 
 <p>Always make separate patches or commits for content changes and for
 changes in formatting. When they are combined, it's much harder for
-translators to find the differences. If you run <kbd>cvs diff</kbd> with
+translators to find the differences. If you run <kbd>git diff -u</kbd> with
 such mixed changes, you can see the mess for yourself.</p>
 
 <p>In general, avoid random formatting changes. Making older parts of pages
@@ -104,7 +104,7 @@ quickly by a single person.</p>
 
 <p>In addition, to make such changes easier to apply, you can use the
 <code>smart_change.pl</code> script from the top-level directory in
-the webwml CVS module.</p>
+the webwml git module.</p>
 
 <h4>Usage of smart_change.pl</h4>
 
