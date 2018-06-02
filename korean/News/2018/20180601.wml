@@ -1,0 +1,69 @@
+# Status: [frozen]
+# $Rev$
+#use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Sebul"
+<define-tag pagetitle>7 장기 지원 마침</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+##
+## Translators: 
+## - if translating while the file is in publicity-team/announcements repo,
+##   please ignore the translation-check header. Publicity team will add it
+##   including the correct translation-check header when moving the file 
+##   to the web repo
+##
+## - if translating while the file is in webmaster-team/webwml repo,
+##   please use the copypage.pl script to create the page in your language
+##   subtree including the correct translation-check header.
+##
+
+<p>데비안 장기지원 (LTS, Long Term Support)팀은
+데비안 7 "Wheezy" 지원이 2018. 5. 31.(초기 릴리스 2013. 5. 4. 후 5년)로 끝남을 알립니다
+</p>
+
+<p>데비안은 데비안 7에 대한 보안 업데이트를 더이상 제공하지 않습니다
+Wheezy 패키지의 일부는 외부에서 지원될 겁니다.
+자세한 정보는 
+<a href="https://wiki.debian.org/LTS/Extended">Extended LTS</a>에서 
+찾을 수 있습니다.</p>
+
+<p>LTS 팀은 데비안 8 "Jessie", 현재의 옛 안정 릴리스, 로의 전환을 준비합니다.
+LTS 팀은 2018. 6. 17. 보안팀의 지원을 이어받습니다.</p>
+
+<p>데비안 8은 초기 릴리스 후 5년(2020.6.30. 끝남)동안 장기 지원 받을 것입니다.
+지원되는 아키텍처는 amd64, i386, armel 및 armhf 을 포함합니다
+</p>
+
+<p>Jessie LTS 사용과 Wheezy LTS에서 업그레이드 하는 것에 대한 자세한 내용은
+ <a href="https://wiki.debian.org/LTS/Using">LTS/Using</a>을 참조하세요.</p>
+
+<p>데비안과 LTS 팀은 
+이전의 안정적인 릴리스의 수명을 연장하고 LTS를 성공으로 이끄는 모든 기여 사용자, 
+개발자 및 후원자에게 감사드립니다.</p>
+
+<p>데비안 LTS에 의존한다면,
+<a href="https://wiki.debian.org/LTS/Development">팀에 합류</a>,
+패치 제공, 테스트 또는
+<a href="https://wiki.debian.org/LTS/Funding">자금 지원</a>을 고려하세요.</p>
+
+<h2>About Debian</h2>
+
+<p>
+The Debian Project was founded in 1993 by Ian Murdock to be a truly
+free community project. Since then the project has grown to be one of
+the largest and most influential open source projects. Thousands of
+volunteers from all over the world work together to create and
+maintain Debian software. Available in 70 languages, and
+supporting a huge range of computer types, Debian calls itself the
+<q>universal operating system</q>.
+</p>
+
+<h2>More Information</h2>
+<p>More information about Debian Long Term Support can be found at
+<a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>.</p>
+
+<h2>Contact Information</h2>
+
+<p>For further information, please visit the Debian web pages at
+<a href="$(HOME)/">https://www.debian.org/</a> or send mail to
+&lt;press@debian.org&gt;.</p>
