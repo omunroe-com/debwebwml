@@ -1,7 +1,7 @@
 # Status: [frozen]
 # $Rev$
 #use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Sebul"
-<define-tag pagetitle>7 장기 지원 마침</define-tag>
+<define-tag pagetitle>데비안 7 장기 지원 마침</define-tag>
 <define-tag release_date>2018-06-01</define-tag>
 #use wml::debian::news
 
