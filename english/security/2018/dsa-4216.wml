@@ -1,0 +1,27 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>It was discovered that Prosody, a lightweight Jabber/XMPP server, does
+not properly validate client-provided parameters during XMPP stream
+restarts, allowing authenticated users to override the realm associated
+with their session, potentially bypassing security policies and allowing
+impersonation.</p>
+
+<p>Details can be found in the upstream advisory at
+<a href="https://prosody.im/security/advisory_20180531/">https://prosody.im/security/advisory_20180531/</a></p>
+
+<p>For the oldstable distribution (jessie), this problem has been fixed
+in version 0.9.7-2+deb8u4.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 0.9.12-2+deb9u2.</p>
+
+<p>We recommend that you upgrade your prosody packages.</p>
+
+<p>For the detailed security status of prosody please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/prosody">https://security-tracker.debian.org/tracker/prosody</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4216.data"
+# $Id: $
