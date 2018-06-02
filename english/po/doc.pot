@@ -57,7 +57,8 @@ msgid "plain text"
 msgstr ""
 
 #: ../../english/doc/manuals.defs:154
-msgid "The latest <get-var srctype /> source is available through the <a href=\"https://www.debian.org/doc/cvs\">Subversion</a> repository."
+#: ../../english/doc/manuals.defs:178
+msgid "The latest <get-var srctype /> source is available through the <a href=\"https://packages.debian.org/git\">Git</a> repository."
 msgstr ""
 
 #: ../../english/doc/manuals.defs:156
@@ -80,10 +81,6 @@ msgstr ""
 
 #: ../../english/doc/manuals.defs:170
 msgid "The latest <get-var srctype /> source is available through the <a href=\"https://packages.debian.org/subversion\">Subversion</a> repository."
-msgstr ""
-
-#: ../../english/doc/manuals.defs:178
-msgid "The latest <get-var srctype /> source is available through the <a href=\"https://packages.debian.org/git\">Git</a> repository."
 msgstr ""
 
 #: ../../english/doc/manuals.defs:188

@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4215-1 batik</define-tag>
+<define-tag report_date>2018-6-02</define-tag>
+<define-tag secrefs>CVE-2017-5662 CVE-2018-8013 Bug#860566 Bug#899374</define-tag>
+<define-tag packages>batik</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>

@@ -71,24 +71,24 @@ msgid "Officers"
 msgstr "Virkailijat"
 
 #: ../../english/intro/organization.data:54
-#: ../../english/intro/organization.data:80
+#: ../../english/intro/organization.data:87
 msgid "Distribution"
 msgstr "Jakelu"
 
 #: ../../english/intro/organization.data:55
-#: ../../english/intro/organization.data:224
+#: ../../english/intro/organization.data:229
 msgid "Communication and Outreach"
 msgstr ""
 
 #: ../../english/intro/organization.data:56
-#: ../../english/intro/organization.data:227
+#: ../../english/intro/organization.data:232
 #, fuzzy
 #| msgid "Publicity"
 msgid "Publicity team"
 msgstr "Julkisuus"
 
 #: ../../english/intro/organization.data:57
-#: ../../english/intro/organization.data:295
+#: ../../english/intro/organization.data:300
 msgid "Support and Infrastructure"
 msgstr "Tuki ja infrastruktuuri"
 
@@ -105,215 +105,215 @@ msgstr "Päällikkö"
 msgid "Technical Committee"
 msgstr "Tekninen komitea"
 
-#: ../../english/intro/organization.data:75
+#: ../../english/intro/organization.data:82
 msgid "Secretary"
 msgstr "sihteeri"
 
-#: ../../english/intro/organization.data:83
+#: ../../english/intro/organization.data:90
 msgid "Development Projects"
 msgstr "Kehitysprojektit"
 
-#: ../../english/intro/organization.data:84
+#: ../../english/intro/organization.data:91
 msgid "FTP Archives"
 msgstr "FTP-arkistot"
 
-#: ../../english/intro/organization.data:86
+#: ../../english/intro/organization.data:93
 #, fuzzy
 #| msgid "FTP Master"
 msgid "FTP Masters"
 msgstr "FTP-hallinto"
 
-#: ../../english/intro/organization.data:90
+#: ../../english/intro/organization.data:99
 msgid "FTP Assistants"
 msgstr "FTP-avustajat"
 
-#: ../../english/intro/organization.data:99
+#: ../../english/intro/organization.data:104
 msgid "FTP Wizards"
 msgstr ""
 
-#: ../../english/intro/organization.data:103
+#: ../../english/intro/organization.data:108
 msgid "Backports"
 msgstr "Takaisinsiirrokset"
 
-#: ../../english/intro/organization.data:105
+#: ../../english/intro/organization.data:110
 msgid "Backports Team"
 msgstr "Takaisinsiirrosryhmä"
 
-#: ../../english/intro/organization.data:109
+#: ../../english/intro/organization.data:114
 msgid "Individual Packages"
 msgstr "Yksittäiset paketit"
 
-#: ../../english/intro/organization.data:110
+#: ../../english/intro/organization.data:115
 msgid "Release Management"
 msgstr "Versiohallinto"
 
-#: ../../english/intro/organization.data:112
+#: ../../english/intro/organization.data:117
 msgid "Release Team"
 msgstr "Julkaisuryhmä"
 
-#: ../../english/intro/organization.data:125
+#: ../../english/intro/organization.data:130
 msgid "Quality Assurance"
 msgstr "Laadunvalvonta"
 
-#: ../../english/intro/organization.data:126
+#: ../../english/intro/organization.data:131
 msgid "Installation System Team"
 msgstr "Käynnistyslevykkeet"
 
-#: ../../english/intro/organization.data:127
+#: ../../english/intro/organization.data:132
 msgid "Release Notes"
 msgstr "Julkistusmuistio"
 
-#: ../../english/intro/organization.data:129
+#: ../../english/intro/organization.data:134
 msgid "CD Images"
 msgstr "CD-raakakopiot"
 
-#: ../../english/intro/organization.data:131
+#: ../../english/intro/organization.data:136
 msgid "Production"
 msgstr "Tuotanto"
 
-#: ../../english/intro/organization.data:139
+#: ../../english/intro/organization.data:144
 msgid "Testing"
 msgstr "Testaus"
 
-#: ../../english/intro/organization.data:141
+#: ../../english/intro/organization.data:146
 msgid "Autobuilding infrastructure"
 msgstr "Automattikääntäjien infrastruktuuri"
 
-#: ../../english/intro/organization.data:143
+#: ../../english/intro/organization.data:148
 msgid "Wanna-build team"
 msgstr "Wanna-build-ryhmä"
 
-#: ../../english/intro/organization.data:151
+#: ../../english/intro/organization.data:156
 msgid "Buildd administration"
 msgstr "Buildd-ylläpito"
 
-#: ../../english/intro/organization.data:170
+#: ../../english/intro/organization.data:175
 msgid "Documentation"
 msgstr "Dokumentointi"
 
-#: ../../english/intro/organization.data:175
+#: ../../english/intro/organization.data:180
 msgid "Work-Needing and Prospective Packages list"
 msgstr "WNPP-luettelo"
 
-#: ../../english/intro/organization.data:178
-msgid "Live System Team"
-msgstr "Live System -ryhmä"
+#: ../../english/intro/organization.data:183
+msgid "Debian Live Team"
+msgstr ""
 
-#: ../../english/intro/organization.data:179
+#: ../../english/intro/organization.data:184
 msgid "Ports"
 msgstr "Siirrokset"
 
-#: ../../english/intro/organization.data:214
+#: ../../english/intro/organization.data:219
 msgid "Special Configurations"
 msgstr "Erityisvaatimusprojektit"
 
-#: ../../english/intro/organization.data:217
+#: ../../english/intro/organization.data:222
 msgid "Laptops"
 msgstr "Kannettavat"
 
-#: ../../english/intro/organization.data:218
+#: ../../english/intro/organization.data:223
 msgid "Firewalls"
 msgstr "Palomuurit"
 
-#: ../../english/intro/organization.data:219
+#: ../../english/intro/organization.data:224
 msgid "Embedded systems"
 msgstr "Sulautetut järjestelmät"
 
-#: ../../english/intro/organization.data:232
+#: ../../english/intro/organization.data:237
 msgid "Press Contact"
 msgstr "Lehdistösihteeri"
 
-#: ../../english/intro/organization.data:234
+#: ../../english/intro/organization.data:239
 msgid "Web Pages"
 msgstr "WWW-sivusto"
 
-#: ../../english/intro/organization.data:244
+#: ../../english/intro/organization.data:249
 msgid "Planet Debian"
 msgstr "Planet-Debian"
 
-#: ../../english/intro/organization.data:249
+#: ../../english/intro/organization.data:254
 msgid "Outreach"
 msgstr ""
 
-#: ../../english/intro/organization.data:253
+#: ../../english/intro/organization.data:258
 msgid "Debian Women Project"
 msgstr "Debian Women -projekti"
 
-#: ../../english/intro/organization.data:261
+#: ../../english/intro/organization.data:266
 msgid "Anti-harassment"
 msgstr ""
 
-#: ../../english/intro/organization.data:267
+#: ../../english/intro/organization.data:272
 msgid "Events"
 msgstr "Tapahtumat"
 
-#: ../../english/intro/organization.data:273
+#: ../../english/intro/organization.data:278
 #, fuzzy
 #| msgid "Technical Committee"
 msgid "DebConf Committee"
 msgstr "Tekninen komitea"
 
-#: ../../english/intro/organization.data:280
+#: ../../english/intro/organization.data:285
 msgid "Partner Program"
 msgstr "Kumppaniohjelma"
 
-#: ../../english/intro/organization.data:285
+#: ../../english/intro/organization.data:290
 msgid "Hardware Donations Coordination"
 msgstr "Laitteistolahjoitusten koordinointi"
 
-#: ../../english/intro/organization.data:298
+#: ../../english/intro/organization.data:303
 msgid "User support"
 msgstr "Käyttäjätuki"
 
-#: ../../english/intro/organization.data:365
+#: ../../english/intro/organization.data:370
 msgid "Bug Tracking System"
 msgstr "Vianhallintajärjestelmä"
 
-#: ../../english/intro/organization.data:370
+#: ../../english/intro/organization.data:375
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Postituslistojen hallinto ja arkistointi"
 
-#: ../../english/intro/organization.data:378
+#: ../../english/intro/organization.data:383
 #, fuzzy
 #| msgid "New Maintainers Front Desk"
 msgid "New Members Front Desk"
 msgstr "Uusien ylläpitäjien vastaanotto"
 
-#: ../../english/intro/organization.data:384
+#: ../../english/intro/organization.data:389
 msgid "Debian Account Managers"
 msgstr "Debian-käyttäjätunnuksien hallinta"
 
-#: ../../english/intro/organization.data:389
+#: ../../english/intro/organization.data:393
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
 msgstr ""
 
-#: ../../english/intro/organization.data:390
+#: ../../english/intro/organization.data:394
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Avainrenkaan ylläpitäjät (PGP ja GPG)"
 
-#: ../../english/intro/organization.data:393
+#: ../../english/intro/organization.data:397
 msgid "Security Team"
 msgstr "Tietoturvatiimi"
 
-#: ../../english/intro/organization.data:406
+#: ../../english/intro/organization.data:409
 msgid "Consultants Page"
 msgstr "Konsulttisivut"
 
-#: ../../english/intro/organization.data:411
+#: ../../english/intro/organization.data:414
 msgid "CD Vendors Page"
 msgstr "CD-jälleenmyyjien sivut"
 
-#: ../../english/intro/organization.data:414
+#: ../../english/intro/organization.data:417
 msgid "Policy"
 msgstr "Linja"
 
-#: ../../english/intro/organization.data:419
+#: ../../english/intro/organization.data:422
 msgid "System Administration"
 msgstr "Järjestelmäylläpito"
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:423
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
@@ -322,7 +322,7 @@ msgstr ""
 "kanssa tulee ongelmia esimerkiksi salasanojen kanssa, tai jos sinun pitää "
 "saada asennettua ohjelmapaketti."
 
-#: ../../english/intro/organization.data:430
+#: ../../english/intro/organization.data:432
 msgid ""
 "If you have hardware problems with Debian machines, please see <a href="
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
@@ -332,123 +332,99 @@ msgstr ""
 "debian.org/machines.cgi\">Debianin koneet</a> -sivu, siellä pitäisi olla "
 "kunkin koneen ylläpitäjän yhteystiedot."
 
-#: ../../english/intro/organization.data:431
+#: ../../english/intro/organization.data:433
 msgid "LDAP Developer Directory Administrator"
 msgstr "LDAP-kehittäjähakemiston ylläpito"
 
-#: ../../english/intro/organization.data:432
+#: ../../english/intro/organization.data:434
 msgid "Mirrors"
 msgstr "Ohjelmistopeilaukset"
 
-#: ../../english/intro/organization.data:437
+#: ../../english/intro/organization.data:441
 msgid "DNS Maintainer"
 msgstr "Nimipalveluvastaavat"
 
-#: ../../english/intro/organization.data:438
+#: ../../english/intro/organization.data:442
 msgid "Package Tracking System"
 msgstr "Pakettiseurantajärjestelmä"
 
-#: ../../english/intro/organization.data:440
-msgid "Auditor"
-msgstr "Tilintarkastaja"
+#: ../../english/intro/organization.data:444
+msgid "Treasurer"
+msgstr ""
 
-#: ../../english/intro/organization.data:446
+#: ../../english/intro/organization.data:450
 msgid ""
 "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr ""
 
-#: ../../english/intro/organization.data:449
+#: ../../english/intro/organization.data:453
+#, fuzzy
+#| msgid "Alioth administrators"
+msgid "Salsa administrators"
+msgstr "Alioth-ylläpitäjät"
+
+#: ../../english/intro/organization.data:457
 msgid "Alioth administrators"
 msgstr "Alioth-ylläpitäjät"
 
-#: ../../english/intro/organization.data:462
+#: ../../english/intro/organization.data:470
 msgid "Debian for children from 1 to 99"
 msgstr "Debian lapsille (1-99 v)"
 
-#: ../../english/intro/organization.data:465
+#: ../../english/intro/organization.data:473
 msgid "Debian for medical practice and research"
 msgstr "Debian terveydenhuollossa"
 
-#: ../../english/intro/organization.data:468
+#: ../../english/intro/organization.data:476
 msgid "Debian for education"
 msgstr "Debian oppilaitoksille"
 
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:481
 msgid "Debian in legal offices"
 msgstr "Debian lakitoimistoille"
 
-#: ../../english/intro/organization.data:477
+#: ../../english/intro/organization.data:485
 msgid "Debian for people with disabilities"
 msgstr "Debian toimintarajoitteisille henkilöille"
 
-#: ../../english/intro/organization.data:481
+#: ../../english/intro/organization.data:489
 #, fuzzy
 #| msgid "Debian for medical practice and research"
 msgid "Debian for science and related research"
 msgstr "Debian terveydenhuollossa"
 
-#~ msgid "Publicity"
-#~ msgstr "Julkisuus"
-
+#: ../../english/intro/organization.data:492
 #, fuzzy
-#~| msgid "Debian Maintainer Keyring Team"
-#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
-#~ msgstr "Debian-ylläpitäjien avainrengastiimi"
+#| msgid "Debian for education"
+msgid "Debian for astronomy"
+msgstr "Debian oppilaitoksille"
 
-#~ msgid "Volatile Team"
-#~ msgstr "Volatile-ryhmä"
+#~ msgid "Testing Security Team"
+#~ msgstr "Testattavan tietoturvatiimi"
 
-#~ msgid "Alpha (Not active: was not released with squeeze)"
-#~ msgstr "Alpha (Ei aktiivinen: ei julkaistu squeezen kanssa)"
+#~ msgid "Security Audit Project"
+#~ msgstr "Tietoturvatarkistus-projekti"
 
-#~ msgid "Custom Debian Distributions"
-#~ msgstr "Mukautetut Debian-jakelut"
+#~ msgid "Vendors"
+#~ msgstr "Jälleenmyyjät"
 
-#~ msgid "Release Team for ``stable''"
-#~ msgstr "Julkaisuryhmä \"vakaalle\""
+#~ msgid "Handhelds"
+#~ msgstr "Kämmenlaitteet"
 
-#~ msgid "Accountant"
-#~ msgstr "Kirjanpitäjä"
+#~ msgid "Marketing Team"
+#~ msgstr "Markkinointiryhmä"
 
-#~ msgid "The Universal Operating System as your Desktop"
-#~ msgstr "Kansainvälinen käyttöjärjestelmä pöytämikrossasi"
-
-#~ msgid "Debian for non-profit organisations"
-#~ msgstr "Debian voittoa tavoittelemattomille järjestöille"
-
-#~ msgid "APT Team"
-#~ msgstr "APT-työryhmä"
-
-#~ msgid "Debian GNU/Linux for Enterprise Computing"
-#~ msgstr "Debian GNU/Linux yritysjärjestelmiin"
-
-#~ msgid "Installation System for ``stable''"
-#~ msgstr "Asennusjärjestelmä \"vakaalle\""
-
-#~ msgid "Internal Projects"
-#~ msgstr "Sisäiset projektit"
-
-#~ msgid "Mailing List Archives"
-#~ msgstr "Postilista-arkistot"
+#~ msgid "Key Signing Coordination"
+#~ msgstr "Avainten allekirjoituskoordinointi"
 
 #~ msgid ""
-#~ "This is not yet an official Debian internal project but it has announced "
-#~ "the intention to be integrated."
+#~ "The admins responsible for buildd's for a particular arch can be reached "
+#~ "at <genericemail arch@buildd.debian.org>, for example <genericemail "
+#~ "i386@buildd.debian.org>."
 #~ msgstr ""
-#~ "Tämä ei ole vielä virallinen Debianin sisäinen projekti, mutta on "
-#~ "ilmoittanut aikomuksensa integrointiin."
-
-#~ msgid "Debian Multimedia Distribution"
-#~ msgstr "Debian-multimediajakelu"
-
-#~ msgid "Release Wizard"
-#~ msgstr "Versiojohtajat"
-
-#~ msgid "Release Assistants for ``stable''"
-#~ msgstr "Versioavustajat \"vakaalle\""
-
-#~ msgid "Release Assistants"
-#~ msgstr "Versioavustajat"
+#~ "Kunkin arkkitehtuurin buildd-ylläpitäjät löytyvät osoitteesta "
+#~ "<genericemail arch@buildd.debian.org>, esim. <genericemail i386@buildd."
+#~ "debian.org>."
 
 #~ msgid ""
 #~ "Names of individual buildd's admins can also be found on <a href=\"http://"
@@ -460,29 +436,71 @@ msgstr "Debian terveydenhuollossa"
 #~ "arkkitehtuurin ja jakelun näet käytössä olevat buildd:t ja niiden "
 #~ "ylläpitäjät."
 
+#~ msgid "Release Assistants"
+#~ msgstr "Versioavustajat"
+
+#~ msgid "Release Assistants for ``stable''"
+#~ msgstr "Versioavustajat \"vakaalle\""
+
+#~ msgid "Release Wizard"
+#~ msgstr "Versiojohtajat"
+
+#~ msgid "Debian Multimedia Distribution"
+#~ msgstr "Debian-multimediajakelu"
+
 #~ msgid ""
-#~ "The admins responsible for buildd's for a particular arch can be reached "
-#~ "at <genericemail arch@buildd.debian.org>, for example <genericemail "
-#~ "i386@buildd.debian.org>."
+#~ "This is not yet an official Debian internal project but it has announced "
+#~ "the intention to be integrated."
 #~ msgstr ""
-#~ "Kunkin arkkitehtuurin buildd-ylläpitäjät löytyvät osoitteesta "
-#~ "<genericemail arch@buildd.debian.org>, esim. <genericemail i386@buildd."
-#~ "debian.org>."
+#~ "Tämä ei ole vielä virallinen Debianin sisäinen projekti, mutta on "
+#~ "ilmoittanut aikomuksensa integrointiin."
 
-#~ msgid "Key Signing Coordination"
-#~ msgstr "Avainten allekirjoituskoordinointi"
+#~ msgid "Mailing List Archives"
+#~ msgstr "Postilista-arkistot"
 
-#~ msgid "Marketing Team"
-#~ msgstr "Markkinointiryhmä"
+#~ msgid "Internal Projects"
+#~ msgstr "Sisäiset projektit"
 
-#~ msgid "Handhelds"
-#~ msgstr "Kämmenlaitteet"
+#~ msgid "Installation System for ``stable''"
+#~ msgstr "Asennusjärjestelmä \"vakaalle\""
 
-#~ msgid "Vendors"
-#~ msgstr "Jälleenmyyjät"
+#~ msgid "Debian GNU/Linux for Enterprise Computing"
+#~ msgstr "Debian GNU/Linux yritysjärjestelmiin"
 
-#~ msgid "Security Audit Project"
-#~ msgstr "Tietoturvatarkistus-projekti"
+#~ msgid "APT Team"
+#~ msgstr "APT-työryhmä"
 
-#~ msgid "Testing Security Team"
-#~ msgstr "Testattavan tietoturvatiimi"
+#~ msgid "Debian for non-profit organisations"
+#~ msgstr "Debian voittoa tavoittelemattomille järjestöille"
+
+#~ msgid "The Universal Operating System as your Desktop"
+#~ msgstr "Kansainvälinen käyttöjärjestelmä pöytämikrossasi"
+
+#~ msgid "Accountant"
+#~ msgstr "Kirjanpitäjä"
+
+#~ msgid "Release Team for ``stable''"
+#~ msgstr "Julkaisuryhmä \"vakaalle\""
+
+#~ msgid "Custom Debian Distributions"
+#~ msgstr "Mukautetut Debian-jakelut"
+
+#~ msgid "Alpha (Not active: was not released with squeeze)"
+#~ msgstr "Alpha (Ei aktiivinen: ei julkaistu squeezen kanssa)"
+
+#~ msgid "Volatile Team"
+#~ msgstr "Volatile-ryhmä"
+
+#, fuzzy
+#~| msgid "Debian Maintainer Keyring Team"
+#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
+#~ msgstr "Debian-ylläpitäjien avainrengastiimi"
+
+#~ msgid "Publicity"
+#~ msgstr "Julkisuus"
+
+#~ msgid "Auditor"
+#~ msgstr "Tilintarkastaja"
+
+#~ msgid "Live System Team"
+#~ msgstr "Live System -ryhmä"

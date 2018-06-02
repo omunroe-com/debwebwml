@@ -79,23 +79,22 @@ msgid "Officers"
 msgstr "Predstavenstvo"
 
 #: ../../english/intro/organization.data:54
-#: ../../english/intro/organization.data:80
+#: ../../english/intro/organization.data:87
 msgid "Distribution"
 msgstr "Distribúcia"
 
 #: ../../english/intro/organization.data:55
-#: ../../english/intro/organization.data:224
+#: ../../english/intro/organization.data:229
 msgid "Communication and Outreach"
 msgstr "Komunikácia a PR"
 
 #: ../../english/intro/organization.data:56
-#: ../../english/intro/organization.data:227
-#| msgid "Publicity"
+#: ../../english/intro/organization.data:232
 msgid "Publicity team"
 msgstr "Marketingový tím"
 
 #: ../../english/intro/organization.data:57
-#: ../../english/intro/organization.data:295
+#: ../../english/intro/organization.data:300
 msgid "Support and Infrastructure"
 msgstr "Podpora a infraštruktúra"
 
@@ -112,180 +111,179 @@ msgstr "Vedúci"
 msgid "Technical Committee"
 msgstr "Technická komisia"
 
-#: ../../english/intro/organization.data:75
+#: ../../english/intro/organization.data:82
 msgid "Secretary"
 msgstr "Sekretár"
 
-#: ../../english/intro/organization.data:83
+#: ../../english/intro/organization.data:90
 msgid "Development Projects"
 msgstr "Vývojové projekty"
 
-#: ../../english/intro/organization.data:84
+#: ../../english/intro/organization.data:91
 msgid "FTP Archives"
 msgstr "FTP archívy"
 
-#: ../../english/intro/organization.data:86
+#: ../../english/intro/organization.data:93
 msgid "FTP Masters"
 msgstr "FTP Masters"
 
-#: ../../english/intro/organization.data:90
+#: ../../english/intro/organization.data:99
 msgid "FTP Assistants"
 msgstr "FTP asistenti"
 
-#: ../../english/intro/organization.data:99
+#: ../../english/intro/organization.data:104
 msgid "FTP Wizards"
 msgstr "FTP Wizards"
 
-#: ../../english/intro/organization.data:103
+#: ../../english/intro/organization.data:108
 msgid "Backports"
 msgstr "Spätné porty"
 
-#: ../../english/intro/organization.data:105
+#: ../../english/intro/organization.data:110
 msgid "Backports Team"
 msgstr "Tím spätných portov"
 
-#: ../../english/intro/organization.data:109
+#: ../../english/intro/organization.data:114
 msgid "Individual Packages"
 msgstr "Jednotlivé balíky"
 
-#: ../../english/intro/organization.data:110
+#: ../../english/intro/organization.data:115
 msgid "Release Management"
 msgstr "Správa vydaní"
 
-#: ../../english/intro/organization.data:112
+#: ../../english/intro/organization.data:117
 msgid "Release Team"
 msgstr "Tím vydania"
 
-#: ../../english/intro/organization.data:125
+#: ../../english/intro/organization.data:130
 msgid "Quality Assurance"
 msgstr "Zabezpečenie kvality"
 
-#: ../../english/intro/organization.data:126
+#: ../../english/intro/organization.data:131
 msgid "Installation System Team"
 msgstr "Tím inštalátora"
 
-#: ../../english/intro/organization.data:127
+#: ../../english/intro/organization.data:132
 msgid "Release Notes"
 msgstr "Poznámky k vydaniu"
 
-#: ../../english/intro/organization.data:129
+#: ../../english/intro/organization.data:134
 msgid "CD Images"
 msgstr "Obrazy CD"
 
-#: ../../english/intro/organization.data:131
+#: ../../english/intro/organization.data:136
 msgid "Production"
 msgstr "Produkcia"
 
-#: ../../english/intro/organization.data:139
+#: ../../english/intro/organization.data:144
 msgid "Testing"
 msgstr "Testovanie"
 
-#: ../../english/intro/organization.data:141
+#: ../../english/intro/organization.data:146
 msgid "Autobuilding infrastructure"
 msgstr "Infraštruktúra automatického zostavovania"
 
-#: ../../english/intro/organization.data:143
+#: ../../english/intro/organization.data:148
 msgid "Wanna-build team"
 msgstr "Tím wanna-build"
 
-#: ../../english/intro/organization.data:151
+#: ../../english/intro/organization.data:156
 msgid "Buildd administration"
 msgstr "Správa buildd"
 
-#: ../../english/intro/organization.data:170
+#: ../../english/intro/organization.data:175
 msgid "Documentation"
 msgstr "Dokumentácia"
 
-#: ../../english/intro/organization.data:175
+#: ../../english/intro/organization.data:180
 msgid "Work-Needing and Prospective Packages list"
 msgstr "Balíky, ktoré potrebujú pomoc a perspektívne balíky"
 
-#: ../../english/intro/organization.data:178
-msgid "Live System Team"
-msgstr "Tím Live systému"
+#: ../../english/intro/organization.data:183
+msgid "Debian Live Team"
+msgstr ""
 
-#: ../../english/intro/organization.data:179
+#: ../../english/intro/organization.data:184
 msgid "Ports"
 msgstr "Porty"
 
-#: ../../english/intro/organization.data:214
+#: ../../english/intro/organization.data:219
 msgid "Special Configurations"
 msgstr "Špeciálne konfigurácie"
 
-#: ../../english/intro/organization.data:217
+#: ../../english/intro/organization.data:222
 msgid "Laptops"
 msgstr "Notebooky"
 
-#: ../../english/intro/organization.data:218
+#: ../../english/intro/organization.data:223
 msgid "Firewalls"
 msgstr "Firewally"
 
-#: ../../english/intro/organization.data:219
+#: ../../english/intro/organization.data:224
 msgid "Embedded systems"
 msgstr "Vnorené systémy"
 
-#: ../../english/intro/organization.data:232
+#: ../../english/intro/organization.data:237
 msgid "Press Contact"
 msgstr "Tlačový kontakt"
 
-#: ../../english/intro/organization.data:234
+#: ../../english/intro/organization.data:239
 msgid "Web Pages"
 msgstr "Webstránky"
 
-#: ../../english/intro/organization.data:244
+#: ../../english/intro/organization.data:249
 msgid "Planet Debian"
 msgstr "Planet Debian"
 
-#: ../../english/intro/organization.data:249
+#: ../../english/intro/organization.data:254
 msgid "Outreach"
 msgstr "PR"
 
-#: ../../english/intro/organization.data:253
+#: ../../english/intro/organization.data:258
 msgid "Debian Women Project"
 msgstr "Projekt Ženy Debianu"
 
-#: ../../english/intro/organization.data:261
+#: ../../english/intro/organization.data:266
 msgid "Anti-harassment"
 msgstr "Boj proti obťažovaniu"
 
-#: ../../english/intro/organization.data:267
+#: ../../english/intro/organization.data:272
 msgid "Events"
 msgstr "Udalosti"
 
-#: ../../english/intro/organization.data:273
-#| msgid "Technical Committee"
+#: ../../english/intro/organization.data:278
 msgid "DebConf Committee"
 msgstr "Komisia DebConf"
 
-#: ../../english/intro/organization.data:280
+#: ../../english/intro/organization.data:285
 msgid "Partner Program"
 msgstr "Partnerský program"
 
-#: ../../english/intro/organization.data:285
+#: ../../english/intro/organization.data:290
 msgid "Hardware Donations Coordination"
 msgstr "Koordinácia darov hardvéru"
 
-#: ../../english/intro/organization.data:298
+#: ../../english/intro/organization.data:303
 msgid "User support"
 msgstr "Používateľská podpora"
 
-#: ../../english/intro/organization.data:365
+#: ../../english/intro/organization.data:370
 msgid "Bug Tracking System"
 msgstr "Systém sledovania chýb"
 
-#: ../../english/intro/organization.data:370
+#: ../../english/intro/organization.data:375
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Správa konferencií a archívov konferencií"
 
-#: ../../english/intro/organization.data:378
+#: ../../english/intro/organization.data:383
 msgid "New Members Front Desk"
 msgstr "Recepcia nových členov"
 
-#: ../../english/intro/organization.data:384
+#: ../../english/intro/organization.data:389
 msgid "Debian Account Managers"
 msgstr "Správcovia účtov Debianu"
 
-#: ../../english/intro/organization.data:389
+#: ../../english/intro/organization.data:393
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
@@ -293,31 +291,31 @@ msgstr ""
 "Ak chcete poslať súkromnú správu všetkým DAM, použite kľúč GPG "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
 
-#: ../../english/intro/organization.data:390
+#: ../../english/intro/organization.data:394
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Správcovia kľúčov (PGP a GPG)"
 
-#: ../../english/intro/organization.data:393
+#: ../../english/intro/organization.data:397
 msgid "Security Team"
 msgstr "Bezpečnostný tím"
 
-#: ../../english/intro/organization.data:406
+#: ../../english/intro/organization.data:409
 msgid "Consultants Page"
 msgstr "Stránka konzultantov"
 
-#: ../../english/intro/organization.data:411
+#: ../../english/intro/organization.data:414
 msgid "CD Vendors Page"
 msgstr "Stránka dodávateľov CD"
 
-#: ../../english/intro/organization.data:414
+#: ../../english/intro/organization.data:417
 msgid "Policy"
 msgstr "Politika"
 
-#: ../../english/intro/organization.data:419
+#: ../../english/intro/organization.data:422
 msgid "System Administration"
 msgstr "Správa systému"
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:423
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
@@ -326,7 +324,7 @@ msgstr ""
 "Debianu, aj v prípade že na nich potrebujete nainštalovať balík alebo máte "
 "problém s heslom."
 
-#: ../../english/intro/organization.data:430
+#: ../../english/intro/organization.data:432
 msgid ""
 "If you have hardware problems with Debian machines, please see <a href="
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
@@ -336,112 +334,81 @@ msgstr ""
 "\"https://db.debian.org/machines.cgi\">Strojov Debianu</a>, mala by "
 "obsahovať informácie o správcovi každého zo strojov."
 
-#: ../../english/intro/organization.data:431
+#: ../../english/intro/organization.data:433
 msgid "LDAP Developer Directory Administrator"
 msgstr "Správca LDAP adresára vývojárov"
 
-#: ../../english/intro/organization.data:432
+#: ../../english/intro/organization.data:434
 msgid "Mirrors"
 msgstr "Zrkadlá"
 
-#: ../../english/intro/organization.data:437
+#: ../../english/intro/organization.data:441
 msgid "DNS Maintainer"
 msgstr "Správca DNS"
 
-#: ../../english/intro/organization.data:438
+#: ../../english/intro/organization.data:442
 msgid "Package Tracking System"
 msgstr "Systém sledovania balíkov"
 
-#: ../../english/intro/organization.data:440
-msgid "Auditor"
-msgstr "Auditor"
+#: ../../english/intro/organization.data:444
+msgid "Treasurer"
+msgstr ""
 
-#: ../../english/intro/organization.data:446
-#| msgid "<a href=\"m4_HOME/trademark\">Trademark</a> use requests"
+#: ../../english/intro/organization.data:450
 msgid ""
 "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr ""
-"Žiadosti o použitie <a name=\"trademark\" href=\"m4_HOME/trademark\">"
-"ochranných známok</a>"
+"Žiadosti o použitie <a name=\"trademark\" href=\"m4_HOME/trademark"
+"\">ochranných známok</a>"
 
-#: ../../english/intro/organization.data:449
+#: ../../english/intro/organization.data:453
+#, fuzzy
+#| msgid "Alioth administrators"
+msgid "Salsa administrators"
+msgstr "Správcovia Alioth"
+
+#: ../../english/intro/organization.data:457
 msgid "Alioth administrators"
 msgstr "Správcovia Alioth"
 
-#: ../../english/intro/organization.data:462
+#: ../../english/intro/organization.data:470
 msgid "Debian for children from 1 to 99"
 msgstr "Debian pre deti od 1 do 99"
 
-#: ../../english/intro/organization.data:465
+#: ../../english/intro/organization.data:473
 msgid "Debian for medical practice and research"
 msgstr "Debian pre medicínsku prax a výskum"
 
-#: ../../english/intro/organization.data:468
+#: ../../english/intro/organization.data:476
 msgid "Debian for education"
 msgstr "Debian pre vzdelávanie"
 
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:481
 msgid "Debian in legal offices"
 msgstr "Debian v právnických kanceláriách"
 
-#: ../../english/intro/organization.data:477
+#: ../../english/intro/organization.data:485
 msgid "Debian for people with disabilities"
 msgstr "Debian pre ľudí s postihnutiami"
 
-#: ../../english/intro/organization.data:481
+#: ../../english/intro/organization.data:489
 msgid "Debian for science and related research"
 msgstr "Debian pre vedu a súvisiaci výskum"
 
-#~ msgid "Publicity"
-#~ msgstr "Publicita"
+#: ../../english/intro/organization.data:492
+#, fuzzy
+#| msgid "Debian for education"
+msgid "Debian for astronomy"
+msgstr "Debian pre vzdelávanie"
 
-#~ msgid "Bits from Debian"
-#~ msgstr "Čriepky z Debianu"
+#~ msgid "Testing Security Team"
+#~ msgstr "Bezpečnostný tím pre „testing“"
 
-#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
-#~ msgstr "Tím správcov zväzku kľúčov správcov Debianu (DM)"
+#~ msgid "Security Audit Project"
+#~ msgstr "Projekt Bezpečnostný audit"
 
-#~ msgid "DebConf chairs"
-#~ msgstr "Predsedovia DebConf"
-
-#~ msgid "Volatile Team"
-#~ msgstr "Tím volatile"
-
-#~ msgid "Vendors"
-#~ msgstr "Dodávatelia"
-
-#~ msgid "Handhelds"
-#~ msgstr "Handheldy"
-
-#~ msgid "Marketing Team"
-#~ msgstr "Marketingový tím"
-
-#~ msgid "Key Signing Coordination"
-#~ msgstr "Koordinácia podpisovania kľúčov"
-
-#~ msgid "Custom Debian Distributions"
-#~ msgstr "Prispôsobené distribúcie Debianu"
-
-#~ msgid "Release Team for ``stable''"
-#~ msgstr "Tím vydania „stable“"
-
-#~ msgid "Accountant"
-#~ msgstr "Účtovník"
-
-#~ msgid "The Universal Operating System as your Desktop"
-#~ msgstr "Univerzálny operačný systém pre pracovnú stanicu"
-
-#~ msgid "Debian for non-profit organisations"
-#~ msgstr "Debian pre neziskové organizácie"
-
-#~ msgid ""
-#~ "The admins responsible for buildd's for a particular arch can be reached "
-#~ "at <genericemail arch@buildd.debian.org>, for example <genericemail "
-#~ "i386@buildd.debian.org>."
-#~ msgstr ""
-#~ "Správcov zodpovedajúcich za buildd konkrétnej architekúry môžete "
-#~ "zastihnúť na <genericemail arch@buildd.debian.org>, napr. <genericemail "
-#~ "i386@buildd.debian.org>."
+#~ msgid "current Debian Project Leader"
+#~ msgstr "súčasný líder projektu Debian"
 
 #~ msgid ""
 #~ "Names of individual buildd's admins can also be found on <a href=\"http://"
@@ -452,11 +419,59 @@ msgstr "Debian pre vedu a súvisiaci výskum"
 #~ "buildd.net\">http://www.buildd.net</a>.  Vyberte si architektúru a "
 #~ "distribúciu pre ktorú chcete zobraziť správcov buildd."
 
-#~ msgid "current Debian Project Leader"
-#~ msgstr "súčasný líder projektu Debian"
+#~ msgid ""
+#~ "The admins responsible for buildd's for a particular arch can be reached "
+#~ "at <genericemail arch@buildd.debian.org>, for example <genericemail "
+#~ "i386@buildd.debian.org>."
+#~ msgstr ""
+#~ "Správcov zodpovedajúcich za buildd konkrétnej architekúry môžete "
+#~ "zastihnúť na <genericemail arch@buildd.debian.org>, napr. <genericemail "
+#~ "i386@buildd.debian.org>."
 
-#~ msgid "Security Audit Project"
-#~ msgstr "Projekt Bezpečnostný audit"
+#~ msgid "Debian for non-profit organisations"
+#~ msgstr "Debian pre neziskové organizácie"
 
-#~ msgid "Testing Security Team"
-#~ msgstr "Bezpečnostný tím pre „testing“"
+#~ msgid "The Universal Operating System as your Desktop"
+#~ msgstr "Univerzálny operačný systém pre pracovnú stanicu"
+
+#~ msgid "Accountant"
+#~ msgstr "Účtovník"
+
+#~ msgid "Release Team for ``stable''"
+#~ msgstr "Tím vydania „stable“"
+
+#~ msgid "Custom Debian Distributions"
+#~ msgstr "Prispôsobené distribúcie Debianu"
+
+#~ msgid "Key Signing Coordination"
+#~ msgstr "Koordinácia podpisovania kľúčov"
+
+#~ msgid "Marketing Team"
+#~ msgstr "Marketingový tím"
+
+#~ msgid "Handhelds"
+#~ msgstr "Handheldy"
+
+#~ msgid "Vendors"
+#~ msgstr "Dodávatelia"
+
+#~ msgid "Volatile Team"
+#~ msgstr "Tím volatile"
+
+#~ msgid "DebConf chairs"
+#~ msgstr "Predsedovia DebConf"
+
+#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
+#~ msgstr "Tím správcov zväzku kľúčov správcov Debianu (DM)"
+
+#~ msgid "Bits from Debian"
+#~ msgstr "Čriepky z Debianu"
+
+#~ msgid "Publicity"
+#~ msgstr "Publicita"
+
+#~ msgid "Auditor"
+#~ msgstr "Auditor"
+
+#~ msgid "Live System Team"
+#~ msgstr "Tím Live systému"

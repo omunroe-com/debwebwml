@@ -49,21 +49,8 @@ msgstr ""
 "  a mimo Debianu. Spravujte svoju domácu sieť pomocou network-manager atď.\n"
 "  10 percent ziskov z tejto knihy bude venovaných projektu Debian."
 
-#: ../../english/doc/books.data:59 ../../english/doc/books.data:185
-#: ../../english/doc/books.data:211
-#| msgid ""
-#| "Written by two Debian developers, this free book\n"
-#| "  started as a translation of their French best-seller known as Cahier "
-#| "de\n"
-#| "  l'admin Debian (published by Eyrolles). Accessible to all, this book\n"
-#| "  teaches the essentials to anyone who wants to become an effective and\n"
-#| "  independent Debian GNU/Linux administrator.  \n"
-#| "  It covers all the topics that a competent Linux administrator should\n"
-#| "  master, from the installation and the update of the system, up to the\n"
-#| "  creation of packages and the compilation of the kernel, but also\n"
-#| "  monitoring, backup and migration, without forgetting advanced topics\n"
-#| "  like SELinux setup to secure services, automated installations, or\n"
-#| "  virtualization with Xen, KVM or LXC."
+#: ../../english/doc/books.data:59 ../../english/doc/books.data:163
+#: ../../english/doc/books.data:216
 msgid ""
 "Written by two Debian developers, this free book\n"
 "  started as a translation of their French best-seller known as Cahier de\n"
@@ -105,31 +92,7 @@ msgstr ""
 "  používateľa, ktorý si sám nainštaluje a spravuje systém (či už\n"
 "  v domácnosti, v kancelárii, v klube alebo v škole)."
 
-#: ../../english/doc/books.data:93
-msgid "Debian 2.2 ARM architecture"
-msgstr "Debian 2.2 architektúra ARM"
-
-#: ../../english/doc/books.data:96
-msgid ""
-"This book is for developers working with GNU/Linux on ARM processors.\n"
-"  It covers some devices specifically for quick set-up (LART, Assabet, "
-"Psion5).\n"
-"  It also gives generic information, tools and techniques. The GNU\n"
-"  toolchain is covered in native and cross-compiler form, as are "
-"bootloaders,\n"
-"  kernel patches, RAMdisks, ARM peculiarities and other ARM resources. It "
-"also\n"
-"  includes extensive tutorial information on GNU/Linux basics for "
-"developers\n"
-"  coming from other platforms.\n"
-"  It is not specific to Debian, but the Aleph\n"
-"  ARMLinux distribution is closely based on Debian-ARM and it is assumed "
-"you\n"
-"  will be working from this distribution and preferably have a Debian based\n"
-"  host machine too."
-msgstr ""
-
-#: ../../english/doc/books.data:123
+#: ../../english/doc/books.data:101
 msgid ""
 "The first French book about Debian is already in its fifth edition. It\n"
 "  covers all aspects of the administration of Debian from the installation\n"
@@ -141,7 +104,7 @@ msgid ""
 "  administrator who wants to build a reliable network with Debian."
 msgstr ""
 
-#: ../../english/doc/books.data:142
+#: ../../english/doc/books.data:120
 msgid ""
 "The book covers topics ranging from concepts of package\n"
 "  management over the available tools and how they're used to concrete "
@@ -153,12 +116,28 @@ msgid ""
 "  PDF, ePub, Mobi), printed book planned.\n"
 msgstr ""
 
-#: ../../english/doc/books.data:162
+#: ../../english/doc/books.data:140
 msgid ""
 "This book teaches you how to install and configure the system and also how "
 "to use Debian in a professional environment.  It shows the full potential of "
 "the distribution (in its current version 8) and provides a practical manual "
 "for all users who want to learn more about Debian and its range of services."
+msgstr ""
+
+#: ../../english/doc/books.data:191
+msgid ""
+"Written by two penetration researcher - Annihilator, Firstblood.\n"
+"  This book teaches you how to build and configure Debian 8.x server system\n"
+"  security hardening using Kali Linux and Debian simultaneously.\n"
+"  DNS, FTP, SAMBA, DHCP, Apache2 webserver, etc.\n"
+"  From the perspective that 'the origin of Kali Linux is Debian', it "
+"explains\n"
+"  how to enhance Debian's security by applying the method of penetration\n"
+"  testing.\n"
+"  This book covers various security issues like SSL cerificates, UFW "
+"firewall,\n"
+"  MySQL Vulnerability, commercial Symantec antivirus, including Snort\n"
+"  intrusion detection system."
 msgstr ""
 
 #: ../../english/doc/books.def:38
@@ -213,13 +192,13 @@ msgstr "(verzia <get-var version />)"
 msgid "plain text"
 msgstr "čistý text"
 
-#: ../../english/doc/manuals.defs:154
+#: ../../english/doc/manuals.defs:154 ../../english/doc/manuals.defs:178
 msgid ""
 "The latest <get-var srctype /> source is available through the <a href="
-"\"https://www.debian.org/doc/cvs\">Subversion</a> repository."
+"\"https://packages.debian.org/git\">Git</a> repository."
 msgstr ""
-"Najnovší <get-var srctype /> zdrojový kód je dostupný z repozitára <a href=\""
-"https://www.debian.org/doc/cvs\">Subversion</a>."
+"Najnovší <get-var srctype /> zdrojový kód je dostupný z repozitára <a href="
+"\"https://packages.debian.org/git\">Git</a>."
 
 #: ../../english/doc/manuals.defs:156 ../../english/doc/manuals.defs:164
 #: ../../english/doc/manuals.defs:172 ../../english/doc/manuals.defs:180
@@ -236,24 +215,16 @@ msgid ""
 "The latest <get-var srctype /> source is available through the <a href="
 "\"https://packages.debian.org/cvs\">Cvs</a> repository."
 msgstr ""
-"Najnovší <get-var srctype /> zdrojový kód je dostupný z repozitára <a href=\""
-"https://packages.debian.org/cvs\">CVS</a>."
+"Najnovší <get-var srctype /> zdrojový kód je dostupný z repozitára <a href="
+"\"https://packages.debian.org/cvs\">CVS</a>."
 
 #: ../../english/doc/manuals.defs:170
 msgid ""
 "The latest <get-var srctype /> source is available through the <a href="
 "\"https://packages.debian.org/subversion\">Subversion</a> repository."
 msgstr ""
-"Najnovší <get-var srctype /> zdrojový kód je dostupný z repozitára <a href=\""
-"https://packages.debian.org/subversion\">Subversion</a>."
-
-#: ../../english/doc/manuals.defs:178
-msgid ""
-"The latest <get-var srctype /> source is available through the <a href="
-"\"https://packages.debian.org/git\">Git</a> repository."
-msgstr ""
-"Najnovší <get-var srctype /> zdrojový kód je dostupný z repozitára <a href=\""
-"https://packages.debian.org/git\">Git</a>."
+"Najnovší <get-var srctype /> zdrojový kód je dostupný z repozitára <a href="
+"\"https://packages.debian.org/subversion\">Subversion</a>."
 
 #: ../../english/doc/manuals.defs:188
 msgid ""
@@ -285,6 +256,9 @@ msgstr "HTML"
 msgid "PDF"
 msgstr "PDF"
 
+#~ msgid "Language:"
+#~ msgstr "Jazyk:"
+
 #~ msgid ""
 #~ "Use <a href=\"cvs\">SVN</a> to download the SGML source text for <get-var "
 #~ "ddp_pkg_loc />."
@@ -292,5 +266,12 @@ msgstr "PDF"
 #~ "Pomocou <a href=\"cvs\">SVN</a> si môžete stiahnuť zdrojový text <get-var "
 #~ "ddp_pkg_loc /> v SGML."
 
-#~ msgid "Language:"
-#~ msgstr "Jazyk:"
+#~ msgid ""
+#~ "The latest <get-var srctype /> source is available through the <a href="
+#~ "\"https://www.debian.org/doc/cvs\">Subversion</a> repository."
+#~ msgstr ""
+#~ "Najnovší <get-var srctype /> zdrojový kód je dostupný z repozitára <a "
+#~ "href=\"https://www.debian.org/doc/cvs\">Subversion</a>."
+
+#~ msgid "Debian 2.2 ARM architecture"
+#~ msgstr "Debian 2.2 architektúra ARM"

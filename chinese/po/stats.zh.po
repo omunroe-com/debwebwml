@@ -2,6 +2,14 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: zh\n"
+"X-Generator: Poedit 2.0.7\n"
 
 #: ../../english/template/debian/stats_tags.wml:6
 msgid "Debian web site translation statistics"
@@ -19,216 +27,225 @@ msgstr "一共有 %d [CN:字節:][HKTW:位元组:]需要翻譯。"
 msgid "There are %d strings to translate."
 msgstr "一共有 %d 個[CN:字符串:][HKTW:字串:]需要翻譯。"
 
-#: ../../stattrans.pl:239 ../../stattrans.pl:243
-msgid "This translation is too out of date"
-msgstr "此譯文太過時了"
-
-#: ../../stattrans.pl:241 ../../stattrans.pl:437
+#: ../../stattrans.pl:282 ../../stattrans.pl:506
 msgid "Wrong translation version"
 msgstr "譯文版本錯誤"
 
-#: ../../stattrans.pl:245
+#: ../../stattrans.pl:284
+msgid "This translation is too out of date"
+msgstr "此譯文太過時了"
+
+#: ../../stattrans.pl:286
 msgid "The original is newer than this translation"
 msgstr "原文比此譯文新"
 
-#: ../../stattrans.pl:248 ../../stattrans.pl:437
+#: ../../stattrans.pl:290 ../../stattrans.pl:506
 msgid "The original no longer exists"
 msgstr "原文不再存在"
 
-#: ../../stattrans.pl:413
+#: ../../stattrans.pl:482
 msgid "hit count N/A"
 msgstr ""
 
-#: ../../stattrans.pl:413
+#: ../../stattrans.pl:482
 msgid "hits"
 msgstr ""
 
-#: ../../stattrans.pl:431 ../../stattrans.pl:432
+#: ../../stattrans.pl:500 ../../stattrans.pl:501
 msgid "Click to fetch diffstat data"
 msgstr ""
 
-#: ../../stattrans.pl:446 ../../stattrans.pl:590 ../../stattrans.pl:591
+#: ../../stattrans.pl:516 ../../stattrans.pl:679 ../../stattrans.pl:680
 msgid "Unified diff"
-msgstr ""
+msgstr "合并差异"
 
-#: ../../stattrans.pl:449 ../../stattrans.pl:590 ../../stattrans.pl:591
+#: ../../stattrans.pl:519 ../../stattrans.pl:679 ../../stattrans.pl:680
 msgid "Colored diff"
+msgstr "带颜色差异"
+
+#: ../../stattrans.pl:524 ../../stattrans.pl:683
+msgid "Commit diff"
+msgstr "提交差异"
+
+#. FIXME - this is clearly wrong, but no idea what's meant to go here!
+#: ../../stattrans.pl:528 ../../stattrans.pl:683
+msgid "Git command line"
 msgstr ""
 
-#: ../../stattrans.pl:551 ../../stattrans.pl:693
+#: ../../stattrans.pl:639 ../../stattrans.pl:785
 msgid "Created with <transstatslink>"
-msgstr ""
+msgstr "使用 <transstatslink> 创建"
 
-#: ../../stattrans.pl:556
+#: ../../stattrans.pl:644
 msgid "Translation summary for"
 msgstr "翻譯概要 for"
 
-#: ../../stattrans.pl:559 ../../stattrans.pl:717 ../../stattrans.pl:763
-#: ../../stattrans.pl:806
+#: ../../stattrans.pl:647 ../../stattrans.pl:809 ../../stattrans.pl:855
+#: ../../stattrans.pl:898
 msgid "Not translated"
 msgstr "未翻譯"
 
-#: ../../stattrans.pl:559 ../../stattrans.pl:716 ../../stattrans.pl:762
+#: ../../stattrans.pl:647 ../../stattrans.pl:808 ../../stattrans.pl:854
 msgid "Outdated"
 msgstr "過時"
 
-#: ../../stattrans.pl:559
+#: ../../stattrans.pl:647
 msgid "Translated"
 msgstr "已翻譯"
 
-#: ../../stattrans.pl:559 ../../stattrans.pl:641 ../../stattrans.pl:715
-#: ../../stattrans.pl:761 ../../stattrans.pl:804
+#: ../../stattrans.pl:647 ../../stattrans.pl:733 ../../stattrans.pl:807
+#: ../../stattrans.pl:853 ../../stattrans.pl:896
 msgid "Up to date"
 msgstr "最新"
 
-#: ../../stattrans.pl:560 ../../stattrans.pl:561 ../../stattrans.pl:562
-#: ../../stattrans.pl:563
+#: ../../stattrans.pl:648 ../../stattrans.pl:649 ../../stattrans.pl:650
+#: ../../stattrans.pl:651
 msgid "files"
 msgstr "個[CN:文件:][HKTW:檔案:]"
 
-#: ../../stattrans.pl:566 ../../stattrans.pl:567 ../../stattrans.pl:568
-#: ../../stattrans.pl:569
+#: ../../stattrans.pl:654 ../../stattrans.pl:655 ../../stattrans.pl:656
+#: ../../stattrans.pl:657
 msgid "bytes"
 msgstr "[CN:字節:][HKTW:位元組:]"
 
-#: ../../stattrans.pl:576
+#: ../../stattrans.pl:664
 msgid ""
 "Note: the lists of pages are sorted by popularity. Hover over the page name "
 "to see the number of hits."
 msgstr ""
 
-#: ../../stattrans.pl:582
+#: ../../stattrans.pl:670
 msgid "Outdated translations"
 msgstr "過時的翻譯"
 
-#: ../../stattrans.pl:584 ../../stattrans.pl:640
+#: ../../stattrans.pl:672 ../../stattrans.pl:732
 msgid "File"
 msgstr "[CN:文件:][HKTW:檔案:]"
 
-#: ../../stattrans.pl:586 ../../stattrans.pl:592
+#: ../../stattrans.pl:674 ../../stattrans.pl:681
 msgid "Diff"
 msgstr ""
 
-#: ../../stattrans.pl:588
+#: ../../stattrans.pl:676
 msgid "Comment"
 msgstr "備註"
 
-#: ../../stattrans.pl:589
+#: ../../stattrans.pl:677
 msgid "Diffstat"
 msgstr ""
 
-#: ../../stattrans.pl:594
+#: ../../stattrans.pl:686
 msgid "Log"
 msgstr "日誌"
 
-#: ../../stattrans.pl:595
+#: ../../stattrans.pl:687
 msgid "Translation"
 msgstr "譯文"
 
-#: ../../stattrans.pl:596
+#: ../../stattrans.pl:688
 msgid "Maintainer"
 msgstr "維護者"
 
-#: ../../stattrans.pl:598
+#: ../../stattrans.pl:690
 msgid "Status"
 msgstr "狀態"
 
-#: ../../stattrans.pl:599
+#: ../../stattrans.pl:691
 msgid "Translator"
 msgstr "翻譯者"
 
-#: ../../stattrans.pl:600
+#: ../../stattrans.pl:692
 msgid "Date"
 msgstr "日期"
 
-#: ../../stattrans.pl:607
+#: ../../stattrans.pl:699
 msgid "General pages not translated"
 msgstr "未翻譯的一般頁面"
 
-#: ../../stattrans.pl:608
+#: ../../stattrans.pl:700
 msgid "Untranslated general pages"
 msgstr "未翻譯的一般頁面"
 
-#: ../../stattrans.pl:613
+#: ../../stattrans.pl:705
 msgid "News items not translated"
 msgstr "未翻譯的新聞"
 
-#: ../../stattrans.pl:614
+#: ../../stattrans.pl:706
 msgid "Untranslated news items"
 msgstr "未翻譯的新聞"
 
-#: ../../stattrans.pl:619
+#: ../../stattrans.pl:711
 msgid "Consultant/user pages not translated"
 msgstr "未翻譯的顧問/[CN:用戶:][HKTW:使用者:]頁面"
 
-#: ../../stattrans.pl:620
+#: ../../stattrans.pl:712
 msgid "Untranslated consultant/user pages"
 msgstr "未翻譯的顧問/[CN:用戶:][HKTW:使用者:]頁面"
 
-#: ../../stattrans.pl:625
+#: ../../stattrans.pl:717
 msgid "International pages not translated"
 msgstr "未翻譯的國際頁面"
 
-#: ../../stattrans.pl:626
+#: ../../stattrans.pl:718
 msgid "Untranslated international pages"
 msgstr "未翻譯的國際頁面"
 
-#: ../../stattrans.pl:631
+#: ../../stattrans.pl:723
 msgid "Translated pages (up-to-date)"
 msgstr "已翻譯頁面 (最新)"
 
-#: ../../stattrans.pl:638 ../../stattrans.pl:788
+#: ../../stattrans.pl:730 ../../stattrans.pl:880
 msgid "Translated templates (PO files)"
 msgstr "已翻譯模板 (PO [CN:文件:][HKTW:檔案:])"
 
-#: ../../stattrans.pl:639 ../../stattrans.pl:791
+#: ../../stattrans.pl:731 ../../stattrans.pl:883
 msgid "PO Translation Statistics"
 msgstr "PO 翻譯統計"
 
-#: ../../stattrans.pl:642 ../../stattrans.pl:805
+#: ../../stattrans.pl:734 ../../stattrans.pl:897
 msgid "Fuzzy"
 msgstr "模糊"
 
-#: ../../stattrans.pl:643
+#: ../../stattrans.pl:735
 msgid "Untranslated"
 msgstr "未翻譯"
 
-#: ../../stattrans.pl:644
+#: ../../stattrans.pl:736
 #, fuzzy
 #| msgid "Total:"
 msgid "Total"
 msgstr "總數："
 
-#: ../../stattrans.pl:661
+#: ../../stattrans.pl:753
 msgid "Total:"
 msgstr "總數："
 
-#: ../../stattrans.pl:695
+#: ../../stattrans.pl:787
 msgid "Translated web pages"
 msgstr "已翻譯網頁"
 
-#: ../../stattrans.pl:698
+#: ../../stattrans.pl:790
 msgid "Translation Statistics by Page Count"
 msgstr "翻譯統計，按頁面數量"
 
-#: ../../stattrans.pl:713 ../../stattrans.pl:759 ../../stattrans.pl:803
+#: ../../stattrans.pl:805 ../../stattrans.pl:851 ../../stattrans.pl:895
 msgid "Language"
 msgstr "語言"
 
-#: ../../stattrans.pl:714 ../../stattrans.pl:760
+#: ../../stattrans.pl:806 ../../stattrans.pl:852
 msgid "Translations"
 msgstr "翻譯"
 
-#: ../../stattrans.pl:741
+#: ../../stattrans.pl:833
 msgid "Translated web pages (by size)"
 msgstr "已翻譯網頁（按[CN:文件:][HKTW:檔案:]大小）"
 
-#: ../../stattrans.pl:744
+#: ../../stattrans.pl:836
 msgid "Translation Statistics by Page Size"
 msgstr "翻譯統計，按頁面大小"
 
-#~ msgid "Origin"
-#~ msgstr "原文"
-
 #~ msgid "Created with"
 #~ msgstr "此網頁創建工具："
+
+#~ msgid "Origin"
+#~ msgstr "原文"

@@ -77,24 +77,24 @@ msgid "Officers"
 msgstr "Официални длъжности"
 
 #: ../../english/intro/organization.data:54
-#: ../../english/intro/organization.data:80
+#: ../../english/intro/organization.data:87
 msgid "Distribution"
 msgstr "Дистрибуция"
 
 #: ../../english/intro/organization.data:55
-#: ../../english/intro/organization.data:224
+#: ../../english/intro/organization.data:229
 msgid "Communication and Outreach"
 msgstr ""
 
 #: ../../english/intro/organization.data:56
-#: ../../english/intro/organization.data:227
+#: ../../english/intro/organization.data:232
 #, fuzzy
 #| msgid "Publicity"
 msgid "Publicity team"
 msgstr "Публичност"
 
 #: ../../english/intro/organization.data:57
-#: ../../english/intro/organization.data:295
+#: ../../english/intro/organization.data:300
 msgid "Support and Infrastructure"
 msgstr "Поддръжка и инфраструктура"
 
@@ -111,211 +111,211 @@ msgstr "Лидер"
 msgid "Technical Committee"
 msgstr "Техническа комисия"
 
-#: ../../english/intro/organization.data:75
+#: ../../english/intro/organization.data:82
 msgid "Secretary"
 msgstr "Секретар"
 
-#: ../../english/intro/organization.data:83
+#: ../../english/intro/organization.data:90
 msgid "Development Projects"
 msgstr "Разработка"
 
-#: ../../english/intro/organization.data:84
+#: ../../english/intro/organization.data:91
 msgid "FTP Archives"
 msgstr "FTP архиви"
 
-#: ../../english/intro/organization.data:86
+#: ../../english/intro/organization.data:93
 msgid "FTP Masters"
 msgstr "Магьосник на FTP"
 
-#: ../../english/intro/organization.data:90
+#: ../../english/intro/organization.data:99
 msgid "FTP Assistants"
 msgstr "Асистенти"
 
-#: ../../english/intro/organization.data:99
+#: ../../english/intro/organization.data:104
 msgid "FTP Wizards"
 msgstr "Магьосници на FTP"
 
-#: ../../english/intro/organization.data:103
+#: ../../english/intro/organization.data:108
 msgid "Backports"
 msgstr "Обновени пакети за стабилното издание"
 
-#: ../../english/intro/organization.data:105
+#: ../../english/intro/organization.data:110
 msgid "Backports Team"
 msgstr "Екип за поддържане на обновените пакети за стабилното издание"
 
-#: ../../english/intro/organization.data:109
+#: ../../english/intro/organization.data:114
 msgid "Individual Packages"
 msgstr "Отделни пакети"
 
-#: ../../english/intro/organization.data:110
+#: ../../english/intro/organization.data:115
 msgid "Release Management"
 msgstr "Управление на изданията"
 
-#: ../../english/intro/organization.data:112
+#: ../../english/intro/organization.data:117
 msgid "Release Team"
 msgstr "Екип по изданията"
 
-#: ../../english/intro/organization.data:125
+#: ../../english/intro/organization.data:130
 msgid "Quality Assurance"
 msgstr "Контрол на качеството"
 
-#: ../../english/intro/organization.data:126
+#: ../../english/intro/organization.data:131
 msgid "Installation System Team"
 msgstr "Екип по инсталационната система"
 
-#: ../../english/intro/organization.data:127
+#: ../../english/intro/organization.data:132
 msgid "Release Notes"
 msgstr "Бележки по изданията"
 
-#: ../../english/intro/organization.data:129
+#: ../../english/intro/organization.data:134
 msgid "CD Images"
 msgstr "Образи на компактдискове"
 
-#: ../../english/intro/organization.data:131
+#: ../../english/intro/organization.data:136
 msgid "Production"
 msgstr "Производство"
 
-#: ../../english/intro/organization.data:139
+#: ../../english/intro/organization.data:144
 msgid "Testing"
 msgstr "Тестване"
 
-#: ../../english/intro/organization.data:141
+#: ../../english/intro/organization.data:146
 msgid "Autobuilding infrastructure"
 msgstr "Инфраструктура за автоматично компилиране на пакети"
 
-#: ../../english/intro/organization.data:143
+#: ../../english/intro/organization.data:148
 msgid "Wanna-build team"
 msgstr "Екип на wanna-build"
 
-#: ../../english/intro/organization.data:151
+#: ../../english/intro/organization.data:156
 msgid "Buildd administration"
 msgstr "Администриране на buildd"
 
-#: ../../english/intro/organization.data:170
+#: ../../english/intro/organization.data:175
 msgid "Documentation"
 msgstr "Документация"
 
-#: ../../english/intro/organization.data:175
+#: ../../english/intro/organization.data:180
 msgid "Work-Needing and Prospective Packages list"
 msgstr "Списък на незавършени и планирани пакети"
 
-#: ../../english/intro/organization.data:178
-msgid "Live System Team"
-msgstr "Екип на живата система"
+#: ../../english/intro/organization.data:183
+msgid "Debian Live Team"
+msgstr ""
 
-#: ../../english/intro/organization.data:179
+#: ../../english/intro/organization.data:184
 msgid "Ports"
 msgstr "Архитектури"
 
-#: ../../english/intro/organization.data:214
+#: ../../english/intro/organization.data:219
 msgid "Special Configurations"
 msgstr "Специални конфигурации"
 
-#: ../../english/intro/organization.data:217
+#: ../../english/intro/organization.data:222
 msgid "Laptops"
 msgstr "Преносими компютри"
 
-#: ../../english/intro/organization.data:218
+#: ../../english/intro/organization.data:223
 msgid "Firewalls"
 msgstr "Защитни стени"
 
-#: ../../english/intro/organization.data:219
+#: ../../english/intro/organization.data:224
 msgid "Embedded systems"
 msgstr "Системи за вграждане"
 
-#: ../../english/intro/organization.data:232
+#: ../../english/intro/organization.data:237
 msgid "Press Contact"
 msgstr "Контакт с пресата"
 
-#: ../../english/intro/organization.data:234
+#: ../../english/intro/organization.data:239
 msgid "Web Pages"
 msgstr "Уеб-страници"
 
-#: ../../english/intro/organization.data:244
+#: ../../english/intro/organization.data:249
 msgid "Planet Debian"
 msgstr "Планета Дебиан"
 
-#: ../../english/intro/organization.data:249
+#: ../../english/intro/organization.data:254
 msgid "Outreach"
 msgstr ""
 
-#: ../../english/intro/organization.data:253
+#: ../../english/intro/organization.data:258
 msgid "Debian Women Project"
 msgstr "Проект Жени в Дебиан"
 
-#: ../../english/intro/organization.data:261
+#: ../../english/intro/organization.data:266
 msgid "Anti-harassment"
 msgstr "Без тормоз"
 
-#: ../../english/intro/organization.data:267
+#: ../../english/intro/organization.data:272
 msgid "Events"
 msgstr "Събития"
 
-#: ../../english/intro/organization.data:273
+#: ../../english/intro/organization.data:278
 #, fuzzy
 #| msgid "Technical Committee"
 msgid "DebConf Committee"
 msgstr "Техническа комисия"
 
-#: ../../english/intro/organization.data:280
+#: ../../english/intro/organization.data:285
 msgid "Partner Program"
 msgstr "Партньоркса програма"
 
-#: ../../english/intro/organization.data:285
+#: ../../english/intro/organization.data:290
 msgid "Hardware Donations Coordination"
 msgstr "Координация на хардуерни дарения"
 
-#: ../../english/intro/organization.data:298
+#: ../../english/intro/organization.data:303
 msgid "User support"
 msgstr "Поддръжка за потребители"
 
-#: ../../english/intro/organization.data:365
+#: ../../english/intro/organization.data:370
 msgid "Bug Tracking System"
 msgstr "Система за следене на грешки"
 
-#: ../../english/intro/organization.data:370
+#: ../../english/intro/organization.data:375
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Администрация и архив на пощенските списъци"
 
-#: ../../english/intro/organization.data:378
+#: ../../english/intro/organization.data:383
 msgid "New Members Front Desk"
 msgstr "Портал за кандидат-членове"
 
-#: ../../english/intro/organization.data:384
+#: ../../english/intro/organization.data:389
 msgid "Debian Account Managers"
 msgstr "Администратори на членството в проекта"
 
-#: ../../english/intro/organization.data:389
+#: ../../english/intro/organization.data:393
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
 msgstr ""
 
-#: ../../english/intro/organization.data:390
+#: ../../english/intro/organization.data:394
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Отговорници за ключодържателите (PGP и GPG)"
 
-#: ../../english/intro/organization.data:393
+#: ../../english/intro/organization.data:397
 msgid "Security Team"
 msgstr "Екип по сигурността"
 
-#: ../../english/intro/organization.data:406
+#: ../../english/intro/organization.data:409
 msgid "Consultants Page"
 msgstr "Страница на консултантите"
 
-#: ../../english/intro/organization.data:411
+#: ../../english/intro/organization.data:414
 msgid "CD Vendors Page"
 msgstr "Страница на търговците на компактдискове"
 
-#: ../../english/intro/organization.data:414
+#: ../../english/intro/organization.data:417
 msgid "Policy"
 msgstr "Правилник"
 
-#: ../../english/intro/organization.data:419
+#: ../../english/intro/organization.data:422
 msgid "System Administration"
 msgstr "Системна администрация"
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:423
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
@@ -323,7 +323,7 @@ msgstr ""
 "Това е адресът, на който да съобщите при проблеми с някоя от машините на "
 "Дебиан, включително проблеми с паролата или липса на пакети."
 
-#: ../../english/intro/organization.data:430
+#: ../../english/intro/organization.data:432
 msgid ""
 "If you have hardware problems with Debian machines, please see <a href="
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
@@ -333,27 +333,27 @@ msgstr ""
 "страницата <a href=\"https://db.debian.org/machines.cgi\">Машини на Дебиан</"
 "a>, която може да съдържа информация за администратора на конкретната машина."
 
-#: ../../english/intro/organization.data:431
+#: ../../english/intro/organization.data:433
 msgid "LDAP Developer Directory Administrator"
 msgstr "Администратор на директорията на разработчиците в LDAP"
 
-#: ../../english/intro/organization.data:432
+#: ../../english/intro/organization.data:434
 msgid "Mirrors"
 msgstr "Огледални сървъри"
 
-#: ../../english/intro/organization.data:437
+#: ../../english/intro/organization.data:441
 msgid "DNS Maintainer"
 msgstr "Отговорник за DNS"
 
-#: ../../english/intro/organization.data:438
+#: ../../english/intro/organization.data:442
 msgid "Package Tracking System"
 msgstr "Система за следене на пакетите"
 
-#: ../../english/intro/organization.data:440
-msgid "Auditor"
-msgstr "Одитор"
+#: ../../english/intro/organization.data:444
+msgid "Treasurer"
+msgstr ""
 
-#: ../../english/intro/organization.data:446
+#: ../../english/intro/organization.data:450
 #, fuzzy
 #| msgid "<a href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgid ""
@@ -362,66 +362,84 @@ msgstr ""
 "запитвания за използването на <a href=\"m4_HOME/trademark\">търговските "
 "марки</a>"
 
-#: ../../english/intro/organization.data:449
+#: ../../english/intro/organization.data:453
+#, fuzzy
+#| msgid "Alioth administrators"
+msgid "Salsa administrators"
+msgstr "Администратори на Alioth"
+
+#: ../../english/intro/organization.data:457
 msgid "Alioth administrators"
 msgstr "Администратори на Alioth"
 
-#: ../../english/intro/organization.data:462
+#: ../../english/intro/organization.data:470
 msgid "Debian for children from 1 to 99"
 msgstr "Дебиан за деца от 1 до 99г."
 
-#: ../../english/intro/organization.data:465
+#: ../../english/intro/organization.data:473
 msgid "Debian for medical practice and research"
 msgstr "Дебиан за медицински практики и разработки"
 
-#: ../../english/intro/organization.data:468
+#: ../../english/intro/organization.data:476
 msgid "Debian for education"
 msgstr "Дебиан за образователни цели"
 
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:481
 msgid "Debian in legal offices"
 msgstr "Дебиан за правни кантори"
 
-#: ../../english/intro/organization.data:477
+#: ../../english/intro/organization.data:485
 msgid "Debian for people with disabilities"
 msgstr "Дебиан за хора с увреждания"
 
-#: ../../english/intro/organization.data:481
+#: ../../english/intro/organization.data:489
 msgid "Debian for science and related research"
 msgstr "Дебиан за научни изследвания"
 
-#~ msgid "Publicity"
-#~ msgstr "Публичност"
+#: ../../english/intro/organization.data:492
+#, fuzzy
+#| msgid "Debian for education"
+msgid "Debian for astronomy"
+msgstr "Дебиан за образователни цели"
 
-#~ msgid "Bits from Debian"
-#~ msgstr "Кратки новини за Дебиан"
+#~ msgid "current Debian Project Leader"
+#~ msgstr "текущ лидер на проекта"
 
-#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
-#~ msgstr "Отговорници за ключодържателите (DM)"
+#~ msgid "Summer of Code 2013 Administrators"
+#~ msgstr "Отговорници за програмата „Програмиране през лятото 2013“"
 
-#~ msgid "DebConf chairs"
-#~ msgstr "Ръководство на ДебКонф"
+#~ msgid "Alpha (Not active: was not released with squeeze)"
+#~ msgstr "Alpha (Неактивна, не е част от изданието squeeze)"
 
-#~ msgid "Testing Security Team"
-#~ msgstr "Екип по сигурността на тестовата дистрибуция"
+#~ msgid "Handhelds"
+#~ msgstr "Джобни компютри"
 
-#~ msgid "Security Audit Project"
-#~ msgstr "Проект за одит на сигурността"
+#~ msgid "Marketing Team"
+#~ msgstr "Маркетингов екип"
 
-#~ msgid "Volatile Team"
-#~ msgstr "Екип на volatile"
+#~ msgid "Key Signing Coordination"
+#~ msgstr "Координация на подписване на ключовете"
 
-#~ msgid "Vendors"
-#~ msgstr "Търговци"
+#~ msgid "Custom Debian Distributions"
+#~ msgstr "Специализирани дистрибуции"
 
-#~ msgid "Debian for non-profit organisations"
-#~ msgstr "Дебиан за организации с идеална цел"
+#~ msgid "Release Managers for ``stable''"
+#~ msgstr "Управители на стабилните идания"
 
-#~ msgid "The Universal Operating System as your Desktop"
-#~ msgstr "Универсалната операционна система"
+#~ msgid "Release Assistants"
+#~ msgstr "Асистенти"
 
-#~ msgid "Accountant"
-#~ msgstr "Счетоводител"
+#~ msgid "APT Team"
+#~ msgstr "Екип APT"
+
+#~ msgid ""
+#~ "The admins responsible for buildd's for a particular arch can be reached "
+#~ "at <genericemail arch@buildd.debian.org>, for example <genericemail "
+#~ "i386@buildd.debian.org>."
+#~ msgstr ""
+#~ "Администраторите отговорни за buildd на дадена архитектура могат да бъдат "
+#~ "открити на <genericemail архитекрура@buildd.debian.org>, например "
+#~ "<genericemail i386@buildd.debian.org>."
 
 #~ msgid ""
 #~ "Names of individual buildd's admins can also be found on <a href=\"http://"
@@ -433,41 +451,41 @@ msgstr "Дебиан за научни изследвания"
 #~ "артхитектура и дистрибуция за да видите наличните buildd и техните "
 #~ "администратори."
 
-#~ msgid ""
-#~ "The admins responsible for buildd's for a particular arch can be reached "
-#~ "at <genericemail arch@buildd.debian.org>, for example <genericemail "
-#~ "i386@buildd.debian.org>."
-#~ msgstr ""
-#~ "Администраторите отговорни за buildd на дадена архитектура могат да бъдат "
-#~ "открити на <genericemail архитекрура@buildd.debian.org>, например "
-#~ "<genericemail i386@buildd.debian.org>."
+#~ msgid "Accountant"
+#~ msgstr "Счетоводител"
 
-#~ msgid "APT Team"
-#~ msgstr "Екип APT"
+#~ msgid "The Universal Operating System as your Desktop"
+#~ msgstr "Универсалната операционна система"
 
-#~ msgid "Release Assistants"
-#~ msgstr "Асистенти"
+#~ msgid "Debian for non-profit organisations"
+#~ msgstr "Дебиан за организации с идеална цел"
 
-#~ msgid "Release Managers for ``stable''"
-#~ msgstr "Управители на стабилните идания"
+#~ msgid "Vendors"
+#~ msgstr "Търговци"
 
-#~ msgid "Custom Debian Distributions"
-#~ msgstr "Специализирани дистрибуции"
+#~ msgid "Volatile Team"
+#~ msgstr "Екип на volatile"
 
-#~ msgid "Key Signing Coordination"
-#~ msgstr "Координация на подписване на ключовете"
+#~ msgid "Security Audit Project"
+#~ msgstr "Проект за одит на сигурността"
 
-#~ msgid "Marketing Team"
-#~ msgstr "Маркетингов екип"
+#~ msgid "Testing Security Team"
+#~ msgstr "Екип по сигурността на тестовата дистрибуция"
 
-#~ msgid "Handhelds"
-#~ msgstr "Джобни компютри"
+#~ msgid "DebConf chairs"
+#~ msgstr "Ръководство на ДебКонф"
 
-#~ msgid "Alpha (Not active: was not released with squeeze)"
-#~ msgstr "Alpha (Неактивна, не е част от изданието squeeze)"
+#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
+#~ msgstr "Отговорници за ключодържателите (DM)"
 
-#~ msgid "Summer of Code 2013 Administrators"
-#~ msgstr "Отговорници за програмата „Програмиране през лятото 2013“"
+#~ msgid "Bits from Debian"
+#~ msgstr "Кратки новини за Дебиан"
 
-#~ msgid "current Debian Project Leader"
-#~ msgstr "текущ лидер на проекта"
+#~ msgid "Publicity"
+#~ msgstr "Публичност"
+
+#~ msgid "Auditor"
+#~ msgstr "Одитор"
+
+#~ msgid "Live System Team"
+#~ msgstr "Екип на живата система"

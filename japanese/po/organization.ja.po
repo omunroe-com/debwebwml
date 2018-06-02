@@ -72,22 +72,22 @@ msgid "Officers"
 msgstr "執行部"
 
 #: ../../english/intro/organization.data:54
-#: ../../english/intro/organization.data:80
+#: ../../english/intro/organization.data:87
 msgid "Distribution"
 msgstr "ディストリビューション"
 
 #: ../../english/intro/organization.data:55
-#: ../../english/intro/organization.data:224
+#: ../../english/intro/organization.data:229
 msgid "Communication and Outreach"
 msgstr ""
 
 #: ../../english/intro/organization.data:56
-#: ../../english/intro/organization.data:227
+#: ../../english/intro/organization.data:232
 msgid "Publicity team"
 msgstr "広報チーム"
 
 #: ../../english/intro/organization.data:57
-#: ../../english/intro/organization.data:295
+#: ../../english/intro/organization.data:300
 msgid "Support and Infrastructure"
 msgstr "サポートと設備"
 
@@ -104,181 +104,181 @@ msgstr "リーダー"
 msgid "Technical Committee"
 msgstr "技術委員会"
 
-#: ../../english/intro/organization.data:75
+#: ../../english/intro/organization.data:82
 msgid "Secretary"
 msgstr "書記"
 
-#: ../../english/intro/organization.data:83
+#: ../../english/intro/organization.data:90
 msgid "Development Projects"
 msgstr "開発プロジェクト"
 
-#: ../../english/intro/organization.data:84
+#: ../../english/intro/organization.data:91
 msgid "FTP Archives"
 msgstr "FTP アーカイブ"
 
-#: ../../english/intro/organization.data:86
+#: ../../english/intro/organization.data:93
 msgid "FTP Masters"
 msgstr "FTP マスター"
 
-#: ../../english/intro/organization.data:90
+#: ../../english/intro/organization.data:99
 msgid "FTP Assistants"
 msgstr "FTP アシスタント"
 
-#: ../../english/intro/organization.data:99
+#: ../../english/intro/organization.data:104
 msgid "FTP Wizards"
 msgstr "FTP ウィザード"
 
-#: ../../english/intro/organization.data:103
+#: ../../english/intro/organization.data:108
 msgid "Backports"
 msgstr "Backports"
 
-#: ../../english/intro/organization.data:105
+#: ../../english/intro/organization.data:110
 msgid "Backports Team"
 msgstr "Backports チーム"
 
-#: ../../english/intro/organization.data:109
+#: ../../english/intro/organization.data:114
 msgid "Individual Packages"
 msgstr "個々のパッケージ"
 
-#: ../../english/intro/organization.data:110
+#: ../../english/intro/organization.data:115
 msgid "Release Management"
 msgstr "リリース管理"
 
-#: ../../english/intro/organization.data:112
+#: ../../english/intro/organization.data:117
 msgid "Release Team"
 msgstr "リリースチーム"
 
-#: ../../english/intro/organization.data:125
+#: ../../english/intro/organization.data:130
 msgid "Quality Assurance"
 msgstr "品質保証"
 
-#: ../../english/intro/organization.data:126
+#: ../../english/intro/organization.data:131
 msgid "Installation System Team"
 msgstr "インストールシステムチーム"
 
-#: ../../english/intro/organization.data:127
+#: ../../english/intro/organization.data:132
 msgid "Release Notes"
 msgstr "リリースノート"
 
-#: ../../english/intro/organization.data:129
+#: ../../english/intro/organization.data:134
 msgid "CD Images"
 msgstr "CD イメージ"
 
-#: ../../english/intro/organization.data:131
+#: ../../english/intro/organization.data:136
 msgid "Production"
 msgstr "製品"
 
-#: ../../english/intro/organization.data:139
+#: ../../english/intro/organization.data:144
 msgid "Testing"
 msgstr "テスト"
 
-#: ../../english/intro/organization.data:141
+#: ../../english/intro/organization.data:146
 msgid "Autobuilding infrastructure"
 msgstr "オートビルドインフラ"
 
-#: ../../english/intro/organization.data:143
+#: ../../english/intro/organization.data:148
 msgid "Wanna-build team"
 msgstr "ビルド要求チーム"
 
-#: ../../english/intro/organization.data:151
+#: ../../english/intro/organization.data:156
 msgid "Buildd administration"
 msgstr "ビルドデーモン管理"
 
-#: ../../english/intro/organization.data:170
+#: ../../english/intro/organization.data:175
 msgid "Documentation"
 msgstr "ドキュメンテーション"
 
-#: ../../english/intro/organization.data:175
+#: ../../english/intro/organization.data:180
 msgid "Work-Needing and Prospective Packages list"
 msgstr "作業の必要なパッケージ一覧"
 
-#: ../../english/intro/organization.data:178
-msgid "Live System Team"
-msgstr "ライブシステムチーム"
+#: ../../english/intro/organization.data:183
+msgid "Debian Live Team"
+msgstr ""
 
-#: ../../english/intro/organization.data:179
+#: ../../english/intro/organization.data:184
 msgid "Ports"
 msgstr "移植"
 
-#: ../../english/intro/organization.data:214
+#: ../../english/intro/organization.data:219
 msgid "Special Configurations"
 msgstr "特殊な設定"
 
-#: ../../english/intro/organization.data:217
+#: ../../english/intro/organization.data:222
 msgid "Laptops"
 msgstr "ラップトップ"
 
-#: ../../english/intro/organization.data:218
+#: ../../english/intro/organization.data:223
 msgid "Firewalls"
 msgstr "ファイアウォール"
 
-#: ../../english/intro/organization.data:219
+#: ../../english/intro/organization.data:224
 msgid "Embedded systems"
 msgstr "組み込みシステム"
 
-#: ../../english/intro/organization.data:232
+#: ../../english/intro/organization.data:237
 msgid "Press Contact"
 msgstr "広報窓口"
 
-#: ../../english/intro/organization.data:234
+#: ../../english/intro/organization.data:239
 msgid "Web Pages"
 msgstr "ウェブページ"
 
-#: ../../english/intro/organization.data:244
+#: ../../english/intro/organization.data:249
 msgid "Planet Debian"
 msgstr "Planet Debian"
 
-#: ../../english/intro/organization.data:249
+#: ../../english/intro/organization.data:254
 msgid "Outreach"
 msgstr "教育"
 
-#: ../../english/intro/organization.data:253
+#: ../../english/intro/organization.data:258
 msgid "Debian Women Project"
 msgstr "Debian Women プロジェクト"
 
-#: ../../english/intro/organization.data:261
+#: ../../english/intro/organization.data:266
 msgid "Anti-harassment"
 msgstr "嫌がらせ反対"
 
-#: ../../english/intro/organization.data:267
+#: ../../english/intro/organization.data:272
 msgid "Events"
 msgstr "イベント"
 
-#: ../../english/intro/organization.data:273
+#: ../../english/intro/organization.data:278
 #, fuzzy
 #| msgid "Technical Committee"
 msgid "DebConf Committee"
 msgstr "技術委員会"
 
-#: ../../english/intro/organization.data:280
+#: ../../english/intro/organization.data:285
 msgid "Partner Program"
 msgstr "パートナープログラム"
 
-#: ../../english/intro/organization.data:285
+#: ../../english/intro/organization.data:290
 msgid "Hardware Donations Coordination"
 msgstr "ハードウェア寄付コーディネーション"
 
-#: ../../english/intro/organization.data:298
+#: ../../english/intro/organization.data:303
 msgid "User support"
 msgstr "ユーザサポート"
 
-#: ../../english/intro/organization.data:365
+#: ../../english/intro/organization.data:370
 msgid "Bug Tracking System"
 msgstr "バグ追跡システム (BTS)"
 
-#: ../../english/intro/organization.data:370
+#: ../../english/intro/organization.data:375
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "メーリングリスト管理とメーリングリストアーカイブ"
 
-#: ../../english/intro/organization.data:378
+#: ../../english/intro/organization.data:383
 msgid "New Members Front Desk"
 msgstr "新規メンバー受付"
 
-#: ../../english/intro/organization.data:384
+#: ../../english/intro/organization.data:389
 msgid "Debian Account Managers"
 msgstr "Debian アカウント管理者"
 
-#: ../../english/intro/organization.data:389
+#: ../../english/intro/organization.data:393
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
@@ -286,31 +286,31 @@ msgstr ""
 "(全) DAM に私信のメールを送る際には 57731224A9762EA155AB2A530CA8D15BB24D96F2 "
 "の GPG 鍵を使ってください。"
 
-#: ../../english/intro/organization.data:390
+#: ../../english/intro/organization.data:394
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "公開鍵管理者 (PGP および GPG)"
 
-#: ../../english/intro/organization.data:393
+#: ../../english/intro/organization.data:397
 msgid "Security Team"
 msgstr "セキュリティチーム"
 
-#: ../../english/intro/organization.data:406
+#: ../../english/intro/organization.data:409
 msgid "Consultants Page"
 msgstr "コンサルタントページ"
 
-#: ../../english/intro/organization.data:411
+#: ../../english/intro/organization.data:414
 msgid "CD Vendors Page"
 msgstr "CD ベンダページ"
 
-#: ../../english/intro/organization.data:414
+#: ../../english/intro/organization.data:417
 msgid "Policy"
 msgstr "ポリシー"
 
-#: ../../english/intro/organization.data:419
+#: ../../english/intro/organization.data:422
 msgid "System Administration"
 msgstr "システム管理"
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:423
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
@@ -319,7 +319,7 @@ msgstr ""
 "ストールの依頼など、Debianマシンのいずれかに何か問題のある際に用いる連絡先で"
 "す。"
 
-#: ../../english/intro/organization.data:430
+#: ../../english/intro/organization.data:432
 msgid ""
 "If you have hardware problems with Debian machines, please see <a href="
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
@@ -329,64 +329,82 @@ msgstr ""
 "\">Debian マシン</a>のページを参照してください。そこにはマシンごとの管理情報"
 "があります。"
 
-#: ../../english/intro/organization.data:431
+#: ../../english/intro/organization.data:433
 msgid "LDAP Developer Directory Administrator"
 msgstr "LDAP 開発者ディレクトリ管理者"
 
-#: ../../english/intro/organization.data:432
+#: ../../english/intro/organization.data:434
 msgid "Mirrors"
 msgstr "ミラー"
 
-#: ../../english/intro/organization.data:437
+#: ../../english/intro/organization.data:441
 msgid "DNS Maintainer"
 msgstr "DNS 管理"
 
-#: ../../english/intro/organization.data:438
+#: ../../english/intro/organization.data:442
 msgid "Package Tracking System"
 msgstr "パッケージ追跡システム"
 
-#: ../../english/intro/organization.data:440
-msgid "Auditor"
-msgstr "監事"
+#: ../../english/intro/organization.data:444
+msgid "Treasurer"
+msgstr ""
 
-#: ../../english/intro/organization.data:446
+#: ../../english/intro/organization.data:450
 msgid ""
 "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr "<a name=\"trademark\" href=\"m4_HOME/trademark\">商標</a>利用申請"
 
-#: ../../english/intro/organization.data:449
+#: ../../english/intro/organization.data:453
+#, fuzzy
+#| msgid "Alioth administrators"
+msgid "Salsa administrators"
+msgstr "Alioth 管理者"
+
+#: ../../english/intro/organization.data:457
 msgid "Alioth administrators"
 msgstr "Alioth 管理者"
 
-#: ../../english/intro/organization.data:462
+#: ../../english/intro/organization.data:470
 msgid "Debian for children from 1 to 99"
 msgstr "1歳から99歳までのこどものための Debian"
 
-#: ../../english/intro/organization.data:465
+#: ../../english/intro/organization.data:473
 msgid "Debian for medical practice and research"
 msgstr "臨床医学と医学研究のための Debian"
 
-#: ../../english/intro/organization.data:468
+#: ../../english/intro/organization.data:476
 msgid "Debian for education"
 msgstr "教育のための Debian"
 
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:481
 msgid "Debian in legal offices"
 msgstr "法律事務所のための Debian"
 
-#: ../../english/intro/organization.data:477
+#: ../../english/intro/organization.data:485
 msgid "Debian for people with disabilities"
 msgstr "障害者のための Debian"
 
-#: ../../english/intro/organization.data:481
+#: ../../english/intro/organization.data:489
 msgid "Debian for science and related research"
 msgstr "科学研究のための Debian"
 
-#~ msgid "Publicity"
-#~ msgstr "広報"
+#: ../../english/intro/organization.data:492
+#, fuzzy
+#| msgid "Debian for education"
+msgid "Debian for astronomy"
+msgstr "教育のための Debian"
+
+#~ msgid "DebConf chairs"
+#~ msgstr "DebConf 役員"
 
 #~ msgid "Debian Maintainer (DM) Keyring Maintainers"
 #~ msgstr "Debian メンテナ (DM) 公開鍵管理者"
 
-#~ msgid "DebConf chairs"
-#~ msgstr "DebConf 役員"
+#~ msgid "Publicity"
+#~ msgstr "広報"
+
+#~ msgid "Auditor"
+#~ msgstr "監事"
+
+#~ msgid "Live System Team"
+#~ msgstr "ライブシステムチーム"

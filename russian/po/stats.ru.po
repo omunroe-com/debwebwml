@@ -15,214 +15,6 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 1.8.11\n"
 
-#: ../../stattrans.pl:239 ../../stattrans.pl:243
-msgid "This translation is too out of date"
-msgstr "Этот перевод слишком устарел"
-
-#: ../../stattrans.pl:241 ../../stattrans.pl:437
-msgid "Wrong translation version"
-msgstr "Неверная версия перевода"
-
-#: ../../stattrans.pl:245
-msgid "The original is newer than this translation"
-msgstr "Оригинал новее, чем перевод"
-
-#: ../../stattrans.pl:248 ../../stattrans.pl:437
-msgid "The original no longer exists"
-msgstr "Оригинал более не существует"
-
-#: ../../stattrans.pl:413
-msgid "hits"
-msgstr "обращения"
-
-#: ../../stattrans.pl:413
-msgid "hit count N/A"
-msgstr "число обращений не доступно"
-
-#: ../../stattrans.pl:431 ../../stattrans.pl:432
-msgid "Click to fetch diffstat data"
-msgstr "Нажмите, чтобы получить данные diffstat"
-
-#: ../../stattrans.pl:446 ../../stattrans.pl:590 ../../stattrans.pl:591
-msgid "Unified diff"
-msgstr "Унифицированный diff"
-
-#: ../../stattrans.pl:449 ../../stattrans.pl:590 ../../stattrans.pl:591
-msgid "Colored diff"
-msgstr "Цветной diff"
-
-#: ../../stattrans.pl:551 ../../stattrans.pl:693
-msgid "Created with <transstatslink>"
-msgstr "Создано с помощью <transstatslink>"
-
-#: ../../stattrans.pl:556
-msgid "Translation summary for"
-msgstr "Резюме перевода для"
-
-#: ../../stattrans.pl:559
-msgid "Translated"
-msgstr "Переведено"
-
-#: ../../stattrans.pl:559 ../../stattrans.pl:641 ../../stattrans.pl:715
-#: ../../stattrans.pl:761 ../../stattrans.pl:804
-msgid "Up to date"
-msgstr "Актуально"
-
-#: ../../stattrans.pl:559 ../../stattrans.pl:716 ../../stattrans.pl:762
-msgid "Outdated"
-msgstr "Устарело"
-
-#: ../../stattrans.pl:559 ../../stattrans.pl:717 ../../stattrans.pl:763
-#: ../../stattrans.pl:806
-msgid "Not translated"
-msgstr "Не переведено"
-
-#: ../../stattrans.pl:560 ../../stattrans.pl:561 ../../stattrans.pl:562
-#: ../../stattrans.pl:563
-msgid "files"
-msgstr "файлы"
-
-#: ../../stattrans.pl:566 ../../stattrans.pl:567 ../../stattrans.pl:568
-#: ../../stattrans.pl:569
-msgid "bytes"
-msgstr "байты"
-
-#: ../../stattrans.pl:576
-msgid ""
-"Note: the lists of pages are sorted by popularity. Hover over the page name "
-"to see the number of hits."
-msgstr ""
-"Замечание: список страниц отсортирован по популярности. Наведите указатель "
-"мыши на название страницы, чтобы увидеть количество обращений."
-
-#: ../../stattrans.pl:582
-msgid "Outdated translations"
-msgstr "Устаревшие переводы"
-
-#: ../../stattrans.pl:584 ../../stattrans.pl:640
-msgid "File"
-msgstr "Файл"
-
-#: ../../stattrans.pl:586 ../../stattrans.pl:592
-msgid "Diff"
-msgstr "Diff"
-
-#: ../../stattrans.pl:588
-msgid "Comment"
-msgstr "Комментарий"
-
-#: ../../stattrans.pl:589
-msgid "Diffstat"
-msgstr "Diffstat"
-
-#: ../../stattrans.pl:594
-msgid "Log"
-msgstr "Журнал"
-
-#: ../../stattrans.pl:595
-msgid "Translation"
-msgstr "Перевод"
-
-#: ../../stattrans.pl:596
-msgid "Maintainer"
-msgstr "Сопровождающий"
-
-#: ../../stattrans.pl:598
-msgid "Status"
-msgstr "Состояние"
-
-#: ../../stattrans.pl:599
-msgid "Translator"
-msgstr "Переводчик"
-
-#: ../../stattrans.pl:600
-msgid "Date"
-msgstr "Дата"
-
-#: ../../stattrans.pl:607
-msgid "General pages not translated"
-msgstr "Не переведённые страницы общего характера"
-
-#: ../../stattrans.pl:608
-msgid "Untranslated general pages"
-msgstr "Не переведённые страницы общего характера"
-
-#: ../../stattrans.pl:613
-msgid "News items not translated"
-msgstr "Не переведённые новости"
-
-#: ../../stattrans.pl:614
-msgid "Untranslated news items"
-msgstr "Не переведённые новости"
-
-#: ../../stattrans.pl:619
-msgid "Consultant/user pages not translated"
-msgstr "Не переведённые страницы о консультантах/пользователях"
-
-#: ../../stattrans.pl:620
-msgid "Untranslated consultant/user pages"
-msgstr "Не переведённые страницы консультантов/пользователей"
-
-#: ../../stattrans.pl:625
-msgid "International pages not translated"
-msgstr "Не переведённые международные страницы"
-
-#: ../../stattrans.pl:626
-msgid "Untranslated international pages"
-msgstr "Не переведённые международные страницы"
-
-#: ../../stattrans.pl:631
-msgid "Translated pages (up-to-date)"
-msgstr "Переведённые страницы (актуальные)"
-
-#: ../../stattrans.pl:638 ../../stattrans.pl:788
-msgid "Translated templates (PO files)"
-msgstr "Переведённые шаблоны (файлы PO)"
-
-#: ../../stattrans.pl:639 ../../stattrans.pl:791
-msgid "PO Translation Statistics"
-msgstr "Статистика перевода PO"
-
-#: ../../stattrans.pl:642 ../../stattrans.pl:805
-msgid "Fuzzy"
-msgstr "Неточные"
-
-#: ../../stattrans.pl:643
-msgid "Untranslated"
-msgstr "Не переведено"
-
-#: ../../stattrans.pl:644
-msgid "Total"
-msgstr "Всего"
-
-#: ../../stattrans.pl:661
-msgid "Total:"
-msgstr "Всего:"
-
-#: ../../stattrans.pl:695
-msgid "Translated web pages"
-msgstr "Переведённые веб-страницы"
-
-#: ../../stattrans.pl:698
-msgid "Translation Statistics by Page Count"
-msgstr "Статистика перевода по счетчику страниц"
-
-#: ../../stattrans.pl:713 ../../stattrans.pl:759 ../../stattrans.pl:803
-msgid "Language"
-msgstr "Язык"
-
-#: ../../stattrans.pl:714 ../../stattrans.pl:760
-msgid "Translations"
-msgstr "Переводы"
-
-#: ../../stattrans.pl:741
-msgid "Translated web pages (by size)"
-msgstr "Переведённые веб-страницы (по размеру)"
-
-#: ../../stattrans.pl:744
-msgid "Translation Statistics by Page Size"
-msgstr "Статистика перевода по размеру страниц"
-
 #: ../../english/template/debian/stats_tags.wml:6
 msgid "Debian web site translation statistics"
 msgstr "Статистика перевода сайта Debian"
@@ -239,8 +31,227 @@ msgstr "Байт для перевода: %d."
 msgid "There are %d strings to translate."
 msgstr "Строк для перевода: %d."
 
-#~ msgid "Created with"
-#~ msgstr "Создано с помощью"
+#: ../../stattrans.pl:282 ../../stattrans.pl:506
+msgid "Wrong translation version"
+msgstr "Неверная версия перевода"
+
+#: ../../stattrans.pl:284
+msgid "This translation is too out of date"
+msgstr "Этот перевод слишком устарел"
+
+#: ../../stattrans.pl:286
+msgid "The original is newer than this translation"
+msgstr "Оригинал новее, чем перевод"
+
+#: ../../stattrans.pl:290 ../../stattrans.pl:506
+msgid "The original no longer exists"
+msgstr "Оригинал более не существует"
+
+#: ../../stattrans.pl:482
+msgid "hit count N/A"
+msgstr "число обращений не доступно"
+
+#: ../../stattrans.pl:482
+msgid "hits"
+msgstr "обращения"
+
+#: ../../stattrans.pl:500 ../../stattrans.pl:501
+msgid "Click to fetch diffstat data"
+msgstr "Нажмите, чтобы получить данные diffstat"
+
+#: ../../stattrans.pl:516 ../../stattrans.pl:679 ../../stattrans.pl:680
+msgid "Unified diff"
+msgstr "Унифицированный diff"
+
+#: ../../stattrans.pl:519 ../../stattrans.pl:679 ../../stattrans.pl:680
+msgid "Colored diff"
+msgstr "Цветной diff"
+
+#: ../../stattrans.pl:524 ../../stattrans.pl:683
+#, fuzzy
+#| msgid "Colored diff"
+msgid "Commit diff"
+msgstr "Цветной diff"
+
+#. FIXME - this is clearly wrong, but no idea what's meant to go here!
+#: ../../stattrans.pl:528 ../../stattrans.pl:683
+msgid "Git command line"
+msgstr ""
+
+#: ../../stattrans.pl:639 ../../stattrans.pl:785
+msgid "Created with <transstatslink>"
+msgstr "Создано с помощью <transstatslink>"
+
+#: ../../stattrans.pl:644
+msgid "Translation summary for"
+msgstr "Резюме перевода для"
+
+#: ../../stattrans.pl:647 ../../stattrans.pl:809 ../../stattrans.pl:855
+#: ../../stattrans.pl:898
+msgid "Not translated"
+msgstr "Не переведено"
+
+#: ../../stattrans.pl:647 ../../stattrans.pl:808 ../../stattrans.pl:854
+msgid "Outdated"
+msgstr "Устарело"
+
+#: ../../stattrans.pl:647
+msgid "Translated"
+msgstr "Переведено"
+
+#: ../../stattrans.pl:647 ../../stattrans.pl:733 ../../stattrans.pl:807
+#: ../../stattrans.pl:853 ../../stattrans.pl:896
+msgid "Up to date"
+msgstr "Актуально"
+
+#: ../../stattrans.pl:648 ../../stattrans.pl:649 ../../stattrans.pl:650
+#: ../../stattrans.pl:651
+msgid "files"
+msgstr "файлы"
+
+#: ../../stattrans.pl:654 ../../stattrans.pl:655 ../../stattrans.pl:656
+#: ../../stattrans.pl:657
+msgid "bytes"
+msgstr "байты"
+
+#: ../../stattrans.pl:664
+msgid ""
+"Note: the lists of pages are sorted by popularity. Hover over the page name "
+"to see the number of hits."
+msgstr ""
+"Замечание: список страниц отсортирован по популярности. Наведите указатель "
+"мыши на название страницы, чтобы увидеть количество обращений."
+
+#: ../../stattrans.pl:670
+msgid "Outdated translations"
+msgstr "Устаревшие переводы"
+
+#: ../../stattrans.pl:672 ../../stattrans.pl:732
+msgid "File"
+msgstr "Файл"
+
+#: ../../stattrans.pl:674 ../../stattrans.pl:681
+msgid "Diff"
+msgstr "Diff"
+
+#: ../../stattrans.pl:676
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ../../stattrans.pl:677
+msgid "Diffstat"
+msgstr "Diffstat"
+
+#: ../../stattrans.pl:686
+msgid "Log"
+msgstr "Журнал"
+
+#: ../../stattrans.pl:687
+msgid "Translation"
+msgstr "Перевод"
+
+#: ../../stattrans.pl:688
+msgid "Maintainer"
+msgstr "Сопровождающий"
+
+#: ../../stattrans.pl:690
+msgid "Status"
+msgstr "Состояние"
+
+#: ../../stattrans.pl:691
+msgid "Translator"
+msgstr "Переводчик"
+
+#: ../../stattrans.pl:692
+msgid "Date"
+msgstr "Дата"
+
+#: ../../stattrans.pl:699
+msgid "General pages not translated"
+msgstr "Не переведённые страницы общего характера"
+
+#: ../../stattrans.pl:700
+msgid "Untranslated general pages"
+msgstr "Не переведённые страницы общего характера"
+
+#: ../../stattrans.pl:705
+msgid "News items not translated"
+msgstr "Не переведённые новости"
+
+#: ../../stattrans.pl:706
+msgid "Untranslated news items"
+msgstr "Не переведённые новости"
+
+#: ../../stattrans.pl:711
+msgid "Consultant/user pages not translated"
+msgstr "Не переведённые страницы о консультантах/пользователях"
+
+#: ../../stattrans.pl:712
+msgid "Untranslated consultant/user pages"
+msgstr "Не переведённые страницы консультантов/пользователей"
+
+#: ../../stattrans.pl:717
+msgid "International pages not translated"
+msgstr "Не переведённые международные страницы"
+
+#: ../../stattrans.pl:718
+msgid "Untranslated international pages"
+msgstr "Не переведённые международные страницы"
+
+#: ../../stattrans.pl:723
+msgid "Translated pages (up-to-date)"
+msgstr "Переведённые страницы (актуальные)"
+
+#: ../../stattrans.pl:730 ../../stattrans.pl:880
+msgid "Translated templates (PO files)"
+msgstr "Переведённые шаблоны (файлы PO)"
+
+#: ../../stattrans.pl:731 ../../stattrans.pl:883
+msgid "PO Translation Statistics"
+msgstr "Статистика перевода PO"
+
+#: ../../stattrans.pl:734 ../../stattrans.pl:897
+msgid "Fuzzy"
+msgstr "Неточные"
+
+#: ../../stattrans.pl:735
+msgid "Untranslated"
+msgstr "Не переведено"
+
+#: ../../stattrans.pl:736
+msgid "Total"
+msgstr "Всего"
+
+#: ../../stattrans.pl:753
+msgid "Total:"
+msgstr "Всего:"
+
+#: ../../stattrans.pl:787
+msgid "Translated web pages"
+msgstr "Переведённые веб-страницы"
+
+#: ../../stattrans.pl:790
+msgid "Translation Statistics by Page Count"
+msgstr "Статистика перевода по счетчику страниц"
+
+#: ../../stattrans.pl:805 ../../stattrans.pl:851 ../../stattrans.pl:895
+msgid "Language"
+msgstr "Язык"
+
+#: ../../stattrans.pl:806 ../../stattrans.pl:852
+msgid "Translations"
+msgstr "Переводы"
+
+#: ../../stattrans.pl:833
+msgid "Translated web pages (by size)"
+msgstr "Переведённые веб-страницы (по размеру)"
+
+#: ../../stattrans.pl:836
+msgid "Translation Statistics by Page Size"
+msgstr "Статистика перевода по размеру страниц"
 
 #~ msgid "Hit data from %s, gathered %s."
 #~ msgstr "Данные о посещениях с %s, собраны %s."
+
+#~ msgid "Created with"
+#~ msgstr "Создано с помощью"

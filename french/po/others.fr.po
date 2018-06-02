@@ -336,17 +336,17 @@ msgstr "Version"
 msgid "URL"
 msgstr "URL"
 
-#~ msgid "Wanted:"
-#~ msgstr "Désiré :"
-
-#~ msgid "Who:"
-#~ msgstr "Demandeur :"
-
-#~ msgid "Architecture:"
-#~ msgstr "Architectures :"
+#~ msgid "Where:"
+#~ msgstr "Localisation :"
 
 #~ msgid "Specifications:"
 #~ msgstr "Spécifications :"
 
-#~ msgid "Where:"
-#~ msgstr "Localisation :"
+#~ msgid "Architecture:"
+#~ msgstr "Architectures :"
+
+#~ msgid "Who:"
+#~ msgstr "Demandeur :"
+
+#~ msgid "Wanted:"
+#~ msgstr "Désiré :"

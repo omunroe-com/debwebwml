@@ -125,17 +125,14 @@ msgstr ""
 "\">https://www.debian.org/intl/spanish/</a> (доступно лише іспанською)."
 
 #: ../../english/distrib/pre-installed.defs:18
-#| msgid "Phone:"
 msgid "Phone"
 msgstr "Телефон"
 
 #: ../../english/distrib/pre-installed.defs:19
-#| msgid "Fax:"
 msgid "Fax"
 msgstr "Факс"
 
 #: ../../english/distrib/pre-installed.defs:21
-#| msgid "Address:"
 msgid "Address"
 msgstr "Адреса"
 
@@ -228,7 +225,6 @@ msgid "umbrellas"
 msgstr "парасолі"
 
 #: ../../english/misc/merchandise.def:51
-#| msgid "suitcases"
 msgid "pillowcases"
 msgstr "наволочки"
 

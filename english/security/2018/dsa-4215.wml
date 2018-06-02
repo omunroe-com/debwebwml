@@ -1,0 +1,24 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Man Yue Mo, Lars Krapf and Pierre Ernst discovered that Batik, a
+toolkit for processing SVG images, did not properly validate its
+input. This would allow an attacker to cause a denial-of-service,
+mount cross-site scripting attacks, or access restricted files on the
+server.</p>
+
+<p>For the oldstable distribution (jessie), these problems have been fixed
+in version 1.7+dfsg-5+deb8u1.</p>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 1.8-4+deb9u1.</p>
+
+<p>We recommend that you upgrade your batik packages.</p>
+
+<p>For the detailed security status of batik please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/batik">https://security-tracker.debian.org/tracker/batik</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4215.data"
+# $Id: $

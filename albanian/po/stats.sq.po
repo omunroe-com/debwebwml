@@ -19,208 +19,217 @@ msgstr ""
 msgid "There are %d strings to translate."
 msgstr ""
 
-#: ../../stattrans.pl:239 ../../stattrans.pl:243
-msgid "This translation is too out of date"
-msgstr ""
-
-#: ../../stattrans.pl:241 ../../stattrans.pl:437
+#: ../../stattrans.pl:282 ../../stattrans.pl:506
 msgid "Wrong translation version"
 msgstr ""
 
-#: ../../stattrans.pl:245
+#: ../../stattrans.pl:284
+msgid "This translation is too out of date"
+msgstr ""
+
+#: ../../stattrans.pl:286
 msgid "The original is newer than this translation"
 msgstr ""
 
-#: ../../stattrans.pl:248 ../../stattrans.pl:437
+#: ../../stattrans.pl:290 ../../stattrans.pl:506
 msgid "The original no longer exists"
 msgstr ""
 
-#: ../../stattrans.pl:413
+#: ../../stattrans.pl:482
 msgid "hit count N/A"
 msgstr ""
 
-#: ../../stattrans.pl:413
+#: ../../stattrans.pl:482
 msgid "hits"
 msgstr ""
 
-#: ../../stattrans.pl:431 ../../stattrans.pl:432
+#: ../../stattrans.pl:500 ../../stattrans.pl:501
 msgid "Click to fetch diffstat data"
 msgstr ""
 
-#: ../../stattrans.pl:446 ../../stattrans.pl:590 ../../stattrans.pl:591
+#: ../../stattrans.pl:516 ../../stattrans.pl:679 ../../stattrans.pl:680
 msgid "Unified diff"
 msgstr ""
 
-#: ../../stattrans.pl:449 ../../stattrans.pl:590 ../../stattrans.pl:591
+#: ../../stattrans.pl:519 ../../stattrans.pl:679 ../../stattrans.pl:680
 msgid "Colored diff"
 msgstr ""
 
-#: ../../stattrans.pl:551 ../../stattrans.pl:693
+#: ../../stattrans.pl:524 ../../stattrans.pl:683
+msgid "Commit diff"
+msgstr ""
+
+#. FIXME - this is clearly wrong, but no idea what's meant to go here!
+#: ../../stattrans.pl:528 ../../stattrans.pl:683
+msgid "Git command line"
+msgstr ""
+
+#: ../../stattrans.pl:639 ../../stattrans.pl:785
 msgid "Created with <transstatslink>"
 msgstr ""
 
-#: ../../stattrans.pl:556
+#: ../../stattrans.pl:644
 msgid "Translation summary for"
 msgstr ""
 
-#: ../../stattrans.pl:559 ../../stattrans.pl:717 ../../stattrans.pl:763
-#: ../../stattrans.pl:806
+#: ../../stattrans.pl:647 ../../stattrans.pl:809 ../../stattrans.pl:855
+#: ../../stattrans.pl:898
 msgid "Not translated"
 msgstr ""
 
-#: ../../stattrans.pl:559 ../../stattrans.pl:716 ../../stattrans.pl:762
+#: ../../stattrans.pl:647 ../../stattrans.pl:808 ../../stattrans.pl:854
 msgid "Outdated"
 msgstr ""
 
-#: ../../stattrans.pl:559
+#: ../../stattrans.pl:647
 msgid "Translated"
 msgstr ""
 
-#: ../../stattrans.pl:559 ../../stattrans.pl:641 ../../stattrans.pl:715
-#: ../../stattrans.pl:761 ../../stattrans.pl:804
+#: ../../stattrans.pl:647 ../../stattrans.pl:733 ../../stattrans.pl:807
+#: ../../stattrans.pl:853 ../../stattrans.pl:896
 msgid "Up to date"
 msgstr ""
 
-#: ../../stattrans.pl:560 ../../stattrans.pl:561 ../../stattrans.pl:562
-#: ../../stattrans.pl:563
+#: ../../stattrans.pl:648 ../../stattrans.pl:649 ../../stattrans.pl:650
+#: ../../stattrans.pl:651
 msgid "files"
 msgstr ""
 
-#: ../../stattrans.pl:566 ../../stattrans.pl:567 ../../stattrans.pl:568
-#: ../../stattrans.pl:569
+#: ../../stattrans.pl:654 ../../stattrans.pl:655 ../../stattrans.pl:656
+#: ../../stattrans.pl:657
 msgid "bytes"
 msgstr ""
 
-#: ../../stattrans.pl:576
+#: ../../stattrans.pl:664
 msgid ""
 "Note: the lists of pages are sorted by popularity. Hover over the page name "
 "to see the number of hits."
 msgstr ""
 
-#: ../../stattrans.pl:582
+#: ../../stattrans.pl:670
 msgid "Outdated translations"
 msgstr ""
 
-#: ../../stattrans.pl:584 ../../stattrans.pl:640
+#: ../../stattrans.pl:672 ../../stattrans.pl:732
 msgid "File"
 msgstr ""
 
-#: ../../stattrans.pl:586 ../../stattrans.pl:592
+#: ../../stattrans.pl:674 ../../stattrans.pl:681
 msgid "Diff"
 msgstr ""
 
-#: ../../stattrans.pl:588
+#: ../../stattrans.pl:676
 msgid "Comment"
 msgstr ""
 
-#: ../../stattrans.pl:589
+#: ../../stattrans.pl:677
 msgid "Diffstat"
 msgstr ""
 
-#: ../../stattrans.pl:594
+#: ../../stattrans.pl:686
 msgid "Log"
 msgstr ""
 
-#: ../../stattrans.pl:595
+#: ../../stattrans.pl:687
 msgid "Translation"
 msgstr ""
 
-#: ../../stattrans.pl:596
+#: ../../stattrans.pl:688
 msgid "Maintainer"
 msgstr ""
 
-#: ../../stattrans.pl:598
+#: ../../stattrans.pl:690
 msgid "Status"
 msgstr ""
 
-#: ../../stattrans.pl:599
+#: ../../stattrans.pl:691
 msgid "Translator"
 msgstr ""
 
-#: ../../stattrans.pl:600
+#: ../../stattrans.pl:692
 msgid "Date"
 msgstr ""
 
-#: ../../stattrans.pl:607
+#: ../../stattrans.pl:699
 msgid "General pages not translated"
 msgstr ""
 
-#: ../../stattrans.pl:608
+#: ../../stattrans.pl:700
 msgid "Untranslated general pages"
 msgstr ""
 
-#: ../../stattrans.pl:613
+#: ../../stattrans.pl:705
 msgid "News items not translated"
 msgstr ""
 
-#: ../../stattrans.pl:614
+#: ../../stattrans.pl:706
 msgid "Untranslated news items"
 msgstr ""
 
-#: ../../stattrans.pl:619
+#: ../../stattrans.pl:711
 msgid "Consultant/user pages not translated"
 msgstr ""
 
-#: ../../stattrans.pl:620
+#: ../../stattrans.pl:712
 msgid "Untranslated consultant/user pages"
 msgstr ""
 
-#: ../../stattrans.pl:625
+#: ../../stattrans.pl:717
 msgid "International pages not translated"
 msgstr ""
 
-#: ../../stattrans.pl:626
+#: ../../stattrans.pl:718
 msgid "Untranslated international pages"
 msgstr ""
 
-#: ../../stattrans.pl:631
+#: ../../stattrans.pl:723
 msgid "Translated pages (up-to-date)"
 msgstr ""
 
-#: ../../stattrans.pl:638 ../../stattrans.pl:788
+#: ../../stattrans.pl:730 ../../stattrans.pl:880
 msgid "Translated templates (PO files)"
 msgstr ""
 
-#: ../../stattrans.pl:639 ../../stattrans.pl:791
+#: ../../stattrans.pl:731 ../../stattrans.pl:883
 msgid "PO Translation Statistics"
 msgstr ""
 
-#: ../../stattrans.pl:642 ../../stattrans.pl:805
+#: ../../stattrans.pl:734 ../../stattrans.pl:897
 msgid "Fuzzy"
 msgstr ""
 
-#: ../../stattrans.pl:643
+#: ../../stattrans.pl:735
 msgid "Untranslated"
 msgstr ""
 
-#: ../../stattrans.pl:644
+#: ../../stattrans.pl:736
 msgid "Total"
 msgstr ""
 
-#: ../../stattrans.pl:661
+#: ../../stattrans.pl:753
 msgid "Total:"
 msgstr ""
 
-#: ../../stattrans.pl:695
+#: ../../stattrans.pl:787
 msgid "Translated web pages"
 msgstr ""
 
-#: ../../stattrans.pl:698
+#: ../../stattrans.pl:790
 msgid "Translation Statistics by Page Count"
 msgstr ""
 
-#: ../../stattrans.pl:713 ../../stattrans.pl:759 ../../stattrans.pl:803
+#: ../../stattrans.pl:805 ../../stattrans.pl:851 ../../stattrans.pl:895
 msgid "Language"
 msgstr ""
 
-#: ../../stattrans.pl:714 ../../stattrans.pl:760
+#: ../../stattrans.pl:806 ../../stattrans.pl:852
 msgid "Translations"
 msgstr ""
 
-#: ../../stattrans.pl:741
+#: ../../stattrans.pl:833
 msgid "Translated web pages (by size)"
 msgstr ""
 
-#: ../../stattrans.pl:744
+#: ../../stattrans.pl:836
 msgid "Translation Statistics by Page Size"
 msgstr ""

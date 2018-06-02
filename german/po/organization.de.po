@@ -399,47 +399,47 @@ msgstr "Debian für die Wissenschaft und zugehörige Forschung"
 msgid "Debian for astronomy"
 msgstr "Debian für Astronomie"
 
-#~ msgid "Auditor"
-#~ msgstr "Kassenprüfer"
-
-#~ msgid "Live System Team"
-#~ msgstr "Live-System-Team"
-
-#~ msgid "current Debian Project Leader"
-#~ msgstr "derzeitiger Debian-Projektleiter"
-
-#~ msgid "Testing Security Team"
-#~ msgstr "Testing-Sicherheitsteam"
-
-#~ msgid "Security Audit Project"
-#~ msgstr "Sicherheits-Audit-Projekt"
-
-#~ msgid "Volatile Team"
-#~ msgstr "Volatile-Team"
-
-#~ msgid "Key Signing Coordination"
-#~ msgstr "Schlüssel-Signierungs-Koordination"
-
-#~ msgid "Marketing Team"
-#~ msgstr "Marketing-Team"
-
-#~ msgid "Handhelds"
-#~ msgstr "Handheldcomputer"
-
-#~ msgid "Vendors"
-#~ msgstr "Distributoren"
-
-#~ msgid "Alpha (Not active: was not released with squeeze)"
-#~ msgstr "Alpha (nicht aktiv: wurde nicht mit Squeeze veröffentlicht)"
-
-#~ msgid "DebConf chairs"
-#~ msgstr "DebConf-Leitung"
-
-#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
-#~ msgstr "Schlüsselring-Betreuer für Debian-Betreuer (DM)"
+#~ msgid "Publicity"
+#~ msgstr "Öffentlichkeitsarbeit"
 
 #~ msgid "Bits from Debian"
 #~ msgstr "Neuigkeiten von Debian"
 
-#~ msgid "Publicity"
-#~ msgstr "Öffentlichkeitsarbeit"
+#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
+#~ msgstr "Schlüsselring-Betreuer für Debian-Betreuer (DM)"
+
+#~ msgid "DebConf chairs"
+#~ msgstr "DebConf-Leitung"
+
+#~ msgid "Alpha (Not active: was not released with squeeze)"
+#~ msgstr "Alpha (nicht aktiv: wurde nicht mit Squeeze veröffentlicht)"
+
+#~ msgid "Vendors"
+#~ msgstr "Distributoren"
+
+#~ msgid "Handhelds"
+#~ msgstr "Handheldcomputer"
+
+#~ msgid "Marketing Team"
+#~ msgstr "Marketing-Team"
+
+#~ msgid "Key Signing Coordination"
+#~ msgstr "Schlüssel-Signierungs-Koordination"
+
+#~ msgid "Volatile Team"
+#~ msgstr "Volatile-Team"
+
+#~ msgid "Security Audit Project"
+#~ msgstr "Sicherheits-Audit-Projekt"
+
+#~ msgid "Testing Security Team"
+#~ msgstr "Testing-Sicherheitsteam"
+
+#~ msgid "current Debian Project Leader"
+#~ msgstr "derzeitiger Debian-Projektleiter"
+
+#~ msgid "Live System Team"
+#~ msgstr "Live-System-Team"
+
+#~ msgid "Auditor"
+#~ msgstr "Kassenprüfer"
