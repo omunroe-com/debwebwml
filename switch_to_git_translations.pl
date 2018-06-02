@@ -261,7 +261,7 @@ if (length($db_file) < 2) {
 	vlog ("  Rewriting $db_file with git revisions");
 	open OUT, "> $db_file" or die "Couldn't write $db_file: $!";
 	for my $file (sort keys %translated_files) {
-	    my $targetfile = "$language/$file";
+	    my $targetfile = "english/$file";
 	    my $revision = $translated_files{$file};
 	    my $hash = $rev_map{"$targetfile"}{"$revision"}{"commit_hash"};
 	    if (!defined $hash) {
