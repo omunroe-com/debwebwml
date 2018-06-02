@@ -1,23 +1,25 @@
 #use wml::debian::template title="Translating Debian web pages" BARETITLE=true
 #use wml::fmt::verbatim
 
-<P>To make the job of the translators as easy as possible the pages are
+<p>To make the job of the translators as easy as possible the pages are
 generated a bit differently than many of you will be used to. The web pages
 are actually generated using source that is marked up with
 <a href="http://www.engelschall.com/sw/wml/"><tt>wml</tt></a>.
 There are separate directories for each language.
+</p>
 
 <p>If you plan to start an entirely new translation of the Debian web site,
 please see the <a href="#completenew">section on starting a new
 translation</a>.
+</p>
 
 <h2><a name="singlepages">Translating individual pages</a></h2>
 
 <p>We use WML to separate the specific content of a page from the elements
 common to multiple pages. This means that one needs to edit certain WML
-source files instead of HTML files. Please <a href="using_cvs">use CVS</a>
+source files instead of HTML files. Please <a href="using_git">use Git</a>
 to acquire the current sources.  You'll need to check out at least two
-directories: <tt>webwml/english/</tt> and <tt>webwml/<var>&lt;language&gt;</var>/</tt>.</p> 
+directories: <tt>webwml/english/</tt> and <tt>webwml/<var>&lt;language&gt;</var>/</tt>.</p>
 
 <p>To translate a single page from English into your language, the original
 .wml file needs to be translated and placed within the other language's
@@ -27,10 +29,20 @@ directory in order for the links to continue to work.</p>
 <h3>Translation headers</h3>
 <p>It is strongly
 recommended that the translator adds an additional line to the headers
-after the last <code>#use</code> statement to record the exact revision of 
-the original file that was translated, so that <a href="uptodate">updating is 
+after the last <code>#use</code> statement to record the exact commit of
+the original file that was translated, so that <a href="uptodate">updating is
 easier</a>. The line looks like this:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"</kbd>
+<kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd>
+Please note that if you generate the translatable file using <tt>copypage.pl</tt>
+tool (which is highly recommended), the git commit hash will be generated
+automatically. The usage of <tt>copypage.pl</tt> will be explained in the
+following texts.
+</p>
+
+<p><strong>Note: </strong>some part of information given below are outdated,
+especially everything that mentioned CVS. Please discard that part of
+information for now and help to update related instructions if possible.
+</p>
 
 <p>Some translation teams also use this line to mark the official
 translator of each web page. Doing so, you will get automatic mails
@@ -38,7 +50,7 @@ when the pages you maintain are updated in English, and need your
 attention to update the translation. For that, simply add your name as
 maintainer at the end of the <code>#use</code> line to make it look
 like this:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>" maintainer="<var>your name</var>"</kbd>. The <tt>copypage.pl</tt> will
+<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>" maintainer="<var>your name</var>"</kbd>. The <tt>copypage.pl</tt> will
 do this automatically if you set the <tt>DWWW_MAINT</tt> environment variable
 or use the <tt>-m</tt> command-line switch.
 </p>
@@ -47,7 +59,7 @@ or use the <tt>-m</tt> command-line switch.
 want to get automatic mails and their content. For that, edit (or let
 your coordinator edit) the file
 webwml/<var>language</var>/international/<var>language</var>/translator.db.pl
-in the CVS.  The syntax should be quite understandable, and you can
+in the repository.  The syntax should be quite understandable, and you can
 use the file of the French team as template if it does not exist for
 your language yet. The robot can send several kinds of information, and
 for each of them, you can choose the frequency at which it will be
@@ -84,12 +96,12 @@ will copy the page to the right place, create directories and
 makefiles if necessary, and add the required header automatically.
 You will be warned if a page to be copied exists in the repository, whether
 because the page was removed from the repository (due to it being
-too out of date) or because somebody already commited a translation 
+too out of date) or because somebody already committed a translation
 and your local repository copy is not up to date.
 </p>
 
 <p>In order to start using the <tt>copypage.pl</tt> you should first
-configure the file <tt>language.conf</tt> which it will use to 
+configure the file <tt>language.conf</tt> which it will use to
 determine the language you are translating to. That file only needs
 to have a line with the language name, thats it. You can also
 set the language through the use of the <tt>DWWW_LANG</tt> environment
@@ -119,17 +131,18 @@ is the two letter code of the language, according to
 If that works, check if the syntax is fully valid with
 <kbd>weblint <var>file</var>.<var>&lt;lang&gt;</var>.html</kbd>.</p>
 
-<p>The web pages will get rebuilt from CVS on the www-master server, and
+<p>The web pages will get rebuilt from VCS on the www-master server, and
 this process is for the most part impervious to errors. However, if you
 commit a broken file in the top level of your translation (e.g. the
 top-level index.wml file), it will break the build process and stall all
 the other updates to the web site. Please pay special attention to these
 files.</p>
 
-<p>Once the page is good to go, you can commit it into CVS. If you have
-the permissions to do this yourself, run <kbd>cvs commit</kbd>; if not,
-send it to <a href="translation_coordinators">somebody with write
-access to the repository</a>.</p>
+<p>Once the page is good to go, you can commit it into Git. If you have
+the permissions to do this yourself, please push the commits onto the <a
+href="https://salsa.debian.org/webmaster-team/webwml">git repository on
+Salsa platform</a>; if not, send it to <a href="translation_coordinators">
+somebody with write access to the repository</a>.</p>
 
 <h2><a name="completenew">Starting a new translation</a></h2>
 
@@ -138,7 +151,7 @@ a new language, send us e-mail (in English) at
 <a href="mailto:webmaster@debian.org">webmaster@debian.org</a>.
 
 <p>First of all, make sure you have made a proper checkout of our source
-tree, as described <a href="using_cvs">on our CVS introduction page</a>.</p>
+tree, as described <a href="using_git">on our Git introduction page</a>.</p>
 
 <p>After you have checked out the webwml/ directory and (at least)
 webwml/english/, start by creating a new directory for your translation,
@@ -166,7 +179,7 @@ these things:</p>
       <tt>webwml/Makefile</tt> file so that your language will get built
       along with the other ones, on www.debian.org. We would prefer if you
       left this particular change up to the webmasters, because you may not
-      be aware that your translation is broken when checked out of CVS
+      be aware that your translation is broken when checked out of VCS
       afresh, which could break the building process of the rest of our web
       site.
 </ol>
@@ -237,23 +250,31 @@ the top of this page</a>.</p>
 outdated translations of the website might be removed automatically when a
 long period of time has gone by without an update.</p>
 
-<p>If you use the <tt>copypage.pl</tt> script with a file that has been
-removed from CVS it will refuse to copy the page and ask you to revive it
-instead. You can check the reasons why the file was removed from
-cvs using <tt>cvs log</tt> on the removed file (or use the web
-interface, the deleted files can be found in the "Attic" subdirectory).
-</p>
+<p>If you find that some files got removed sometime in the past and you would
+like to checkout the file again for further editing, you may search through
+the commit history using git's standard commands.</p>
 
-<p>In order to revive the out of date translation use <tt>cvs status</tt>
-(or <tt>cvs log</tt>) to note the version number of the deleted version
-and then do a <q>backwards merge</q>.</p>
-
-<p>For example, if the delete file is "deleted.wml", and
-the deleted version is 1.7, the version prior to deletion is 1.6 (the deleted
-version minus one). You can restore the file by running:
+<p>For example, if the delete file is "deleted.wml", you may search the history
+by running:</p>
 
 <verbatim>
-   cvs update -j 1.7 -j 1.6 deleted.wml
+   git log --all --full-history -- <path/to/file/deleted.wml>
+</verbatim>
+
+<p>You may find out the exact commit that removed the file you want, together
+with the commit's hash string. To display the detail information about the
+modification made to the file in this commit, you may
+use <code>git show</code> subcommand:</p>
+
+<verbatim>
+  git show <COMMIT_HASH_STRING> -- <path/to/file/deleted.wml>
+</verbatim>
+
+<p>If the commit is exactly the one that deleted the file, you may restore
+the file to the workspace using <code>git checkout</code>:</p>
+
+<verbatim>
+  git checkout <COMMIT_HASH_STRING>^ -- <path/to/file/deleted.wml>
 </verbatim>
 
 <p>Once you do this you have to, of course, update the document before

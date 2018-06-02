@@ -7,24 +7,26 @@ This information should be embedded at the top of the document (though
 below any other "use" headers) in this form:
 
 <pre>
-\#use wml::debian::translation-check translation="X.x"
+\#use wml::debian::translation-check translation="git_commit_hash"
 </pre>
 
-<P>
-where <var>X.x</var> is the CVS version number of the original (English).
-You can get this number looking in CVS/Entries which is in the format:
-<code>/file_name/X.x/date//</code>. You can also get it by running
-<kbd>cvs status file_name</kbd> in the English source directory.
+<p>
+where <var>git_commit_hash</var> is the Git commit hash that refers to
+the commit of original (English) file that the translated file was translated
+against. You can get the detail of that specific commit using
+<code>git show</code> tool: <code>git show &lt;git_commit_hash&gt;</code> .
 If you use the <kbd>copypage.pl</kbd> script in the webwml directory,
 this line is added automatically.
+</p>
 
-<P>This is also useful because some translations may not get updated for
+<p>This is also useful because some translations may not get updated for
 quite some time, even though the original language (English) does. Due to
 content negotiation, the reader of the translated language may not be aware
 of this and might miss important information, introduced in new versions of
 the original. The <code>translation-check</code> template contains code to
 check if your translation is outdated, and output appropriate message
 warning the user about it.
+</p>
 
 <P>There are also some additional parameters that you can use on the
 <code>#use</code> line:
@@ -33,7 +35,7 @@ warning the user about it.
  <dt><code>original="<var>language</var>"</code>
  <dd>where <var>language</var> is the name of the language you are translating
  from, if not english.
- The name must correspond to the top-level subdirectory in the CVS, and to
+ The name must correspond to the top-level subdirectory in the VCS, and to
  the name in <code>languages.wml</code> template.
 
  <dt><code>mindelta="<var>number</var>"</code>
