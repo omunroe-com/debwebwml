@@ -235,8 +235,10 @@ while (<SRC>)
 	s/doing an update, updates for lower priority issues will normally not/så kommer uppdateringar för problem med lägre prioritet inte släppas/;
 	s/be released for all kernels at the same time. Rather, they will be/samtidigt för alla kärnor på samma gång. Istället kommer dom att släppas/;
 	s/released in a staggered or "leap-frog" fashion.<\/p>/i större klumpar.<\/p>/;
+	s/\<p\>For the detailed security status of (.*) please refer to its security/<p>För detaljerad säkerhetsstatus om $1 vänligen se/;
 	s/\<p\>For the detailed security status of (.*) please refer to/<p>För detaljerad säkerhetsstatus om $1 vänligen se/;
 	s/its security tracker page at\:/dess säkerhetsspårare på/;
+	s/tracker page at\:/dess säkerhetsspårare på/;
 	print DST $_;
 }
 
