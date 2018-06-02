@@ -74,7 +74,6 @@ msgid "<void id=\"dc_rsyncmirrors\" />Rsync Mirrors"
 msgstr "<void id=\"dc_rsyncmirrors\" />Rsync 鏡像"
 
 #: ../../english/template/debian/cdimage.wml:43
-#| msgid "<void id=\"dc_misc\" />Misc"
 msgid "<void id=\"dc_verify\" />Verify"
 msgstr "<void id=\"dc_verify\" />验证"
 

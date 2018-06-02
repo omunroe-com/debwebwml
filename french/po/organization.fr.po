@@ -14,6 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: debian webwml organisation 0.1\n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2018-03-22 20:56+0100\n"
 "Last-Translator: Baptiste Jammet <baptiste@mailoo.org>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -23,7 +24,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 2.0\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"POT-Creation-Date: \n"
 
 #: ../../english/intro/organization.data:15
 msgid "delegation mail"
@@ -87,22 +87,22 @@ msgid "Officers"
 msgstr "Directeurs"
 
 #: ../../english/intro/organization.data:54
-#: ../../english/intro/organization.data:82
+#: ../../english/intro/organization.data:87
 msgid "Distribution"
 msgstr "Distribution"
 
 #: ../../english/intro/organization.data:55
-#: ../../english/intro/organization.data:224
+#: ../../english/intro/organization.data:229
 msgid "Communication and Outreach"
 msgstr "Communication et ouverture"
 
 #: ../../english/intro/organization.data:56
-#: ../../english/intro/organization.data:227
+#: ../../english/intro/organization.data:232
 msgid "Publicity team"
 msgstr "Équipe de publicité"
 
 #: ../../english/intro/organization.data:57
-#: ../../english/intro/organization.data:295
+#: ../../english/intro/organization.data:300
 msgid "Support and Infrastructure"
 msgstr "Assistance et infrastructure"
 
@@ -119,179 +119,179 @@ msgstr "Chef du projet"
 msgid "Technical Committee"
 msgstr "Comité technique"
 
-#: ../../english/intro/organization.data:77
+#: ../../english/intro/organization.data:82
 msgid "Secretary"
 msgstr "Secrétaire"
 
-#: ../../english/intro/organization.data:85
+#: ../../english/intro/organization.data:90
 msgid "Development Projects"
 msgstr "Projets de développement"
 
-#: ../../english/intro/organization.data:86
+#: ../../english/intro/organization.data:91
 msgid "FTP Archives"
 msgstr "Archives FTP"
 
-#: ../../english/intro/organization.data:88
+#: ../../english/intro/organization.data:93
 msgid "FTP Masters"
 msgstr "Responsables du FTP"
 
-#: ../../english/intro/organization.data:94
+#: ../../english/intro/organization.data:99
 msgid "FTP Assistants"
 msgstr "Assistants pour le FTP"
 
-#: ../../english/intro/organization.data:99
+#: ../../english/intro/organization.data:104
 msgid "FTP Wizards"
 msgstr "Conseillers pour le FTP"
 
-#: ../../english/intro/organization.data:103
+#: ../../english/intro/organization.data:108
 msgid "Backports"
 msgstr "Rétroportages"
 
-#: ../../english/intro/organization.data:105
+#: ../../english/intro/organization.data:110
 msgid "Backports Team"
 msgstr "Équipe en charge des rétroportages"
 
-#: ../../english/intro/organization.data:109
+#: ../../english/intro/organization.data:114
 msgid "Individual Packages"
 msgstr "Paquets individuels"
 
-#: ../../english/intro/organization.data:110
+#: ../../english/intro/organization.data:115
 msgid "Release Management"
 msgstr "Organisation des nouvelles versions"
 
-#: ../../english/intro/organization.data:112
+#: ../../english/intro/organization.data:117
 msgid "Release Team"
 msgstr "Équipe de publication"
 
-#: ../../english/intro/organization.data:125
+#: ../../english/intro/organization.data:130
 msgid "Quality Assurance"
 msgstr "Assurance qualité"
 
-#: ../../english/intro/organization.data:126
+#: ../../english/intro/organization.data:131
 msgid "Installation System Team"
 msgstr "Équipe du système d'installation"
 
-#: ../../english/intro/organization.data:127
+#: ../../english/intro/organization.data:132
 msgid "Release Notes"
 msgstr "Notes de publication"
 
-#: ../../english/intro/organization.data:129
+#: ../../english/intro/organization.data:134
 msgid "CD Images"
 msgstr "Images CD"
 
-#: ../../english/intro/organization.data:131
+#: ../../english/intro/organization.data:136
 msgid "Production"
 msgstr "Production"
 
-#: ../../english/intro/organization.data:139
+#: ../../english/intro/organization.data:144
 msgid "Testing"
 msgstr "Test"
 
-#: ../../english/intro/organization.data:141
+#: ../../english/intro/organization.data:146
 msgid "Autobuilding infrastructure"
 msgstr "Infrastructure des empaqueteurs automatiques"
 
-#: ../../english/intro/organization.data:143
+#: ../../english/intro/organization.data:148
 msgid "Wanna-build team"
 msgstr "Équipe en charge de wanna-build"
 
-#: ../../english/intro/organization.data:151
+#: ../../english/intro/organization.data:156
 msgid "Buildd administration"
 msgstr "Administration des démons de construction"
 
-#: ../../english/intro/organization.data:170
+#: ../../english/intro/organization.data:175
 msgid "Documentation"
 msgstr "Documentation"
 
-#: ../../english/intro/organization.data:175
+#: ../../english/intro/organization.data:180
 msgid "Work-Needing and Prospective Packages list"
 msgstr "Liste des paquets en souffrance et paquets souhaités"
 
-#: ../../english/intro/organization.data:178
+#: ../../english/intro/organization.data:183
 msgid "Debian Live Team"
 msgstr "Équipe Debian Live"
 
-#: ../../english/intro/organization.data:179
+#: ../../english/intro/organization.data:184
 msgid "Ports"
 msgstr "Portages"
 
-#: ../../english/intro/organization.data:214
+#: ../../english/intro/organization.data:219
 msgid "Special Configurations"
 msgstr "Configurations spéciales"
 
-#: ../../english/intro/organization.data:217
+#: ../../english/intro/organization.data:222
 msgid "Laptops"
 msgstr "Portables"
 
-#: ../../english/intro/organization.data:218
+#: ../../english/intro/organization.data:223
 msgid "Firewalls"
 msgstr "Pare-feux"
 
-#: ../../english/intro/organization.data:219
+#: ../../english/intro/organization.data:224
 msgid "Embedded systems"
 msgstr "Systèmes embarqués"
 
-#: ../../english/intro/organization.data:232
+#: ../../english/intro/organization.data:237
 msgid "Press Contact"
 msgstr "Contact presse"
 
-#: ../../english/intro/organization.data:234
+#: ../../english/intro/organization.data:239
 msgid "Web Pages"
 msgstr "Pages web"
 
-#: ../../english/intro/organization.data:244
+#: ../../english/intro/organization.data:249
 msgid "Planet Debian"
 msgstr "Planet Debian"
 
-#: ../../english/intro/organization.data:249
+#: ../../english/intro/organization.data:254
 msgid "Outreach"
 msgstr "Programme d'ouverture"
 
-#: ../../english/intro/organization.data:253
+#: ../../english/intro/organization.data:258
 msgid "Debian Women Project"
 msgstr "Projet Debian Women"
 
-#: ../../english/intro/organization.data:261
+#: ../../english/intro/organization.data:266
 msgid "Anti-harassment"
 msgstr "Anti-harcèlement"
 
-#: ../../english/intro/organization.data:267
+#: ../../english/intro/organization.data:272
 msgid "Events"
 msgstr "Événements"
 
-#: ../../english/intro/organization.data:273
+#: ../../english/intro/organization.data:278
 msgid "DebConf Committee"
 msgstr "Comité DebConf"
 
-#: ../../english/intro/organization.data:280
+#: ../../english/intro/organization.data:285
 msgid "Partner Program"
 msgstr "Programme de partenariat"
 
-#: ../../english/intro/organization.data:285
+#: ../../english/intro/organization.data:290
 msgid "Hardware Donations Coordination"
 msgstr "Coordination des dons de machines"
 
-#: ../../english/intro/organization.data:298
+#: ../../english/intro/organization.data:303
 msgid "User support"
 msgstr "Assistance aux utilisateurs"
 
-#: ../../english/intro/organization.data:365
+#: ../../english/intro/organization.data:370
 msgid "Bug Tracking System"
 msgstr "Système de suivi des bogues"
 
-#: ../../english/intro/organization.data:370
+#: ../../english/intro/organization.data:375
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Administration et archives des listes de diffusion"
 
-#: ../../english/intro/organization.data:378
+#: ../../english/intro/organization.data:383
 msgid "New Members Front Desk"
 msgstr "Secrétariat des nouveaux membres"
 
-#: ../../english/intro/organization.data:384
+#: ../../english/intro/organization.data:389
 msgid "Debian Account Managers"
 msgstr "Responsables des comptes de Debian"
 
-#: ../../english/intro/organization.data:388
+#: ../../english/intro/organization.data:393
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
@@ -299,31 +299,31 @@ msgstr ""
 "Pour envoyer un message privé à tous les gestionnaires de comptes (DAM), "
 "veuillez utiliser la clef GPG 57731224A9762EA155AB2A530CA8D15BB24D96F2."
 
-#: ../../english/intro/organization.data:389
+#: ../../english/intro/organization.data:394
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Responsable du fichier de clefs (PGP et GPG)"
 
-#: ../../english/intro/organization.data:392
+#: ../../english/intro/organization.data:397
 msgid "Security Team"
 msgstr "Équipe de sécurité"
 
-#: ../../english/intro/organization.data:404
+#: ../../english/intro/organization.data:409
 msgid "Consultants Page"
 msgstr "Page des consultants"
 
-#: ../../english/intro/organization.data:409
+#: ../../english/intro/organization.data:414
 msgid "CD Vendors Page"
 msgstr "Pages des revendeurs de CD"
 
-#: ../../english/intro/organization.data:412
+#: ../../english/intro/organization.data:417
 msgid "Policy"
 msgstr "Normes"
 
-#: ../../english/intro/organization.data:417
+#: ../../english/intro/organization.data:422
 msgid "System Administration"
 msgstr "Administration système"
 
-#: ../../english/intro/organization.data:418
+#: ../../english/intro/organization.data:423
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
@@ -332,7 +332,7 @@ msgstr ""
 "des machines Debian, en particulier les problèmes de mots de passe ou si "
 "vous souhaitez l'installation d'un nouveau paquet."
 
-#: ../../english/intro/organization.data:428
+#: ../../english/intro/organization.data:432
 msgid ""
 "If you have hardware problems with Debian machines, please see <a href="
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
@@ -343,106 +343,104 @@ msgstr ""
 "\">machines Debian</a>, elle pourrait contenir des informations fournies par "
 "l'administrateur de la machine."
 
-#: ../../english/intro/organization.data:429
+#: ../../english/intro/organization.data:433
 msgid "LDAP Developer Directory Administrator"
 msgstr "Administrateur de la base LDAP des développeurs"
 
-#: ../../english/intro/organization.data:430
+#: ../../english/intro/organization.data:434
 msgid "Mirrors"
 msgstr "Miroirs"
 
-#: ../../english/intro/organization.data:437
+#: ../../english/intro/organization.data:441
 msgid "DNS Maintainer"
 msgstr "Responsable DNS"
 
-#: ../../english/intro/organization.data:438
+#: ../../english/intro/organization.data:442
 msgid "Package Tracking System"
 msgstr "Système de suivi de paquets"
 
-#: ../../english/intro/organization.data:440
+#: ../../english/intro/organization.data:444
 msgid "Treasurer"
 msgstr "Trésorier"
 
-#: ../../english/intro/organization.data:446
+#: ../../english/intro/organization.data:450
 msgid ""
 "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr ""
 "Demandes d'utilisation de <a name=\"trademark\" href=\"m4_HOME/trademark"
 "\">marque déposée</a>"
 
-#: ../../english/intro/organization.data:449
-#| msgid "Alioth administrators"
+#: ../../english/intro/organization.data:453
 msgid "Salsa administrators"
 msgstr "Administration de Salsa"
 
-#: ../../english/intro/organization.data:453
+#: ../../english/intro/organization.data:457
 msgid "Alioth administrators"
 msgstr "Administration d'Alioth"
 
-#: ../../english/intro/organization.data:466
+#: ../../english/intro/organization.data:470
 msgid "Debian for children from 1 to 99"
 msgstr "Debian pour les enfants de 1 à 99 ans"
 
-#: ../../english/intro/organization.data:469
+#: ../../english/intro/organization.data:473
 msgid "Debian for medical practice and research"
 msgstr "Debian pour la pratique médicale et la recherche"
 
-#: ../../english/intro/organization.data:472
+#: ../../english/intro/organization.data:476
 msgid "Debian for education"
 msgstr "Debian pour l'éducation"
 
-#: ../../english/intro/organization.data:477
+#: ../../english/intro/organization.data:481
 msgid "Debian in legal offices"
 msgstr "Debian dans les organismes juridiques"
 
-#: ../../english/intro/organization.data:481
+#: ../../english/intro/organization.data:485
 msgid "Debian for people with disabilities"
 msgstr "Debian pour les personnes handicapées"
 
-#: ../../english/intro/organization.data:485
+#: ../../english/intro/organization.data:489
 msgid "Debian for science and related research"
 msgstr "Debian pour la science et la recherche associée"
 
-#: ../../english/intro/organization.data:488
-#| msgid "Debian for education"
+#: ../../english/intro/organization.data:492
 msgid "Debian for astronomy"
 msgstr "Debian pour l'astronomie"
 
-#~ msgid "current Debian Project Leader"
-#~ msgstr "Chef du projet actuel"
-
-#~ msgid "Summer of Code 2013 Administrators"
-#~ msgstr "Administrateurs du Summer of Code 2013"
-
-#~ msgid "Alpha (Not active: was not released with squeeze)"
-#~ msgstr "Alpha (inactif : non publié avec Squeeze)"
-
-#~ msgid "Volatile Team"
-#~ msgstr "Équipe en charge de volatile"
-
-#~ msgid "Vendors"
-#~ msgstr "Revendeurs"
-
-#~ msgid "Security Audit Project"
-#~ msgstr "Projet d'audit de sécurité"
-
-#~ msgid "Testing Security Team"
-#~ msgstr "Équipe de sécurité de testing"
-
-#~ msgid "DebConf chairs"
-#~ msgstr "Responsables de DebConf"
-
-#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
-#~ msgstr "Responsables du fichier de clefs des mainteneurs Debian (DM)"
-
-#~ msgid "Bits from Debian"
-#~ msgstr "Brèves de Debian"
-
-#~ msgid "Publicity"
-#~ msgstr "Publicité"
+#~ msgid "Live System Team"
+#~ msgstr "Équipe du système autonome (« Live »)"
 
 #~ msgid "Auditor"
 #~ msgstr "Commissaire aux comptes"
 
-#~ msgid "Live System Team"
-#~ msgstr "Équipe du système autonome (« Live »)"
+#~ msgid "Publicity"
+#~ msgstr "Publicité"
+
+#~ msgid "Bits from Debian"
+#~ msgstr "Brèves de Debian"
+
+#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
+#~ msgstr "Responsables du fichier de clefs des mainteneurs Debian (DM)"
+
+#~ msgid "DebConf chairs"
+#~ msgstr "Responsables de DebConf"
+
+#~ msgid "Testing Security Team"
+#~ msgstr "Équipe de sécurité de testing"
+
+#~ msgid "Security Audit Project"
+#~ msgstr "Projet d'audit de sécurité"
+
+#~ msgid "Vendors"
+#~ msgstr "Revendeurs"
+
+#~ msgid "Volatile Team"
+#~ msgstr "Équipe en charge de volatile"
+
+#~ msgid "Alpha (Not active: was not released with squeeze)"
+#~ msgstr "Alpha (inactif : non publié avec Squeeze)"
+
+#~ msgid "Summer of Code 2013 Administrators"
+#~ msgstr "Administrateurs du Summer of Code 2013"
+
+#~ msgid "current Debian Project Leader"
+#~ msgstr "Chef du projet actuel"

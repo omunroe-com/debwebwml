@@ -151,10 +151,10 @@ msgstr "(inačica <get-var version />)"
 msgid "plain text"
 msgstr "običan tekst"
 
-#: ../../english/doc/manuals.defs:154
+#: ../../english/doc/manuals.defs:154 ../../english/doc/manuals.defs:178
 msgid ""
 "The latest <get-var srctype /> source is available through the <a href="
-"\"https://www.debian.org/doc/cvs\">Subversion</a> repository."
+"\"https://packages.debian.org/git\">Git</a> repository."
 msgstr ""
 
 #: ../../english/doc/manuals.defs:156 ../../english/doc/manuals.defs:164
@@ -177,12 +177,6 @@ msgstr ""
 msgid ""
 "The latest <get-var srctype /> source is available through the <a href="
 "\"https://packages.debian.org/subversion\">Subversion</a> repository."
-msgstr ""
-
-#: ../../english/doc/manuals.defs:178
-msgid ""
-"The latest <get-var srctype /> source is available through the <a href="
-"\"https://packages.debian.org/git\">Git</a> repository."
 msgstr ""
 
 #: ../../english/doc/manuals.defs:188
@@ -218,12 +212,12 @@ msgstr ""
 msgid "PDF"
 msgstr ""
 
-#~ msgid "Language:"
-#~ msgstr "Jezik:"
-
 #~ msgid ""
 #~ "Use <a href=\"cvs\">SVN</a> to download the SGML source text for <get-var "
 #~ "ddp_pkg_loc />."
 #~ msgstr ""
 #~ "Koristite <a href=\"cvs\">SVN</a> za prijenos izvornog teksta u SGML-u za "
 #~ "<get-var ddp_pkg_loc />."
+
+#~ msgid "Language:"
+#~ msgstr "Jezik:"

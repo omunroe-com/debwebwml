@@ -136,17 +136,14 @@ msgid "ARM"
 msgstr "ARM"
 
 #: ../../english/releases/arches.data:11
-#| msgid "64-bit PC (amd64)"
 msgid "64-bit ARM (AArch64)"
 msgstr "64-bitový ARM (AArch64)"
 
 #: ../../english/releases/arches.data:12
-#| msgid "EABI ARM"
 msgid "EABI ARM (armel)"
 msgstr "EABI ARM (armel)"
 
 #: ../../english/releases/arches.data:13
-#| msgid "Hard Float ABI ARM"
 msgid "Hard Float ABI ARM (armhf)"
 msgstr "ABI ARM s hardvérovým FPU (armhf)"
 
@@ -183,7 +180,6 @@ msgid "MIPS (big endian)"
 msgstr "MIPS (big endian)"
 
 #: ../../english/releases/arches.data:22
-#| msgid "MIPS (little endian)"
 msgid "64-bit MIPS (little endian)"
 msgstr "64-bitový MIPS (little endian)"
 
@@ -211,23 +207,23 @@ msgstr "IBM System z"
 msgid "SPARC"
 msgstr "SPARC"
 
-#~ msgid "Intel x86"
-#~ msgstr "Intel x86"
-
-#~ msgid "AMD64"
-#~ msgstr "AMD64"
-
-#~ msgid "HP PA/RISC"
-#~ msgstr "HP PA/RISC"
-
-#~ msgid "Intel IA-64"
-#~ msgstr "Intel IA-64"
-
-#~ msgid "kFreeBSD (AMD64)"
-#~ msgstr "kFreeBSD (AMD64)"
+#~ msgid "Hurd (i386)"
+#~ msgstr "Hurd (i386)"
 
 #~ msgid "kFreeBSD (Intel x86)"
 #~ msgstr "kFreeBSD (Intel x86)"
 
-#~ msgid "Hurd (i386)"
-#~ msgstr "Hurd (i386)"
+#~ msgid "kFreeBSD (AMD64)"
+#~ msgstr "kFreeBSD (AMD64)"
+
+#~ msgid "Intel IA-64"
+#~ msgstr "Intel IA-64"
+
+#~ msgid "HP PA/RISC"
+#~ msgstr "HP PA/RISC"
+
+#~ msgid "AMD64"
+#~ msgstr "AMD64"
+
+#~ msgid "Intel x86"
+#~ msgstr "Intel x86"

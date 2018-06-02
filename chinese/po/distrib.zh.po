@@ -134,12 +134,10 @@ msgid "ARM"
 msgstr "ARM"
 
 #: ../../english/releases/arches.data:11
-#| msgid "64-bit PC (amd64)"
 msgid "64-bit ARM (AArch64)"
 msgstr "64 位 ARM（AArch64）"
 
 #: ../../english/releases/arches.data:12
-#| msgid "EABI ARM"
 msgid "EABI ARM (armel)"
 msgstr "EABI ARM（armel）"
 
@@ -180,7 +178,6 @@ msgid "MIPS (big endian)"
 msgstr "MIPS（大端序）"
 
 #: ../../english/releases/arches.data:22
-#| msgid "MIPS (little endian)"
 msgid "64-bit MIPS (little endian)"
 msgstr "64 位 MIPS（小端序）"
 

@@ -68,29 +68,29 @@ msgstr ""
 msgid "and"
 msgstr ""
 
-#~ msgid "Vendor:"
-#~ msgstr "Մատակարարող՝"
-
-#~ msgid "URL for Debian Page:"
-#~ msgstr "Debian-ի հասցեն՝"
-
-#~ msgid "Country:"
-#~ msgstr "Երկիր՝"
-
-#~ msgid "Ship International:"
-#~ msgstr "Առաքում այլ երկրներ՝"
-
-#~ msgid "email:"
-#~ msgstr "էլ-փոստ՝"
-
-#~ msgid "CD Type:"
-#~ msgstr "CD տիպը՝"
-
-#~ msgid "DVD Type:"
-#~ msgstr "DVD տիպը՝"
+#~ msgid "Vendor Release"
+#~ msgstr "Մատակարարողի "
 
 #~ msgid "Architectures:"
 #~ msgstr "Համակառույցները՝"
 
-#~ msgid "Vendor Release"
-#~ msgstr "Մատակարարողի "
+#~ msgid "DVD Type:"
+#~ msgstr "DVD տիպը՝"
+
+#~ msgid "CD Type:"
+#~ msgstr "CD տիպը՝"
+
+#~ msgid "email:"
+#~ msgstr "էլ-փոստ՝"
+
+#~ msgid "Ship International:"
+#~ msgstr "Առաքում այլ երկրներ՝"
+
+#~ msgid "Country:"
+#~ msgstr "Երկիր՝"
+
+#~ msgid "URL for Debian Page:"
+#~ msgstr "Debian-ի հասցեն՝"
+
+#~ msgid "Vendor:"
+#~ msgstr "Մատակարարող՝"

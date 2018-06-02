@@ -55,12 +55,10 @@ msgid "%s days in adoption."
 msgstr "„усиновлення“ почалося %s днів тому."
 
 #: ../../english/template/debian/wnpp.wml:46
-#| msgid "%s days in adoption."
 msgid "%s days in adoption, last activity today."
 msgstr "„усиновлення“ почалося %s днів тому, остання активність була сьогодні."
 
 #: ../../english/template/debian/wnpp.wml:50
-#| msgid "in adoption since yesterday."
 msgid "%s days in adoption, last activity yesterday."
 msgstr "„усиновлення“ почалося %s днів тому, остання активність була вчора."
 
@@ -83,50 +81,41 @@ msgid "%s days in preparation."
 msgstr "підготовка почалась %s днів тому."
 
 #: ../../english/template/debian/wnpp.wml:72
-#| msgid "%s days in preparation."
 msgid "%s days in preparation, last activity today."
 msgstr "підготовка почалась %s днів тому, остання активність була сьогодні."
 
 #: ../../english/template/debian/wnpp.wml:76
-#| msgid "in preparation since yesterday."
 msgid "%s days in preparation, last activity yesterday."
 msgstr "підготовка почалась %s днів тому, остання активність була вчора."
 
 #: ../../english/template/debian/wnpp.wml:80
-#| msgid "%s days in preparation."
 msgid "%s days in preparation, last activity %s days ago."
 msgstr ""
 "підготовка почалась %s днів тому, остання активність була %s днів тому."
 
 #. timespans for request for adoption (RFAs)
 #: ../../english/template/debian/wnpp.wml:85
-#| msgid "in adoption since today."
 msgid "adoption requested since today."
 msgstr "запит на „усиновлення“ створений сьогодні."
 
 #: ../../english/template/debian/wnpp.wml:89
-#| msgid "in adoption since yesterday."
 msgid "adoption requested since yesterday."
 msgstr "запит на „усиновлення“ створений вчора."
 
 #: ../../english/template/debian/wnpp.wml:93
-#| msgid "in adoption since today."
 msgid "adoption requested since %s days."
 msgstr "запит на „усиновлення“ створений %s днів тому."
 
 #. timespans for orphaned packages (Os)
 #: ../../english/template/debian/wnpp.wml:98
-#| msgid "in adoption since today."
 msgid "orphaned since today."
 msgstr "„осиротів“ сьогодні."
 
 #: ../../english/template/debian/wnpp.wml:102
-#| msgid "in adoption since yesterday."
 msgid "orphaned since yesterday."
 msgstr "„осиротів“ вчора."
 
 #: ../../english/template/debian/wnpp.wml:106
-#| msgid "in preparation since today."
 msgid "orphaned since %s days."
 msgstr "„осиротів“ %s днів тому."
 

@@ -367,7 +367,6 @@ msgstr ""
 "trademark\">handelsmerk</a>"
 
 #: ../../english/intro/organization.data:453
-#| msgid "Alioth administrators"
 msgid "Salsa administrators"
 msgstr "Salsa-beheerders"
 
@@ -400,36 +399,35 @@ msgid "Debian for science and related research"
 msgstr "Debian voor wetenschappelijke toepassingen en onderzoek"
 
 #: ../../english/intro/organization.data:492
-#| msgid "Debian for education"
 msgid "Debian for astronomy"
 msgstr "Debian voor de sterrenkunde"
 
-#~ msgid "Live System Team"
-#~ msgstr "Livesysteem-team"
-
-#~ msgid "Auditor"
-#~ msgstr "Auditor"
-
-#~ msgid "Publicity"
-#~ msgstr "Publiciteit"
-
-#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
-#~ msgstr "Beheerders van de encryptiesleutels van Debian Maintainers (DM)"
-
-#~ msgid "DebConf chairs"
-#~ msgstr "DebConf-leiding"
-
-#~ msgid "Bits from Debian"
-#~ msgstr "Stukjes van Debian"
-
-#~ msgid "Alpha (Not active: was not released with squeeze)"
-#~ msgstr "Alpha (Niet actief: is niet uitgebracht met squeeze)"
-
-#~ msgid "current Debian Project Leader"
-#~ msgstr "huidige projectleider van Debian"
+#~ msgid "Testing Security Team"
+#~ msgstr "Beveiligingsteam voor Testing"
 
 #~ msgid "Security Audit Project"
 #~ msgstr "Beveiligingsauditproject"
 
-#~ msgid "Testing Security Team"
-#~ msgstr "Beveiligingsteam voor Testing"
+#~ msgid "current Debian Project Leader"
+#~ msgstr "huidige projectleider van Debian"
+
+#~ msgid "Alpha (Not active: was not released with squeeze)"
+#~ msgstr "Alpha (Niet actief: is niet uitgebracht met squeeze)"
+
+#~ msgid "Bits from Debian"
+#~ msgstr "Stukjes van Debian"
+
+#~ msgid "DebConf chairs"
+#~ msgstr "DebConf-leiding"
+
+#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
+#~ msgstr "Beheerders van de encryptiesleutels van Debian Maintainers (DM)"
+
+#~ msgid "Publicity"
+#~ msgstr "Publiciteit"
+
+#~ msgid "Auditor"
+#~ msgstr "Auditor"
+
+#~ msgid "Live System Team"
+#~ msgstr "Livesysteem-team"

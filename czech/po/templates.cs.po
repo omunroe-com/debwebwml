@@ -207,11 +207,11 @@ msgstr "ve vydání 2.2"
 #| "page</a>. Web site source code is <a href=\"m4_HOME/devel/website/"
 #| "using_cvs\">available</a>."
 msgid ""
-"To report a problem with the web site, e-mail our publicly archived mailing "
-"list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists.debian."
-"org</a>.  For other contact information, see the Debian <a href=\"m4_HOME/"
-"contact\">contact page</a>. Web site source code is <a href=\"m4_HOME/devel/"
-"website/using_cvs\">available</a>."
+"To report a problem with the web site, please e-mail our publicly archived "
+"mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists."
+"debian.org</a> in English.  For other contact information, see the Debian <a "
+"href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a href="
+"\"https://salsa.debian.org/webmaster-team/webwml\">available</a>."
 msgstr ""
 "Problémy týkající se webových stránek oznamujte anglicky na e-mail <a href="
 "\"mailto:debian-www@lists.debian.org\">debian-www@lists.debian.org</a>. "
@@ -511,6 +511,10 @@ msgid ""
 "<em>Note:</em> The original document of this translation no longer exists."
 msgstr "<em>Poznámka:</em> Původní dokument tohoto překladu již neexistuje."
 
+#: ../../english/template/debian/translation-check.wml:56
+msgid "Wrong translation version!"
+msgstr ""
+
 #: ../../english/template/debian/url.wml:4
 msgid "URL"
 msgstr "URL"
@@ -519,20 +523,20 @@ msgstr "URL"
 msgid "Back to the <a href=\"../\">Who's using Debian? page</a>."
 msgstr "Zpět na stránku <a href=\"../\">Kdo používá Debian?</a>."
 
-#~ msgid "Rating:"
-#~ msgstr "Hodnocení:"
-
-#~ msgid "Nobody"
-#~ msgstr "Nikdo"
-
-#~ msgid "Taken by:"
-#~ msgstr "Převzal:"
-
-#~ msgid "More information:"
-#~ msgstr "Více informací:"
+#~ msgid "Visit the site sponsor"
+#~ msgstr "Navštivte sponzora stránek"
 
 #~ msgid "Select a server near you"
 #~ msgstr "Zvolte si nejbližší server"
 
-#~ msgid "Visit the site sponsor"
-#~ msgstr "Navštivte sponzora stránek"
+#~ msgid "More information:"
+#~ msgstr "Více informací:"
+
+#~ msgid "Taken by:"
+#~ msgstr "Převzal:"
+
+#~ msgid "Nobody"
+#~ msgstr "Nikdo"
+
+#~ msgid "Rating:"
+#~ msgstr "Hodnocení:"

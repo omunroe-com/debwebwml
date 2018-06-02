@@ -53,7 +53,6 @@ msgid "SRM"
 msgstr "КСВ"
 
 #: ../../english/intro/organization.data:34
-#| msgid "Release Managers"
 msgid "Stable Release Manager"
 msgstr "Керівник стабільного випуску"
 
@@ -66,7 +65,6 @@ msgid "chairman"
 msgstr "голова"
 
 #: ../../english/intro/organization.data:42
-#| msgid "FTP Assistants"
 msgid "assistant"
 msgstr "помічник"
 
@@ -80,23 +78,22 @@ msgid "Officers"
 msgstr "Керівники"
 
 #: ../../english/intro/organization.data:54
-#: ../../english/intro/organization.data:80
+#: ../../english/intro/organization.data:87
 msgid "Distribution"
 msgstr "Дистрибутив"
 
 #: ../../english/intro/organization.data:55
-#: ../../english/intro/organization.data:224
+#: ../../english/intro/organization.data:229
 msgid "Communication and Outreach"
 msgstr "Зв'язок та інформаційна підтримка"
 
 #: ../../english/intro/organization.data:56
-#: ../../english/intro/organization.data:227
-#| msgid "Publicity"
+#: ../../english/intro/organization.data:232
 msgid "Publicity team"
 msgstr "Команда зв'язків з громадськістю"
 
 #: ../../english/intro/organization.data:57
-#: ../../english/intro/organization.data:295
+#: ../../english/intro/organization.data:300
 msgid "Support and Infrastructure"
 msgstr "Підтримка та інфраструктура"
 
@@ -113,188 +110,179 @@ msgstr "Лідер"
 msgid "Technical Committee"
 msgstr "Технічний комітет"
 
-#: ../../english/intro/organization.data:75
+#: ../../english/intro/organization.data:82
 msgid "Secretary"
 msgstr "Секретар"
 
-#: ../../english/intro/organization.data:83
+#: ../../english/intro/organization.data:90
 msgid "Development Projects"
 msgstr "Проекти розробки"
 
-#: ../../english/intro/organization.data:84
+#: ../../english/intro/organization.data:91
 msgid "FTP Archives"
 msgstr "FTP-архіви"
 
-#: ../../english/intro/organization.data:86
-#| msgid "FTP Master"
+#: ../../english/intro/organization.data:93
 msgid "FTP Masters"
 msgstr "FTP-майстри"
 
-#: ../../english/intro/organization.data:90
+#: ../../english/intro/organization.data:99
 msgid "FTP Assistants"
 msgstr "FTP-помічники"
 
-#: ../../english/intro/organization.data:99
+#: ../../english/intro/organization.data:104
 msgid "FTP Wizards"
 msgstr "FTP-чарівники"
 
-#: ../../english/intro/organization.data:103
+#: ../../english/intro/organization.data:108
 msgid "Backports"
 msgstr "Зворотнє перенесення"
 
-#: ../../english/intro/organization.data:105
+#: ../../english/intro/organization.data:110
 msgid "Backports Team"
 msgstr "Команда зворотнього перенесення"
 
-#: ../../english/intro/organization.data:109
+#: ../../english/intro/organization.data:114
 msgid "Individual Packages"
 msgstr "Окремі пакунки пакунки"
 
-#: ../../english/intro/organization.data:110
+#: ../../english/intro/organization.data:115
 msgid "Release Management"
 msgstr "Керування випуском"
 
-#: ../../english/intro/organization.data:112
-#| msgid "Release Notes"
+#: ../../english/intro/organization.data:117
 msgid "Release Team"
 msgstr "Команда, відповідальна за випуск"
 
-#: ../../english/intro/organization.data:125
+#: ../../english/intro/organization.data:130
 msgid "Quality Assurance"
 msgstr "Забезпечення якості"
 
-#: ../../english/intro/organization.data:126
+#: ../../english/intro/organization.data:131
 msgid "Installation System Team"
 msgstr "Команда системи встановлення"
 
-#: ../../english/intro/organization.data:127
+#: ../../english/intro/organization.data:132
 msgid "Release Notes"
 msgstr "Інформація про випуск"
 
-#: ../../english/intro/organization.data:129
+#: ../../english/intro/organization.data:134
 msgid "CD Images"
 msgstr "Образи компакт-дисків"
 
-#: ../../english/intro/organization.data:131
+#: ../../english/intro/organization.data:136
 msgid "Production"
 msgstr "Виробництво"
 
-#: ../../english/intro/organization.data:139
+#: ../../english/intro/organization.data:144
 msgid "Testing"
 msgstr "Тестування"
 
-#: ../../english/intro/organization.data:141
-#| msgid "Support and Infrastructure"
+#: ../../english/intro/organization.data:146
 msgid "Autobuilding infrastructure"
 msgstr "Інфраструктура автоматичного збирання"
 
-#: ../../english/intro/organization.data:143
+#: ../../english/intro/organization.data:148
 msgid "Wanna-build team"
 msgstr "Команда підготовки до збирання"
 
-#: ../../english/intro/organization.data:151
-#| msgid "System Administration"
+#: ../../english/intro/organization.data:156
 msgid "Buildd administration"
 msgstr "Адміністрування збирання"
 
-#: ../../english/intro/organization.data:170
+#: ../../english/intro/organization.data:175
 msgid "Documentation"
 msgstr "Документація"
 
-#: ../../english/intro/organization.data:175
+#: ../../english/intro/organization.data:180
 msgid "Work-Needing and Prospective Packages list"
 msgstr "Список пакунків що потребують доробки або плануються"
 
-#: ../../english/intro/organization.data:178
-#| msgid "Installation System Team"
-msgid "Live System Team"
-msgstr "Команда робочої системи"
+#: ../../english/intro/organization.data:183
+msgid "Debian Live Team"
+msgstr ""
 
-#: ../../english/intro/organization.data:179
+#: ../../english/intro/organization.data:184
 msgid "Ports"
 msgstr "Перенесення"
 
-#: ../../english/intro/organization.data:214
+#: ../../english/intro/organization.data:219
 msgid "Special Configurations"
 msgstr "Спеціальні конфігурації"
 
-#: ../../english/intro/organization.data:217
+#: ../../english/intro/organization.data:222
 msgid "Laptops"
 msgstr "Лептопи"
 
-#: ../../english/intro/organization.data:218
+#: ../../english/intro/organization.data:223
 msgid "Firewalls"
 msgstr "Брандмауери"
 
-#: ../../english/intro/organization.data:219
+#: ../../english/intro/organization.data:224
 msgid "Embedded systems"
 msgstr "Вбудовані системи"
 
-#: ../../english/intro/organization.data:232
+#: ../../english/intro/organization.data:237
 msgid "Press Contact"
 msgstr "Контакт для преси"
 
-#: ../../english/intro/organization.data:234
+#: ../../english/intro/organization.data:239
 msgid "Web Pages"
 msgstr "Веб-сторінки"
 
-#: ../../english/intro/organization.data:244
+#: ../../english/intro/organization.data:249
 msgid "Planet Debian"
 msgstr "Планета Debian"
 
-#: ../../english/intro/organization.data:249
+#: ../../english/intro/organization.data:254
 msgid "Outreach"
 msgstr "Інформаційна підтримка"
 
-#: ../../english/intro/organization.data:253
-#| msgid "Development Projects"
+#: ../../english/intro/organization.data:258
 msgid "Debian Women Project"
 msgstr "Проект Жінки Debian"
 
-#: ../../english/intro/organization.data:261
+#: ../../english/intro/organization.data:266
 msgid "Anti-harassment"
 msgstr "Анти-домагання"
 
-#: ../../english/intro/organization.data:267
+#: ../../english/intro/organization.data:272
 msgid "Events"
 msgstr "Події"
 
-#: ../../english/intro/organization.data:273
-#| msgid "Technical Committee"
+#: ../../english/intro/organization.data:278
 msgid "DebConf Committee"
 msgstr "Комітет DebConf"
 
-#: ../../english/intro/organization.data:280
+#: ../../english/intro/organization.data:285
 msgid "Partner Program"
 msgstr "Партнерська програма"
 
-#: ../../english/intro/organization.data:285
+#: ../../english/intro/organization.data:290
 msgid "Hardware Donations Coordination"
 msgstr "Координація пожертвування обладнання"
 
-#: ../../english/intro/organization.data:298
+#: ../../english/intro/organization.data:303
 msgid "User support"
 msgstr "Підтримка користувачів"
 
-#: ../../english/intro/organization.data:365
+#: ../../english/intro/organization.data:370
 msgid "Bug Tracking System"
 msgstr "Система відслідковування помилок"
 
-#: ../../english/intro/organization.data:370
-#| msgid "Mailing Lists Administration"
+#: ../../english/intro/organization.data:375
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Керування списками розсилки та архіви списків розсилки"
 
-#: ../../english/intro/organization.data:378
-#| msgid "New Maintainers Front Desk"
+#: ../../english/intro/organization.data:383
 msgid "New Members Front Desk"
 msgstr "Реєстраційний стіл нових членів"
 
-#: ../../english/intro/organization.data:384
+#: ../../english/intro/organization.data:389
 msgid "Debian Account Managers"
 msgstr "Керівники облікових записів Debian (КОЗД)"
 
-#: ../../english/intro/organization.data:389
+#: ../../english/intro/organization.data:393
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
@@ -302,31 +290,31 @@ msgstr ""
 "Щоб надіслати приватне повідомлення усім КОЗД, використовуйте ключ GPG "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
 
-#: ../../english/intro/organization.data:390
+#: ../../english/intro/organization.data:394
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Супроводжуючі зв'язок ключів (PGP та GPG)"
 
-#: ../../english/intro/organization.data:393
+#: ../../english/intro/organization.data:397
 msgid "Security Team"
 msgstr "Команда безпеки"
 
-#: ../../english/intro/organization.data:406
+#: ../../english/intro/organization.data:409
 msgid "Consultants Page"
 msgstr "Сторінка консультантів"
 
-#: ../../english/intro/organization.data:411
+#: ../../english/intro/organization.data:414
 msgid "CD Vendors Page"
 msgstr "Сторінка постачальників компакт-дисків"
 
-#: ../../english/intro/organization.data:414
+#: ../../english/intro/organization.data:417
 msgid "Policy"
 msgstr "Політика"
 
-#: ../../english/intro/organization.data:419
+#: ../../english/intro/organization.data:422
 msgid "System Administration"
 msgstr "Системне адміністрування"
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:423
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
@@ -335,7 +323,7 @@ msgstr ""
 "машинами Debian, включно з проблемами з паролями, або якщо вам потрібно "
 "встановити пакунок."
 
-#: ../../english/intro/organization.data:430
+#: ../../english/intro/organization.data:432
 msgid ""
 "If you have hardware problems with Debian machines, please see <a href="
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
@@ -345,100 +333,80 @@ msgstr ""
 "<a href=\"https://db.debian.org/machines.cgi\">Машини Debian</a>, вона "
 "повинна містити інформацію про адміністраторів кожної машини."
 
-#: ../../english/intro/organization.data:431
+#: ../../english/intro/organization.data:433
 msgid "LDAP Developer Directory Administrator"
 msgstr "Адміністратор LDAP-каталогу розробників"
 
-#: ../../english/intro/organization.data:432
+#: ../../english/intro/organization.data:434
 msgid "Mirrors"
 msgstr "Дзеркала"
 
-#: ../../english/intro/organization.data:437
+#: ../../english/intro/organization.data:441
 msgid "DNS Maintainer"
 msgstr "Супроводжуючий DNS"
 
-#: ../../english/intro/organization.data:438
+#: ../../english/intro/organization.data:442
 msgid "Package Tracking System"
 msgstr "Система відслідковування пакунків"
 
-#: ../../english/intro/organization.data:440
-msgid "Auditor"
-msgstr "Ревізор"
+#: ../../english/intro/organization.data:444
+msgid "Treasurer"
+msgstr ""
 
-#: ../../english/intro/organization.data:446
+#: ../../english/intro/organization.data:450
 msgid ""
 "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr ""
 "Запити на використання <a name=\"trademark\" href=\"m4_HOME/trademark"
 "\">торгової марки</a>"
 
-#: ../../english/intro/organization.data:449
+#: ../../english/intro/organization.data:453
+#, fuzzy
+#| msgid "Alioth administrators"
+msgid "Salsa administrators"
+msgstr "Адміністратори Alioth"
+
+#: ../../english/intro/organization.data:457
 msgid "Alioth administrators"
 msgstr "Адміністратори Alioth"
 
-#: ../../english/intro/organization.data:462
+#: ../../english/intro/organization.data:470
 msgid "Debian for children from 1 to 99"
 msgstr "Debian для дітей від 1 до 99"
 
-#: ../../english/intro/organization.data:465
+#: ../../english/intro/organization.data:473
 msgid "Debian for medical practice and research"
 msgstr "Debian для медичної практики та досліджень"
 
-#: ../../english/intro/organization.data:468
+#: ../../english/intro/organization.data:476
 msgid "Debian for education"
 msgstr "Debian для освіти"
 
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:481
 msgid "Debian in legal offices"
 msgstr "Debian в адвокатурах"
 
-#: ../../english/intro/organization.data:477
+#: ../../english/intro/organization.data:485
 msgid "Debian for people with disabilities"
 msgstr "Debian для людей з обмеженими можливостями"
 
-#: ../../english/intro/organization.data:481
-#| msgid "Debian for medical practice and research"
+#: ../../english/intro/organization.data:489
 msgid "Debian for science and related research"
 msgstr "Debian для науки та суміжних досліджень"
 
-#~ msgid "Publicity"
-#~ msgstr "Зв'язки з громадскістю"
+#: ../../english/intro/organization.data:492
+#, fuzzy
+#| msgid "Debian for education"
+msgid "Debian for astronomy"
+msgstr "Debian для освіти"
 
-#~ msgid "Release Assistants"
-#~ msgstr "Помічники керівника випуском"
+#, fuzzy
+#~| msgid "Security Team"
+#~ msgid "Testing Security Team"
+#~ msgstr "Команда безпеки"
 
-#~ msgid "Release Manager for ``stable''"
-#~ msgstr "Керівник випуском „stable“"
-
-#~ msgid "Vendors"
-#~ msgstr "Постачальники"
-
-#~ msgid "APT Team"
-#~ msgstr "Команда APT"
-
-#~ msgid "Mailing List Archives"
-#~ msgstr "Архіви списків розсилки"
-
-#~ msgid "Security Testing Team"
-#~ msgstr "Команда безпеки тестового дистрибутиву"
-
-#~ msgid "Key Signing Coordination"
-#~ msgstr "Координація підписування ключів"
-
-#~ msgid "Accountant"
-#~ msgstr "Рахівник"
-
-#~ msgid "The Universal Operating System as your Desktop"
-#~ msgstr "Універсальна операційна система як робочій стіл"
-
-#~ msgid "Debian for non-profit organisations"
-#~ msgstr "Debian для некомерційних організацій"
-
-#~ msgid "Debian GNU/Linux for Enterprise Computing"
-#~ msgstr "Debian для підприємств"
-
-#~ msgid "Debian Multimedia Distribution"
-#~ msgstr "Мультимедійний дистрибутив Debian"
+#~ msgid "Security Audit Project"
+#~ msgstr "Проект перевірки безпеки"
 
 #~ msgid ""
 #~ "This is not yet an official Debian internal project but it has announced "
@@ -447,10 +415,48 @@ msgstr "Debian для науки та суміжних досліджень"
 #~ "Це ще не є офіційний внутрішній проект Debian, але оголошення про "
 #~ "прагнення інтеграції."
 
-#~ msgid "Security Audit Project"
-#~ msgstr "Проект перевірки безпеки"
+#~ msgid "Debian Multimedia Distribution"
+#~ msgstr "Мультимедійний дистрибутив Debian"
 
-#, fuzzy
-#~| msgid "Security Team"
-#~ msgid "Testing Security Team"
-#~ msgstr "Команда безпеки"
+#~ msgid "Debian GNU/Linux for Enterprise Computing"
+#~ msgstr "Debian для підприємств"
+
+#~ msgid "Debian for non-profit organisations"
+#~ msgstr "Debian для некомерційних організацій"
+
+#~ msgid "The Universal Operating System as your Desktop"
+#~ msgstr "Універсальна операційна система як робочій стіл"
+
+#~ msgid "Accountant"
+#~ msgstr "Рахівник"
+
+#~ msgid "Key Signing Coordination"
+#~ msgstr "Координація підписування ключів"
+
+#~ msgid "Security Testing Team"
+#~ msgstr "Команда безпеки тестового дистрибутиву"
+
+#~ msgid "Mailing List Archives"
+#~ msgstr "Архіви списків розсилки"
+
+#~ msgid "APT Team"
+#~ msgstr "Команда APT"
+
+#~ msgid "Vendors"
+#~ msgstr "Постачальники"
+
+#~ msgid "Release Manager for ``stable''"
+#~ msgstr "Керівник випуском „stable“"
+
+#~ msgid "Release Assistants"
+#~ msgstr "Помічники керівника випуском"
+
+#~ msgid "Publicity"
+#~ msgstr "Зв'язки з громадскістю"
+
+#~ msgid "Auditor"
+#~ msgstr "Ревізор"
+
+#~| msgid "Installation System Team"
+#~ msgid "Live System Team"
+#~ msgstr "Команда робочої системи"

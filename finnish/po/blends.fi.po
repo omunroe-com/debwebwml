@@ -23,13 +23,25 @@ msgstr "Johdannaiset"
 
 #: ../../english/blends/released.data:15
 msgid ""
+"The goal of Debian Astro is to develop a Debian based operating system that "
+"fits the requirements of both professional and hobby astronomers. It "
+"integrates a large number of software packages covering telescope control, "
+"data reduction, presentation and other fields."
+msgstr ""
+"Debian-Astron tavoite on kehittää Debian-pohjainen käyttöjärjestelmä, joka "
+"sopii sekä ammattimaisten että harrastelija-astronomien vaatimuksiin. Se "
+"integroi suuren määrän ohjelmistopaketteja kattaen teleskooppien ohjaamisen, "
+"datan vähentämisen, esittämisen ja muut alat."
+
+#: ../../english/blends/released.data:23
+msgid ""
 "The goal of DebiChem is to make Debian a good platform for chemists in their "
 "day-to-day work."
 msgstr ""
 "DebiChecmin tavoite on tehdä Debianista hyvä alusta kemisteille heidän "
 "päivittäisessä työssään."
 
-#: ../../english/blends/released.data:23
+#: ../../english/blends/released.data:31
 #, fuzzy
 #| msgid ""
 #| "The goal of Debian Games is to provide games in Debian from arcade and "
@@ -40,7 +52,7 @@ msgid ""
 msgstr ""
 "Debian-pelien tavoite on tarjota pelejä Debianille kaikista peligenreistä."
 
-#: ../../english/blends/released.data:31
+#: ../../english/blends/released.data:39
 msgid ""
 "The goal of Debian Edu is to provide a Debian OS system suitable for "
 "educational use and in schools."
@@ -48,7 +60,7 @@ msgstr ""
 "Debian-Edun tavoite on tarjota Debian-käyttöjärjestelmä, joka soveltuu "
 "opetus- ja koulukäyttöön."
 
-#: ../../english/blends/released.data:39
+#: ../../english/blends/released.data:47
 msgid ""
 "The goal of Debian GIS is to develop Debian into the best distribution for "
 "Geographical Information System applications and users."
@@ -56,7 +68,7 @@ msgstr ""
 "Debian-GIS:n tavoite on kehittää Debian parhaaksi jakeluksi geografisille "
 "informaationjärjestelmäsovelluksille ja niiden käyttäjille."
 
-#: ../../english/blends/released.data:49
+#: ../../english/blends/released.data:57
 msgid ""
 "The goal of Debian Junior is to make Debian an OS that children will enjoy "
 "using."
@@ -64,7 +76,7 @@ msgstr ""
 "Debian-Juniorin tavoite on tehdä Debianista käyttöjärjestelmä, jonka "
 "käyttämisestä lapset nauttivat."
 
-#: ../../english/blends/released.data:57
+#: ../../english/blends/released.data:65
 msgid ""
 "The goal of Debian Med is a complete free and open system for all tasks in "
 "medical care and research. To achieve this goal Debian Med integrates "
@@ -77,7 +89,7 @@ msgstr ""
 "bioinformatiikkaan ja klinikoiden IT-infrastruktuuriin ja muut liittyvät "
 "vapaat ja avoimen lähdekoodin ohjelmistot Debian-käyttöjärjestelmään."
 
-#: ../../english/blends/released.data:65
+#: ../../english/blends/released.data:73
 msgid ""
 "The goal of Debian Multimedia is to make Debian a good platform for audio "
 "and multimedia work."
@@ -85,7 +97,7 @@ msgstr ""
 "Debian-Multimedian tavoite on tehdä Debianista hyvä alusta ääni- ja "
 "multimediatyöskentelyyn."
 
-#: ../../english/blends/released.data:73
+#: ../../english/blends/released.data:81
 msgid ""
 "The goal of Debian Science is to provide a better experience when using "
 "Debian to researchers and scientists."
@@ -104,25 +116,13 @@ msgstr ""
 
 #: ../../english/blends/unreleased.data:23
 msgid ""
-"The goal of Debian Astro is to develop a Debian based operating system that "
-"fits the requirements of both professional and hobby astronomers. It "
-"integrates a large number of software packages covering telescope control, "
-"data reduction, presentation and other fields."
-msgstr ""
-"Debian-Astron tavoite on kehittää Debian-pohjainen käyttöjärjestelmä, joka "
-"sopii sekä ammattimaisten että harrastelija-astronomien vaatimuksiin. Se "
-"integroi suuren määrän ohjelmistopaketteja kattaen teleskooppien ohjaamisen, "
-"datan vähentämisen, esittämisen ja muut alat."
-
-#: ../../english/blends/unreleased.data:31
-msgid ""
 "The goal of Debian Design is to provide applications for designers. This "
 "includes graphic design, web design and multimedia design."
 msgstr ""
 "Debian-Designin tavoite on tarjota sovelluksia suunnittelijoille. Tämä "
 "sisältää graafisen suunnittelun, web-suunnittelun ja multimediasuunnittelun."
 
-#: ../../english/blends/unreleased.data:38
+#: ../../english/blends/unreleased.data:30
 msgid ""
 "The goal of Debian EzGo is to provide culture-based open and free technology "
 "with native language support and appropriate user friendly, lightweight and "
@@ -137,7 +137,7 @@ msgstr ""
 "kuten Afrikassa, Afganistanissa, Indonesiassa ja Vietamissa Debiania "
 "käyttäen."
 
-#: ../../english/blends/unreleased.data:46
+#: ../../english/blends/unreleased.data:38
 msgid ""
 "The goal of FreedomBox is to develop, design and promote personal servers "
 "running free software for private, personal communications. Applications "
@@ -152,7 +152,7 @@ msgstr ""
 "solmu laitteessa, joka voi korvata langattoman reitittimen siten, että "
 "tiedot säilyvät käyttäjillä."
 
-#: ../../english/blends/unreleased.data:54
+#: ../../english/blends/unreleased.data:46
 msgid ""
 "The goal of Debian Hamradio is to support the needs of radio amateurs in "
 "Debian by providing logging, data mode and packet mode applications and more."
@@ -160,7 +160,7 @@ msgstr ""
 "Debian-Hamradion tavoite on tukea radioamatöörien tarpeita Debianissa "
 "tarjoamalla lokitusta, datamoodin ja pakettimoodin sovelluksia ja muita."
 
-#: ../../english/blends/unreleased.data:63
+#: ../../english/blends/unreleased.data:55
 msgid ""
 "The goal of DebianParl is to provide applications to support the needs of "
 "parliamentarians, politicians and their staffers all around the world."
@@ -168,8 +168,8 @@ msgstr ""
 "DebianParl:n tavoite on tarjota sovelluksia tukemaan parlamentaarikkojen, "
 "poliitikkojen ja heidän väkensä tarpeisiin ympäri maailman."
 
-#~ msgid "Debian Games"
-#~ msgstr "Debian-pelit"
-
 #~ msgid "Debian Accessibility"
 #~ msgstr "Debian-Esteettömyys"
+
+#~ msgid "Debian Games"
+#~ msgstr "Debian-pelit"

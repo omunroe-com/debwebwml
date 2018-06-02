@@ -74,24 +74,24 @@ msgid "Officers"
 msgstr "Funkcionarji"
 
 #: ../../english/intro/organization.data:54
-#: ../../english/intro/organization.data:80
+#: ../../english/intro/organization.data:87
 msgid "Distribution"
 msgstr "Distribucija"
 
 #: ../../english/intro/organization.data:55
-#: ../../english/intro/organization.data:224
+#: ../../english/intro/organization.data:229
 msgid "Communication and Outreach"
 msgstr ""
 
 #: ../../english/intro/organization.data:56
-#: ../../english/intro/organization.data:227
+#: ../../english/intro/organization.data:232
 #, fuzzy
 #| msgid "Publicity"
 msgid "Publicity team"
 msgstr "Odnosi z javnostjo"
 
 #: ../../english/intro/organization.data:57
-#: ../../english/intro/organization.data:295
+#: ../../english/intro/organization.data:300
 msgid "Support and Infrastructure"
 msgstr "Podpora in infrastruktura"
 
@@ -108,228 +108,226 @@ msgstr "Vodja"
 msgid "Technical Committee"
 msgstr "Tehnicxna komisija"
 
-#: ../../english/intro/organization.data:75
+#: ../../english/intro/organization.data:82
 msgid "Secretary"
 msgstr "Tajnik"
 
-#: ../../english/intro/organization.data:83
+#: ../../english/intro/organization.data:90
 msgid "Development Projects"
 msgstr "Razvojni projekti"
 
-#: ../../english/intro/organization.data:84
+#: ../../english/intro/organization.data:91
 msgid "FTP Archives"
 msgstr "Arhive FTP"
 
-#: ../../english/intro/organization.data:86
+#: ../../english/intro/organization.data:93
 msgid "FTP Masters"
 msgstr ""
 
-#: ../../english/intro/organization.data:90
+#: ../../english/intro/organization.data:99
 msgid "FTP Assistants"
 msgstr ""
 
-#: ../../english/intro/organization.data:99
+#: ../../english/intro/organization.data:104
 msgid "FTP Wizards"
 msgstr ""
 
-#: ../../english/intro/organization.data:103
+#: ../../english/intro/organization.data:108
 msgid "Backports"
 msgstr ""
 
-#: ../../english/intro/organization.data:105
+#: ../../english/intro/organization.data:110
 msgid "Backports Team"
 msgstr ""
 
-#: ../../english/intro/organization.data:109
+#: ../../english/intro/organization.data:114
 msgid "Individual Packages"
 msgstr "Posamezni paketi"
 
-#: ../../english/intro/organization.data:110
+#: ../../english/intro/organization.data:115
 msgid "Release Management"
 msgstr "Upravljanje izdaje"
 
-#: ../../english/intro/organization.data:112
+#: ../../english/intro/organization.data:117
 #, fuzzy
 msgid "Release Team"
 msgstr "Upravitelj izdaje"
 
-#: ../../english/intro/organization.data:125
+#: ../../english/intro/organization.data:130
 msgid "Quality Assurance"
 msgstr "Zagotavljanje kakovosti"
 
-#: ../../english/intro/organization.data:126
+#: ../../english/intro/organization.data:131
 msgid "Installation System Team"
 msgstr "Skupina za namestitveni sistem"
 
-#: ../../english/intro/organization.data:127
+#: ../../english/intro/organization.data:132
 #, fuzzy
 msgid "Release Notes"
 msgstr "Upravitelj izdaje"
 
-#: ../../english/intro/organization.data:129
+#: ../../english/intro/organization.data:134
 msgid "CD Images"
 msgstr "CD Images"
 
-#: ../../english/intro/organization.data:131
+#: ../../english/intro/organization.data:136
 msgid "Production"
 msgstr "Produkcija"
 
-#: ../../english/intro/organization.data:139
+#: ../../english/intro/organization.data:144
 msgid "Testing"
 msgstr "Testiranje"
 
-#: ../../english/intro/organization.data:141
+#: ../../english/intro/organization.data:146
 #, fuzzy
 #| msgid "Support and Infrastructure"
 msgid "Autobuilding infrastructure"
 msgstr "Podpora in infrastruktura"
 
-#: ../../english/intro/organization.data:143
+#: ../../english/intro/organization.data:148
 msgid "Wanna-build team"
 msgstr ""
 
-#: ../../english/intro/organization.data:151
+#: ../../english/intro/organization.data:156
 #, fuzzy
 #| msgid "System Administration"
 msgid "Buildd administration"
 msgstr "Sistemska administracija"
 
-#: ../../english/intro/organization.data:170
+#: ../../english/intro/organization.data:175
 msgid "Documentation"
 msgstr "Dokumentacija"
 
-#: ../../english/intro/organization.data:175
+#: ../../english/intro/organization.data:180
 #, fuzzy
 msgid "Work-Needing and Prospective Packages list"
 msgstr "Seznam nadebudnih in dela potrebnih paketov"
 
-#: ../../english/intro/organization.data:178
-#, fuzzy
-#| msgid "Installation System Team"
-msgid "Live System Team"
-msgstr "Skupina za namestitveni sistem"
+#: ../../english/intro/organization.data:183
+msgid "Debian Live Team"
+msgstr ""
 
-#: ../../english/intro/organization.data:179
+#: ../../english/intro/organization.data:184
 msgid "Ports"
 msgstr "Druge platforme"
 
-#: ../../english/intro/organization.data:214
+#: ../../english/intro/organization.data:219
 msgid "Special Configurations"
 msgstr "Posebne konfiguracije"
 
-#: ../../english/intro/organization.data:217
+#: ../../english/intro/organization.data:222
 msgid "Laptops"
 msgstr "Prenosni racxunalniki"
 
-#: ../../english/intro/organization.data:218
+#: ../../english/intro/organization.data:223
 msgid "Firewalls"
 msgstr "Pozxarni zidovi"
 
-#: ../../english/intro/organization.data:219
+#: ../../english/intro/organization.data:224
 msgid "Embedded systems"
 msgstr ""
 
-#: ../../english/intro/organization.data:232
+#: ../../english/intro/organization.data:237
 msgid "Press Contact"
 msgstr "Predstavnik za tisk"
 
-#: ../../english/intro/organization.data:234
+#: ../../english/intro/organization.data:239
 msgid "Web Pages"
 msgstr "Spletne strani"
 
-#: ../../english/intro/organization.data:244
+#: ../../english/intro/organization.data:249
 msgid "Planet Debian"
 msgstr ""
 
-#: ../../english/intro/organization.data:249
+#: ../../english/intro/organization.data:254
 msgid "Outreach"
 msgstr ""
 
-#: ../../english/intro/organization.data:253
+#: ../../english/intro/organization.data:258
 #, fuzzy
 #| msgid "Development Projects"
 msgid "Debian Women Project"
 msgstr "Razvojni projekti"
 
-#: ../../english/intro/organization.data:261
+#: ../../english/intro/organization.data:266
 msgid "Anti-harassment"
 msgstr ""
 
-#: ../../english/intro/organization.data:267
+#: ../../english/intro/organization.data:272
 msgid "Events"
 msgstr "Dogodki"
 
-#: ../../english/intro/organization.data:273
+#: ../../english/intro/organization.data:278
 #, fuzzy
 #| msgid "Technical Committee"
 msgid "DebConf Committee"
 msgstr "Tehnicxna komisija"
 
-#: ../../english/intro/organization.data:280
+#: ../../english/intro/organization.data:285
 msgid "Partner Program"
 msgstr "Partnerski program"
 
-#: ../../english/intro/organization.data:285
+#: ../../english/intro/organization.data:290
 msgid "Hardware Donations Coordination"
 msgstr ""
 
-#: ../../english/intro/organization.data:298
+#: ../../english/intro/organization.data:303
 msgid "User support"
 msgstr "Podpora uporabnikov"
 
-#: ../../english/intro/organization.data:365
+#: ../../english/intro/organization.data:370
 msgid "Bug Tracking System"
 msgstr "Sledilnik napak"
 
-#: ../../english/intro/organization.data:370
+#: ../../english/intro/organization.data:375
 #, fuzzy
 #| msgid "Mailing Lists Administration"
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Administracija posxtnih seznamov"
 
-#: ../../english/intro/organization.data:378
+#: ../../english/intro/organization.data:383
 #, fuzzy
 #| msgid "New Maintainers Front Desk"
 msgid "New Members Front Desk"
 msgstr "Sprejemnica za nove vzdrzxevalce"
 
-#: ../../english/intro/organization.data:384
+#: ../../english/intro/organization.data:389
 #, fuzzy
 msgid "Debian Account Managers"
 msgstr "Upravitelji uporabnisxkih imen razvijalcev"
 
-#: ../../english/intro/organization.data:389
+#: ../../english/intro/organization.data:393
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
 msgstr ""
 
-#: ../../english/intro/organization.data:390
+#: ../../english/intro/organization.data:394
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Vzdrzxevalci kljucxev (PGP in GPG)"
 
-#: ../../english/intro/organization.data:393
+#: ../../english/intro/organization.data:397
 msgid "Security Team"
 msgstr "Skupina za varnost"
 
-#: ../../english/intro/organization.data:406
+#: ../../english/intro/organization.data:409
 msgid "Consultants Page"
 msgstr "Svetovalska stran"
 
-#: ../../english/intro/organization.data:411
+#: ../../english/intro/organization.data:414
 #, fuzzy
 msgid "CD Vendors Page"
 msgstr "Prodajalci"
 
-#: ../../english/intro/organization.data:414
+#: ../../english/intro/organization.data:417
 msgid "Policy"
 msgstr "Pravilnik"
 
-#: ../../english/intro/organization.data:419
+#: ../../english/intro/organization.data:422
 msgid "System Administration"
 msgstr "Sistemska administracija"
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:423
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
@@ -338,7 +336,7 @@ msgstr ""
 "od Debianovih racxunalnikov, vkljucxno s tezxavami z gesli in paketi, ki jih "
 "potrebujete."
 
-#: ../../english/intro/organization.data:430
+#: ../../english/intro/organization.data:432
 msgid ""
 "If you have hardware problems with Debian machines, please see <a href="
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
@@ -348,97 +346,111 @@ msgstr ""
 "\"https://db.debian.org/machines.cgi\">Debianovi racxunalniki</a>, kjer "
 "boste nasxli podatke o administratorjih posameznih racxunalnikov."
 
-#: ../../english/intro/organization.data:431
+#: ../../english/intro/organization.data:433
 msgid "LDAP Developer Directory Administrator"
 msgstr "Skrbnik imenika razvijalcev LDAP"
 
-#: ../../english/intro/organization.data:432
+#: ../../english/intro/organization.data:434
 msgid "Mirrors"
 msgstr "Zrcalni strezxniki"
 
-#: ../../english/intro/organization.data:437
+#: ../../english/intro/organization.data:441
 msgid "DNS Maintainer"
 msgstr "Vzdrzxevalec DNSa"
 
-#: ../../english/intro/organization.data:438
+#: ../../english/intro/organization.data:442
 msgid "Package Tracking System"
 msgstr "Sledilnikov paketov"
 
-#: ../../english/intro/organization.data:440
-msgid "Auditor"
+#: ../../english/intro/organization.data:444
+msgid "Treasurer"
 msgstr ""
 
-#: ../../english/intro/organization.data:446
+#: ../../english/intro/organization.data:450
 msgid ""
 "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr ""
 
-#: ../../english/intro/organization.data:449
+#: ../../english/intro/organization.data:453
+#, fuzzy
+msgid "Salsa administrators"
+msgstr "Sistemska administracija"
+
+#: ../../english/intro/organization.data:457
 #, fuzzy
 msgid "Alioth administrators"
 msgstr "Sistemska administracija"
 
-#: ../../english/intro/organization.data:462
+#: ../../english/intro/organization.data:470
 msgid "Debian for children from 1 to 99"
 msgstr ""
 
-#: ../../english/intro/organization.data:465
+#: ../../english/intro/organization.data:473
 msgid "Debian for medical practice and research"
 msgstr ""
 
-#: ../../english/intro/organization.data:468
+#: ../../english/intro/organization.data:476
 msgid "Debian for education"
 msgstr ""
 
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:481
 msgid "Debian in legal offices"
 msgstr ""
 
-#: ../../english/intro/organization.data:477
+#: ../../english/intro/organization.data:485
 msgid "Debian for people with disabilities"
 msgstr ""
 
-#: ../../english/intro/organization.data:481
+#: ../../english/intro/organization.data:489
 msgid "Debian for science and related research"
 msgstr ""
 
-#~ msgid "Publicity"
-#~ msgstr "Odnosi z javnostjo"
-
-#, fuzzy
-#~ msgid "Custom Debian Distributions"
-#~ msgstr "Distribucija"
-
-#~ msgid "Release Manager for ``stable''"
-#~ msgstr "Upravitelj izdaje ''stable''"
-
-#~ msgid "Vendors"
-#~ msgstr "Prodajalci"
-
-#~ msgid "APT Team"
-#~ msgstr "Skupina za APT"
-
-#~ msgid "Mailing List Archives"
-#~ msgstr "Arhive posxtnih seznamov"
-
-#, fuzzy
-#~ msgid "Security Testing Team"
-#~ msgstr "Skupina za varnost"
-
-#~ msgid "Mailing list"
-#~ msgstr "Posxtni seznam"
-
-#~ msgid "Installation"
-#~ msgstr "Namestitev"
-
-#~ msgid "Delegates"
-#~ msgstr "Delegati"
-
-#, fuzzy
-#~ msgid "Installation System for ``stable''"
-#~ msgstr "Skupina za namestitveni sistem"
+#: ../../english/intro/organization.data:492
+msgid "Debian for astronomy"
+msgstr ""
 
 #, fuzzy
 #~| msgid "Security Team"
 #~ msgid "Testing Security Team"
 #~ msgstr "Skupina za varnost"
+
+#, fuzzy
+#~ msgid "Installation System for ``stable''"
+#~ msgstr "Skupina za namestitveni sistem"
+
+#~ msgid "Delegates"
+#~ msgstr "Delegati"
+
+#~ msgid "Installation"
+#~ msgstr "Namestitev"
+
+#~ msgid "Mailing list"
+#~ msgstr "Posxtni seznam"
+
+#, fuzzy
+#~ msgid "Security Testing Team"
+#~ msgstr "Skupina za varnost"
+
+#~ msgid "Mailing List Archives"
+#~ msgstr "Arhive posxtnih seznamov"
+
+#~ msgid "APT Team"
+#~ msgstr "Skupina za APT"
+
+#~ msgid "Vendors"
+#~ msgstr "Prodajalci"
+
+#~ msgid "Release Manager for ``stable''"
+#~ msgstr "Upravitelj izdaje ''stable''"
+
+#, fuzzy
+#~ msgid "Custom Debian Distributions"
+#~ msgstr "Distribucija"
+
+#~ msgid "Publicity"
+#~ msgstr "Odnosi z javnostjo"
+
+#, fuzzy
+#~| msgid "Installation System Team"
+#~ msgid "Live System Team"
+#~ msgstr "Skupina za namestitveni sistem"

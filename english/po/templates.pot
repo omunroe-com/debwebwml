@@ -169,7 +169,7 @@ msgstr ""
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
 #: ../../english/template/debian/footer.wml:105
-msgid "To report a problem with the web site, e-mail our publicly archived mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists.debian.org</a>.  For other contact information, see the Debian <a href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a href=\"m4_HOME/devel/website/using_cvs\">available</a>."
+msgid "To report a problem with the web site, please e-mail our publicly archived mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists.debian.org</a> in English.  For other contact information, see the Debian <a href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a href=\"https://salsa.debian.org/webmaster-team/webwml\">available</a>."
 msgstr ""
 
 #: ../../english/template/debian/footer.wml:108
@@ -445,6 +445,10 @@ msgstr ""
 
 #: ../../english/template/debian/translation-check.wml:49
 msgid "<em>Note:</em> The original document of this translation no longer exists."
+msgstr ""
+
+#: ../../english/template/debian/translation-check.wml:56
+msgid "Wrong translation version!"
 msgstr ""
 
 #: ../../english/template/debian/url.wml:4

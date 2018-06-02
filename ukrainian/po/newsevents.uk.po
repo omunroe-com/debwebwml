@@ -21,7 +21,6 @@ msgid "Debian News"
 msgstr "Новини Debian"
 
 #: ../../english/News/news.rdf.in:19
-#| msgid "Latest News"
 msgid "Debian Latest News"
 msgstr "Останні новини Debian"
 
