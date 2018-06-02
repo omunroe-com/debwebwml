@@ -1,0 +1,64 @@
+# Status: [frozen]
+# $Rev$
+#use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Boyuan Yang"
+<define-tag pagetitle>Debian 7 长期支持期结束</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+##
+## Translators: 
+## - if translating while the file is in publicity-team/announcements repo,
+##   please ignore the translation-check header. Publicity team will add it
+##   including the correct translation-check header when moving the file 
+##   to the web repo
+##
+## - if translating while the file is in webmaster-team/webwml repo,
+##   please use the copypage.pl script to create the page in your language
+##   subtree including the correct translation-check header.
+##
+
+<p>Debian 长期支持（LTS）团队在此宣布 Debian 7 "Wheezy" 的支持已于2018年5月31日终止。
+自其于2013年5月4日初次发布至今，该版本总计得到了五年的支持。</p>
+
+<p>Debian 将不会继续提供 Debian 7 的安全更新。Wheezy 软件包中的一小部分将\
+由外部团队提供支持。其详细信息可以参考 <a
+href="https://wiki.debian.org/LTS/Extended">
+LTS 扩展</a>页面。</p>
+
+<p>LTS 团队将准备迁移到支持 Debian 8 "Jessie"，即当前的旧稳定发布版本。
+LTS 团队将于2018年6月17日接管该版本的维护工作。</p>
+
+<p>Debian 8 将同样接受自初始发布后为期五年的长期维护支持，其预计结束日期为\
+2020年6月30日。得到支持的架构包括 amd64、i386、armel 和 armhf。</p>
+
+<p>如需了解使用 Jessie LTS 和从 Wheezy LTS 升级的进一步信息，
+请参考 <a href="https://wiki.debian.org/LTS/Using">LTS/Using</a> 页面。</p>
+
+<p>Debian 及其 LTS 团队在此感谢所有做出贡献的用户、开发者和赞助商，\
+他们的帮助使得延长旧稳定版的支持成为了可能，也使得本次 LTS 版本取得了成功。</p>
+
+<p>如果您的工作依赖 Debian LTS 版本，请考虑<a
+href="https://wiki.debian.org/LTS/Development">加入我们的团队</a>、\
+提供补丁、进行测试或\
+<a href="https://wiki.debian.org/LTS/Funding">赞助我们的工作</a>。</p>
+
+<h2>关于 Debian</h2>
+
+<p>
+Debian 计划由伊恩·默多克于1993年启动，是一个真正自由的社区项目。\
+从那时起，该计划已成长为最大、最有影响力的开源项目之一。\
+来自世界各地数以千计的志愿者共同工作来创造、维护 Debian 的软件。\
+因提供70种语言的支持、且支持许多计算机类型，Debian 称自身为\
+<q>通用操作系统</q>。
+</p>
+
+<h2>更多信息</h2>
+<p>更多与 Debian 长期支持相关的的信息可以在
+<a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>
+页面上找到。</p>
+
+<h2>联系信息</h2>
+
+<p>如需得到更多信息，请访问 Debian 的网站
+<a href="$(HOME)/">https://www.debian.org/</a> 或发送电子邮件至
+&lt;press@debian.org&gt;。</p>
