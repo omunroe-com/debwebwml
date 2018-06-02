@@ -1,0 +1,28 @@
+#use wml::debian::translation-check translation="1427e192d146abb0cd63c769f6e60458d4d8c51f" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Было обнаружено, что Zookeeper, служба для сопровождения информации о
+настройках, переходит в режим без аутентификации/авторизации в случае, когда сервер
+пытается вступить в кворум Zookeeper.</p>
+
+<p>Данное обновление представляет собой обратный перенос поддержки аутентификации. Требуются
+дополнительные шаги настройки, дополнительную информацию см. по адресу
+<a href="https://cwiki.apache.org/confluence/display/ZOOKEEPER/Server-Server+mutual+authentication">\
+https://cwiki.apache.org/confluence/display/ZOOKEEPER/Server-Server+mutual+authentication</a>.</p>
+
+<p>В предыдущем стабильном выпуске (jessie) эта проблема была исправлена
+в версии 3.4.9-3+deb8u1.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 3.4.9-3+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты zookeeper.</p>
+
+<p>С подробным статусом поддержки безопасности zookeeper можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/zookeeper">\
+https://security-tracker.debian.org/tracker/zookeeper</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4214.data"
