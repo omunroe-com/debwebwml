@@ -22,6 +22,7 @@ All discussions involving the web site are held there.
     -- <em>recommended reading!</em>
   <li><a href="working">creating or editing pages in English</a>
     <ul>
+      <li><a href="using_git">how to use git</a>
       <li><a href="using_cvs">how to use CVS (deprecated)</a>
       <li><a href="using_wml">how to use WML</a>
       <li><a href="htmlediting">how to use HTML in Debian Web pages</a>
