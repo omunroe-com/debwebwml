@@ -38,7 +38,8 @@ extension)</li>
 </ul>
 
 <p>Native execution of legacy 32bit binaries is supported by the kernel, and 
-core libraries are provided by the ia32-libs package.</p>
+core libraries needed are provided via Debian's <a
+href="https://wiki.debian.org/Multiarch">Multiarch mechanism</a>.</p>
 
 
 <toc-add-entry name="i386support">Minimalistic AMD64 runtime support for i386</toc-add-entry>
@@ -67,9 +68,9 @@ All Debian members can port packages using the Debian
 <ul>
 #<li><a href="https://alioth.debian.org/docman/view.php/30192/21/debian-amd64-howto.html">The debian-amd64 howto and FAQ</a></li>
 
-<li><a href='https://anonscm.debian.org/viewvc/debian-amd64/'>CVS Repository</a></li>
+#<li><a href='https://anonscm.debian.org/viewvc/debian-amd64/'>CVS Repository</a></li>
 
-<li><a href="https://alioth.debian.org/projects/debian-amd64/">the debian-amd64 Alioth project</a></li>
+#<li><a href="https://alioth.debian.org/projects/debian-amd64/">the debian-amd64 Alioth project</a></li>
 
 <li><a href="https://wiki.debian.org/DebianAMD64">the debian-amd64 Wiki</a></li>
 </ul>
