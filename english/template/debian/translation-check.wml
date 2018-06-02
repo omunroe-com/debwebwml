@@ -65,6 +65,8 @@ use lib "../Perl";
 use lib "../../Perl";
 use lib "../../../Perl";
 use lib "../../../../Perl";
+use lib "../../../../../Perl";
+use lib "../../../../../../Perl";
 use Local::VCS ':all';
 
 sub check_translation {
