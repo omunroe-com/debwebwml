@@ -7,7 +7,7 @@
 #
 # #use wml::debian::translation-check translation="X.xx"
 #
-# where X.xx is the current CVS revision number of the file you have
+# where X.xx is the current GIT revision number of the file you have
 # translated.
 #
 # There are also some additional parameters that you can use on the #use
@@ -19,13 +19,13 @@
 # to the name in languages.wml
 #
 #    mindelta="number"
-# which defines the maximum difference in CVS revisions before the
+# which defines the maximum difference in GIT revisions before the
 # translation is considered aged. The default value is 1. For less important
 # pages, set it to 2, which means that not every change is considered making
 # the translation aged. The value for the <aged/> tag is displayed.
 #
 #    maxdelta="number"
-# which defines the maximum difference in CVS revisions before the
+# which defines the maximum difference in GIT revisions before the
 # translation is considered to be outdated (and the value of the <outdated/>
 # tag is displayed). The default value is 5. For very important pages, set
 # it to be less. A value of 1 means that every change is considered making
@@ -86,7 +86,7 @@ $max_versions = $maxdelta || 5;
 $min_versions = $mindelta || 1;
 
 # Set this to >= 1 to get debugging output.
-# Remember, if you checkin to CVS this needs to be set to 0!
+# Remember, if you checkin to GIT this needs to be set to 0!
 $debug = 0;
 
 # This is the language code of the original (to make a link)
@@ -98,7 +98,7 @@ $link .= ".$original_lang.html";
 # This is the directory where the original source is kept
 $original_dir = $original ? "$original" : "english";
 
-# some brown paper bag code to generate path to the original CVS/Entries
+# some brown paper bag code to generate path to the original file
 @full_directory_name = split '/', $WML_SRC_DIRNAME;
 $dir = pop @full_directory_name;
 while ($dir) {
