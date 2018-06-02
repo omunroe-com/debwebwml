@@ -71,86 +71,86 @@ use Local::VCS ':all';
 
 sub check_translation {
 
-# Input parameters:
-my ($translation, $file, $original, $mindelta, $maxdelta) = @_;
+    # Input parameters:
+    my ($translation, $file, $original, $mindelta, $maxdelta) = @_;
 
-my $parents, $level, $relative_dir, $output;
-my @relative_dir = ();
+    my $parents, $level, $relative_dir, $output;
+    my @relative_dir = ();
 
-# This is the maximum difference between a translated
-# document and the original before considering it outdated
-$max_versions = $maxdelta || 5;
+    # This is the maximum difference between a translated
+    # document and the original before considering it outdated
+    $max_versions = $maxdelta || 5;
 
-# This is the maximum difference between a translated
-# document and the original before considering it aged
-$min_versions = $mindelta || 1;
+    # This is the maximum difference between a translated
+    # document and the original before considering it aged
+    $min_versions = $mindelta || 1;
 
-# Set this to >= 1 to get debugging output.
-# Remember, if you checkin to GIT this needs to be set to 0!
-$debug = 0;
+    # Set this to >= 1 to get debugging output.
+    # Remember, if you checkin to GIT this needs to be set to 0!
+    $debug = 0;
 
-# This is the language code of the original (to make a link)
-$original_lang = $original ? $langs{$original} : "en";
-$link = $file;
-$link =~ s/\.(wml|src)$//;
-$link .= ".$original_lang.html";
+    # This is the language code of the original (to make a link)
+    $original_lang = $original ? $langs{$original} : "en";
+    $link = $file;
+    $link =~ s/\.(wml|src)$//;
+    $link .= ".$original_lang.html";
 
-# This is the directory where the original source is kept
-$original_dir = $original ? "$original" : "english";
+    # This is the directory where the original source is kept
+    $original_dir = $original ? "$original" : "english";
 
-# some brown paper bag code to generate path to the original file
-@full_directory_name = split '/', $WML_SRC_DIRNAME;
-$dir = pop @full_directory_name;
-while ($dir) {
+    # some brown paper bag code to generate path to the original file
+    @full_directory_name = split '/', $WML_SRC_DIRNAME;
+    $dir = pop @full_directory_name;
+    while ($dir) {
 	# below condition is lame, it only works for webwml and cdimage trees <shrug>
 	if ($dir ne "webwml" && $dir ne "cdimage") { $level++; } else { last; }
 	push @relative_dir, $dir;
 	$dir = pop @full_directory_name;
-}
-for (; $level > 0; $level--) { $parents .= "../"; }
-pop @relative_dir;
-@relative_dir = reverse @relative_dir;
-$relative_dir = join '/', @relative_dir;
-my $orig_file = "$parents/$original_dir/$relative_dir/$file";
-
-my $VCS = Local::VCS->new();
-my %file_info = $VCS->file_info($orig_file);
-$version = $file_info{'cmt_rev'};
-unless ($version)
-{
-	die "Could not get revision number - bug in script?\n";
-}
-
-my $version_diff = $VCS->count_changes($orig_file, $translation, $version);
-
-# Here we compare the original version with the translated one and print
-# a note for the user if their first or last numbers are too far apart
-
-print "Comparing original $version to translation version $translation\n" if ($debug >= 1);
-
-</protect>
-$output = '';
-if (!defined $version) {
-    $output = qq(<originalgone/>)
-} else {
-
-    if ($version_diff < 0) {
-	# Shouldn't ever happen unless people have broken the pages
-	# manually
-	$output = qq(<strong><originalolder/></strong>)
-    } elsif ( $version_diff >= $max_versions ) {
-	$output = qq(<strong><translationoutofdate/></strong>)
-    } elsif ( $version_diff >= $min_versions ) {
-	$output = qq(<translationaged/>)
     }
-}
+    for (; $level > 0; $level--) { $parents .= "../"; }
+    pop @relative_dir;
+    @relative_dir = reverse @relative_dir;
+    $relative_dir = join '/', @relative_dir;
+    my $orig_file = "$parents/$original_dir/$relative_dir/$file";
 
-if ($output ne "") {
+    my $VCS = Local::VCS->new();
+    my %file_info = $VCS->file_info($orig_file);
+    $version = $file_info{'cmt_rev'};
+    unless ($version)
+    {
+	die "Could not get revision number - bug in script?\n";
+    }
+
+    my $version_diff = $VCS->count_changes($orig_file, $translation, $version);
+
+    # Here we compare the original version with the translated one and print
+    # a note for the user if their first or last numbers are too far apart
+
+    print "Comparing original $version to translation version $translation\n" if ($debug >= 1);
+
+    </protect>
+	$output = '';
+    if (!defined $version) {
+	$output = qq(<originalgone/>)
+    } else {
+
+	if ($version_diff < 0) {
+	    # Shouldn't ever happen unless people have broken the pages
+	    # manually
+	    $output = qq(<strong><originalolder/></strong>)
+	} elsif ( $version_diff >= $max_versions ) {
+	    $output = qq(<strong><translationoutofdate/></strong>)
+	} elsif ( $version_diff >= $min_versions ) {
+	    $output = qq(<translationaged/>)
+	}
+    }
+
+    if ($output ne "") {
 	$output =~ s/^\s+//m; # removes whitespace at the beginning
 	$output =~ s/\s+$//m; # removes whitespace at the end
 	$output =~ s/\n/ /sg; # replaces linebreaks with whitespace
 	print "<div class=\"trans-note\"><p>$output</p></div>";
-}
+    }
 
 }
 </perl>
