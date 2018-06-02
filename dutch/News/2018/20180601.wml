@@ -1,5 +1,5 @@
 #use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Frans Spiesschaert"
-<define-tag pagetitle>Einde van de verlengde ondersteunde levenscyclus van Debian 7</define-tag>
+<define-tag pagetitle>Langetermijnondersteuning van Debian 7 eindigt</define-tag>
 <define-tag release_date>2018-06-01</define-tag>
 #use wml::debian::news
 
