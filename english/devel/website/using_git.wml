@@ -1,29 +1,36 @@
-#use wml::debian::template title="Using git"
+#use wml::debian::template title="Using git to manipulate website source code"
 
-<p>git is a program to help manage having multiple people work on
-the same material simultaneously. Every user creates a local copy
-of the main repository. The local copies can be on the same machine,
-or across the world. Users can then modify the local copy as they
-wish and when the modified material is ready, commit the changes
-and push them back to the main repository.</p>
+<p>Git is a <a href="https://en.wikipedia.org/wiki/Version_control">version
+control system</a> that helps to manage having multiple people work on
+the same material simultaneously. Every user can hold a local copy of a main
+repository. The local copies can be on the same machine, or across the world.
+Users can then modify the local copy as they wish and when the modified
+material is ready, commit the changes and push them back to the main
+repository.</p>
 
-<p>git will not let you push a file if the copy in the main
-repository has been modified since your last update. Update your
-local copy first.
+<p>Git will not let you push a commit directly if the remote repository has
+any newer commits (modifications) than your local copy on the same branch.
+In such case where conflict takes place, please fetch and update your local
+copy first and <code>rebase</code> your new modifications on top of the latest
+commit.
 </p>
 
 <h3><a name="write-access">git write access</a></h3>
 
 <p>
 If you need write access to the repository, please request it via
-<url https://salsa.debian.org/webmaster-team/webwml/> (if you are new and had
-no access in Alioth, please also send a mail to
-debian-www@lists.debian.org with your introduction).
-Please write something useful in your request, like which language or which
-part of the website you plan to work on, and who would vouch for you.
+<url https://salsa.debian.org/webmaster-team/webwml/> web interface after
+logged in to Debian's Salsa platform.
+If you are new to Debian's website development and had no previous experience,
+please also send a mail to <url mailto:debian-www@lists.debian.org> with your
+introduction). Please write something useful in your introduction, like which
+language or which part of the website you plan to work on, and who would
+vouch for you.
 </p>
 
 <h3><a name="work-on-repository">Working on the repository</a></h3>
+
+<h4><a name="establish-local-repo-copy">Establish local repository copy</a></h4>
 
 <p>You need to install git, to work with the repository and configure your
 user and e-mail (please refer to general git documentation). Once this is
@@ -32,6 +39,35 @@ done, clone the repo with:</p>
 <pre>
    git clone git@salsa.debian.org:webmaster-team/webwml.git
 </pre>
+
+<p>Note that you <strong>must</strong> register a salsa.debian.org account
+in advance and enable git SSH access by uploading a SSH pubkey onto Salsa
+platform before performing <code>git clone</code> via SSH protocol. Otherwise,
+please consider cloning the repository using HTTPS protocol:</p>
+
+<pre>
+  git clone https://salsa.debian.org/webmaster-team/webwml.git
+</pre>
+
+<p>Cloning the whole webwml repository would require downloading around 500MB's
+data thus it can be difficult for those with slow or unstable Internet
+connections. You may try shallow cloning with minimum depth first for fewer
+initial data transmission:</p>
+
+<verbatim>
+  git clone git@salsa.debian.org:webmaster-team/webwml.git --depth 1
+</verbatim>
+
+<p>After obtaining a usable (shallow) repository, you may deepen the local
+shallow copy and eventually completely restore it to a full local repository:
+</p>
+
+<verbatim>
+  git fetch --deepen=1000 # deepen the repo for another 1000 commits
+  git fetch --unshallow   # fetch all missing commits, convert the repo to a complete one
+</verbatim>
+
+<h4><a name="partial-content-checkout">Partial content checkout</a></h4>
 
 <p>You can create a checkout for only a subset of the pages like this:</p>
 
@@ -49,6 +85,8 @@ done, clone the repo with:</p>
    Then:
    $ git checkout --
 </pre>
+
+<h4><a name="submit-changes">Submitting local changes</a></h4>
 
 <p>Every few days (and at least before starting some editing work!) you will want to do a</p>
 
@@ -84,6 +122,7 @@ your changes to the repository using</p>
 <p>You are done. For more information on git, use <code>info git</code>.</p>
 
 ### FIXME: Is the following still true? holgerw
+### FIXME: Seems not true anymore. Needs fixup. -- hosiet-guest
 <p>
 If you include <code>Closes: #</code><var>nnnnnn</var> in your commit log
 entry, then bug number <code>#</code><var>nnnnnn</var> will be closed
