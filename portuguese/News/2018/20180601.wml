@@ -1,0 +1,62 @@
+#use wml::debian::translation-check translation="497f74817df803f23a40b821e03b84d71bc316f2" maintainer="Adriana Cassia da Costa"
+<define-tag pagetitle>O Suporte Estendido do Debian 7 chega ao fim</define-tag>
+<define-tag release_date>2018-06-01</define-tag>
+#use wml::debian::news
+
+<p>O Suporte Estendido do Debian (Long Term Support - LTS em inglês) vem 
+por meio deste anunciar que o suporte ao Debian 7 "Wheezy" chegou ao 
+fim no dia 31 de maio de 2018,
+cinco anos depois do lançamento em 4 de maio de 2013. </p>
+
+<p> O Debian não fornecerá mais atualizações de segurança para o Debian 7. 
+Um subconjunto do pacotes do Wheezy será fornecido por terceiros. 
+A informação detalhada por ser encontrada em
+<a href="https://wiki.debian.org/LTS/Extended"> Extended LTS</a>.</p>
+
+<p> O time de LTS vai preparar a transição para o Debian 8 "Jessie", que
+é a atual versão oldstable. O time do LTS vai assumir o suporte
+pelo time de segurança em 17 de junho de 2018.</p>
+
+<p>O Debian 8 também vai receber o suporte estendido por cinco anos depois
+desse lançamento inicial com o suporte terminando em 30 de junho de 2020.
+As arquiteturas suportadas incluem amd64, i386, armel e armhf.</p>
+
+<p> Para mais informações sobre usar o Jessie LTS e a atualização para o 
+Wheezy LTS, por favor veja em <a href="https://wiki.debian.org/LTS/Using">LTS/Using</a>.</p>
+
+<p>Debian and its LTS Team would like to thank all contributing users,
+developers and sponsors who are making it possible to extend the life
+of previous stable releases, and who have made this LTS a success.</p>
+<p> O Debian e o seu time de LTS gostaria de agradecer a todos os usuários
+contribuidores, desenvolvedores e patrocinadores que tornam possível aumentar o 
+tempo de vida das releases estáveis anteriores, e quem tem feito este
+LTS um sucesso.</p>
+
+<p> Se você confia no Debian LTS, por favor considere
+<a href="https://wiki.debian.org/LTS/Development">fazer parte do time</a>,
+fazendo correções, testando ou 
+<a href="https://wiki.debian.org/LTS/Funding">financiando os esforços</a>.</p>
+
+<h2>Sobre o Debian</h2>
+
+<p>
+O Projeto Debian foi criado em 1993 por Ian Murdock para ser um verdadeiro
+projeto de comunidade livre. Desde então o projeto tem crescido para ser um dos
+maiores e mais influentes projetos de de código aberto. Milhares de voluntários 
+ao redor do mundo trabalham juntos para criar e manter o Debian. Disponível em
+70 idiomas, e suportando uma enorme variedade de tipos de computadores, 
+o Debian é chamado de <q>sistema operacional universal</q>.
+</p>
+
+<h2>Mais informações</h2>
+<p>Mais informações sobre o Suporte Estendido do Debian podem ser encontradas em
+<a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>.</p>
+
+<h2>Informação para contato</h2>
+
+<p>For further information, please visit the Debian web pages at
+<a href="$(HOME)/">https://www.debian.org/</a> or send mail to
+&lt;press@debian.org&gt;.</p>
+<p>Para mais informações, por favor visite as páginas web do Debian em
+<a href="$(HOME)/">https://www.debian.org/</a> ou envie um e-mail (em inglês)
+para &lt;press@debian.org&gt;.</p>
