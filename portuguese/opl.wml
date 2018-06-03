@@ -1,0 +1,140 @@
+#use wml::debian::template title="Licença de Publicação Aberta (Open Publication License)" NOCOPYRIGHT="true"
+#use wml::debian::translation-check translation="d54152841794e2e9a156f6f2abb5445fb98cb218" maintainer="Malkon Faria"
+
+    <p><strong>v1.0, 8 Junho 1999</strong></p>
+
+
+    <h2 id="section1">I. REQUISITOS EM VERSÕES MODIFICADAS E NÃO MODIFICADAS</h2>
+    
+    <p>Os trabalhos de Publicação Aberta podem ser reproduzidos e distribuídos
+      no todo ou em parte, em qualquer mídia física ou eletrônica, desde
+      que os termos desta licença sejam seguidos, e que esta
+      licença ou uma incorporação dela por referência (com quaiquer opções
+      escolhidas pelo(s) autor(es) e/ou editor) sejam mostradas na
+      cópia.</p>
+    
+    <p>A forma adequada para uma incorporação por referência é a seguinte:
+      Copyright (c) &lt;ano&gt; por &lt;nome do autor ou representante&gt;. Este
+      material pode ser distribuído somente sujeito aos termos e
+      condições estabelecidas na Licença de Publicação Aberta, vX.Y ou
+      posterior (a última versão está atualmente disponível em
+      <url "http://www.opencontent.org/openpub/" />). A referência deve ser
+      imediatamente seguida de quaisquer opções escolhidas pelo autor(es)
+      e/ou editor do documento (veja <a href="#section6">seção 
+      VI</a>).</p>
+
+    <p>Redistribuição comercial de material licenciado sob a Publicação Aberta
+      é permitido.</p>
+
+    <p>Qualquer publicação no formato de livro padrão (documento impresso)
+      requer a citação original do autor e editor. O nome do autor e editor
+      devem aparecer em todas as superfícies externas do livro. Em todas
+      as superfícies externas do livro, o nome original do editor deve
+      ser do mesmo tamanho que o título do trabalho e indicado numa relação de
+      posse em referência ao título.</p>
+
+
+    <h2 id="section2">II. DIREITOS AUTORAIS</h2>
+
+    <p>Os direitos autorais para cada Publicação Aberta é detido por seu(s)
+      autor(es) ou representante.</p>
+
+
+    <h2 id="section3">III. ESCOPO DA LICENÇA</h2>
+
+    <p>Os seguintes termos da licença aplicam para todos os trabalhos
+    de Publicação Aberta, a não ser que se indique o contrário neste documento.
+    </p>
+
+    <p>Uma simples agregação de um trabalho de Publicação Aberta, ou uma parte
+    de um trabalho de Publicação Aberta, com outros trabalhos ou programas na
+    mesma mídia não deve resultar na aplicação desta licença para os outros
+    trabalhos. O trabalho agregado deve conter um aviso especificando a
+    inclusão de materiais de Publicação Aberta e um aviso de direitos autorais
+    apropriado.</p>
+
+    <p><em>CLÁUSULA DE SALVAÇÃO</em>. Se alguma parte desta licença for
+    inaplicável em alguma jurisdição, as partes aplicáveis da 
+    da licença permanecem em vigor.</p>
+
+    <p><em>SEM GARANTIA</em>. Trabalhos de Publicação Aberta são licenciados e
+    disponibilizados <q>tal qual</q> sem nenhum tipo de garantia, explícita ou
+    implícita, incluindo, mas não se limitando, à garantia implícita de
+    comercialização e adequação para um propósito particular ou uma garantia
+    de não infração.</p>
+
+
+    <h2 id="section4">IV. REQUISITOS EM TRABALHOS MODIFICADOS</h2>
+
+    <p>Todas as versões modificadas de documentos cobertos por esta licença,
+    incluindo traduções, coletâneas, compilações e documentos
+    parciais, devem cumprir os seguintes requisitos:</p>
+
+    <ul>
+      <li>A versão modificada deve ser identificada como tal.</li>
+      <li>A pessoa que fez as modificações deve ser identificada
+	e as modificações datadas.</li>
+      <li>Reconhecimento do autor e editor original se
+	apropriado deve ser mantido de acordo com práticas usuais de
+    citação acadêmica.</li>
+      <li>A localização do documento original sem modificações deve ser
+    identificada.</li>
+      <li>O(s) nome(es) original(is) do(s) autor(es) não pode(m) ser usado(s)
+	para afirmar ou implicar apoio do decorrente documento sem
+	a permissão do(s) autor(es) original(is).</li>
+    </ul>
+
+
+    <h2 id="section5">V. RECOMENDAÇÕES DE BOAS PRÁTICAS</h2>
+
+    <p>Além dos requisitos desta licença, é pedido
+      e fortemente recomendado aos distribuidores
+      que:</p>
+
+    <ul>
+      <li>Se você estiver distribuindo um trabalho de Publicação Aberta em uma
+    cópia impressa ou CD-ROM, notifique por e-mail os autores sobre sua
+	intenção de redistribuir o trabalho ao menos trinta dias antes do prazo para
+	o manuscrito ou media receberem modificações, dando aos autores tempo para
+    fornecer documentos atualizados. O aviso deverá descrever as
+	modificações no documento, se alguma tiver sido realizada.</li>
+      <li>Todas as modificações importantes (incluindo exclusões) devem ser
+	claramente marcadas no documento ou, alternativamente, descritas em um
+	anexo do documento.</li>
+      <li>Finalmente, embora não seja obrigatório sob esta licença, é
+	considerado uma boa prática oferecer uma cópia gratuita de qualquer
+    versão na forma impressa ou em CD-ROM de um trabalho licenciado sob a
+    Publicação Aberta para seu autor(es).</li>
+    </ul>
+
+
+    <h2 id="section6">VI. OPÇÕES DE LICENÇA</h2>
+
+    <p>O(s) autor(es) e/ou editor de um documento licenciado sob a Publicação
+      Aberta pode(m) escolher determinadas opções anexando uma declaração à
+      referência ou cópia da licença. Essas opções são consideradas
+      partes da instância da licença e devem ser incluídas
+      com a licença (ou sua incorporação por referência) em trabalhos
+      derivados.</p>
+
+    <p>A. Proibir distribuição de versões substancialmente modificadas
+      sem a permissão explícita do(s) autor(es). <q>Modificações
+      substanciais</q> são definidas como uma mudança do conteúdo semântico do
+      documento, e excluem meras mudanças no formato ou correções
+      tipográficas.</p>
+
+    <p>Para realizar isso, adicione a frase <q>A distribuição de versões
+      substancialmente modificadas deste documento é proibida
+      sem a permissão explícita do detentor dos direitos autorais.</q> à
+      referência da licença ou cópia da mesma.</p>
+
+    <p>B. Proibir qualquer publicação deste trabalho ou trabalhos derivados
+      no todo ou em parte no formato de livro padrão (documento impresso) para
+      propósitos comerciais é proibido a menos que permissão prévia do detentor
+      dos direitos autorais seja obtida.</p>
+
+    <p>Para realizar isso, adicione a frase <q>Distribuição do trabalho ou
+      de trabalhos derivados em qualquer formato de livro padrão (documento
+      impresso) é proibido a menos que permissão prévia do detentor dos
+      direitos autorais seja obtida.</q> à referência da licença ou cópia
+      da mesma.</p>
