@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: stats\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Andreas Rönnquist <gusnan@openmailbox.org>\n"
+"Last-Translator: Andreas Rönnquist <andreas@ronnquist.net>\n"
 "Language-Team: debian-l10n-swedish@lists.debian.org\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: ../../english/template/debian/stats_tags.wml:6
 msgid "Debian web site translation statistics"
@@ -65,15 +65,13 @@ msgid "Colored diff"
 msgstr "Färglagd diff"
 
 #: ../../stattrans.pl:524 ../../stattrans.pl:683
-#, fuzzy
-#| msgid "Colored diff"
 msgid "Commit diff"
-msgstr "Färglagd diff"
+msgstr "Commit diff"
 
 #. FIXME - this is clearly wrong, but no idea what's meant to go here!
 #: ../../stattrans.pl:528 ../../stattrans.pl:683
 msgid "Git command line"
-msgstr ""
+msgstr "Git-kommandorad:"
 
 #: ../../stattrans.pl:639 ../../stattrans.pl:785
 msgid "Created with <transstatslink>"

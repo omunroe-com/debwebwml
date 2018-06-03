@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debians tyska sidor" NOHEADER="yes"
 #include "$(ENGLISHDIR)/../german/international/German/credits.tags"
-#use wml::debian::translation-check translation="9fd892e7f6e978e15e986f2f57dfad53887a79bf"
+#use wml::debian::translation-check translation="c0816ff3dae7deb1cd48fb2f83fa934f5e5f3559"
 
 <h3>Översätta www.debian.org</h3>
 
