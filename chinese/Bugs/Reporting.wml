@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 缺陷跟踪系统——报告缺陷" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="03a2dd8bac69ccecb2fb4a2f03c82697c0577e97" maintainer="Boyuan Yang"
+#use wml::debian::translation-check translation="ace5b9358f0f4839bfd54cee02fa21e6a68a0a09" maintainer="Boyuan Yang"
 
 <h1>如何使用 reportbug 在 Debian 中报告问题</h1>
 
@@ -7,12 +7,13 @@
 <p>我们强烈建议您在 Debian 中报告问题、缺陷与错误时使用
 <code><a
 href="https://packages.debian.org/stable/utils/reportbug">reportbug</a></code>
-程序。如需安装并启动它，您仅需运行：</p>
+程序。</p>
 
-<blockquote>
- <p># <kbd>apt-get install reportbug</kbd><br/>
-    $ <kbd>reportbug</kbd></p>
-</blockquote>
+<p>reportbug 在大多数系统上已默认安装。如果在您的系统上暂时不可用，\
+您可以使用软件包管理工具进行安装。</p>
+
+<p>reportbug 工具可以从图形界面系统菜单中的<q>系统</q>分区中找到并启动，\
+您也可以在命令行输入 <code>reportbug</code> 来启动它。</p>
 
 <p>该程序将引导您一步一步完成缺陷报告流程。</p>
 
