@@ -50,8 +50,9 @@ when the pages you maintain are updated in English, and need your
 attention to update the translation. For that, simply add your name as
 maintainer at the end of the <code>#use</code> line to make it look
 like this:
-<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>" maintainer="<var>your name</var>"</kbd>. The <tt>copypage.pl</tt> will
-do this automatically if you set the <tt>DWWW_MAINT</tt> environment variable
+<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>" maintainer="<var>your name</var>"</kbd>.
+The <tt>copypage.pl</tt> will do this automatically 
+if you set the <tt>DWWW_MAINT</tt> environment variable
 or use the <tt>-m</tt> command-line switch.
 </p>
 
