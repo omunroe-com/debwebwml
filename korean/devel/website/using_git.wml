@@ -1,0 +1,149 @@
+#use wml::debian::template title="Using git"
+#use wml::debian::translation-check translation="c31136bc70bb27a22ea5f9a6d6e7c9ee883ec8ca" maintainer="Sebul"
+
+<p>git 은 같은 자료에서 여러 사람이 동시에 일하는 것을 다루는 것을 돕는 프로그램입니다.
+모든 사용자는 주 저장소의 지역 사본을 만듭니다.
+지역 사본ᅟ은 같은 기계에, 또는 세계에 있을 수 있습니다.
+사용자는 지역사본을 원하는 대로 바꾸고, 바뀐 자료가 준비되면, 변경을 커밋하고 
+그것을 주 저장소에 다시 밀어넣습니다.</p>
+
+<p>git은 여러분이 마지막 업데이트 후 주 저장소의 사본이 바뀌면 파일을 밀어넣지 못하게 합니다.
+여러분의 지역 사본을 먼저 업데이트하세요.
+</p>
+
+<h3><a name="write-access">git 쓰기 권한</a></h3>
+
+<p>저장소에 쓰기 권한이 필요하면,
+<url https://salsa.debian.org/webmaster-team/webwml/>를 통해 요청하세요.
+여러분의 요청에 유용한 것(어떤 언어 또는 어느 부분의 웹 사이트에서 일하기 원하는지
+그리고 여러분을 보증할지)을 쓰세요.</p>
+
+<h3><a name="work-on-repository">저장소에서 작업하기</a></h3>
+
+<p>저장소로 작업하고 여러분의 사용자와 e-mailgit을 설정하려면 git을 설치해야 합니다
+(일반적인 git 문서 참조).
+한번 이것이 되면, 저장소를 복제합니다:</p>
+
+<pre>
+   git clone git@salsa.debian.org:webmaster-team/webwml.git
+</pre>
+
+<p>You can create a checkout for only a subset of the pages like this:</p>
+
+<pre>
+   $ git clone --no-checkout git@salsa.debian.org:webmaster-team/webwml.git
+   $ cd webwml
+   $ git config core.sparseCheckout true
+   In webwml: Create the file .git/info/sparse-checkout with content like this
+   (if you only want the base files, English, Catalan and Spanish translations):
+      /*
+      !/[a-z]*/
+      /english/
+      /catalan/
+      /spanish/
+   Then:
+   $ git checkout --
+</pre>
+
+<p>Every few days (and at least before starting some editing work!) you will want to do a</p>
+
+<pre>
+   git pull
+</pre>
+
+<p>to retrieve any files from the repository which have changed.</p>
+
+<p>Note that since git is a distributed (not centralised) system, after you
+commit your changes you need to push your changes to the repo in Salsa.</p>
+
+<p><b>So an edition in an English file will look like this:</b></p>
+
+<pre>
+   $ git pull
+</pre>
+
+<p>Do your changes/edition to the file. When you are done, you can commit 
+your changes to the repository using</p>
+
+<pre>
+   $ git add path/to/file(s)
+   $ git commit -m "Your commit message"
+</pre>
+
+<p>Then, push your changes to the Salsa repo:</p>
+
+<pre>
+   $ git push
+</pre>
+
+<p>You are done. For more information on git, use <code>info git</code>.</p>
+
+### FIXME: Is the following still true? holgerw
+<p>
+If you include <code>Closes: #</code><var>nnnnnn</var> in your commit log
+entry, then bug number <code>#</code><var>nnnnnn</var> will be closed
+automatically when you push your changes. The precise form of this is the same as
+<a href="$(DOC)/debian-policy/footnotes.html#f17">in Debian policy</a>.</p>
+
+<p>
+Many Debian websites support SSL, please use HTTPS links for the
+ones that do support SSL.
+Some Debian/DebConf/SPI/etc websites do not have HTTPS support or are
+only signed by SPI and not by any SSL CA that is trusted by browsers
+outside of Debian, we should avoid linking to https: versions of
+these websites so that people not using Debian don't get errors
+they may not understand.
+The git repository will reject commits containing plain HTTP links for
+Debian websites that support HTTPS or containing HTTPS links for the
+Debian/DebConf/SPI websites that are known to either not
+support HTTPS or use certificates signed only by SPI.</p>
+
+<h3><a name="translation-work">Working on translations</a></h3>
+
+<p>
+If you change translated files, you need to update the translation-check
+header to match the git commit hash of the corresponding change in the
+English file. You can find that hash with
+
+<pre>
+$ git log path/to/english/file
+</pre>
+
+If you do a new translation of a file, please use the <q>copypage.pl</q> script
+and it will create a template for your language, including the correct
+translation header.</p>
+
+<h3><a name="translation-smart-change">Translation changes with smart_change.pl</a></h3>
+
+<p>There is a *NEW* implementation of smart_change.pl which is limited to
+supporting git commit hashes. To use it:</p>
+
+<ul>
+  <li>Make the changes to the original file(s), and commit</li>
+  <li>Update translations</li>
+  <li>Run smart_change.pl - it will pick up the changes and update
+      headers in the translation files</li>
+  <li>Review the changes (for example with <q>git diff -u</q>)</li>
+  <li>Commit and push the changes</li>
+
+<h3><a name="notifications">Getting notifications</a></h3>
+
+<p>
+We have setup the configuration of the project in Salsa, so commits are
+shown in the IRC channel #debian-www.</p>
+
+<p>If you want to receive notifications via e-mail when there are
+commits in the webwml repo, please subscribe to the <q>www.debian.org</q>
+pseudopackage via tracker.debian.org and activate the <q>vcs</q> keyword
+there, following these steps (only once):</p>
+
+<ul>
+  <li>Open a web browser and go to <url https://tracker.debian.org/pkg/www.debian.org></li>
+  <li>Subscribe to the <q>www.debian.org</q> pseudopackage. (You can authenticate
+      via SSO or register an email and password, if you were not using
+      tracker.debian.org already for other purposes).</li>
+  <li>Go to <url https://tracker.debian.org/accounts/subscriptions/>, then to <q>modify
+      keywords</q>, check <q>vcs</q> (if it's not checked) and save.</li>
+  <li>From now on you will get e-mails when somebody commits to the
+      webwml repo. We will add the other webmaster-team repositories soon.</li>
+</ul>
