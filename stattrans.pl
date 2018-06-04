@@ -426,7 +426,7 @@ sub vcs_diff_url {
     if ($VCSHOST =~ m/alioth/) {
 	return "$VCSBASE/$path/?r1=$r1&amp;r2=$r2&amp;diff_format=$diff_format";
     } elsif ($VCSHOST =~ m/salsa/) {
-	return "$VCSBASE/compare?from=$r1&to=$r2";
+	return "$VCSBASE/compare?from=$r1&amp;to=$r2";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
     }
