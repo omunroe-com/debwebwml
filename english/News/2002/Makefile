@@ -2,16 +2,5 @@
 # please contact debian-www.
 
 WMLBASE=../..
-CUR_DIR=News/2002
-SUBS=
-
-GETTEXTFILES += newsevents.mo
-
-NOGENERICDEP := true
-include $(WMLBASE)/Make.lang
-
-%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(GETTEXTDEP)
-	$(WML) $(<F)
-index.$(LANGUAGE).html: index.wml $(TEMPLDIR)/template.wml \
-  $(TEMPLDIR)/recent_list.wml $(wildcard 2002*.wml) \
-  $(wildcard $(ENGLISHDIR)/News/2002/2002*.wml) $(GETTEXTDEP)
+THIS_YEAR=2002
+include ../Make.year

@@ -1,0 +1,33 @@
+# If this makefile is not generic enough to support a translation,
+# please contact debian-www.
+
+SUBS=
+
+GETTEXTFILES += newsevents.mo
+
+NOGENERICDEP := true
+include $(WMLBASE)/Make.lang
+
+index.$(LANGUAGE).html: index.wml $(TEMPLDIR)/template.wml \
+  $(TEMPLDIR)/recent_list.wml $(wildcard $(THIS_YEAR)*.wml) \
+  $(wildcard $(ENGLISHDIR)/News/$(THIS_YEAR)/$(THIS_YEAR)*.wml) $(GETTEXTDEP)
+
+# Don't know why onlt these specific news articles are include
+# news_events.wml and not all of them... :-/
+20040524.%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(TEMPLDIR)/news_events.wml $(GETTEXTDEP)
+	$(WML) $(<F)
+20040619.%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(TEMPLDIR)/news_events.wml $(GETTEXTDEP)
+	$(WML) $(<F)
+20041015.%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(TEMPLDIR)/news_events.wml $(GETTEXTDEP)
+	$(WML) $(<F)
+20050218.%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(TEMPLDIR)/news_events.wml $(GETTEXTDEP)
+	$(WML) $(<F)
+20050617.%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(TEMPLDIR)/news_events.wml $(GETTEXTDEP)
+	$(WML) $(<F)
+20050705.%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(TEMPLDIR)/news_events.wml $(GETTEXTDEP)
+	$(WML) $(<F)
+20120120.%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(TEMPLDIR)/news_events.wml $(GETTEXTDEP)
+	$(WML) $(<F)
+
+%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(GETTEXTDEP)
+	$(WML) $(<F)
