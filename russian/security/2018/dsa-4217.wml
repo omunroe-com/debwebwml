@@ -1,0 +1,24 @@
+#use wml::debian::translation-check translation="3def0df3c8040e5cd34998f5a0cfe00cd868f9cd" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Было обнаружено, что Wireshark, анализатор сетевых протоколов, содержит
+несколько уязвимостей в диссекторах для PCP, ADB, NBAP, UMTS MAC,
+IEEE 802.11, SIGCOMP, LDSS, GSM A DTAP и Q.931, которые приводят к отказу
+в обслуживании или выполнению произвольного кода.</p>
+
+<p>В предыдущем стабильном выпуске (jessie) эти проблемы были исправлены
+в версии 1.12.1+g01b65bf-4+deb8u14.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 2.2.6+g32dac6a-2+deb9u3.</p>
+
+<p>Рекомендуется обновить пакеты wireshark.</p>
+
+<p>С подробным статусом поддержки безопасности wireshark можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/wireshark">\
+https://security-tracker.debian.org/tracker/wireshark</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4217.data"
