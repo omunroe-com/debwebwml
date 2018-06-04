@@ -24,7 +24,8 @@ C'est là que toutes les discussions sur le site web se déroulent.
   --<em>lecture recommandée</em>
   <li><a href="working">créer ou éditer les pages en anglais,</a>
     <ul>
-      <li><a href="using_cvs">comment utiliser CVS</a>
+      <li><a href="using_git">comment utiliser git</a>
+      <li><a href="using_cvs">comment utiliser CVS (obsolète)</a>
       <li><a href="using_wml">comment utiliser WML</a>
       <li><a href="htmlediting">comment utiliser HTML
 	sur le site web de Debian</a>
