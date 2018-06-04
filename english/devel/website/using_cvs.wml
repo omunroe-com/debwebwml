@@ -1,16 +1,15 @@
 #use wml::debian::template title="Using CVS (deprecated)"
 
+<div class="important">
 <h3>Important note</h3>
 
 <p>We recently converted the website content repository from CVS 
 to Git.
 You can clone the CVS repository but we are note accepting changes 
 there anymore.
-The new repository is in 
 A page about using Git and the new repository will be provided soon.
 </p>
-
-<h3>Using CVS (deprecated)</h3>
+</div>
 
 <p>CVS is a program to help manage having multiple people work on
 the same material simultaneously. Every user creates a local copy
