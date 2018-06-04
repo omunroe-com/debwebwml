@@ -1,6 +1,6 @@
 #use wml::debian::template title="Hur man arbetar på Debians webbsidor" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="a2ecb1eb5e40411b648499a302c668a3eb820dfe"
+#use wml::debian::translation-check translation="648de6ad5bea60540e41a5733da0b761a34c7927"
 
 <toc-display/>
 
@@ -19,13 +19,12 @@ Om du gör en delvis uthämtning kan du behöva betydligt mindre utrymme,
 t.ex 50 Mbyte för english/.
 </p>
 
-<h3>Delvisa uthämtningar</h3>
+<h3>Ofullständiga uthämtningar</h3>
 
-<p>Många hämtar inte ut hela <code>webwml</code>-CVS-trädet, vilket ibland
+<p>Många hämtar inte ut hela <code>webwml</code>-git-trädet, vilket ibland
 leder till saknade filer och trasiga byggningar om en viktig ny fil läggs
-till och man inte gör en komplett <kbd>cvs update</kbd> i katalogen.
-Kom ihåg att kontrollera om att du har samtliga krävda filer (som
-.wmlrc-filer) innan du klagar till oss.
+till och man inte har en fullständig checkout. Kom ihåg att kontrollera att
+att du har samtliga krävda filer (som .wmlrc-filer) innan du klagar till oss.
 </p>
 
 <h3><q>Vad är raderna som börjar på &rsquo;#&rsquo; för något?</q></h3>
@@ -62,11 +61,10 @@ den, eftersom ändringar i mallar ofta gör att stora delar av webbplatsen
 måste byggas om.
 </p>
 
-<h3>När du lägger till nya kataloger, lägg även till Makefile</h3>
+<h3>När du lägger till nya kataloger, lägg även till en Makefile</h3>
 
 <p>Man bör ha viss omsorg vad det gäller att lägga till nya kataloger till
-CVS-trädet.
-Om den nya katalogen listas i ../Makefile <b>måste</b> du lägga in en
+git. Om den nya katalogen listas i ../Makefile <b>måste</b> du lägga in en
 Makefile i den - i annat fall kommer <tt>make</tt> att ge ett felmeddelande.
 </p>
 
@@ -100,7 +98,7 @@ Gör alltid separata ändringar och inläggningar för ändringar av innehållet
 och av formateringen.
 Om båda ändras samtidigt är det mycket svårare för översättarna att hitta
 ändringen.
-Om du kör <kbd>cvs diff</kbd> vid den här typen av blandade ändringar kan du
+Om du kör <kbd>git diff -u</kbd> vid den här typen av blandade ändringar kan du
 själv se röran.
 </p>
 
@@ -135,7 +133,7 @@ dussin personer med att göra något som snabbt kan göras av en enda person.
 <p>
 För att göra sådana ändringar enklare att lägga in kan du även använda
 skriptet <code>smart_change.pl</code> från översta katalognivån i
-CVS-modulen webwml.
+git-modulen webwml.
 </p>
 
 <h4>Använda smart_change.pl</h4>
