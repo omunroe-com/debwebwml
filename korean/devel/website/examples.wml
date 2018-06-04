@@ -6,7 +6,7 @@
 <p>한국어를 예시로 쓸 겁니다:
 
 <pre>
-   cvs checkout webwml/Makefile.common webwml/english
+   git pull
    cd webwml
    mkdir korean
    cvs add korean
@@ -14,10 +14,10 @@
    cp ../english/.wmlrc ../english/Make.* .
    echo '<protect>include $(subst webwml/french,webwml/english,$(CURDIR))/Makefile</protect>' &gt; Makefile
    mkdir po
-   cvs add Make* .wmlrc po
+   git add Make* .wmlrc
    cp Makefile po
    make -C po init-po
-   cvs add po/Makefile po/*.ko.po
+   git add po/Makefile po/*.ko.po
 </pre>
 
 <p><tt>.wmlrc</tt> 파일을 편집해서 아래와 같이 바꿈:
@@ -45,7 +45,8 @@ the .wml files into HTML, and <code>make</code> uses Makefiles.
 
 <p>When you are done adding and editing pages, do a
 <pre>
-   cvs commit
+   git commit -m "Add your commit message here"
+   git push
 </pre>
 from the webwml directory. You can now start translating the pages.
 
@@ -57,7 +58,7 @@ from the webwml directory. You can now start translating the pages.
    cd webwml
    ./copypage.pl english/social_contract.wml
    cd korean
-   cvs add social_contract.wml
+
 </pre>
 
 <p>This will automatically add the translation-check header, pointing to the 
@@ -69,7 +70,10 @@ any links or change them in any way - if you want to change anything,
 request it on the debian-www list. When done, type
 
 <pre>
-   cvs commit -m "short description of the changes you made" social_contract.wml
+   git add social_contract.wml
+   git commit -m "Translated social contract to french"
+   git push
+
 </pre>
 
 <h3>새 디렉토리 더하는 예</h3>
@@ -79,18 +83,37 @@ request it on the debian-www list. When done, type
 <pre>
    cd webwml/korean
    mkdir intro
-   cvs add intro
+
    cd intro
    cp ../Makefile .
+   git add Makefile
+   git commit -m "added the intro dir to git"
+   git push
+
 </pre>
 
-새 디렉토리는 Makefile 을 갖고 CVS에 커밋되었는지 확인하세요.
+새 디렉토리는 Makefile 을 갖고 git에 커밋되었는지 확인하세요.
 Make sure a new directory has the Makefile and that it's committed in CVS.
 그러지 않으면, make 돌릴 때 에러 날 겁니다.
 
-<pre>
-   cvs add Makefile
-   cd ..
-   cvs commit -m "added the intro dir to CVS" intro
-</pre>
-
+#example not finished
+# <H3>Example of a Conflict</H3>
+#
+# <p>This example shows a commit that won't work because the copy in the
+# repository has been modified since your last <kbd>git pull</kbd>.
+#
+# <pre>
+#    git foo.wml
+#    cvs commit -m "fixed a broken link"
+#    git push
+# </pre>
+#
+# will output:
+#
+# <pre>
+#To salsa.debian.org:webmaster-team/webwml.git
+# ! [rejected]                master -> master (fetch first)
+#error: failed to push some refs to 'git@salsa.debian.org:webmaster-team/webwml.git'
+# </pre>
+#
+# or something like that :)
