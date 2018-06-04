@@ -47,9 +47,9 @@
   <inddpcvs name="installation-guide "
             naming="none"
             srctype="XML"
-            vcstype="svn"
-            vcsweb="https://anonscm.debian.org/viewvc/d-i/trunk/manual/"
-            vcsrepo="svn://anonscm.debian.org/svn/d-i/trunk/manual"
+            vcstype="git"
+            vcsweb="https://salsa.debian.org/installer-team/installation-guide"
+            vcsrepo="https://salsa.debian.org/installer-team/installation-guide.git"
             />
 </define-tag>
 
@@ -100,8 +100,8 @@
             formats="html"
             srctype="XML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/aptitude/aptitude.git/"
-            vcsrepo="git://anonscm.debian.org/aptitude/aptitude.git"
+            vcsweb="https://salsa.debian.org/apt-team/aptitude"
+            vcsrepo="https://salsa.debian.org/apt-team/aptitude.git"
             />
 </define-tag>
 
@@ -114,8 +114,8 @@
             formats="html txt"
             srctype="XML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/apt/apt.git/"
-            vcsrepo="git://anonscm.debian.org/apt/apt.git"
+            vcsweb="https://salsa.debian.org/apt-team/apt"
+            vcsrepo="https://salsa.debian.org/apt-team/apt.git"
             />
 </define-tag>
 
@@ -128,14 +128,15 @@
             formats="html txt"
             srctype="XML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/apt/apt.git/"
-            vcsrepo="git://anonscm.debian.org/apt/apt.git"
+            vcsweb="https://salsa.debian.org/apt-team/apt"
+            vcsrepo="https://salsa.debian.org/apt-team/apt.git"
             />
 </define-tag>
 
 # Pending confirmation with java-common maintainers if we use
 # DDP SVN or java-common's SVN available at:
 # https://anonscm.debian.org/viewvc/pkg-java/trunk/java-common/debian-java-faq/
+# FIXME SVN not available now
 <define-tag inddpsvn-debian-java-faq>
   <inddpcvs name="debian-java-faq"
         langs="en it fr"

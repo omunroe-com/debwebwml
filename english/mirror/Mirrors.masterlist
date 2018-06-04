@@ -118,7 +118,7 @@ Security-http: /debian-security/
 Security-rsync: debian-security/
 Comment: Automatically selects geographically close mirror
  of security update archive.
- Details: https://anonscm.debian.org/cgit/mirror/dsa-auto-dns.git
+ Details: https://salsa.debian.org/dsa-team/mirror/auto-dns
 
 Site: deb.debian.org
 Type: GeoDNS

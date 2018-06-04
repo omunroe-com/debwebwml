@@ -12,8 +12,8 @@
 </p>
 <p>
   Furthermore, there is a strong Debian user community in Poland, visible through
-  multiple web sites, mailing lists, and forums. At the moment there are 15 
-  developers from Poland officially registered with the project (11 of them active) &ndash; 
+  multiple web sites, mailing lists, and forums. At the moment there are 15
+  developers from Poland officially registered with the project (11 of them active) &ndash;
   <a href="http://www.perrier.eu.org/weblog/">more info on bubulle's blog page</a>.
 </p>
 
@@ -84,7 +84,7 @@
       <li> <a href="http://helion.pl/ksiazki/debian_gnu_linux_bill_mccarty,dlindk.htm">Learning
       Debian GNU/Linux</a></li>
       <li><a href="http://helion.pl/ksiazki/debian_linux_ksiega_eksperta_mario_camou_john_goerzen_aaron_van_couwenberghe,dlinke.htm">Debian
-      GNU/Linux 2.1 Unleashed</a></li>  
+      GNU/Linux 2.1 Unleashed</a></li>
       <li><a
       href="http://helion.pl/ksiazki/debian_linux_cwiczenia_lukasz_kolodziej,cwdlin.htm">Debian GNU/Linux. Exercises</a></li>
     </ul>
@@ -142,7 +142,7 @@
   </li>
 </ul>
 
-<p>	
+<p>
   There are several other Polish sites about Debian, but they haven't been
   updated for some time.
 </p>
@@ -152,7 +152,7 @@
 <p>
   Information about translated packages and Debian web pages is available
   <a href="https://www.debian.org/international/l10n">on the statistics
-  pages</a>.</p>  
+  pages</a>.</p>
 <p>In order to keep the vocabulary consistent, please use the <a
   href="https://wiki.debian.org/WordlistPolish">word list</a> when translating
   Debian-related resources.</p>
@@ -180,7 +180,7 @@
  <li>Translation format: gettext (PO files)</li>
  <li>Making changes: directly in SVN/debian-l10n-polish@</li>
  <li>Statistics: <a href="https://d-i.debian.org/l10n-stats/">https://d-i.debian.org/l10n-stats/</a></li>
- <li>Repository: <a href="https://anonscm.debian.org/viewvc/d-i/trunk/packages/po/">https://anonscm.debian.org/viewvc/d-i/trunk/packages/po/</a></li>
+ <li>Repository: <a href="https://salsa.debian.org/installer-team/d-i/tree/master/packages/po">https://salsa.debian.org/installer-team/d-i/tree/master/packages/po</a></li>
  <li>Documentation: <a href="https://d-i.alioth.debian.org/doc/i18n/">https://d-i.alioth.debian.org/doc/i18n/</a></li>
 </ul>
 
@@ -190,7 +190,7 @@
 </p>
 <p>
  These translation need an eye kept on them, with the new Debian
- release impending, because package maintainers tend to make changes in 
+ release impending, because package maintainers tend to make changes in
  English messages at the last minute.
 </p>
 
@@ -200,7 +200,7 @@
  <li>Translation format: WML</li>
  <li>Making changes: directly in SVN/debian-l10n-polish@</li>
  <li>Statistics: <a href="https://www.debian.org/devel/website/stats/">https://www.debian.org/devel/website/stats/</a></li>
- <li>Repository: <a href="https://anonscm.debian.org/viewvc/webwml/webwml/polish/">https://anonscm.debian.org/viewvc/webwml/webwml/polish/</a></li>
+ <li>Repository: <a href="https://salsa.debian.org/webmaster-team/webwml/tree/master/polish">https://salsa.debian.org/webmaster-team/webwml/tree/master/polish</a></li>
  <li>Documentation: <a href="https://www.debian.org/devel/website/translating">https://www.debian.org/devel/website/translating</a></li>
 </ul>
 <p>
@@ -222,8 +222,8 @@
  older templates which it would also be appropriate to translate.
 </p>
 <p>
- Debconf templates are those windows that appear sometimes 
- when you install/upgrade a package or call dpkg-reconfigure. 
+ Debconf templates are those windows that appear sometimes
+ when you install/upgrade a package or call dpkg-reconfigure.
  Descriptions for translation are usually very short, although
  some are difficult to translate without knowing the specifics
  of the package. Appropriate notice of an upcoming new version of the
@@ -260,13 +260,13 @@
 </ul>
 
 <p>
- Manuals with packages such as coreutils (rm, cat, etc.), util-linux 
+ Manuals with packages such as coreutils (rm, cat, etc.), util-linux
  (dmesg, mkfs, etc.), manpages (proc, hosts, etc.) and others
- (sed, bash, etc.) are translated in the manpages-pl project, which 
+ (sed, bash, etc.) are translated in the manpages-pl project, which
  accepts every willing soul who wants to reduce even by one the
  list of nearly 700 completely outdated manual pages waiting for that
  volunteer's day of glory :-). Currently the translation of manpages-pl
- also goes at least to Fedora and Arch Linux (and, of course, 
+ also goes at least to Fedora and Arch Linux (and, of course,
  Ubuntu and other Debian derivatives).
 </p>
 
@@ -312,7 +312,7 @@
  3-5 people.
 </p>
 <p>
- It should be noted that the original versions of the manuals also tend to be 
+ It should be noted that the original versions of the manuals also tend to be
  slightly neglected.
 </p>
 
@@ -337,8 +337,8 @@
 </p>
 <p>
  Translating package descriptions is the simplest way of doing translation
- in Debian (at least if you do not have experience with translating PO files). 
- Unfortunately, the endless saga of the server located in Spain, in 
+ in Debian (at least if you do not have experience with translating PO files).
+ Unfortunately, the endless saga of the server located in Spain, in
  Extremadura, causes frequent failures of the entire infrastructure that
  unfortunately sometimes last for weeks.
 </p>
@@ -350,9 +350,9 @@
 <h2>News</h2>
 <ul>
  <li>Scope: Debian</li>
- <li>Translation format: WML</li>
+ <li>Translation format: WML/Markdown</li>
  <li>Making changes: directly in SVN/debian-publicity@</li>
- <li>Repository: <a href="https://anonscm.debian.org/viewvc/publicity/">https://anonscm.debian.org/viewvc/publicity/</a></li>
+ <li>Repository: <a href="https://salsa.debian.org/publicity-team/">https://salsa.debian.org/publicity-team/</a></li>
 </ul>
 <p>
  News is not translated into Polish and probably rightly so, because
@@ -363,17 +363,17 @@
 
 <h2>Explanation</h2>
 <p>
- Explanation: by &quot;making changes&quot; we mean a place where 
+ Explanation: by &quot;making changes&quot; we mean a place where
  you can apply changes, or a list where you can send the finished
  translation file. All Debian lists are available at list.debian.org, so
  an entry such as &quot;debian-l10n-polish@&quot; means
  debian-l10n-polish@lists.debian.org. &quot;Bug reports&quot; means
  to send a mail with relevant context to the address
- submit@bugs.debian.org (more information at 
+ submit@bugs.debian.org (more information at
  <a href="https://www.debian.org/Bugs/">https://www.debian.org/Bugs/</a>).
 </p>
 <p>
  <strong>Note:</strong> some links can be found on page
- &quot;Central Debian translation statistics&quot; at 
+ &quot;Central Debian translation statistics&quot; at
  <a href="https://www.debian.org/international/l10n/">https://www.debian.org/international/l10n/</a>
 </p>

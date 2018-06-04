@@ -8,7 +8,7 @@
     Download the template:
     # REMOVE THE ABOVE LINE ("Download the template")
     
-    <URL>https://anonscm.debian.org/viewvc/webwml/webwml/english/women/profiles/template.wml?view=co</URL>
+    <url>https://salsa.debian.org/webmaster-team/webwml/blob/master/english/women/profiles/template.wml</url>
     # CHANGE THE URL TO THE URL OF WOMAN'S WEBSITE, IF ANY
     <email></email> 
 
