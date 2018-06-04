@@ -1,0 +1,14 @@
+CUR_DIR=devel/debian-installer/News/$(THIS_YEAR)
+SUBS=
+
+NOGENERICDEP := true
+
+include $(WMLBASE)/Make.lang
+
+index.$(LANGUAGE).html: index.wml $(wildcard $(THIS_YEAR)*.wml) \
+                        $(wildcard $(THIS_YEAR)*.title) \
+                        $(TEMPLDIR)/template.wml $(TEMPLDIR)/recent_list.wml \
+                        $(GETTEXTDEP)
+	$(WML) index.wml
+%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(GETTEXTDEP)
+	$(WML) $(<F)

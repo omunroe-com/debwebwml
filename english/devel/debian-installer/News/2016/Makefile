@@ -2,17 +2,5 @@
 # please contact debian-www.
 
 WMLBASE=../../../..
-CUR_DIR=devel/debian-installer/News/2016
-SUBS=
-
-NOGENERICDEP := true
-
-include $(WMLBASE)/Make.lang
-
-index.$(LANGUAGE).html: index.wml $(wildcard 2016*.wml) \
-                        $(wildcard 2016*.title) \
-                        $(TEMPLDIR)/template.wml $(TEMPLDIR)/recent_list.wml \
-                        $(GETTEXTDEP)
-	$(WML) index.wml
-%.$(LANGUAGE).html: %.wml $(TEMPLDIR)/news.wml $(GETTEXTDEP)
-	$(WML) $(<F)
+THIS_YEAR=2016
+include ../Make.year
