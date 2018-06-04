@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 国际化"
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
+#use wml::debian::translation-check translation="c983d05b92b263f99491afdfdb7b5eb303d0cd2c"
 
 <p>在互联网的自由软件社区上，我们主要用\
 英语沟通。我们的大部分工作都是用英语完成的，但我们希望有朝一日\
@@ -31,9 +31,8 @@
 <dl>
   <dt><strong>安装程序系统</strong></dt>
       <dd>请参阅
-      <a href="$(DEVEL)/debian-installer/svn">debian-installer Subversion
-      树中</a>\
-      <a href="https://anonscm.debian.org/viewvc/d-i/trunk/manual/doc/translations.txt?view=markup">\
+      <a href="https://salsa.debian.org/installer-team/installation-guide">安装指南</a>中\
+      <a href="https://salsa.debian.org/installer-team/installation-guide/blob/master/doc/translations.txt">\
       对翻译者的信息</a>。有关 Debian 安装程序的工作\
       在 <a href="https://lists.debian.org/debian-boot/">\
       <tt>debian-boot</tt></a> 邮件列表中讨论。
