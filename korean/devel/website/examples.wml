@@ -9,7 +9,6 @@
    git pull
    cd webwml
    mkdir korean
-   cvs add korean
    cd korean
    cp ../english/.wmlrc ../english/Make.* .
    echo '<protect>include $(subst webwml/french,webwml/english,$(CURDIR))/Makefile</protect>' &gt; Makefile
