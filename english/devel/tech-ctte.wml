@@ -106,7 +106,7 @@ can be reviewed in the bug tracking system.</p>
 <toc-add-entry name="repository">VCS repository</toc-add-entry>
 
 <p>The TC sometimes uses its
-<a href="https://anonscm.debian.org/cgit/collab-maint/debian-ctte.git/">\
+<a href="https://salsa.debian.org/debian/tech-ctte">\
 shared git repository</a>
 for collaboration.</p>
 

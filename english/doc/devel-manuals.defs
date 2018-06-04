@@ -9,11 +9,11 @@
 	    langs=""
 	    basename="policy"
 	    path="debian-policy"
-	    formats="html pdf ps txt"
-            srctype="SGML/XML"
+	    formats="html pdf epub txt"
+            srctype="restructuredText"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/dbnpolicy/policy.git/"
-            vcsrepo="git://anonscm.debian.org/dbnpolicy/policy"
+            vcsweb="https://salsa.debian.org/dbnpolicy/policy"
+            vcsrepo="https://salsa.debian.org/dbnpolicy/policy.git"
             />
 </define-tag>
 
@@ -24,8 +24,8 @@
 	    formats="html pdf txt epub"
             srctype="XML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/collab-maint/developers-reference.git/"
-            vcsrepo="git://anonscm.debian.org/collab-maint/developers-reference.git"
+            vcsweb="https://salsa.debian.org/debian/developers-reference"
+            vcsrepo="https://salsa.debian.org/debian/developers-reference.git"
             />
 </define-tag>
 
@@ -35,8 +35,8 @@
             formats="html txt pdf"
             srctype="XML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/ddp/maint-guide.git/"
-            vcsrepo="git://anonscm.debian.org/ddp/maint-guide"
+            vcsweb="https://salsa.debian.org/debian/maint-guide"
+            vcsrepo="https://salsa.debian.org/debian/maint-guide.git"
             />
 </define-tag>
 
@@ -46,8 +46,8 @@
             formats="html txt pdf"
             srctype="XML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/collab-maint/debmake-doc.git/"
-            vcsrepo="git://anonscm.debian.org/collab-maint/debmake-doc.git"
+            vcsweb="https://salsa.debian.org/debian/debmake-doc"
+            vcsrepo="https://salsa.debian.org/debian/debmake-doc.git"
             />
 </define-tag>
 
@@ -57,8 +57,8 @@
             formats="pdf"
             srctype="LaTeX"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/collab-maint/packaging-tutorial.git/"
-            vcsrepo="git://git.debian.org/collab-maint/packaging-tutorial"
+            vcsweb="https://salsa.debian.org/debian/packaging-tutorial"
+            vcsrepo="https://salsa.debian.org/debian/packaging-tutorial.git"
             />
 </define-tag>
 
@@ -94,8 +94,8 @@
             formats="html txt pdf"
             srctype="SGML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/collab-maint/dbconfig-common.git"
-            vcsrepo="git://anonscm.debian.org/collab-maint/dbconfig-common"
+            vcsweb="https://salsa.debian.org/debian/dbconfig-common"
+            vcsrepo="https://salsa.debian.org/debian/dbconfig-common.git"
             />
 </define-tag>
 
@@ -105,7 +105,7 @@
             formats="html txt pdf"
             srctype="SGML"
             vcstype="git"
-            vcsweb="https://anonscm.debian.org/cgit/collab-maint/dbconfig-common.git"
-            vcsrepo="git://anonscm.debian.org/collab-maint/dbconfig-common"
+            vcsweb="https://salsa.debian.org/debian/dbconfig-common"
+            vcsrepo="https://salsa.debian.org/debian/dbconfig-common.git"
             />
 </define-tag>

@@ -2,9 +2,9 @@
 ## * Use "open-for-edit" if it's too early for anyone to translate anything
 ## * Use "content-frozen" if the content has been stabilized, but is being
 ##   reviewd by native speakers;  translators can start their work now
-## * Use "sent" if the issue has been sent our; furhter changes should now
+## * Use "sent" if the issue has been sent our; further changes should now
 ##   be done in Debian's webwml repository
-# Status: [open-for-edit|content-frozen|sent]
+# Status: sent
 # $Id$
 # $Rev: 5854 $
 
@@ -49,7 +49,7 @@ Given this experience, we are confident that Debian 7 "Wheezy" and Debian 8
 <p>
 However, some restrictions in coverage had to be made for Squeeze LTS. For
 example, only x86 PCs (amd64 and i386) are supported, and a 
-<a href="https://anonscm.debian.org/cgit/collab-maint/debian-security-support.git/plain/security-support-ended.deb6">
+<a href="https://salsa.debian.org/debian/debian-security-support/blob/master/security-support-ended.deb6">
 number of popular packages</a> are unsupported. For example, you cannot run a
 Xen dom0 or a KVM host with Squeeze, and there isn't support for graphical
 browsers. The current team resources are only enough to keep up with the

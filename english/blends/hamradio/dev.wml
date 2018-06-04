@@ -18,11 +18,11 @@ to packagers:</p>
 <h2>Metapackages Source Code</h2>
 
 <ul>
-	<li><a href="https://anonscm.debian.org/cgit/blends/projects/hamradio.git">Web-based git browser</a></li>
-	<li><a href="https://anonscm.debian.org/git/blends/projects/hamradio.git">Anonymous git clone</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/hamradio">Web-based git browser</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/hamradio.git">Anonymous git clone</a></li>
 </ul>
 
-<pre>git clone https://anonscm.debian.org/git/blends/projects/hamradio.git
+<pre>git clone https://salsa.debian.org/blends-team/hamradio
 cd hamradio ; make dist
 gbp buildpackage</pre>
 
@@ -36,11 +36,11 @@ installed to build the source.</i></p>
 <h2>Live DVD Source Code</h2>
 
 <ul>
-	<li><a href="https://anonscm.debian.org/cgit/blends/blends-images.git">Web-based git browser</a></li>
-	<li><a href="https://anonscm.debian.org/git/blends/blends-images.git/">Anonymouse git clone</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/blends-images">Web-based git browser</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/blends-images.git">Anonymouse git clone</a></li>
 </ul>
 
-<pre>git clone https://anonscm.debian.org/git/blends/blends-images.git/
+<pre>git clone https://salsa.debian.org/blends-team/blends-images.git
 cd blends-images/images/hamradio-amd64
 lb config
 sudo lb build</pre>
