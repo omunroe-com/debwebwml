@@ -22,7 +22,8 @@
     -- <em>읽기 추천!</em>
   <li><a href="working">영어 페이지를 만들거나 편집</a>
     <ul>
-      <li><a href="using_cvs">CVS 사용</a>
+      <li><a href="using_git">git 사용</a>
+      <li><a href="using_cvs">CVS 사용(이제 안 씀)</a>
       <li><a href="using_wml">WML 사용</a>
       <li><a href="htmlediting">데비안 웹 페이지에서 HTML 사용</a>
       <li><a href="todo">할 일 목록</a>
