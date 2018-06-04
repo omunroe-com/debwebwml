@@ -31,10 +31,10 @@ worked on:
 <dl>
   <dt><strong>Installation system</strong></dt>
       <dd>Please see the
-      <a href="https://anonscm.debian.org/viewvc/d-i/trunk/manual/doc/translations.txt?view=markup">\
+      <a href="https://salsa.debian.org/installer-team/installation-guide/blob/master/doc/translations.txt">\
       information for translators</a> in the
-      <a href="$(DEVEL)/debian-installer/svn">debian-installer Subversion
-      tree</a>. Work relating to the installation of Debian
+      <a href="https://salsa.debian.org/installer-team/installation-guide">installation-guide
+      repository</a>. Work relating to the installation of Debian
       is discussed on the <a href="https://lists.debian.org/debian-boot/">\
       <tt>debian-boot</tt></a> mailing list. 
       </dd>
