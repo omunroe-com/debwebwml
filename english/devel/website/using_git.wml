@@ -169,6 +169,7 @@ supporting git commit hashes. To use it:</p>
       headers in the translation files</li>
   <li>Review the changes (for example with <q>git diff -u</q>)</li>
   <li>Commit and push the changes</li>
+</ul>
 
 <h3><a name="notifications">Getting notifications</a></h3>
 
