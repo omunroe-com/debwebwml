@@ -3,23 +3,25 @@
 
 <P>웹 사이트는 정적이 아니므로, 원본의 어떤 버전이 참고하는 것인지 추적하는 것이 좋고,
 이 정보를 사용하여 마지막 번역 후 어느 페이지가 바뀌었는지 확인한다.
-이 정보는 문서의 꼭대기(다른 "use" 헤더 아래)에 아래 형식으로 들어간다:
+이 정보는 문서의 꼭대기(다른 "use" 헤더 아래)에 아래 형식으로 들어갑니다:
 
 <pre>
-\#use wml::debian::translation-check translation="X.x"
+\#use wml::debian::translation-check translation="git_commit_hash"
 </pre>
 
-<P>
-여기서 <var>X.x</var> 는 원본(영어)의 CVS 버전 번호.
-이 번호를 아래 형식으로 되어 있는 CVS/Entries 를 찾아서 얻을 수 있다:
-<code>/file_name/X.x/date//</code>.
-영어 소스 디렉토리에서 <kbd>cvs status file_name</kbd> 를 돌려서 그것을 얻을 수도 있다.
-webwml 디렉토리에서 <kbd>copypage.pl</kbd> 스크립트를 쓰면, 이 행은 자동으로 더해진다.
+<p>
+여기서 <var>git_commit_hash</var>는 Git commit hash 이며 번역된 파일이 다시 번역된
+원래(영어)파일의 커밋을 참조합니다.
+You can get the detail of that specific commit using
+<code>git show</code> tool: <code>git show &lt;git_commit_hash&gt;</code> .
+If you use the <kbd>copypage.pl</kbd> script in the webwml directory,
+this line is added automatically.
+</p>
 
-<P>어떤 번역은 꽤 빨리 업데이트 되지 않을 수도 있으므로, 원본 언어(영어)도 그렇지만, 이것은 쓸만하다.
+<p>어떤 번역은 꽤 빨리 업데이트 되지 않을 수도 있으므로, 원본 언어(영어)도 그렇지만, 이것은 쓸만하다.
 내용 협상에 의해, 번역된 언어의 독자는 중요한 정보, 원문의 새 버전에 소개된,를 놓칠 수 있습니다.
 <code>translation-check</code> 템플릿은 , 여러분의 번역이 오래되었는지 확인하고,
-그것에 대해 사용자에게 적절한 메시지를 출력할 코드를 포함합니다.
+그것에 대해 사용자에게 적절한 메시지를 출력할 코드를 포함합니다.</p>
 
 <P><code>#use</code> 행에 쓸 수 있는 추가적인 파라메터가 있습니다:
 
