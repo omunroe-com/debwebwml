@@ -57,7 +57,6 @@ from the webwml directory. You can now start translating the pages.
    cd webwml
    ./copypage.pl english/social_contract.wml
    cd korean
-
 </pre>
 
 <p>This will automatically add the translation-check header, pointing to the 
@@ -72,7 +71,6 @@ request it on the debian-www list. When done, type
    git add social_contract.wml
    git commit -m "Translated social contract to french"
    git push
-
 </pre>
 
 <h3>새 디렉토리 더하는 예</h3>
@@ -82,13 +80,11 @@ request it on the debian-www list. When done, type
 <pre>
    cd webwml/korean
    mkdir intro
-
    cd intro
    cp ../Makefile .
    git add Makefile
    git commit -m "added the intro dir to git"
    git push
-
 </pre>
 
 새 디렉토리는 Makefile 을 갖고 git에 커밋되었는지 확인하세요.
