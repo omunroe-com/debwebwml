@@ -1,5 +1,5 @@
 #use wml::debian::template title="協助製作 Debian 網頁" BARETITLE=true
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="984995807efa896a687c7f3d0a7df46a506e0d2d"
 
 <h3>簡介</h3>
 
@@ -20,7 +20,8 @@
     -- <em>推薦閱讀！</em>
   <li><a href="working">以英文建立或編輯頁面</a>
     <ul>
-      <li><a href="using_cvs">如何使用 CVS</a>
+      <li><a href="using_git">如何使用 git</a>
+      <li><a href="using_cvs">如何使用 CVS（已过时）</a>
       <li><a href="using_wml">如何使用 WML</a>
       <li><a href="htmlediting">Debian 網頁 HTML 代碼寫作指引</a>
       <li><a href="todo">待辦事項</a>
