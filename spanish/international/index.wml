@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian se vuelve internacional" NOHEADER="yes"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="David Moreno Garza"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
 
 <H1>Debian se vuelve internacional</H1>
 
@@ -35,9 +35,9 @@ para hacerlo. Para dar soporte completo para su idioma debe trabajar en
 las siguientes áreas:
 <dl>
   <dt><strong>Sistema de instalación</strong></dt>
-      <dd>Lea por favor la <a href="https://anonscm.debian.org/viewvc/d-i/trunk/manual/doc/translations.txt?view=markup">\
+      <dd>Lea por favor la <a href="https://salsa.debian.org/installer-team/installation-guide/blob/master/doc/translations.txt">\
       información para traductores</a> que hay en el
-      <a href="$(DEVEL)/debian-installer/svn">árbol Subversion de debian-installer</a>. 
+      <a href="https://salsa.debian.org/installer-team/installation-guide">repositorio de la guía de instalación</a>. 
       El trabajo relacionado con la instalación
       de Debian se discute en la lista de correo
       <a href="https://lists.debian.org/debian-boot/"><tt>debian-boot</tt></a>.
