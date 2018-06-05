@@ -9,7 +9,6 @@ use Digest::MD5 'md5_hex';
 
 # These modules reside under webwml/Perl
 use lib ($0 =~ m|(.*)/|, $1 or ".") ."/Perl";
-use Local::Cvsinfo;
 use Local::VCS;
 use Webwml::TransCheck;
 use Webwml::Langs;
@@ -39,11 +38,14 @@ my $ret;
 
 my $VCS = Local::VCS->new();
 print "Initialising VCS cache for performance\n";
+
+# Deliberately call these multiple times to validate
 $VCS->cache_file($file);
 $VCS->cache_file($file);
 $VCS->cache_repo();
 $VCS->cache_repo();
 $VCS->cache_file($file);
+$VCS->save_cache_to_database();
 print " ... done!\n";
 
 ########
