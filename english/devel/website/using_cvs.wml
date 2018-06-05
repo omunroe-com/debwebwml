@@ -3,9 +3,9 @@
 <div class="important">
 <h3>Important note</h3>
 
-<p>We recently converted the website content repository from CVS 
+<p>We recently converted the website content repository from CVS
 to Git.
-You can clone the CVS repository but we are note accepting changes 
+You can clone the CVS repository but we are not accepting changes
 there anymore.
 A page about using Git and the new repository will be provided soon.
 </p>
