@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/squeeze/release.data"
-#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f"
 
 <if-stable-release release="lenny">
 <p>Detta är en <strong>betaversion</strong> av installationsguiden för Debian
@@ -12,7 +12,7 @@ som presenteras här kan vara föråldrad och/eller inkorrekt på grund av ändr
 installationsprogrammet. Du kan vara intresserad av
 <a href="../lenny/installmanual">installationsguiden för Debian
 GNU/Linux 5.0, kodnamn Lenny</a>, som är den senaste släppta versionen av
-Debian; eller av <a href="https://d-i.alioth.debian.org/manual/">utvecklingsversionen
+Debian; eller av <a href="https://d-i.debian.org/manual/">utvecklingsversionen
 av installationsguiden</a>, som är den mest uppdaterade versionen
 av det här dokumentet.</p>
 </if-stable-release>
