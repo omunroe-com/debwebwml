@@ -1,6 +1,7 @@
 # If this makefile is not generic enough to support a translation,
 # please contact debian-www.
 
+CUR_DIR=News/$(THIS_YEAR)
 SUBS=
 
 GETTEXTFILES += newsevents.mo
