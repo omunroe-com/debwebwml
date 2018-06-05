@@ -102,7 +102,7 @@ sub new {
 	    $self->{DEBUG} = $params{"DEBUG"};
 	}
 
-	if ($self->_db_cache_valid()) {
+	if ($self->db_cache_valid()) {
 	    $self->{REPO_CACHED} = 1;
 	}
         return $self;
@@ -207,20 +207,20 @@ sub cache_file {
     return;
 }
 
-sub _db_cache_valid {
+sub db_cache_valid {
     my $self = shift;
     my $valid = 0;
 
     # If we can't find the right dir, it can't be valid!
     my $topdir = $self->get_topdir() or return 0;
 
-    $self->_debug( "_db_cache_valid");
+    $self->_debug( "db_cache_valid");
 
     # Check to see if an existing cache DB file is up to date
     # compared to the git index.
     if (-d "$topdir/$cache_db") {
 
-	$self->_debug( "_db_cache_valid: file $topdir/$cache_db exists ok");
+	$self->_debug( "db_cache_valid: file $topdir/$cache_db exists ok");
 
 	my $dbs = stat("$topdir/$cache_db");
 	my $ids = stat("$topdir/$git_index");
@@ -230,7 +230,7 @@ sub _db_cache_valid {
 	$self->_debug( "dbs has mtime $mtime1, ids has mtime $mtime2");
 
 	if ($dbs->mtime < $ids->mtime) {
-	    $self->_debug( "_db_cache_valid: but is out of date, rebuild needed");
+	    $self->_debug( "db_cache_valid: but is out of date, rebuild needed");
 	    $valid = 0;
 	} else {
 	    $valid = 1;
@@ -238,7 +238,7 @@ sub _db_cache_valid {
     } else {
 	# We don't have a cache file, we have to rebuild it
 	$valid = 0;
-	$self->_debug( "_db_cache_valid: dir does not exist, so not valid");
+	$self->_debug( "db_cache_valid: dir does not exist, so not valid");
     }
     return $valid;
 }
@@ -249,8 +249,8 @@ sub _hash_string {
     return md5_hex($string);
 }
 
-# Dump our hashed cache out to a sqlite DB so we can share it with
-# other processes
+# Dump our hashed cache out to disk so we can share it with other
+# processes
 sub save_cache_to_database {
     my $self = shift;
     my %args = @_;
@@ -261,20 +261,9 @@ sub save_cache_to_database {
 
     $self->_debug( "save_cache_to_database starting");
 
-    # Lock so only one caller can be doing this at once. Let's not
-    # have multiple wml processes (or similar) tripping over each
-    # other here.
-    open (my $lock, "+> $cache_lock") or die "Can't create lock file $cache_lock: $!\n";
-
-    $self->_debug( "pid $$ waiting for a lock");
-    flock ($lock, LOCK_EX);
-    $self->_debug( "pid $$ got the lock");
-
     # Now we're locked, see if the db s valid - somebody else might
     # have updated it for us!
-    if (! $args{"FORCE"} and $self->_db_cache_valid()) {
-	flock ($lock, LOCK_UN);
-	close ($lock);
+    if (! $args{"FORCE"} and $self->db_cache_valid()) {
 	$self->_debug( "save_cache_to_database: Not rebuilding cache, it's already valid now");
 	return;
     }
@@ -306,9 +295,6 @@ sub save_cache_to_database {
     }
 
     rename $tmp_cache_db, $cache_db;
-    $self->_debug( "pid $$ dropping the lock");
-    flock ($lock, LOCK_UN);
-    close ($lock);
     $self->_debug( "save_cache_to_database done");
 }
 

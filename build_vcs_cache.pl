@@ -14,10 +14,22 @@ use strict;
 # These modules reside under webwml/Perl
 use lib ($0 =~ m|(.*)/|, $1 or ".") ."/Perl";
 use Local::VCS;
+use Fcntl qw/:flock/;
 
 my $VCS = Local::VCS->new();
-print "Initialising VCS cache for performance\n";
-$VCS->cache_repo();
-$VCS->save_cache_to_database();
-print " ... done\n";
+my $topdir = $VCS->get_topdir();
+chdir ($topdir);
+
+my $cache_lock = ".git-revs-cache.lock";
+open (my $lock, "+> $cache_lock") or die "Can't create lock file $cache_lock: $!\n";
+
+flock ($lock, LOCK_EX);
+if (!$VCS->db_cache_valid()) {
+    print "Initialising VCS cache for performance\n";
+
+    $VCS->cache_repo();
+    $VCS->save_cache_to_database();
+    print " ... done\n";
+}
+flock ($lock, LOCK_UN);
 
