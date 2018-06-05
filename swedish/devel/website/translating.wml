@@ -1,5 +1,5 @@
 #use wml::debian::template title="Översätta Debians webbsidor" BARETITLE=true
-#use wml::debian::translation-check translation="63debed7d9f6d7ea6c3e932aea334d4e00d16662"
+#use wml::debian::translation-check translation="d2e8c3c0b0e06f6a3d5dd63bf8a4caaace29664e"
 #use wml::fmt::verbatim
 
 <p>
@@ -20,7 +20,7 @@ se <a href="#completenew">sektionen om att påbörja en översättning</a>.
 Vi använder WML för att skilja sidornas innehåll från de delar som är
 gemensamma för flera sidor, vilket medför att det är de specifika
 WML-källfilerna som måste redigeras och inte HTML-filerna.
-<a href="using_cvs">Använd CVS</a> för att hämta de aktuella källfilerna.
+<a href="using_git">Använd Git</a> för att hämta de aktuella källfilerna.
 Du behöver åtminstone hämta ut två kataloger: <tt>webwml/english/</tt> och
 <tt><var>webwml/&lt;språk&gt;</var>/</tt>.
 </p>
@@ -36,10 +36,20 @@ katalogen för att länkarna fortfarande skall fungera.
 Det rekommenderas även starkt att översättaren lägger till en ytterligare
 rad i sidhuvudet efter det sista <code>#use</code>-kommandot
 för att beskriva exakt
-vilken version av originalfilen som översattes, för att
+vilken commit av originalfilen som översattes, för att
 <a href="uptodate">göra det lättare att uppdatera</a>.
 Raden ser ut så här:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"</kbd>
+<kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd>
+Vänligen notera att om du genererar den översättningsbara filen med hjälp av
+verktyget <tt>copypage.pl</tt> (som rekommenderas starkt), så kommer
+git commithashen att genereras automatiskt. Användningen av
+<tt>copypage.pl</tt> kommer att förklaras i följande texter.
+</p>
+
+<p>
+<strong>Notera:</strong> Något av informationen nedan är inaktuell, speciellt
+allt som nämner CVS. Vänligen ignorera den delen av informationen nu och
+hjälp till att uppdatera relaterad information om möjligt.
 </p>
 
 <p>
@@ -49,7 +59,7 @@ Genom att göra så kan man få e-post automatiskt när den engelska sidan
 ändras och översättningen behöver àjourföras.
 För att göra det lägger du helt enkelt till ditt namn som ansvarig i slutet
 av <code>#use</code>-raden så att den ser ut så här:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"
+<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>"
 maintainer="<var>ditt namn</var>"</kbd>.
 Skriptet <tt>copypage.pl</tt> kommer
 göra detta automatiskt om du sätter miljövariabeln
@@ -61,7 +71,7 @@ Du kan även behöva beskriva för roboten vem du är, hur ofta du vill ha
 automatiska brev och vad de ska innehålla.
 För detta kan du (eller låta översättningssamordnaren) redigera filen
 webwml/<var>språk</var>/international/<var>språk</var>/translator.db.pl
-i CVS:en.
+i förrådet.
 Syntaxen bör vara lättförståelig, och du kan använda filen från den franska
 översättargruppen om den inte redan finns för ditt språk.
 Roboten kan sända flera sorters information, och för varje sort kan du välja
@@ -114,7 +124,7 @@ konfigurera filen <tt>language.conf</tt> som kommer användas för att
 avgöra vilket språk du översätter till. Denna fil behöver endast
 innehålla en rad med språknamnet. Du kan också
 sätta språket med hjälp av miljövariabeln <tt>DWWW_LANG</tt> och
-lagra ditt namn i miljövariabeln <tt>DWWW_MAINT</tt> 
+lagra ditt namn i miljövariabeln <tt>DWWW_MAINT</tt>
 så att det automatiskt kommer läggas till i huvudet i de wml-filer
 som genereras och på så sätt ange dig som ansvarig för översättningen. Det finns fler funktioner
 i skriptet. Kör det utan några flaggor för att få hjälp.
@@ -146,7 +156,7 @@ Om det fungerar, kontrollera att syntaxen är fullt giltig med
 </p>
 
 <p>
-Webbsidorna byggs om från CVS på servern www-master, en procedur som är
+Webbsidorna byggs om från VCS på servern www-master, en procedur som är
 relativt säker mot fel.
 Dock kan ett fel i toppnivån av din översättning (t.ex index.wml-filen i
 huvudkatalogen) medföra att byggprocessen stoppar och förhindra andra
@@ -155,11 +165,12 @@ Var särskilt försiktig med dessa filer.
 </p>
 
 <p>
-När sidan är färdig att läggas upp kan du sända in den till CVS.
-Om du har rättigheter att göra detta själv, kör <kbd>cvs commit</kbd>; om
-inte, sänd den till
+När sidan är färdig att läggas upp kan du sända in den till Git.
+Om du har rättigheter att göra detta själv, var vänlig pusha ändringarna
+till <a +href="https://salsa.debian.org/webmaster-team/webwml">Git-förrådet på
+Salsa-platformen</a>; om inte, sänd den till
 <a href="translation_coordinators">någon med skrivrättighet på
-CVS-servern</a>.
+förrådet</a>.
 </p>
 
 <h2><a name="completenew">Påbörja en ny översättning</a></h2>
@@ -167,6 +178,12 @@ CVS-servern</a>.
 <p>Om du vill börja översätta Debians webbsidor till ett nytt språk,
 kontakta oss per e-post (på engelska) på adressen
 <a href="mailto:webmaster@debian.org">webmaster@debian.org</a>.
+</p>
+
+<p>
+Först av allt - säkerställ att du har en ordentlig checkout av vårat
+källkodsträd, så som beskrivs <a href="using_git">i vår introduktionstext
+rörande Git</a>.
 </p>
 
 <p>
@@ -207,7 +224,7 @@ språkkatalogen bara behöver ändra dessa punkter:
       byggs tillsammans med de andra på www.debian.org.
       Vi föredrar om du låter en i webmastergruppen göra denna ändring,
       eftersom du kanske inte vet om din översättning fungerar om den
-      hämtas ut från CVS på nytt, något som skulle kunna störa
+      hämtas ut från VCS på nytt, något som skulle kunna störa
       byggprocessen för resten av webbplatsen.
   </li>
 </ol>
@@ -293,40 +310,45 @@ En förteckning över de sidor som bör översättas först finns på
 <a href="#singlepages">överst på denna sida</a>.
 </p>
 
-<h3>Återuppta utdaterade översättningar</h3>
+<h3>Återuppta inaktuella översättningar</h3>
 
 <p>
 Som beskrivits i <a href="uptodate">hålla översättningarna à jour</a>,
-kan utdaterade översättningar tas bort automatiskt när en
+kan inaktuella översättningar tas bort automatiskt när en
 lång tidsperiod förflutit utan uppdatering.
 </p>
 
 <p>
-Om du använder skriptet <tt>copypage.pl</tt> med en fil som har
-tagits bort från CVS kommer den vägra kopiera sidan och istället uppmana dig
-att återuppliva den.
-Du kan undersöka anledningarna till att filen togs bort från
-cvs med <tt>cvs log</tt> på den borttagna filen (eller använd webbgränssnittet,
-de borttagna filerna kan hittas i underkatalogen "Attic").
+Om du upptäcker att några filer tagits bort nån gång och du skulle vilja
+återställa filen igen för ytterligare redigering, så kan du söka igenom
+Gits historik med de vanliga kommandona.
 </p>
 
-<p>
-När du vill återuppliva den utdaterade översättningen,
-använder du <tt>cvs status</tt> (eller <tt>cvs log</tt>)
-för att notera versionsnumret på den borttagna versionen,
-varefter du utför en
-<q>backwards merge</q>.</p>
-
-<p>Till exempel, om den borttagna filen heter "borttagen.wml" och
-den borttagna versionen är 1.7, så är versionen innan borttagningen 1.6 (den borttagna
-versionen minus en). Du kan återskapa filen genom att köra
+<p>Exempelvis om den borttagna filen heter "fil.wml", så kan du söka igenom
+historiken genom att köra:</p>
 
 <verbatim>
-   cvs update -j 1.7 -j 1.6 borttagen.wml
+   git log --all --full-history -- <sökväg/till/bortagen/fil.wml>
+</verbatim>
+
+<p>Du kan hitta den exakta committen som tog bort filen du önskar, tillsammans
+med committens hashsträng. För att visa detaljerad inforamtion om
+modifikationen som gjordes till filen i denna commit, så kan du använda
+underkommandot <code>git show</code>:</p>
+
+<verbatim>
+  git show <COMMIT_HASH_STRING> -- <sökväg/till/bortagen/fil.wml>
+</verbatim>
+
+<p>Om committen är exakt den som tog bort filen, så kan du återställa filen
+till arbetsytan med hjälp av <code>git checkout</code>:</p>
+
+<verbatim>
+  git checkout <COMMIT_HASH_STRING>^ -- <path/to/file/deleted.wml>
 </verbatim>
 
 <p>Sedan måste du, förstås, uppdatera dokumentet innan du skickar in det igen.
-Annars kan det tas bort ännu en gång.
+Annars kan det tas bort ännu en gång.</p>
 
 <h3>Sagans fortsättning</h3>
 
