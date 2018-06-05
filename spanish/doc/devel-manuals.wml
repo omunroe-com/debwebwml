@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Manuales para desarrolladores de Debian"
-#use wml::debian::translation-check translation="a5f6ece6021a908d003b334683cb03496734ec3e" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Laura Arjona Reina"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
 
@@ -292,8 +292,8 @@ productos directamente en formato .deb" "swprod">
   Disponible
   </status>
   <availability>
-  <p><a href="https://d-i.alioth.debian.org/doc/internals/">HTML en línea</a>.</p>
-  <p><a href="https://anonscm.debian.org/cgit/d-i/debian-installer.git/tree/doc/devel/internals">fuentes DocBook XML en línea</a>.</p>
+  <p><a href="https://d-i.alioth.debian.org/doc/internals/">HTML en línea</a>(ARREGLAR: no disponible en estos momentos).</p>
+  <p><a href="https://salsa.debian.org/installer-team/debian-installer/tree/master/doc/devel/internals">fuentes DocBook XML en línea</a>.</p>
   </availability>
 </doctable>
 </div>
