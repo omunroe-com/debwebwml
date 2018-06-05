@@ -1,0 +1,16 @@
+#use wml::debian::translation-check translation="9102095a33d1bb4101b9b1a6e7c3ee3b3421a78b"
+<define-tag description>Adelanto de notificación del próximo fin de ciclo de Debian 8</define-tag>
+<define-tag moreinfo>
+
+<p>Este es un adelanto de la notificación de que el soporte estándar de seguridad para Debian
+GNU/Linux 8 (nombre en clave "jessie") terminará el 17 de
+junio.</p>
+
+<p>Igual que con versiones anteriores, habrá disponible soporte LTS adicional para
+unos conjuntos reducidos de arquitecturas y paquetes. Esto se anunciará
+en su momento.</p>
+
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4205.data"
