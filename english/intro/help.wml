@@ -28,7 +28,7 @@ and <a href="https://wiki.debian.org/Hardening/Goals">other things</a>.
 </li>
 <li>You can help maintain applications that are already available in the Debian operating system, specially those you use much and know about, by
 contributing fixes (patches) or additional information in the <a
-href="https://bugs.debian.org/">Bug Tracking System</a> for those packages. You can also get involved directly in package maintenance by becoming a member of a group maintenance team or get involved with software that is being developed for Debian by joining a software project at <a href="https://alioth.debian.org/">Alioth</a>.</li>
+href="https://bugs.debian.org/">Bug Tracking System</a> for those packages. You can also get involved directly in package maintenance by becoming a member of a group maintenance team or get involved with software that is being developed for Debian by joining a software project at <a href="https://salsa.debian.org/">Salsa</a>.</li>
 <li>You can help porting Debian to some architecture you are experienced with
 either by starting a new port or contributing to existing ports.  For more
 information see the <a href="$(HOME)/ports/">list of available ports</a>.</li>
