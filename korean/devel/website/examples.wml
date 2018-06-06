@@ -29,7 +29,7 @@
 </ul>
 
 <p>Make.lang 을 편집하여 'LANGUAGE := en' 을 'LANGUAGE := ko' 로 바꿉니다.
-다중 바이트 문자집합을 쓰는 언어로 번역하는 경우,
+다준 바이트 문자집합을 쓰는 언어로 번역하는 경우,
 파일에서 다른 변수를 바꿔야 할 수 있으며, 자세한 정보는 ../Makefile.common 과
 다른 작업 예(중국어 같은 변역)를 읽어보세요.
 
@@ -85,5 +85,27 @@ debian-www 에서 요청하세요. 다 되면, 아래를 치세요.
 </pre>
 
 새 디렉토리는 Makefile 을 갖고 git에 커밋되었는지 확인하세요.
-그러지 않으면, make 돌릴 때 다른 모든 사람에게 에러 날 겁니다.
+Make sure a new directory has the Makefile and that it's committed in CVS.
+그러지 않으면, make 돌릴 때 에러 날 겁니다.
 
+#example not finished
+# <H3>Example of a Conflict</H3>
+#
+# <p>This example shows a commit that won't work because the copy in the
+# repository has been modified since your last <kbd>git pull</kbd>.
+#
+# <pre>
+#    git foo.wml
+#    cvs commit -m "fixed a broken link"
+#    git push
+# </pre>
+#
+# will output:
+#
+# <pre>
+#To salsa.debian.org:webmaster-team/webwml.git
+# ! [rejected]                master -> master (fetch first)
+#error: failed to push some refs to 'git@salsa.debian.org:webmaster-team/webwml.git'
+# </pre>
+#
+# or something like that :)
