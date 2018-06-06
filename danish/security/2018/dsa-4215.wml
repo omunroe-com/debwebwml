@@ -1,0 +1,25 @@
+#use wml::debian::translation-check translation="45830018dd74aa2119aca4b77e18436c663df675" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Man Yue Mo, Lars Krapf og Pierre Ernst opdagede at Batik, et værktøjssæt til 
+behandling af SVG-billeder, ikke på korrekt vis validerede sine inddata.  Dermed 
+kunne en angriber få mulighed for at forårsage et lammelsesangreb, iværksætte 
+angreb i forbindelse med udførelse af skripter på tværs af websteder, eller 
+tilgå adgangsbegrænsede filer på serveren.</p>
+
+<p>I den gamle stabile distribution (jessie), er disse problemer rettet
+i version 1.7+dfsg-5+deb8u1.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 1.8-4+deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine batik-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende batik, 
+se dens sikkerhedssporingsside på: 
+<a href="https://security-tracker.debian.org/tracker/batik">\
+https://security-tracker.debian.org/tracker/batik</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4215.data"

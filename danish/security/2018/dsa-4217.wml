@@ -1,0 +1,24 @@
+#use wml::debian::translation-check translation="3def0df3c8040e5cd34998f5a0cfe00cd868f9cd" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Man opdagede at Wireshark, et program til analysering af netværksprotokoller, 
+indeholdt flere sårbarheder i dissektorerne til PCP, ADB, NBAP, UMTS MAC, IEEE 
+802.11, SIGCOMP, LDSS, GSM A DTAP og Q.931, hvilket medførte lammelsesangreb 
+eller udførelse af vilkårlig kode.</p>
+
+<p>I den gamle stabile distribution (jessie), er disse problemer rettet
+i version 1.12.1+g01b65bf-4+deb8u14.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 2.2.6+g32dac6a-2+deb9u3.</p>
+
+<p>Vi anbefaler at du opgraderer dine wireshark-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende wireshark, 
+se dens sikkerhedssporingsside på: 
+<a href="https://security-tracker.debian.org/tracker/wireshark">\
+https://security-tracker.debian.org/tracker/wireshark</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4217.data"
