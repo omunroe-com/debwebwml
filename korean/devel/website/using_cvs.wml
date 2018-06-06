@@ -1,5 +1,11 @@
-#use wml::debian::template title="CVS 사용"
+#use wml::debian::template title="CVS 사용(이제 안 씀)"
 #use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Sebul"
+
+<div class="important">
+<h3>중요</h3>
+
+<p>최근 웹 사이트 저장소를 CVS에서 Git 로 바꾸었습니다.</p>
+</div>
 
 <p>CVS는 여러 사람이 같은 자료를 동시에 관리하도록 돕는 프로그램입니다.
 모든 사용자는 주 저장소의 로컬 복사본을 만듭니다.
