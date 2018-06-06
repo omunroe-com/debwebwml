@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Debian Användarmanualer"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="89452b91283c66fe196874b0444b28b819d16d7d"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
 
 <document "Debian GNU/Linux FAQ" "faq">
 
@@ -62,7 +62,7 @@
   <a href="$(HOME)/CD/">officiella kompletta cd och dvd</a> i katalogen
   <tt>/doc/manual/</tt>.
   <br><br>
-  <a href="https://d-i.alioth.debian.org/manual/">Utvecklingsversion</a>
+  <a href="https://d-i.debian.org/manual/">Utvecklingsversion</a>
 # <br>
 # <a href="$(HOME)/releases/testing/installmanual">Version som förbereds
 #  för nästa stabila utgåva (i uttestningsutgåvan)</a>

@@ -150,13 +150,13 @@ support HTTPS or use certificates signed only by SPI.</p>
 <p>
 If you change translated files, you need to update the translation-check
 header to match the git commit hash of the corresponding change in the
-English file. You can find that hash with
+English file. You can find that hash with</p>
 
 <pre>
 $ git log path/to/english/file
 </pre>
 
-If you do a new translation of a file, please use the <q>copypage.pl</q> script
+<p>If you do a new translation of a file, please use the <q>copypage.pl</q> script
 and it will create a template for your language, including the correct
 translation header.</p>
 

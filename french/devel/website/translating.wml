@@ -1,7 +1,6 @@
 #use wml::debian::template title="Traduction du site web Debian"
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="d2e8c3c0b0e06f6a3d5dd63bf8a4caaace29664e
-" maintainer="David Prévot"
+#use wml::debian::translation-check translation="d2e8c3c0b0e06f6a3d5dd63bf8a4caaace29664e" maintainer="David Prévot"
 
 # Translators:
 # Denis Barbier, 2001-2003.

@@ -44,12 +44,14 @@ sub new
 	if ( -d 'CVS' )
 	{
 		require Local::VCS_CVS;
+		shift;
 		return Local::VCS_CVS->new(@_);
 	}
 	# fall back to git
 	else
 	{
 		require Local::VCS_git;
+		shift;
 		return Local::VCS_git->new(@_);
 	}
 }    

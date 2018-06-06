@@ -10,6 +10,7 @@ ENGLISHDIR := $(ENGLISHSRCDIR)
 TEMPLDIR := $(ENGLISHDIR)/template/debian
 RELHTMLBASE := ../../www
 HTMLDIR = $(WMLBASE)/$(RELHTMLBASE)/$(CUR_DIR)
+VCSREVCACHE = $(WMLBASE)/../.git-revs-cache.db
 
 LOCALEDIR := $(WMLBASE)/../locale/$(LANGUAGE)/LC_MESSAGES
 essential-locale-files := templates countries langs date
@@ -90,6 +91,9 @@ cleandest:: $(existing-SUBS-cleandest)
 $(existing-SUBS-cleandest):
 	-$(MAKE) -C $(patsubst %-cleandest,%,$@) cleandest
 
+$(VCSREVCACHE): $(WMLBASE)/../.git/index
+	(cd $(WMLBASE)/.. && ./build_vcs_cache.pl)
+
 # the rule for every wml file
 ifndef NOGENERICDEP
 
@@ -99,7 +103,11 @@ else
      EXTRAWMLDEP := $(WMLRCDEP) $(GETTEXTDEP) $(TEMPLDIR)/template.wml $(TEMPLDIR)/languages.wml $(TEMPLDIR)/translation-check.wml
 endif
 
-%.$(LANGUAGE).html : %.wml $(EXTRAWMLDEP)
+# The "| $(VCSREVCACHE)" here is an order-only prerequisite - always
+# check that the prerequisite exists and is up to date, but don't
+# rebuild everything whenever it's updated - see
+# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
+%.$(LANGUAGE).html : %.wml $(EXTRAWMLDEP) | $(VCSREVCACHE)
 	$(WML) $(<F)
 ifeq "$(LANGUAGE)" "en"
 	-$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)

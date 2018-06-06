@@ -1,6 +1,6 @@
 #use wml::debian::template title="Cómo está hecho www.debian.org"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="b0e9ada659d7652c40b5b23123bd1a43b01f785e"
+#use wml::debian::translation-check translation="b71e318d7035342144f073c15e0f275ded4ac220"
 
 <p>El <em>«árbol web»</em> de Debian, la colección de directorios y
 archivos que comprende nuestro sitio web, está ubicado en el directorio
@@ -12,7 +12,7 @@ del sitio web.
 <p>El sitio se genera de una de las tres formas siguientes:
 <ul>
   <li>La mayor parte se genera utilizando WML, desde el
-      <a href="$(DEVEL)/website/using_cvs">árbol CVS de <q>webwml</q></a>.
+      <a href="$(DEVEL)/website/using_git">repositorio Git <q>webwml</q></a>.
   <li>La documentación se genera bien utilizando DocBook XML (el uso de DebianDoc-SGML
       se está eliminando gradualmente), desde el
       <a href="$(DOC)/cvs">repositorio Subversion de <q>ddp</q></a>; o
@@ -23,7 +23,7 @@ del sitio web.
 </ul>
 
 <p>Seis veces al día se ejecuta una actualización automática (desde los
-repositorios del CVS y otras fuentes) del árbol.
+repositorios de git y otras fuentes) del árbol.
 
 <p>Si quiere contribuir en este sitio, <strong>no</strong> empiece
 directamente añadiendo o editando elementos en el directorio <code>www/</code>.
@@ -75,7 +75,7 @@ Lea las páginas sobre <a href="using_wml">uso de WML</a> para más información
 
 <toc-add-entry name="sources">Fuentes</toc-add-entry>
 
-<p>La fuente para las páginas web se almacena en CVS. CVS es un sistema de
+<p>La fuente para las páginas web se almacena en Git. Git es un sistema de
 control de versiones, que nos permite mantener un registro de qué, quién, cuándo
 y por qué se produjeron los cambios. Es una forma segura de controlar la
 edición concurrente de archivos fuente por parte de múltiples autores, lo cual
@@ -83,9 +83,9 @@ es crucial para nosotros, debido a que el equipo de la web de Debian es bastante
 numeroso.
 
 <p>Si no está familiarizado con este programa, querrá leer las páginas sobre
-<a href="using_cvs">uso de CVS</a>.
+<a href="using_git">uso de Git</a>.
 
-<p>El directorio superior de webwml en el repositorio de CVS contiene
+<p>El directorio superior de webwml en el repositorio Git contiene
 directorios con los nombres de los idiomas propios de los lugares donde están
 ubicados los sitios web, dos «Makefiles» y varios scripts. La traducción de los
 nombres de los directorios debería ir en inglés y minúsculas (ej. «german»,

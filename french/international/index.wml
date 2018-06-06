@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian international"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="David Prévot"
+#use wml::debian::translation-check translation="c983d05b92b263f99491afdfdb7b5eb303d0cd2c" maintainer="David Prévot"
 
 # Translators:
 # Christian Couder, 1999-2005.
@@ -52,10 +52,10 @@ suivants de Debian&nbsp;:
 
       <dd>
 	Veuillez consulter les <a
-	href="https://anonscm.debian.org/viewvc/d-i/trunk/manual/doc/translations.txt?view=markup">informations
-	pour les traducteurs</a> dans <a
-	href="$(DEVEL)/debian-installer/svn">l'arborescence Subversion
-	«&nbsp;debian-installer&nbsp;»</a>.
+	href="https://salsa.debian.org/installer-team/installation-guide/blob/master/doc/translations.txt">\
+	informations pour les traducteurs</a> dans <a
+	href="https://salsa.debian.org/installer-team/installation-guide">l'arborescence git
+	«&nbsp;installation-guide&nbsp;»</a>.
 
 	Le travail concernant l'installation de Debian est discuté sur
 	la liste de diffusion <a

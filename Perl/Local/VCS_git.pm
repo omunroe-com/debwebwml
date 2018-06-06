@@ -24,6 +24,18 @@ Local::VCS_git - generic wrapper around version control systems -- git version
 This module retrieves git info (such as revision of latest change, date
 of latest change, author, etc) for checked-out object in a working directory.
 
+For *best* performance if you're making lots of calls here, call
+$VCS->(cache_repo) before you start. It will take a few seconds to
+build a hash cache of all the git revisions for each file. If you're
+only making a few calls, don't bother.
+
+Another option (ideal for lots of separate programs all making a small
+number of calls like a big "make" on the website) is to build a shared
+cache on disk first. See the "build_vcs_cache.pl" script. If the
+on-disk cache is initialised before the start, then all callers into
+this module will benefit from a speedup almost as large as each having
+a separate in-memory cache.
+
 =head1 METHODS
 
 =over 4
@@ -38,15 +50,18 @@ use File::Basename;
 use File::Find;
 use File::Spec::Functions qw( abs2rel rel2abs splitdir catfile rootdir catdir );
 use File::stat;
+use File::Path qw(make_path remove_tree);
 use Carp;
-use Fcntl qw/ SEEK_SET /; 
-use Data::Dumper;
-use Date::Parse;
+use Fcntl qw/:flock/;
 use POSIX qw/ WIFEXITED /;
-use List::MoreUtils 'first_index'; 
 use Cwd qw/cwd/;
 use Time::HiRes qw/gettimeofday/;
 use Data::Dumper;
+use Digest::MD5 qw(md5 md5_hex md5_base64);
+
+my $cache_db = ".git-revs-cache.db";
+my $cache_lock = ".git-revs-cache.lock";
+my $git_index = ".git/index";
 
 use strict;
 use warnings;
@@ -70,18 +85,28 @@ This is the constructor.
 =cut
 
 sub new {
-        my $proto = shift;
-        my $class = ref($proto) || $proto;
+        my $class = shift;
+	my %params = @_;
         my $self  = {
-		CACHE    => {},
-		REPO_CACHED => 0,
+	    CACHE    => {},
+	    # Possible REPO_CACHED values:
+	    # 0 == not all cached          (slowest)
+	    # 1 == cached in a valid db (disk files)
+	    # 2 == cached in a hash in RAM (fastest)
+	    REPO_CACHED => 0,
+	    DEBUG => 0,
         };
         bless ($self, $class);
+
+	if ($params{"DEBUG"}) {
+	    $self->{DEBUG} = $params{"DEBUG"};
+	}
+
+	if ($self->db_cache_valid()) {
+	    $self->{REPO_CACHED} = 1;
+	}
         return $self;
 }
-
-# handling debugging
-my $DEBUG = 0;
 
 sub _get_time()
 {
@@ -90,18 +115,19 @@ sub _get_time()
     my ($seconds, $microseconds) = gettimeofday;
 
     @tm = gmtime();
-    $text = sprintf("%4d-%02d-%02d %02d:%02d:%02d.%6d UTC",
+    $text = sprintf("%4d-%02d-%02d %02d:%02d:%02d.%06d UTC",
                     (1900 + $tm[5]),(1 + $tm[4]),$tm[3],$tm[2],$tm[1],$tm[0], $microseconds);
     return $text;
 }
 
 sub _debug
 {
-	my @text = @_;
-	return unless $DEBUG;
-	my $timestamp = _get_time();
-	print STDERR "=> ", $timestamp, " ", @text, "\n";
-	return;
+    my $self = shift;
+    my @text = @_;
+    return unless $self->{DEBUG};
+    my $timestamp = _get_time();
+    print STDERR "=> ", $timestamp, " ", @text, "\n";
+    return;
 }
 
 # Internal helper function. Try to change to the target directory. If
@@ -130,6 +156,7 @@ sub _add_cache_entry {
     $entry{'cmt_rev'} = shift;
     my $tmp;
     my @list;
+#    print __LINE__ . ": adding $file, " . Dumper(%cache);
     if ($self->{CACHE}{"$file"}) {
 	$tmp = $self->{CACHE}{"$file"};
 	@list = @$tmp;
@@ -142,23 +169,24 @@ sub cache_file {
     my $self = shift;
     my $file = shift;
     
-    _debug "cache_file($file)";
+    $self->_debug( "cache_file($file)");
 
     if ($self->{REPO_CACHED}) {
-	_debug "cache_file() returning early - whole repo already cached";
+	$self->_debug( "cache_file() returning early - whole repo already cached");
 	return;
     }
 
     if ($self->{CACHE}{"$file"}) {
-	_debug "$file is already cached...";
-	_debug "cache_file($file) returning early";
+	$self->_debug( "$file is already cached...");
+	$self->_debug( "cache_file($file) returning early");
 	return;
     }
-    _debug "Adding $file to cache\n";
+    $self->_debug( "Adding $file to cache\n");
 
-    if ($self->get_topdir() !~ /^\.$/) {
-	croak "cache_file() needs to be called in the root of the webwml repo\n";
-    }
+    # Store the current directory so we can return there
+    my $startdir = cwd;
+    my $topdir = $self->get_topdir();
+    _safe_chdir($topdir, $startdir) or die "Can't chdir to $topdir: $!\n";
 
     my (@commits);
     open (GITLOG, "git log -p -m --first-parent --name-only --numstat --format=format:\"%H %ct\" -- $file |") or die "Can't fork git log: $!\n";
@@ -174,34 +202,123 @@ sub cache_file {
 	}
     }
     close GITLOG;
-    _debug "cache_file($file) done";
+    $self->_debug( "cache_file($file) done");
+    chdir ($startdir);
     return;
 }
 
-sub cache_repo {
-    my $self = shift;    
+sub db_cache_valid {
+    my $self = shift;
+    my $valid = 0;
 
-    _debug "cache_repo()";
-    # If we've already read the commit history into our cache, return
-    # immediately
-    if ($self->{REPO_CACHED}) {
-	_debug "cache_repo() returning early";
+    # If we can't find the right dir, it can't be valid!
+    my $topdir = $self->get_topdir() or return 0;
+
+    $self->_debug( "db_cache_valid");
+
+    # Check to see if an existing cache DB file is up to date
+    # compared to the git index.
+    if (-d "$topdir/$cache_db") {
+
+	$self->_debug( "db_cache_valid: file $topdir/$cache_db exists ok");
+
+	my $dbs = stat("$topdir/$cache_db");
+	my $ids = stat("$topdir/$git_index");
+
+	my $mtime1 = $dbs->mtime;
+	my $mtime2 = $ids->mtime;
+	$self->_debug( "dbs has mtime $mtime1, ids has mtime $mtime2");
+
+	if ($dbs->mtime < $ids->mtime) {
+	    $self->_debug( "db_cache_valid: but is out of date, rebuild needed");
+	    $valid = 0;
+	} else {
+	    $valid = 1;
+	}
+    } else {
+	# We don't have a cache file, we have to rebuild it
+	$valid = 0;
+	$self->_debug( "db_cache_valid: dir does not exist, so not valid");
+    }
+    return $valid;
+}
+
+# Internal helper string - (md5) hash a string and return the hash
+sub _hash_string {
+    my $string = shift;
+    return md5_hex($string);
+}
+
+# Dump our hashed cache out to disk so we can share it with other
+# processes
+sub save_cache_to_database {
+    my $self = shift;
+    my %args = @_;
+    my $tmp_cache_db = "$cache_db.tmp";
+    my $query;
+
+    print Dumper(%args);
+
+    $self->_debug( "save_cache_to_database starting");
+
+    # Now we're locked, see if the db s valid - somebody else might
+    # have updated it for us!
+    if (! $args{"FORCE"} and $self->db_cache_valid()) {
+	$self->_debug( "save_cache_to_database: Not rebuilding cache, it's already valid now");
 	return;
     }
 
-    if ($self->get_topdir() !~ /^\.$/) {
-	croak "cache_repo() needs to be called in the root of the webwml repo\n";
+    remove_tree($cache_db);
+    make_path($tmp_cache_db);
+
+    my $tmp = $self->{CACHE};
+    my $table_count = 0;
+    my $row_count = 0;
+
+    foreach my $key(sort keys %$tmp) {
+	my $file = $key;
+	my $tmp1 = $self->{CACHE}{"$file"};
+	my @list = @$tmp1;
+	my $tablename = _hash_string($file);
+
+	open (OUT, "> $tmp_cache_db/$tablename") or die "Can't create file $tmp_cache_db/$tablename: $!\n";
+	$table_count++;
+	foreach my $tmp2 (@list) {
+	    my %entry = %$tmp2;
+	    printf OUT "%s %s\n", $entry{"cmt_date"}, $entry{"cmt_rev"};
+	    $row_count++;
+	}
+	if (0 == $table_count % 1000 or $table_count == scalar(keys %$tmp)) {
+	    $self->_debug( "$row_count rows, $table_count tables done");
+	}
+	close OUT;
     }
 
-    # If not, clear the cache and rebuild from scratch. We might havs
-    # some files cached individually, and that would confuse things
-    # now.
-    $self->{CACHE} = {};
+    rename $tmp_cache_db, $cache_db;
+    $self->_debug( "save_cache_to_database done");
+}
+
+sub cache_repo {
+    my $self = shift;
+
+    $self->_debug( "cache_repo()");
+    # If we've already read the commit history into our cache, return
+    # immediately
+    if ($self->{REPO_CACHED} == 2) {
+	$self->_debug( "cache_repo() returning early");
+	return;
+    }
 
     # Store the current directory so we can return there
     my $startdir = cwd;
     my $topdir = $self->get_topdir();
     _safe_chdir($topdir, $startdir) or die "Can't chdir to $topdir: $!\n";
+
+    # Clear the cache and rebuild from scratch. We might havs
+    # some files cached individually, and that would confuse
+    # things now.
+    $self->{CACHE} = {};
+#	    print __LINE__ . ": " . Dumper(%cache);
 
     my (@commits);
     my $count = 0;
@@ -220,12 +337,12 @@ sub cache_repo {
 	}
     }
     close GITLOG;
-    chdir ($startdir);
-    $self->{REPO_CACHED} = 1;    
-#    print Dumper($self->{CACHE});
+    $self->{REPO_CACHED} = 2;
     my $tmp = $self->{CACHE};
     my $num_files = scalar(keys %$tmp);
-    _debug "cache_repo() done, $count file commits, $num_files files";
+    $self->_debug( "cache_repo() done, $count file commits, $num_files files");
+
+    chdir ($startdir);
 }    
 
 # Internal helper function - grab a list of all the commits to a given
@@ -236,13 +353,43 @@ sub _grab_commits
     my $self = shift;
     my $file = shift or return undef;
     $self->cache_file($file);
-    my $tmp = $self->{CACHE}{"$file"};
-    if (defined $tmp) {
-	my @commits = @$tmp;
-#    print Dumper(@commits);
+
+    if ($self->{REPO_CACHED} == 1) {
+	# Grab from the on-disk files
+	my $tablename = _hash_string($file);
+	my $commits;
+	# Take a shared lock to stop somebody taking the cache out
+	# from underneath us
+	open (my $lock, "+> $cache_lock") or die "Can't create lock file $cache_lock: $!\n";
+	flock ($lock, LOCK_SH);
+	open (IN, "< $cache_db/$tablename") or die "Can't open file $cache_db/$tablename: $!\n";
+	my @commits;
+	while(my $line = <IN>) {
+	    if ($line =~ m/^(\d+)\s+([[:alnum:]]+)$/) {
+		my %entry = (
+		    'cmt_date' => $1,
+		    'cmt_rev'  => $2,
+		    );
+		push (@commits, \%entry);
+	    } else {
+		print "ERROR: Can't parse $line in $cache_db/$tablename\n";
+	    }
+	}
+	close IN;
+	flock ($lock, LOCK_UN);
+	close ($lock);
+	#	print Dumper(@commits);
 	return @commits;
+    } else {
+	# Return directly from the in-memory cache
+	my $tmp = $self->{CACHE}{"$file"};
+	if (defined $tmp) {
+	    my @commits = @$tmp;
+	    #    print Dumper(@commits);
+	    return @commits;
+	}
+	return undef;
     }
-    return undef;
 }
 
 =item cmp_rev
@@ -286,7 +433,7 @@ sub cmp_rev
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "cmp_rev(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "cmp_rev(): looking for details of file $relfile, indir $indir");
 
 	my @commits = $self->_grab_commits($relfile);
 #	print Dumper(@commits);
@@ -376,7 +523,7 @@ sub count_changes
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "count_changes(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "count_changes(): looking for details of file $relfile, indir $indir");
 
 	my @commits = $self->_grab_commits($relfile);
 
@@ -495,7 +642,7 @@ sub path_info
 	my %files_wanted;
 
 	croak("No file or directory specified") unless $dir;
-	_debug "path_info ($dir)";
+	$self->_debug( "path_info ($dir)");
 	if ($self->get_topdir() !~ /^\.$/) {
 	    croak "path_info() needs to be called in the root of the webwml repo\n";
 	}
@@ -504,9 +651,9 @@ sub path_info
 	my $match_pat = $options{match_pat} || undef;
 	my $skip_pat  = $options{skip_pat}  || undef;
 
-	_debug "Recurse is $recurse";
-	_debug "Match pattern is '$match_pat'" if defined $match_pat;
-	_debug "Skip pattern is  '$skip_pat'"  if defined $skip_pat;
+	$self->_debug( "Recurse is $recurse");
+	$self->_debug( "Match pattern is '$match_pat'") if defined $match_pat;
+	$self->_debug( "Skip pattern is  '$skip_pat'")  if defined $skip_pat;
 
 	if ($recurse) {
 	    find( sub { $files_wanted{$File::Find::name} = 1 if -f and
@@ -540,7 +687,7 @@ sub path_info
 			$pathinfo{$outfile}{'cmt_date'} = $commits[0]{'cmt_date'};
 			$pathinfo{$outfile}{'cmt_rev'} = $commits[0]{'cmt_rev'};
 		    } else {
-			_debug "Ignoring file $file";
+			$self->_debug( "Ignoring file $file");
 		    }
 		}
 	} else {
@@ -571,7 +718,7 @@ sub path_info
 	    }
 	    close GITLOG;
 	}
-	_debug "path_info ($dir) returning";
+	$self->_debug( "path_info ($dir) returning");
 	return %pathinfo;	
 }
 
@@ -620,7 +767,7 @@ sub file_info
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "file_info(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "file_info(): looking for details of file $relfile, indir $indir");
 	my @commits = $self->_grab_commits($relfile);
 	if (@commits) {
 	    # Grab the data we want from the first entry in the
@@ -676,7 +823,7 @@ sub get_log
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "get_log(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "get_log(): looking for details of file $relfile, indir $indir");
 
 	if ($rev1 eq '' and $rev2 eq '') {
 	    $command = sprintf( 'git log --date=unix %s', $relfile );
@@ -688,7 +835,7 @@ sub get_log
 	    $command = sprintf( 'git log --date=unix %s..%s %s', $rev1, $rev2, $relfile );
 	}		
 
-	_debug "get_log: running $command";
+	$self->_debug( "get_log: running $command");
 
 	open( my $git, '-|', $command ) 
 		or croak("Couldn't run `$command': $!");
@@ -710,7 +857,7 @@ sub get_log
 	    if ($line =~ m{^commit (.+)}) {
 		# Second and subsequent record, push a result
 		if ($first_record_done) {
-		    _debug "pushing a record (rev $revision)";
+		    $self->_debug( "pushing a record (rev $revision)");
 		    push @logdata, {
 			'rev'     => $revision,
 		        'author'  => $author,
@@ -737,7 +884,7 @@ sub get_log
 	close( $git );
 
 	if ($first_record_done) {
-	    #	_debug "pushing last record (rev $revision)";
+	    #	$self->_debug( "pushing last record (rev $revision)");
 	    # Last record, push a result
 	    push @logdata, {
 		'rev'     => $revision,
@@ -799,7 +946,7 @@ sub get_diff
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "get_diff(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "get_diff(): looking for details of file $relfile, indir $indir");
 
 	my $command = sprintf( 'git diff %s %s -u %s 2> /dev/null', 
 		defined $rev1 ? "$rev1" : '', 
@@ -876,7 +1023,7 @@ sub get_file
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "get_file(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "get_file(): looking for details of file $relfile, indir $indir");
 
 	my $command = sprintf( 'git show %s:%s', 
 		$rev, $relfile );
@@ -938,7 +1085,7 @@ sub get_oldest_revision
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "get_oldest_revision(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "get_oldest_revision(): looking for details of file $relfile, indir $indir");
 
 	my @commits = $self->_grab_commits($relfile);
 
@@ -998,7 +1145,7 @@ sub get_newest_revision
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "get_newest_revision(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "get_newest_revision(): looking for details of file $relfile, indir $indir");
 
 	my @commits = $self->_grab_commits($relfile);
 	if (@commits) {
@@ -1065,7 +1212,7 @@ sub next_revision
 	# Now calculate where the file is, relative to the repo root
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
-	_debug "next_revision(): looking for details of file $relfile, indir $indir";
+	$self->_debug( "next_revision(): looking for details of file $relfile, indir $indir");
 
 	my @commits = $self->_grab_commits($relfile);
 #	print Dumper(@commits);
@@ -1136,12 +1283,12 @@ sub get_topdir
 	my $root = stat("/");
 
 	while (1 == 1) {
-	    _debug "Looking at $dir";
+	    $self->_debug( "Looking at $dir");
 	    if (-d "$dir/.git" and -d "$dir/english") {
 		return "$dir";
 	    }
 	    my $sb = stat("$dir");
-	    _debug "Comparing ($sb->dev, $sb->ino) to ($root->dev, $root->ino)";
+	    $self->_debug( "Comparing ($sb->dev, $sb->ino) to ($root->dev, $root->ino)");
 	    if ($root->dev == $sb->dev and $root->ino == $sb->ino) {
 		croak ("Unable to find the top-level webwml directory");
 	    }

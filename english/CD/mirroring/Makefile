@@ -9,11 +9,15 @@ NOGENERICDEP := true
 
 include $(WMLBASE)/Make.lang
 
-%.$(LANGUAGE).html: %.wml $(WMLRCDEP) $(GETTEXTDEP) $(TEMPLDIR)/cdimage.wml
+# The "| $(VCSREVCACHE)" here is an order-only prerequisite - always
+# check that the prerequisite exists and is up to date, but don't
+# rebuild everything whenever it's updated - see
+# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
+%.$(LANGUAGE).html: %.wml $(WMLRCDEP) $(GETTEXTDEP) $(TEMPLDIR)/cdimage.wml | $(VCSREVCACHE)
 	$(WML) $(<F)
 
 rsync-mirrors.$(LANGUAGE).html: rsync-mirrors.wml $(TEMPLDIR)/cdimage.wml \
-  $(ENGLISHDIR)/CD/mirroring/cdimage_mirrors.list
+  $(ENGLISHDIR)/CD/mirroring/cdimage_mirrors.list | $(VCSREVCACHE)
 
 ifeq "$(LANGUAGE)" "en"
 $(ENGLISHDIR)/CD/mirroring/cdimage_mirrors.list: \

@@ -1,0 +1,204 @@
+#use wml::debian::template title="Använda git för att manipulera webbplatsens källkod"
+#use wml::debian::translation-check translation="4cf7397e207de608c604c96102ab380555d8ff4f"
+
+<p>Git är ett <a href="https://en.wikipedia.org/wiki/Version_control">\
+versionshanteringssystem</a> som hjälper till att hantera flera personer som
+jobbar på samma material samtidigt. Varje användare kan ha en lokal kopia
+av ett huvudförråd. De lokala kopiorna kan befinna sig på samma maskin, eller
+över hela världen. Användare kan sedan modifiera sin lokala kopia som dom
+vill och sedan när det modifierade materialet är färdigt så kan dom
+committa ändringar och sedan skicka till huvudförrådet.</p>
+
+<p>Git kommer inte att låta dig pusha en commit direkt om fjärrförrådet har
+några nyare commits (ändringar) än din lokala kopia på samma gren.
+I sådana fall där en konflikt sker, var vänlig hämta och uppdatera din lokala
+kopia först och <code>rebase</code> dina nya modifikationer på den senaste
+ändringen.
+</p>
+
+<h3><a name="write-access">skrivrättigheter till git</a></h3>
+
+<p>
+Om du behöver skrivrättigheter till förrådet, var vänlig efterfråga detta
+via webbgränssnittet på <url https://salsa.debian.org/webmaster-team/webwml/>
+efter att du har loggat in på salsa-plattformen.
+Om du är ny på utveckling av Debian's webbsida och inte har någon tidigare
+erfarenhet, var vänlig kontakta även <a href="mailto:debian-www@lists.debian.org">
+debian-www@lists.debian.org</a> med en introduktion om dig själv. Vänligen
+skriv något användbart i din introduktion, så som vilket språk du vill jobba
+med eller vilken del av webbplatsen som du kommer att jobba på och vem
+som kommer att gå i god för dig.
+</p>
+
+<h3><a name="work-on-repository">Jobba med förrådet</a></h3>
+
+<h4><a name="establish-local-repo-copy">Upprätta en lokal arkivkopia</a></h4>
+
+<p>Du måste installera git för att jobba med förrådet och konfigurera din
+användare och e-postadress (vänligen se allmän git-dokumentation). När detta
+är gjort, kan du klona förrådet med:</p>
+
+<pre>
+   git clone git@salsa.debian.org:webmaster-team/webwml.git
+</pre>
+
+<p>Notera att du <strong>måste</strong> registrera ett konto på salsa.debian.org
+i förväg och aktivera git SSH-åtkomst genom att ladda upp en SSH publik nyckel
+till salsa före du kan utföra en <code>git clone</code> via SSH-protokollet.
+Var vänlig överväg att klona förrådet med hjälp av HTTPS-protokollet annars:</p>
+
+<pre>
+  git clone https://salsa.debian.org/webmaster-team/webwml.git
+</pre>
+
+<p>En kloning av fullständiga webwml-förrådet skulle kräva hämtning av runt
+500MB data, och kan därmed vara svårt för dom med långsam eller instabil
+internetuppkoppling. Du kan försöka med "grund" kloning med minimalt djup
+först för mindre initial dataöverföring:</p>
+
+<pre>
+  git clone git@salsa.debian.org:webmaster-team/webwml.git --depth 1
+</pre>
+
+<p>Efter att du har hämtat en användbar (grund) kopia av förrådet, kan
+du göra din lokala kopia djupare och eventuellt fullständigt återställa den
+till ett komplett lokalt förråd:
+</p>
+
+<pre>
+  git fetch --deepen=1000 # fördjupa förrådet med ytterligare 1000 commits
+  git fetch --unshallow   # hämta alla saknade commits, och konvertera förrådet till ett fullständigt
+</pre>
+
+<h4><a name="partial-content-checkout">Ofullständig innehållshämtning</a></h4>
+
+<p>Du kan skapa en checkout för endast en undergrupp av sidorna så här:</p>
+
+<pre>
+   $ git clone --no-checkout git@salsa.debian.org:webmaster-team/webwml.git
+   $ cd webwml
+   $ git config core.sparseCheckout true
+   I webwml: Skapa filen .git/info/sparse-checkout med innehåll som detta
+   (om du endast vill ha basfilerna, Engelska, Catalanska och Spanska översättningarna):
+      /*
+      !/[a-z]*/
+      /english/
+      /catalan/
+      /spanish/
+   och sedan:
+   $ git checkout --
+</pre>
+
+<h4><a name="submit-changes">Skicka in lokala ändringar</a></h4>
+
+<p>Med några dagars mellanrum (och åtminstone före du påbörjar redigeringsarbete!)
+kommer du att vilja köra en</p>
+
+<pre>
+   git pull
+</pre>
+
+<p>för att få alla filer från förrådet som har ändrats.</p>
+
+<p>Notera att eftersom git är ett distribuerat (och inte centraliserat) system,
+så måste du göra en push av dina förändringar till salsa efter att du har
+gjort en commit.</p>
+
+<p><strong>En redigering av en engelsk fil kommer att se ut som följer:</strong></p>
+
+<pre>
+   $ git pull
+</pre>
+
+<p>Gör nu ändringar till filer. När du är klar, kan du committa dina ändringar
+till det lokala förådet med hjälp av</p>
+
+<pre>
+   $ git add sökväg/till/fil(er)
+   $ git commit -m "Ditt ändringsmeddelande"
+</pre>
+
+<p>Sedan pushar du dina ändringar till Salsa-förrådet:</p>
+
+<pre>
+   $ git push
+</pre>
+
+<p>Det är allt som behövs när det gäller enkel användning av git för att
+manipulera Debians webbplats källkod. För mer information om git, var vänlig
+se Git's dokumentation.</p>
+
+### FIXME: Is the following still true? holgerw
+### FIXME: Seems not true anymore. Needs fixup. -- hosiet-guest
+<h4><a name="closing-debian-bug-in-git-commits">Stänga Debianfelrapporter mha git commits</a></h4>
+
+<p>
+Om du inkluderar <code>Closes: #</code><var>nnnnnn</var> i ditt
+commitloggmeddelande, så kommer felnummer <code>#</code><var>nnnnnn</var> att
+stängas automatiskt när du pushar dina ändringar. Den exakta formen för detta
+är samma som
+<a href="$(DOC)/debian-policy/footnotes.html#f17">i Debians policy</a>.</p>
+
+<p>
+Många Debianwebbplatser stödjer SSL, var vänlig använd HTTPS-länkar
+för dessa som stödjer SSL.
+Några Debian/DebConf/SPI/osv webbplats har inte SSL-stöd eller är
+endast signerade av SPI och inte av någon SSL CA som är betrodd av
+webbläsare utanför Debian, så därmed bör vi undvika att länka till
+https:-versioner av dessa webbplatser så att personer som inte använder
+Debian får fel som dom inte förstår sig på.
+Gitförrådet kommer att avvisa commits som innehåller rena HTTP-länkar för
+Debianwebbplatser som stödjer HTTPS eller innehåller HTTPS-länkar för
+Debian/DebConf/SPI-webbplatserna som är kända att inte stödja HTTPS eller
+använder certifikat som endast är signerade av SPI.</p>
+
+<h3><a name="translation-work">Jobba på översättningar</a></h3>
+
+<p>
+Om du ändrar på översatta filer, behöver du uppdatera translation-check-huvudet
+för att matcha git commit hashen i motsvarande ändring i den Engelska filen.
+Du kan hitta denna hash med </p>
+
+<pre>
+$ git log sökväg/till/engelsk/fil
+</pre>
+
+<p>Om du gör en ny översättning av en fil, vänligen använd <q>copypage.pl</q>-skriptet
+så kommer det att göra en ny mall för ditt språk, och inkludera ett korrekt
+översättningshuvud.</p>
+
+<h3><a name="translation-smart-change">Översättningsändringar med smart_change.pl</a></h3>
+
+<p>Det finns en *NY* implementation av smart_change.pl som är begränsad till
+att stödja git commit hashes. För att använda denna:</p>
+
+<ul>
+  <li>Gör ändringarna till originalfil(erna),och committa</li>
+  <li>Uppdatera översättningar</li>
+  <li>Kör smart_change.pl - denna kommer att snappa upp förändringarna och uppdatera
+      huvuden i översättningsfilerna</li>
+  <li>Granska ändringarna (exempelvis med <q>git diff -u</q>)</li>
+  <li>Committa och pusha ändringarna</li>
+</ul>
+
+<h3><a name="notifications">Få aviseringar</a></h3>
+
+<p>
+Vi har satt upp konfigurationen av projektet i Salsa så att commits
+visas i IRC-kanalen #debian-www.</p>
+
+<p>Om du vill få aviseringar via e-post när det finns commits i webwml-förrådet
+vänligen prenumerera på pseudopaketet <q>www.debian.org</q> via
+tracker.debian.org och aktivera nyckelordet <q>vcs</q> där, genom att följa
+dessa steg (en gång endast):</p>
+
+<ul>
+  <li>Öppna en webbläsare och gå till <url https://tracker.debian.org/pkg/www.debian.org></li>
+  <li>Prenumerera på pseudopaketet <q>www.debian.org</q>. (Du kan autentisera
+      via SSO eller registrera en e-post och lösenord, om du inte redan har 
+      använt tracker.debian.org för andra ändamål).</li>
+  <li>Gå till <url https://tracker.debian.org/accounts/subscriptions/>, och sedan till <q>modify
+      keywords</q>, kryssa i <q>vcs</q> (om den inte redan är ikryssad) och spara.</li>
+  <li>Från och med nu kommer du att få e-post när någon committar till
+      webwml-förrådet. Vi kommer att lägga till de andra webmaster-team-förråden inom kort.</li>
+</ul>

@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Preguntas frecuentes sobre los CDs de Debian" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="fef9d7d88f19e840904323fadec4d40c551fc627" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="82597f0ab0bfe72d63387dda56fe038a99d7bea9" maintainer="Laura Arjona Reina"
 
 # $Id$
 
@@ -970,7 +970,7 @@ instalado el paquete git. Desde un directorio vacío, teclee las siguientes
 
 <div class="centerblock">
 <p>
-<tt>git clone https://alioth.debian.org/anonscm/git/debian-cd/debian-cd.git</tt>
+<tt>git clone https://salsa.debian.org/images-team/debian-cd.git</tt>
 </p>
 </div>
 

@@ -25,7 +25,11 @@ endif
 
 DESTSTATS = $(patsubst %.html,$(HTMLDIR)/%.html,$(STATS))
 
-%.$(LANGUAGE).html: $(ENGLISHDIR)/$(CUR_DIR)/%.wml $(LOCALEDIR)/stats.mo
+# The "| $(VCSREVCACHE)" here is an order-only prerequisite - always
+# check that the prerequisite exists and is up to date, but don't
+# rebuild everything whenever it's updated - see
+# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
+%.$(LANGUAGE).html: $(ENGLISHDIR)/$(CUR_DIR)/%.wml $(LOCALEDIR)/stats.mo | $(VCSREVCACHE)
 	$(WML) $(shell egrep '^-D (CUR_|CHAR)' $(WMLBASE)/.wmlrc) \
 	$(shell echo $<)
 ifeq "$(LANGUAGE)" "zh"

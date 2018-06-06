@@ -1,5 +1,5 @@
 #use wml::debian::template title="Comment est généré www.debian.org"
-#use wml::debian::translation-check translation="7f92d5e217e2a0041acf36deec4f32b04a0cfb49" maintainer="David Prévot"
+#use wml::debian::translation-check translation="b71e318d7035342144f073c15e0f275ded4ac220" maintainer="David Prévot"
 #use wml::debian::toc
 
 # Translators:
@@ -19,8 +19,8 @@ miroirs.
 <p>Les pages web Debian sont générées de l'une des trois façons suivantes&nbsp;:
 <ul>
   <li>l'essentiel est généré avec WML, à partir du
-      <a href="$(DEVEL)/website/using_cvs">répertoire <q>webwml</q></a> 
-      de l'arborescence CVS ;
+      <a href="$(DEVEL)/website/using_git">répertoire <q>webwml</q></a> 
+      de l'arborescence git ;
   <li>la documentation est générée par XML DocBook (SGML DebianDoc
   est en train d'être supprimée progressivement), à partir du
   <a href="$(DOC)/cvs">dépôt Subversion <q>ddp</q></a>,
@@ -31,7 +31,7 @@ utilisant d'autres données, comme par exemple la page d'inscription aux
 listes de diffusion.
 </ul>
 
-<p>Une mise à jour automatique (à partir de l'arborescence CVS et
+<p>Une mise à jour automatique (à partir de l'arborescence git et
 d'autres sources) est effectuée six fois par jour.
 
 <p>Si vous voulez aider à la maintenance du site web, <strong>il ne
@@ -86,16 +86,16 @@ informations.
 
 <toc-add-entry name="sources">Sources</toc-add-entry>
 
-<p>Les sources des pages web sont gérées par CVS. CVS est un outil de
+<p>Les sources des pages web sont gérées par git. Git est un outil de
 contrôle de version qui permet de voir qui, quand, pourquoi, etc. a modifié
 certains fichiers. Cela permet un accès aux sources simultané par
 plusieurs auteurs de façon sûre, ce qui est crucial pour nous, parce que
 l'équipe de maintenance du site web est nombreuse.
 
 <p>Si vous n'êtes pas familier avec ce programme, vous devriez lire les
-pages expliquant <a href="using_cvs">comment utiliser CVS</a>.
+pages expliquant <a href="using_git">comment utiliser git</a>.
 
-<p>Le répertoire racine webwml dans l'arborescence CVS contient des
+<p>Le répertoire racine webwml dans l'arborescence git contient des
 répertoires dont le nom est celui des langues dans lesquelles ce site
 est traduit, deux fichiers Makefile et plusieurs scripts. Le nom du
 répertoire de traduction doit être en anglais et en lettres minuscules
@@ -131,12 +131,12 @@ sont indépendants, d'autres sont intégrés dans les fichiers sources wml.</p>
 
 <p>Les sources des scripts de reconstruction du site www-master principal 
 se trouvent dans le
-<a href="https://salsa.debian.org/webmaster-team/cron.git">dépôt Git debwww/cron</a>.
+<a href="https://salsa.debian.org/webmaster-team/cron.git">dépôt git debwww/cron</a>.
 </p>
 
 <p>Les sources des scripts pour la reconstruction de packages.debian.org
 se trouvent dans le 
-<a href="https://salsa.debian.org/webmaster-team/packages">dépôt Git
+<a href="https://salsa.debian.org/webmaster-team/packages">dépôt git
 webwml/packages</a>.</p>
 
 <toc-add-entry name="help">Comment aider</toc-add-entry>

@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Debians Utvecklarmanualer"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
-#use wml::debian::translation-check translation="a5f6ece6021a908d003b334683cb03496734ec3e"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f"
 
 <document "Debians policyhandbok" "policy">
 
@@ -293,9 +293,9 @@ modifikation av <code>grep</code>-paketet samt paketering av spelet
 	klar
 	</status>
 	<availability>
-	<p><a href="https://d-i.alioth.debian.org/doc/internals/">HTML på nätet</a>.</p>
+	<p><a href="https://d-i.alioth.debian.org/doc/internals/">HTML på nätet (FIXME: Inte tillgänglig för närvarande)</a>.</p>
 	<p><a 
-	href="https://anonscm.debian.org/cgit/d-i/debian-installer.git/tree/doc/devel/internals">\
+	href="https://salsa.debian.org/installer-team/debian-installer/tree/master/doc/devel/internals">\
 	DocBook XML-källkod på nätet</a>.</p>
 	</availability>
 </doctable>

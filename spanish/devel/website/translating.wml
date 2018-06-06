@@ -1,24 +1,26 @@
 #use wml::debian::template title="Traducción de las páginas web de Debian" BARETITLE=true
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="63debed7d9f6d7ea6c3e932aea334d4e00d16662" maintainer="Gildardo A. Maravilla Jácome"
+#use wml::debian::translation-check translation="d2e8c3c0b0e06f6a3d5dd63bf8a4caaace29664e" maintainer="Gildardo A. Maravilla Jácome"
 
 <p>Para hacer el trabajo de los traductores tan fácil como sea posible, las
 páginas se generan de forma algo diferente a como muchos de ustedes
 están acostumbrados. Las páginas web se actualizan realmente usando
-fuentes que están escritas con <a
+fuentes que están escritas en <a
 href="http://www.engelschall.com/sw/wml/"><tt>wml</tt></a>.
-Hay diferentes directorios para cada idioma.</p>
+Hay diferentes directorios para cada idioma.
+</p>
 
 <p>Si piensa comenzar una traducción completamente nueva del servidor
 web de Debian, por favor, vea la <a href="#completenew">sección del
-comienzo de una nueva traducción</a>.</p>
+comienzo de una nueva traducción</a>.
+</p>
 
 <h2><a name="singlepages">Traducción de páginas individuales</a></h2>
 
 <p>Usamos WML para separar el contenido específico de una página de los
 elementos comunes a múltiples páginas. Esto significa que uno debe
 editar ciertos ficheros fuente WML en lugar de ficheros HTML. Por favor,
-<a href="using_cvs">utilice CVS</a> para obtener los fuentes actuales.
+<a href="using_git">utilice Git</a> para obtener los fuentes actuales.
 Necesitará descargar al menos dos directorios: <tt>webwml/english/</tt> y
 <tt>webwml/<var>&lt;idioma&gt;</var>/</tt>.</p>
 
@@ -29,31 +31,40 @@ inglés, para que los enlaces sigan funcionando.</p>
 
 <h3>Cabeceras de traducción</h3>
 <p>También recomendamos
-encarecidamente que el traductor añada una línea adicional a las cabeceras
-tras la última sentencia <code>#use</code> para registrar la revisión
+encarecidamente que la persona que traduce añada una línea adicional a las cabeceras
+tras la última sentencia <code>#use</code> para registrar la versión («commit»)
 exacta del fichero original que se tradujo, de manera que
-<a href="uptodate">sea más sencillo actualizar</a>
+<a href="uptodate">sea más sencillo actualizar</a>.
 La línea sería algo como:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"</kbd>.
+<kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd>.
+
+Por favor tenga en cuenta que si genera el fichero a traducir usando la herramienta
+<tt>copypage.pl</tt> (que se recomienda encarecidamente), el hash del commit de git 
+se generará automáticamente. El uso de <tt>copypage.pl</tt> se explica más adelante.
 </p>
 
-<p>Algunos equipos de traducción usan también esta línea para marcar el
-traductor oficial de cada página web. Haciéndolo, le llegarán mensajes
+<p><strong>Nota: </strong>algunas partes de la información siguiente están obsoletas,
+especialmente todo lo relacionado con CVS. Por favor descarte esa parte de la
+información por ahora y ayude a actualizar estas instrucciones, si puede.
+</p>
+
+<p>Algunos equipos de traducción usan también esta línea para marcar la persona
+encargada oficialmente de la traducción de cada página web. Haciéndolo, le llegarán mensajes
 automáticamente cada vez que las páginas que mantiene sean actualizadas en
 inglés, y necesitan su atención para actualizar la traducción. Para ello,
 simplemente añada su nombre como mantenedor al final de la línea
 <code>#use</code> de manera que quede así:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"
+<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>"
 maintainer="<var>su nombre</var>"</kbd>. El script <tt>copypage.pl</tt> 
-hará esto automaticamente si esta presente la variable <tt>DWWW_MAINT</tt>
-en el ambiente o usa la opción -m en la linea de órdenes.
+hará esto automáticamente si está presente la variable de entorno <tt>DWWW_MAINT</tt>
+o usa la opción -m en la línea de órdenes.
 </p>
 
 <p>También hace falta explicarle al robot quién es usted, con qué
 frecuencia quiere que le lleguen mensajes automáticos y su contenido. Para
 ello, edite (o dígaselo a su coordinador) el fichero
 webwml/<var>idioma</var>/international/<var>idioma</var>/translator.db.pl
-en el CVS. Debería entender la sintaxis fácilmente, y puede usar el
+en el repositorio. Debería entender la sintaxis fácilmente, y puede usar el
 fichero del equipo francés como plantilla si no existe aún el de su
 idioma. El robot puede enviar varios tipos de información, y para cada
 tipo, puede escoger la frecuencia con que le será enviada. Los tipos
@@ -89,22 +100,22 @@ disponibles son:
 
 <p>La cabecera de la página web puede producirla fácilmente usando el
 script <tt>copypage.pl</tt> del directorio raíz de webwml. El script
-copiará la página en el lugar correcto, creará directorios y makefiles si
+copiará la página en el lugar correcto, creará directorios y «makefiles» si
 fuera necesario, y añadirá la cabecera adecuada de forma automática.
-Seras adevrtido si una pagina a copiar existe en el repositorio, ya sea
-porque la pagina fue removida por del repositorio (debido a estar muy
-desactualizada) o porque alguien ya envio una traducción y tu repositorio
-local no esta actualizado
+Se le advertirá si una pagina a copiar existe en el repositorio, ya sea
+porque la página fue eliminada del repositorio (debido a estar muy
+desactualizada) o porque alguien ya envió una traducción y su repositorio
+local no está actualizado.
 </p>
  
-<p>Para empezar a usar <tt>copypage.pl</tt> primero debes configurar 
-el fichero <tt>language.conf</tt> que sera usado para determinar en que
-idioma estas traduciendo. Ese fichero solo necesita tener una linea con el
-nombre del idioma, eso es todo. También puedes definir el idioma usando la variable
-del ambiente <tt>DWWW_LANG</tt> y usar la variable del ambiente <tt>DWWW_MAINT</tt>
-para poner tu nombre que sera añadido a la cabecera de los ficheros wml
-generados como el encargado de la traducción. Existen otras caracteristicas
-disponibles en el script, solo ejecutalo sin argumentos para obtener la ayuda.
+<p>Para empezar a usar <tt>copypage.pl</tt> primero debe configurar 
+el fichero <tt>language.conf</tt> que se usará para determinar a qué
+idioma se está traduciendo. Ese fichero solo necesita tener una línea con el
+nombre del idioma, eso es todo. También puede definir el idioma usando la variable
+de entorno <tt>DWWW_LANG</tt> y usar la variable de entorno <tt>DWWW_MAINT</tt>
+para poner su nombre, que se añadirá a la cabecera de los ficheros wml
+generados, como persona encargada de la traducción. Existen otras características
+disponibles en el script, solo ejecútelo sin argumentos para obtener la ayuda.
 </p>
 
 <p>Después de haber ejecutado, digamos, <kbd>./copypage.pl
@@ -121,8 +132,8 @@ contenido</a>, los ficheros HTML no se llaman
 <tt><var>fichero</var>.html</tt> sino
 <tt><var>fichero</var>.<var>&lt;idioma&gt;</var>.html</tt>, siendo
 <var>&lt;idioma&gt;</var> el código de dos letras del idioma, de acuerdo
-con el <a
-href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639</a>
+con la <a
+href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">lista ISO 639</a>
 (ej: <tt>es</tt> para Español).</p>
 
 <p>Puede generar HTML del WML ejecutando <kbd>make
@@ -131,14 +142,17 @@ compruebe que la sintaxis es completamente válida con <kbd>weblint
 <var>fichero</var>.<var>&lt;lang&gt;</var>.html</kbd>.</p>
 
 <p>Las páginas web se reconstruirán en el servidor www-master partiendo
-del CVS, y este proceso es el mas suceptible a errores. Sin embargo, si envía un
+del sistema de control de versiones, y este proceso es el más suceptible a errores. Sin embargo, si envía un
 fichero estropeado en el nivel superior de la traducción (ej: el fichero
 index.wml de nivel superior), interrumpirá el proceso de compilación y
 detendrá todo el resto de actualizaciones del sitio web. Preste atención
 especial a estos ficheros.</p>
 
-<p>Una vez esté lista la página, puede enviarla al CVS. Si tiene permiso
-para hacerlo por sí mismo, ejecute <kbd>cvs commit</kbd>; y si no, envíelo
+<p>Una vez esté lista la página, puede enviarla a Git. Si tiene permiso
+para hacerlo por sí mismo, envíe sus cambios (<kbd>git push</kbd>) al
+<a
+href="https://salsa.debian.org/webmaster-team/webwml">repositorio git en la plataforma
+Salsa</a>; y si no, envíelo
 a <a href="translation_coordinators">alguien que tenga derechos de
 escritura en el respositorio</a>.</p>
 
@@ -148,9 +162,9 @@ escritura en el respositorio</a>.</p>
 nuevo idioma, envíenos un mensaje (en inglés) a
 <a href="mailto:webmaster@debian.org">webmaster@debian.org</a>.</p>
 
-<p>Antes que nada, asegúrese de que ha descargado adecuadamente del CVS
-nuestro árbol fuente, tal como se describe en <a href="using_cvs">nuestra
-página de introducción al CVS</a>.</p>
+<p>Antes que nada, asegúrese de que ha descargado adecuadamente del Git
+nuestro árbol fuente, tal como se describe en <a href="using_git">nuestra
+página de introducción a Git</a>.</p>
 
 <p>Tras haber descargado los directorios webwml/ y (por lo menos)
 webwml/english/, empiece creando un directorio nuevo para la traducción,
@@ -181,7 +195,7 @@ cambiar estas cosas:</p>
       con los otros, en www.debian.org. Preferiríamos que dejase este
       cambio en particular a los webmasters, porque puede que los ficheros
       de la traducción contengan errores al ser descargados desde cero del
-      CVS, y esto podría interrumpir el proceso de compilación del resto
+      repositorio, y esto podría interrumpir el proceso de compilación del resto
       de nuestro sitio web.
 </ol>
 
@@ -255,27 +269,35 @@ página</a>.</p>
 traducciones desactualizadas del sitio pueden ser removidas automaticamente cuando
 un largo periodo de tiempo ha pasado sin tener una actualización.</p>
 
-<p>Si usa el script <tt>copypage.pl</tt> con un fichero que ha sido
-removido del CVS se negara a copiar la pagina y le pedira que la reviva.
-Puede checar los motivos por los que el fichero fue removido del
-cvs usando <tt>cvs log</tt> en el archivo removido (o usar la interfaz
-web, los ficheros borrados se pueden encontrar en el subdirectorio "Attic").
-</p>
+<p>Si encuentra que algún fichero se eliminó en algún momento en el pasado
+y le gustaría recuperar el fichero de nuevo para editarlo, puede buscar a través
+de la historia de cambios usando las órdenes estándar de git.</p>
 
-<p>Para revivir las traducciones desactualizadas use <tt>cvs status</tt>
-(o <tt>cvs log</tt>) para ver el número de versión de la versión eliminada
-y entonces hacer una <q>unión con una versión anterior</q>.</p>
-
-<p>Por ejemplo, si el fichero eliminado es "eliminado.wml", y
-la version eliminada es 1.7, la versión anterior a la eliminación es 1.6 (la
-versión eliminada menos uno). Puedes restaurar el archivo ejecuntado:</p>
+<p>Por ejemplo, si el fichero eliminado es "eliminado.wml", puede buscar en la
+historia de cambios ejecutando:</p>
  
- <verbatim>
-    cvs update -j 1.7 -j 1.6 eliminado.wml
- </verbatim>
+<verbatim>
+   git log --all --full-history -- <ruta/al/fichero/eliminado.wml>
+</verbatim>
 
-<p>Una vez que haga esto tendra que, por supuesto, actualizar el documentos antes
-de añadirlo otra vez. O podria ser removido.</p>
+<p>Puede encontrar el «commit» exacto que eliminó el fichero que desea,
+junto con la cadena del hash de ese «commit». Para mostrar la información
+detallada sobre la modificación realizada al fichero en ese «commit» puede usar
+<code>git show</code> subcommand:</p>
+
+<verbatim>
+  git show <COMMIT_HASH_STRING> -- <ruta/al/fichero/eliminado.wml>
+</verbatim>
+
+<p>Si el cambio es exactamente el que eliminó el archivo, puede restaurar el archivo
+usando <code>git checkout</code>:</p>
+
+<verbatim>
+  git checkout <COMMIT_HASH_STRING>^ -- <ruta/al/fichero/eliminado.wml>
+</verbatim>
+
+<p>Una vez que haga esto tendrá que, por supuesto, actualizar el documento antes
+de añadirlo otra vez. O podría ser eliminado.</p>
 
 <h3>El resto de la historia</h3>
 
