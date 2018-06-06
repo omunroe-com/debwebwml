@@ -556,8 +556,9 @@ sub count_changes
 	    # Not found
 	    print STDERR "count_changes() ERROR: commit rev2 $rev2 not found in revisions of $file\n";
 	    $ret = undef;
+	} else {
+	    $ret = $pos1 - $pos2;
 	}
-	$ret = $pos1 - $pos2;
 	# Now return to the directory where we started
 	chdir($startdir);
 	return $ret;
