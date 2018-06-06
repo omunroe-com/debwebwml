@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4218-1 memcached</define-tag>
+<define-tag report_date>2018-6-06</define-tag>
+<define-tag secrefs>CVE-2017-9951 CVE-2018-1000115 CVE-2018-1000127 Bug#868701 Bug#894404</define-tag>
+<define-tag packages>memcached</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>

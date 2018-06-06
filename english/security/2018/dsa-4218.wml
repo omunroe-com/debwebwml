@@ -1,0 +1,50 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities were discovered in memcached, a high-performance
+memory object caching system. The Common Vulnerabilities and Exposures
+project identifies the following problems:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-9951">CVE-2017-9951</a>
+
+    <p>Daniel Shapira reported a heap-based buffer over-read in memcached
+    (resulting from an incomplete fix for <a href="https://security-tracker.debian.org/tracker/CVE-2016-8705">CVE-2016-8705</a>) triggered by
+    specially crafted requests to add/set a key and allowing a remote
+    attacker to cause a denial of service.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-1000115">CVE-2018-1000115</a>
+
+    <p>It was reported that memcached listens to UDP by default. A remote
+    attacker can take advantage of it to use the memcached service as a
+    DDoS amplifier.</p>
+
+    <p>Default installations of memcached in Debian are not affected by
+    this issue as the installation defaults to listen only on localhost.
+    This update disables the UDP port by default. Listening on the UDP
+    can be re-enabled in the /etc/memcached.conf (cf.
+    /usr/share/doc/memcached/NEWS.Debian.gz).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-1000127">CVE-2018-1000127</a>
+
+    <p>An integer overflow was reported in memcached, resulting in resource
+    leaks, data corruption, deadlocks or crashes.</p></li>
+
+</ul>
+
+<p>For the oldstable distribution (jessie), these problems have been fixed
+in version 1.4.21-1.1+deb8u2.</p>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 1.4.33-1+deb9u1.</p>
+
+<p>We recommend that you upgrade your memcached packages.</p>
+
+<p>For the detailed security status of memcached please refer to its
+security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/memcached">https://security-tracker.debian.org/tracker/memcached</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4218.data"
+# $Id: $
