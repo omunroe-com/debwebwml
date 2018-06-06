@@ -372,7 +372,7 @@ sub _grab_commits
 		    );
 		push (@commits, \%entry);
 	    } else {
-		print "ERROR: Can't parse $line in $cache_db/$tablename\n";
+		print STDERR "ERROR: Can't parse $line in $cache_db/$tablename for file $file\n";
 	    }
 	}
 	close IN;
@@ -455,11 +455,11 @@ sub cmp_rev
 	}
 	if ($pos1 == -1) {
 	    # Not found
-	    print "ERROR: commit $rev1 not found in revisions of $file\n";
+	    print STDERR "ERROR: commit $rev1 not found in revisions of $file\n";
 	    $ret = undef;
 	} elsif ($pos2 == -1) {
 	    # Not found
-	    print "ERROR: commit $rev2 not found in revisions of $file\n";
+	    print STDERR "ERROR: commit $rev2 not found in revisions of $file\n";
 	    $ret = undef;
 	} elsif ($pos1 == $pos2) {
 	    $ret = 0;
@@ -550,11 +550,11 @@ sub count_changes
 	}
 	if ($pos1 == -1) {
 	    # Not found
-	    print "ERROR: commit $rev1 not found in revisions of $file\n";
+	    print STDERR "count_changes() ERROR: commit rev1 $rev1 not found in revisions of $file\n";
 	    $ret = undef;
 	} elsif ($pos2 == -1) {
 	    # Not found
-	    print "ERROR: commit $rev2 not found in revisions of $file\n";
+	    print STDERR "count_changes() ERROR: commit rev2 $rev2 not found in revisions of $file\n";
 	    $ret = undef;
 	}
 	$ret = $pos1 - $pos2;
