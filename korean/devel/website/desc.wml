@@ -1,6 +1,6 @@
 #use wml::debian::template title="어떻게 www.debian.org 이 만들어졌는가"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="b0e9ada659d7652c40b5b23123bd1a43b01f785e" maintainer="Sebul"
+#use wml::debian::translation-check translation="b71e318d7035342144f073c15e0f275ded4ac220" maintainer="Sebul"
 
 <p>우리 웹 사이트를 구성하는 디렉토리와 파일의 모임,데비안 <em>&ldquo;웹트리&rdquo;</em>는
 www-master.debian.org 에 <tt>/org/www.debian.org/www</tt> 디렉토리 안에 있습니다.

@@ -1,16 +1,17 @@
-#use wml::debian::template title="Using git"
+#use wml::debian::template title="git 사용하여 웹사이트  소스 코드 다루기"
 #use wml::debian::translation-check translation="c31136bc70bb27a22ea5f9a6d6e7c9ee883ec8ca" maintainer="Sebul"
 
 <p>git 은 <a href="https://en.wikipedia.org/wiki/Version_control">version
 control system</a>인데 그것은 
-같은 자료에서 여러 사람이 동시에 일하는 것을 다루는 것을 돕는 프로그램입니다.
-모든 사용자는 주 저장소의 지역 사본을 만듭니다.
+같은 재료에서 여러 사람이 동시에 일하는 것을 다루는 것을 돕는 프로그램입니다.
+모든 사용자는 주 저장소의 지역 사본을 만들 수 있습니다.
 지역 사본은 같은 컴퓨터, 또는 세계에 있을 수 있습니다.
-사용자는 지역사본을 원하는 대로 바꾸고, 바뀐 자료가 준비되면, 변경을 커밋하고 
+사용자는 지역사본을 원하는 대로 바꾸고, 바뀐 재료가 준비되면, 변경을 커밋하고 
 그것을 주 저장소에 다시 밀어넣습니다.</p>
 
-<p>git은 여러분이 마지막 업데이트 후 주 저장소의 사본이 바뀌면 파일을 밀어넣지 못하게 합니다.
-여러분의 지역 사본을 먼저 업데이트하세요.
+<p>git은 원격 저장소에 같은 브랜치에 있는 여러분의 지역 사본보다 새로운 커밋(변경)이 있으면 파일을 직접 밀어넣지 못하게 합니다.
+이 경우 충돌이 일어나는 경우, 먼저 여러분의 지역 사본을 가져와서 업데이트 하고 여러분의 새 변경을
+최근 커밋의 꼭대기에서 <code>rebase</code> 하세요.
 </p>
 
 <h3><a name="write-access">git 쓰기 권한</a></h3>
@@ -18,7 +19,7 @@ control system</a>인데 그것은
 <p>저장소에 쓰기 권한이 필요하면,
 <url https://salsa.debian.org/webmaster-team/webwml/>를 통해 요청하세요.
 여러분의 요청에 유용한 것(어떤 언어 또는 어느 부분의 웹 사이트에서 일하기 원하는지
-그리고 여러분을 보증할지)을 쓰세요.</p>
+그리고 누가 	여러분을 보증할지)을 쓰세요.</p>
 
 <h3><a name="work-on-repository">저장소에서 작업하기</a></h3>
 
@@ -47,38 +48,37 @@ control system</a>인데 그것은
    $ git checkout --
 </pre>
 
-<p>Every few days (and at least before starting some editing work!) you will want to do a</p>
+<p>며칠마다 (그리고 적어도 뭔가 편집 하기 전!) 아래와 같이 해서</p>
 
 <pre>
    git pull
 </pre>
 
-<p>to retrieve any files from the repository which have changed.</p>
+<p>변경이 있는 저장소에서 파일을 찾길 바랄 겁니다.</p>
 
-<p>Note that since git is a distributed (not centralised) system, after you
-commit your changes you need to push your changes to the repo in Salsa.</p>
+<p>git은 분산(중앙집중 아님) 시스템이므로, 변경을 커밋한 다음 
+변경을 Salsa의 저장소 안에 밀어넣어야 함을 주의하세요.</p>
 
-<p><b>So an edition in an English file will look like this:</b></p>
+<p><b>그래서 영어에서 편집은 이렇게 보일 겁니다:</b></p>
 
 <pre>
    $ git pull
 </pre>
 
-<p>Do your changes/edition to the file. When you are done, you can commit 
-your changes to the repository using</p>
+<p>파일을 변경/편집 하세요. 다 되면, 여러분의 변경을 저장소에 커밋할 수 있습니다</p>
 
 <pre>
    $ git add path/to/file(s)
    $ git commit -m "Your commit message"
 </pre>
 
-<p>Then, push your changes to the Salsa repo:</p>
+<p>다음에, 여러분의 변경을 Salsa 저장소에 밀어넣습니다:</p>
 
 <pre>
    $ git push
 </pre>
 
-<p>You are done. For more information on git, use <code>info git</code>.</p>
+<p>다 되었습니다. git에 대한 자세한 정보는, <code>info git</code>을 하세요.</p>
 
 ### FIXME: Is the following still true? holgerw
 <p>
@@ -100,53 +100,46 @@ Debian websites that support HTTPS or containing HTTPS links for the
 Debian/DebConf/SPI websites that are known to either not
 support HTTPS or use certificates signed only by SPI.</p>
 
-<h3><a name="translation-work">Working on translations</a></h3>
+<h3><a name="translation-work">번역 작업</a></h3>
 
-<p>
-If you change translated files, you need to update the translation-check
-header to match the git commit hash of the corresponding change in the
-English file. You can find that hash with
+<p>번역된 파일을 변경하면, translation-check header를 
+영어 파일안의 해당 변경의 git commit hash 와 맞게 업데이트해야 합니다.
+그 hash를 찾을 수 있습니다</p>
 
 <pre>
 $ git log path/to/english/file
 </pre>
+<p>파일의 새 번역을 한다면, <q>copypage.pl</q> 스크립트를 쓰면 여러분 언어의 템플릿이 만들어지며,
+올바른 번역 헤더를 포함합니다.</p>
 
-If you do a new translation of a file, please use the <q>copypage.pl</q> script
-and it will create a template for your language, including the correct
-translation header.</p>
+<h3><a name="translation-smart-change">smart_change.pl 로 번역 변경</a></h3>
 
-<h3><a name="translation-smart-change">Translation changes with smart_change.pl</a></h3>
-
-<p>There is a *NEW* implementation of smart_change.pl which is limited to
-supporting git commit hashes. To use it:</p>
+<p>smart_change.pl 의 *새로운* 구현이 있는데 
+그것은 git commit hash를 지원하는 것으로 한정됩니다. 그걸 쓰려면:</p>
 
 <ul>
-  <li>Make the changes to the original file(s), and commit</li>
-  <li>Update translations</li>
-  <li>Run smart_change.pl - it will pick up the changes and update
-      headers in the translation files</li>
-  <li>Review the changes (for example with <q>git diff -u</q>)</li>
-  <li>Commit and push the changes</li>
+  <li>원본 파일 변경 만들고, 커밋</li>
+  <li>번역 업데이트</li>
+  <li>smart_change.pl 돌리기 - 번역 파일에서 변경 확인하고 헤더를 업데이트</li>
+  <li>변경 검토 (예를 들어 <q>git diff -u</q>)</li>
+  <li>변경을 commit 및 push</li>
 </ul>
 
-<h3><a name="notifications">Getting notifications</a></h3>
+<h3><a name="notifications">알림 받기</a></h3>
 
-<p>
-We have setup the configuration of the project in Salsa, so commits are
-shown in the IRC channel #debian-www.</p>
+<p>Salsa에서 프로젝트의 구성을 설정했으므로, 커밋은 IRC 채널 #debian-www 에 보입니다.
+</p>
 
-<p>If you want to receive notifications via e-mail when there are
-commits in the webwml repo, please subscribe to the <q>www.debian.org</q>
-pseudopackage via tracker.debian.org and activate the <q>vcs</q> keyword
-there, following these steps (only once):</p>
+<p>webml 저장소 커밋이 있을 때 이메일을 통해 알림을 받으려면,
+<q>www.debian.org</q> pseudopackage에 tracker.debian.org 통해 가입하고 
+거기서 <q>vcs</q> 키워드를 활성화하면(아래 단계 한 번만) 됩니다:
+</p>
 
 <ul>
-  <li>Open a web browser and go to <url https://tracker.debian.org/pkg/www.debian.org></li>
-  <li>Subscribe to the <q>www.debian.org</q> pseudopackage. (You can authenticate
-      via SSO or register an email and password, if you were not using
-      tracker.debian.org already for other purposes).</li>
-  <li>Go to <url https://tracker.debian.org/accounts/subscriptions/>, then to <q>modify
-      keywords</q>, check <q>vcs</q> (if it's not checked) and save.</li>
-  <li>From now on you will get e-mails when somebody commits to the
-      webwml repo. We will add the other webmaster-team repositories soon.</li>
+  <li>웹브라우저를 열고 <url https://tracker.debian.org/pkg/www.debian.org>로 갑니다</li>
+  <li><q>www.debian.org</q> pseudopackage 가입. (SSO 통해 인증하거나 이메일과 암호 등록,
+다른 목적으로 이미 tracker.debian.org 를 쓰지 않으면)</li>
+  <li><url https://tracker.debian.org/accounts/subscriptions/> 로 가서, <q>키워드 바꾸기</q>,  <q>vcs</q>체크 (체크 안 되어 있으면) 그리고 저장.</li>
+  <li>이제 누군가 webml 저장소에 커밋할 때 이메일을 받을 겁니다.
+우리는 다른 webmaster-team를 더할 겁니다.</li>
 </ul>
