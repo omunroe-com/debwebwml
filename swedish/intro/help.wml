@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hur kan du hjälpa Debian?"
-#use wml::debian::translation-check translation="167c966b63631bcd2668bf5d49ae21952f6d11c7"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
 
 <p>Om du funderar på att hjälpa till med utvecklingen av Debian
 	så finns det många områden där både erfarna och oerfarna användare kan bidra:</p>
@@ -30,7 +30,7 @@
 		kan också engagera dig direkt i paketunderhållet genom att bli medlem i ett
 		underhållslag eller bli involverad i mjukvara som utvecklas
 		för Debian genom att gå med i ett mjukvaruprojekt i <a
-		href="https://alioth.debian.org/">Alioth</a>.</li>
+		href="https://salsa.debian.org/">Salsa</a>.</li>
 	
 	<li>Du kan anpassa (portera) Debian till någon arkitektur du är erfaren med
 		antingen genom att påbörja en ny anpassning eller bidra till existerande anpassningar.  För mer
