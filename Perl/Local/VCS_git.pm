@@ -189,7 +189,7 @@ sub cache_file {
     _safe_chdir($topdir, $startdir) or die "Can't chdir to $topdir: $!\n";
 
     my (@commits);
-    open (GITLOG, "git log -p -m --first-parent --name-only --numstat --format=format:\"%H %ct\" -- $file |") or die "Can't fork git log: $!\n";
+    open (GITLOG, "git log --no-renames -p -m --name-only --numstat --format=format:\"%H %ct\" -- $file |") or die "Can't fork git log: $!\n";
     my ($cmt_date, $cmt_rev);
     while (my $line = <GITLOG>) {
 	chomp $line;
@@ -322,7 +322,7 @@ sub cache_repo {
 
     my (@commits);
     my $count = 0;
-    open (GITLOG, "git log -p -m --first-parent --name-only --numstat --format=format:\"%H %ct\" |") or die "Can't fork git log: $!\n";
+    open (GITLOG, "git log --no-renames -p -m --name-only --numstat --format=format:\"%H %ct\" |") or die "Can't fork git log: $!\n";
     my ($cmt_date, $cmt_rev);
     while (my $line = <GITLOG>) {
 	chomp $line;
@@ -693,7 +693,7 @@ sub path_info
 		}
 	} else {
 	    # We don't, so we need to talk to git. (2a above)
-	    open (GITLOG, "git log -p -m --first-parent --name-only --numstat --format=format:\"%H %ct\" $dir|")
+	    open (GITLOG, "git log --no-renames -p -m --name-only --numstat --format=format:\"%H %ct\" $dir|")
 		or die "Failed to fork git log: $!\n";
 	    my $cmt_date;
 	    my $cmt_rev;
