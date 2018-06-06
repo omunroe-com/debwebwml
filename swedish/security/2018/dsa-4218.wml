@@ -1,0 +1,50 @@
+#use wml::debian::translation-check translation="4ebfdd503e9e85f67ec7fcf9034b307c4969a337" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i memcached, ett högpresterande
+cachingsystem för minnesobjekt. Projektet Common Vulnerabilities and Exposures
+identifierar följande problem:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-9951">CVE-2017-9951</a>
+
+	<p>Daniel Shapira rapporterade ett heap-baserat bufferöverskrivning i
+	memcached (resultat från en ofullständig rättning för <a href="https://security-tracker.debian.org/tracker/CVE-2016-8705">CVE-2016-8705</a>) som triggas
+	av speciellt skapade förfrågningar att lägga till/sätta en nyckel som
+	tillåter fjärrangripare att orsaka en överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-1000115">CVE-2018-1000115</a>
+
+	<p>Det har rapporterats att memcached lyssnar på UDP som standard. En
+	fjärrangripare kan dra fördel av detta för att använda memcached-tjänsten
+	som en DDoS-förstärkare.</p>
+
+	<p>Standardinstallationer av memcached i Debian påverkas inte av
+	detta problem eftersom installationen som standard bara lyssnar på
+	localhost. Denna uppdatering inaktiverar UDP-porten som standard.
+	Lyssning på UDP-porten kan återaktiveras i /etc/memcached.conf (var
+	vänlig se /usr/share/doc/memcached/NEWS.Debian.gz).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-1000127">CVE-2018-1000127</a>
+
+	<p>Ett heltalsspill har rapporterats i memcached, vilket resulterar i
+	resursspill, datakorruption, deadlocks eller krascher.</p></li>
+
+</ul>
+
+<p>För den gamla stabila utgåvan (Jessie) har dessa problem rättats
+i version 1.4.21-1.1+deb8u2.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 1.4.33-1+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era memcached-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om memcached vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/memcached">https://security-tracker.debian.org/tracker/memcached</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4218.data"
