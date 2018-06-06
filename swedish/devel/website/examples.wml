@@ -1,23 +1,22 @@
 #use wml::debian::template title="Exempel"
-#use wml::debian::translation-check translation="d1c06014aabc068656f3ebd20a38c574c7553f7a"
+#use wml::debian::translation-check translation="93f96e5508d963eef6dee47f4ac2360e27d7939b"
 
 <H3>Exempel på att påbörja en översättning</H3>
 
 <p>Vi använder här franska som exempel
 
 <pre>
-   cvs checkout webwml/Makefile.common webwml/english
+   git pull
    cd webwml
    mkdir french
-   cvs add french
    cd french
    cp ../english/.wmlrc ../english/Make.* .
    echo '<protect>include $(subst webwml/french,webwml/english,$(CURDIR))/Makefile</protect>' &gt; Makefile
    mkdir po
-   cvs add Make* .wmlrc po
+   git add Make*.wmlrc
    cp Makefile po
    make -C po init-po
-   cvs add po/Makefile po/*.fr.po
+   git add po/Makefile po/*.fr.po
 </pre>
 
 <p>Redigera filen <tt>.wmlrc</tt> och ändra:
@@ -49,7 +48,8 @@ Detta krävs eftersom programmet <code>make</code> används för att konvertera
 
 <p>När du är klar med att redigera sidorna skriver du
 <pre>
-   cvs commit
+   git commit -m"Lägg till en beskrivning av dina ändringar här på engelska"
+   git push
 </pre>
 från webwml-katalogen.
 Du kan nu börja översätta sidorna.
@@ -62,7 +62,6 @@ Du kan nu börja översätta sidorna.
    cd webwml
    ./copypage.pl english/social_contract.wml
    cd french
-   cvs add social_contract.wml
 </pre>
 
 <p>Detta kommer automatiskt lägga till huvudet translation-check, som pekar ut den
@@ -86,35 +85,36 @@ intro/:
 <pre>
    cd webwml/french
    mkdir intro
-   cvs add intro
    cd intro
    cp ../Makefile .
+   git add Makefile
+   git commit -m"Added the intro dir to git"
+   git push
 </pre>
 
-Se till att den nya katalogen har en Makefile, och att den läggs till CVS.
+<p>
+Se till att den nya katalogen har en Makefile, och att den läggs till Git.
 Om så inte är fallet, kommer make ge ett felmeddelande för alla som kör det.
-
-<pre>
-   cvs add Makefile
-   cd ..
-   cvs commit -m "lade introkatalogen till CVS" intro
-</pre>
+</p>
 
 #example not finished
 # <H3>Example of a Conflict</H3>
 #
 # <p>This example shows a commit that won't work because the copy in the
-# repository has been modified since your last <kbd>cvs update -d</kbd>.
+# repository has been modified since your last <kbd>git pull</kbd>.
 #
 # <pre>
-#    cvs commit -m"fixed a broken link" foo.wml
+#    git add foo.wml
+#    git commit -m"fixed a broken link"
+#    git push
 # </pre>
 #
 # will output:
 #
 # <pre>
-# cvs: Up-to-date check failed for foo.wml!
-# cvs: fix the above errors first
++#To salsa.debian.org:webmaster-team/webwml.git
++# ! [rejected]                master -> master (fetch first)
++#error: failed to push some refs to 'git@salsa.debian.org:webmaster-team/webwml.git'
 # </pre>
 #
 # or something like that :)
