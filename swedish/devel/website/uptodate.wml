@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hålla översättningarna à jour"
-#use wml::debian::translation-check translation="5906c5c1a380b2b57c9650ad00be21b432a3be04"
+#use wml::debian::translation-check translation="3c508740e4547501e8db1652b165b85a38036086"
 
 <p>Eftersom webbsidor inte är statiska är det bra att kunna hålla reda på
 vilken version av originalet som en viss sida översätter, och använda denna
@@ -9,16 +9,16 @@ Denna information bör bäddas in i början av dokumentet (dock under övriga
 "use"-rader) på följande form:
 
 <pre>
-\#use wml::debian::translation-check translation="X.x"
+\#use wml::debian::translation-check translation="git_commit_hash"
 </pre>
 
-<p>där <var>X.x</var> är versionsnumret för originalet (engelska).
-Du kan hämta versionsnumret genom att titta i CVS/Entries, vari data står på
-följande form: <code>/filnamn/X.x/datum//</code>.
-Du kan även få fram värdet genom att köra <code>cvs status filnamn</code> i
-den engelska källkatalogen.
+<p>där <var>git_commit_hash</var> är Gits commit hash som refererar till
+den committen i den ursprungliga (Engelska) filen som den översatta filen
+var översatt från. Du kan få detaljerad information om denna commit mha
+verktyget <code>git show</code>: <code>git show &lt;git_commit_hash&gt;</code>.
 Om du använder dig av skriptet <kbd>copypage.pl</kbd> i webwml-katalogen
 läggs denna rad till automatiskt.
+</p>
 
 <p>Detta är också användbart eftersom vissa översättningar kanske inte
 uppdateras på ett tag även om originalet (engelska) uppdateras.
@@ -28,6 +28,7 @@ versioner av originalet.
 Mallen <code>translation-check</code> innehåller kod som kontrollerar om
 översättningen är föråldrad, och ger lämpliga varningsmeddelanden till
 användaren.
+</p>
 
 <p>
 Dessutom finns några ytterligare parametrar som kan användas på
@@ -37,7 +38,7 @@ Dessutom finns några ytterligare parametrar som kan användas på
  <dt><code>original="<var>språk</var>"</code>
  <dd>där <var>språk</var> är namnet på det språk du översätter från, om det
  inte är engelska.
- Namnet måste motsvara namnet på språkets katalog i CVSen, samt namnet
+ Namnet måste motsvara namnet på språkets katalog i VCSen, samt namnet
  i <code>languages.wml</code>.
 
  <dt><code>mindelta="<var>talvärde</var>"</code>
