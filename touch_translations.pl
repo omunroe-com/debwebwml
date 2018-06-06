@@ -13,28 +13,24 @@
 #	  "N", it is touched and a marker file is created
 # This allows the file to be rebuilt _exactly_ the number of times it should
 # (i.e. $#stages times)
-
-# (C) 2000 by Marcin Owsiany <porridge@pandora.info.bielsko.pl>
-
-# TODOs:
-#	- compare both major and minor revision number
-#	- think of a better way to check when the file has been rebuilt last
-
-#    These modules reside under webwml/Perl
 #
-#    FIXME 93sam 2018-05-17: Converted to use Local::VCS to allow for
-#    usage with git, but not tested much. It's not clear at all if this
-#    script is still used or not.
+# (C) 2000 by Marcin Owsiany <porridge@pandora.info.bielsko.pl>
+#     Original script
+#
+# (C) 2018 Steve McIntyre <93sam@debian.org>
+#     Converted to use Local::VCS to allow for usage with git instead of CVS
+#
+#    These modules reside under webwml/Perl
 
 use lib ($0 =~ m|(.*)/|, $1 or ".") ."/Perl";
 use Local::VCS;
 use Webwml::Langs;
 use Webwml::TransCheck;
 
-# Set this to 1 for debugging
+# Set this to non-zero for debugging
 $debug = 0;
 
-my $VCS = Local::VCS->new();
+my $VCS = Local::VCS->new("DEBUG" => $debug);
 
 sub rebuild {
     my $file = shift;
@@ -115,6 +111,9 @@ foreach $lang (@langs) {
     next unless not defined $original or $original eq $arglang;
 
     $difference = $VCS->count_changes($argfile, $langrev, $origrev);
+    if (!defined $difference) {
+	die "count_changes failed when looking at $argfile\n";
+    }
     if ($difference < $mindelta) {
         next unless was_forced($transfile);
         print "unlinking $transfile.forced\n" if $debug;
