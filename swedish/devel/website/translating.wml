@@ -167,7 +167,7 @@ Var särskilt försiktig med dessa filer.
 <p>
 När sidan är färdig att läggas upp kan du sända in den till Git.
 Om du har rättigheter att göra detta själv, var vänlig pusha ändringarna
-till <a +href="https://salsa.debian.org/webmaster-team/webwml">Git-förrådet på
+till <a href="https://salsa.debian.org/webmaster-team/webwml">Git-förrådet på
 Salsa-platformen</a>; om inte, sänd den till
 <a href="translation_coordinators">någon med skrivrättighet på
 förrådet</a>.
