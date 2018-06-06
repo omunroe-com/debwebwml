@@ -2,7 +2,7 @@
 #use wml::debian::common_tags
 #use wml::debian::acronyms
 #use wml::debian::toc
-#use wml::debian::translation-check translation="54b8009523a375d159be453194c05df95ade0ede"
+#use wml::debian::translation-check translation="648de6ad5bea60540e41a5733da0b761a34c7927"
 
 <p>
 Denna sida är fortfarande ett utkast.
@@ -24,8 +24,8 @@ skapar nya sidor och gör dom enklare att översätta.</p>
 <dd>
 wml-filer och andra filer skall ha rader som får plats i ett normalt
 terminalfönster. Det är lättare att editera i vi, mer sökbart och
-lättare att översätta. Det är även viktigt efter CVS är rad-orienterat och
-det är svårare att lösa konflikter i långa rader.
+lättare att översätta. Det är även viktigt eftersom det är
+svårare att lösa konflikter i långa rader.
 </dd>
 <dt>håll taggar på separata rader om möjligt</dt>
 <dd>
