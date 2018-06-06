@@ -1,5 +1,5 @@
 #use wml::debian::template title="Mini-HOWTO för handläggare"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f"
 
 <p>
 <b>Notera:</b> Wikisidan <a href="https://wiki.debian.org/FrontDesk/AMTutorial">AM
@@ -69,7 +69,7 @@ ansökanden och ändra din AM-profil.</p>
 tillräckligt med information om kraven på kontrollerna, så kommer inte detta 
 repeteras här. Om du är osäker på hur du skall hantera en ansökan, använd dom 
 utsökta mallarna som Joerg Jaspert tillhandahåller i sitt projekt <a
-href="https://anonscm.debian.org/cgit/collab-maint/nm-templates.git">nm-mallar</a>.
+href="https://salsa.debian.org/nm-team/nm-templates">nm-mallar</a>.
 Frågor bör ställas på debian-newmaint@l.d.o eller skickas till receptionen.</p>
 
 <h3>Sätta en ansökan i vänteläge</h3>
