@@ -10,7 +10,17 @@ GETTEXTFILES += cdimage.mo
 NOGENERICDEP := true
 include $(WMLBASE)/Make.lang
 
-%.$(LANGUAGE).html: %.wml $(WMLRCDEP) $(GETTEXTDEP) $(TEMPLDIR)/cdimage.wml
+ifeq "$(LANGUAGE)" "en"
+     EXTRAWMLDEP := $(WMLRCDEP) $(GETTEXTDEP) $(TEMPLDIR)/cdimage.wml
+else
+     EXTRAWMLDEP := $(WMLRCDEP) $(GETTEXTDEP) $(TEMPLDIR)/cdimage.wml $(TEMPLDIR)/translation-check.wml
+endif
+
+# The "| $(VCSREVCACHE)" here is an order-only prerequisite - always
+# check that the prerequisite exists and is up to date, but don't
+# rebuild everything whenever it's updated - see
+# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
+%.$(LANGUAGE).html: %.wml $(EXTRAWMLDEP) | $(VCSREVCACHE)
 	$(WML) $(<F)
 
 ifneq "$(wildcard releases/index.wml)" ""

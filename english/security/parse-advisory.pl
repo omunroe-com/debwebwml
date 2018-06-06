@@ -285,12 +285,17 @@ sub make_makefile{
   $makefile .= qq|GETTEXTFILES += security.mo\n\n|;
   $makefile .= qq|NOGENERICDEP := true\n|;
   $makefile .= qq|include \$(WMLBASE)/Make.lang\n\n\n|;
+  $makefile .= qq|# The "\| $(VCSREVCACHE)" here is an order-only prerequisite - always|;
+  $makefile .= qq|# check that the prerequisite exists and is up to date, but don't|;
+  $makefile .= qq|# rebuild everything whenever it's updated - see|;
+  $makefile .= qq|# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html|;
+
   $makefile .= qq|\%.\$(LANGUAGE).html: \%.wml \$(TEMPLDIR)/security.wml \\\n|;
-  $makefile .= qq|  \$(ENGLISHSRCDIR)/\$(CUR_DIR)/\%.data \$(GETTEXTDEP)\n|;
+  $makefile .= qq|  \$(ENGLISHSRCDIR)/\$(CUR_DIR)/\%.data \$(GETTEXTDEP) \| \$(VCSREVCACHE)\n|;
   $makefile .= qq|\t\$(WML) \$(<F)\n\n|;
   $makefile .= qq|index.\$(LANGUAGE).html: index.wml \$(wildcard dsa-[0-9]*.wml) \\\n|;
   $makefile .= qq|  \$(ENGLISHSRCDIR)/\$(CUR_DIR)/dsa-[0-9]*.data \\\n|;
-  $makefile .= qq|  \$(TEMPLDIR)/template.wml \$(TEMPLDIR)/recent_list.wml \$(GETTEXTDEP)\n|;
+  $makefile .= qq|  \$(TEMPLDIR)/template.wml \$(TEMPLDIR)/recent_list.wml \$(GETTEXTDEP) \| \$(VCSREVCACHE)\n|;
   $makefile .= qq|\t\$(WML) \$(<F)\n|;
   open MAKEFILE, ">", "$curyear/Makefile";
   print MAKEFILE $makefile;

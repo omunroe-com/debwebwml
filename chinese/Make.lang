@@ -91,15 +91,20 @@ $(HTMLDIR)/%.zh-tw.html: %.zh-tw.html
 	fi
 
 ifndef NOGENERICDEP
+
+# The "| $(VCSREVCACHE)" here is an order-only prerequisite - always
+# check that the prerequisite exists and is up to date, but don't
+# rebuild everything whenever it's updated - see
+# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
 %.zh-cn.html %.zh-hk.html %.zh-tw.html: %.wml \
 		$(TEMPLDIR)/template.wml $(TEMPLDIR)/languages.wml \
-		$(COMMON_SCRIPTS) $(ZHTEMPLATE) $(GETTEXTDEP)
+		$(COMMON_SCRIPTS) $(ZHTEMPLATE) $(GETTEXTDEP) $(TEMPLDIR)/translation-check.wml | $(VCSREVCACHE)
 	@echo -n "Processing $(<F): "
 	@$(WML) $(<F)
 	@$(GENERATE_ZH_VARIANTS) $* html
 else
 %.zh-cn.html %.zh-hk.html %.zh-tw.html: %.wml \
-		$(COMMON_SCRIPTS) $(ZHTEMPLATE) $(GETTEXTDEP)
+		$(COMMON_SCRIPTS) $(ZHTEMPLATE) $(GETTEXTDEP) | $(VCSREVCACHE)
 	@echo -n "Processing $(<F): "
 	@cd $(@D) && $(WML) $(notdir $(<))
 	@$(GENERATE_ZH_VARIANTS) $* html

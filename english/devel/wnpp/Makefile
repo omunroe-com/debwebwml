@@ -15,9 +15,13 @@ clean::
 
 DATADIR = $(ENGLISHSRCDIR)/$(CUR_DIR)
 
+# The "| $(VCSREVCACHE)" here is an order-only prerequisite - always
+# check that the prerequisite exists and is up to date, but don't
+# rebuild everything whenever it's updated - see
+# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
 %.$(LANGUAGE).html: %.wml $(TEMPLDIR)/template.wml $(TEMPLDIR)/languages.wml \
   $(WMLBASE)/../.wmlrc $(WMLBASE)/.wmlrc $(DATADIR)/wnpp.data \
-  $(GETTEXTDEP)
+  $(GETTEXTDEP) | $(VCSREVCACHE)
 	$(WML) $(<F)
 
 $(DATADIR)/wnpp.data: WMLOUTFILE=$(DATADIR)/wnpp.data

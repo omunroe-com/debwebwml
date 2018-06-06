@@ -31,11 +31,15 @@ else
   all:: index.zh-cn.html index.zh-hk.html index.zh-tw.html $(HTMLFILES)
 endif
 
+# The "| $(VCSREVCACHE)" here is an order-only prerequisite - always
+# check that the prerequisite exists and is up to date, but don't
+# rebuild everything whenever it's updated - see
+# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
 # When building the html files we have to change into the right directory
 # so wml gets all the relative links right.
 %.$(LANGUAGE).html : %.wml $(TEMPLDIR)/projectnews/footer.wml \
 	                   $(TEMPLDIR)/projectnews/header.wml $(GETTEXTDEP) \
-			   $(TEMPLDIR)/projectnews/boilerplates.wml
+			   $(TEMPLDIR)/projectnews/boilerplates.wml | $(VCSREVCACHE)
 
 ifeq "$(LANGUAGE)" "pl"
 	cd $(@D) && $(subst ../../znaczki.sh,$(CURDIR)/../../znaczki.sh,$(WML)) $(notdir $(<))
@@ -85,7 +89,7 @@ index.$(LANGUAGE).html: index.wml $(wildcard $(CUR_YEAR)/*/index.wml) \
       $(TEMPLDIR)/projectnews/footer.wml \
       $(TEMPLDIR)/weeklynews/header.wml \
       $(TEMPLDIR)/weeklynews/index.wml \
-      $(TEMPLDIR)/weeklynews/footer.wml $(GETTEXTDEP)
+      $(TEMPLDIR)/weeklynews/footer.wml $(GETTEXTDEP) | $(VCSREVCACHE)
 
 # per-year indices need to be rebuilt, too.
 # this code works around a small bug in make's $(wildcard) function, too
@@ -97,7 +101,7 @@ index.$(LANGUAGE).html: index.wml $(wildcard $(CUR_YEAR)/*/index.wml) \
         $(TEMPLDIR)/projectnews/footer.wml \
         $(TEMPLDIR)/weeklynews/header.wml \
         $(TEMPLDIR)/weeklynews/index.wml \
-        $(TEMPLDIR)/weeklynews/footer.wml $(GETTEXTDEP)
+        $(TEMPLDIR)/weeklynews/footer.wml $(GETTEXTDEP) | $(VCSREVCACHE)
 
 CURRENT_ISSUE=$(shell cat $(ENGLISHSRCDIR)/$(CUR_DIR)/CURRENT-ISSUE-IS)/index.wml
 DWN_CURRENT=$(shell test -f $(CURRENT_ISSUE) && echo "yes" || echo)
