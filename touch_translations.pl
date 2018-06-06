@@ -56,7 +56,7 @@ sub was_forced {
         print "$file.forced exists\n" if $debug;
         return 1;
     } else {
-        print "$file.forced does not exists\n" if $debug;
+        print "$file.forced does not exist\n" if $debug;
         return 0;
     }
 }
