@@ -29,25 +29,23 @@
 </ul>
 
 <p>Make.lang 을 편집하여 'LANGUAGE := en' 을 'LANGUAGE := ko' 로 바꿉니다.
+다준 바이트 문자집합을 쓰는 언어로 번역하는 경우,
+파일에서 다른 변수를 바꿔야 할 수 있으며, 자세한 정보는 ../Makefile.common 과
+다른 작업 예(중국어 같은 변역)를 읽어보세요.
 
-In case you are translating to a language which uses a multi-byte charset,
-you may have to change some other variables in that file, for more
-information read ../Makefile.common and perhaps other working examples
-(translations such as Chinese).
+<p>korean/po 로 가서PO 파일 안의 항목을 번역하세요. 이건 아주 간단할 겁니다.
 
-<p>Go to french/po and translate entries in PO files.  This should be
-quite straightforward.
+<p>언제나 여러분이 번역하는 각 디렉토리에 Makefile을 복사하세요.
+이것은 꼭 필요한데 왜냐면 <code>make</code> 프로그램이 .wml 파일을 HTML로 변환하고,
+<code>make</code> 가 Makefile을 사용하기 때문입니다.
 
-<p>Always make sure you copy the Makefile to each directory you translate.
-This is necessary because the program <code>make</code> is used to convert
-the .wml files into HTML, and <code>make</code> uses Makefiles.
+<p>여러분이 페이지를 더하고 편집하는 것을 다 하면,
 
-<p>When you are done adding and editing pages, do a
 <pre>
    git commit -m "Add your commit message here"
    git push
 </pre>
-from the webwml directory. You can now start translating the pages.
+를 webwml 디렉토리에서 합니다. 이제 페이지 번역을 시작할 수 있습니다.
 
 <h3>한 페이지 번역하기</h3>
 
@@ -59,17 +57,16 @@ from the webwml directory. You can now start translating the pages.
    cd korean
 </pre>
 
-<p>This will automatically add the translation-check header, pointing to the 
-version of the original file which was copied. It also creates the destination 
-directory and Makefile, if missing.</p>
+<p>이것은 자동으로 translation-check 헤더(복사된 원본의 버전을 가리킴)를 더합니다.
+그것은 대상 디렉토리와 Makefile을 만듭니다(빠진 경우).</p>
 
-<p>Edit social_contract.wml and translate the text. Do not try to translate
-any links or change them in any way - if you want to change anything,
-request it on the debian-www list. When done, type
+<p>social_contract.wml 을 편집하고 텍스트를 번역하세요.
+링크를 번역하거나 바꾸려고 하지 마세요 - 무언가 바꾸어야 한다면,
+debian-www 에서 요청하세요. 다 되면, 아래를 치세요.
 
 <pre>
    git add social_contract.wml
-   git commit -m "Translated social contract to french"
+   git commit -m "Translated social contract to Korean"
    git push
 </pre>
 
