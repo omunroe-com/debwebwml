@@ -112,7 +112,7 @@ foreach $lang (@langs) {
 
     $difference = $VCS->count_changes($argfile, $langrev, $origrev);
     if (!defined $difference) {
-	die "count_changes failed when looking at $argfile\n";
+	die "count_changes failed when looking at $argfile as original for $transfile\n";
     }
     if ($difference < $mindelta) {
         next unless was_forced($transfile);
