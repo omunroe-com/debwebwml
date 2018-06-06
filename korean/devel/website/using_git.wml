@@ -1,4 +1,4 @@
-#use wml::debian::template title="Using git"
+#use wml::debian::template title="git 사용하여 웹사이트  소스 코드 다루기"
 #use wml::debian::translation-check translation="c31136bc70bb27a22ea5f9a6d6e7c9ee883ec8ca" maintainer="Sebul"
 
 <p>git 은 <a href="https://en.wikipedia.org/wiki/Version_control">version
