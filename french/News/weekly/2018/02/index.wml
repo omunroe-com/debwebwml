@@ -1,0 +1,430 @@
+#use wml::debian::projectnews::header PUBDATE="2018-06-07" SUMMARY="Publication de la mise à jour de Debian 9.4, fin de vie pour Debian 8, charte Debian 4.1.4.0, migration d'Alioth, Comptes-rendus et discussions"
+#use wml::debian::acronyms
+
+# $Id$
+# $Rev$
+# Status: [frozen]
+
+
+## substitute XXX with the number (expressed in letter) of the issue.
+## please note that the var issue is not automagically localized, so
+## translators need to put it directly in their language!
+## example: <intro issue="fourth" />
+
+## Use &#35; to escape # for IRC channels
+## Use &#39 for single quotes
+
+<intro issue="deuxième" />
+<toc-display/>
+
+<toc-add-entry name="newdpn">Bienvenue sur les Nouvelles du projet Debian !</toc-add-entry>
+
+<p>Nous espérons que vous appréciez cette formule des Nouvelles du projet
+Debian.</p>
+
+<p>Pour d'autres nouvelles, veuillez consulter le blog officiel de Debian
+<a href="https://bits.debian.org">Bits from Debian</a> et suivre
+<a href="https://micronews.debian.org">https://micronews.debian.org</a> qui
+alimente aussi par RSS le profil @debian de plusieurs réseaux sociaux.</p>
+
+
+<p>L'équipe de sécurité de Debian diffuse au jour le jour les annonces de
+sécurité (<a href="$(HOME)/security/2018/">annonces de sécurité 2018</a>).
+Nous vous conseillons de les lire avec attention et de vous inscrire à la
+<a href="https://lists.debian.org/debian-security-announce/">liste de diffusion correspondante</a>.</p>
+
+<p>À la fin de ces nouvelles du projet, nous avons ajouté une section
+<b>Liens rapides</b> qui renvoient à une sélection des messages envoyés sur
+nos autres flux d'informations.</p>
+
+<toc-add-entry name="internal">Nouvelles internes et événements</toc-add-entry>
+
+<p><b>Mise à jour de Debian 9.4</b></p>
+<p>Le projet Debian a <a href="https://www.debian.org/News/2018/20180310">annoncé</a> 
+la quatrième mise à jour de la distribution stable Debian 9 (nom de code
+Stretch) le 10 mars 2018 vers la version intermédiaire 9.4.</p>
+
+<p>Cette version intermédiaire ajoute des corrections à des problèmes de sécurité,
+tout en réglant quelques problèmes importants. Les annonces de sécurité ont déjà
+été publiées séparément.
+
+La mise à niveau d'une installation vers cette révision se fait en faisant
+pointer l'outil de gestion des paquets vers l'un des nombreux miroirs HTTP de Debian.
+Une liste complète des miroirs est disponible à l'adresse :
+<a href="https://www.debian.org/mirror/list">https://www.debian.org/mirror/list</a>.
+</p>
+
+<p><b>Notification pour la fin de vie à venir de Debian 8</b></p>
+<p>Veuillez noter qu'un bulletin d'alerte de Debian a délivré <a
+href="https://www.debian.org/security/2018/dsa-4205"> une notification préalable</a>
+de la fin de la prise en charge ordinaire de la sécurité pour Debian GNU/Linux 8
+(nom de code <q>Jessie</q>) le 17 juin 2018.
+</p>
+
+
+<p><b>Publication de la version 4.1.4.0 de la charte Debian</b></p>
+
+<p>Le manuel de la charte Debian a vu la
+<a href="https://lists.debian.org/debian-devel-announce/2018/04/msg00001.html">publication</a> d'une nouvelle version.
+Le <a href="https://www.debian.org/doc/debian-policy/">manuel de la charte Debian</a>
+aborde la structure et le contenu d'une archive Debian, les exigences
+techniques que chaque paquet doit satisfaire afin d'être inclus dans la
+distribution et le système de gestion des paquets que chaque développeur doit
+maîtriser.</p>
+
+<p><b>Upcoming shift to Ayatana (App)Indicator(s)</b></p>
+<p>Mike Gabriel <a href="https://lists.debian.org/debian-devel/2018/03/msg00506.html">rend compte</a>
+du passage prochain aux indicateurs d'application d'Ayatana dans Debian et du
+travail sur la généralisation des fonctionnalités des applications d’icône
+d'indicateur pour les rendre plus indépendantes de l'environnement de bureau
+utilisé. L'état d'avancement du travail peut être sur la <a
+href="https://wiki.debian.org/Ayatana/IndicatorsTransition">page de la transition vers Ayatana</a>
+avec des éléments de contexte supplémentaire issus de la <a
+href="https://debconf17.debconf.org/talks/168/">communication à la DebConf17</a>
+de Mike, des articles du <a href="https://sunweavers.net/blog/node/58">blog</a>,
+et de la <a href="https://qa.debian.org/developer.php?login=pkg-ayatana-devel%40lists.alioth.debian.org">page
+de présentation des empaqueteurs d'Ayatana</a>.</p>
+
+
+<p><b>Migration d'Alioth de Debian</p></b>
+
+<p>Debian a migré plusieurs de ses services à partir du serveur vieilli <a
+href="https://wiki.debian.org/Alioth">Alioth</a>, qui fonctionnait avec
+FusionForge, vers <a href="https://wiki.debian.org/Salsa">Salsa</a>, basé sur
+le logiciel Gitlab. Ces modifications de notre infrastructure permettront de
+continuer à fournir les services nécessaires et des outils de collaboration.
+Alexander Wirt a fait une <a href="https://gemmei.ftp.acc.umu.se/pub/debian-meetings/2018/miniconf-hamburg/2018-05-19/salsa.debian.org_state.webm">communication
+sur la situation de Salsa</a> à la miniDebConf 2018 de Hambourg.</p>
+
+
+<p><b>Nouveaux paquets dignes d'intérêt</b></p>
+
+## alternative wording:
+
+<p>
+<a href="https://packages.debian.org/unstable/main/newpkg">Parmi les nombreux
+paquets qui ont été ajoutés à l'archive « unstable » de Debian</a>
+ces dernières semaines voici une courte sélection :
+</p>
+
+<ul><p>
+<li><a href="https://packages.debian.org/sid/wig">wig</a> — outil de collecte
+d'informations d'applications Web qui sait identifier de nombreux système de
+gestion de contenu et d'autres applications d'administration.</li>
+<li><a href="https://packages.debian.org/sid/turing">turing</a> — Turing est une
+application libre multiplateforme dont l'objectif principal est d'aider à
+l'apprentissage des algorithmes et des langages de programmation en fournissant
+à tous des outils de développement faciles d'utilisation.</li>
+<li><a href="https://packages.debian.org/sid/libtoxcore2"> libtoxcore2 </a>
+— Tox une plateforme pair-à-pair chiffrée, distribuée et extensible qui peut
+être utilisée pour divers types de communication.</li>
+</ul>
+
+<p><a href="https://packages.debian.org/stretch/allpackages">Paquets dignes d'intérêt dans « stable »</a></p>
+<ul>
+<li><a href="https://packages.debian.org/stretch/youtube-dl">youtube-dl</a>
+— récupération et traitement de musique à partir de YouTube avec youtube-dl
+et ffmpeg.</lia>
+<li><a href="https://packages.debian.org/search?keywords=gitlab-cli">gitlab-cli</a>
+— interface en ligne de commande pour la version 3 de l'API de GitLab.</li>
+</p>
+</ul>
+
+<toc-add-entry name="events">Événements à venir et comptes-rendus</toc-add-entry>
+
+<p><b>Événements à venir</b></p>
+
+<p><b>Chasse aux bogues à Brooklyn, New York, USA</b></p>
+<p>
+Le 24 juin 2018, le groupe d'utilisateurs de Debian de ville de New York tiendra
+une <a href="https://wiki.debian.org/BSP/2018/06/us/NYC">chasse aux bogues</a>
+à Brooklyn, New York. Pour plus d'informations consultez, la page <a
+href="https://hashman.ca/nyc-bsp/">d'invitation</a> et <a
+href="https://ti.to/nyc-dug/june-bsp">veuillez vous inscrire</a> si vous êtes
+intéressés.
+</p>
+
+
+<p><b>DebConf18 à Hsinchu</b></p>
+<p>La <a href="https://debconf18.debconf.org/">19e Conférence annuelle de Debian
+se tiendra à Hsinchu, Taiwan</a>, du 29 juillet au 5 août 2018. Elle sera
+précédée d'un DebCamp, du 21 au 27 juillet et d'une journée porte ouverte le
+28 juillet.</p>
+
+<p><b>DebConf19 à Curitiba</b></p>
+<p>La <a href="https://wiki.debconf.org/wiki/DebConf19/Bids/Curitiba">DebConf19</a>
+se tiendra à Curitiba, au Brésil en juillet 2019. L'équipe d'organisation de
+DebConf19 <a href="http://debianbrasil.org.br/blog/debconf19-has-a-logo">a révélé</a>
+récemment le nom du lauréat du concours pour son logo.
+</p>
+
+<p><b>Comptes-rendus d'événements</b></p>
+
+<p>
+Une rencontre des femmes de Debian s'est tenue à Curitiba, Brésil le 10 mars 2018.
+Des détails sur l’événement et son programme sont disponibles sur leur site
+<a href="https://debianwomenbr.github.io">web</a> et la <a
+href="https://wiki.debian.org/Brasil/Eventos/1oEncontroDebianWomenCuritiba"> page
+du wiki</a>. Des photos sont 
+<a href="https://github.com/debianwomenbr/debianwomenbr.github.io/tree/master/img/I_encontro">disponibles</a>.
+</p>
+
+<p>
+Une miniDebConf s'est tenue à Curitiba, Brésil le 14 april 2018.
+Des détails sur l’événement, son programme et des photos sont disponibles
+sur leur <a href="https://minidebconf.curitiba.br/en">site web</a>. Il y a eu
+des diffusions vidéo en direct et leurs enregistrements sont déjà
+<a href="http://meetings-archive.debian.net/pub/debian-meetings/2018/mini-debconf-curitiba">disponibles</a>.
+</p>
+<p>
+Une miniDebConf s'est tenue à Hambourg, Allemagne, les 19 et 20 mai 2018.
+Des détails sur l’événement, son programme et des photos sont disponibles sur
+leur <a href="https://wiki.debian.org/DebianEvents/de/2018/MiniDebConfHamburg"> page
+du wiki</a>. Il y a eu des diffusions vidéo en direct et leurs enregistrements
+sont déjà <a href="://meetings-archive.debian.net/pub/debian-meetings/2018/miniconf-hamburg/">disponibles</a>.
+</p>
+
+
+<toc-add-entry name="reports">Comptes-rendus</toc-add-entry>
+
+<p><b>Comptes-rendus mensuels de Freexian sur Debian Long Term Support (LTS)</b></p>
+
+<p>Freexian publie <a href="https://raphaelhertzog.com/tag/Freexian+LTS/">des comptes-rendus mensuels</a>
+sur le travail réalisé par les contributeurs salariés pour le suivi à long
+terme de sécurité de Debian.
+</p>
+<p><a href="https://raphaelhertzog.com/2018/03/16/freexians-report-about-debian-long-term-support-february-2018/">Compte-rendu
+de Freexian sur Debian Long Term Support, février 2018</a>. 196 heures de travail
+ont été partagées entre 12 contributeurs salariés. Le suivi de sécurité liste
+60 paquets avec un CVE connu et le fichier dla-needed.txt 33 paquets.</p>
+
+ <p><a href="https://raphaelhertzog.com/2018/04/16/freexians-report-about-debian-long-term-support-march-2018/">Compte-rendu
+de Freexian sur Debian Long Term Support, mars 2018</a>. 214 heures de travail
+ont été partagées entre 13 contributeurs salariés. Le suivi de sécurité liste
+31 paquets avec un CVE connu et le fichier dla-needed.txt 26 paquets.</p> 
+
+  <p><a href="https://raphaelhertzog.com/2018/05/15/freexians-report-about-debian-long-term-support-april-2018/">Compte-rendu
+de Freexian sur Debian Long Term Support, avril 2018</a>. 183 heures de travail
+ont été partagées entre 13 contributeurs salariés. Le suivi de sécurité liste
+20 paquets avec un CVE connue le fichier dla-needed.txt 16 paquets.</p> 
+
+
+<p><b>État d'avancement des compilations reproductibles</b></p>
+
+<p>Suivez le <a href="https://reproducible-builds.org/blog/">blog des compilations reproductibles</a>
+pour obtenir un compte-rendu de leur travail sur le cycle de <q>Buster</q>.
+</p>
+<p><a href="https://reproducible-builds.org/blog/posts/159/">Compte-rendu des constructions reproductibles n° 159</a>. Ricardo Wurmus a aussi publié un
+article intitulé
+<a href="https://www.gnu.org/software/guix/blog/2018/paper-on-reproducible-bioinformatics-pipelines-with-guix/">« Reproducible
+bioinformatics pipelines with Guix »</a> qui présente l'utilisation de GNU Guix
+et des constructions reproductibles en général comme « base essentielle des
+expériences de calcul ». 22 vérifications de paquets ont été mises à jours et
+36 paquets ont été retirés.</p>
+
+<p><a href="https://reproducible-builds.org/blog/posts/160/">Compte-rendu des constructions reproductibles n° 160</a>.
+Migration du site web diffoscope.org vers l'infrastructure jenkins.debian.net.
+Mise à jour du site web reproducible-builds.org. 134 vérifications de paquets
+ont été ajoutées, 25 paquets ont été mis à jours et 29 retirés.</p>
+
+<p><a href="https://reproducible-builds.org/blog/posts/161/">Compte-rendu des constructions reproductibles n° 161</a>.
+Chris Lamb, Holger Levsen, Jonathan Bustillos Osornio (jathan) et Steven
+Chamberlain ont présenté une communication sur les constructions reproductibles
+à la MiniDebConf de Hambourg, mettant l'accent sur leur état dans Debian
+<q>Buster</q>. Les diapos et des liens vers les vidéos sont disponibles sur la
+page de <a href="https://reproducible-builds.org/resources/">ressources</a>.
+18 vérifications de paquets ont été ajoutées, 45 paquets ont été mis à jours
+et 41 retirés.</p>
+
+<toc-add-entry name="help">Demandes d'aide !</toc-add-entry>
+
+<p>Équipe demandant de l'aide</p>
+
+<p>À la suite de la récente MiniDebConf de Hambourg, l'équipe de sous-titrage
+a commencé à produire les <a
+href="https://alioth-lists.debian.net/pipermail/debconfsubs-team/Week-of-Mon-20180514/000102.html">sous-titres des communications</a>.
+L'équipe a besoin d'aide pour transcrire, synchroniser et vérifier les
+sous-titres ainsi que pour faire connaître leur action !
+La pagé dédiée du wiki résume <a href="https://wiki.debconf.org/wiki/Videoteam/Subtitles/videos_minidebconf18_hamburg">l'état
+et les besoins pour chacune des vidéos</a>.</p>
+
+
+<p>Paquets qui ont besoin de travail</p>
+
+<wnpp link="https://lists.debian.org/debian-devel/2018/06/msg00000.html"
+	orphaned="1301"
+	rfa="158" />
+
+<p><b>Bogues pour débutants</b></p>
+
+<p>
+Debian utilise l'étiquette <q>newcomer</q> (débutant) pour signaler les
+bogues qui sont adaptés aux nouveaux contributeurs comme point d'entrée pour
+travailler sur des paquets particuliers.
+
+Il y a <a href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=newcomer">215</a>
+bogues marqués <q>newcomer</q> disponibles.
+</p>
+
+<toc-add-entry name="morethancode">Par-delà le code</toc-add-entry>
+
+<p><b>Groupe d'étude de Debian / Grupo de estudos de Debian</b></p>
+<p>Helen Koike <a href="https://lists.debian.org/debian-women/2018/05/msg00005.html">annonce</a>
+des réunions toutes les deux semaines (conférence vidéo) dédiées à l'étude de
+Debian. Le groupe verra et discutera le <a href="http://debianet.com.br/">cours
+en ligne d'empaquettage</a> de João Eriberto Mota Filho.
+Les rencontres auront lieu en portugais et bien que le public visé soit en
+priorité les femmes et la diversité, elles sont ouvertes à tous ceux qui
+souhaitent participer. Les prochains rendez-vous sont le jeudi 7 juin à 20 h et
+le jeudi 21 juin à 20 h. Contactez le canal IRC &#35;debian-mulheres sur OFTC
+pour plus d'informations.</p>  
+
+<p><b>Contributeurs</b></p>
+
+<p>
+1339 personnes et 19 équipes sont recensées dans la page des
+<a href="https://contributors.debian.org/">contributeurs</a> Debian pour 2018.
+</p>
+
+
+<p><b>Discussions</b></p>
+
+<p>Long Wind, utilisateur de Debian, a posé une question à propos de <a
+href="https://lists.debian.org/debian-user/2018/03/msg00066.html"><q>l'échec
+des connexions sans fil après l'installation de Stretch</q></a>.</p>
+
+<p>Harald Dunkel, utilisateur de Debian, a demandé <a
+href="https://lists.debian.org/debian-user/2018/03/msg00749.html"><q>comment
+voir les modifications des fichiers de configuration sans exécuter une mise à
+niveau</q></a>?</p>
+
+<p>mess-mate, utilisateur de Debian, a demandé <a
+href="https://lists.debian.org/debian-user/2018/04/msg00006.html"><q>comment
+changer le jeu de caractères système d'UTF à EU</q></a>?</p>
+
+
+
+<p><b>Il était une fois dans Debian :</b></p>
+
+<ul>
+<li>Du 26 mai au 2 juin 2004, <a href="https://debconf4.debconf.org/">la cinquième Debconf annuelle s'est tenue à Porto Alegre — Brésil</a> ;</li>
+<li>le 2 juin 2012, <a href="https://www.debian.org/vote/2012/vote_002">adoption de la résolution générale : déclaration pour l'équité et la diversité pour le projet Debian adoptée</a> ;</li>
+<li>Le 5 juin 1997, <a href="https://lists.debian.org/debian-announce/1997/msg00013.html">publication de Debian 1.3</a> ;</li>
+<li>Le 6 juin 2005, <a href="https://lists.debian.org/debian-announce/2005/msg00003.html">publication de Debian GNU/Linux 3.1</a> ;</li>
+<li>Le 7 juin 2001, <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=100000">le bogue de Debian n° 100 000 a été rapporté par jdg@debian.org</a> ;</li>
+<li>Le 8 juin 2002, <a href="https://lists.debian.org/debian-devel-announce/2002/06/msg00002.html">nouvelle infrastructure de construction pour la sécurité</a>.</li>
+</ul>
+
+
+<toc-add-entry name="quicklinks">Liens rapides vers des médias sociaux de Debian</toc-add-entry>
+<p>
+Voici un extrait du fil
+<a href="https://micronews.debian.org">micronews.debian.org</a> 
+d'où nous avons retiré les sujets déjà commentés dans ce numéro des
+Nouvelles du projet Debian. Vous pouvez sauter cette rubrique si vous
+suivez déjà <b>micronews.debian.org</b> ou le profil <b>@debian</b> sur un
+réseau social (Pump.io, GNU Social, Mastodon ou Twitter).
+Ces sujets sont livrés non formatés et par ordre chronologique du plus
+récent au plus ancien.
+</p>
+
+<p>
+<b>Mai</b></p>
+<ul>
+
+<li>Debian accueille ses stagiaires de GSoC 2018 et d'Outreachy
+<a href="https://bits.debian.org/2018/05/welcome-gsoc2018-and-outreachy-interns.html">https://bits.debian.org/2018/05/welcome-gsoc2018-and-outreachy-interns.html</a>
+</li>
+
+<li>Nouveaux développeurs et mainteneurs de Debian (mars et avril 2018)
+<a href="https://bits.debian.org/2018/05/new-developers-2018-04.html">https://bits.debian.org/2018/05/new-developers-2018-04.html </a>
+</li>
+</ul>
+
+<p>
+<b>Avril</b></p>
+<ul>
+
+<li>Félicitations aux étudiants de Debian du Google Summer of Code !
+<a href="https://summerofcode.withgoogle.com/organizations/5166394929315840/?sp-page=3#!">https://summerofcode.withgoogle.com/organizations/5166394929315840/?sp-page=3#!</a>
+</li>
+
+<li>L'appel à contribution pour DebConf18 est encore ouvert ! Soumettez votre communication avant le 17 juin 2018 pour qu'elle soit prise en compte.
+<a href="https://debconf18.debconf.org/cfp/">https://debconf18.debconf.org/cfp/</a>
+</li>
+
+<li>« Re-elected as Debian Project Leader », par Chris Lamb
+<a href="https://chris-lamb.co.uk/posts/re-elected-as-debian-project-leader">https://chris-lamb.co.uk/posts/re-elected-as-debian-project-leader</a>
+</li>
+
+<li>Résultats de l'élection du responsable du projet Debian 2018
+<a href="https://lists.debian.org/debian-vote/2018/04/msg00030.html">https://lists.debian.org/debian-vote/2018/04/msg00030.html</a>
+</li>
+
+<li>L'équipe de publication Debian a publié une feuille de route détaillée pour la publication de Debian Buster
+<a href="https://lists.debian.org/debian-devel-announce/2018/04/msg00006.html">https://lists.debian.org/debian-devel-announce/2018/04/msg00006.html</a>
+</li>
+
+<li>Debian 12 (après « Buster » et « Bullseye ») s'appellera « Bookworm »
+<a href="https://lists.debian.org/debian-devel-announce/2018/04/msg00006.html">https://lists.debian.org/debian-devel-announce/2018/04/msg00006.html</a>
+</li>
+
+<li>Élection du responsable du projet Debian 2018 : dernier appel à voter
+<a href="https://lists.debian.org/debian-devel-announce/2018/04/msg00005.html">https://lists.debian.org/debian-devel-announce/2018/04/msg00005.html</a>
+</li>
+
+<li>Les demandes de bourse pour DebConf18 seront closes dans 48 heures !
+<a href="https://bits.debian.org/2018/04/dc18-bursaries.html">https://bits.debian.org/2018/04/dc18-bursaries.html</a>
+</li>
+
+<li>La MiniDebconf Debian 2018 à Curitiba débute aujourd'hui à l'université fédérale de Technologie — Paraná (UTFPR).
+<a href="https://minidebconf.curitiba.br/">https://minidebconf.curitiba.br/</a>
+</li>
+
+<li>Debian MiniDebconf Curitiba 2018 começa hoje na Universidade Tecnológica Federal do Paraná.
+<a href="https://minidebconf.curitiba.br/">https://minidebconf.curitiba.br/</a>
+</li>
+
+<li>Ouverture des votes pour l'élection du responsable du projet Debian : le seul candidat est Chris Lamb.
+<a href="http://deb.li/343C">http://deb.li/343C</a>
+</li>
+
+<li>Une croisière pour DebConf20
+<a href="https://bits.debian.org/2018/04/debconf20-in-a-cruise-fr.html">https://bits.debian.org/2018/04/debconf20-in-a-cruise.html</a>
+</li>
+
+</ul>
+
+<p>
+<b>Mars</b></p>
+
+<ul>
+<li>Les inscriptions pour DebConf18 à Hsinchu, Taïwan, sont désormais ouvertes
+<a href="https://debconf18.debconf.org/news/2018-03-16-registration/">https://debconf18.debconf.org/news/2018-03-16-registration/</a>
+</li>
+
+<li>Debian est présente au Chemnitzer Linux-Tage, Allemagne, ce week-end. Retrouvez-nous au stand &#35;debian. &#35;CLT2018
+</li>
+
+#<li>Mise à jour de Debian 9.4
+#<a href="https://www.debian.org/News/2018/20180310">https://www.debian.org/News/2018/20180310</a>
+#</li>
+
+<li>Vous voulez exécuter &#35;Debian comme une application téléchargeable sur les bureaux de Windows 10 ? Consultez la page
+<a href="https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux">https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux</a>
+</li>
+
+<li>Nouveaux développeurs et mainteneurs de Debian (janvier et février 2018)
+<a href="https://bits.debian.org/2018/03/new-developers-2018-02.html">https://bits.debian.org/2018/03/new-developers-2018-02.html</a>
+</li>
+
+</ul>
+
+
+<toc-add-entry name="continuedpn">Continuer à lire les Nouvelles du projet Debian</toc-add-entry>
+<continue-dpn />
+
+<p><a href="https://lists.debian.org/debian-news/">S'inscrire ou se désinscrire </a> de la liste de diffusion Debian News</p>
+
+#use wml::debian::projectnews::footer editor="L'équipe en charge de la publicité avec des contributions de Chris Lamb, Holger Wansing, Jean-Pierre Giraud,
+Justin B Rye, Paulo Henrique de Lima Santana et Thomas Vincent" translator="Jean-Pierre Giraud, l\'équipe francophone de traduction"
