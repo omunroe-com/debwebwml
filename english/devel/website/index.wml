@@ -7,35 +7,35 @@ site. Due to the size of Debian and that the developers
 are all volunteers, we have broken most tasks into more 
 manageable pieces. Most work needed to help maintain the web
 site does not involve programming so we can use the talents
-of just about any computer enthusiast.
+of just about any computer enthusiast.</p>
 
 <p>People helping with the web site in any capacity should
 <a href="https://lists.debian.org/debian-www/">subscribe to the
 <code>debian-www</code> mailing list</a>.
 Translation coordinators <strong>must</strong> subscribe.
-All discussions involving the web site are held there.
+All discussions involving the web site are held there.</p>
 
 <p>Where you go from here depends on what you are interested in:
 
 <ul>
   <li><a href="desc">description of how the web site is organized</a>
-    -- <em>recommended reading!</em>
-  <li><a href="working">creating or editing pages in English</a>
+    -- <em>recommended reading!</em></li>
+  <li><a href="working">creating or editing pages in English</a></li>
     <ul>
-      <li><a href="using_git">how to use git</a>
-      <li><a href="using_cvs">how to use CVS (deprecated)</a>
-      <li><a href="using_wml">how to use WML</a>
-      <li><a href="htmlediting">how to use HTML in Debian Web pages</a>
-      <li><a href="todo">the to-do list</a>
+      <li><a href="using_git">how to use git</a></li>
+      <li><a href="using_cvs">how to use CVS (deprecated)</a></li>
+      <li><a href="using_wml">how to use WML</a></li>
+      <li><a href="htmlediting">how to use HTML in Debian Web pages</a></li>
+      <li><a href="todo">the to-do list</a></li>
     </ul>
-  <li><a href="translating">translating pages</a>
+  <li><a href="translating">translating pages</a></li>
     <ul>
-      <li><a href="content_negotiation">content negotiation</a>
-      <li><a href="uptodate">keeping translations up to date</a>
-      <li><a href="translation_hints">translation hints</a>
-      <li><a href="examples">some examples</a>
-      <li><a href="stats">translation statistics</a>
-      <li><a href="translation_coordinators">list of translation coordinators</a>
+      <li><a href="content_negotiation">content negotiation</a></li>
+      <li><a href="uptodate">keeping translations up to date</a></li>
+      <li><a href="translation_hints">translation hints</a></li>
+      <li><a href="examples">some examples</a></li>
+      <li><a href="stats">translation statistics</a></li>
+      <li><a href="translation_coordinators">list of translation coordinators</a></li>
     </ul>
 
 </ul>
