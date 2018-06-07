@@ -1,6 +1,6 @@
 #use wml::debian::template title="Hvordan man arbejder på Debians websider" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="a2ecb1eb5e40411b648499a302c668a3eb820dfe"
+#use wml::debian::translation-check translation="648de6ad5bea60540e41a5733da0b761a34c7927"
 
 <toc-display/>
 
@@ -19,11 +19,11 @@ skal du bruge langt mindre plads, for eksempel 50 megabyte for mappen
 
 <h3>Delvis <q>checkout</q></h3>
 
-<p>Mange behøver ikke hele CVS-træet <code>webwml</code>, hvilket nogle gange 
+<p>Mange behøver ikke hele Git-træet <code>webwml</code>, hvilket nogle gange 
 medfører manglende filer eller opbygninger som ikke fungerer i tilfælde af at en 
-ny, vigtig fil bliver tilføjet og man ikke kører den fuldstændige 
-<kbd>cvs update</kbd> i den pågældende mappe.  Husk at kontrollere, om du har
-alle krævede filer (så som .wmlrc-filer) før du klager din nød.</p>
+ny, vigtig fil bliver tilføjet og man ikke har en fuldstændig checkout.  Husk at 
+kontrollere, om du har alle krævede filer (så som .wmlrc-filer) før du klager 
+din nød.</p>
 
 
 <h3><q>Hvad er det for nogle linjer som begynder med <q>#</q>?</q></h3>
@@ -50,13 +50,13 @@ debian-www så vi kan diskutere det.  Formentlig vil vi være enige med dig.</p>
 
 <p>Hvis du opdager, at der er problemer med en skabelon (dvs. en fil i mappen
 webwml/english/template/debian), så overvej ændringen inden, du overfører den
-til CVS, da ændringer af skabeloner ofte medfører at store dele af webstedet
+til Git, da ændringer af skabeloner ofte medfører at store dele af webstedet
 genopbygges.</p>
 
 
 <h3>Ved tilføjelse af nye mapper skal der også tilføjes Makefiler!</h3>
 
-<p>Man skal være omhyggelig når man tilføjer en ny mappe til CVS.  Hvis den
+<p>Man skal være omhyggelig når man tilføjer en ny mappe til Git.  Hvis den
 aktuelle mappe er anført i ../Makefile så <strong>skal</strong> du oprette en 
 Makefile i mappen &mdash; ellers vil <tt>make</tt> afslutte med en 
 fejlmeddelelse.</p>
@@ -89,7 +89,7 @@ inden for det pågældende område.</p>
 <p>Foretag altid separate rettelser eller commits fra indholdsændringer og
 formateringsændringer.  Når de kombineres, er det meget sværere for 
 oversætterne at få øje på, hvad der er ændret.  Hvis du kører 
-<kbd>cvs diff</kbd> med sådanne blandede ændringer, kan du selv konstatere
+<kbd>git diff -u</kbd> med sådanne blandede ændringer, kan du selv konstatere
 hvor uoverskueligt det bliver.</p>
 
 <p>Generelt skal man undgå formateringsændringer.  At få ældre dele af websider
@@ -115,7 +115,7 @@ person.</p>
 
 <p>For at gøre den slags ændringer nemmere at foretage, kan man desuden anvende
 skriptet <code>smart_change.pl</code>, der ligger i den øverste mappe i webwmls 
-CVS-modul.</p>
+Git-modul.</p>
 
 
 <h4>Anvendelse af smart_change.pl</h4>
