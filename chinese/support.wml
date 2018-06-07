@@ -1,5 +1,5 @@
 #use wml::debian::template title="[CN:支持:][HKTW:支援:]"
-#use wml::debian::translation-check translation="76ff4517b5560c4d0ef89b153d5eb1d840543d91" maintainer="Hsin-lin Cheng"
+#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144" maintainer="Hsin-lin Cheng"
 #use wml::debian::toc
 
 # $Id$
@@ -122,15 +122,13 @@ Debian 使用者提供許多有用的資訊。</p>
 # on which you can use your language to discuss Debian-related topics,
 # submit questions about Debian, and have them answered by other users.</p>
 #
-# <p><a href="http://www.debianhelp.org/">debianHELP</a> and <a
-# href="http://forums.debian.net">Debian User Forums</a> are web portals
+# <a href="http://forums.debian.net">Debian User Forums</a> is a web portal
 # on which you can use the English language to discuss Debian-related topics,
 # submit questions about Debian, and have them answered by other users.</p>
 
-<p><a href="http://www.debianhelp.org/">debianHELP</a> 和 <a
-href="http://forums.debian.net">Debian User Forums</a> 是一個 Debian 系統的入門\
-[CN:站點:][HKTW:網站:]。您可以在這裡提出您的問題，請求其他[CN:用戶:][HKTW:使用者:]\
-協助回答。</p>
+<p><a href="http://forums.debian.net">Debian User Forums</a> 是一個 Debian
+系統的入門论坛[CN:站點:][HKTW:網站:]。您可以在這裡提出您的問題，請求其他\
+[CN:用戶:][HKTW:使用者:]協助回答。</p>
 
 <h3>其他网络资源</h3>
 
@@ -230,7 +228,8 @@ report) 就可以了（請參考下面關於錯誤[CN:跟蹤:][HKTW:追蹤:]系�
 /join #debian-zh
 </pre>
 
-<p>（注意：可能没人，有人请至 #debian-cn @ chat.freenode.net）</p>
+<p>（注意：该频道可能无人；此时另有频道 #debian-cn @ chat.freenode.net
+可选择）</p>
 
 <p>注意：HexChat 這一類的圖形[CN:接口:][HKTW:介面:]
 IRC [CN:軟件:][HKTW:軟體:]的用法稍有不同。
