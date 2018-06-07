@@ -1,23 +1,22 @@
 #use wml::debian::template title="Eksempler"
-#use wml::debian::translation-check translation="d1c06014aabc068656f3ebd20a38c574c7553f7a"
+#use wml::debian::translation-check translation="93f96e5508d963eef6dee47f4ac2360e27d7939b"
 
 <h3>Eksempler på hvordan en oversættelse påbegyndes</h3>
 
 <p>Vi anvender fransk i dette eksempel:</p>
 
 <pre>
-   cvs checkout webwml/Makefile.common webwml/english
+   git pull
    cd webwml
    mkdir french
-   cvs add french
    cd french
    cp ../english/.wmlrc ../english/Make.* .
    echo '<protect>include $(subst webwml/french,webwml/english,$(CURDIR))/Makefile</protect>' &gt; Makefile
    mkdir po
-   cvs add Make* .wmlrc po
+   git add Make* .wmlrc
    cp Makefile po
    make -C po init-po
-   cvs add po/Makefile po/*.fr.po
+   git add po/Makefile po/*.fr.po
 </pre>
 
 <p>Redigér filen <tt>.wmlrc</tt> og ændr:</p>
@@ -45,11 +44,16 @@ som du oversætter. Dette er nødvendigt fordi programmet <code>make</code>
 anvendes til at konvertere .wml-filerne til HTML, og <code>make</code> anvender 
 makefiler.</p>
 
-<p>Når du er færdig med at tilføje og redigere sider, udfør
+<p>Når du er færdig med at tilføje og redigere sider, udfør</p>
+
 <pre>
-   cvs commit
+   git commit -m "Skriv din commitmeddelelse her"
+   git push
 </pre>
-i mappen webwml. Du kan nu begynde at oversætte siderne.
+
+<p>i mappen webwml. Du kan nu begynde at oversætte siderne.  Commitmeddelelsen 
+bør være på engelsk.</p>
+
 
 <h3>Eksempler på oversættelser af sider</h3>
 
@@ -59,26 +63,24 @@ i mappen webwml. Du kan nu begynde at oversætte siderne.
    cd webwml
    ./copypage.pl english/social_contract.wml
    cd french
-   cvs add social_contract.wml
 </pre>
 
 <p>Herved tilføjes automatisk translation-check-headerlinjen, pegende på den 
 version af den originale fil, som blev kopieret.  Målmappen og makefilen 
 oprettes også, hvis de ikke findes.</p>
 
-<pre>
-   cd webwml/french
-   cp ../english/social_contract.wml .
-   cvs add social_contract.wml
-</pre>
-
 <p>Redigér social_contract.wml og oversæt teksten. Prøv ikke at oversætte links
-eller at ændre dem på nogen måde - hvis du ønsker at ændre noget, så sprøg 
-først på listen debian-www. Når du er færdig, udfør
+eller at ændre dem på nogen måde - hvis du ønsker at ændre noget, så spørg 
+først på listen debian-www.  Når du er færdig, udfør</p>
 
 <pre>
-   cvs commit -m "en kort beskrivelse af dine ændringer" social_contract.wml
+   git add social_contract.wml
+   git commit -m "Translated social contract to french"
+   git push
 </pre>
+
+<p>Commitmeddelelsen bør være på engelsk.</p>
+
 
 <h3>Eksempel på tilføjelse af en ny mappe</h3>
 
@@ -88,35 +90,35 @@ oversættelse:</p>
 <pre>
    cd webwml/french
    mkdir intro
-   cvs add intro
    cd intro
    cp ../Makefile .
+   git add Makefile
+   git commit -m "added the intro dir to git"
+   git push
+
 </pre>
 
-Forvis dig om at den nye mappe indeholder makefilen og at den er overført 
-(commit'et) til cvs. Ellers vil alle som kører make få en fejl.
-
-<pre>
-   cvs add Makefile
-   cd ..
-   cvs commit -m "added the intro dir to CVS" intro
-</pre>
+<p>Forvis dig om at den nye mappe indeholder makefilen og at den er overført 
+(dvs. commit'et) til Git.  Ellers vil alle, der kører make, få en fejl.</p>
 
 #example not finished
 # <h3>Eksempel på en konflikt</h3>
 #
 # <p>Dette eksempel viser en commit som ikke fungerer fordi kopien i arkivet
-# er blevet ændret siden din seneste kørsel af <kbd>cvs update -d</kbd>.
+# er blevet ændret siden din seneste kørsel af <kbd>git pull</kbd>.
 #
 # <pre>
-#    cvs commit -m"fixed a broken link" foo.wml
+#    git foo.wml
+#    cvs commit -m "fixed a broken link"
+#    git push
 # </pre>
 #
 # giver:
 #
 # <pre>
-# cvs: Up-to-date check failed for foo.wml!
-# cvs: fix the above errors first
+#To salsa.debian.org:webmaster-team/webwml.git
+# ! [rejected]                master -> master (fetch first)
+#error: failed to push some refs to 'git@salsa.debian.org:webmaster-team/webwml.git'
 # </pre>
 #
 # eller noget i den retning :)
