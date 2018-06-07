@@ -1,6 +1,6 @@
 #use wml::debian::template title="Oversættelse af Debians websider" BARETITLE=true
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="63debed7d9f6d7ea6c3e932aea334d4e00d16662"
+#use wml::debian::translation-check translation="d2e8c3c0b0e06f6a3d5dd63bf8a4caaace29664e"
 
 <p>For at gøre oversætternes arbejde så let som muligt, genereres siderne lidt
 anderledes end mange af dem du måske er vant til. Websiderne genereres faktisk
@@ -17,7 +17,7 @@ oversættelse</a>.</p>
 
 <p>Vi bruger WML til adskillelse af en sides specifikke indhold og de elementer
 som er fælles for mange sider.  Dette betyder at man skal redigere visse 
-WML-filer fremfor HTML-sider.  <a href="using_cvs">Brug CVS</a> til at hente
+WML-filer fremfor HTML-sider.  <a href="using_git">Brug Git</a> til at hente
 den aktuelle kildekode.  Du skal hente mindst to mapper, <tt>webwml/english/</tt> 
 og <tt>webwml/<var>&lt;sprog&gt;</var>/</tt>.</p>
 
@@ -29,10 +29,10 @@ fortsat vil fungere.</p>
 <h3>Oversættelses-headere</h3>
 
 <p>Det anbefales også kraftigt at oversætteren føjer yderligere en linie til 
-headerne efter den sidste <code>#use</code>-kommando, for at registrere det 
-nøjagtige versionsnummer på den originale fil, som blev oversat, så vil 
+headerne efter den sidste <code>#use</code>-kommando, for at registrere den 
+nøjagtige commit på den originale fil, som blev oversat, så vil 
 <a href="uptodate">opdateringer være nemmere</a>).  Linien ser således ud: 
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"</kbd></p>
+<kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd></p>
 
 <p>Nogle oversætterhold anvender også denne linie til at angive den officielle
 oversætter af hver side.  På den måde vil man automatisk modtage e-mails, når 
@@ -40,7 +40,7 @@ den engelske udgave af en side man vedligeholder er blevet opdateret og hvor
 oversættelsen nu skal opdateres.  Til det formål tilføjes blot oversætterens 
 navn som vedligeholder, sidst på <code>#use</code>-linien, så den kommer til at
 ligne denne:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>" maintainer="<var>dit navn</var>"</kbd>. 
+<kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>" maintainer="<var>dit navn</var>"</kbd>. 
 <tt>copypage.pl</tt> gør dette automatisk, hvis du opsætter miljøvariablen 
 <tt>DWWW_MAINT</tt> eller anvender kommandolinjeparameteret <tt>-m</tt>.</p>
 
@@ -48,15 +48,15 @@ ligne denne:
 automatiske e-mails og deres indhold.  Til det formål kan du (eller din 
 koordinator) redigere filen 
 webwml/<var>language</var>/international/<var>sprog</var>/translator.db.pl
-i CVS.  Syntaksen skulle være til at forstå og man kan det franske 
+i arkivet.  Syntaksen skulle være til at forstå og man kan det franske 
 oversætterholds fil som udgangspunkt, hvis den ikke findes i ens eget sprog 
 endnu.  Robotten kan sende flere forskellige former for oplysninger og for hver
 af dem, kan man angive hvor ofte det skal sendes.  De forskellige oplysninger 
 er:
 <ul>
  <li><b>summary</b>: et resume af hvilke dokumenter som er blevet forældede</li>
- <li><b>logs</b>: en "cvs log" mellem den oversatte og aktuelle versioner</li>
- <li><b>diff</b>: "cvs diff"</li>
+ <li><b>logs</b>: en <q>cvs log</q> mellem den oversatte og aktuelle versioner</li>
+ <li><b>diff</b>: <q>cvs diff</q></li>
  <li><b>tdiff</b>: skriptet vil prøve at finde den oversatte tekst, som svarer til den ændrede engelske tekst</li>
  <li><b>file</b>: tilføj den akulle version af filen der skal oversættes</li>
 </ul>
@@ -114,33 +114,35 @@ men <tt><var>fil</var>.<var>&lt;sprog&gt;</var>.html</tt>, hvor
 Hvis det fungerer, kontroller da om syntaksen er helt korrekt med 
 <kbd>weblint <var>file</var>.<var>&lt;sprog&gt;</var>.html</kbd>.</p>
 
-<p>Websiderne genereres fra CVS på serveren www-master, og denne proces er 
+<p>Websiderne genereres fra VCS på serveren www-master, og denne proces er 
 stort set sikret mod fejl.  Hvis du overfører en ødelagt fil til din 
 oversættelses øverste niveau (for eksempel index.wml på det øverste niveau), 
 vil det dog stoppe genereringsprocessen og forhindre alle andre opdateringer af
 webstedet.  Vær særligt omhyggelig med disse filer.</p>
 
-<p>Når en side er klar til brug, kan du overføre den til CVS.  Hvis du har
-rettigheder til selv at gøre det, udføres <kbd>cvs commit</kbd>; hvis ikke, 
-sendes siden til <a href="translation_coordinators">en eller anden med 
-skriveadgang til repository'et</a>.</p>
+<p>Når en side er klar til brug, kan du overføre den til Git.  Hvis du har
+rettigheder til selv at gøre det, så push dine commits til 
+<a href="https://salsa.debian.org/webmaster-team/webwml">git-arkivet på 
+Salsa-platformen</a>; hvis ikke, sendes siden til 
+<a href="translation_coordinators">en eller anden med skriveadgang til 
+arkivet</a>.</p>
 
 
-<h2><a name="completenew">Begynde på en ny oversættelse</a></h2>
+<h2><a name="completenew">Begynd på en ny oversættelse</a></h2>
 
 <p>Hvis du vil begynde på en oversættelse af Debians websider til et nyt sprog,
 så send en e-mail (på engelsk) til os på
 <a href="mailto:webmaster@debian.org">webmaster@debian.org</a>.</p>
 
 <p>Først og fremmest skal du sikre dig at du har foretaget en korrekt 
-"checkout" af vores kildekode-træ, som beskrevet <a href="using_cvs">på vores 
-side med introduktion til CVS</a>.</p>
+checkout af vores kildekodetræ, som beskrevet <a href="using_git">på vores 
+side med introduktion til Git</a>.</p>
 
 <p>Efter du har foretaget en checkout af mappen webwml/ og (mindst)
 webwml/english/, begynd da med at oprette en ny mappe til dine 
 oversættelser, på samme niveau som english/ og de andre sprog.  Navnet på 
 oversættelsesmappen skal være på engelsk og kun skrives med små bogstaver
-(for eksempel "german" og ikke "Deutsch").</p>
+(for eksempel <q>danish</q> og ikke <q>dansk</q>).</p>
 
 <p>Kopier filerne <tt>Make.lang</tt> og <tt>.wmlrc</tt> fra mappen english/
 til den nye oversættelsesmappe.  Disse filer er afgørende i opbygningen af 
@@ -163,12 +165,12 @@ dem til den nye sprogmappe, skal kun følgende ting ændres:</p>
       øverste niveau, så dit sprog vil blive opbygget sammen med de andre på 
       www.debian.org. Vi foretrækker at du overlader denne specifikke ændring 
       til webmasterne, da du måske ikke er opmærksom på at din oversættelse 
-      ikke vil fungere når den lige er "checked out" fra CVS, hvilket kan få
+      ikke vil fungere når den lige er check'et ud fra VCS, hvilket kan få
       opbygningen af resten af webstedet.</li>
 </ol>
 
 <p>Når det er gjort, tilføjes den følgende linie til en ny fil med navnet 
-"Makefile" i denne mappe:</p>
+<q>Makefile</q> i denne mappe:</p>
 
 <pre>
 <protect>include $(subst webwml/<var>dinsprogmappe</var>,webwml/english,$(CURDIR))/Makefile</protect>
@@ -177,8 +179,8 @@ dem til den nye sprogmappe, skal kun følgende ting ændres:</p>
 <p>(Naturligvis skal <var>dinsprogmappe</var> udskiftes med navnet på dit 
 sprogs mappe.)</p>
 
-<p>I dit sprogs mappe oprettes nu en undermappe med navnet "po", og den 
-samme Makefile kopieres til dette undermappe (<kbd>cp ./Makefile .</kbd>).</p>
+<p>I dit sprogs mappe oprettes nu en undermappe med navnet <q>po</q>, og den 
+samme Makefile kopieres til denne undermappe (<kbd>cp ./Makefile .</kbd>).</p>
 
 <p>I mappen po/ udføres <kbd>make init-po</kbd> for at fremstille det 
 indledende sæt *.po-filer.</p>
@@ -188,7 +190,7 @@ oversættelser af vores fælles WML-mærker (tags) som anvendes i skabelonerne.
 De første skabeloner som du bør oversætte, er dem der viser sig på alle 
 websiderne, såsom ord på sidehoveder, emnerne i navigationslinjen og i 
 sidefoden.</p>
-      
+
 # Siden på <a href="using_wml">brug af WML</a> har flere oplysninger om dette.
 
 <p>Begynd med at oversætte i filen <code>po/templates.<var>xy</var>.po</code>.  
@@ -233,22 +235,31 @@ beskrevet <a href="#singlepages">øverst på denne side</a>.</p>
 ajour</a>, kan forældede oversættelser af webstedet blive fjernet automatisk,
 når der er gået lang tid uden en opdatering.</p>
 
-<p>Hvis du anvender skriptet <tt>copypage.pl</tt> med en fil, der er blevet 
-fjernet fra CVS, vil skripet nægte at kopiere siden og spørge om du vil 
-genoplive den i stedet.  Du kan finde årsagerne til, at filen blev fjernet fra 
-CVS, ved at anvende <tt>cvs log</tt> på den fjernede fil (eller anvende 
-webgrænsefladen, de slettede filer findes i undermappen <q>Attic</q>).</p>
+<p>Hvis du opdager, at nogle filer på et tidspunket er blevet fjernet, og du 
+ønsker at foretage checkout af filen igen for at redigere den, kan du gennemsøge 
+commithistorikken ved hjælp af Gits standardkommandoer.</p>
 
-<p>For at genoplive en forældet oversættelse, anvendes <tt>cvs status</tt>
-(eller <tt>cvs log</tt>) for at registrere versionsnummeret på den slettede 
-udgave af filen, og dernæst udføres <q>backwards merge</q>.</p>
-
-<p>Hvis den slettede fil eksempelvis hedder <q>deleted.wml</q>, og den 
-slettede version er 1.7, er versionen før sletningen 1.6 (sletningens 
-versionsnummer minus en).  Du kan genoplive filen ved at køre:
+<p>Hvis den slettede fil for eksempel er <q>deleted.wml</q>, kan du søge i 
+historikken ved at udføre:</p>
 
 <verbatim>
-   cvs update -j 1.7 -j 1.6 deleted.wml
+   git log --all --full-history -- <sti/til/slettet/fil.wml>
+</verbatim>
+
+<p>Du kan finde den nøjagtigt commit, som fjernede filen du ønsker, sammen med 
+commit'ets hashstreng.  For at vise detaljerede oplysninger om de foretagne 
+ændringer til filen i dette commit, kan du anvende underkommandoen 
+<code>git show</code>:</p>
+
+<verbatim>
+  git show <COMMIT_HASH_STRING> -- <sti/til/slettet/fil.wml>
+</verbatim>
+
+<p>Hvis commit'en netop er den, der slettede filen, kan du gendanne filen til 
+arbejdsrummet ved hjælp af <code>git checkout</code>:</p>
+
+<verbatim>
+  git checkout <COMMIT_HASH_STRING>^ -- <sti/til/slettet/fil.wml>
 </verbatim>
 
 <p>Når du gør det, skal du - selvfølgelig - opdatere filen før den checker 

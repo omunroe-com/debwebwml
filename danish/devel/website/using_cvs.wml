@@ -1,5 +1,13 @@
 #use wml::debian::template title="Brug af CVS"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
+#use wml::debian::translation-check translation="901ebda9615240cd7c4eeb4a376224cbb6d7c2a6"
+
+<div class="important">
+<h3>Vigtig besked</h3>
+
+<p>Vi har nyligt konverteret webstedets indholdsarkiv fra CVS til Git.  Du kan 
+klone CVS-arkivet, men dér accepterer vi ikke længere ændringer.  En side om at 
+bruge Git og det nye arkiv, vil snart blive gjort tilgængelig.</p>
+</div>
 
 <p>CVS er et program, som hjælper med at holde styr på mange mennesker, der på 
 samme tid arbejder på det samme materiale. Alle brugere opretter en lokal kopi 

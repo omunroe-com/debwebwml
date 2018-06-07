@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hjælp til med Debians websider" BARETITLE=true
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="862f2e8604521c46315d2c07cbb6783234a5f307"
 
 <h3>Introduktion</h3>
 
@@ -19,23 +19,26 @@ Alle diskussioner som vedrører webstedet foregår dér.</p>
 
 <ul>
   <li><a href="desc">beskrivelse af hvordan webstedet er organiseret</a>
-    -- <em>anbefalet læsning!</em></li>
+    -- <em>anbefalet læsning!</em>
+  </li>
   <li><a href="working">oprettelse og redigering af sider på engelsk</a>
     <ul>
-      <li><a href="using_cvs">hvordan CVS bruges</a></li>
+      <li><a href="using_git">hvordan Git bruges</a></li>
+      <li><a href="using_cvs">hvordan CVS bruges (udfaset)</a></li>
       <li><a href="using_wml">hvordan WML bruges</a></li>
-      <li><a href="htmlediting">hvordan man anvender HTML i Debians websider</a>
+      <li><a href="htmlediting">hvordan man anvender HTML i Debians websider</a></li>
       <li><a href="todo">gøremålsliste</a></li>
-    </ul></li>
+    </ul>
+  </li>
   <li><a href="translating">oversættelse af sider</a>
     <ul>
       <li><a href="content_negotiation">indholdsforhandling</a></li>
       <li><a href="uptodate">om at holde oversættelser ajour</a></li>
       <li><a href="translation_hints">oversættelsestips</a></li>
       <li><a href="examples">nogle eksempler</a></li>
-      <li><a href="stats">oversættelsesstatistikker</a>
+      <li><a href="stats">oversættelsesstatistikker</a></li>
       <li><a href="translation_coordinators">liste over 
         oversættelseskoordinatorer</a></li>
-    </ul></li>
-
+    </ul>
+  </li>
 </ul>

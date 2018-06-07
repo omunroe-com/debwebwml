@@ -1,5 +1,5 @@
 #use wml::debian::template title="Om at holde oversættelserne af webstedet ajour"
-#use wml::debian::translation-check translation="5906c5c1a380b2b57c9650ad00be21b432a3be04"
+#use wml::debian::translation-check translation="3c508740e4547501e8db1652b165b85a38036086"
 
 <p>Da websider ikke er statiske, er det en god idé at holde styr på hvilken 
 version af det originale dokument en bestemt oversættelse refererer til, og at
@@ -8,13 +8,13 @@ den seneste oversættelse. Oplysningen skal placeres i toppen af dokumentet (men
 under alle andre "use"-linier) på denne måde:</p>
 
 <pre>
-\#use wml::debian::translation-check translation="X.x"
+\#use wml::debian::translation-check translation="git_commit_hash"
 </pre>
 
-<p>hvor <var>X.x</var> er CVS-versionsnummeret på det originale dokuemnt 
-(engelsk). Du kan finde dette nummer ved at kigge i CVS/Entries som er på 
-formen: <code>/filnavn/X.x/dato/</code>. Du kan også finde versionsnummeret 
-ved at køre <kbd>cvs status filnavn</kbd> i den engelske-kildemappe. Hvis du 
+<p>hvor <var>git_commit_hash</var> er Gits commithashværdi, som refererer til 
+commit'en på den originale (engelske) fil, som den oversatte fil blev oversat 
+fra.  Du kan få flere oplysninger om den specifikke commit ved at kommandoen 
+<code>git show</code>: <code>git show &lt;git_commit_hash&gt;</code> . Hvis du 
 bruger skriptet <kbd>copypage.pl</kbd> i mappen webwml, vil linien 
 automatisk blive tilføjet.</p>
 
@@ -34,7 +34,7 @@ brugeren.</p>
  <dt><code>original="<var>sprog</var>"</code></dt>
  <dd>hvor <var>sprog</var> er det engelske navn på det sprog som du oversætter
  fra, hvis det ikke er fra engelsk.
- Navnet skal svare til mappen på øverste niveau i CVS, og til navnet i 
+ Navnet skal svare til mappen på øverste niveau i VCS, og til navnet i 
  skabelonen <code>languages.wml</code>.</dd>
 
  <dt><code>mindelta="<var>nummer</var>"</code></dt>
