@@ -1,5 +1,5 @@
 #use wml::debian::template title="¿Cómo puede ayudar a Debian?"
-#use wml::debian::translation-check translation="167c966b63631bcd2668bf5d49ae21952f6d11c7" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Laura Arjona Reina"
 
 ### TRANSLATORS: Revision 1.27 is adding some words to the popcon submission item,
 ### and Revision 1.28 is reorganization of items (no change in the description of
@@ -43,7 +43,7 @@ También puede involucrarse directamente en el mantenimiento de los
 paquetes si se convierte en miembro de un equipo de mantenimiento o
 se involucra en el desarrollo de los programas que se realizan para
 Debian uniéndose a un proyecto software en
-<a href="https://alioth.debian.org/">Alioth</a>.</li>
+<a href="https://salsa.debian.org/">Salsa</a>.</li>
 
 <li>Puede ayudar a adaptar Debian a alguna arquitectura con la que
 tenga experiencia bien empezando una nueva adaptación o contribuyendo
