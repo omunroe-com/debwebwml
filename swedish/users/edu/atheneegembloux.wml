@@ -1,0 +1,17 @@
+# From: Jacques Theys <farenheid@atheneegembloux.be>
+#use wml::debian::translation-check translation="6e9eff87037044751cee57e7b1d72e8027463a03"
+
+<define-tag pagetitle>Athénée Royal de Gembloux, Gembloux, Belgien</define-tag>
+<define-tag webpage>https://www.atheneegembloux.be/</define-tag>
+
+#use wml::debian::users
+
+<p>
+	Vi använder Debian på våra kärnservrar (5 maskiner). Vi valde Debian
+	eftersom det är stabilt, lätt att konfigurera, lätt att underhålla och
+	uppgradera, kompatibelt med alla framstående standarder, och det finns
+	mängder med mjukvara tillgängligt gratis. Utöver detta är vi väldigt
+	oroliga rörande integritet, och vi vet att Debians källkod granskas
+	regelbundet. Debian är snyggt designat, det <q>bara fungerar</q> men
+	kan bli skräddarsytt om det behövs. Tack för allt!
+</p>

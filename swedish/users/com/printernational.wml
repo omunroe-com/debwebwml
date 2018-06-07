@@ -1,0 +1,18 @@
+# From: PR International Ltd <pr@printernational.co.uk>
+#use wml::debian::translation-check translation="1978724ba02e59d33d10de4832680db8252a98b5"
+
+<define-tag pagetitle>PR International Ltd, Kings Langley, Hertfordshire, Storbritannien</define-tag>
+<define-tag webpage>http://www.printernational.co.uk/</define-tag>
+
+#use wml::debian::users
+
+<p>
+	Vi använder Debian som operativsystem för våran huvudserver. Detta
+	inkluderar tjänster som databasen MySQL, JSP, EJB, PHP, Java J2EE, JDK, och
+	Smb4k. Vi har sju skrivbordsmaskiner med Openbox, Xfce som skrivbordsmiljö,
+	och vi planerar en utrullning av fler maskiner.
+</p>
+
+<p>
+	Vi valde Debian på grund av dess fantastiska stabilitet och långtidsstöd.
+</p>

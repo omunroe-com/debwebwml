@@ -1,0 +1,15 @@
+# From: Wiktor Gamracki <kancelaria@adwokat-24.pl>
+#use wml::debian::translation-check translation="7ae51e037e5983c1442e51d8bddaa714f67ff73b"
+
+<define-tag pagetitle>Kancelaria Adwokacka Adwokat Wiktor Gamracki, Rzeszów, Polen</define-tag>
+<define-tag webpage>http://www.adwokat-24.pl/</define-tag>
+
+#use wml::debian::users
+
+<p>
+	Vi använder Debian på alla våra servrar - 64-bitars versioner på alla våra
+	arbetsstationer. Våran huvudorsak att välja Debian var dess stabilitet. Våra
+	applikationer kör på Debian och dom är alltid snabba och pålitliga. Alla
+	orsaker ovan betyder att vi verkligen kan rekommendera Debian till andra
+	användare.
+</p>

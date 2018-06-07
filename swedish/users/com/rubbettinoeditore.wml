@@ -1,0 +1,15 @@
+# From: Salvatore Capolupo <s.capolupo@gmail.com>
+# Translators to Italian, an Italian language version is available: https://lists.debian.org/debian-www/2017/12/msg00048.html
+#use wml::debian::translation-check translation="4dd248850a4f8cf86432dcae50f95e12e92cbb5e"
+
+<define-tag pagetitle>Rubbettino Editore, Soveria Mannelli (CZ), Italien</define-tag>
+<define-tag webpage>http://www.store.rubbettinoeditore.it/</define-tag>
+
+#use wml::debian::users
+
+<p>
+	Vi använder Debian i kombination med olika öppenkällkodsteknologier för att
+	köra våra webbsajter och onlinetjänster av alla sorter; vi är vana att
+	använda de bästa teknologierna för dessa ändamål, och därmed utnyttja
+	öppenkällkodsfilosofin.
+</p>
