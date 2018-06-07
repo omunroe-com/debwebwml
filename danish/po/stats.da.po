@@ -56,15 +56,13 @@ msgid "Colored diff"
 msgstr "Farvelagt diff"
 
 #: ../../stattrans.pl:524 ../../stattrans.pl:683
-#, fuzzy
-#| msgid "Colored diff"
 msgid "Commit diff"
-msgstr "Farvelagt diff"
+msgstr "Commitdiff"
 
 #. FIXME - this is clearly wrong, but no idea what's meant to go here!
 #: ../../stattrans.pl:528 ../../stattrans.pl:683
 msgid "Git command line"
-msgstr ""
+msgstr "Git-kommandolinje"
 
 #: ../../stattrans.pl:639 ../../stattrans.pl:785
 msgid "Created with <transstatslink>"
@@ -238,11 +236,11 @@ msgstr "Oversatte websider (efter størrelse)"
 msgid "Translation Statistics by Page Size"
 msgstr "Oversættelsesstatistik efter sidestørrelse"
 
-#~ msgid "Created with"
-#~ msgstr "Oprettet med"
+#~ msgid "Origin"
+#~ msgstr "Ophav"
 
 #~ msgid "Hit data from %s, gathered %s."
 #~ msgstr "Forekomstdata fra %s, indsamlet %s."
 
-#~ msgid "Origin"
-#~ msgstr "Ophav"
+#~ msgid "Created with"
+#~ msgstr "Oprettet med"
