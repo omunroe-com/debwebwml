@@ -1,0 +1,16 @@
+# From: Jacques Theys <farenheid@atheneegembloux.be>
+
+<define-tag pagetitle>Athénée Royal de Gembloux, Gembloux, Belgium</define-tag>
+<define-tag webpage>https://www.atheneegembloux.be/</define-tag>
+
+#use wml::debian::users
+
+<p>
+    We are using Debian on our core servers (5 machines). We chose Debian 
+    because it is stable, easy to configure, easy to maintain and upgrade, 
+    compatible with all major standards, and there are lots of software 
+    available for free. Moreover, we are very concerned about freedom and 
+    privacy, and we know Debian source code is regulary audited. Debian is 
+    nicely designed, it <q>just works</q> but can be tailored if needed.
+    Thanks for everything!
+</p>
