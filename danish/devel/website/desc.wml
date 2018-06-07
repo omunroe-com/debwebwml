@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hvordan www.debian.org er organiseret"
-#use wml::debian::translation-check translation="b0e9ada659d7652c40b5b23123bd1a43b01f785e"
+#use wml::debian::translation-check translation="b71e318d7035342144f073c15e0f275ded4ac220"
 #use wml::debian::toc
 
 <p>Debians <em>"webtræ"</em>, en samling mapper og filer som udgør vores
@@ -11,7 +11,7 @@ PHP-script), fordi webstedet spejles.</p>
 <p>Webstedet genereres på en af tre måder:</p>
 <ul>
   <li>størstedelen genereres ved hjælp af WML, fra
-      <a href="$(DEVEL)/website/using_cvs">CVS-træet <q>webwml</q></a></li>
+      <a href="$(DEVEL)/website/using_git">Git-arkivet <q>webwml</q></a></li>
   <li>dokumentationen genereres ved hjælp af enten DocBook XML (DebianDoc SGML
       udfases), fra <a href="$(DOC)/cvs">Subversion-træet 
       <q>ddp</q></a> eller ved hjælp af <a href="#scripts">cronskripter</a>, fra
@@ -21,7 +21,7 @@ PHP-script), fordi webstedet spejles.</p>
       på postlister</li>
 </ul>
 
-<p>En automatisk opdatering (fra CVS-arkivet og andre kilder til webtræet) 
+<p>En automatisk opdatering (fra Git-arkivet og andre kilder til webtræet) 
 kører seks gange i døgnet.</p>
 
 <p>Hvis du har lyst til at bidrage til webstedet, skal du <strong>ikke</strong> 
@@ -70,19 +70,19 @@ oplysninger.</p>
 
 <toc-add-entry name="sources">Kildekode</toc-add-entry>
 
-<p>Kildekoden til websiderne gemmes i CVS. CVS er et versionsstyringssystem som
+<p>Kildekoden til websiderne gemmes i Git. Git er et versionsstyringssystem som
 giver os mulighed for at føre en log over hvad, hvem, hvornår og hvorfor en 
 ændring blev foretaget, osv. Det er en sikker måde at kontrollere den løbende
 redigering af kildekode-filer med mange forfattere, noget der er vigtigt for os
 fordi Debians webteam er temmeligt stort.</p>
 
 <p>Hvis du ikke er vant til dette program, skal du læse siderne om 
-<a href="using_cvs">brug af CVS</a>.</p>
+<a href="using_git">brug af Git</a>.</p>
 
 <p>Den allerøverste webwml-mappe i CVS-arkivet indeholder mapper navngivet
 efter de sprog webstedet oversættes til, to makefiler og flere scripts. 
 Oversættelsesmappernes navne skal være på engelsk og skrives med små 
-bogstaver (for eksempel "german", ikke "Deutsch").
+bogstaver (for eksempel <q>deutsch</q>, ikke <q>Deutsch</q>).
 
 <p>Den vigtigste af de to makefiler er Makefile.common, der som navnet antyder
 indeholder fælles regler som anvendes ved at inkludere filen i de andre
