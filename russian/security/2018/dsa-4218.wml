@@ -1,0 +1,51 @@
+#use wml::debian::translation-check translation="4ebfdd503e9e85f67ec7fcf9034b307c4969a337" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В memcached, высокопроизводительной системе кэширования, было обнаружено
+несколько уязвимостей. Проект Common Vulnerabilities and Exposures
+определяет следующие проблемы:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-9951">CVE-2017-9951</a>
+
+    <p>Дэниель Шапира сообщил о чтении за пределами выделенного буфера динамической памяти в memcached
+    (из-за неполного исправления <a href="https://security-tracker.debian.org/tracker/CVE-2016-8705">\
+    CVE-2016-8705</a>), вызываемом специально сформированными запросами на добавление/установку
+    ключа и позволяющем удалённому злоумышленнику вызывать отказ в обслуживании.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-1000115">CVE-2018-1000115</a>
+
+    <p>Было сообщено, что memcached по умолчанию прослушивает UDP. Удалённый
+    злоумышленник может использовать это обстоятельство для исправления службы memcached
+    с целью усиления распределённой атаки по вызову отказа в обслуживании.</p>
+
+    <p>Установки по умолчанию memcached в Debian не подвержены указанной
+    проблеме, поскольку по умолчанию прослушивание ведётся только для локального узла.
+    Данное обновление по умолчанию отключает порт UDP. Прослушивание UDP
+    можно повторно включить в файле /etc/memcached.conf (см.
+    /usr/share/doc/memcached/NEWS.Debian.gz).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-1000127">CVE-2018-1000127</a>
+
+    <p>Было сообщено о переполнении целых чисел в memcached, приводящем к утечкам
+    ресурсов, повреждении данных, блокировкам или аварийным остановкам.</p></li>
+
+</ul>
+
+<p>В предыдущем стабильном выпуске (jessie) эти проблемы были исправлены
+в версии 1.4.21-1.1+deb8u2.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1.4.33-1+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты memcached.</p>
+
+<p>С подробным статусом поддержки безопасности memcached можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/memcached">\
+https://security-tracker.debian.org/tracker/memcached</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4218.data"
