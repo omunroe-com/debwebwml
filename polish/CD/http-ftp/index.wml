@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Pobieranie obrazów płyt Debiana przez HTTP/FTP" BARETITLE=true
-#use wml::debian::translation-check translation="cf70d650aa100e46bef1d204684fde520cf8d52e"
+#use wml::debian::translation-check translation="eff94c5b838f99375f2b0c9960a9f5ada0d04172"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
 
