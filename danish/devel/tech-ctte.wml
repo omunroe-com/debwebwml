@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians tekniske komité" BARETITLE="true"
-#use wml::debian::translation-check translation="72af2309b6e70c54dd81bbacd4517f5c985728e0"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f"
 #use wml::debian::toc
 
 <p>Den Tekniske Komité er oprettet jævnfør paragraf 6 i <a href="constitution">\
@@ -110,7 +110,7 @@ Spørgsmål der afventer en afgørelse</a> kan fremfindes i fejlsporingssystemet
 <toc-add-entry name="repository">VCS-arkiv</toc-add-entry>
 
 <p>Nogle gange anvender den Tekniske Komité sit
-<a href="https://anonscm.debian.org/cgit/collab-maint/debian-ctte.git">\
+<a href="https://salsa.debian.org/debian/tech-ctte">\
 delte git-arkiv</a> til samarbejde.</p>
 
 

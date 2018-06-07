@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hvordan kan jeg hjælpe Debian?"
-#use wml::debian::translation-check translation="167c966b63631bcd2668bf5d49ae21952f6d11c7"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
 
 ### TRANSLATORS: Revision 1.27 is adding some words to the popcon submission item,
 ### and Revision 1.28 is reorganization of items (no change in the description of
@@ -38,7 +38,7 @@ oplysninger i vores <a href="https://bugs.debian.org/">fejlsporingssystem</a>
 hvad angår disse pakker.  Du kan også blive involveret direkte i 
 pakkevedligeholdelse, ved at blive medlem af et gruppevedligeholdelseshold 
 eller blive involveret i software, som udvikles til Debian, ved at blive medlem
-i et softwareprojekt på <a href="https://alioth.debian.org/">Alioth</a>.</li>
+i et softwareprojekt på <a href="https://salsa.debian.org/">Salsa</a>.</li>
 
 <li>Du kan hjælpe med at tilpasse (<q>port</q>) Debian til en arkitektur, du 
 måtte have erfaring med, enten ved at påbegynde en ny tilpasning eller bidrage 

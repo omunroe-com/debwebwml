@@ -3,7 +3,7 @@
 <define-tag pagetitle>Deltag i LTS-projektet og hjælp med udforme Wheezys og Jessies LTS</define-tag>
 <define-tag release_date>2015-04-24</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f"
 
 <p>Næsten et år efter fødslen af <a href="https://wiki.debian.org/LTS">Debian 
 Long Term Support-projektet (LTS)</a>, kan Squeeze LTS betragtes som en succes. 
@@ -19,7 +19,7 @@ Debian 8 <q>Jessie</q> vil drage nytte af Long Term Support
 
 <p>Dog var det nødvendigt at have nogle begrænsninger vedrørende Squeeze LTS.  
 For eksempel er kun x86-pc'er (amd64 og i386) understøttet, og en 
-<a href="https://anonscm.debian.org/cgit/collab-maint/debian-security-support.git/plain/security-support-ended.deb6">\
+<a href="https://salsa.debian.org/debian/debian-security-support/blob/master/security-support-ended.deb6">\
 række poplære pakker</a> er ikke understøttet.  Eksempelvis kan man ikke afvikle 
 en Xen dom0 eller KVM-vært med Squeeze, og der er ikke understøttelse af 
 grafiske browsere.  De nuværende holdressourcer rækker kun til at dække den 
