@@ -278,7 +278,7 @@ about the tags:</p>
   <dd>This bug is relevant to the accessibility of the package.</dd>
 
 <dt><code>ftbfs</code></dt>
-  <dd> The package fails to build from source. If the bug is assigned to a
+  <dd>The package fails to build from source. If the bug is assigned to a
     source package, that package fails to build. If the bug is assigned
     to a binary package, the affected source packages fail to build. The
     tag is applicable to non-standard build environments (e.g. using
