@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debians felrapporteringssystem &ndash; utvecklarinformation" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="33ca549a7a4f5f50ef26749a5882613fb0715a03"
+#use wml::debian::translation-check translation="3d7d37336bd5edeaec7948e9153a69847505fd39"
 <h1>Information om felbehandlingssystemet för paketutvecklare
   och felsorterare</h1>
 
@@ -326,6 +326,14 @@ infomation om markeringarna:</p>
 
 <dt><code>ally</code></dt>
   <dd>Detta fel är relevant för paketets tillgänglighet.</dd>
+
+<dt><code>ftbfs</code></dt>
+  <dd>Paketet kan inte bygga från källkod (Fails To Build From Source). Om
+	felet är tilldelat ett binärpaket så misslyckas de påverkade källkodspaketen
+	att bygga. Taggen är tillämplig för icke-standard byggmiljöer (t.ex.
+	när man använder byggberoenden från experimentella utgåvan), men
+	allvarlighetsgraden skulle vara under "allvarlig" (utgåvekritisk) i
+	sådana fall.</dd>
 
 <dt><bts_release_tags></dt>
 	<dd>Dessa är utgåvemärkningar som har två effekter. När de sätts på ett
