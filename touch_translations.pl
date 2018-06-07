@@ -107,8 +107,18 @@ foreach $lang (@langs) {
     $original = $transcheck->original();
     $maxdelta = $transcheck->maxdelta() if $transcheck->maxdelta();
     $mindelta = $transcheck->mindelta() if $transcheck->mindelta();
-    
-    next unless not defined $original or $original eq $arglang;
+
+    # English is the default original language if the header in the
+    # translated file doesn't specify otherwise
+    if (!defined $original) {
+	$original = "english";
+    }
+
+    # If the original language in the translated file isn't the
+    # language we started with here, bail now - it's not interesting
+    if (! ($original eq $arglang)) {
+	next;
+    }
 
     $difference = $VCS->count_changes($argfile, $langrev, $origrev);
     if (!defined $difference) {
