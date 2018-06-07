@@ -129,7 +129,7 @@ in Brooklyn, New York. For more information view the <a href="https://hashman.ca
 <p><b>Event Reports</b></p>
 
 <p>
-A Debian Women Meetting took place in Curitiba, Brazil on 10th March 2018.
+A Debian Women Meeting took place in Curitiba, Brazil on 10th March 2018.
 
 Details of the event and schedule are on their
 <a href="https://debianwomenbr.github.io">
@@ -397,6 +397,7 @@ Mastodon or Twitter). The items are given unformatted, and in descending order b
 
 <p><a href="https://lists.debian.org/debian-news/">Subscribe or Unsubscribe</a> from the Debian News mailing list</p>
 
-#use wml::debian::projectnews::footer editor="The Publicity Team with contributions from contributor1, contributor2, contributor3"
+#use wml::debian::projectnews::footer editor="The Publicity Team with contributions from Chris Lamb, Holger Wansing, Jean-Pierre Girard, Justin B Rye, Paulo Henrique de Lima Santana, and Thomas Vincent.
+
 # Please add the contributors to the /dpn/CREDITS file
 # Translators may also add a translator="foo, bar, baz" to the previous line
