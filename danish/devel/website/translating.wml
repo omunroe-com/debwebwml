@@ -142,7 +142,7 @@ side med introduktion til Git</a>.</p>
 webwml/english/, begynd da med at oprette en ny mappe til dine 
 oversættelser, på samme niveau som english/ og de andre sprog.  Navnet på 
 oversættelsesmappen skal være på engelsk og kun skrives med små bogstaver
-(for eksempel <q>danish</q> og ikke <q>dansk</q>).</p>
+(for eksempel <q>german</q> og ikke <q>Deutsch</q>).</p>
 
 <p>Kopier filerne <tt>Make.lang</tt> og <tt>.wmlrc</tt> fra mappen english/
 til den nye oversættelsesmappe.  Disse filer er afgørende i opbygningen af 
