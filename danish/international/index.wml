@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian internationalt"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
+#use wml::debian::translation-check translation="c983d05b92b263f99491afdfdb7b5eb303d0cd2c"
 
 <p>I internettets fri software-fællesskab kommunikerer vi mest på engelsk. 
 Meget af vores arbejde foregår på engelsk, men det er vores håb, at al Debians 
@@ -36,9 +36,9 @@ følgende områder i Debian:</p>
 
 <dl>
   <dt><strong>Installeringssystem</strong></dt>
-    <dd>Se <a href="https://anonscm.debian.org/viewvc/d-i/trunk/manual/doc/translations.txt?view=markup">\
-    oplysninger for oversættere</a> i <a href="$(DEVEL)/debian-installer/svn">\
-    debian-installers Subversion-træ</a>.  Arbejde relateret til installering af 
+    <dd>Se <a href="https://salsa.debian.org/installer-team/installation-guide/blob/master/doc/translations.txt">\
+    oplysninger for oversættere</a> i <a href="https://salsa.debian.org/installer-team/installation-guide">\
+    installationshåndbogsarkivet</a>.  Arbejde relateret til installering af 
     Debian diskuteres på postlisten <a href="https://lists.debian.org/debian-boot/">\
     <tt>debian-boot</tt></a>.</dd>
   <dt><strong>Debians dokumentation</strong></dt>
