@@ -31,7 +31,7 @@
 <a href="uptodate">업데이트가 쉬워집니다</a>.
 그 줄은 이렇게 보입니다:
 <kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd>
-번역가능한 파일을 using <tt>copypage.pl</tt> 도구(강력 권장)를 써서 만들면, 
+번역가능한 파일을 <tt>copypage.pl</tt> 도구(강력 권장)를 써서 만들면, 
 git 커밋 해시가 자동 생성될 겁니다.
 <tt>copypage.pl</tt> 사용법은 다음 글에 설명할 겁니다.
 </p>
@@ -237,10 +237,10 @@ CVS를 새로 체크 아웃 할 때 번역 내용이 손상된다는 것을 인�
    git log --all --full-history -- <path/to/file/deleted.wml>
 </verbatim>
 
-<p>You may find out the exact commit that removed the file you want, together
-with the commit's hash string. To display the detail information about the
-modification made to the file in this commit, you may
-use <code>git show</code> subcommand:</p>
+<p>지워진 파일의 여러분이 바라는 정화한 커밋을 찾으려면, 
+커밋의 hash string 을 갖고 찾아야 할겁니다.
+이 커밋에서 파일에 만들어진 변화에 대한 자세한 정보를 보이려면
+<code>git show</code> 서브명령 쓰세요:</p>
 
 <verbatim>
   git show <COMMIT_HASH_STRING> -- <path/to/file/deleted.wml>
@@ -253,7 +253,7 @@ use <code>git show</code> subcommand:</p>
   git checkout <COMMIT_HASH_STRING>^ -- <path/to/file/deleted.wml>
 </verbatim>
 
-<p>물론, 이렇게 한 다음 문서를 업데이트 하고 다시 체크인 하시오. 아니면 지워질 수 있습니다.
+<p>물론, 이렇게 한 다음 문서를 업데이트 하고 다시 체크인 하세오. 아니면 지워질 수 있습니다.
 
 <h3>남은 이야기</h3>
 
@@ -270,7 +270,6 @@ use <code>git show</code> subcommand:</p>
 <li>여러분의 번역 상태와 다른 번역과의 비교를 어떻게 하는지 보려면 <a href="stats/">통계</a>를 보세요.
 </ul>
 
-<P>우리가 한 일이 여러분이 페이지들을 가능한 한 쉽게 번역하는 데 도움이 되길 바란다.
+<p>우리가 한 일이 여러분이 페이지들을 가능한 한 쉽게 번역하는 데 도움이 되길 바랍니다.
 이미 언급한 바와 같이, 질문이 있으면, 여러분이 <a
 href="mailto:debian-www@lists.debian.org">debian-www</a>메일링 리스트에 물어볼 수 있습니다.
-
