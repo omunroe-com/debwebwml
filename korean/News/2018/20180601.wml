@@ -46,24 +46,21 @@ LTS 팀은 2018. 6. 17. 보안팀의 지원을 이어받습니다.</p>
 패치 제공, 테스트 또는
 <a href="https://wiki.debian.org/LTS/Funding">자금 지원</a>을 고려하세요.</p>
 
-<h2>About Debian</h2>
+<h2>데비안에 대하여</h2>
 
 <p>
-The Debian Project was founded in 1993 by Ian Murdock to be a truly
-free community project. Since then the project has grown to be one of
-the largest and most influential open source projects. Thousands of
-volunteers from all over the world work together to create and
-maintain Debian software. Available in 70 languages, and
-supporting a huge range of computer types, Debian calls itself the
+데비안 프로젝트는 1993년 Ian Murdock 에 의해 참된 자유 공동체 프로젝트로 시작되었다.
+그 이후 이 프로젝트는 가장 크고 가장 영향력있는 오픈 소스 프로젝트 중 하나로 성장했다.
+70개 언어 쓸 수 있고, 넓은 영역의 컴퓨터 유형을 지원하여, 데비안은 자신을 <q>세계적 운영체제</q>라 부른다.
 <q>universal operating system</q>.
 </p>
 
-<h2>More Information</h2>
-<p>More information about Debian Long Term Support can be found at
+<h2>더 자세한 정보</h2>
+<p>데비안 LTS에 대한 더 자세한 정보
 <a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>.</p>
 
-<h2>Contact Information</h2>
+<h2>역락처 정보</h2>
 
-<p>For further information, please visit the Debian web pages at
-<a href="$(HOME)/">https://www.debian.org/</a> or send mail to
-&lt;press@debian.org&gt;.</p>
+<p>더 자세한 정보를 알려면, 데비안 웹페이지
+<a href="$(HOME)/">https://www.debian.org/</a> 를 방문하거나 메일
+&lt;press@debian.org&gt; 보내세요.</p>
