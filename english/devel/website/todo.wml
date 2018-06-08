@@ -152,7 +152,8 @@
 <h3>/devel/website/*</h3>
 
   <p>Code all the remaining best current practices.
-
+  <p>Document about cvs to git
+  
 <toc-add-entry name="cn">Content negotiation issues</toc-add-entry>
 
   <p>The content negotiation system has several flaws that might make some
