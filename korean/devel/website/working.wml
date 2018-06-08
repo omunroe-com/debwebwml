@@ -10,14 +10,14 @@
 
 <p>웹 사이트에서 작업하려면, 적어도 250MB 데이터를 저장할 디스크를 준비하세요.
 이것은 현재 소스 아카이브 크기를 반영합니다.
-만약 실수로 모든 페이지를 다시 만들명, 적어도 두 배 공간이 필요할 겁니다.
+만약 실수로 모든 페이지를 다시 만들면, 적어도 두 배 공간이 필요할 겁니다.
 부분 체크아웃하면, 더 작은 공간(예를 들어 영어 50MB)이 필요할 겁니다.
 </p>
 
 <h3>부분 체크아웃</h3>
 
-<p>많은 사람들이 전체 <code>webwml</code> CSV 트리를 체크아웃 할 필요 없고,
-중요한 파일이 더해지고 디렉토리에 전체 <kbd>cvs update</kbd>하지 않으면,
+<p>많은 사람들이 전체 <code>webwml</code> 트리를 체크아웃 할 필요 없고,
+중요한 파일이 더해지고 디렉토리에 전체 <kbd>git pull</kbd>하지 않으면,
 때로 파일이 빠지고 빌드가 깨질 수 있습니다.
 필요한 모든 파일(.wmlrc 파일 같은)을 갖고 있는지 우리에게 불평하기 전에 점검하세요.
 </p>
@@ -53,7 +53,7 @@ webwml/english/template/debian 디렉토리에 있는 파일),
 
 <h3>새 디렉토리를 더하면, Makefile도 더하세요!</h3>
 
-<p>새 디렉토리를 CVS에 더할 때는 주의해야 합니다.
+<p>새 디렉토리를 git에 더할 때는 주의해야 합니다.
 현재 디렉토리가 ../Makefile 에 있다면 <b>반드시</b> 그 안에
 Makefile을 만을어야 합니다.&mdash; 그러지 않으면 <tt>make</tt>는
 에러 메시지를 낼 겁니다.
@@ -83,7 +83,7 @@ href="mailto:debian-l10n-english@lists.debian.org">영어 현지 팀</a>에
 
 <p>언제나 내용 변화와 형식 변화를 나누어서 패치 또는 커밋 하세요.
 그들이 섞이면, 번역자가 차이를 찾기 매우 어려워집니다.
-그런 섞인 변화로 <kbd>cvs diff</kbd>하면, 
+그런 섞인 변화로 <kbd>git diff</kbd>하면, 
 여러분 스스로 어지러울 겁니다.</p>
 
 <p>일반적으로 임의의 형식 변경을 피하세요.
@@ -110,7 +110,7 @@ quickly by a single person.</p>
 <code>smart_change.pl</code> script from the top-level directory in
 the webwml CVS module.</p>
 
-<h4>Usage of smart_change.pl</h4>
+<h4>smart_change.pl 쓰기</h4>
 
 <pre>smart_change.pl [options] origfile</pre>
 
@@ -293,14 +293,14 @@ the task of keeping translations up to date.</p>
 그것은 혼동을 만들고 디렉토리 안의 페이지는 자동 업데이트가 안 될 겁니다.
 </p>
 
-<p>아래는 웹 사이트에 디렉토리를 더하는 예를 설멍합니다.
+<p>아래는 웹 사이트에 디렉토리를 더하는 예를 설명합니다.
 </p>
 <pre>
    mkdir foo
-   cvs add foo
+   git add foo
    cd foo
    cp ../intro/Makefile .
-   cvs add Makefile
+   git add Makefile
 </pre>
 
 <p>Edit the Makefile in the parent directory and add the directory you just
@@ -310,5 +310,5 @@ the build for when make is run.</p>
 <p>마지막으로, 저장소에 만들어진 모든 변화를 커밋하세요
 </p>
 <pre>
-  cvs commit Makefile foo
+   git commit Makefile foo
 </pre>
