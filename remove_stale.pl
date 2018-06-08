@@ -8,7 +8,9 @@
 
 # Originally written 2001-03-22 by Peter Krefting <peterk@debian.org>
 # Revised in 2010 by Bas Zoetekouw <bas@debian.org>
-# © Copyright 2001-2010 Software in the public interest, Inc.
+# Updated in 2018 by Steve McIntyre <93sam@debian.org> to use the
+# generic VCS infrastructure as part of the git migration.
+# © Copyright 2001-2018 Software in the public interest, Inc.
 # This program is released under the GNU General Public License, v2.
 
 ## $Id$
@@ -34,23 +36,29 @@ use constant INSTALLDIR => '../www';
 
 my $VCS = Local::VCS->new();
 
-# Cache the repo history for performance
-print "Initialising VCS cache\n";
-$VCS->cache_repo();
+my $verbose = 0;
+our $opts_v;
 
 ###############################################################
 # "main"
 {
 
 	my %opts;
-	show_help("Unknown option\n")     if not getopts('dh',\%opts);
+	show_help("Unknown option\n")     if not getopts('dhv:',\%opts);
 	show_help()                       if exists $opts{'h'};
 	show_help("Not in webwml root\n") if not -d 'english';
 
 	my $reallyremove =  exists( $opts{'d'} );
+	if (exists ($opts{'v'})) {
+		$verbose = $opts{'v'};
+	}
 
 	# Read the list of languages
 	my @languages = sort Webwml::Langs->new()->names();
+
+	# Cache the repo history for performance
+	print "Initialising VCS cache\n";
+	$VCS->cache_repo();
 
 	# check all subdirs to find stale html files
 	my @files;
@@ -82,6 +90,20 @@ $VCS->cache_repo();
 	exit;
 }
 
+
+# log very verbose messages
+sub vvlog {
+    if ($verbose >= 2) {
+	print STDOUT $_[0] . "\n";
+    }
+}
+
+# log verbose messages
+sub vlog {
+    if ($verbose >= 1) {
+	print STDOUT $_[0] . "\n";
+    }
+}
 
 #############################################################
 # show help text
@@ -118,6 +140,8 @@ sub find_stale_files
 {
 	# Get parameter.
 	my $dir       = shift or die('No directory specified');
+	my $scanned_count = 0;
+	my $remove_count = 0;
 
 	print "Recursing into `$dir'\n";
 
@@ -138,6 +162,11 @@ sub find_stale_files
 	my @toremove;
 	foreach my $htmlfile (sort @htmlfiles)
 	{
+		$scanned_count++;
+		if (0 == ($scanned_count % 500)) {
+			vlog("  scanned $scanned_count files, found $remove_count to remove");
+		}
+		vvlog("  Looking at $htmlfile");
 		# the name of the wml file that this html file is potentially
 		# generated from
 		my $source = $htmlfile;
@@ -153,27 +182,28 @@ sub find_stale_files
 		# Don't try to remove yaboot-howto.
 		next  if  $htmlfile =~ m{/ports/powerpc/inst/yaboot-howto.html};
 
-		# does the wml source file exist?
-		my $haswml = exists( $wmlfiles{$source} ) || -f $source || 0;
-
-		# is the html file checked in the VCS?
-		my $checkedin = $VCS->file_info($htmlfile , quiet => 1 ) ? 1 : 0;
-
-		#if ($checkedin) 
-		#{ print "==> `$htmlfile' : `$source' : $haswml : $checkedin\n"; }
-
-		# we're done if the file has a corresponding wml source, or if the html
-		# file itself is checked in
-		next  if  $haswml or $checkedin;
-
 		# as a special exception, sitemaps don't have a wml source in the
 		# translation tree (they are generated from english/)
 		next  if  $htmlfile =~ m{/sitemap\.[-\w]+\.html$};
 
+		# does the wml source file exist?
+		my $haswml = exists( $wmlfiles{$source} ) || -f $source || 0;
+		next  if  $haswml;
+
+		# is the html file checked in the VCS?
+		my $checkedin = $VCS->file_info($htmlfile , quiet => 1 ) ? 1 : 0;
+		next  if  $checkedin;
+
+		#if ($checkedin) 
+		#{ print "==> `$htmlfile' : `$source' : $haswml : $checkedin\n"; }
+
 		# File has no reason for being here.
 		push @toremove, $htmlfile;
+		$remove_count++;
+		vlog("$htmlfile needs to be removed");
 	}
 
+	vlog("  scanned $scanned_count files, found $remove_count to remove");
 	return @toremove;
 }
 
@@ -185,7 +215,7 @@ sub find_files_ext
 	my $ext = shift or die('Internal error: No ext specified');
 
 	my @files;
-    find( sub { push @files, $File::Find::name if -f and m/\.$ext$/ }, $dir );
+	find( sub { push @files, $File::Find::name if -f and m/\.$ext$/ }, $dir );
 	return @files;
 }
 
