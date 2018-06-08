@@ -176,6 +176,9 @@ sub verbose;
 	my $subdir = $OPT{'s'} || undef;
 
 	my $VCS = Local::VCS->new();
+	print "Caching VCS for performancs...\n";
+	$VCS->cache_repo();
+	print "   ...done\n";
 
 	# Global .transignore
 	my $transignore = Webwml::TransIgnore->new($VCS->get_topdir());
