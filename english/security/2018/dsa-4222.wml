@@ -1,6 +1,6 @@
 <define-tag description>security update</define-tag>
 <define-tag moreinfo>
-<p>Marcus Brinkmann discovered that GnuGPG performed insufficient
+<p>Marcus Brinkmann discovered that GnuPG performed insufficient
 sanitisation of file names displayed in status messages, which could be
 abused to fake the verification status of a signed email.</p>
 
