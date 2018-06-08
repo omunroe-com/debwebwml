@@ -71,9 +71,9 @@
 </dl>
 
 <p>
-<strong>It is important that you only translate files that you have
-the time to maintain. A few well maintained pages is much more useful
-than a lot of out of date ones.</strong>
+<strong>그대가 관리할 시간을 갖고 있는 파일만 번역하는 것이 중요합니다.
+잘 관리되는 몇 페이지가 오래된 것 여러개보다 쓸모있습니다.
+</strong>
 
 <h2>How closely should translations follow the original?</h2>
 
@@ -95,7 +95,7 @@ Language-speaking visitors.
 <p>If you know of information that would be useful to all users,
 bring it up on debian-www.
 
-<h2>How do translators know when files need to be updated?</h2>
+<h2>언제 파일이 업데이트 되야 하는지 번역자는 어떻게 알까?</h2>
 
 <P>There is a mechanism that translators can use to <a href="uptodate">
 keeping web site translations up-to-date</a>.
@@ -114,7 +114,7 @@ Gettext will mark the tags whose value it had to guess with
 "<code>#, fuzzy</code>", and newly introduced tags will simply have an empty
 string after <code>msgstr</code>.</p>
 
-<h2>How do users know if a translated page is out of date?</h2>
+<h2>번역 페이지가 오래되었는지 사용자는 어떻게 아나요?</h2>
 
 <P>The <code>translation-check</code> template which is used to
 <a href="uptodate">keep translations up-to-date</a> will make a note in
