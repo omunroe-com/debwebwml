@@ -29,7 +29,7 @@ RSS-피드는 @debian 프로필을 여러 사회망에서도 제공합니다.</p
 <p>데비안 보안팀은 현재 매일 기반 권고(<a href="$(HOME)/security/2018/">보안 권고 2018</a>)를 냅니다. 그것을 주의깊게 읽고 <a href="https://lists.debian.org/debian-security-announce/">보안 메일링 리스트</a>를 구독하세요.
 </p>
 
-<p>이 프로젝트 뉴스의 끝에 <b>퀵 링크</b> 섹션을 더했는데 그것은 다른 미디어 스트림을 통한 포스트의 
+<p>이 프로젝트 뉴스의 끝에 <b>빠른 링크</b> 섹션을 더했는데 그것은 다른 미디어 스트림을 통한 포스트의 
 섹션을 연결합니다.</p>
 
 <toc-add-entry name="internal">내부 뉴스/사건</toc-add-entry>
@@ -50,7 +50,8 @@ RSS-피드는 @debian 프로필을 여러 사회망에서도 제공합니다.</p
 </p>
 
 <p><b>Debian 8 수명 끝 알림</b></p>
-<p>알림, DSA는 데비안 GNU/Linux 8 (code name <q>Jessie</q>)에 대한 정기 보안 지원 이 2018. 6. 17.에끝날 것을 <a href="https://www.debian.org/security/2018/dsa-4205">미리 알림</a>.
+<p>알림, DSA는 데비안 GNU/Linux 8 (코드 이름 <q>Jessie</q>)에 대한 정기 보안 지원이 2018. 6. 17.에
+끝날 것을 <a href="https://www.debian.org/security/2018/dsa-4205"> 미리 알림</a>.
 </p>
 
 <p><b>데비안 정책 4.1.4.0 나옴</b></p>
@@ -68,20 +69,20 @@ RSS-피드는 @debian 프로필을 여러 사회망에서도 제공합니다.</p
 
 <p><b>데비안 Alioth 옮김</p></b>
 
-<p>Debian has migrated several services from our aged <a href="https://wiki.debian.org/Alioth">Alioth</a> server, which ran FusionForge, onto <a href="https://wiki.debian.org/Salsa">Salsa</a>, based on Gitlab software. These changes to our
-infrastructure will allow us to continue to provide needed services, and tools 
-for collaboration. Alexander Wirt gave a <a href="https://gemmei.ftp.acc.umu.se/pub/debian-meetings/2018/miniconf-hamburg/2018-05-19/salsa.debian.org_state.webm">talk about the state of affairs for
-Salsa</a> at the miniDebConf 2018 in Hamburg.</p>
+<p>데비안은 우리의 오래된 <a href="https://wiki.debian.org/Alioth">Alioth</a> 서버(FusionForge에서 돌아감)에서 <a href="https://wiki.debian.org/Salsa">Salsa</a>(Gitlab 소프트웨어 기반)로 이주했습니다.
+이 변화는 우리의 기반을 필요한 서비스 및 협업 도구를 계속 제공할 수 있게 했습니다.
+Alexander Wirt는 <a href="https://gemmei.ftp.acc.umu.se/pub/debian-meetings/2018/miniconf-hamburg/2018-05-19/salsa.debian.org_state.webm">Salsa의 상태에 관해 얘기</a> 를
+함부르크 miniDebConf 2018에서 했습니다.</p>
 
 
 <p><b>새롭고 주목할만한 패키지</b></p>
 
 ## alternative wording:
 
-<p>
-<a href="https://packages.debian.org/unstable/main/newpkg">Among
-many other packages that were added to the unstable Debian archive</a> in the past weeks,
-we can find:</p>
+<p>지난 주에
+<a href="https://packages.debian.org/unstable/main/newpkg">불안정 데비안 아카이브에 더해진
+많은 패키지</a> 중에서, 다음을 찾을 수 있습니다:
+</p>
 
 <ul><p>
 <li><a href="https://packages.debian.org/sid/wig">wig</a> - WebApp Information Gatherer which can identify numerous Content Management Systems and other administrative applications.</li>
@@ -89,10 +90,10 @@ we can find:</p>
 <li><a href="https://packages.debian.org/sid/libtoxcore2"> libtoxcore2 </a>- Tox provides an encrypted, distributed, and extensible peer-to-peer platform that can be used for various forms of communication.</li>
 </ul>
 
-<p><a href="https://packages.debian.org/stretch/allpackages">Noteworthy packages in stable</a></p>
+<p><a href="https://packages.debian.org/stretch/allpackages">안정에서 주목할 패키지</a></p>
 <ul>
-<li><a href="https://packages.debian.org/stretch/youtube-dl">youtube-dl</a> - Fetch and process music from YouTube using youtube-dl and ffmpeg.</lia>
-<li><a href="https://packages.debian.org/search?keywords=gitlab-cli">gitlab-cli</a> - Command line interface to the GitLab API v3.</li>
+<li><a href="https://packages.debian.org/stretch/youtube-dl">turning</a> - 유튜브에서 온 음악을 youtube-dl youtube-dl 및 ffmpeg 을 써서 가져오고 처리.</li>
+<li><a href="https://packages.debian.org/search?keywords=gitlab-cli">gitlab-cli</a> - GitLab API v3에 대한 명령행 인터페이스.</li>
 </p>
 </ul>
 
@@ -116,40 +117,40 @@ in Brooklyn, New York. For more information view the <a href="https://hashman.ca
 
 <p><b>이벤트 보고</b></p>
 
-<p>A Debian Women Meeting took place in Curitiba, Brazil on 10th March 2018.
-
-Details of the event and schedule are on their
+<p>데비안 여인 모임. Curitiba, Brazil 에서 2018. 3. 10. 개최됨.
+이벤트와 스케줄 상세는 그들의
 <a href="https://debianwomenbr.github.io">
-website</a> and <a href="https://wiki.debian.org/Brasil/Eventos/1oEncontroDebianWomenCuritiba">
-wiki page</a>. Photos are
-<a href="https://github.com/debianwomenbr/debianwomenbr.github.io/tree/master/img/I_encontro">available</a>.
+웹사이트</a> 및 <a href="https://wiki.debian.org/Brasil/Eventos/1oEncontroDebianWomenCuritiba">
+위키 페이지</a>에 있음. 사진들이
+<a href="https://github.com/debianwomenbr/debianwomenbr.github.io/tree/master/img/I_encontro">가능</a>합니다.
 </p>
 
-<p>
-A miniDebConf took place in Curitiba, Brazil on 11&ndash;14 April 2018.
+<p>miniDebConf. Curitiba, Brazil 에서 2018. 4. 11&ndash;14
 
-Details of the event, schedule, and photos are on their
+이벤트, 스케줄, 사진은 그들
 <a href="https://minidebconf.curitiba.br/en">
-website</a>. There were live video streams, and the recordings are
-<a href="http://meetings-archive.debian.net/pub/debian-meetings/2018/mini-debconf-curitiba">already available</a>.
+홈페이지</a>에 있음.
+라이브 비디오 스트림이 있었고, 녹음은
+<a href="http://meetings-archive.debian.net/pub/debian-meetings/2018/mini-debconf-curitiba">이미 가능</a>함.
 </p>
 
-<p>
-A miniDebConf took place in Hamburg, Germany on 19&ndash;20 May 2018.
+<p>miniDebConf. Hamburg, Germany에서 2018. 5. 19&ndash;20.
 
-Details of the event, schedule, and photos are on their
+이벤트, 스케줄, 사진은 그들
 <a href="https://wiki.debian.org/DebianEvents/de/2018/MiniDebConfHamburg">
-wiki page</a>. There were live video streams, and the recordings are
-<a href="http://meetings-archive.debian.net/pub/debian-meetings/2018/miniconf-hamburg/">already available</a>.
+위키 페이지</a>에.
+라이브 비디오 스트림이 있었고, 녹음은
+<a href="http://meetings-archive.debian.net/pub/debian-meetings/2018/miniconf-hamburg/">이미 
+가능</a>.
 </p>
 
 
-<toc-add-entry name="reports">Reports</toc-add-entry>
+<toc-add-entry name="reports">보고서</toc-add-entry>
 ## It's easier to link to the monthly reports for the LTS section and the RB links rather than
 # summarize each report or number of packages. Feel free to input this information if you need to fill
 # the issue out
 #
-<p><b>LTS Freexian Monthly Reports</b></p>
+<p><b>LTS Freexian 월간 보고</b></p>
 
 <p>Freexian issues <a href="https://raphaelhertzog.com/tag/Freexian+LTS/">monthly reports</a>
 about the work of paid contributors to Debian Long Term Support.
@@ -167,11 +168,12 @@ about the work of paid contributors to Debian Long Term Support.
   packages with a known CVE and the dla-needed.txt file 16.</p> 
 
 
-<p><b>Reproducible Builds status update</b></p>
+<p><b>재현 가능 빌드 상태 업데이트</b></p>
 
-<p>Follow the <a href="https://reproducible-builds.org/blog/">Reproducible
-Builds blog</a> to get the weekly reports on their work in the <q>Buster</q> cycle.
+<p><a href="https://reproducible-builds.org/blog/">재현가능 빌드 블로그</a>를 따르면
+<q>Buster</q> 에서 그들의 작업에 대한 주간 보고를 얻습니다.
 </p>
+
 <p><a href="https://reproducible-builds.org/blog/posts/159/">Reproducible Builds report &#35;159</a>. Ricardo Wurmus also published a paper titled 
 <a href="https://www.gnu.org/software/guix/blog/2018/paper-on-reproducible-bioinformatics-pipelines-with-guix/">"Reproducible bioinformatics pipelines with Guix"</a> which outlines using GNU Guix
 and reproducible builds in general as a “crucial foundation for computational experiments”. 
@@ -190,9 +192,9 @@ Updated the reproducible-builds.org website. 134 package reviews were added,
 
 
 
-<toc-add-entry name="help">Help needed</toc-add-entry>
+<toc-add-entry name="help">도움 필요</toc-add-entry>
 
-<p>Teams needing help</p>
+<p>도움 필요한 팀</p>
 ## Teams needing help
 ## $Link to the email from $Team requesting help
 <p>Following the recent MiniDebConfHamburg, the subtitles team started to <a href="https://alioth-lists.debian.net/pipermail/debconfsubs-team/Week-of-Mon-20180514/000102.html">subtitle the talks</a>.
@@ -200,7 +202,7 @@ The team is looking for help to transcribe, synchronize and review subtitles, as
 The dedicated wiki page summarizes the <a href="https://wiki.debconf.org/wiki/Videoteam/Subtitles/videos_minidebconf18_hamburg">status and needs of each video</a>.</p>
 
 
-<p>Packages needing help:</p>
+<p>도움 필요한 패키지:</p>
 
 ## link= link to the mail report from wnpp@debian.org to debian-devel ML
 ## orphaned= number of packages orphaned according to $link
@@ -210,7 +212,7 @@ The dedicated wiki page summarizes the <a href="https://wiki.debconf.org/wiki/Vi
 	orphaned="1301"
 	rfa="158" />
 
-<p>Newcomer bugs</p>
+<p>새로 나온 버그</p>
 
 ## check https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=newcomer and add outstanding + forwarded + pending upload
 <p>
@@ -221,9 +223,10 @@ There are <a href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=newcomer">2
 bugs available tagged <q>newcomer</q>.
 </p>
 
-<toc-add-entry name="morethancode">More than just code</toc-add-entry>
+<toc-add-entry name="morethancode">그냥 코드 너머</toc-add-entry>
 
-<p><b>Debian study group / Grupo de estudos de Debian</b></p>
+<p><b>데비안 스터디 그룹</b></p>
+
 <p>Helen Koike <a href="https://lists.debian.org/debian-women/2018/05/msg00005.html">announces</a> bi-weekly meetings (video call) to study Debian. The 
 group will view and discuss João Eriberto Mota Filho's <a href="http://debianet.com.br/">online packaging course</a>.
  The meetings will be Portuguese and although the primary audience is for 
@@ -231,7 +234,7 @@ group will view and discuss João Eriberto Mota Filho's <a href="http://debianet
  scheduled meetings will be today, Thursday June 7 at 8PM and Thursday 21 June 
  at 8PM. Join them on OFTC  &#35;debian-mulheres for more information.</p>  
 
-<p><b>Contributors</b></p>
+<p><b>기여자</b></p>
 
 ## Visit the link below and pull the information manually.
 
@@ -251,7 +254,7 @@ group will view and discuss João Eriberto Mota Filho's <a href="http://debianet
 
 
 
-<p><b>Once upon a time in Debian:</b></p>
+<p><b>옛날 옛적 데비안:</b></p>
 
 ## Items pulled from the Timeline https://timeline.debian.net
 ## Jump to any random year/ same month/ same week.
@@ -271,7 +274,7 @@ group will view and discuss João Eriberto Mota Filho's <a href="http://debianet
 </ul>
 
 
-<toc-add-entry name="quicklinks">Quick Links from Debian Social Media</toc-add-entry>
+<toc-add-entry name="quicklinks">데비안 소셜 미디어로부터 빠른 링크</toc-add-entry>
 
 <p>
 This is an extract from the
@@ -284,7 +287,7 @@ Mastodon or Twitter). The items are given unformatted, and in descending order b
 </p>
 
 <p>
-<b>May</b></p>
+<b>5월</b></p>
 <ul>
 
 <li>text <a href="link">link </a>
@@ -298,7 +301,7 @@ Mastodon or Twitter). The items are given unformatted, and in descending order b
 </ul>
 
 <p>
-<b>April</b></p>
+<b>4월</b></p>
 <ul>
 
 <li>Congratulations to Debian's Google Summer of Code students!
@@ -352,7 +355,7 @@ Mastodon or Twitter). The items are given unformatted, and in descending order b
 </ul>
 
 <p>
-<b>March</b></p>
+<b>3월</b></p>
 
 <ul>
 <li>Registration is now open for DebConf18, in Hsinchu, Taiwan
@@ -376,13 +379,11 @@ Mastodon or Twitter). The items are given unformatted, and in descending order b
 
 </ul>
 
-
-
-
-<toc-add-entry name="continuedpn">Want to continue reading DPN?</toc-add-entry>
+<toc-add-entry name="continuedpn">DPN을 계속 읽고 싶으면?</toc-add-entry>
 <continue-dpn />
 
-<p><a href="https://lists.debian.org/debian-news/">Subscribe or Unsubscribe</a> from the Debian News mailing list</p>
+<p><a href="https://lists.debian.org/debian-news/">데비안 News 메일링 리스트에서 
+구독 또는 취소</a></p>
 
 #use wml::debian::projectnews::footer editor="The Publicity Team with contributions from Chris Lamb, Holger Wansing, Jean-Pierre Giraud, Justin B Rye, Paulo Henrique de Lima Santana, and Thomas Vincent."
 
