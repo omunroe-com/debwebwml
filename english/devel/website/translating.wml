@@ -56,40 +56,43 @@ if you set the <tt>DWWW_MAINT</tt> environment variable
 or use the <tt>-m</tt> command-line switch.
 </p>
 
-<p>You also need to explain to the robot who you are, how often you
-want to get automatic mails and their content. For that, edit (or let
-your coordinator edit) the file
-webwml/<var>language</var>/international/<var>language</var>/translator.db.pl
-in the repository.  The syntax should be quite understandable, and you can
-use the file of the French team as template if it does not exist for
-your language yet. The robot can send several kinds of information, and
-for each of them, you can choose the frequency at which it will be
-sent to you. The different kinds of information are:
-</p>
+# I Removed cvs specific descriptions from here because of cvs to git transition.
+# Help to update instruction if possible.
+#
+#<p>You also need to explain to the robot who you are, how often you
+#want to get automatic mails and their content. For that, edit (or let
+#your coordinator edit) the file
+#webwml/<var>language</var>/international/<var>language</var>/translator.db.pl
+#in the repository.  The syntax should be quite understandable, and you can
+#use the file of the French team as template if it does not exist for
+#your language yet. The robot can send several kinds of information, and
+#for each of them, you can choose the frequency at which it will be
+#sent to you. The different kinds of information are:
+#</p>
 
-<ul>
- <li><b>summary</b>:  a summary of which documents are outdated</li>
- <li><b>logs</b>: the "cvs log" between the translated and current versions</li>
- <li><b>diff</b>: "cvs diff"</li>
- <li><b>tdiff</b>: the script will try to find the part of the translated text modified by the English patch</li>
- <li><b>file</b>: add the current version of the file to translate</li>
-</ul>
+#<ul>
+# <li><b>summary</b>:  a summary of which documents are outdated</li>
+# <li><b>logs</b>: the "cvs log" between the translated and current versions</li>
+# <li><b>diff</b>: "cvs diff"</li>
+# <li><b>tdiff</b>: the script will try to find the part of the translated text modified by the English patch</li>
+# <li><b>file</b>: add the current version of the file to translate</li>
+#</ul>
 
-<p>Then, for each of them, the value should be one of: 0 (never), 1 (monthly), 2 (weekly) or 3 (daily).</p>
+#<p>Then, for each of them, the value should be one of: 0 (never), 1 (monthly), 2 (weekly) or 3 (daily).</p>
 
-<p>An example could be:
-</p>
+#<p>An example could be:
+#</p>
 
-<verbatim>
-                'Martin Quinson' => {
-                        email       => 'martin.quinson@tuxfamily.org',
-                        summary     => 3,
-                        logs        => 3,
-                        diff        => 3,
-                        tdiff       => 0,
-                        file        => 0
-                },
-</verbatim>
+#<verbatim>
+#                'Martin Quinson' => {
+#                        email       => 'martin.quinson@tuxfamily.org',
+#                        summary     => 3,
+#                        logs        => 3,
+#                        diff        => 3,
+#                        tdiff       => 0,
+#                        file        => 0
+#                },
+#</verbatim>
 
 <p>The header of the web page can be easily produced by using the
 <tt>copypage.pl</tt> script in the webwml root directory. The script
