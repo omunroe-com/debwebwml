@@ -1,0 +1,30 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities were discovered in jruby, a Java
+implementation of the Ruby programming language. They would allow an
+attacker to use specially crafted gem files to mount cross-site
+scripting attacks, cause denial of service through an infinite loop,
+write arbitrary files, or run malicious code.</p>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 1.7.26-1+deb9u1.</p>
+
+<p>We recommend that you upgrade your jruby packages.</p>
+
+<p>In addition, this message serves as an announcement that security
+support for jruby in the Debian 8 oldstable release (jessie) is now
+discontinued.</p>
+
+<p>Users of jruby in Debian 8 that want security updates are strongly
+encouraged to upgrade now to the current Debian 9 stable release
+(stretch).</p>
+
+<p>For the detailed security status of jruby please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/jruby">\
+https://security-tracker.debian.org/tracker/jruby</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4219.data"
+# $Id: $
