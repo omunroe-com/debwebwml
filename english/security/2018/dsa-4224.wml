@@ -1,0 +1,22 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Marcus Brinkmann discovered that GnuGPG performed insufficient
+sanitisation of file names displayed in status messages, which could be
+abused to fake the verification status of a signed email.</p>
+
+<p>Details can be found in the upstream advisory at
+<a href="https://lists.gnupg.org/pipermail/gnupg-announce/2018q2/000425.html">https://lists.gnupg.org/pipermail/gnupg-announce/2018q2/000425.html</a></p>
+
+<p>For the oldstable distribution (jessie), this problem has been fixed
+in version 1.4.18-7+deb8u5.</p>
+
+<p>We recommend that you upgrade your gnupg packages.</p>
+
+<p>For the detailed security status of gnupg please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/gnupg">https://security-tracker.debian.org/tracker/gnupg</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4224.data"
+# $Id: $
