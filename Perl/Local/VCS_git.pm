@@ -189,16 +189,28 @@ sub cache_file {
     _safe_chdir($topdir, $startdir) or die "Can't chdir to $topdir: $!\n";
 
     my (@commits);
-    open (GITLOG, "git log --no-renames -p -m --name-only --numstat --format=format:\"%H %ct\" -- $file |") or die "Can't fork git log: $!\n";
+    # We want to see all the commits, but we don't want the noise from
+    # merges. Track what commits we've seen so we can ignore the
+    # "right-hand" commit files
+    my %commits_seen;
+    open (GITLOG, "git log --no-renames -m --name-only --numstat --format=format:\"%H %ct\" -- $file |") or die "Can't fork git log: $!\n";
     my ($cmt_date, $cmt_rev);
     while (my $line = <GITLOG>) {
 	chomp $line;
 	if ($line =~ m/^([[:xdigit:]]+) (\d+)$/) {
 	    $cmt_rev = $1;
 	    $cmt_date = $2;
+	    if ($commits_seen{$cmt_rev}) {
+		$commits_seen{$cmt_rev}++;
+		$self->_debug("Seen $cmt_rev again, ignoring");
+	    } else {
+		$commits_seen{$cmt_rev} = 1;
+	    }
 	    next;
 	} elsif ($line =~ m{^$file$}) {
-	    $self->_add_cache_entry($file, $cmt_date, $cmt_rev);
+	    if ($commits_seen{$cmt_rev} and $commits_seen{$cmt_rev} == 1) {
+		$self->_add_cache_entry($file, $cmt_date, $cmt_rev);
+	    }
 	}
     }
     close GITLOG;
@@ -321,19 +333,31 @@ sub cache_repo {
 #	    print __LINE__ . ": " . Dumper(%cache);
 
     my (@commits);
+    # We want to see all the commits, but we don't want the noise from
+    # merges. Track what commits we've seen so we can ignore the
+    # "right-hand" commit files
+    my %commits_seen;
     my $count = 0;
-    open (GITLOG, "git log --no-renames -p -m --name-only --numstat --format=format:\"%H %ct\" |") or die "Can't fork git log: $!\n";
+    open (GITLOG, "git log --no-renames -m --name-only --numstat --format=format:\"%H %ct\" |") or die "Can't fork git log: $!\n";
     my ($cmt_date, $cmt_rev);
     while (my $line = <GITLOG>) {
 	chomp $line;
 	if ($line =~ m/^([[:xdigit:]]+) (\d+)$/) {
 	    $cmt_rev = $1;
 	    $cmt_date = $2;
+	    if ($commits_seen{$cmt_rev}) {
+		$commits_seen{$cmt_rev}++;
+		$self->_debug("Seen $cmt_rev again, ignoring");
+	    } else {
+		$commits_seen{$cmt_rev} = 1;
+	    }
 	    next;
 	} elsif ($line =~ m{^(\S+)$}) {
 	    my $file = $1;
-	    $self->_add_cache_entry($file, $cmt_date, $cmt_rev);
-	    $count++;
+	    if ($commits_seen{$cmt_rev} and $commits_seen{$cmt_rev} == 1) {
+		$self->_add_cache_entry($file, $cmt_date, $cmt_rev);
+		$count++;
+	    }
 	}
     }
     close GITLOG;
@@ -362,7 +386,8 @@ sub _grab_commits
 	# from underneath us
 	open (my $lock, "+> $cache_lock") or die "Can't create lock file $cache_lock: $!\n";
 	flock ($lock, LOCK_SH);
-	open (IN, "< $cache_db/$tablename") or die "Can't open file $cache_db/$tablename: $!\n";
+	$self->_debug("Reading $cache_db/$tablename for file $file");
+	open (IN, "< $cache_db/$tablename") or die "Can't open file $cache_db/$tablename for file $file: $!\n";
 	my @commits;
 	while(my $line = <IN>) {
 	    if ($line =~ m/^(\d+)\s+([[:alnum:]]+)$/) {
@@ -382,6 +407,7 @@ sub _grab_commits
 	return @commits;
     } else {
 	# Return directly from the in-memory cache
+	$self->_debug("Reading hash cache for file $file");
 	my $tmp = $self->{CACHE}{"$file"};
 	if (defined $tmp) {
 	    my @commits = @$tmp;
@@ -692,8 +718,12 @@ sub path_info
 		    }
 		}
 	} else {
+	    # We want to see all the commits, but we don't want the noise from
+	    # merges. Track what commits we've seen so we can ignore the
+	    # "right-hand" commit files
+	    my %commits_seen;
 	    # We don't, so we need to talk to git. (2a above)
-	    open (GITLOG, "git log --no-renames -p -m --name-only --numstat --format=format:\"%H %ct\" $dir|")
+	    open (GITLOG, "git log --no-renames -m --name-only --numstat --format=format:\"%H %ct\" $dir|")
 		or die "Failed to fork git log: $!\n";
 	    my $cmt_date;
 	    my $cmt_rev;
@@ -703,17 +733,25 @@ sub path_info
 		if ($line =~ m/^([[:xdigit:]]+) (\d+)$/) {
 		    $cmt_rev = $1;
 		    $cmt_date = $2;
+		    if ($commits_seen{$cmt_rev}) {
+			$commits_seen{$cmt_rev}++;
+			$self->_debug("Seen $cmt_rev again, ignoring");
+		    } else {
+			$commits_seen{$cmt_rev} = 1;
+		    }
 		    next;
 		} elsif ($line =~ m{^$dir/(\S+)$}) {
-		    $file = $1;
-		    # Only store information if:
-		    # We want this file, and
-		    # We don't have data for it yet (i.e. only show
-		    # the most recent version of a file)
-		    if ($files_wanted{"$dir/$file"} and not defined $pathinfo{$file}) {
-			$pathinfo{$file}{'type'} = _typeoffile("$dir/$file");
-			$pathinfo{$file}{'cmt_date'} = $cmt_date;
-			$pathinfo{$file}{'cmt_rev'} = $cmt_rev;
+		    if ($commits_seen{$cmt_rev} and $commits_seen{$cmt_rev} == 1) {
+			$file = $1;
+			# Only store information if:
+			# We want this file, and
+			# We don't have data for it yet (i.e. only show
+			# the most recent version of a file)
+			if ($files_wanted{"$dir/$file"} and not defined $pathinfo{$file}) {
+			    $pathinfo{$file}{'type'} = _typeoffile("$dir/$file");
+			    $pathinfo{$file}{'cmt_date'} = $cmt_date;
+			    $pathinfo{$file}{'cmt_rev'} = $cmt_rev;
+			}
 		    }
 		}   
 	    }
