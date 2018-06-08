@@ -1,0 +1,18 @@
+# From: PR International Ltd <pr@printernational.co.uk>
+#use wml::debian::translation-check translation="1978724ba02e59d33d10de4832680db8252a98b5" maintainer="Lev Lamberov"
+
+<define-tag pagetitle>PR International Ltd, Кинс Лэнгли, Хартфордшир, Великобритания</define-tag>
+<define-tag webpage>http://www.printernational.co.uk/</define-tag>
+
+#use wml::debian::users
+
+<p>
+    Мы используем Debian в качестве операционной системы на нашем основном сервере. На нём
+    работают такие службы как база данных MySQL, JSP, EJB, PHP, Java J2EE, JDK и Smb4k.
+    У нас имеются семь настольных машин с Openbox, XFCE в качестве окружения рабочего стола,
+    также мы планируем развернуть больше компьютеров.
+</p>
+
+<p>
+    Мы выбрали Debian за его отличную стабильность и долгосрочную поддержку.
+</p>

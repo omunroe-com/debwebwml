@@ -1,0 +1,11 @@
+# From: Paul Frit <getover208@gmail.com>
+#use wml::debian::translation-check translation="777c69b7be3d65594ddb8212c7478132c1842c20" maintainer="Lev Lamberov"
+
+<define-tag pagetitle>IreneMilito.it, Козенца, Италия</define-tag>
+<define-tag webpage>https://irenemilito.it/</define-tag>
+
+#use wml::debian::users
+
+<p>
+    Мы используем Debian для работы нескольких сайтов под WordPress.
+</p>
