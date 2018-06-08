@@ -1,0 +1,30 @@
+#use wml::debian::translation-check translation="d11cf1b0803bc7729a91ad6add2ac877fe1b5a5e" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder blev opdaget i jruby, en Java-implementering af 
+programmeringssproget Ruby.  Dermed kunne det være muligt for en angriber, at 
+anvende særligt fremstillede gem-filer, til at iværksætte angreb i forbindelse 
+med udførelse af skripter på tværs af websteder, forårsage lammelsesangreb 
+gennem en uendelig løkke, skrive vilkårlige filer eller køre ondsindet kode.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 1.7.26-1+deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine jruby-pakker.</p>
+
+<p>Desuden fungerer denne meddelelse som annoncering af at 
+sikkerhedsunderstøttelse af jruby i den gamle stabile udgave, Debian 8 
+(jessie), nu er ophørt.</p>
+
+<p>Brugere af jruby i Debian 8, som ønsker sikkerhedsopdateringer, opfordres 
+kraftigt til nu at opgradere til den aktuelle stabile udgave, Debian 9 
+(stretch).</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende jruby, 
+se dens sikkerhedssporingsside på: 
+<a href="https://security-tracker.debian.org/tracker/jruby">\
+https://security-tracker.debian.org/tracker/jruby</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4219.data"
