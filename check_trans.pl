@@ -240,6 +240,8 @@ sub verbose;
 
 				# and find the correct revision info for this file
 				$revinfo_orig = { $VCS->file_info( $file_orig ) };
+
+				$orig = $original_lang;
 			}
 		}
 
@@ -393,7 +395,9 @@ sub verbose;
 
 				my $delta;
 				$delta = $VCS->count_changes( $file_orig, $rev_transl, 'HEAD' );
-
+				if (!defined $delta) {
+					print "ERROR: Can't get details for orig file $file_orig\n";
+				}
 				if ( $delta >= $maxdelta )
 				{
 					push @{ $emails_to_send{'maxdelta'} }, {
@@ -1077,6 +1081,9 @@ sub check_file
 	my $translation_translator  = $transcheck->maintainer() || undef;
 	my $translation_maxdelta    = $transcheck->maxdelta()   || undef;
 
+	if (!defined $orig_last_change) {
+		$orig_last_change = "<UNKNOWN>";
+	}
 	verbose "Checking $file_translation, $orig revision $orig_last_change";
 
 	# status information
