@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="fce042d9dcdefa00f89c0eafd4e31a5a2d7ef7db"
+#use wml::debian::translation-check-inc translation="fce042d9dcdefa00f89c0eafd4e31a5a2d7ef7db" force_file="Bugs/otherpages.inc"
 
 <p>Druge BTS stranice:
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="c57eea2e295b4c8e57b0998c9edc22613239fa0f"
+#use wml::debian::translation-check-inc translation="c57eea2e295b4c8e57b0998c9edc22613239fa0f" force_file="Bugs/otherpages.inc"
 
 <p>További oldalak:</p>
 <ul>

@@ -1,6 +1,6 @@
 #use wml::debian::language_names
 #use wml::debian::common_tags
-#use wml::debian::translation-check translation="c9572f22f4a5fc60f741c1ce9d1f15161bcde1ea"
+#use wml::debian::translation-check-inc translation="c9572f22f4a5fc60f741c1ce9d1f15161bcde1ea" force_file="distrib/search_packages-form.inc"
 
 <bind-gettext-domain domain="distrib" />
 

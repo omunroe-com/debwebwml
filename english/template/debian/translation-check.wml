@@ -5,10 +5,10 @@
 # This file is used to track when translations go out-of-date, and it is
 # used by including this in the head of the translated file:
 #
-# #use wml::debian::translation-check translation="X.xx"
+# #use wml::debian::translation-check translation="XXXXXXXXXXXXXXXXXX"
 #
-# where X.xx is the current GIT revision number of the file you have
-# translated.
+# where XXXXXXXXXXXXXXXXXX is the current git revision of the file you
+# have translated.
 #
 # There are also some additional parameters that you can use on the #use
 # line:
@@ -19,13 +19,13 @@
 # to the name in languages.wml
 #
 #    mindelta="number"
-# which defines the maximum difference in GIT revisions before the
+# which defines the maximum difference in git revisions before the
 # translation is considered aged. The default value is 1. For less important
 # pages, set it to 2, which means that not every change is considered making
 # the translation aged. The value for the <aged/> tag is displayed.
 #
 #    maxdelta="number"
-# which defines the maximum difference in GIT revisions before the
+# which defines the maximum difference in git revisions before the
 # translation is considered to be outdated (and the value of the <outdated/>
 # tag is displayed). The default value is 5. For very important pages, set
 # it to be less. A value of 1 means that every change is considered making
@@ -72,7 +72,7 @@ use Local::VCS ':all';
 sub check_translation {
 
     # Input parameters:
-    my ($translation, $file, $original, $mindelta, $maxdelta) = @_;
+    my ($translation, $file, $original, $mindelta, $maxdelta, $force_file) = @_;
 
     my $parents, $level, $relative_dir, $output;
     my @relative_dir = ();
@@ -86,7 +86,7 @@ sub check_translation {
     $min_versions = $mindelta || 1;
 
     # Set this to >= 1 to get debugging output.
-    # Remember, if you checkin to GIT this needs to be set to 0!
+    # Remember, if you commit to git this needs to be set to 0!
     $debug = 0;
 
     # This is the language code of the original (to make a link)
@@ -111,8 +111,18 @@ sub check_translation {
     pop @relative_dir;
     @relative_dir = reverse @relative_dir;
     $relative_dir = join '/', @relative_dir;
-    my $orig_file = "$parents/$original_dir/$relative_dir/$file";
 
+    my $orig_file = "$parents/$original_dir/$relative_dir/$file";
+    if (defined $force_file && length($force_file) > 1) {
+	if ($debug) {
+	    print "Ignoring $file, forcing to $force_file instead\n";
+	    print "original $orig_file\n";
+	}
+	$orig_file = "$parents/$original_dir/$force_file";
+	if ($debug) {
+	    print "now $orig_file\n";
+	}
+    }
     my $VCS = Local::VCS->new();
     my %file_info = $VCS->file_info($orig_file);
     $version = $file_info{'cmt_rev'};
@@ -157,7 +167,7 @@ sub check_translation {
 
 # The call to the subroutine is done here
 {#check_trans#:\
-<: check_translation ("$(translation)","$WML_SRC_FILENAME","$(original)","$(mindelta)","$(maxdelta)") :>\
+<: check_translation ("$(translation)","$WML_SRC_FILENAME","$(original)","$(mindelta)","$(maxdelta)","$(force_file)") :>\
 :#check_trans#}
 
 # This template was originally made by Javier Fernández-Sanguino, described

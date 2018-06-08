@@ -1,6 +1,6 @@
 #use wml::debian::language_names
 #use wml::debian::common_tags
-#use wml::debian::translation-check translation="6c09c87719ede90b6ec0d2e2480b1f57a54eb8f8"
+#use wml::debian::translation-check-inc translation="6c09c87719ede90b6ec0d2e2480b1f57a54eb8f8" force_file="Bugs/pkgreport-opts.inc"
 
 <bind-gettext-domain domain="bugs" />
 
