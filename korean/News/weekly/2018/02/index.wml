@@ -43,40 +43,30 @@ RSS-피드는 @debian 프로필을 여러 사회망에서도 제공합니다.</p
 #the YYYY update of its oldstable distribution Debian 8 (codename <q>Jessie</q>) on DD Month 2018
 #to point release 8.Y.</p>
 
-<p>이 포인트 릴리스
-This point release added corrections for security issues,
-along with a few adjustments for serious problems.
-Security advisories have were published separately and are referenced where available.
-
-Upgrading an existing installation to this revision can be achieved
-by pointing the package management system at one of Debian's many HTTP mirrors.
-A comprehensive list of mirrors is available at: <a href="https://www.debian.org/mirror/list">https://www.debian.org/mirror/list</a>
+<p>이 포인트 릴리스는 심각한 문제의 몇 가지 보정과 보안 이슈에 대한 수정을 더했습니다.
+보안 권고는 별도로 게시되었고 가능한 곳에서 참조되었습니다.
+기존 설치를 이 리비전으로 업그레이드 하는 것은 데비안의 많은 http 미러의 중 하나에서 패키지 관리시스템을 카리킴으로써 수행될 수 있습니다.
+가능한 미러의 전체 목록은: <a href="https://www.debian.org/mirror/list">https://www.debian.org/mirror/list</a>
 </p>
 
-<p><b>Notification for upcoming end-of-life for Debian 8</b></p>
-<p>Be advised, DSA has given <a href="https://www.debian.org/security/2018/dsa-4205"> advance notice</a>
-that regular security support for Debian GNU/Linux 8 (code name <q>Jessie</q>) will be terminated on 17 June 2018.
+<p><b>Debian 8 수명 끝 알림</b></p>
+<p>알림, DSA는 데비안 GNU/Linux 8 (code name <q>Jessie</q>)에 대한 정기 보안 지원 이 2018. 6. 17.에끝날 것을 <a href="https://www.debian.org/security/2018/dsa-4205">미리 알림</a>.
 </p>
 
+<p><b>데비안 정책 4.1.4.0 나옴</b></p>
 
-<p><b>Debian Policy 4.1.4.0 released</b></p>
+<p>데비안 정책 매뉴얼 새 버전이
+<a href="https://lists.debian.org/debian-devel-announce/2018/04/msg00001.html">나왔습니다</a>.
+이 <a href="https://www.debian.org/doc/debian-policy/">데비안 정책 매뉴얼</a>은
+데비안 아카이브의 구조와 내용, 각 패키지가 아카이브에 포함되기 위해 만족해야 하는 기술 요구사항, 그리고
+패키지 관리 시스템 개발자가 친해야 하는 것을 다룹니다.</p>
 
-<p>The Debian Policy Manual has had a new version
-<a href="https://lists.debian.org/debian-devel-announce/2018/04/msg00001.html">released</a>.
-The <a href="https://www.debian.org/doc/debian-policy/">Debian Policy Manual</a> deals with the structure
-and contents of the Debian archive, technical requirements each package must
-satisfy to be included in the archive, and the package management
-system developers have to be conversant with.</p>
-
-<p><b>Upcoming shift to Ayatana (App)Indicator(s)</b></p>
-<p>Mike Gabriel <a href="https://lists.debian.org/debian-devel/2018/03/msg00506.html">reports</a> on the upcoming shift to Ayatana Application Indicators
-in Debian and work on generalizing the functionality of indicator icon 
-applications to make them more independent of the desktop environment
-used. The status of the work may be viewed on the <a href="https://wiki.debian.org/Ayatana/IndicatorsTransition">Ayatana Transition page</a>
-with additional background from Mike's <a href="https://debconf17.debconf.org/talks/168/">DebConf17 talk</a>, blog <a href="https://sunweavers.net/blog/node/58">posts</a>, and the <a href="https://qa.debian.org/developer.php?login=pkg-ayatana-devel%40lists.alioth.debian.org">Ayatana Packagers overview page</a>.</p>
+<p><b>다가오는 Ayatana (App)Indicator(s)</b></p>
+<p>Mike Gabriel 은 데비안에서 다가오는 Ayatana Application Indicator 와 그들을 데스크톱 환경에서 좀더 독립적으로 만드는 indicator icon 의 기능성 일반화를 <a href="https://lists.debian.org/debian-devel/2018/03/msg00506.html">보고합니다</a>
+그 일의 상태는 <a href="https://wiki.debian.org/Ayatana/IndicatorsTransition">Ayatana Transition page</a>에서 Mike 배경으로부터 <a href="https://debconf17.debconf.org/talks/168/">DebConf17 talk</a>, blog <a href="https://sunweavers.net/blog/node/58">포스트</a>, 및 <a href="https://qa.debian.org/developer.php?login=pkg-ayatana-devel%40lists.alioth.debian.org">Ayatana Packagers overview page</a>에서 볼 수 있습니다.</p>
 
 
-<p><b>Debian Alioth Migration</p></b>
+<p><b>데비안 Alioth 옮김</p></b>
 
 <p>Debian has migrated several services from our aged <a href="https://wiki.debian.org/Alioth">Alioth</a> server, which ran FusionForge, onto <a href="https://wiki.debian.org/Salsa">Salsa</a>, based on Gitlab software. These changes to our
 infrastructure will allow us to continue to provide needed services, and tools 
@@ -84,7 +74,7 @@ for collaboration. Alexander Wirt gave a <a href="https://gemmei.ftp.acc.umu.se/
 Salsa</a> at the miniDebConf 2018 in Hamburg.</p>
 
 
-<p><b>New and noteworthy packages</b></p>
+<p><b>새롭고 주목할만한 패키지</b></p>
 
 ## alternative wording:
 
@@ -108,26 +98,25 @@ we can find:</p>
 
 <toc-add-entry name="events">Events: Upcoming and Reports</toc-add-entry>
 
-<p><b>Upcoming events</b></p>
+<p><b>다가오는 이벤트</b></p>
 
-<p><b>Debian Bug Squashing Party in Brooklyn, New York, US</b></p>
+<p><b>Debian Bug Squashing 파티, Brooklyn, New York, US</b></p>
 <p>
 On 24 June 2018 The NYC Debian User Group will hold a <a href="https://wiki.debian.org/BSP/2018/06/us/NYC">Bug Squashing Party</a>
 in Brooklyn, New York. For more information view the <a href="https://hashman.ca/nyc-bsp/">invite</a> page and <a href="https://ti.to/nyc-dug/june-bsp">RSVP</a> if interested.
 </p>
 
 
-<p><b>DebConf18 in Hsinshu</b></p>
+<p><b>Hsinshu에서 DebConf18</b></p>
 <p>The <a href="https://debconf18.debconf.org/">19th Annual Debian Conference will be held in Hsinchu, Taiwan</a>, from July 29 to August 5, 2018. It will be preceded by DebCamp, July 21 to July 27, and Open Day, July 28.</p>
 
-<p><b>DebConf19 in Curitiba</b></p>
+<p><b>Curitiba에서 DebConf19</b></p>
 <p><a href="https://wiki.debconf.org/wiki/DebConf19">DebConf 19</a> will be held in Curitiba, Brazil on July 2019. The DebConf 19 organization team recently <a href="http://debianbrasil.org.br/blog/debconf19-has-a-logo">announced</a> the logo contest winner.
 </p>
 
-<p><b>Event Reports</b></p>
+<p><b>이벤트 보고</b></p>
 
-<p>
-A Debian Women Meeting took place in Curitiba, Brazil on 10th March 2018.
+<p>A Debian Women Meeting took place in Curitiba, Brazil on 10th March 2018.
 
 Details of the event and schedule are on their
 <a href="https://debianwomenbr.github.io">
