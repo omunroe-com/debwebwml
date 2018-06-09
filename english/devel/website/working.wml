@@ -295,10 +295,10 @@ will not be updated automatically.</p>
 </p>
 <pre>
    mkdir foo
-   cvs add foo
+   git add foo
    cd foo
    cp ../intro/Makefile .
-   cvs add Makefile
+   git add Makefile
 </pre>
 
 <p>Edit the Makefile in the parent directory and add the directory you just
@@ -308,5 +308,5 @@ the build for when make is run.</p>
 <p>Finally, commit all the changes just made to the repository with
 </p>
 <pre>
-  cvs commit Makefile foo
+  git commit Makefile foo
 </pre>
