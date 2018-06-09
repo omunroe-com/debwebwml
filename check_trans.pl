@@ -176,7 +176,7 @@ sub verbose;
 	my $subdir = $OPT{'s'} || undef;
 
 	my $VCS = Local::VCS->new();
-	print "Caching VCS for performancs...\n";
+	print "Caching VCS for performance...\n";
 	$VCS->cache_repo();
 	print "   ...done\n";
 
