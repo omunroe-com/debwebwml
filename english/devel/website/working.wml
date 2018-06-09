@@ -107,7 +107,8 @@ quickly by a single person.</p>
 the webwml git module.</p>
 
 <h4>Usage of smart_change.pl</h4>
-
+#### salsa use git, not cvs
+#### Please update following description for git
 <pre>smart_change.pl [options] origfile</pre>
 
 <p>Currently only files in <code>/english/</code> are allowed as
