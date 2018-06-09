@@ -67,7 +67,7 @@ RSS-피드는 @debian 프로필을 여러 사회망에서도 제공합니다.</p
 그 일의 상태는 <a href="https://wiki.debian.org/Ayatana/IndicatorsTransition">Ayatana Transition page</a>에서 Mike 배경으로부터 <a href="https://debconf17.debconf.org/talks/168/">DebConf17 talk</a>, blog <a href="https://sunweavers.net/blog/node/58">포스트</a>, 및 <a href="https://qa.debian.org/developer.php?login=pkg-ayatana-devel%40lists.alioth.debian.org">Ayatana Packagers overview page</a>에서 볼 수 있습니다.</p>
 
 
-<p><b>데비안 Alioth 옮김</p></b>
+<p><b>데비안 Alioth 옮김</b></p>
 
 <p>데비안은 우리의 오래된 <a href="https://wiki.debian.org/Alioth">Alioth</a> 서버(FusionForge에서 돌아감)에서 <a href="https://wiki.debian.org/Salsa">Salsa</a>(Gitlab 소프트웨어 기반)로 이주했습니다.
 이 변화는 우리의 기반을 필요한 서비스 및 협업 도구를 계속 제공할 수 있게 했습니다.
@@ -81,8 +81,7 @@ Alexander Wirt는 <a href="https://gemmei.ftp.acc.umu.se/pub/debian-meetings/201
 
 <p>지난 주에
 <a href="https://packages.debian.org/unstable/main/newpkg">불안정 데비안 아카이브에 더해진
-많은 패키지</a> 중에서, 다음을 찾을 수 있습니다:
-</p>
+많은 패키지</a> 중에서, 다음을 찾을 수 있습니다:</p>
 
 <ul><p>
 <li><a href="https://packages.debian.org/sid/wig">wig</a> - WebApp Information Gatherer which can identify numerous Content Management Systems and other administrative applications.</li>
