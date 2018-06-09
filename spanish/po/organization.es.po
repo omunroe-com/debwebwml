@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: organization\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-18 13:11+0100\n"
+"PO-Revision-Date: 2018-06-10 01:30+0200\n"
 "Last-Translator: Laura Arjona Reina <larjona@debian.org>\n"
 "Language-Team: Debian Spanish <debian-l10n-spanish@lists.debian.org>\n"
 "Language: es\n"
@@ -23,7 +23,7 @@ msgstr "correo de delegación"
 
 #: ../../english/intro/organization.data:16
 msgid "appointment mail"
-msgstr "correo de delegación"
+msgstr "correo de nombramiento"
 
 #. One male delegate
 #: ../../english/intro/organization.data:18
@@ -51,7 +51,7 @@ msgstr "gestor"
 
 #: ../../english/intro/organization.data:34
 msgid "SRM"
-msgstr "SRM"
+msgstr "SRM (resp. public. vers. estable)"
 
 #: ../../english/intro/organization.data:34
 msgid "Stable Release Manager"
@@ -74,216 +74,221 @@ msgid "secretary"
 msgstr "secretario"
 
 #: ../../english/intro/organization.data:53
-#: ../../english/intro/organization.data:63
+#: ../../english/intro/organization.data:66
 msgid "Officers"
 msgstr "Directores"
 
 #: ../../english/intro/organization.data:54
-#: ../../english/intro/organization.data:87
+#: ../../english/intro/organization.data:90
 msgid "Distribution"
 msgstr "Distribución"
 
 #: ../../english/intro/organization.data:55
-#: ../../english/intro/organization.data:229
+#: ../../english/intro/organization.data:232
 msgid "Communication and Outreach"
 msgstr "Comunicación y extensión"
 
-#: ../../english/intro/organization.data:56
-#: ../../english/intro/organization.data:232
+#: ../../english/intro/organization.data:57
+#: ../../english/intro/organization.data:235
+msgid "Data Protection team"
+msgstr "Equipo de protección de datos"
+
+#: ../../english/intro/organization.data:58
+#: ../../english/intro/organization.data:239
 msgid "Publicity team"
 msgstr "Equipo de publicidad"
 
-#: ../../english/intro/organization.data:57
-#: ../../english/intro/organization.data:300
+#: ../../english/intro/organization.data:60
+#: ../../english/intro/organization.data:303
 msgid "Support and Infrastructure"
 msgstr "Apoyo e infrastructura"
 
 #. formerly Custom Debian Distributions (CCDs); see https://blends.debian.org/blends/ch-about.en.html#s-Blends
-#: ../../english/intro/organization.data:59
+#: ../../english/intro/organization.data:62
 msgid "Debian Pure Blends"
-msgstr "Debian Pure Blends"
+msgstr "Mezclas puras de Debian («Pure Blends»)"
 
-#: ../../english/intro/organization.data:66
+#: ../../english/intro/organization.data:69
 msgid "Leader"
 msgstr "Líder"
 
-#: ../../english/intro/organization.data:68
+#: ../../english/intro/organization.data:71
 msgid "Technical Committee"
 msgstr "Comité técnico"
 
-#: ../../english/intro/organization.data:82
+#: ../../english/intro/organization.data:85
 msgid "Secretary"
 msgstr "Secretario"
 
-#: ../../english/intro/organization.data:90
+#: ../../english/intro/organization.data:93
 msgid "Development Projects"
 msgstr "Proyectos de desarrollo"
 
-#: ../../english/intro/organization.data:91
+#: ../../english/intro/organization.data:94
 msgid "FTP Archives"
 msgstr "Archivo FTP"
 
-#: ../../english/intro/organization.data:93
+#: ../../english/intro/organization.data:96
 msgid "FTP Masters"
 msgstr "Responsables del FTP"
 
-#: ../../english/intro/organization.data:99
+#: ../../english/intro/organization.data:102
 msgid "FTP Assistants"
 msgstr "Ayudantes de FTP"
 
-#: ../../english/intro/organization.data:104
+#: ../../english/intro/organization.data:107
 msgid "FTP Wizards"
 msgstr "Magos del FTP"
 
-#: ../../english/intro/organization.data:108
+#: ../../english/intro/organization.data:111
 msgid "Backports"
 msgstr "Backports"
 
-#: ../../english/intro/organization.data:110
+#: ../../english/intro/organization.data:113
 msgid "Backports Team"
-msgstr "Grupo de Backports"
+msgstr "Equipo de adaptaciones a estable («backports»)"
 
-#: ../../english/intro/organization.data:114
+#: ../../english/intro/organization.data:117
 msgid "Individual Packages"
 msgstr "Paquetes individuales"
 
-#: ../../english/intro/organization.data:115
+#: ../../english/intro/organization.data:118
 msgid "Release Management"
-msgstr "Gestión de la publicación versiones"
+msgstr "Gestión de la publicación de versiones"
 
-#: ../../english/intro/organization.data:117
+#: ../../english/intro/organization.data:120
 msgid "Release Team"
 msgstr "Equipo responsable de la publicación"
 
-#: ../../english/intro/organization.data:130
+#: ../../english/intro/organization.data:133
 msgid "Quality Assurance"
 msgstr "Garantía de calidad"
 
-#: ../../english/intro/organization.data:131
+#: ../../english/intro/organization.data:134
 msgid "Installation System Team"
 msgstr "Equipo del sistema de instalación"
 
-#: ../../english/intro/organization.data:132
+#: ../../english/intro/organization.data:135
 msgid "Release Notes"
 msgstr "Notas de la publicación"
 
-#: ../../english/intro/organization.data:134
+#: ../../english/intro/organization.data:137
 msgid "CD Images"
 msgstr "Imágenes de CD"
 
-#: ../../english/intro/organization.data:136
+#: ../../english/intro/organization.data:139
 msgid "Production"
 msgstr "Producción"
 
-#: ../../english/intro/organization.data:144
+#: ../../english/intro/organization.data:147
 msgid "Testing"
 msgstr "Pruebas"
 
-#: ../../english/intro/organization.data:146
+#: ../../english/intro/organization.data:149
 msgid "Autobuilding infrastructure"
 msgstr "Infrastructura de autocompiladores"
 
-#: ../../english/intro/organization.data:148
+#: ../../english/intro/organization.data:151
 msgid "Wanna-build team"
 msgstr "Equipo de wanna-build"
 
-#: ../../english/intro/organization.data:156
+#: ../../english/intro/organization.data:159
 msgid "Buildd administration"
 msgstr "Administración de buildd"
 
-#: ../../english/intro/organization.data:175
+#: ../../english/intro/organization.data:178
 msgid "Documentation"
 msgstr "Documentación"
 
-#: ../../english/intro/organization.data:180
+#: ../../english/intro/organization.data:183
 msgid "Work-Needing and Prospective Packages list"
 msgstr "Lista de paquetes en perspectiva o en los que se necesita ayuda"
 
-#: ../../english/intro/organization.data:183
+#: ../../english/intro/organization.data:186
 msgid "Debian Live Team"
 msgstr "Equipo de Debian «en vivo»"
 
-#: ../../english/intro/organization.data:184
+#: ../../english/intro/organization.data:187
 msgid "Ports"
 msgstr "Adaptaciones"
 
-#: ../../english/intro/organization.data:219
-msgid "Special Configurations"
-msgstr "Configuraciones Especiales"
-
 #: ../../english/intro/organization.data:222
+msgid "Special Configurations"
+msgstr "Configuraciones especiales"
+
+#: ../../english/intro/organization.data:225
 msgid "Laptops"
 msgstr "Portátiles"
 
-#: ../../english/intro/organization.data:223
+#: ../../english/intro/organization.data:226
 msgid "Firewalls"
 msgstr "Cortafuegos"
 
-#: ../../english/intro/organization.data:224
+#: ../../english/intro/organization.data:227
 msgid "Embedded systems"
 msgstr "Sistemas embebidos"
 
-#: ../../english/intro/organization.data:237
+#: ../../english/intro/organization.data:242
 msgid "Press Contact"
-msgstr "Contacto de Prensa"
+msgstr "Contacto de prensa"
 
-#: ../../english/intro/organization.data:239
+#: ../../english/intro/organization.data:244
 msgid "Web Pages"
 msgstr "Páginas web"
 
-#: ../../english/intro/organization.data:249
+#: ../../english/intro/organization.data:254
 msgid "Planet Debian"
 msgstr "Planeta Debian"
 
-#: ../../english/intro/organization.data:254
+#: ../../english/intro/organization.data:259
 msgid "Outreach"
 msgstr "Extensión"
 
-#: ../../english/intro/organization.data:258
+#: ../../english/intro/organization.data:263
 msgid "Debian Women Project"
-msgstr "Proyectos Mujeres Debian"
+msgstr "Proyecto Mujeres Debian"
 
-#: ../../english/intro/organization.data:266
+#: ../../english/intro/organization.data:271
 msgid "Anti-harassment"
 msgstr "Anti acoso"
 
-#: ../../english/intro/organization.data:272
+#: ../../english/intro/organization.data:275
 msgid "Events"
 msgstr "Eventos"
 
-#: ../../english/intro/organization.data:278
+#: ../../english/intro/organization.data:281
 msgid "DebConf Committee"
 msgstr "Comité de la DebConf"
 
-#: ../../english/intro/organization.data:285
+#: ../../english/intro/organization.data:288
 msgid "Partner Program"
 msgstr "Programa de Socios"
 
-#: ../../english/intro/organization.data:290
+#: ../../english/intro/organization.data:293
 msgid "Hardware Donations Coordination"
 msgstr "Coordinación de donaciones de hardware"
 
-#: ../../english/intro/organization.data:303
+#: ../../english/intro/organization.data:306
 msgid "User support"
 msgstr "Soporte a usuarios"
 
-#: ../../english/intro/organization.data:370
+#: ../../english/intro/organization.data:373
 msgid "Bug Tracking System"
 msgstr "Sistema de seguimiento de errores"
 
-#: ../../english/intro/organization.data:375
+#: ../../english/intro/organization.data:378
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Administración de las listas de correo y de los archivos de las listas"
 
-#: ../../english/intro/organization.data:383
+#: ../../english/intro/organization.data:386
 msgid "New Members Front Desk"
 msgstr "Recepción de nuevos miembros"
 
-#: ../../english/intro/organization.data:389
+#: ../../english/intro/organization.data:392
 msgid "Debian Account Managers"
 msgstr "Gestores de cuentas de Debian"
 
-#: ../../english/intro/organization.data:393
+#: ../../english/intro/organization.data:396
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
@@ -291,40 +296,40 @@ msgstr ""
 "Para enviar un mensaje privado a todos los Gestores de cuentas de Debian, "
 "use la clave GPG 57731224A9762EA155AB2A530CA8D15BB24D96F2."
 
-#: ../../english/intro/organization.data:394
+#: ../../english/intro/organization.data:397
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Responsable del anillo de claves (PGP y GPG)"
 
-#: ../../english/intro/organization.data:397
+#: ../../english/intro/organization.data:400
 msgid "Security Team"
 msgstr "Equipo de seguridad"
 
-#: ../../english/intro/organization.data:409
+#: ../../english/intro/organization.data:412
 msgid "Consultants Page"
 msgstr "Página de consultores"
 
-#: ../../english/intro/organization.data:414
+#: ../../english/intro/organization.data:417
 msgid "CD Vendors Page"
 msgstr "Página de vendedores de CDs"
 
-#: ../../english/intro/organization.data:417
+#: ../../english/intro/organization.data:420
 msgid "Policy"
 msgstr "Normativa"
 
-#: ../../english/intro/organization.data:422
+#: ../../english/intro/organization.data:425
 msgid "System Administration"
 msgstr "Administración del sistema"
 
-#: ../../english/intro/organization.data:423
+#: ../../english/intro/organization.data:426
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
 msgstr ""
 "Esta es la dirección a usar en caso de encontrar problemas en alguna de las "
-"máquinas de Debian, incluyendo problemas con las claves o si usted necesita "
-"que se instale algun paquete."
+"máquinas de Debian, incluyendo problemas con las contraseñas o si necesita "
+"que se instale algún paquete."
 
-#: ../../english/intro/organization.data:432
+#: ../../english/intro/organization.data:435
 msgid ""
 "If you have hardware problems with Debian machines, please see <a href="
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
@@ -334,92 +339,154 @@ msgstr ""
 "<a href=\"https://db.debian.org/machines.cgi\">Máquinas de Debian</a>, que "
 "debería contener información del administrador de cada máquina."
 
-#: ../../english/intro/organization.data:433
+#: ../../english/intro/organization.data:436
 msgid "LDAP Developer Directory Administrator"
 msgstr "Administrador del directorio LDAP de desarrolladores"
 
-#: ../../english/intro/organization.data:434
+#: ../../english/intro/organization.data:437
 msgid "Mirrors"
 msgstr "Réplicas"
 
-#: ../../english/intro/organization.data:441
+#: ../../english/intro/organization.data:444
 msgid "DNS Maintainer"
 msgstr "Responsable del DNS"
 
-#: ../../english/intro/organization.data:442
+#: ../../english/intro/organization.data:445
 msgid "Package Tracking System"
 msgstr "Sistema de seguimiento de paquetes"
 
-#: ../../english/intro/organization.data:444
+#: ../../english/intro/organization.data:447
 msgid "Treasurer"
 msgstr "Tesorería"
 
-#: ../../english/intro/organization.data:450
+#: ../../english/intro/organization.data:453
 msgid ""
 "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr ""
 "Solicitudes de uso de la <a name=\"trademark\" href=\"m4_HOME/trademark"
 "\">Marca Registrada</a>"
 
-#: ../../english/intro/organization.data:453
+#: ../../english/intro/organization.data:456
 msgid "Salsa administrators"
 msgstr "Administradores de Salsa"
 
-#: ../../english/intro/organization.data:457
+#: ../../english/intro/organization.data:460
 msgid "Alioth administrators"
 msgstr "Administradores de Alioth"
 
-#: ../../english/intro/organization.data:470
+#: ../../english/intro/organization.data:473
 msgid "Debian for children from 1 to 99"
 msgstr "Debian para niños de 1 a 99"
 
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:476
 msgid "Debian for medical practice and research"
 msgstr "Debian para investigación y práctica médica"
 
-#: ../../english/intro/organization.data:476
+#: ../../english/intro/organization.data:479
 msgid "Debian for education"
 msgstr "Debian para la educación"
 
-#: ../../english/intro/organization.data:481
+#: ../../english/intro/organization.data:484
 msgid "Debian in legal offices"
 msgstr "Debian en oficinas de abogados"
 
-#: ../../english/intro/organization.data:485
+#: ../../english/intro/organization.data:488
 msgid "Debian for people with disabilities"
 msgstr "Debian para personas con discapacidades"
 
-#: ../../english/intro/organization.data:489
+#: ../../english/intro/organization.data:492
 msgid "Debian for science and related research"
 msgstr "Debian para la ciencia e investigación relacionada"
 
-#: ../../english/intro/organization.data:492
+#: ../../english/intro/organization.data:495
 msgid "Debian for astronomy"
 msgstr "Debian para la astronomía"
 
-#~ msgid "Volatile Team"
-#~ msgstr "Equipo responsable de «volatile»"
+#~ msgid "Auditor"
+#~ msgstr "Auditor"
 
-#~ msgid "Vendors"
-#~ msgstr "Vendedores"
+#~ msgid "Live System Team"
+#~ msgstr "Equipo del sistema de instalación «live»"
 
-#~ msgid "Custom Debian Distributions"
-#~ msgstr "Distribuciones Debian Derivadas"
+#~ msgid "Publicity"
+#~ msgstr "Publicidad"
 
-#~ msgid "Release Team for ``stable''"
-#~ msgstr "Equipo responsable de la publicación de «estable»"
+#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
+#~ msgstr "Grupo de gestión del anillo de claves de los desarrolladores Debian"
 
-#~ msgid "APT Team"
-#~ msgstr "Equipo de APT"
+#~ msgid "DebConf chairs"
+#~ msgstr "organizadores de Debconf"
+
+#~ msgid "Bits from Debian"
+#~ msgstr "Bits de Debian"
+
+#~ msgid "current Debian Project Leader"
+#~ msgstr "Líder del Proyecto Debian actual"
+
+#~ msgid "Testing Security Team"
+#~ msgstr "Equipo de seguridad de la distribución «en pruebas»"
+
+#~ msgid "Security Audit Project"
+#~ msgstr "Proyecto de auditoría de seguridad"
+
+#~ msgid "Handhelds"
+#~ msgstr "Agendas electrónicas y similares"
+
+#~ msgid "Marketing Team"
+#~ msgstr "Equipo de marketing"
+
+#~ msgid "Key Signing Coordination"
+#~ msgstr "Coordinación de firma de claves"
+
+#~ msgid "Release Assistants"
+#~ msgstr "Asistentes a la publicación de versiones"
+
+#~ msgid "Release Assistants for ``stable''"
+#~ msgstr "Asistentes a la publicación de «estable»"
+
+# JFS: Seguramente haya una mejor traducción...
+#~ msgid "Release Wizard"
+#~ msgstr "Mago de la publicación"
+
+#~ msgid "Debian Multimedia Distribution"
+#~ msgstr "Distribución multimedia Debian"
 
 #~ msgid ""
-#~ "The admins responsible for buildd's for a particular arch can be reached "
-#~ "at <genericemail arch@buildd.debian.org>, for example <genericemail "
-#~ "i386@buildd.debian.org>."
+#~ "This is not yet an official Debian internal project but it has announced "
+#~ "the intention to be integrated."
 #~ msgstr ""
-#~ "Puede contactar con los administadores responsables para los buildd de "
-#~ "una arquitectura específica en la dirección <genericemail arch@buildd."
-#~ "debian.org>. Por ejemplo: <genericemail i386@buildd.debian.org>."
+#~ "Éste no es aún un proyecto interno oficial de Debian pero ha anunciado su "
+#~ "intención de integrarse."
+
+#~ msgid "Mailing List Archives"
+#~ msgstr "Archivos de las listas de correo"
+
+#~ msgid "Debian GNU/Linux for Enterprise Computing"
+#~ msgstr "Debian GNU/Linux para el cómputo empresarial"
+
+#~ msgid "Delegates"
+#~ msgstr "Delegados"
+
+#~ msgid "Installation"
+#~ msgstr "Instalación"
+
+#~ msgid "Mailing list"
+#~ msgstr "Lista de correo"
+
+#~ msgid "Internal Projects"
+#~ msgstr "Proyectos internos"
+
+#~ msgid "Installation System for ``stable''"
+#~ msgstr "Sistema de instalación de la versión «estable»"
+
+#~ msgid "Debian for non-profit organisations"
+#~ msgstr "Debian para asociaciones sin ánimo de lucro"
+
+#~ msgid "The Universal Operating System as your Desktop"
+#~ msgstr "El sistema operativo universal como su escritorio"
+
+#~ msgid "Accountant"
+#~ msgstr "Contabilidad"
 
 #~ msgid ""
 #~ "Names of individual buildd's admins can also be found on <a href=\"http://"
@@ -431,88 +498,26 @@ msgstr "Debian para la astronomía"
 #~ "a>. Escoja una arquitectura y distribución para ver la lista de máquinas "
 #~ "buildd disponibles y sus administradores."
 
-#~ msgid "Accountant"
-#~ msgstr "Contabilidad"
-
-#~ msgid "The Universal Operating System as your Desktop"
-#~ msgstr "El sistema operativo universal como su escritorio"
-
-#~ msgid "Debian for non-profit organisations"
-#~ msgstr "Debian para asociaciones sin ánimo de lucro"
-
-#~ msgid "Installation System for ``stable''"
-#~ msgstr "Sistema de instalación de la versión «estable»"
-
-#~ msgid "Internal Projects"
-#~ msgstr "Proyectos internos"
-
-#~ msgid "Mailing list"
-#~ msgstr "Lista de correo"
-
-#~ msgid "Installation"
-#~ msgstr "Instalación"
-
-#~ msgid "Delegates"
-#~ msgstr "Delegados"
-
-#~ msgid "Debian GNU/Linux for Enterprise Computing"
-#~ msgstr "Debian GNU/Linux para el cómputo empresarial"
-
-#~ msgid "Mailing List Archives"
-#~ msgstr "Archivos de las listas de correo"
-
 #~ msgid ""
-#~ "This is not yet an official Debian internal project but it has announced "
-#~ "the intention to be integrated."
+#~ "The admins responsible for buildd's for a particular arch can be reached "
+#~ "at <genericemail arch@buildd.debian.org>, for example <genericemail "
+#~ "i386@buildd.debian.org>."
 #~ msgstr ""
-#~ "Éste no es aún un proyecto interno oficial de Debian pero ha anunciado su "
-#~ "intención de integrarse."
+#~ "Puede contactar con los administadores responsables para los buildd de "
+#~ "una arquitectura específica en la dirección <genericemail arch@buildd."
+#~ "debian.org>. Por ejemplo: <genericemail i386@buildd.debian.org>."
 
-#~ msgid "Debian Multimedia Distribution"
-#~ msgstr "Distribución multimedia Debian"
+#~ msgid "APT Team"
+#~ msgstr "Equipo de APT"
 
-# JFS: Seguramente haya una mejor traducción...
-#~ msgid "Release Wizard"
-#~ msgstr "Mago de la publicación"
+#~ msgid "Release Team for ``stable''"
+#~ msgstr "Equipo responsable de la publicación de «estable»"
 
-#~ msgid "Release Assistants for ``stable''"
-#~ msgstr "Asistentes a la publicación de «estable»"
+#~ msgid "Custom Debian Distributions"
+#~ msgstr "Distribuciones Debian Derivadas"
 
-#~ msgid "Release Assistants"
-#~ msgstr "Asistentes a la publicación de versiones"
+#~ msgid "Vendors"
+#~ msgstr "Vendedores"
 
-#~ msgid "Key Signing Coordination"
-#~ msgstr "Coordinación de firma de claves"
-
-#~ msgid "Marketing Team"
-#~ msgstr "Equipo de marketing"
-
-#~ msgid "Handhelds"
-#~ msgstr "Agendas electrónicas y similares"
-
-#~ msgid "Security Audit Project"
-#~ msgstr "Proyecto de auditoría de seguridad"
-
-#~ msgid "Testing Security Team"
-#~ msgstr "Equipo de seguridad de la distribución «en pruebas»"
-
-#~ msgid "current Debian Project Leader"
-#~ msgstr "Líder del Proyecto Debian actual"
-
-#~ msgid "Bits from Debian"
-#~ msgstr "Bits de Debian"
-
-#~ msgid "DebConf chairs"
-#~ msgstr "organizadores de Debconf"
-
-#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
-#~ msgstr "Grupo de gestión del anillo de claves de los desarrolladores Debian"
-
-#~ msgid "Publicity"
-#~ msgstr "Publicidad"
-
-#~ msgid "Live System Team"
-#~ msgstr "Equipo del sistema de instalación «live»"
-
-#~ msgid "Auditor"
-#~ msgstr "Auditor"
+#~ msgid "Volatile Team"
+#~ msgstr "Equipo responsable de «volatile»"
