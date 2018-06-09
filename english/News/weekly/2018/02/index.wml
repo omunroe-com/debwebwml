@@ -78,7 +78,7 @@ used. The status of the work may be viewed on the <a href="https://wiki.debian.o
 with additional background from Mike's <a href="https://debconf17.debconf.org/talks/168/">DebConf17 talk</a>, blog <a href="https://sunweavers.net/blog/node/58">posts</a>, and the <a href="https://qa.debian.org/developer.php?login=pkg-ayatana-devel%40lists.alioth.debian.org">Ayatana Packagers overview page</a>.</p>
 
 
-<p><b>Debian Alioth Migration</p></b>
+<p><b>Debian Alioth Migration</b></p>
 
 <p>Debian has migrated several services from our aged <a href="https://wiki.debian.org/Alioth">Alioth</a> server, which ran FusionForge, onto <a href="https://wiki.debian.org/Salsa">Salsa</a>, based on Gitlab software. These changes to our
 infrastructure will allow us to continue to provide needed services, and tools 
@@ -95,7 +95,7 @@ Salsa</a> at the miniDebConf 2018 in Hamburg.</p>
 many other packages that were added to the unstable Debian archive</a> in the past weeks,
 we can find:</p>
 
-<ul><p>
+<ul>
 <li><a href="https://packages.debian.org/sid/wig">wig</a> - WebApp Information Gatherer which can identify numerous Content Management Systems and other administrative applications.</li>
 <li><a href="https://packages.debian.org/sid/turing">turing</a> - Turing is a free and cross-platform app whose main goal is to assist the learning of algorithms and programming languages by providing easy-to-use development tools to all.</li>
 <li><a href="https://packages.debian.org/sid/libtoxcore2"> libtoxcore2 </a>- Tox provides an encrypted, distributed, and extensible peer-to-peer platform that can be used for various forms of communication.</li>
@@ -103,9 +103,8 @@ we can find:</p>
 
 <p><a href="https://packages.debian.org/stretch/allpackages">Noteworthy packages in stable</a></p>
 <ul>
-<li><a href="https://packages.debian.org/stretch/youtube-dl">youtube-dl</a> - Fetch and process music from YouTube using youtube-dl and ffmpeg.</lia>
+<li><a href="https://packages.debian.org/stretch/youtube-dl">youtube-dl</a> - Fetch and process music from YouTube using youtube-dl and ffmpeg.</li>
 <li><a href="https://packages.debian.org/search?keywords=gitlab-cli">gitlab-cli</a> - Command line interface to the GitLab API v3.</li>
-</p>
 </ul>
 
 <toc-add-entry name="events">Events: Upcoming and Reports</toc-add-entry>

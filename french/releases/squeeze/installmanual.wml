@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2" maintainer="Jean-Edouard Babin"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Jean-Edouard Babin"
 #use wml::debian::template title="Debian&nbsp;Squeeze &mdash; Manuel d'installation" BARETITLE=true
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/arches.data"
@@ -12,7 +12,7 @@ informations presentées ici peuvent être dépassées et/ou incorrectes en rais
 des changements effectués sur l'installateur. Vous pouvez être intéressé par le
 <a href="../lenny/installmanual">manuel d'installation de Debian 5.0,
 surnommée Lenny</a>, qui est la dernière version publiée de Debian ; ou par la
-<a href="https://d-i.alioth.debian.org/manual/">version de développement du manuel d'installation</a>,
+<a href="https://d-i.debian.org/manual/">version de développement du manuel d'installation</a>,
 qui est la version la plus à jour de ce document.</p>
 </if-stable-release>
 

@@ -1,10 +1,10 @@
-#use wml::debian::translation-check translation="b01ebc78413fbaf812aaa2a39405e47c4407f143" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d1349d64259929502ddfccc844f3c2995b566934" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Marcus Brinkmann a découvert que GnuPG réalisait un nettoyage
 insuffisant des noms de fichiers affichés dans les messages d'état, ce qui
 pourrait être détourné pour falsifier l'état de vérification d'un courriel
-signé..</p>
+signé.</p>
 
 <p>Plus de détails sont disponibles dans l'annonce amont à l'adresse
 <a href="https://lists.gnupg.org/pipermail/gnupg-announce/2018q2/000425.html">\

@@ -4,7 +4,7 @@
 ##   reviewd by native speakers;  translators can start their work now
 ## * Use "sent" if the issue has been sent our; furhter changes should now
 ##   be done in Debian's webwml repository
-# Status: [open-for-edit|content-frozen|sent]
+# Status: sent
 # $Id$
 # $Rev: 5854 $
 
@@ -28,7 +28,7 @@
 ## Leaving translation at 1.1 is okay; that's the first version which will
 ## be added to Debian's webwml repository
 ##
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Cédric Boutillier"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Cédric Boutillier"
 
 
 ## You may use plain HTML here; we recommend to stick with paragraphs,
@@ -52,7 +52,7 @@ Cependant, certaines restrictions ont été appliquées à ce qui est couvert
 par la prise en charge à long terme de Squeeze.
 Par exemple, seules les architectures PC x86 (amd64 et i386) sont prises en charge
 et
-<a href="https://anonscm.debian.org/cgit/collab-maint/debian-security-support.git/plain/security-support-ended.deb6">certains
+<a href="https://salsa.debian.org/debian/debian-security-support/blob/master/security-support-ended.deb6">certains
 paquets pourtant populaires</a> ne sont pas pris en charge.
 Par exemple, vous ne pouvez pas faire tourner un dom0 Xen ou un
 hôte KVM avec Squeeze, et il n'y a pas de prise en charge
