@@ -255,9 +255,9 @@ sub title_of {
   <li><linkto "devel/website/translating">
   </ul>
 
-  <ul>
-  <li><linkto "https://alioth.debian.org/">
-  </ul>
+#  <ul>
+#  <li><linkto "https://alioth.debian.org/">
+#  </ul>
 
   <ul>
   <li><linkto "devel/debian-jr/">
