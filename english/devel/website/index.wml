@@ -20,8 +20,7 @@ All discussions involving the web site are held there.</p>
 <ul>
   <li><a href="desc">description of how the web site is organized</a>
     -- <em>recommended reading!</em></li>
-  <li><a href="working">creating or editing pages in English</a></li>
-  <li>
+  <li><a href="working">creating or editing pages in English</a>
     <ul>
       <li><a href="using_git">how to use git</a></li>
       <li><a href="using_cvs">how to use CVS (deprecated)</a></li>
@@ -30,8 +29,7 @@ All discussions involving the web site are held there.</p>
       <li><a href="todo">the to-do list</a></li>
     </ul>
   </li>
-  <li><a href="translating">translating pages</a></li>
-  <li>
+  <li><a href="translating">translating pages</a>
     <ul>
       <li><a href="content_negotiation">content negotiation</a></li>
       <li><a href="uptodate">keeping translations up to date</a></li>
