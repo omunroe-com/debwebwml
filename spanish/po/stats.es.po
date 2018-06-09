@@ -30,7 +30,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Debian Website\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-02-10 21:52+0100\n"
+"PO-Revision-Date: 2018-06-09 18:51+0200\n"
 "Last-Translator: Laura Arjona Reina <larjona@debian.org>\n"
 "Language-Team: Debian L10N Spanish <debian-l10n-spanish@lists.debian.org>\n"
 "Language: es\n"
@@ -38,7 +38,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: ../../english/template/debian/stats_tags.wml:6
 msgid "Debian web site translation statistics"
@@ -93,15 +93,13 @@ msgid "Colored diff"
 msgstr "Diff coloreado"
 
 #: ../../stattrans.pl:524 ../../stattrans.pl:683
-#, fuzzy
-#| msgid "Colored diff"
 msgid "Commit diff"
-msgstr "Diff coloreado"
+msgstr "Diff de los cambios"
 
 #. FIXME - this is clearly wrong, but no idea what's meant to go here!
 #: ../../stattrans.pl:528 ../../stattrans.pl:683
 msgid "Git command line"
-msgstr ""
+msgstr "línea de orden «git»"
 
 #: ../../stattrans.pl:639 ../../stattrans.pl:785
 msgid "Created with <transstatslink>"
