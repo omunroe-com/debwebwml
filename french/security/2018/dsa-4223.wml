@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="839442489177fcfde5909e1358f653f471cb3707" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="d1349d64259929502ddfccc844f3c2995b566934" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Marcus Brinkmann a découvert que GnuPG réalisait un nettoyage
