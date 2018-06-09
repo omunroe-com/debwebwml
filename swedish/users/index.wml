@@ -1,5 +1,5 @@
 #use wml::debian::template title="Vem använder Debian?" BARETITLE=true
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="1b4682542631708b0d30e13d3aab34cb40cddf89"
 #use wml::debian::toc
 #use wml::debian::users_list
 
@@ -30,22 +30,41 @@ Om du vill stå med på denna lista,
 <h2><a name="submissions" id="submissions">Bidrag</a></h2>
 
 <p>
-För att bli tillagd i listan, sänd följande information
-per e-post till
+För att läggas till i listan, sänd följande information
+med e-post till
 <a
 href="mailto:debian-www@lists.debian.org?subject=Who's%20using%20Debian%3F">debian-www@lists.debian.org</a>
-(var vänlig ändra inte i ämnesraden).
+(var vänlig ändra inte i ämnesraden, <q>Who's using Debian</q>, annars kanske vi inte uppmärksammar ditt bidrag).
 Bidragen bör skrivas på engelska.
 Om du inte talar engelska, sänd ditt bidrag till lämplig
 <a href="https://lists.debian.org/i18n.html">översättningslista</a>.
 Observera att ditt brev kommer sändas till en publik sändlista.
 </p>
 
+<p>
+Skicka endast information om organisationer som du representerar. Du kan vara
+tvungen att fråga om tillåtelse i din organisation för du gör ett bidrag här.
+Om du är en konsult som får åtminstone en del av sin inkomst från
+<strong>betalad</strong> support för Debian, gå då istället till vår
+<a href="$(HOME)/consultants/">konsult-sida</a>.
+</p>
+
+<p>
+Var vänlig skicka inte information om privata individer. Vi värderar ditt stöd,
+men vi har inte arbetskraften att underhålla information om alla våra
+individuella användare.
+</p>
+
+<p>
+<strong>Bidra endast information som du är bekväm med att det blir publik
+kunskap.</strong>
+</p>
+
 <ol>
   <li>
    <p>
     Namn på organisationen
-    (på formen <em>avdelning</em>, <em>organisation</em>, <em>stad</em> (valfritt), <em>land</em>).
+    (på formen <em>avdelning</em>, <em>organisation</em>, <em>stad</em> (valfritt), <em>län</em> (valfritt), <em>land</em>).
     Ett exempel är:
     <span lang="en">AI Lab, Massachusetts Institute of Technology, USA</span>
    </p>
@@ -54,10 +73,10 @@ Observera att ditt brev kommer sändas till en publik sändlista.
     inte är det.
    </p>
   </li>
-  <li>Typ av organisation (utbildning, icke-kommersiell, kommersiell, statlig)</li>
-  <li><em>(frivilligt)</em> Länk till ingångssida</li>
+  <li>Typ av organisation (Välj enast en av <q>utbildning</q>, <q>icke-kommersiell</q>, <q>kommersiell</q>, <q>statlig</q>)</li>
+  <li>Länk till hemsida <em>(frivilligt)</em></li>
   <li>
-   Ett stycke eller två som beskriver hur din organisation använder Debian.
+   Ett kort stycke eller två som beskriver hur din organisation använder Debian.
    Försök bifoga detaljer som antalet arbetsstationer/servrar, vilken
    programvara de kör (ni behöver inte ange vilken version) och varför ni valde
    Debian framför konkurrenterna.
