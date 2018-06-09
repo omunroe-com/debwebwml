@@ -53,7 +53,10 @@
 <li><a href="#officers"><gettext domain="organization">Officers</gettext></a></li>
 <li><a href="#distribution"><gettext domain="organization">Distribution</gettext></a></li>
 <li><a href="#commsoutreach"><gettext domain="organization">Communication and Outreach</gettext></a>
-<ul><li><a href="#publicity"><gettext domain="organization">Publicity team</gettext></a></li></ul></li>
+<ul>
+ <li><a href="#data-protection"><gettext domain="organization">Data Protection team</gettext></a></li>
+  <li><a href="#publicity"><gettext domain="organization">Publicity team</gettext></a></li>
+</ul></li>
 <li><a href="#support"><gettext domain="organization">Support and Infrastructure</gettext></a></li>
 # formerly Custom Debian Distributions (CCDs); see https://blends.debian.org/blends/ch-about.en.html#s-Blends
 <li><a href="#blends"><gettext domain="organization">Debian Pure Blends</gettext></a></li>
@@ -229,9 +232,11 @@
 <h3><gettext domain="organization">Communication and Outreach</gettext></h3>
 
 <ul>
-   <job <a name="publicity" href="https://wiki.debian.org/Teams/Publicity"><gettext domain="organization">Publicity team</gettext></a>> <genericemail debian-publicity@lists.debian.org> <delegationmail 20150917134723.GL32659@halon.org.uk>
-    <member>Ana Guerrero Lopez<delegate_female>
-    <member>Cédric Boutillier<delegate_male>
+   <job <a name="data-protection"><gettext domain="organization">Data Protection team</gettext></a>> <genericemail data-protection@debian.org> <delegationmail 1528227688.412908.1397547576.57703279@webmail.messagingengine.com>
+    <member>Jonathan McDowell<delegate_male>
+    <member>Tollef Fog Heen<delegate_male>
+
+    <job <a name="publicity" href="https://wiki.debian.org/Teams/Publicity"><gettext domain="organization">Publicity team</gettext></a>> <genericemail debian-publicity@lists.debian.org> <delegationmail 1527454813.1668886.1387370912.1CCDF411@webmail.messagingengine.com>
     <member>Laura Arjona Reina<delegate_female>
     <member>Donald Norwood<delegate_male>
     <note <gettext domain="organization">Press Contact</gettext> — <genericemail press@debian.org>>
@@ -264,10 +269,8 @@
     <member>Meike Reichle
 
   <job <a name="antiharassment" href="https://wiki.debian.org/AntiHarassment"><gettext domain="organization">Anti-harassment</gettext></a>> <genericemail antiharassment@debian.org>
-    <member>Margarita Manterola
-    <member>Patty Langasek
     <member>Laura Arjona Reina
-    <member>Neil McGovern
+    <member>Martín Ferrari
 
   <job <a name="events" href="$(HOME)/events/"><gettext domain="organization">Events</gettext></a>> <genericemail events@debian.org>
     <member>Alexander Wirt
