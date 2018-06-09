@@ -427,5 +427,4 @@ récent au plus ancien.
 
 <p><a href="https://lists.debian.org/debian-news/">S'inscrire ou se désinscrire </a> de la liste de diffusion Debian News</p>
 
-#use wml::debian::projectnews::footer editor="L'équipe en charge de la publicité avec des contributions de Chris Lamb, Holger Wansing, Jean-Pierre Giraud,
-Justin B Rye, Paulo Henrique de Lima Santana et Thomas Vincent" translator="Jean-Pierre Giraud, l\'équipe francophone de traduction"
+#use wml::debian::projectnews::footer editor="L'équipe en charge de la publicité avec des contributions de Chris Lamb, Holger Wansing, Jean-Pierre Giraud, Justin B Rye, Paulo Henrique de Lima Santana et Thomas Vincent" translator="Jean-Pierre Giraud, l\'équipe francophone de traduction"
