@@ -20,8 +20,7 @@
 <ul>
   <li><a href="desc">웹 사이트가 어떻게 이루어지는지 설명</a>
     -- <em>읽기 추천!</em></li>
-  <li><a href="working">영어 페이지를 만들거나 편집</a></li>
-  <li>
+  <li><a href="working">영어 페이지를 만들거나 편집</a>
     <ul>
       <li><a href="using_git">git 사용</a></li>
       <li><a href="using_cvs">CVS 사용(이제 안 씀)</a></li>
@@ -30,8 +29,7 @@
       <li><a href="todo">할 일 목록</a></li>
     </ul>
   </li>
-  <li><a href="translating">페이지 번역</a></li>
-  <li>
+  <li><a href="translating">페이지 번역</a>
     <ul>
       <li><a href="content_negotiation">컨텐트 협상</a></li>
       <li><a href="uptodate">번역 최신 유지</a></li>
