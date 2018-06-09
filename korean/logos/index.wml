@@ -1,4 +1,4 @@
-#use wml::debian::template title="데비안 로" BARETITLE=true
+#use wml::debian::template title="데비안 로고" BARETITLE=true
 #include "$(ENGLISHDIR)/logos/index.data"
 #use wml::debian::translation-check translation="3f2af2f89e5c2268c8535a4946511a643c146a5e" maintainer="Sebul"
 
@@ -43,11 +43,11 @@
 <col width="35%" />
 </colgroup>
 <tr>
-<th colspan="2"><a name="restricted-use">Debian Restricted Use Logo</a></th>
+<th colspan="2"><a name="restricted-use">데비안 제한 사용 로고</a></th>
 </tr>
 <tr>
 <td>
-<h3>Debian Restricted Use Logo License</h3>
+<h3>데비안 제한 사용 로고 저작권</h3>
 
 <p>Copyright (c) 1999 Software in the Public Interest</p>
 <ol>
