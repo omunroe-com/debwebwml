@@ -64,7 +64,7 @@ or use the <tt>-m</tt> command-line switch.
 #your coordinator edit) the file
 #webwml/<var>language</var>/international/<var>language</var>/translator.db.pl
 #in the repository.  The syntax should be quite understandable, and you can
-#use the file of the French team as template if it does not exist for
+##use the file of the French team as template if it does not exist for
 #your language yet. The robot can send several kinds of information, and
 #for each of them, you can choose the frequency at which it will be
 #sent to you. The different kinds of information are:
