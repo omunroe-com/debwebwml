@@ -38,7 +38,7 @@
 
 <p>그때 그때 달라요. 작은 실수를 만나면, 예를 들어 오타, 그걸 바로잡으세요.</p>
 
-<p>약간의 정보가 빠졌다면, 그것도 자유롭게 고치세요.  </p>
+<p>약간의 정보가 빠졌다면, 그것도 자유롭게 고치세요.</p>
 
 <p>만약 무언가 끔찍해서 새로쓸 필요가 있다면, debian-www로 가져와서 토론하세요.
 우리는 여러분에게 동의할 겁니다.  </p>
@@ -52,7 +52,7 @@ webwml/english/template/debian 디렉토리에 있는 파일),
 
 <p>새 디렉토리를 git에 더할 때는 주의해야 합니다.
 현재 디렉토리가 ../Makefile 에 있다면 <b>반드시</b> 그 안에
-Makefile을 만을어야 합니다.&mdash; 그러지 않으면 <tt>make</tt>는
+Makefile을 들어야 합니다.&mdash; 그러지 않으면 <tt>make</tt>는
 에러 메시지를 낼 겁니다.</p>
 
 <h3>명확하고 간단한 영어 쓰기</h3>
@@ -74,15 +74,15 @@ href="mailto:debian-l10n-english@lists.debian.org">영어 현지 팀</a>에 문�
 
 <p>언제나 내용 변화와 형식 변화를 나누어서 패치 또는 커밋 하세요.
 그들이 섞이면, 번역자가 차이를 찾기 매우 어려워집니다.
-그런 섞인 변화로 <kbd>git diff</kbd>하면, 
+그런 섞인 변화로 <kbd>git diff -u</kbd>하면, 
 여러분 스스로 어지러울 겁니다.</p>
 
-<p>일반적으로 임의의 형식 변경을 피하세요.
-XHTML/XML에 맞지 않는 오래된 페이지는 다른 변화와 함께 커밋 되면 안됩니다.
+<p>일반적으로, 임의의 형식 변경을 피하세요.
+XHTML/XML에 맞지 않는 오래된 페이지는 다른 변화와 함께 커밋 되면 안 됩니다.
 (물론, 새로운 것은 처음부터 제대로 할 수 있어야 합니다.)</p>
 
 
-<h3>가능하면 번역을 업데이트 하세요.</h3>
+<h3>가능하면 번역도 업데이트 하세요.</h3>
 
 <p>어떤 변경은 WML 파일에 쓰인 언어에 독립적, URL 또는 내장된 Perl 코드에 내장된 Perl 코드 같은 것.
 같은 카테고리 오타를 고치면 또 실패하는데, 왜냐면
@@ -110,8 +110,8 @@ translation-check 헤더 안의 버전을 안전하게 올릴 수 있습니다.<
 	more than once). Example:
 	<pre>
 	  $&gt; ./smart_change.pl -s "s,http://oldurl/,http://newurl/,g" english/devel/index.wml
-	  $&gt; cvs diff -u */devel/index.wml | less
-	  $&gt; cvs ci -m "1.23: Updated oldurl to current location" */devel/index.wml
+	  $&gt; git diff -u */devel/index.wml | less
+	  $&gt; git commit -m "1.23: Updated oldurl to current location" */devel/index.wml
 	</pre>
 	The first command does the change, the second command is for checking
 	the English original file and every translation of it. You should

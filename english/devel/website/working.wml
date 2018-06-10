@@ -109,6 +109,7 @@ the webwml git module.</p>
 <h4>Usage of smart_change.pl</h4>
 #### salsa use git, not cvs
 #### Please update following description for git
+#### Some change done. cvs to git
 <pre>smart_change.pl [options] origfile</pre>
 
 <p>Currently only files in <code>/english/</code> are allowed as
@@ -121,8 +122,8 @@ following arguments:</p>
 	more than once). Example:
 	<pre>
 	  $&gt; ./smart_change.pl -s "s,http://oldurl/,http://newurl/,g" english/devel/index.wml
-	  $&gt; cvs diff -u */devel/index.wml | less
-	  $&gt; cvs ci -m "1.23: Updated oldurl to current location" */devel/index.wml
+	  $&gt; git diff -u */devel/index.wml | less
+	  $&gt; git commit -m "1.23: Updated oldurl to current location" */devel/index.wml
 	</pre>
 	The first command does the change, the second command is for checking
 	the English original file and every translation of it. You should
