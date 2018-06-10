@@ -207,7 +207,7 @@ multiple changes across files in one pass:</p>
 </ol>
 
 <p>This is more involved than previously (needing two commits), but
-unavoidable due to the way git commit hashes work/<p>
+unavoidable due to the way git commit hashes work</p>
 
 <h3><a name="notifications">Getting notifications</a></h3>
 
