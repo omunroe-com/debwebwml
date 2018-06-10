@@ -3,7 +3,7 @@
 <define-tag moreinfo>
 <p>Se descubrió que Wireshark, un analizador de protocolos de red, contenía
 varias vulnerabilidades en los disectores de PCP, ADB, NBAP, UMTS MAC,
-IEEE 802.11, SIGCOMP, LDSS, GSM A DTAP y Q.931, que dan lugar a denegacion
+IEEE 802.11, SIGCOMP, LDSS, GSM A DTAP y Q.931, que dan lugar a denegación
 de servicio o a ejecución de código arbitrario.</p>
 
 <p>Para la distribución «antigua estable» (jessie), estos problemas se han corregido
