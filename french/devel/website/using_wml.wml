@@ -1,5 +1,5 @@
 #use wml::debian::template title="Utilisation de WML"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="24a8bbc5bf2fd2fbe025f0baa536bf1126f83723" maintainer="Frédéric Bothamy"
 
 <p>WML est l'acronyme de <em>Web site Meta Language</em>. Cela signifie
 que WML prend en entrée des fichiers .wml et les traite quel que soit
