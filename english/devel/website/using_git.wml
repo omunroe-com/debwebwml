@@ -177,17 +177,37 @@ translation header.</p>
 
 <h3><a name="translation-smart-change">Translation changes with smart_change.pl</a></h3>
 
-<p>There is a *NEW* implementation of smart_change.pl which is limited to
-supporting git commit hashes. To use it:</p>
+<p><code>smart_change.pl</code> is a script designed to make it easier
+to update original files and their translations together. There are
+two ways to use it, depending on what changes you are making.</p>
 
-<ul>
+To use <code>smart_change</code> to just update the translation-check
+headers when you're working on files manually:
+
+<ol>
   <li>Make the changes to the original file(s), and commit</li>
   <li>Update translations</li>
   <li>Run smart_change.pl - it will pick up the changes and update
-      headers in the translation files</li>
-  <li>Review the changes (for example with <q>git diff</q>)</li>
-  <li>Commit and push the changes</li>
-</ul>
+    headers in the translated files</li>
+  <li>Review the changes (e.g. with "git diff")</li>
+  <li>Commit the translation changes</li>
+</ol>
+
+<p>Or, if you're using smart_change with a regular expression to make
+multiple changes across files in one pass:</p>
+
+<ol>
+  <li>Run <code>smart_change.pl -s s/FOO/BAR/ origfile1 origfile2 ...</code></li>
+  <li>Review the changes (e.g. with <code>git diff</code>)
+  <li>Commit the original file(s)</li>
+  <li>Run <code>smart_change.pl origfile1 origfile2</code>
+    (i.e. <strong>without the regexp</strong> this time);it will now
+    just update headers in the translated files</li>
+  <li>Finally, commit the translation changes</li>
+</ol>
+
+<p>This is more involved than previously (needing two commits), but
+unavoidable due to the way git commit hashes work/<p>
 
 <h3><a name="notifications">Getting notifications</a></h3>
 

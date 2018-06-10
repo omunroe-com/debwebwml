@@ -103,60 +103,8 @@ in order to avoid bothering two dozen people for something that can be done
 quickly by a single person.</p>
 
 <p>In addition, to make such changes easier to apply, you can use the
-<code>smart_change.pl</code> script from the top-level directory in
-the webwml git module.</p>
-
-<h4>Usage of smart_change.pl</h4>
-#### salsa use git, not cvs
-#### Please update following description for git
-#### Some change done. cvs to git
-<pre>smart_change.pl [options] origfile</pre>
-
-<p>Currently only files in <code>/english/</code> are allowed as
-<var>origfile</var>. <code>smart_change.pl</code> takes the
-following arguments:</p>
-
-<dl>
-      <dt><code>-s, --substitute=<var>REGEXP</var></code></dt>
-      <dd>Specify a Perl regular expression applied to source files (may be used
-	more than once). Example:
-	<pre>
-	  $&gt; ./smart_change.pl -s "s,http://oldurl/,http://newurl/,g" english/devel/index.wml
-	  $&gt; git diff -u */devel/index.wml | less
-	  $&gt; git commit -m "1.23: Updated oldurl to current location" */devel/index.wml
-	</pre>
-	The first command does the change, the second command is for checking
-	the English original file and every translation of it. You should
-	do this to review the actual changes before committing. If everything
-	looks like you expected, commit your changes with the third command.
-      </dd>
-
-      <dt><code>-l, --lang=<var>STRING</var></code></dt>
-      <dd>Process this language (may be used more than once). If no
-	language is specified, all available ones are processed.</dd>
-
-      <dt><code>-n, --no-bump</code></dt>
-      <dd>Do not bump versions in translation-check headers.
-	Normally, the version in each translation-check header is increased
-	by one in the translated files that are up-to-date, and left
-	untouched in those that are out-of-date.
-	If this option is specified, no
-	translation-check headers are touched. See <q>keeping
-	translations up to date</q> for an <a href="uptodate">\
-	  explanation on translation-check headers</a>.
-      </dd>
-
-      <dt><code>-p, --previous</code></dt>
-      <dd>Show the previous CVS revision. This is mainly useful when the
-	English file is already committed and you want to check the
-	translation-check headers against the previous version.</dd>
-
-      <dt><code>-h, --help</code></dt>
-      <dd>Display short usage information.</dd>
-
-      <dt><code>-v, --verbose</code></dt>
-      <dd>Display verbose messages while running.</dd>
-</dl>
+<a href="using_git#translation-smart-change"><code>smart_change.pl</code></a>
+script from the top-level directory in the webwml git module.</p>
 
 <toc-add-entry name="links">Links</toc-add-entry>
 

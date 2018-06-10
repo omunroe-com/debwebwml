@@ -31,17 +31,29 @@ Options:
                      (may be used more than once)
 
 This is a *NEW* implementation of smart_change.pl which is limited to
-supporting git commit hashes. To use this:
+supporting git commit hashes. To use this to just update the
+translation-check headers:
 
  1. Make the changes to the original file(s), and commit
  2. Update translations
  3. Run smart_change.pl - it will pick up the changes and update
-    headers in the translation files
- 4. Review the changes (e.g. with "git diff -u")
+    headers in the translated files
+ 4. Review the changes (e.g. with "git diff")
  5. Commit the translation changes
 
+Or, if you're using smart_change with a regexp to make multiple
+changes across files:
+
+ 1. Run "smart_change.pl -s s/FOO/BAR/ origfile1 origfile2 ..."
+ 2. Review the changes (e.g. with "git diff")
+ 3. Commit the original file(s)
+ 4. Run "smart_change.pl origfile1 origfile2" (i.e. *without the
+    regexp* this time) - it will now just update headers in the
+    translated files
+ 5. Finally, commit the translation changes
+
 This is more involved than previously (needing two commits), but
-unavoidable...
+unavoidable due to the way git commit hashes work.
 
 EOT
         exit(0);
