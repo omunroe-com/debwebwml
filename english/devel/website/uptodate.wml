@@ -10,26 +10,26 @@ below any other "use" headers) in this form:
 \#use wml::debian::translation-check translation="git_commit_hash"
 </pre>
 
-<p>
-where <var>git_commit_hash</var> is the Git commit hash that refers to
-the commit of original (English) file that the translated file was translated
-against. You can get the detail of that specific commit using
-<code>git show</code> tool: <code>git show &lt;git_commit_hash&gt;</code> .
-If you use the <kbd>copypage.pl</kbd> script in the webwml directory,
-this line is added automatically.
-</p>
+<p>where <var>git_commit_hash</var> is the git commit hash that refers
+to the commit of the original (English) file that the translated file
+was translated against. You can get the detail of that specific commit
+using the <code>git show</code> tool: <code>git show
+&lt;git_commit_hash&gt;</code> . If you use the <kbd>copypage.pl</kbd>
+script in the webwml directory, the <code>translation-check</code>
+line is added automatically in the first version of your translated
+page, pointing to the version of the original file that exists at that
+point. </p>
 
-<p>This is also useful because some translations may not get updated for
-quite some time, even though the original language (English) does. Due to
-content negotiation, the reader of the translated language may not be aware
-of this and might miss important information, introduced in new versions of
-the original. The <code>translation-check</code> template contains code to
-check if your translation is outdated, and output appropriate message
-warning the user about it.
-</p>
+<p>Some translations may not get updated for quite some time, even
+though the original language (English) has changed. Due to content
+negotiation, the reader of the translated page may not be aware of
+this and might miss important information, introduced in new versions
+of the original. The <code>translation-check</code> template contains
+code to check if your translation is outdated, and output an
+appropriate message warning the user about it. </p>
 
-<P>There are also some additional parameters that you can use on the
-<code>#use</code> line:
+<P>There are more parameters that you can use on the
+<code>translation-check</code> line:
 
 <dl>
  <dt><code>original="<var>language</var>"</code>
@@ -39,28 +39,26 @@ warning the user about it.
  the name in <code>languages.wml</code> template.
 
  <dt><code>mindelta="<var>number</var>"</code>
- <dd>which defines the maximum difference in CVS revisions before the
- translation is considered aged.
- The default value is <var>1</var>.
- For less important pages, set it to <var>2</var>, which means that two
- changes need to be made before it is
- considered making the translation aged.
+ <dd>which defines the maximum difference in git revisions before the
+ translation is considered to be <strong>aged</strong>. The default
+ value is <var>1</var>. For less important pages, set it to
+ <var>2</var>, meaning that two changes need to be made before the
+ translation will be considered aged.
 
  <dt><code>maxdelta="<var>number</var>"</code>
- <dd>which defines the maximum difference in CVS revisions before the
- translation is considered to be outdated.
- The default value is <var>5</var>.
- For very important pages, set it to be less.
- A value of <var>1</var> means that every change is considered making the
- translation outdated.
+ <dd>which defines the maximum differenc in git revisions before the
+ translation is considered to be <strong>outdated</strong>. The
+ default value is <var>5</var>. For very important pages, set it to a
+ smaller number. A value of <var>1</var> means that every change will
+ cause the translation to be marked as outdated.
 </dl>
 
-<p>This also enables us to have <a href="stats/">translation statistics</a>,
-a report of all outdated translations together with helpful links to
-the differences between files, as well as a list of pages that haven't
-been translated at all.
-This is intended to help translators and to attract new people to help.
-</p>
+<p>Tracking the age of translations also enables us to have <a
+href="stats/">translation statistics</a>, a report of outdated
+translations (together with helpful links to the differences between
+files), along with a list of pages that haven't been translated at
+all. This is intended to help translators and to attract new people to
+help. </p>
 
 <p>
 To avoid presenting our users with information that is too outdated,
@@ -84,17 +82,17 @@ translation, e.g. "swedish".
 <P>Pages that lack translation will be shown as
 "<code>Missing <var>filename</var></code>", and pages that are not up to
 date with the original will be shown as
-"<code>NeedToUpdate <var>filename</var> to version <var>x.y</var></code>".
+"<code>NeedToUpdate <var>filename</var> to version <var>XXXXXXX</var></code>".
 
 <P>If you want to see what the exact changes are, you can get the
 differences by adding <kbd>-d</kbd> command line option to the above
-command. Please note that this can take a while since it can include
-several accesses to the CVS server.
+command.</p>
 
-<P>If you want to ignore warnings on missing pages (for instance old news
-items), you can create a file called <code>.transignore</code> in the
-directory where you want to suppress the warnings, listing each file that
-you are not going to translate, with one name per line.
+<P>If you want to ignore warnings about missing translations (for
+instance for old news items), you can create a file called
+<code>.transignore</code> in the directory where you want to suppress
+the warnings, listing each file that you are not going to translate,
+with one name per line.
 
 <p>
 A similar script for keeping track of the translations of the mailing lists

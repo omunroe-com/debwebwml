@@ -135,18 +135,20 @@ is the two letter code of the language, according to
 If that works, check if the syntax is fully valid with
 <kbd>weblint <var>file</var>.<var>&lt;lang&gt;</var>.html</kbd>.</p>
 
-<p>The web pages will get rebuilt from VCS on the www-master server, and
-this process is for the most part impervious to errors. However, if you
-commit a broken file in the top level of your translation (e.g. the
-top-level index.wml file), it will break the build process and stall all
-the other updates to the web site. Please pay special attention to these
+<p>NOTE: The web pages are regularly rebuilt automatically on the
+www-master server, based on the wml source in git. This process is for
+the most part impervious to errors. However, if you commit a broken
+file in the top level of your translation (e.g. the top-level
+index.wml file), it will break the build process and stall all the
+other updates to the web site. Please pay special attention to these
 files.</p>
 
-<p>Once the page is good to go, you can commit it into Git. If you have
-the permissions to do this yourself, please push the commits onto the <a
-href="https://salsa.debian.org/webmaster-team/webwml">git repository on
-Salsa platform</a>; if not, send it to <a href="translation_coordinators">
-somebody with write access to the repository</a>.</p>
+<p>Once the page is good to go, you can commit it into Git. If you
+have the permissions to do this yourself, please push the commits to
+the <a href="https://salsa.debian.org/webmaster-team/webwml">webwml
+git repository</a>; if not, send it to <a
+href="translation_coordinators"> somebody with write access to the
+repository</a>.</p>
 
 <h2><a name="completenew">Starting a new translation</a></h2>
 
@@ -154,13 +156,13 @@ somebody with write access to the repository</a>.</p>
 a new language, send us e-mail (in English) at
 <a href="mailto:webmaster@debian.org">webmaster@debian.org</a>.
 
-<p>First of all, make sure you have made a proper checkout of our source
-tree, as described <a href="using_git">on our Git introduction page</a>.</p>
+<p>First of all, clone our source tree, as described <a
+href="using_git">on our Git introduction page</a>.</p>
 
-<p>After you have checked out the webwml/ directory and (at least)
-webwml/english/, start by creating a new directory for your translation,
-next to english/ and others. The name of the translation directory must
-be in English and entirely lowercase (e.g. "german", not "Deutsch").</p>
+<p>After you have a git checkout, start by creating a new top level
+directory for your translation, next to english/ and others. The name
+of the translation directory must be in English and entirely lowercase
+(e.g. "german", not "Deutsch").</p>
 
 <p>Copy the <tt>Make.lang</tt> and <tt>.wmlrc</tt> files from the english/
 directory to the new translation directory. These files are essential for
