@@ -481,11 +481,11 @@ sub cmp_rev
 	}
 	if ($pos1 == -1) {
 	    # Not found
-	    print STDERR "ERROR: commit $rev1 not found in revisions of $file\n";
+	    print STDERR "ERROR: commit rev1 $rev1 not found in revisions of $file\n";
 	    $ret = undef;
 	} elsif ($pos2 == -1) {
 	    # Not found
-	    print STDERR "ERROR: commit $rev2 not found in revisions of $file\n";
+	    print STDERR "ERROR: commit rev2 $rev2 not found in revisions of $file\n";
 	    $ret = undef;
 	} elsif ($pos1 == $pos2) {
 	    $ret = 0;
