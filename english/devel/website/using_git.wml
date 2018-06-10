@@ -181,8 +181,8 @@ translation header.</p>
 to update original files and their translations together. There are
 two ways to use it, depending on what changes you are making.</p>
 
-To use <code>smart_change</code> to just update the translation-check
-headers when you're working on files manually:
+<p>To use <code>smart_change</code> to just update the translation-check
+headers when you're working on files manually:</p>
 
 <ol>
   <li>Make the changes to the original file(s), and commit</li>
