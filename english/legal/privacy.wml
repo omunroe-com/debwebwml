@@ -28,7 +28,7 @@ association with the project rather than the project themselves. Questions
 about exactly what data those services hold should be directed at the service
 owners rather than the Debian Project itself.</p>
 
-<h2>Contributors (<a href="https://contributors.debian.org/">contributors.debian.org</a>)</h1>
+<h2>Contributors (<a href="https://contributors.debian.org/">contributors.debian.org</a>)</h2>
 
 <p>The Debian Contributors site provides an aggregation of data about where
 someone has contributed to the Debian Project, whether that's through filing a
@@ -38,7 +38,7 @@ the services in question (details about an identifier such as login name and
 time of last contribution) and provides a single reference point to see where
 the Project is storing information about an individual.</p>
 
-<h2>The Archive (<a href="https://ftp.debian.org/debian/">ftp.debian.org</a>)</h1>
+<h2>The Archive (<a href="https://ftp.debian.org/debian/">ftp.debian.org</a>)</h2>
 
 <p>The primary distribution method of Debian is via its public archive network.
 The archive consists of all of the binary packages and their associated source
@@ -49,7 +49,7 @@ software authors distributed source code, with Debian adding additional
 information to track authorship and copyright to ensure that licenses are being
 correctly documents and the Debian Free Software Guidelines adhered to.</p>
 
-<h2>Bug Tracking System (<a href="https://bugs.debian.org/">bugs.debian.org</a>)</h1>
+<h2>Bug Tracking System (<a href="https://bugs.debian.org/">bugs.debian.org</a>)</h2>
 
 <p>The bug tracking system is interacted with via email, and stores all emails
 received in relation to a bug as part of that bug's history. In order that the
@@ -59,7 +59,7 @@ is available, the entirety of the bug tracking system is openly accessible.
 Therefore any information, including names and email addresses as part of email
 headers, sent to the BTS will be archived and publicly available.</p>
 
-<h2>DebConf (<a href="https://www.debconf.org/">debconf.org</a>)</h1>
+<h2>DebConf (<a href="https://www.debconf.org/">debconf.org</a>)</h2>
 
 <p>The DebConf registration structure stores the details of conference
 attendees. These are required to determine eligibility to bursarys, association
@@ -68,7 +68,7 @@ also be shared with suppliers to the conference, e.g. attendees staying in the
 conference provided accommodation will have their name and attendance date
 shared with the accommodation provider.</p>
 
-<h2>Developers LDAP (<a href="https://db.debian.org">db.debian.org</a>)</h1>
+<h2>Developers LDAP (<a href="https://db.debian.org">db.debian.org</a>)</h2>
 
 <p>Project contributors (developers and others with guest accounts) who have
 account access to machines within the Debian infrastructure have their details
@@ -81,7 +81,7 @@ location for project members to exchange such contact information. It is not
 explicitly collected at any point and can always be removed by logging into the
 db.debian.org web interface or sending signed email to the email interface.</p>
 
-<h2>Gitlab (<a href="https://salsa.debian.org/">salsa.debian.org</a>)</h1>
+<h2>Gitlab (<a href="https://salsa.debian.org/">salsa.debian.org</a>)</h2>
 
 <p>salsa.debian.org provides an instance of the <a
 href="https://about.gitlab.com/">GitLab</a> DevOps lifecycle management tool.
@@ -100,7 +100,7 @@ these commit details once they are incorporated into the repository is
 extremely disruptive and in some cases (such as when signed commits are in use)
 impossible.</p>
 
-<h2>Gobby (<a href="https://gobby.debian.org/">gobby.debian.org</a>)</h1>
+<h2>Gobby (<a href="https://gobby.debian.org/">gobby.debian.org</a>)</h2>
 
 <p>Gobby is a collaborative online text editor, which tracks contributions and
 changes against connected users. No authentication is required to connect to
@@ -110,7 +110,7 @@ understand that it may prove possible to map usernames back to individuals
 based upon common use of that username or the content they post to a
 collaborative document within the system.</p>
 
-<h2>Mailing Lists (<a href="https://lists.debian.org/">lists.debian.org</a>)</h1>
+<h2>Mailing Lists (<a href="https://lists.debian.org/">lists.debian.org</a>)</h2>
 
 <p>Mailing lists are the primary communication mechanism of the Debian Project.
 Almost all of the mailing lists related to the project are open, and thus
@@ -122,7 +122,7 @@ reasons for certain aspects of the project. Due to the nature of email these
 archives will therefore potentially hold personal information, such as names
 and email addresses.</p>
 
-<h2>New Members site (<a href="https://nm.debian.org/">nm.debian.org</a>)</h1>
+<h2>New Members site (<a href="https://nm.debian.org/">nm.debian.org</a>)</h2>
 
 <p>Contributors to the Debian Project who wish to formalise their involvement
 may choose to apply to the New Members process. This allows them to gain the
@@ -140,7 +140,7 @@ outstanding applicants are publicly visible on the site, allowing anyone to see
 the state of New Member processing within the Project to ensure an appropriate
 level of transparency.</p>
 
-<h2>Popularity Contest (<a href="https://popcon.debian.org/">popcon.debian.org</a>)</h1>
+<h2>Popularity Contest (<a href="https://popcon.debian.org/">popcon.debian.org</a>)</h2>
 
 <p>"popcon" tracks which packages are installed on a Debian system, to enable
 the gathering of statistics about which packages are widely used and which are
@@ -164,7 +164,7 @@ issues with the processing mechanisms. Anonymized submissions are kept for at
 most 20 days. Summary reports, which contain no personally identifiable
 information, are kept indefinitely.</p>
 
-<h2>snapshot (<a href="http://snapshot.debian.org/">snapshot.debian.org</a>)</h1>
+<h2>snapshot (<a href="http://snapshot.debian.org/">snapshot.debian.org</a>)</h2>
 
 <p>The snapshot archive provides a historical view of the Debian archive
 (ftp.debian.org above), allowing access to old packages based on dates and
@@ -176,7 +176,7 @@ provides a useful resource to developers and users when tracking down
 regressions in software packages, or providing a specific environment to run a
 particular application.</p>
 
-<h2>Votes (<a href="https://vote.debian.org/">vote.debian.org</a>)</h1>
+<h2>Votes (<a href="https://vote.debian.org/">vote.debian.org</a>)</h2>
 
 <p>The vote tracking system (devotee) tracks the status of ongoing General
 Resolutions and the results of previous votes. In the majority of cases this
@@ -185,7 +185,7 @@ name mapping) and how they voted becomes publicly viewable. Only Project
 members are valid voters for the purposes of devotee, and only valid votes are
 tracked by the system.</p>
 
-<h2>Wiki (<a href="https://wiki.debian.org/">wiki.debian.org</a>)</h1>
+<h2>Wiki (<a href="https://wiki.debian.org/">wiki.debian.org</a>)</h2>
 
 <p>The Debian Wiki provides a support and documentation resource for the
 Project which is editable by everyone. As part of that contributions are
@@ -202,7 +202,7 @@ address is required for the purposes of providing a mechanism for account
 password reset, and notifying the user of any changes on pages they are
 subscribed to.</p>
 
-<h2>Echelon</h1>
+<h2>Echelon</h2>
 
 <p>Echelon is a system used by the Project to track member activity; in
 particular it watches the mailing list and archive infrastructures, looking for
@@ -214,7 +214,7 @@ is inactive or missing and thus that there might be an operational requirement
 to lock their account or otherwise reduce their access permissions to ensure
 Debian systems are kept secure.</p>
 
-<h2>Service related logging</h1>
+<h2>Service related logging</h2>
 
 <p>In addition to the explicitly listed services above the Debian
 infrastructure logs details about system accesses for the purposes of ensuring
