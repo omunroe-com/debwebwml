@@ -38,4 +38,4 @@ index.$(LANGUAGE).html: index.wml $(wildcard [0-9]*\-*.wml) $(TEMPLDIR)/template
 
 $(HTMLDIR)/%.ics: %.ics
 	@echo copying $< to $(HTMLDIR)
-	-@install -m 644 -p $< $(HTMLDIR)
+	$(IGNORE)install -m 644 -p $< $(HTMLDIR)

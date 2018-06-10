@@ -63,7 +63,7 @@ endif
 $(HTMLDIR)/%.$(LANGUAGE).html: %.$(LANGUAGE).html
 	@test -d $(@D) || mkdir -m g+w -p $(@D)
 	@echo copying $(@F) to $(@D)
-	-@install -m 664 -p $(<) $(@D)
+	$(IGNORE)install -m 664 -p $(<) $(@D)
 ifeq "$(LANGUAGE)" "en"
 	@echo making a link $(@D)/$(*F).html -\> $(@F)
 	@ln -sf $(@F) $(@D)/$(*F).html
@@ -73,12 +73,12 @@ endif
 $(HTMLDIR)/%.png: %.png
 	@test -d $(@D) || mkdir -m g+w -p $(@D)
 	@echo copying $(@F) to $(@D)
-	-@install -m 664 -p $(<) $(@D)
+	$(IGNORE)install -m 664 -p $(<) $(@D)
 
 # Have to add to the default clean rule to clean up all the html the
 # above target produces.
 clean::
-	-find . -type f -name \*.$(LANGUAGE).html | xargs rm -f
+	$(IGNORE)find . -type f -name \*.$(LANGUAGE).html | xargs rm -f
 
 # Need to rebuild the index when anything changes.
 index.$(LANGUAGE).html: index.wml $(wildcard $(CUR_YEAR)/*/index.wml) \

@@ -45,6 +45,6 @@ install:: $(HTMLDIR)/diffstat.js
 $(HTMLDIR)/diffstat.js: diffstat.js
 	@test -d $(HTMLDIR) || mkdir -m g+w -p $(HTMLDIR)
 	@echo copying $(@F) to $(HTMLDIR)
-	-@install -m 664 -p $(@F) $(HTMLDIR)
+	$(IGNORE)install -m 664 -p $(@F) $(HTMLDIR)
 endif
 

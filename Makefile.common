@@ -3,6 +3,14 @@
 
 CUR_YEAR := $(shell date +%Y)
 
+# Turn this on to stop ignoring errors in various places
+STRICT_ERROR_CHECKS = 1
+ifeq ($(STRICT_ERROR_CHECKS), 0)
+IGNORE = -
+else
+IGNORE =
+endif
+
 ENGLISHSRCDIR := $(WMLBASE)/../english
 ENGLISHDIR := $(ENGLISHSRCDIR)
 # ^ just an alias ^
@@ -64,12 +72,12 @@ existing-SUBS-cleandest := $(addsuffix -cleandest,$(existing-SUBS))
 all:: $(HTMLFILES) $(existing-SUBS)
 
 $(existing-SUBS):
-	-$(MAKE) -C $@
+	$(IGNORE)$(MAKE) -C $@
 
 install:: $(HTMLDESTFILES) $(OTHERDESTFILES) $(existing-SUBS-install)
 
 $(existing-SUBS-install):
-	-$(MAKE) -C $(patsubst %-install,%,$@) install
+	$(IGNORE)$(MAKE) -C $(patsubst %-install,%,$@) install
 
 clean::
 	rm -f *.$(LANGUAGE).html *~ *.forced
@@ -79,7 +87,7 @@ endif
 clean:: $(existing-SUBS-clean)
 
 $(existing-SUBS-clean):
-	-$(MAKE) -C $(patsubst %-clean,%,$@) clean
+	$(IGNORE)$(MAKE) -C $(patsubst %-clean,%,$@) clean
 
 cleandest::
 	rm -f $(HTMLDIR)/*.$(LANGUAGE).html
@@ -89,7 +97,7 @@ endif
 cleandest:: $(existing-SUBS-cleandest)
 
 $(existing-SUBS-cleandest):
-	-$(MAKE) -C $(patsubst %-cleandest,%,$@) cleandest
+	$(IGNORE)$(MAKE) -C $(patsubst %-cleandest,%,$@) cleandest
 
 $(VCSREVCACHE): $(WMLBASE)/../.git/index
 	(cd $(WMLBASE)/.. && ./build_vcs_cache.pl)
@@ -110,10 +118,10 @@ endif
 %.$(LANGUAGE).html : %.wml $(EXTRAWMLDEP) | $(VCSREVCACHE)
 	$(WML) $(<F)
 ifeq "$(LANGUAGE)" "en"
-	-$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
+	$(IGNORE)$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
 else
 ifneq "$(findstring international,$(CUR_DIR))" ""
-	-$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
+	$(IGNORE)$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
 endif
 endif
 
@@ -123,7 +131,7 @@ ifndef NOGENERICINSTDEP
 $(HTMLDIR)/%.$(LANGUAGE).html: %.$(LANGUAGE).html
 	@test -d $(HTMLDIR) || mkdir -m g+w -p $(HTMLDIR)
 	@echo copying $(@F) to $(HTMLDIR)
-	-@install -m 664 -p $(@F) $(HTMLDIR)
+	$(IGNORE)@install -m 664 -p $(@F) $(HTMLDIR)
 ifeq "$(LANGUAGE)" "nb"
 	@echo making a link $(@D)/$(*F).no.html -\> $(@F)
 	@ln -sf $(@F) $(@D)/$(*F).no.html

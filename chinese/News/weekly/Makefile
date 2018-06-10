@@ -14,18 +14,18 @@ STRIP_INITIAL_BLANK_LINE := $(CURDIR)/$(STRIP_INITIAL_BLANK_LINE)
 $(HTMLDIR)/%.zh-cn.html: %.zh-cn.html
 	@test -d $(@D) || mkdir -m g+w -p $(@D)
 	@echo copying $(@F) to $(@D)
-	-@install -m 664 -p $(<) $(@D)
+	$(IGNORE)@install -m 664 -p $(<) $(@D)
 $(HTMLDIR)/%.zh-hk.html: %.zh-hk.html
 	@test -d $(@D) || mkdir -m g+w -p $(@D)
 	@echo copying $(@F) to $(@D)
-	-@install -m 664 -p $(<) $(@D)
+	$(IGNORE)@install -m 664 -p $(<) $(@D)
 $(HTMLDIR)/%.zh-tw.html: %.zh-tw.html
 	@test -d $(@D) || mkdir -m g+w -p $(@D)
 	@echo copying $(@F) to $(@D)
-	-@install -m 664 -p $(<) $(@D)
+	$(IGNORE)@install -m 664 -p $(<) $(@D)
 
 clean::
-	-find . -type f -name \*.$(LANGUAGE)-??.html | xargs rm -f
+	$(IGNORE)find . -type f -name \*.$(LANGUAGE)-??.html | xargs rm -f
 
 index.zh-cn.html index.zh-hk.html index.zh-tw.html: index.wml \
       $(wildcard $(CUR_YEAR)/*/index.wml) \

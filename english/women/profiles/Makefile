@@ -20,10 +20,10 @@ index.$(LANGUAGE).html : index.wml $(WMLRCDEP) $(GETTEXTDEP) \
   $(TEMPLDIR)/template.wml $(TEMPLDIR)/languages.wml | $(VCSREVCACHE)
 	$(WML) $(<F)
 ifeq "$(LANGUAGE)" "en"
-	-$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
+	$(IGNORE)$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
 else
 ifneq "$(findstring international,$(CUR_DIR))" ""
-	-$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
+	$(IGNORE)$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
 endif
 endif
 
@@ -34,9 +34,9 @@ endif
   $(TEMPLDIR)/template.wml $(TEMPLDIR)/languages.wml | $(VCSREVCACHE)
 	$(WML) $(<F)
 ifeq "$(LANGUAGE)" "en"
-	-$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
+	$(IGNORE)$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
 else
 ifneq "$(findstring international,$(CUR_DIR))" ""
-	-$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
+	$(IGNORE)$(WMLBASE)/../touch_translations.pl $(CURDIR)/$(<F) $(LANGUAGE)
 endif
 endif
