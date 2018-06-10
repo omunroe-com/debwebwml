@@ -22,15 +22,16 @@
 <p>이 형식의 DPN을 즐기기 바랍니다.</p>
 
 <p>다른 뉴스는, 공식 블로그
-<a href="https://bits.debian.org">Bits from Debian</a>, 를 읽고 
+<a href="https://bits.debian.org">Bits from Debian</a> 를 읽고,
 <a href="https://micronews.debian.org">https://micronews.debian.org</a>를 따르세요. 
 RSS-피드는 @debian 프로필을 여러 사회망에서도 제공합니다.</p>
 
-<p>데비안 보안팀은 현재 매일 기반 권고(<a href="$(HOME)/security/2018/">보안 권고 2018</a>)를 냅니다. 그것을 주의깊게 읽고 <a href="https://lists.debian.org/debian-security-announce/">보안 메일링 리스트</a>를 구독하세요.
+<p>데비안 보안팀은 현재 매일 기반 권고(<a href="$(HOME)/security/2018/">보안 권고 2018</a>)를 냅니다.
+그것을 주의깊게 읽고 <a href="https://lists.debian.org/debian-security-announce/">보안 메일링 리스트</a>를 구독하세요.
 </p>
 
-<p>이 프로젝트 뉴스의 끝에 <b>빠른 링크</b> 섹션을 더했는데 그것은 다른 미디어 스트림을 통한 포스트의 
-섹션을 연결합니다.</p>
+<p>이 프로젝트 뉴스의 끝에 <b>빠른 링크</b> 섹션을 더했는데
+그것은 다른 미디어 스트림을 통한 포스트의 섹션을 연결합니다.</p>
 
 <toc-add-entry name="internal">내부 뉴스/사건</toc-add-entry>
 
@@ -236,10 +237,7 @@ group will view and discuss João Eriberto Mota Filho's <a href="http://debianet
 
 ## Visit the link below and pull the information manually.
 
-<p>
-1339 people and 19 teams are listed on the
-<a href="https://contributors.debian.org/">Debian Contributors</a> page for 2018.
-</p>
+<p>1339 사람과 19 팀 목록이 2018년 <a href="https://contributors.debian.org/">데비안 기여자</a> 페이지에 있습니다.</p>
 
 
 <p><b>토론</b></p>
