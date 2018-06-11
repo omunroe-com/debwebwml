@@ -96,55 +96,7 @@ translation-check 헤더 안의 버전을 안전하게 올릴 수 있습니다.<
 한 사람이 할 수 있는 무언가를 위해 수십명을 괴롭히는 것을 피하기 위함입니다.</p>
 
 <p>게다가, 그런 변화를 적용하는 것은 쉬운데,
-<code>smart_change.pl</code> 스크립트를 webwml 최상위 수준에서 쓰면 됩니다.</p>
-
-<h4>smart_change.pl 쓰기</h4>
-
-<pre>smart_change.pl [options] origfile</pre>
-
-<p>현재는 <code>/english/</code> 안의 파일만 <var>origfile</var>로 허용됩니다. <code>smart_change.pl</code> 는 아래 매개변수를 받습니다:</p>
-
-<dl>
-      <dt><code>-s, --substitute=<var>REGEXP</var></code></dt>
-      <dd>Specify a Perl regular expression applied to source files (may be used
-	more than once). Example:
-	<pre>
-	  $&gt; ./smart_change.pl -s "s,http://oldurl/,http://newurl/,g" english/devel/index.wml
-	  $&gt; git diff -u */devel/index.wml | less
-	  $&gt; git commit -m "1.23: Updated oldurl to current location" */devel/index.wml
-	</pre>
-	The first command does the change, the second command is for checking
-	the English original file and every translation of it. You should
-	do this to review the actual changes before committing. If everything
-	looks like you expected, commit your changes with the third command.
-      </dd>
-
-      <dt><code>-l, --lang=<var>STRING</var></code></dt>
-      <dd>Process this language (may be used more than once). If no
-	language is specified, all available ones are processed.</dd>
-
-      <dt><code>-n, --no-bump</code></dt>
-      <dd>Do not bump versions in translation-check headers.
-	Normally, the version in each translation-check header is increased
-	by one in the translated files that are up-to-date, and left
-	untouched in those that are out-of-date.
-	If this option is specified, no
-	translation-check headers are touched. See <q>keeping
-	translations up to date</q> for an <a href="uptodate">\
-	  explanation on translation-check headers</a>.
-      </dd>
-
-      <dt><code>-p, --previous</code></dt>
-      <dd>Show the previous CVS revision. This is mainly useful when the
-	English file is already committed and you want to check the
-	translation-check headers against the previous version.</dd>
-
-      <dt><code>-h, --help</code></dt>
-      <dd>Display short usage information.</dd>
-
-      <dt><code>-v, --verbose</code></dt>
-      <dd>Display verbose messages while running.</dd>
-</dl>
+<a href="using_git#translation-smart-change"><code>smart_change.pl</code></a> 스크립트를 webwml 최상위 수준에서 쓰면 됩니다.</p>
 
 <toc-add-entry name="links">링크</toc-add-entry>
 
@@ -157,14 +109,12 @@ translation-check 헤더 안의 버전을 안전하게 올릴 수 있습니다.<
 
 <h3>링크 고치기</h3>
 
-<p>If you notice a link to an external web site results in a redirection
-(301, 302, a &lt;meta&gt; redirect, or a page saying <q>This page has moved.</q>)
-please tell debian-www about it.</p>
+<p>외부 웹 사이트로의 링크가 (301, 302,  &lt;meta&gt; 리디렉트, 또는 <q>이 페이지는 옮겨졌습니다.</q>)라고 하면 debian-www 에 알려주세요.</p>
 
-<p>If you find a broken link (404, 403, or a page that's not what the link
-says it is), please fix it and tell debian-www about it so translators are
-aware. Even better, fix the link in all the other translations, and update
-translation-check headers if possible.</p>
+<p>깨진 링크 (404, 403, 또는 링크가 말하는 것과 다른페이지)를 찾으면, 
+그것을 고치고 debian-www에 번역가가 알고 있는대로 얘기하세요.
+더 좋은 것은, 가능하다면 다른 모든 번역에서 링크를 고치고,
+translation-check를 업데이트하는 겁니다.</p>
 
 <toc-add-entry name="special">텍스트를 데이터에서 분리</toc-add-entry>
 
