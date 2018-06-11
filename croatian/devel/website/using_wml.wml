@@ -1,5 +1,5 @@
 #use wml::debian::template title="Korištenje WML-a"
-#use wml::debian::translation-check translation="24a8bbc5bf2fd2fbe025f0baa536bf1126f83723"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
 
 <p>WML znači <i>web site meta language</i>, tj. općeniti jezik za web
 stranice. To znači da WML uzima ulazne .wml datoteke, procesira što god je u
