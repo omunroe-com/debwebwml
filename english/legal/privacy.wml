@@ -24,11 +24,12 @@ interactions with the bug tracking system).</p>
 <p>The list below categorises the various services run by the project, the
 information used by those services and the reasons it is required.</p>
 
-<p>Please note that hosts and services under the debian.net domain are not part
-of the official Debian project; they are run by individuals who have an
-association with the project rather than the project themselves. Questions
-about exactly what data those services hold should be directed at the service
-owners rather than the Debian Project itself.</p>
+<p>Please note that hosts and services under the <strong>debian.net</strong> 
+domain are not part of the official Debian project; 
+they are run by individuals who have an association with the project rather 
+than the project themselves. 
+Questions about exactly what data those services hold should be directed 
+at the service owners rather than the Debian Project itself.</p>
 
 <h2>Contributors (<a href="https://contributors.debian.org/">contributors.debian.org</a>)</h2>
 
