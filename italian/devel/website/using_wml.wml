@@ -1,5 +1,5 @@
 #use wml::debian::template title="Usare il WML"
-#use wml::debian::translation-check translation="24a8bbc5bf2fd2fbe025f0baa536bf1126f83723" maintainer="Johan Haggi"
+#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Johan Haggi"
 
 <p>WML è l'acronimo di web site meta language. WML riceve come input
 dei file .wml ed elabora quello che trova in essi (qualsiasi cosa: dal semplice
