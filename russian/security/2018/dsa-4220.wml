@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="e9b1f51d55c44d8dc0e60cb9d2b3ced577538783" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Айван Фратрик обнаружил переполнение буфера в графической библиотеке Skia,
+используемой Firefox, которое может приводить к выполнению произвольного кода.</p>
+
+<p>В предыдущем стабильном выпуске (jessie) эта проблема была исправлена
+в версии 52.8.1esr-1~deb8u1.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 52.8.1esr-1~deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты firefox-esr.</p>
+
+<p>С подробным статусом поддержки безопасности firefox-esr можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/firefox-esr">\
+https://security-tracker.debian.org/tracker/firefox-esr</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4220.data"
