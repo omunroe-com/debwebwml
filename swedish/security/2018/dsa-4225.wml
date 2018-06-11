@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="dc21b433af0966edcac8e6493f8ca148cb89b07f" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i OpenJDK, en implementation
+av Oracles Javaplattform, som resulterar i överbelastning, förbigång
+av sandlåda, exekvering av godtycklig kod eller förbigång av
+JAR signanturvalidering.</p>
+
+<p>För den gamla stabila utgåvan (Jessie) har dessa problem rättats
+i version 7u181-2.6.14-1~deb8u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era openjdk-7-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om openjdk-7 vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/openjdk-7">\
+https://security-tracker.debian.org/tracker/openjdk-7</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4225.data"
