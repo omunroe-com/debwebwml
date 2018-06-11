@@ -114,16 +114,36 @@ $ git log path/to/english/file
 
 <h3><a name="translation-smart-change">smart_change.pl 로 번역 변경</a></h3>
 
-<p>smart_change.pl 의 *새로운* 구현이 있는데 
-그것은 git commit hash를 지원하는 것으로 한정됩니다. 그걸 쓰려면:</p>
+<p><code>smart_change.pl</code> is a script designed to make it easier
+to update original files and their translations together. There are
+two ways to use it, depending on what changes you are making.</p>
 
-<ul>
+<p>To use <code>smart_change</code> to just update the translation-check
+headers when you're working on files manually:</p>
+
+<ol>
   <li>원본 파일 변경 만들고, 커밋</li>
   <li>번역 업데이트</li>
   <li>smart_change.pl 돌리기 - 번역 파일에서 변경 확인하고 헤더를 업데이트</li>
-  <li>변경 검토 (예를 들어 <q>git diff -u</q>)</li>
-  <li>변경을 commit 및 push</li>
-</ul>
+  <li>변경 검토 (예를 들어 <q>git diff </q>)</li>
+  <li>번역 변경을 commit</li>
+</ol>
+
+<p>Or, if you're using smart_change with a regular expression to make
+multiple changes across files in one pass:</p>
+
+<ol>
+  <li>Run <code>smart_change.pl -s s/FOO/BAR/ origfile1 origfile2 ...</code></li>
+  <li>Review the changes (e.g. with <code>git diff</code>)
+  <li>Commit the original file(s)</li>
+  <li>Run <code>smart_change.pl origfile1 origfile2</code>
+    (i.e. <strong>without the regexp</strong> this time);it will now
+    just update headers in the translated files</li>
+  <li>Finally, commit the translation changes</li>
+</ol>
+
+<p>This is more involved than previously (needing two commits), but
+unavoidable due to the way git commit hashes work</p>
 
 <h3><a name="notifications">알림 받기</a></h3>
 
