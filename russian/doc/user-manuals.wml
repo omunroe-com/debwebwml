@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Пользовательские руководства Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="89452b91283c66fe196874b0444b28b819d16d7d" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Lev Lamberov"
 
 <document "ЧаВО по Debian GNU/Linux" "faq">
 
@@ -57,7 +57,7 @@
   Доступно на <a href="$(HOME)/CD/">полных официальных компакт-дисках и дисках DVD</a>
   в директории <tt>/doc/manual/</tt>.
   <br><br>
-  <a href="https://d-i.alioth.debian.org/manual/">Разрабатываемая версия</a>
+  <a href="https://d-i.debian.org/manual/">Разрабатываемая версия</a>
 #  <br>
 #  <a href="$(HOME)/releases/testing/installmanual">Версия, подготовленная
 #  к следующему стабильному выпуску (тестируемый дистрибутив)</a>
@@ -83,7 +83,7 @@
   выпусков Debian.
 
 <doctable>
-  <authors "Adam Di Carlo, Bob Hilliard, Josip Rodin, Anne Bezemer, Rob Bradford, Frans Pop, Andreas Barth, Javier FernАndez-Sanguino PeЯa, Steve Langasek">
+  <authors "Adam Di Carlo, Bob Hilliard, Josip Rodin, Anne Bezemer, Rob Bradford, Frans Pop, Andreas Barth, Javier Fernández-Sanguino Peña, Steve Langasek">
   <status>
   Активно разрабатывается при подготовке выпусков Debian.
   Свяжитесь с
@@ -115,7 +115,7 @@
 
 <div class="centerblock">
 <p>
-Этот краткий справочник для новичков в Debian GNU/Linux 
+Этот краткий справочник для новичков в Debian GNU/Linux
 на одной странице содержит самые важные команды,
 используемые при работе с системами Debian GNU/Linux.
 Требуется базовое знание компьютеров, понятий файлов,

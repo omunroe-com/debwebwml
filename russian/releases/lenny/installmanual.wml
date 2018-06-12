@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/lenny/release.data"
-#use wml::debian::translation-check translation="588ac1ae09d08ac7a16940a1f14cd70aca96b209" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Lev Lamberov"
 
 <if-stable-release release="etch">
 <p>Это <strong>предварительная (beta) версия</strong> Руководства по установке
@@ -12,7 +12,7 @@
 в программе установки. Вас может заинтересовать
 <a href="../etch/installmanual">Руководство по установке для Debian
 GNU/Linux 4.0, кодовое имя etch</a>, являющегося последней выпущенной версией
-Debian, или <a href="https://d-i.alioth.debian.org/manual/">Разрабатываемая
+Debian, или <a href="https://d-i.debian.org/manual/">Разрабатываемая
 версия Руководства по установке</a>, наиболее актуальная версия этого
 документа.</p>
 </if-stable-release>

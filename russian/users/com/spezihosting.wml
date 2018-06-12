@@ -1,9 +1,9 @@
 # From: Holger Stehle <support@fresh-internet.net>
 # Ping: Wed, 23 Nov 2011 12:36:05 +0100 <1322048165.945817.300381631.37741.12@ticket.xovo.net>
 # DebURL: http://www.fresh-internet.net/de/server/entry/
-#use wml::debian::translation-check translation="48f7239bc771903fb55db1937dfc4b1ee55a274d" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c0816ff3dae7deb1cd48fb2f83fa934f5e5f3559" maintainer="Lev Lamberov"
 
-#use wml::debian::translation-check original="german" translation="1.5"
+#use wml::debian::translation-check original="german" translation="69e5a64c1800808bff407cbd4e6f05237895837f"
 
 <define-tag pagetitle>FRESH Internet Services GmbH, Берлин, Германия</define-tag>
 <define-tag webpage>http://www.fresh-internet.net/</define-tag>
@@ -26,4 +26,3 @@ Debian нравится нам, в частности, за свою стаби�
 производительность, а также за тщательно разработанную архитектуру,
 которая позволяет удобно настраивать систему.
 </p>
-
