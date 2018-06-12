@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-01-14" SUMMARY="Debian Squeeze nel <q>freeze profondo</q>, Debian-Installer RC1, formato interpretabile da una macchina per i file debian/copyright"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="e024326e38468acdb1dadd7d9f630ebb1853a80c" maintainer="Giovanni Mascellani"
+#use wml::debian::translation-check translation="9d68556189e28b3b286a9bdd99f5a0633cba505f" maintainer="Giovanni Mascellani"
 
 <!--
 $Id$

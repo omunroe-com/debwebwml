@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-01-14" SUMMARY="Gel complet de <q>Squeeze</q>, installateur Debian 6.0 RC1, format de fichier debian/copyright exploitable par une machine"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="e024326e38468acdb1dadd7d9f630ebb1853a80c" maintainer="David Prévot"
+#use wml::debian::translation-check translation="9d68556189e28b3b286a9bdd99f5a0633cba505f" maintainer="David Prévot"
 
 <!--
 $Id$
