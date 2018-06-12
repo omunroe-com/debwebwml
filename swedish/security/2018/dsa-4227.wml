@@ -1,0 +1,23 @@
+#use wml::debian::translation-check translation="126cdadd4d05eadd58f4df41e6106b95deb70f68" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Danny Grander upptäckte en katalogtraverseringsbrist i plexus-archiver,
+en arkiverarinsticksmodul för kompilatorsystemet Plexus, som tillåter en
+angripare att skriva över vilken fil som helst som är skrivbar av den
+extraherande användaren via ett speciellt skapat Zip-arkiv.</p>
+
+<p>För den gamla stabila utgåvan (Jessie) har detta problem rättats
+i version 1.2-1+deb8u1.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 2.2-1+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era plexus-archiver-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om plexus-archiver vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/plexus-archiver">https://security-tracker.debian.org/tracker/plexus-archiver</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4227.data"
