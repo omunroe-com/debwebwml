@@ -9,3 +9,5 @@ english/devel/website/stats/*wml
 english/devel/website/stats/*list
 *~
 .git-revs-cache.*
+*.log
+*/MailingLists/*subscribe.wml
