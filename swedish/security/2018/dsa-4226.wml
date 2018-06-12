@@ -1,0 +1,23 @@
+#use wml::debian::translation-check translation="c27a3a3fc4f98984faaf4d9cfd317c0c082808dc" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Jakub Wilk upptäckte att en katalogtraverseringsbrist i modulen
+Archive::Tar, vilket tillåter en angripare att skriva över alla filer
+som är skrivbar av den extraherande användaren via ett speciellt skapat
+tar-arkiv.</p>
+
+<p>För den gamla stabila utgåvan (Jessie) har detta problem rättats
+i version 5.20.2-3+deb8u11.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 5.24.1-3+deb9u4.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era perl-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om perl vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/perl">https://security-tracker.debian.org/tracker/perl</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4226.data"
