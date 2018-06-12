@@ -141,18 +141,10 @@ href="https://gallery.debconf.org/">이미지 갤러리
         <br />A sub-policy that covers everything regarding Perl packaging.</li>
         <li><a href="$(DOC)/packaging-manuals/python-policy/">Python 정책</a>
         <br />A proposed sub-policy that covers everything regarding Python packaging.</li>
-	<li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">Debian CLI 정책</a>
-	<br />Basic policies regarding packaging Mono, other CLRs and
-        CLI based applications and libraries</li>
+	
         <li><a href="$(DOC)/packaging-manuals/debconf_specification.html">Debconf 명세</a>
         <br />The specification to the configuration management subsystem
             "debconf".</li>
-        <li><a href="https://dict-common.alioth.debian.org/">맞춤법 사전과 도구 정책</a>
-        <br />Sub-policy for <kbd>ispell</kbd> / <kbd>myspell</kbd> dictionaries and word lists.</li>
-        <li><a href="https://webapps-common.alioth.debian.org/draft/html/">웹앱 정책 매뉴얼</a> (초안)
-	<br />Sub-policy for web-based applications.</li>
-        <li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">PHP 정책</a> (초안)
-	<br />Packaging standards of PHP.</li>
 	<li><a href="https://www.debian.org/doc/manuals/dbapp-policy/">데이터베이스 응응프로그램 정책</a> (초안)
 	<br />A set of guidelines and best practices for database application packages.</li>
 	<li><a href="https://tcltk-team.pages.debian.net/policy-html/tcltk-policy.html/">Tcl/Tk 정책</a> (초안)
