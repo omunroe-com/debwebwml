@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="c6d7388724561ad1c84639c7df1123fbb9f3387c"
+#use wml::debian::translation-check translation="c0816ff3dae7deb1cd48fb2f83fa934f5e5f3559"
 <define-tag pagetitle>Ny beowulf-klyngecomputer ved EDF (200 Tflops) baseret på Debian 6.0 Squeeze</define-tag>
 <define-tag release_date>2011-07-29</define-tag>
 #use wml::debian::news

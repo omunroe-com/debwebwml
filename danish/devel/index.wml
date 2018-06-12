@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians udviklerhjørne" BARETITLE="true"
-#use wml::debian::translation-check translation="83e7c9d3117e07a0acc4360149be71547b0ec7a7"
+#use wml::debian::translation-check translation="d95389d578d7941cd99f185103ef1a508d34269f"
 
 <p>Oplysningerne på denne side er offentligt tilgængelige, men primært af 
 interesse for Debian-udviklere.</p>
@@ -165,19 +165,19 @@ interesse for Debian-udviklere.</p>
         <br />Delretningslinier der dækker alt med hensyn til Perl-pakning.</li>
 	<li><a href="$(DOC)/packaging-manuals/python-policy/">Python-retningslinier</a>	
 	<br />Forslag til under-retningslinier som dækker alt vedr. Python-pakning.</li>
-        <li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">Debians CLI-regler</a>
-	<br />Grundlæggende regler vedrørende pakning af Mono, andre CLR'er og 
-	    CLI-baserede applikationer og bibliotekters</li>	
+#       <li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">Debians CLI-regler</a>
+#	<br />Grundlæggende regler vedrørende pakning af Mono, andre CLR'er og 
+#	    CLI-baserede applikationer og bibliotekters</li>	
 	<li><a href="$(DOC)/packaging-manuals/debconf_specification.html">Debconf-specifikation</a>
 	<br />Specifikation af delsystemet til konfigurationshåndtering,
 	    "debconf".</li>
-	<li><a href="https://dict-common.alioth.debian.org/">Fremgangsmåde for ordbøger og værktøjer</a>
-	<br />Delfremgangsmåde til <kbd>ispell</kbd>- og 
-	    <kbd>myspell</kbd>-ordbøger og -ordlister.</li>
-	<li><a href="https://webapps-common.alioth.debian.org/draft/html/">Webapps Policy Manual</a> (udkast)
-	    <br />Delfremgangsmåde for webbaserede programmer.</li>
-	<li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">PHP Policy</a> (udkast)
-	    <br />PHP-pakningsstandarder.</li>
+#	<li><a href="https://dict-common.alioth.debian.org/">Fremgangsmåde for ordbøger og værktøjer</a>
+#	<br />Delfremgangsmåde til <kbd>ispell</kbd>- og 
+#	    <kbd>myspell</kbd>-ordbøger og -ordlister.</li>
+#	<li><a href="https://webapps-common.alioth.debian.org/draft/html/">Webapps Policy Manual</a> (udkast)
+#	    <br />Delfremgangsmåde for webbaserede programmer.</li>
+#	<li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">PHP Policy</a> (udkast)
+#	    <br />PHP-pakningsstandarder.</li>
 	<li><a href="https://www.debian.org/doc/manuals/dbapp-policy/">Database Application Policy</a> (udkast)
 	    <br />Et sæt retningslinjer og bedste fremgangsmåder for pakker med 
 	    databaseapplikationer.</li>
@@ -340,9 +340,9 @@ interesse for Debian-udviklere.</p>
         <li><a href="tech-ctte">Teknisk komité</a></li>	  
 	<li><a href="$(HOME)/international/l10n/ddtp">Debians projekt til oversættelse 
 	    af beskrivelser (DDTP)</a></li>
-	<li><a href="https://alioth.debian.org/">Alioth: Debian GForge</a></li>
-	<li><a href="https://deb-usability.alioth.debian.org/">Debians 
-	    brugbarhedsforskning</a></li>
+#	<li><a href="https://alioth.debian.org/">Alioth: Debian GForge</a></li>
+#	<li><a href="https://deb-usability.alioth.debian.org/">Debians 
+#	    brugbarhedsforskning</a></li>
 	<li><a href="debian-installer/">Debian Installer</a></li>
 	<li><a href="debian-live/">Debian Live</a></li>
         <li><a href="http://www.emdebian.org/">emdebian - Embedded Debian</a></li>
@@ -351,7 +351,7 @@ interesse for Debian-udviklere.</p>
 	<li><a href="$(HOME)/women/">Debian Women</a> (Debian-kvinder)</li>
 
       </ul>
-      
+
       <p>Flere af disse projekter har det mål at udvikle 
       <a href="https://wiki.debian.org/DebianPureBlends">Debian Pure Blends</a> til 
       specifikke brugertyper, mens de samtidig arbejder fuldstændigt indenfor 
@@ -364,7 +364,7 @@ interesse for Debian-udviklere.</p>
 	<li><a href="debian-accessibility/">Debian Accessibility-projektet</a></li>
 	<li><a href="https://wiki.debian.org/DebianGis">Debians GIS-projekt</a></li>
 	<li><a href="https://wiki.debian.org/DebianScience">Debian Science</a></li>
-	<li><a href="https://debichem.alioth.debian.org/">DebiChem-projektet</a></li>
+#	<li><a href="https://debichem.alioth.debian.org/">DebiChem-projektet</a></li>
       </ul>
     </div>
   </div>
