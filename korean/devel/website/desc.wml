@@ -10,7 +10,7 @@ www-master.debian.org 에 <tt>/org/www.debian.org/www</tt> 디렉토리 안에 �
 <p>사이트는 셋 중 한 방법으로 생성됩니다:
 <ul>
   <li>그것의 대부분은 WML을 사용하여 만들어짐,
-<a href="$(DEVEL)/website/using_cvs"><q>webwml</q> CVS 트리</a>부터
+<a href="$(DEVEL)/website/using_git"><q>webwml</q> git 저장소</a>로부터
   <li>문서는 DocBook XML을 사용(DebianDoc SGML 사용은 점점 사라짐)하여 만들어지거나,
 <a href="$(DOC)/cvs"><q>ddp</q> Subversion 저장소</a>부터; 또는
 <a href="#scripts">cron scripts</a>을 써서, 해당 데비안 패키지부터
@@ -18,7 +18,7 @@ www-master.debian.org 에 <tt>/org/www.debian.org/www</tt> 디렉토리 안에 �
 예를 들어 메일링 리스트 (비)구독 페이지들
 </ul>
 
-<p>자동 업데이트는 (CVS 저장소와 다른 소스에서부터 웹트리까지) 하루에 여섯번 돕니다.
+<p>자동 업데이트는 (git 저장소와 다른 소스에서부터 웹트리까지) 하루에 여섯번 돕니다.
 
 <p>사이트에 기여하고 싶다면, <code>www/</code>에 항목을 단순히 더하거나 편집하지 <strong>마세요</strong>.
 <a href="mailto:webmaster@debian.org">웹 마스터</a>에게 먼저 연락하세요.
@@ -68,11 +68,11 @@ HTML은 wml에 사용될 수 있는 추가 정보의 한 유형일 뿐입니다.
 
 <toc-add-entry name="sources">소스</toc-add-entry>
 
-<p>웹 페이지의 소스는 CVS에 저장됩니다. CVS 는 버전 관리시스템이며, 어떤 변경을 누가, 언제 그리고 왜
+<p>웹 페이지의 소스는 gi에 저장됩니다. git 는 버전 관리시스템이며, 어떤 변경을 누가, 언제 그리고 왜
 했는지 등의 로그를 남길 수 있습니다. 그것은 여러 사용자들 사이에서 동시 편집을 제어하는 안전한 방법인데,
 그것은 데비안 웹 팀이 규모가 크기 때문에 우리에게 중대합니다.
 
-<p>이 프로그램이 낯설다면, <a href="using_cvs">CVS 사용하기</a>를 읽어보고 싶을 수 있습니다.
+<p>이 프로그램이 낯설다면, <a href="using_git">git 사용하기</a>를 읽어보고 싶을 수 있습니다.
 
 <p>The topmost webwml directory in the CVS repository contains directories
 named after the languages the web site is in, two makefiles and several
