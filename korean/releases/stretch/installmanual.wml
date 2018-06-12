@@ -1,4 +1,4 @@
-#use wml::debian::template title="데비안n stretch -- 설치 안내" BARETITLE=true
+#use wml::debian::template title="데비안 stretch -- 설치 안내" BARETITLE=true
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
