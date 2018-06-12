@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="45830018dd74aa2119aca4b77e18436c663df675" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="52c000832f536f52b57bcf563167053210095c0b" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Ман Ю Мо, Ларс Крапф и Пьер Эрнст обнаружили, что Batik,

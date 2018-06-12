@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="45830018dd74aa2119aca4b77e18436c663df675" mindelta="1"
+#use wml::debian::translation-check translation="52c000832f536f52b57bcf563167053210095c0b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man Yue Mo, Lars Krapf og Pierre Ernst opdagede at Batik, et værktøjssæt til 

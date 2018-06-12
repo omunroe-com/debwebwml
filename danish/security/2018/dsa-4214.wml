@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1427e192d146abb0cd63c769f6e60458d4d8c51f" mindelta="1"
+#use wml::debian::translation-check translation="98450b2e9138675e3c0f26e7372bc8e190458a9b" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Man opdagede at Zookeeper, en tjeneste til vedligeholdelse af 
