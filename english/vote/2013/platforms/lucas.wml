@@ -253,7 +253,7 @@ maintainers that feel very responsible about packages (and are often real
 experts of those packages) is an important strength of Debian, maintainers
 should think in terms of <q>packages I currently take care of inside Debian</q>
 rather than <q>packages I own inside Debian</q>. The <a
-href="http://dep.debian.net/deps/dep1.html">current NMU policy</a> (a change I
+href="https://dep-team.pages.debian.net/deps/dep1.html">current NMU policy</a> (a change I
 drove back in 2008) is a good basis, but we could use a small cultural shift to
 be more welcoming to contributions from other contributors. For example, we
 could generalize the collab-maint security model (= <q>every DD can commit</q>)

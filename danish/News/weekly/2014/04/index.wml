@@ -134,7 +134,7 @@ fra autopkgtest-holdet</a>.  Projektet har udviklet sig meget i den seneste tid,
 og har nu ny dokumentation, nye virtualiseringsservere og nye testdeklarationer. 
 Til sidst fortalte han om tilstedeværelsen af <a href="http://ci.debian.net">\
 ci.debian.net</a>, en ny tjeneste der hele tiden afvikler pakketests, defineret i 
-<a href="http://dep.debian.net/deps/dep8/">DEP-8-formatet</a>, ved hjælp af 
+<a href="https://dep-team.pages.debian.net/deps/dep8/">DEP-8-formatet</a>, ved hjælp af 
 autopkgtest.</p>
 
 <p>Bernd Zeimetz

@@ -165,7 +165,7 @@ from the autopkgtest team</a>. The project has been evolving a lot recently,
 and now has new documentation, new virtualisation servers and new test declarations.
 To round it off he announced <a href="http://ci.debian.net">ci.debian.net</a>, a
 new service that continuously runs package tests declared in the
-<a href="http://dep.debian.net/deps/dep8/">DEP-8 format</a>,
+<a href="https://dep-team.pages.debian.net/deps/dep8/">DEP-8 format</a>,
 using autopkgtest.
 </p>
 

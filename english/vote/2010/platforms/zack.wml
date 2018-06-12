@@ -358,7 +358,7 @@ project should <EM>consider</EM> within some time frame. The
 page--and how we did(n't) use it--is an example of such need. The DPL should
 ensure the project has similar agendas to avoid forgetting about important
 topics to later remember them, say, just before a release.</P><P>Management also means keeping track of what happened. The
-<A HREF="http://dep.debian.net/deps/dep0/">DEP proposal</A>, which I've contributed
+<A HREF="https://dep-team.pages.debian.net/deps/dep0/">DEP proposal</A>, which I've contributed
 to start, is an attempt to achieve that: no excessive extra burden induced, but
 a work-flow to remember what is the status of "large" project-changing
 proposals. The DPL should take care of "orphaned" DEPs by reassigning,

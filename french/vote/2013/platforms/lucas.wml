@@ -289,7 +289,7 @@ paquets (et sont souvent de véritables experts de ces paquets)
 est une force importante de Debian, les mainteneurs devraient
 penser en termes de <q>paquets dont je m'occupe actuellement dans
 Debian</q> plutôt qu'en <q>paquets que je possède dans Debian</q>.
-La <a href="http://dep.debian.net/deps/dep1.html">pratique actuelle de mises
+La <a href="https://dep-team.pages.debian.net/deps/dep1.html">pratique actuelle de mises
 à jour indépendante (NMU)</a> (une modification que j'avais pilotée en 2008)
 est une bonne base, mais nous pourrions profiter d'une petite évolution
 culturelle en accueillant mieux les contributions d'autres contributeurs.

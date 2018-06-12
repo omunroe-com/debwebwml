@@ -165,7 +165,7 @@ vom autopkgtest-Team</a> geschickt. Das Projekt ist in jüngster Zeit gut vorang
 und verfügt nun über eine neue Dokumentation, neue Virtualisierungsserver und neue Testdeklarationen.
 Vervollständigt wird es durch <a href="http://ci.debian.net">ci.debian.net</a>, einem
 neuen Dienst, der unter Verwendung von autopkgtest unablässig Paket-Tests vornimmt, die im
-<a href="http://dep.debian.net/deps/dep8/">Format DEP-8</a> deklariert sind.
+<a href="https://dep-team.pages.debian.net/deps/dep8/">Format DEP-8</a> deklariert sind.
 </p>
 
 <p>

@@ -172,7 +172,7 @@ et dispose maintenant d'une nouvelle documentation, de nouveaux serveurs de
 virtualisation et de nouvelles déclarations pour les tests.
 Il est complété par <a href="http://ci.debian.net">ci.debian.net</a>, un
 nouveau service qui exécute en continu des tests de paquets déclarés au
-<a href="http://dep.debian.net/deps/dep8/">format DEP-8</a> et
+<a href="https://dep-team.pages.debian.net/deps/dep8/">format DEP-8</a> et
 utilisant autopkgtest.
 </p>
 
