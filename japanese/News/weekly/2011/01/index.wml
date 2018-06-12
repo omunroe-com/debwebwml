@@ -104,7 +104,7 @@ href="http://upsilon.cc/~zack/blog/posts/2010/12/squeeze_your_non-free_firmware_
 <toc-add-entry name="dep5">debian/copyright
 ファイルのための機械可読フォーマット</toc-add-entry>
 
-<p>Lars Wirzenius さんは、<a href="http://dep.debian.net/deps/dep5/">Debian
+<p>Lars Wirzenius さんは、<a href="https://dep-team.pages.debian.net/deps/dep5/">Debian
 パッケージの著作権情報用に機械可読フォーマットを規定している Debian
 Enhancement Proposal 5</a> が、<q>candidate</q> 状態に達したと<a
 href="https://lists.debian.org/1294581615.20273.71.camel@havelock.lan">\
