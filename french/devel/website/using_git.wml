@@ -1,0 +1,251 @@
+#use wml::debian::template title="Utilisation de git pour gérer le code source du site web"
+#use wml::debian::translation-check translation="5d080035d9ae8d0435f58853443362eb5407acaa" maintainer="Jean-Pierre Giraud"
+
+# Translator:
+# Jean-Pierre Giraud, 2018.
+
+<p>Git est un <a href="https://fr.wikipedia.org/wiki/Version_control">système
+de gestion de version</a> qui aide à la modification simultanée de
+documents par plusieurs personnes. Chaque utilisateur crée une copie
+locale des documents. Ces copies peuvent être sur la même machine ou
+aux quatre coins du monde. Les utilisateurs peuvent alors modifier leur
+copie locale comme ils le souhaitent et, quand la version modifiée est
+prête, enregistrer leurs changements (« commit ») et les envoyer en retour
+vers le dépôt principal.</p>
+
+<p>Git ne vous permettra pas d'envoyer directement une modification si le
+dépôt distant a reçu des modifications (commits) plus récentes que votre copie
+locale, dans la même branche.
+Dans le cas où un tel conflit survient, veuillez d'abord chercher les mises à
+jour de votre copie locale et rebaser (<code>rebase</code>) vos nouvelles
+modifications au-dessus du dernier « commit » envoyé.
+</p>
+
+<h3><a name="write-access">Accès en écriture à git</a></h3>
+
+<p>
+Si vous avez besoin d'un accès en écriture au dépôt, veuillez en faire la
+demande à l'aide de l'interface web
+<url https://salsa.debian.org/webmaster-team/webwml/> après vous être
+connecté à la plateforme Salsa de Debian. Si vous débutez dans le
+développement du site web de Debian et si vous n'avez pas d'expérience
+antérieure, veuillez aussi envoyer un courriel à <a
+href="mailto:debian-www@lists.debian.org"> debian-www@lists.debian.org</a>
+en vous présentant. Veuillez indiquer quelque chose d'utile dans votre
+présentation, comme la langue ou la partie du site web auxquelles vous
+voudriez contribuer, et qui pourrait se porter garant pour vous.
+</p>
+
+<h3><a name="work-on-repository">Travailler sur le dépôt</a></h3>
+
+<h4><a name="clone-local-repo-copy">Cloner une copie locale du dépôt</a></h4>
+
+<p>D'abord, vous devez installer git pour travailler avec le dépôt. Ensuite,
+configurez les détails de votre utilisateur et de votre adresse courriel sur
+votre ordinateur (veuillez vous référer à la documentation générale de git pour
+apprendre comment le faire). Ensuite, vous pouvez cloner le dépôt (en d'autres
+termes, vous en faites une copie) en utilisant une de ces deux méthodes.</p>
+
+<p>La façon recommandée de travailler sur webwml est d'abord d'ouvrir un compte
+sur salsa.debian.org et d'autoriser un accès SSH à git en envoyant une
+clé publique SSH dans votre compte de salsa. Voir les <a
+href="https://salsa.debian.org/help/ssh/README.md">pages d'aide de salsa</a>
+pour obtenir plus de détails sur comment le faire. Vous pouvez ensuite cloner
+le dépôt webwml avec la commande suivante :</p>
+
+<pre>
+   git clone git@salsa.debian.org:webmaster-team/webwml.git
+</pre>
+
+<p>Si vous n'avez pas de compte salsa, une méthode alternative est de cloner le
+dépôt avec le protocole HTTPS :</p>
+
+<pre>
+  git clone https://salsa.debian.org/webmaster-team/webwml.git
+</pre>
+
+<p>Cela vous donnera la même copie locale du dépôt, mais vous ne serez pas
+capable d'envoyer directement vos modifications de cette manière.</p>
+
+<p>Cloner la totalité du dépôt webwml demandera le téléchargement d'environ
+500 Mo de données, cela peut donc être difficile pour tous ceux qui ont une
+liaison Internet lente ou instable. Vous pouvez essayer de procéder à un
+clonage superficiel avec d'abord une profondeur minimale pour un téléchargement
+initial plus court :</p>
+
+<pre>
+  git clone git@salsa.debian.org:webmaster-team/webwml.git --depth 1
+</pre>
+
+<p>Une fois que vous avez obtenu un dépôt (superficiel) utilisable, vous pouvez
+approfondir la copie locale superficielle et, éventuellement, la convertir en
+un dépôt local complet :</p>
+
+<pre>
+  git fetch --deepen=1000 # approfondit le dépôt de 1000 commits supplémentaires
+  git fetch --unshallow   # obtient tous les commits manquants, convertit le dépôt en dépôt complet
+</pre>
+<h4><a name="partial-content-checkout">Récupération partielle de contenu</a></h4>
+
+<p>Vous pouvez procéder à la récupération de seulement un sous-ensemble des
+pages ainsi :</p>
+
+<pre>
+   $ git clone --no-checkout git@salsa.debian.org:webmaster-team/webwml.git
+   $ cd webwml
+   $ git config core.sparseCheckout true
+   Dans webwml : créez le fichier .git/info/sparse-checkout avec un contenu
+   comme celui-ci (si vous ne voulez que les fichiers de base, l'anglais et
+   les traductions en catalan et en espagnol) :
+      /*
+      !/[a-z]*/
+      /english/
+      /catalan/
+      /spanish/
+   puis :
+   $ git checkout --
+</pre>
+
+<h4><a name="submit-changes">Soumettre des modifications locales</a></h4>
+
+<p>De temps en temps (et au moins avant de débuter un travail d'édition !) il
+faudra lancer la commande</p>
+
+<pre>
+   git pull
+</pre>
+
+<p>pour récupérer tous les fichiers du dépôt qui ont changé.</p>
+
+<p>Attention : git est un système de contrôle de versions distribué (non
+centralisé). Cela signifie que quand vous préparez l'envoi de vos modifications,
+elles seront seulement stockées dans votre dépôt local. Pour les partager avec
+les autres, vous devrez aussi envoyer vos modifications vers le dépôt central de
+Salsa.</p>
+
+<p><strong>Ainsi la modification d'un fichier anglais ce fera comme cela :</strong></p>
+
+<pre>
+   $ git pull
+</pre>
+
+<p>Maintenant, modifiez les fichiers. Quand c'est fait, préparez l'envoi de vos
+modifications dans votre dépôt local avec les commandes :</p>
+
+<pre>
+   $ git add chemin/vers/fichier(s)
+   $ git commit -m "Votre message d'envoi"
+</pre>
+
+<p>Puis envoyez vos modifications dans le dépôt de Salsa :</p>
+
+<pre>
+   $ git push
+</pre>
+
+<p>Il s'agit d'un résumé très sommaire de la façon d'utiliser pour manipuler
+code source du site web de Debian. Pour plus d'informations sur git, veuillez
+consulter sa documentation.</p>
+
+### FIXME: Is the following still true? holgerw
+### FIXME: Seems not true anymore. Needs fixup. -- hosiet-guest
+<h4><a name="closing-debian-bug-in-git-commits">Fermer des bogues de Debian dans les envois de git</a></h4>
+
+<p>
+En incluant <code>Closes: #</code><var>nnnnnn</var> dans votre entrée de
+journal d'envoi, le bogue <code>nº</code><var>nnnnnn</var> sera
+fermé automatiquement quand vous enverrez vos modifications. La forme exacte
+est la même que celle décrite dans
+<a href="$(DOC)/debian-policy/footnotes.html#f17">la Charte Debian</a>.</p>
+
+<p>
+Beaucoup de sites web de Debian prennent en charge SSL, veuillez utiliser des
+liens en HTTPS lorsque c'est possible et pertinent. <strong>Néanmoins</strong>,
+certains sites web de Debian, DebConf, SPI, etc. ne prennent pas en charge
+HTTPS ou n'ont leur certificat SSL signé uniquement par SPI, (et pas par une
+autorité SSL considérée de confiance par tous les navigateurs). Veuillez
+éviter les liens en HTTPS vers ces sites web pour que les visiteurs ne
+reçoivent pas de messages d'erreur.</p>
+
+<p>Le dépôt git rejettera les envois contenant des liens en HTTP vers les sites
+web Debian qui prennent en charge HTTPS, ou contenant des liens en HTTPS vers
+les sites web Debian, DebConf et SPI qui sont connus pour ne pas prendre en
+charge HTTPS ou avoir un certificat signé uniquement par SPI.</p>
+
+<h3><a name="translation-work">Travailler sur des traductions</a></h3>
+
+<p>
+Si vous modifiez des fichiers traduits, il est nécessaire de mettre à jour
+l'en-tête translation-check pour qu'il corresponde à l'empreinte d'envoi de
+git de la modification correspondante du fichier anglais. Vous pouvez trouver
+cette empreinte avec la commande suivante :
+
+<pre>
+$ git log chemin/vers/fichier/en_anglais/
+</pre>
+
+Si vous faites une nouvelle traduction de fichier, veuillez utiliser le
+script <q>copypage.pl</q> et il créera un modèle pour votre langue, y compris
+l'en-tête de traduction correct.</p>
+
+<h3><a name="translation-smart-change">Modifications de traductions avec smart_change.pl</a></h3>
+
+<p><code>smart_change.pl</code> est un script conçu pour faciliter la mise à
+jour à la fois les fichiers originaux et leurs traductions. Il y a deux
+façons de l'utiliser, selon les modifications que vous faites.</p>
+
+<p>Pour utiliser <code>smart_change</code> afin de mettre à jour seulement
+les en-têtes « translation-check » quand vous travaillez manuellement sur les
+fichiers :</p>
+
+<ol>
+  <li>modifiez le ou les fichiers originaux et envoyez les modifications ;</li>
+  <li>mettez à jour les traductions ;</li>
+  <li>exécutez smart_change.pl - le script récupérera les modifications et
+    mettra à jour les en-têtes dans les fichiers de traduction ;</li>
+  <li>vérifiez les modifications (par exemple avec « git diff ») ;</li>
+  <li>envoyez les modifications de traduction.</li>
+</ol>
+
+<p>Sinon, si vous utilisez smart_change avec une expression rationnelle pour
+faire plusieurs modifications dans plusieurs fichiers en une seule passe :</p>
+
+<ol>
+  <li>exécutez <code>smart_change.pl -s s/toto/titi/ fichier_origine1
+    fichier_origine2 ...</code></li>
+  <li>vérifiez les modifications (par exemple avec « git diff ») ;</li>
+  <li>envoyez les modifications du ou des fichiers originaux</li>
+  <li>exécutez <code>smart_change.pl fichier_origine1 fichier_origine2</code>
+    (c'est-à-dire <strong>sans l'expression rationnelle</strong> cette
+    fois-ci) ; cela mettra à jour uniquement les en-têtes dans les fichiers
+    traduits ;</li>
+  <li>finalement, envoyez les modifications de traduction.</li>
+</ol>
+
+<p>C'est plus compliqué qu'auparavant (deux envois sont nécessaires), mais
+inévitable vue la manière dont fonctionnent les empreintes d'envoi de git.</p>
+
+<h3><a name="notifications">Obtenir des notifications</a></h3>
+
+<p>
+Nous avons configuré le projet webwml dans Salsa, de telle manière que les
+modifications apparaissent sur le canal IRC #debian-www.</p>
+
+<p>Si vous voulez recevoir des notifications par courriel lorsqu'il y a des
+modifications dans le dépôt de webwml, veuillez vous abonner au pseudo-paquet
+<q>www.debian.org</q> au moyen de tracker.debian.org et activez-y le mot clé
+<q>vcs</q>, en suivant ces étapes (une seule fois) :</p>
+
+<ul>
+  <li>Ouvrez un navigateur web et allez à l'adresse <url https://tracker.debian.org/pkg/www.debian.org></li>
+  <li>Abonnez-vous au pseudo-paquet <q>www.debian.org</q>. (Vous pouvez vous
+      authentifier par SSO ou enregistrer une adresse courriel et un mot de
+      passe, si vous n'utilisez pas déjà tracker.debian.org avec un autre
+      objectif).</li>
+  <li>Allez à la page <url https://tracker.debian.org/accounts/subscriptions/>,
+      puis à <q>modify keywords</q>, cochez <q>vcs</q> (si ce n'est pas déjà 
+      fait) et sauvegardez.</li>
+  <li>À partir de ce moment, vous recevrez des courriels lorsque quelqu'un
+      envoie une modification dans le dépôt webwml. D'autres dépôts de
+      webmaster-team seront ajoutés prochainement.</li>
+</ul>
