@@ -57,7 +57,7 @@ Une liste complète des miroirs est disponible à l'adresse :
 
 <p><b>Notification pour la fin de vie à venir de Debian 8</b></p>
 <p>Veuillez noter qu'un bulletin d'alerte de Debian a délivré <a
-href="https://www.debian.org/security/2018/dsa-4205"> une notification préalable</a>
+href="https://www.debian.org/security/2018/dsa-4205">une notification préalable</a>
 de la fin de la prise en charge ordinaire de la sécurité pour Debian GNU/Linux 8
 (nom de code <q>Jessie</q>) le 17 juin 2018.
 </p>
@@ -87,7 +87,7 @@ et de la <a href="https://qa.debian.org/developer.php?login=pkg-ayatana-devel%40
 de présentation des empaqueteurs d'Ayatana</a>.</p>
 
 
-<p><b>Migration de Debian d'Alioth</p></b>
+<p><b>Migration de Debian Alioth</p></b>
 
 <p>Debian a migré plusieurs de ses services à partir du vieux serveur <a
 href="https://wiki.debian.org/Alioth">Alioth</a>, qui fonctionnait avec
@@ -165,7 +165,7 @@ récemment le nom du lauréat du concours pour son logo.
 Une rencontre des femmes de Debian s'est tenue à Curitiba, Brésil le 10 mars 2018.
 Des détails sur l’événement et son programme sont disponibles sur leur site
 <a href="https://debianwomenbr.github.io">web</a> et la <a
-href="https://wiki.debian.org/Brasil/Eventos/1oEncontroDebianWomenCuritiba"> page
+href="https://wiki.debian.org/Brasil/Eventos/1oEncontroDebianWomenCuritiba">page
 du wiki</a>. Des photos sont 
 <a href="https://github.com/debianwomenbr/debianwomenbr.github.io/tree/master/img/I_encontro">disponibles</a>.
 </p>
@@ -180,7 +180,7 @@ des diffusions vidéo en direct et leurs enregistrements sont déjà
 <p>
 Une miniDebConf s'est tenue à Hambourg, Allemagne, les 19 et 20 mai 2018.
 Des détails sur l’événement, son programme et des photos sont disponibles sur
-leur <a href="https://wiki.debian.org/DebianEvents/de/2018/MiniDebConfHamburg"> page
+leur <a href="https://wiki.debian.org/DebianEvents/de/2018/MiniDebConfHamburg">page
 du wiki</a>. Il y a eu des diffusions vidéo en direct et leurs enregistrements
 sont déjà <a href="://meetings-archive.debian.net/pub/debian-meetings/2018/miniconf-hamburg/">disponibles</a>.
 </p>
@@ -272,8 +272,8 @@ bogues marqués <q>newcomer</q> disponibles.
 <p><b>Groupe d'étude de Debian / Grupo de estudos de Debian</b></p>
 <p>Helen Koike <a href="https://lists.debian.org/debian-women/2018/05/msg00005.html">annonce</a>
 des réunions toutes les deux semaines (conférence vidéo) dédiées à l'étude de
-Debian. Le groupe verra et discutera du <a href="http://debianet.com.br/">cours
-en ligne d'empaquettage</a> de João Eriberto Mota Filho.
+Debian. Le groupe visionnera et discutera du <a href="http://debianet.com.br/">cours
+en ligne d'empaquetage</a> de João Eriberto Mota Filho.
 Les rencontres auront lieu en portugais et bien que le public visé soit en
 priorité les femmes et la diversité, elles sont ouvertes à tous ceux qui
 souhaitent participer. Les prochains rendez-vous sont le jeudi 7 juin à 20 h et
