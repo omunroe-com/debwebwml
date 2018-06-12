@@ -64,10 +64,6 @@ $opt_p =~ s/$/\$/g;
 
 my $VCSHOST = "salsa";
 my $VCSBASE = "https://salsa.debian.org/webmaster-team/webwml";
-if (-d "$config{'wmldir'}/CVS") {
-    $VCSHOST = "alioth";
-    $VCSBASE = "https://anonscm.debian.org/viewvc/webwml/webwml";
-}
 
 my $l = Webwml::Langs->new($opt_w);
 my %langs = $l->name_iso();
@@ -411,9 +407,7 @@ if ($config{'difftype'} eq 'u') {
 sub vcs_log_url {
     my ($path, $rev) = @_;
 
-    if ($VCSHOST =~ m/alioth/) {
-	return "$VCSBASE/$path#rev$rev";
-    } elsif ($VCSHOST =~ m/salsa/) {
+    if ($VCSHOST =~ m/salsa/) {
 	return "$VCSBASE/commits/$rev/$path";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
@@ -423,9 +417,7 @@ sub vcs_log_url {
 sub vcs_diff_url {
     my ( $path, $r1, $r2, $diff_format ) = @_;
 
-    if ($VCSHOST =~ m/alioth/) {
-	return "$VCSBASE/$path/?r1=$r1&amp;r2=$r2&amp;diff_format=$diff_format";
-    } elsif ($VCSHOST =~ m/salsa/) {
+    if ($VCSHOST =~ m/salsa/) {
 	return "$VCSBASE/compare?from=$r1&amp;to=$r2";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
@@ -435,9 +427,7 @@ sub vcs_diff_url {
 sub vcs_view_url {
     my ($path) = @_;
 
-    if ($VCSHOST =~ m/alioth/) {
-	return "$VCSBASE/$path?view=markup";
-    } elsif ($VCSHOST =~ m/salsa/) {
+    if ($VCSHOST =~ m/salsa/) {
 	return "$VCSBASE/blob/master/$path";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
@@ -447,9 +437,7 @@ sub vcs_view_url {
 sub vcs_raw_url {
     my ($path) = @_;
 
-    if ($VCSHOST =~ m/alioth/) {
-	return "$VCSBASE/$path?view=co";
-    } elsif ($VCSHOST =~ m/salsa/) {
+    if ($VCSHOST =~ m/salsa/) {
 	return "$VCSBASE/raw/master/$path";
     } else {
 	die "Unknown/unsupported VCSHOST $VCSHOST - ABORT\n";
@@ -510,46 +498,18 @@ foreach $lang (@search_in) {
 		        $o_body .= "<td></td><td></td>";
 		      }
 		    } else {
-		      if (defined $status_db{$lang}) {
-                       if ($transversion{"$lang/$file"} ne ''){
-		        if ($VCSHOST =~ m/alioth/) {
-			 $o_body .= sprintf '<td><a title=\'<gettext domain="stats">Unified diff</gettext>\' href="%s">%s&nbsp;→&nbsp;%s</a> ',
-				 vcs_diff_url( "$orig/$file", $transversion{"$lang/$file"}, $version{"$orig/$file"}, 'u' ),
-				 short($transversion{"$lang/$file"}), short($version{"$orig/$file"});
-			 $o_body .= sprintf '<a title=\'<gettext domain="stats">Colored diff</gettext>\' href="%s">%s&nbsp;→&nbsp;%s</a> ',
-				 vcs_diff_url( "$orig/$file", short($transversion{"$lang/$file"}), short($version{"$orig/$file"}), 'h' ),
-				 short($transversion{"$lang/$file"}), short($version{"$orig/$file"});
-			 $o_body .= "$statspan</td>";
+			if (defined $status_db{$lang}) {
+			    if ($transversion{"$lang/$file"} ne ''){
+				$o_body .= sprintf "<td>git diff %s..%s -- %s</td>",
+				    short($transversion{"$lang/$file"}), short($version{"$orig/$file"}), "$orig/$file";
+			    } else {
+				$o_body .= sprintf "<td>%d (%.2f&nbsp;&permil;)</td>", $sizes{$file}, $sizes{$file}/$nsize * 1000;
+			    }
 			} else {
-			 $o_body .= sprintf '<td><a title=\'<gettext domain="stats">Commit diff</gettext>\' href="%s">%s&nbsp;→&nbsp;%s</a> ',
-				 vcs_diff_url( "$orig/$file", $transversion{"$lang/$file"}, $version{"$orig/$file"}, 'u' ),
-				 short($transversion{"$lang/$file"}), short($version{"$orig/$file"});
-			 # FIXME - this is clearly wrong, but no idea what's meant to go here!
-			 $o_body .= sprintf '<a title=\'<gettext domain="stats">Git command line</gettext>\' href="%s">%s&nbsp;→&nbsp;%s</a> ',
-				 vcs_diff_url( "$orig/$file", short($transversion{"$lang/$file"}), short($version{"$orig/$file"}), 'h' ),
-				 short($transversion{"$lang/$file"}), short($version{"$orig/$file"});
-			 $o_body .= "$statspan</td>";
+			    $o_body .= sprintf "<td>git diff %s..%s -- %s</td>",
+				short($transversion{"$lang/$file"}), short($version{"$orig/$file"}), "$orig/$file";
 			}
-		       } else {
-			$o_body .= sprintf "<td>%d (%.2f&nbsp;&permil;)</td>", $sizes{$file}, $sizes{$file}/$nsize * 1000;
-		       }
-		      } else {
-		        if ($VCSHOST =~ m/alioth/) {
-		          $o_body .= sprintf "<td><a href=\"%s\">%s\&nbsp;->\&nbsp;%s</a></td>",
-					     vcs_diff_url( "$orig/$file", $transversion{"$lang/$file"}, $version{"$orig/$file"}, $firstdifftype ),
-					     short($transversion{"$lang/$file"}), short($version{"$orig/$file"});
-			  $o_body .= sprintf "<td><a href=\"%s\">%s\&nbsp;->\&nbsp;%s</a></td>",
-					     vcs_diff_url( "$orig/$file", $transversion{"$lang/$file"}, $version{"$orig/$file"}, $seconddifftype ),
-					     short($transversion{"$lang/$file"}), short($version{"$orig/$file"});
-			} else {
-		          $o_body .= sprintf "<td><a href=\"%s\">%s\&nbsp;->\&nbsp;%s</a></td>",
-					     vcs_diff_url( "$orig/$file", $transversion{"$lang/$file"}, $version{"$orig/$file"}, $firstdifftype ),
-					     short($transversion{"$lang/$file"}), short($version{"$orig/$file"});
-			  $o_body .= sprintf "<td>git diff %s..%s -- %s</td>",
-			                      short($transversion{"$lang/$file"}), short($version{"$orig/$file"}), "$orig/$file";
-			}
-		      }
-		    }
+		  }
 		    $o_body .= sprintf "<td><a title=\"%s\" href=\"%s\">[L]</a></td>", $msg, vcs_log_url("$orig/$file", $version{"$orig/$file"});
                     $o_body .= sprintf "<td><a href=\"%s\">[V]</a>\&nbsp;", vcs_view_url("$lang/$file");
                     $o_body .= sprintf "<a href=\"%s\">[F]</a></td>", vcs_raw_url("$lang/$file");
@@ -675,13 +635,7 @@ foreach $lang (@search_in) {
 	      } else {
 		print HTML '<th><gettext domain="stats">Comment</gettext></th>'."\n";
 		print HTML '<th><gettext domain="stats">Diffstat</gettext></th>'."\n";
-		if ($VCSHOST =~ m/alioth/) {
-		    if ($opt_d eq "u") { print HTML '<th><gettext domain="stats">Unified diff</gettext></th><th><gettext domain="stats">Colored diff</gettext></th>'; }
-		    elsif ($opt_d eq "h") { print HTML '<th><gettext domain="stats">Colored diff</gettext></th><th><gettext domain="stats">Unified diff</gettext></th>'; }
-		    else { print HTML '<th><gettext domain="stats">Diff</gettext></th>'; }
-		    } else {
-			print HTML '<th><gettext domain="stats">Commit diff</gettext></th><th><gettext domain="stats">Git command line</gettext></th>';
-		}
+		print HTML '<th><gettext domain="stats">Git command line</gettext></th>';
 	      }
                 print HTML '<th><gettext domain="stats">Log</gettext></th>';
                 print HTML '<th><gettext domain="stats">Translation</gettext></th>';
