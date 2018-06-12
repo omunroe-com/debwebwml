@@ -1,6 +1,6 @@
 #use wml::debian::template title="Programme de Lucas Nussbaum" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5c5434c5bbef4923c2b184d34daf6333923c84c1" maintainer="David Prévot"
 
   <table class="title">
     <tr>

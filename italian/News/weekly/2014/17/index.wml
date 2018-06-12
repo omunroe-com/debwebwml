@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-12-29" SUMMARY="Modificare il sorgente online, Debian Code Search, Supporto UEFI in Jessie, Limiti di permanenza in carica per il Technical Committee, Debian Long Term Support e quarto rapporto Freexian, Presentazione, note e utilizzo di C++11 in Jessie, Segnalazioni di bug in Jessie, DPN chiede: Auditor, cosa fate?, Altre notizie"
-#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794" maintainer="Mirco Scottà"
+#use wml::debian::translation-check translation="5c5434c5bbef4923c2b184d34daf6333923c84c1" maintainer="Mirco Scottà"
 
 # $Rev: 5933 $
 # Status: [content-frozen]

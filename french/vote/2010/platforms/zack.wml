@@ -1,6 +1,6 @@
 #use wml::debian::template title="Programme de Stefano Zacchiroli" BARETITLE="true" NOHEADER="true"
 #include "$(ENGLISHDIR)/vote/style.inc"
-#use wml::debian::translation-check translation="24c44bd7384aec0bfadf3f41ae88f41afeb722fc" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5c5434c5bbef4923c2b184d34daf6333923c84c1" maintainer="David Prévot"
 
 {#style#:
 <STYLE type="text/css">
