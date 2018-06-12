@@ -63,6 +63,15 @@ my $cache_db = ".git-revs-cache.db";
 my $cache_lock = ".git-revs-cache.lock";
 my $git_index = ".git/index";
 
+# The timestamp where we finished the CVS to git transition. Before
+# this date, we need to include merge commits in our output (due to
+# the way the transition code worked). After this date, we do *not*
+# want to include merge commits. Ugh... :-/
+my $timestamp_cvs2git = 1527734365;
+my $git_log_common = 'git log --no-renames --name-only --numstat --format=format:"%H %ct"';
+my $git_log_old = "$git_log_common --before $timestamp_cvs2git -m --first-parent";
+my $git_log_new = "$git_log_common --since $timestamp_cvs2git --no-merges";
+
 use strict;
 use warnings;
 
@@ -189,28 +198,17 @@ sub cache_file {
     _safe_chdir($topdir, $startdir) or die "Can't chdir to $topdir: $!\n";
 
     my (@commits);
-    # We want to see all the commits, but we don't want the noise from
-    # merges. Track what commits we've seen so we can ignore the
-    # "right-hand" commit files
-    my %commits_seen;
-    open (GITLOG, "git log --no-renames -m --name-only --numstat --format=format:\"%H %ct\" -- $file |") or die "Can't fork git log: $!\n";
+    # Complication of the cvs2git transition. We want merges from before that, but not since.
+    open (GITLOG, "($git_log_new -- $file ; $git_log_old -- $file) |") or die "Can't fork git log: $!\n";
     my ($cmt_date, $cmt_rev);
     while (my $line = <GITLOG>) {
 	chomp $line;
 	if ($line =~ m/^([[:xdigit:]]+) (\d+)$/) {
 	    $cmt_rev = $1;
 	    $cmt_date = $2;
-	    if ($commits_seen{$cmt_rev}) {
-		$commits_seen{$cmt_rev}++;
-		$self->_debug("Seen $cmt_rev again, ignoring");
-	    } else {
-		$commits_seen{$cmt_rev} = 1;
-	    }
 	    next;
 	} elsif ($line =~ m{^$file$}) {
-	    if ($commits_seen{$cmt_rev} and $commits_seen{$cmt_rev} == 1) {
-		$self->_add_cache_entry($file, $cmt_date, $cmt_rev);
-	    }
+	    $self->_add_cache_entry($file, $cmt_date, $cmt_rev);
 	}
     }
     close GITLOG;
@@ -333,31 +331,19 @@ sub cache_repo {
 #	    print __LINE__ . ": " . Dumper(%cache);
 
     my (@commits);
-    # We want to see all the commits, but we don't want the noise from
-    # merges. Track what commits we've seen so we can ignore the
-    # "right-hand" commit files
-    my %commits_seen;
     my $count = 0;
-    open (GITLOG, "git log --no-renames -m --name-only --numstat --format=format:\"%H %ct\" |") or die "Can't fork git log: $!\n";
+    open (GITLOG, "($git_log_new ; $git_log_old) |") or die "Can't fork git log: $!\n";
     my ($cmt_date, $cmt_rev);
     while (my $line = <GITLOG>) {
 	chomp $line;
 	if ($line =~ m/^([[:xdigit:]]+) (\d+)$/) {
 	    $cmt_rev = $1;
 	    $cmt_date = $2;
-	    if ($commits_seen{$cmt_rev}) {
-		$commits_seen{$cmt_rev}++;
-		$self->_debug("Seen $cmt_rev again, ignoring");
-	    } else {
-		$commits_seen{$cmt_rev} = 1;
-	    }
 	    next;
 	} elsif ($line =~ m{^(\S+)$}) {
 	    my $file = $1;
-	    if ($commits_seen{$cmt_rev} and $commits_seen{$cmt_rev} == 1) {
-		$self->_add_cache_entry($file, $cmt_date, $cmt_rev);
-		$count++;
-	    }
+	    $self->_add_cache_entry($file, $cmt_date, $cmt_rev);
+	    $count++;
 	}
     }
     close GITLOG;
@@ -718,13 +704,9 @@ sub path_info
 		    }
 		}
 	} else {
-	    # We want to see all the commits, but we don't want the noise from
-	    # merges. Track what commits we've seen so we can ignore the
-	    # "right-hand" commit files
-	    my %commits_seen;
 	    # We don't, so we need to talk to git. (2a above)
-	    open (GITLOG, "git log --no-renames -m --name-only --numstat --format=format:\"%H %ct\" $dir|")
-		or die "Failed to fork git log: $!\n";
+	    open (GITLOG, "($git_log_new $dir; $git_log_old $dir) |")
+		or die "Can't fork git log: $!\n";
 	    my $cmt_date;
 	    my $cmt_rev;
 	    my $file;
@@ -733,25 +715,17 @@ sub path_info
 		if ($line =~ m/^([[:xdigit:]]+) (\d+)$/) {
 		    $cmt_rev = $1;
 		    $cmt_date = $2;
-		    if ($commits_seen{$cmt_rev}) {
-			$commits_seen{$cmt_rev}++;
-			$self->_debug("Seen $cmt_rev again, ignoring");
-		    } else {
-			$commits_seen{$cmt_rev} = 1;
-		    }
 		    next;
 		} elsif ($line =~ m{^$dir/(\S+)$}) {
-		    if ($commits_seen{$cmt_rev} and $commits_seen{$cmt_rev} == 1) {
-			$file = $1;
-			# Only store information if:
-			# We want this file, and
-			# We don't have data for it yet (i.e. only show
-			# the most recent version of a file)
-			if ($files_wanted{"$dir/$file"} and not defined $pathinfo{$file}) {
-			    $pathinfo{$file}{'type'} = _typeoffile("$dir/$file");
-			    $pathinfo{$file}{'cmt_date'} = $cmt_date;
-			    $pathinfo{$file}{'cmt_rev'} = $cmt_rev;
-			}
+		    $file = $1;
+		    # Only store information if:
+		    # We want this file, and
+		    # We don't have data for it yet (i.e. only show
+		    # the most recent version of a file)
+		    if ($files_wanted{"$dir/$file"} and not defined $pathinfo{$file}) {
+			$pathinfo{$file}{'type'} = _typeoffile("$dir/$file");
+			$pathinfo{$file}{'cmt_date'} = $cmt_date;
+			$pathinfo{$file}{'cmt_rev'} = $cmt_rev;
 		    }
 		}   
 	    }
@@ -1252,6 +1226,7 @@ sub next_revision
 	my $reldir = abs2rel($indir, cwd);
 	my $relfile = catdir($reldir, $basefile);
 	$self->_debug( "next_revision(): looking for details of file $relfile, indir $indir");
+	$self->_debug( "rev1 $rev1, move $move");
 
 	my @commits = $self->_grab_commits($relfile);
 #	print Dumper(@commits);
