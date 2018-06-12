@@ -10,7 +10,7 @@
 </pre>
 
 <p>
-여기서 <var>git_commit_hash</var>는 Git commit hash 이며 번역된 파일이 다시 번역된
+여기서 <var>git_commit_hash</var>는 git commit hash 이며 번역된 파일이 다시 번역된
 원래(영어)파일의 커밋을 참조합니다.
 특정 커밋의 상세를
 <code>git show</code> 도구 <code>git show &lt;git_commit_hash&gt;</code> 를 써서 얻을 수 있습니다.
@@ -31,7 +31,7 @@
 <code>languages.wml</code> 템플릿 안의 이름입니다.
 
  <dt><code>mindelta="<var>number</var>"</code>
- <dd>which defines the maximum difference in CVS revisions before the
+ <dd>which defines the maximum difference in VCS revisions before the
  translation is considered aged.
  The default value is <var>1</var>.
  For less important pages, set it to <var>2</var>, which means that two
