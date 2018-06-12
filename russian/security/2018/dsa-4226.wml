@@ -1,0 +1,24 @@
+#use wml::debian::translation-check translation="c27a3a3fc4f98984faaf4d9cfd317c0c082808dc" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Якуб Вилк обнаружил обход каталога в модуле Archive::Tar,
+позволяющий злоумышленнику с помощью специально сформированного
+архива перезаписывать любой файл, доступный для записи пользователем,
+выполняющем распаковку.</p>
+
+<p>В предыдущем стабильном выпуске (jessie) эта проблема была исправлена
+в версии 5.20.2-3+deb8u11.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 5.24.1-3+deb9u4.</p>
+
+<p>Рекомендуется обновить пакеты perl.</p>
+
+<p>С подробным статусом поддержки безопасности perl можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/perl">\
+https://security-tracker.debian.org/tracker/perl</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4226.data"
