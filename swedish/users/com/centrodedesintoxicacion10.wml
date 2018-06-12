@@ -1,0 +1,17 @@
+# From: Alex Navarro <alex@dropalia.com>
+#use wml::debian::translation-check translation="8d543106d154098df11ca50bd7d8e6fdab9aea05"
+
+<define-tag pagetitle>Centros de Desintoxicación 10, Grupo Dropalia, Alicante, Spanien</define-tag>
+<define-tag webpage>http://www.centrodedesintoxicacion10.com/</define-tag>
+
+#use wml::debian::users
+
+<p>
+	Vi använder Debian som vår brandvägg, proxy och som vår DNS.
+</p>
+
+<p>
+	Vi valde operativsystemet Debian eftersom det är extremt stabilt och
+	perfekt skalbart. Förutom detta valde vi det på grund av dess
+	robusthet, säkerhet och den låga företagskostnaden.
+</p>
