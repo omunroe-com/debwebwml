@@ -4,7 +4,7 @@
 CUR_YEAR := $(shell date +%Y)
 
 # Turn this on to stop ignoring errors in various places
-STRICT_ERROR_CHECKS = 1
+STRICT_ERROR_CHECKS = 0
 ifeq ($(STRICT_ERROR_CHECKS), 0)
 IGNORE = -
 else
