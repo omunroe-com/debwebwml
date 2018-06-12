@@ -470,7 +470,7 @@ print "Creating files: " if ($config{'verbose'});
 foreach $lang (@search_in) {
     my @processed_langs = ($langs{$lang});
     @processed_langs = ("zh-cn", "zh-tw") if $langs{$lang} eq "zh";
-    foreach $l (@processed_langs) {
+    foreach $l (sort @processed_langs) {
         print "$l.wml " if ($config{'verbose'});
         $t_body = $u_body = $ui_body = $un_body = $uu_body = $o_body = "";
         $translated{$lang} = $outdated{$lang} = $untranslated{$lang} = 0;
