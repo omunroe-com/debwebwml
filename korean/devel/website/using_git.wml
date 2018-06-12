@@ -69,7 +69,7 @@ control system</a>인데 그것은
    $ git pull
 </pre>
 
-<p>파일을 변경/편집 하세요. 다 되면, 여러분의 변경을 저장소에 커밋할 수 있습니다</p>
+<p>파일을 편집하세요. 다 되면, 여러분의 변경을 저장소에 커밋할 수 있습니다.</p>
 
 <pre>
    $ git add path/to/file(s)
@@ -82,14 +82,7 @@ control system</a>인데 그것은
    $ git push
 </pre>
 
-<p>다 되었습니다. git에 대한 자세한 정보는, <code>info git</code>을 하세요.</p>
-
-### FIXME: Is the following still true? holgerw
-<p>
-If you include <code>Closes: #</code><var>nnnnnn</var> in your commit log
-entry, then bug number <code>#</code><var>nnnnnn</var> will be closed
-automatically when you push your changes. The precise form of this is the same as
-<a href="$(DOC)/debian-policy/footnotes.html#f17">in Debian policy</a>.</p>
+<p>다 되었습니다. git에 대한 자세한 정보는 <code>info git</code> 하세요.</p>
 
 <p>
 Many Debian websites support SSL, please use HTTPS links for the
@@ -113,17 +106,17 @@ support HTTPS or use certificates signed only by SPI.</p>
 <pre>
 $ git log path/to/english/file
 </pre>
+
 <p>파일의 새 번역을 한다면, <q>copypage.pl</q> 스크립트를 쓰면 여러분 언어의 템플릿이 만들어지며,
 올바른 번역 헤더를 포함합니다.</p>
 
 <h3><a name="translation-smart-change">smart_change.pl 로 번역 변경</a></h3>
 
-<p><code>smart_change.pl</code> is a script designed to make it easier
-to update original files and their translations together. There are
-two ways to use it, depending on what changes you are making.</p>
+<p><code>smart_change.pl</code> 은 원본 파일과 해당 번역을 함께 업데이트하기 쉽게 하기
+위한 스크립트입니다. 두가지 방법이 있는데, 무엇을 바꾸냐에 따라 다릅니다.</p>
 
-<p>To use <code>smart_change</code> to just update the translation-check
-headers when you're working on files manually:</p>
+<p><code>smart_change</code> 쓰려면 파일에서 수동 작업할 때 
+translation-check header 를 업데이트하세요:</p>
 
 <ol>
   <li>원본 파일 변경 만들고, 커밋</li>
@@ -133,21 +126,20 @@ headers when you're working on files manually:</p>
   <li>번역 변경을 commit</li>
 </ol>
 
-<p>Or, if you're using smart_change with a regular expression to make
-multiple changes across files in one pass:</p>
+<p>smart_change 를 정규표현식과 함께 사용하여 여러 파일을 한번에 바꿀 때:</p>
 
 <ol>
-  <li>Run <code>smart_change.pl -s s/FOO/BAR/ origfile1 origfile2 ...</code></li>
-  <li>Review the changes (e.g. with <code>git diff</code>)
-  <li>Commit the original file(s)</li>
-  <li>Run <code>smart_change.pl origfile1 origfile2</code>
-    (i.e. <strong>without the regexp</strong> this time);it will now
-    just update headers in the translated files</li>
-  <li>Finally, commit the translation changes</li>
+  <li><code>smart_change.pl -s s/FOO/BAR/ origfile1 origfile2 ...</code> 돌리기</li>
+  <li>변경 검토 (e.g. <code>git diff</code>)
+  <li>원본 파일 커밋</li>
+  <li><code>smart_change.pl origfile1 origfile2</code> 돌리기
+    (i.e. 이번엔 <strong>regexp 없이</strong> );
+    번역 파일 헤더만 업데이트</li>
+  <li>마지막으로, 번역 변화 커밋</li>
 </ol>
 
-<p>This is more involved than previously (needing two commits), but
-unavoidable due to the way git commit hashes work</p>
+<p>이건 이전보다 복잡(2번 커밋필요)하지만,
+git commit hash 방식때문에 불가피합니다.</p>
 
 <h3><a name="notifications">알림 받기</a></h3>
 
