@@ -1,5 +1,5 @@
 #use wml::debian::template title="Använda WML"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
+#use wml::debian::translation-check translation="24a8bbc5bf2fd2fbe025f0baa536bf1126f83723"
 
 <p>
 WML betyder <span lang="en">web site meta language</span>
@@ -15,7 +15,7 @@ den är förvisso rätt så komplett, men innan du har börjat förstå hur det
 fungerar (och det är ganska kraftfullt) så är det enklast att lära från
 exempel.
 Mallfilerna som används för Debian kan vara användbara för detta; de finns i
-<code><a href="https://anonscm.debian.org/viewvc/webwml/webwml/english/template/debian/">\
+<code><a href="https://salsa.debian.org/webmaster-team/webwml/tree/master/english/template/debian">\
 webwml/english/template/debian/</a></code>.
 </p>
 
