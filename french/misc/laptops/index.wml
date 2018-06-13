@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian à emporter"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Thomas Marteau"
+#use wml::debian::translation-check translation="8b7f135c64c097a0f186700fb48e6fc9aa079a59" maintainer="Thomas Marteau"
 
 <p>Cette page décrit Debian pour les portables.
 # TODO: a real description!
@@ -25,8 +25,8 @@ Vous pouvez consultez les
 détaillées sur l’installation de Debian sur certains modèles de portables</a> ;
   <li><a href="http://www.linux-laptop.net/">Linux pour portable, le site 
 sur la question</a>&nbsp;;
-  <li><a href="http://www.tuxmobil.org/Mobile-Guide.db/Mobile-Guide.html">\
-guide pour les portables et les périphériques nomades</a>.
+#  <li><a href="http://www.tuxmobil.org/Mobile-Guide.db/Mobile-Guide.html">\
+# guide pour les portables et les périphériques nomades</a>.
 </ul>
 
 <p>N'hésitez pas à écrire à <a href="mailto:debian-www@lists.debian.org">
