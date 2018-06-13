@@ -66,47 +66,49 @@ göra detta automatiskt om du sätter miljövariabeln
 <tt>DWWW_MAINT</tt> eller använder kommandoradsflaggan <tt>-m</tt>.
 </p>
 
-<p>
-Du kan även behöva beskriva för roboten vem du är, hur ofta du vill ha
-automatiska brev och vad de ska innehålla.
-För detta kan du (eller låta översättningssamordnaren) redigera filen
-webwml/<var>språk</var>/international/<var>språk</var>/translator.db.pl
-i förrådet.
-Syntaxen bör vara lättförståelig, och du kan använda filen från den franska
-översättargruppen om den inte redan finns för ditt språk.
-Roboten kan sända flera sorters information, och för varje sort kan du välja
-med vilken frekvens de skall sändas till dig.
-De olika sorternas information är:
-</p>
+# I Removed cvs specific descriptions from here because of cvs to git transition.
+# Help to update instruction if possible.
+# <p>
+# Du kan även behöva beskriva för roboten vem du är, hur ofta du vill ha
+# automatiska brev och vad de ska innehålla.
+# För detta kan du (eller låta översättningssamordnaren) redigera filen
+# webwml/<var>språk</var>/international/<var>språk</var>/translator.db.pl
+# i förrådet.
+# Syntaxen bör vara lättförståelig, och du kan använda filen från den franska
+# översättargruppen om den inte redan finns för ditt språk.
+# Roboten kan sända flera sorters information, och för varje sort kan du välja
+# med vilken frekvens de skall sändas till dig.
+# De olika sorternas information är:
+# </p>
 
-<ul>
- <li><b>summary</b>: en sammanfattning över vilka dokument som är föråldrade</li>
- <li><b>log</b>: cvs-loggen mellan den översatta och aktuella versionen</li>
- <li><b>diff</b>: cvs-&rdquo;diff&rdquo;</li>
- <li><b>tdiff</b>: skriptet försöker ta reda på vilken del av den översatta
-     texten ändringen i det engelska originalet motsvarar</li>
- <li><b>file</b> den aktuella versionen av filen som skall översättas</li>
-</ul>
+# <ul>
+#  <li><b>summary</b>: en sammanfattning över vilka dokument som är föråldrade</li>
+#  <li><b>log</b>: cvs-loggen mellan den översatta och aktuella versionen</li>
+#  <li><b>diff</b>: cvs-&rdquo;diff&rdquo;</li>
+#  <li><b>tdiff</b>: skriptet försöker ta reda på vilken del av den översatta
+#      texten ändringen i det engelska originalet motsvarar</li>
+#  <li><b>file</b> den aktuella versionen av filen som skall översättas</li>
+# </ul>
 
-<p>
-För varje av ovanstående lägger du till ett av dessa värden:
-0 (aldrig), 1 (månatligen), 2 (varje vecka) eller 3 (dagligen).
-</p>
+# <p>
+# För varje av ovanstående lägger du till ett av dessa värden:
+# 0 (aldrig), 1 (månatligen), 2 (varje vecka) eller 3 (dagligen).
+# </p>
 
-<p>
-Ett exempel:
-</p>
+# <p>
+# Ett exempel:
+# </p>
 
-<verbatim>
-                'Martin Quinson' => {
-                        email       => 'martin.quinson@tuxfamily.org',
-                        summary     => 3,
-                        logs        => 3,
-                        diff        => 3,
-                        tdiff       => 0,
-                        file        => 0
-                },
-</verbatim>
+# <verbatim>
+#                 'Martin Quinson' => {
+#                         email       => 'martin.quinson@tuxfamily.org',
+#                         summary     => 3,
+#                         logs        => 3,
+#                         diff        => 3,
+#                         tdiff       => 0,
+#                         file        => 0
+#                 },
+# </verbatim>
 
 <p>
 Sidhuvudet kan enkelt skapas genom att använda skriptet <tt>copypage.pl</tt>
@@ -155,13 +157,11 @@ Om det fungerar, kontrollera att syntaxen är fullt giltig med
 <kbd>weblint <var>file</var>.<var>&lt;lang&gt;</var>.html</kbd>.
 </p>
 
-<p>
-Webbsidorna byggs om från VCS på servern www-master, en procedur som är
-relativt säker mot fel.
-Dock kan ett fel i toppnivån av din översättning (t.ex index.wml-filen i
-huvudkatalogen) medföra att byggprocessen stoppar och förhindra andra
-uppdateringar av webbplatsen.
-Var särskilt försiktig med dessa filer.
+<p>NOTERA: Webbsidorna byggs regelbundet om automatiskt på servern www-master,
+baserat på wml-källkoden i git. Denna procedur är relativt säker mot fel. Dock
+kan ett fel i toppnivån av din översättning (t.ex index.wml-filen i
+huvudkatalogen), medfölja att byggprocessen stoppar och förhindra andra
+uppdateringar till webbplatsen. Var särskilt försiktig med dessa filer.
 </p>
 
 <p>
@@ -181,18 +181,15 @@ kontakta oss per e-post (på engelska) på adressen
 </p>
 
 <p>
-Först av allt - säkerställ att du har en ordentlig checkout av vårat
-källkodsträd, så som beskrivs <a href="using_git">i vår introduktionstext
-rörande Git</a>.
+Först av allt - klona vårt källkodsträd, så som beskrivs <a
+href="using_git">i vår introduktionstext rörande Git</a>.
 </p>
 
 <p>
-När du har hämtat ut webwml/-katalogen och (åtminstone) webwml/english/
-börjar du med att skapa en ny katalog för din översättning på samma nivå som
-english/ och de övriga.
-Namnet på översättningen måste vara på engelska och skrivet helt med små
-bokstäver (dvs. "swedish", inte "Svenska").
-</p>
+När du har en hämtning av Git-förrådet, börja med att skapa en ny
+toppnivå-folder för din översättning, bredvid english/ och övriga språk.
+Namnet på din översättningsmapp måste vara på engelska och med endast små
+bokstäver (t.ex "german", inte "Deutsch").</p>
 
 <p>
 Kopiera filerna <tt>Make.lang</tt> och <tt>.wmlrc</tt> från katalogen
