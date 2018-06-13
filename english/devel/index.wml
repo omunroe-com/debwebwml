@@ -246,7 +246,7 @@ to Debian developers.</p>
         <dt>Package overviews, from a developer's point of view</dt>
         <dd>
 	The <a href="https://qa.debian.org/developer.php">package information</a>
-        and <a href="https://packages.qa.debian.org/">package tracking</a> web pages
+        and <a href="https://tracker.debian.org/">package tracker</a> web pages
         provide collections of valuable information to maintainers.
         </dd>
 
