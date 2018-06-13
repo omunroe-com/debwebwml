@@ -1,13 +1,12 @@
 #use wml::debian::template title="Använda CVS (inaktuell information)"
-#use wml::debian::translation-check translation="901ebda9615240cd7c4eeb4a376224cbb6d7c2a6"
+#use wml::debian::translation-check translation="8f2dd37edbf6287df4029e3f234798efbcce2862"
 
 <div class="important">
 <h3>Viktigt meddelande</h3>
 
 <p>Vi har nyligen konverterat webbplatseninnehållsförrådet från CVS till
-Git. Du kan klona CVS-förrådet men vi accepterar inte förändringar där
-längre. En sida om att använda Git och det nya förrådet kommer att
-tillhandahållas inom kort.
+Git. Denna sida finns här endast som historik. Se istället
+vår <a href="using_git">guide till Git</a>.
 </p>
 </div>
 
