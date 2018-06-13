@@ -1,5 +1,5 @@
 #use wml::debian::template title="Använda git för att manipulera webbplatsens källkod"
-#use wml::debian::translation-check translation="4cf7397e207de608c604c96102ab380555d8ff4f"
+#use wml::debian::translation-check translation="5d080035d9ae8d0435f58853443362eb5407acaa"
 
 <p>Git är ett <a href="https://en.wikipedia.org/wiki/Version_control">\
 versionshanteringssystem</a> som hjälper till att hantera flera personer som
@@ -32,24 +32,34 @@ som kommer att gå i god för dig.
 
 <h3><a name="work-on-repository">Jobba med förrådet</a></h3>
 
-<h4><a name="establish-local-repo-copy">Upprätta en lokal arkivkopia</a></h4>
+<h4><a name="clone-local-repo-copy">Klona en lokal arkivkopia</a></h4>
 
-<p>Du måste installera git för att jobba med förrådet och konfigurera din
-användare och e-postadress (vänligen se allmän git-dokumentation). När detta
-är gjort, kan du klona förrådet med:</p>
+<p>Först och främst måste du installera git för att jobba med förrådet. Sedan
+måste du konfigurera din e-post och användarnamn på din dator (vänligen
+se allmän git-dokumentation för att se hur man gör detta). Sedan kan du
+klona förrådet (med andra ord - göra en lokal kopia av det) på ett av två
+sätt.</p>
+
+<p>Det rekommenderade sättet att jobba med webwml är att först registrera ett
+konto på salsa.debian.org och aktivera git SSH-åtkomst genom att ladda upp
+en publik SSH-nyckel till ditt salsa-konto. Se <a
+href="https://salsa.debian.org/help/ssh/README.md">salsas hjälpsidor</a>
+flr ytterligare detaljer om hur man gör det. Sedan kan du klona webwml-förrådet
+med hjälp av följande kommando:</p>
 
 <pre>
    git clone git@salsa.debian.org:webmaster-team/webwml.git
 </pre>
 
-<p>Notera att du <strong>måste</strong> registrera ett konto på salsa.debian.org
-i förväg och aktivera git SSH-åtkomst genom att ladda upp en SSH publik nyckel
-till salsa före du kan utföra en <code>git clone</code> via SSH-protokollet.
-Var vänlig överväg att klona förrådet med hjälp av HTTPS-protokollet annars:</p>
+<p>Om du inte har ett salsa-konto är en alternativ metod att klona
+förrådet med hjälp av HTTPS-protokollet:</p>
 
 <pre>
   git clone https://salsa.debian.org/webmaster-team/webwml.git
 </pre>
+
+<p>Detta kommer att ge dig samma förråd lokalt, men du kommer inte att kunna
+pusha ändringar direkt tillbaks på detta sätt.</p>
 
 <p>En kloning av fullständiga webwml-förrådet skulle kräva hämtning av runt
 500MB data, och kan därmed vara svårt för dom med långsam eller instabil
@@ -100,9 +110,10 @@ kommer du att vilja köra en</p>
 
 <p>för att få alla filer från förrådet som har ändrats.</p>
 
-<p>Notera att eftersom git är ett distribuerat (och inte centraliserat) system,
-så måste du göra en push av dina förändringar till salsa efter att du har
-gjort en commit.</p>
+<p>Notera att git är ett distribuerat (och inte centraliserat)
+versionshanteringssystem. Detta betyder att när du committar ändringar så kommer
+dessa endast att lagras i ditt lokala förråd. För att dela dessa med andra
+så måste du pusha dina ändringar till det centraliserade förrådet på salsa.</p>
 
 <p><strong>En redigering av en engelsk fil kommer att se ut som följer:</strong></p>
 
@@ -169,17 +180,37 @@ så kommer det att göra en ny mall för ditt språk, och inkludera ett korrekt
 
 <h3><a name="translation-smart-change">Översättningsändringar med smart_change.pl</a></h3>
 
-<p>Det finns en *NY* implementation av smart_change.pl som är begränsad till
-att stödja git commit hashes. För att använda denna:</p>
+<p><code>smart_change.pl</code> är ett skript som är designat för att göra
+det lättare att uppdatera original-filer och dess översättningar tillsammans.
+Det finns två sätt att göra detta, beroende på vilken typ av ändringar du gör.</p>
+
+<p>För att använda <code>smart_change.pl</code> för att endast uppdatera
+translation-check-huvudena när du arbetar med filer manuellt:</p>
 
 <ul>
-  <li>Gör ändringarna till originalfil(erna),och committa</li>
+  <li>Gör ändringarna till originalfil(erna), och committa</li>
   <li>Uppdatera översättningar</li>
-  <li>Kör smart_change.pl - denna kommer att snappa upp förändringarna och uppdatera
-      huvuden i översättningsfilerna</li>
+  <li>Kör smart_change.pl - denna kommer att snappa upp förändringarna och
+      uppdatera huvuden i de översatta filerna</li>
   <li>Granska ändringarna (exempelvis med <q>git diff -u</q>)</li>
   <li>Committa och pusha ändringarna</li>
 </ul>
+
+<p>Eller, om du använder smart_change med ett reguljärt uttryck för att göra
+flera ändringar över filer i ett pass:</p>
+
+<ol>
+  <li>Kör <code>smart_change.pl -s s/FOO/BAR/ origfile1 origfile2 ...</code></li>
+  <li>Granska förändringarna (t.ex. med <code>git diff</code>)
+  <li>Committa original-filerna</li>
+  <li>Kör <code>smart_change.pl origfile1 origfile2</code>
+    (vilket är <strong>utan reguljära uttrycket</strong> den här gången); det kommer nu
+	 att endast uppdatera huvudena i de översatta filerna</li>
+  <li>Slutligen, committa översättningsändringarna</li>
+</ol>
+
+<p>Detta är mer kompicerat än tidigare (det kräver två commits), men
+oundvikligt på grund av hur git commit-hashen fungerar.</p>
 
 <h3><a name="notifications">Få aviseringar</a></h3>
 
