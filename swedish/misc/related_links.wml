@@ -1,5 +1,5 @@
 #use wml::debian::template title="Relaterade länkar"
-#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
+#use wml::debian::translation-check translation="c91c2140fcc985b7c9561074e7cdc3b3f7af2d15"
 
 <p>Här följer en lista över information tillgänglig på nätet, vilken kan
 vara av intresse för Debiananvändare.</p>
@@ -84,6 +84,10 @@ länkar</a>.
 
 <dt><a href="https://exdebian.org/">exDebian</a></dt>
   <dd>En portal för Debiananvändare som talar spanska.</dd>
+
+<dt><a href="https://debianusers.or.kr/">Korean Debian Users</a></dt>
+       <dd>En portal för Debiananvändare som talar koreanska.</dd>
+</dl>
 
 <dt><a href="http://debian-br.cipsga.org.br/">Debian-BR</a></dt>
   <dd>En portal för Debiananvändare som talar portugisiska.</dd>
