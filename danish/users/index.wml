@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hvem bruger Debian?" BARETITLE=true
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="257c21bc3adb2b3c7174439a605ea9010623492d"
 #use wml::debian::toc
 #use wml::debian::users_list
 
@@ -33,29 +33,51 @@ alfabetisk.  Ønsker du at blive optaget på denne liste, så
 
 <p>For at blive føjet til listen, bedes følgende oplyst i en e-mail til
 <a href="mailto:debian-www@lists.debian.org?subject=Who's%20using%20Debian%3F">\
-debian-www@lists.debian.org</a> (vær venlig ikke at ændre emnelinjen).  Oplysningerne bør forfattes 
-på engelsk.  Hvis du ikke kan skrive på engelsk, så send venligst dine 
-oplysninger til en <a href="https://lists.debian.org/i18n.html">passende 
-oversættelsesliste</a>.  Bemærk at din mail vil blive sendt til en offentlig 
-postliste.</p>
+debian-www@lists.debian.org</a> (vær venlig at bevare emnelinjen som <q>Who's 
+using Debian</q>, ellers lægger vi måske ikke mærke til din tilføjelse.  
+Oplysningerne bør forfattes på engelsk.  Hvis du ikke kan skrive på engelsk, så 
+send venligst dine oplysninger til en 
+<a href="https://lists.debian.org/i18n.html">passende oversættelsesliste</a>.  
+Bemærk at din mail vil blive sendt til en offentlig postliste.</p>
+
+<p>Indsend kun oplysninger om organisationer, som du repræsenterer.  Måske skal 
+du bede om tilladelse indenfor din organisation, før du foretager en tilføjelse 
+her.  Hvis du er en konsulent, hvor mindst noget af din indkomst kommer fra 
+<strong>betalt</strong> Debian-support, så gå i stedet til vores side med 
+<a href="$(HOME)/consultants/">konsulenter</a>.</p>
+
+<p>Indsend ikke oplysninger om privatpersoner.  Vi værdsætter din support, men 
+har ikke ressourcer til at vedligeholde oplysninger om vores mange brugere, 
+som er privatpersoner.</p>
+
+<p><strong>Medtag kun oplysninger som du føler dig tryg ved kommer til 
+offentlighedens kendskab.</strong></p>
 
 <ol>
   <li>
     <p>
       Organisationens navn (på formen <em>afdeling</em>, <em>organisation</em>, 
-      <em>by</em> (frivilligt), <em>land</em>). Eksempelvis: AI Lab, 
-      Massachusetts Institute of Technology, USA
+      <em>by</em> (frivilligt), <em>region/provins</em> (frivilligt), 
+      <em>land</em>). Eksempelvis: AI Lab, Massachusetts Institute of 
+      Technology, USA
     </p>
     <p>
       Endnu er alle poster ikke på denne form, men vi vil gerne konvertere dem
       der ikke er det.
     </p>
   </li>
-  <li>Form for organisation (uddannelse, almennyttig, kommerciel, 
-      offentlig myndighed)</li>
-  <li><em>(valgfrit)</em> Link til hjemmeside</li>
-  <li>Et afsnit eller to som beskriver hvordan din organisation anvender 
+  <li>Form for organisation (vælg kun én af <q>educational</q> (uddannelse), 
+      <q>non-profit</q> (almennyttig), <q>commercial</q> (kommerciel) eller 
+      <q>government</q> (offentlig myndighed)</li>
+  <li>Link til hjemmeside <em>(valgfrit)</em></li>
+  <li>Et kort afsnit eller to, som beskriver hvordan din organisation anvender 
       Debian.  Prøv at medtage oplysninger såsom antal 
       arbejdsmaskiner/servere, programmerne de afvikler (uden at nævne 
       versionsnumre), og hvorfor I valgte Debian fremfor konkurrenterne.</li>
 </ol>
+
+<p>Hvis du repræsenterer en organisation, der overvejer at blive en 
+Debian-partner, så se vores <a href="$(HOME)/partners/">Partnerskabsprogram</a> 
+for flere oplysninger om hvordan man yder løbende assistance til Debian.  For 
+donationer til Debian, se vores <a href="$(HOME)/donations/">\
+donationsside</a>.</p>
