@@ -1,5 +1,5 @@
 #use wml::debian::template title="데비안 웹 페이지 도움말" BARETITLE=true
-#use wml::debian::translation-check translation="I dont know" maintainer="Sebul"
+#use wml::debian::translation-check translation="31375fa6f14ef06c96ec4e6e54adf7ff85abe111" maintainer="Sebul"
 
 <h3>소개</h3>
 
