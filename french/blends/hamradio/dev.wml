@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Développement du mélange"
 #use "navbar.inc"
-#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Jean-Paul Guillonneau"
 
 <h2>Empaquetage</h2>
 
@@ -18,11 +18,11 @@ outils suivants qui peuvent être utiles aux empaqueteurs :</p>
 <h2>Code source des métapaquets</h2>
 
 <ul>
-	<li><a href="https://anonscm.debian.org/cgit/blends/projects/hamradio.git">Navigateur web pour Git</a></li>
-	<li><a href="https://anonscm.debian.org/git/blends/projects/hamradio.git">Clonage anonyme pour Git</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/hamradio">Navigateur web pour Git</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/hamradio.git">Clonage anonyme pour Git</a></li>
 </ul>
 
-<pre>git clone https://anonscm.debian.org/git/blends/projects/hamradio.git
+<pre>git clone https://salsa.debian.org/blends-team/hamradio
 cd hamradio ; make dist
 gbp buildpackage</pre>
 
@@ -40,11 +40,11 @@ mélange, consultez le
 <h2>Code source du DVD autonome</h2>
 
 <ul>
-	<li><a href="https://anonscm.debian.org/cgit/blends/blends-images.git">Navigateur web pour Git</a></li>
-	<li><a href="https://anonscm.debian.org/git/blends/blends-images.git/">Clonage anonyme pour Git</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/blends-images">Navigateur web pour Git</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/blends-images.git/">Clonage anonyme pour Git</a></li>
 </ul>
 
-<pre>git clone https://anonscm.debian.org/git/blends/blends-images.git/
+<pre>git clone https://salsa.debian.org/blends-team/blends-images.git/
 cd blends-images/images/hamradio-amd64
 lb config
 sudo lb build</pre>

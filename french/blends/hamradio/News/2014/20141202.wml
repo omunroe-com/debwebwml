@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Jean-Paul Guillonneau"
 <define-tag pagetitle>Annonce d’un mélange Debian pour radioamateur</define-tag>
 <define-tag release_date>02/12/2014</define-tag>
 #use wml::debian::news
@@ -102,7 +102,8 @@ Blends.
 [3a]: <a  rel="nofollow" href="https://blends.debian.org/hamradio/tasks/index">https://blends.debian.org/hamradio/tasks/index</a>
 [3b]: <a  rel="nofollow" href="https://blends.debian.org/hamradio/bugs_udd/">https://blends.debian.org/hamradio/bugs_udd/</a>
 [3c]: <a  rel="nofollow" href="https://blends.debian.org/hamradio/thermometer/">https://blends.debian.org/hamradio/thermometer/</a>
-[3d]: <a  rel="nofollow" href="https://anonscm.debian.org/cgit/blends/projects/hamradio.git">https://anonscm.debian.org/cgit/blends/projects/hamradio.git</a>
+[3d]: <a  rel="nofollow" href="https://salsa.debian.org/blends-team/hamradio">https://salsa.debian.org/blends-team/hamradio</a>
+
 
 4. Objectifs de la publication pour « Strech »
 =====================================================
