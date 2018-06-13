@@ -88,7 +88,7 @@ där <var>språk</var> är katalognamnet som innehåller din översättning,
 exempelvis "swedish",
 
 <p>Sidor som saknar översättning visas som
-"<code>Missing <var>filnamn</var></code>") och
+"<code>Missing <var>filnamn</var></code>" och
 sidor som inte är à jour med originalet visas som
 "<code>NeedToUpdate <var>filnamn</var> to version <var>XXXXXXXX</var></code>".
 
