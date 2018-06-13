@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debians fejlrapporteringssystem &ndash; oplysninger til udviklere" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="33ca549a7a4f5f50ef26749a5882613fb0715a03"
+#use wml::debian::translation-check translation="3d7d37336bd5edeaec7948e9153a69847505fd39"
 <h1>Oplysninger om fejlsporingssystemet til pakkevedligeholdere og fejlsøgere</h1>
 
 <p>Det første der sker er at en bruger indsender en fejlrapport per e-mail til
@@ -285,6 +285,13 @@ detaljerede oplysninger om dem:</p>
 
 <dt><code>a11y</code></dt>
   <dd>Denne fejl er relevant for pakkens tilgængelighed.</dd>
+
+<dt><code>ftbfs</code></dt>
+  <dd>Pakken kan ikke opbygges fra kildekoden.  Hvis fejlen er tildelt en 
+  binær pakke, kan de påvirkede kildekodepakke ikke opbygges.  Markeringen 
+  gælder ikke-standard-buildmiljøer (fx ved hjælp af Build-Depends fra 
+  experimental), men alvorsgraden bør være under <q>serious</q> 
+  (udgivelseskritisk) i sådanne situationer.</dd>
 
 <dt><bts_release_tags></dt>
   <dd>Disse er udgivelsestags, der har to virkemåder.  Ved opsætning på en fejl,
