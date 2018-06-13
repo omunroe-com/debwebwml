@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hålla översättningarna à jour"
-#use wml::debian::translation-check translation="3c508740e4547501e8db1652b165b85a38036086"
+#use wml::debian::translation-check translation="8f2dd37edbf6287df4029e3f234798efbcce2862"
 
 <p>Eftersom webbsidor inte är statiska är det bra att kunna hålla reda på
 vilken version av originalet som en viss sida översätter, och använda denna
@@ -17,22 +17,23 @@ den committen i den ursprungliga (Engelska) filen som den översatta filen
 var översatt från. Du kan få detaljerad information om denna commit mha
 verktyget <code>git show</code>: <code>git show &lt;git_commit_hash&gt;</code>.
 Om du använder dig av skriptet <kbd>copypage.pl</kbd> i webwml-katalogen
-läggs denna rad till automatiskt.
+läggs denna rad till automatiskt i den första versionen av din översatta
+sida, och pekar på versionen av originalfilen som existerar vid denna
+tidpunkt.
 </p>
 
-<p>Detta är också användbart eftersom vissa översättningar kanske inte
-uppdateras på ett tag även om originalet (engelska) uppdateras.
-På grund av innehållsförhandlingen kan den
-som läser översättningen missa viktig information som lagts till i nyare
-versioner av originalet.
-Mallen <code>translation-check</code> innehåller kod som kontrollerar om
-översättningen är föråldrad, och ger lämpliga varningsmeddelanden till
-användaren.
+<p>Några översättningar kanske inte uppdateras under lång tid, även om
+originalspråket (Engelska) ändras. Tack vare innehållsförhandling kanske
+inte läsaren av den översatta sidan är medveten om detta och därmed missa
+viktig information, som introducerats i nyare versioner av originalet.
+<code>translation-check</code>-mallarna innehåller kod för att kontrollera
+om din översättning är inaktuell och då ge ett lämpligt varningsmeddelande
+till användaren om detta.
 </p>
 
 <p>
-Dessutom finns några ytterligare parametrar som kan användas på
-<code>#use</code>-raden:
+Dessutom finns ytterligare parametrar som kan användas på
+<code>translation-check</code>-raden:
 
 <dl>
  <dt><code>original="<var>språk</var>"</code>
@@ -42,14 +43,14 @@ Dessutom finns några ytterligare parametrar som kan användas på
  i <code>languages.wml</code>.
 
  <dt><code>mindelta="<var>talvärde</var>"</code>
- <dd>anger maximal differens räknat i CVS-versioner innan översättningen
+ <dd>anger maximal differens räknat i Git-versioner innan översättningen
  anses åldrad.
  Förvalt värde är <var>1</var>.
  För mindre viktiga sidor bör detta sättas till <var>2</var> vilket betyder
  att två ändringar måste göras innan översättningen anses vara åldrad.
 
  <dt><code>maxdelta="<var>talvärde</var>"</code>
- <dd>anger maximal differens räknat i CVS-versioner innan översättningen
+ <dd>anger maximal differens räknat i Git-revisioner innan översättningen
  anses vara för gammal.
  Förvalt värde är <var>5</var>.
  För viktiga sidor, sätt det lägre.
@@ -58,13 +59,12 @@ Dessutom finns några ytterligare parametrar som kan användas på
 </dl>
 
 <p>
-Informationen gör även att vi kan generera
-<a href="stats/">översättningsstatistik</a>, en rapport över alla föråldrade
-översättningar, med hjälpsamma länkar till skillnaden mellan filer, såväl
-som en lista över sidor som ännu inte har översatts
-alls.
-Rapporten är avsedd att hjälpa översättare och uppmuntra nya personer
-att hjälpa till.
+Att vi spårar åldern på översättningar gör det även möjligt för oss att
+generera <a href="stats/">översättningsstatistik</a>, en rapport över alla
+föråldrade översättningar (tillsammans med hjälpsamma länkar till skillnader
+mellan filer), tillsammans med en lista över filer som inte har översatts
+alls. Detta för att hjälpa översättarna och för att attrahera andra personer
+till att hjälpa till.
 </p>
 
 <p>
@@ -90,17 +90,17 @@ exempelvis "swedish",
 <p>Sidor som saknar översättning visas som
 "<code>Missing <var>filnamn</var></code>") och
 sidor som inte är à jour med originalet visas som
-"<code>NeedToUpdate <var>filnamn</var> to version <var>x.x</var></code>".
+"<code>NeedToUpdate <var>filnamn</var> to version <var>XXXXXXXX</var></code>".
 
 <p>Om du vill se exakt vilka förändringar som skett kan du få fram dessa
 genom att lägga till kommandoradsflaggan <kbd>-d</kbd> till kommandot ovan.
-Observera att detta kan ta en stund, eftersom det kan inbegripa flera anrop
-till CVS-servern.
+</p>
 
-<p>Om du vill ignorera varningar på saknade sidor (exempelvis för gamla
-nyheter) kan du skapa en fil vid namn <code>.transignore</code> i katalogen
-du vill strunta i varningarna för, men en lista över filerna du inte
-planerar att översätta, med ett namn per rad.
+<p>Om du vill ignorera varningar på saknade översättningar (exempelvis för
+gamla nyheter) kan du skapa en fil vid namn <code>.transignore</code> i
+katalogen du vill strunta i varningarna för, och lista varje fil som du
+inte kommer att översätta, en fil per rad.
+</p>
 
 <p>
 Ett liknande skript för att hålla ordning på översättningarna av
