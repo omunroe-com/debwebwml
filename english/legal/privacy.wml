@@ -65,7 +65,7 @@ headers, sent to the BTS will be archived and publicly available.</p>
 <h2>DebConf (<a href="https://www.debconf.org/">debconf.org</a>)</h2>
 
 <p>The DebConf registration structure stores the details of conference
-attendees. These are required to determine eligibility to bursarys, association
+attendees. These are required to determine eligibility to bursaries, association
 to the project, and to contact attendees with appropriate details. They may
 also be shared with suppliers to the conference, e.g. attendees staying in the
 conference provided accommodation will have their name and attendance date
@@ -184,7 +184,7 @@ particular application.</p>
 <p>The vote tracking system (devotee) tracks the status of ongoing General
 Resolutions and the results of previous votes. In the majority of cases this
 means that once the voting period is over details of who voted (usernames +
-name mapping) and how they voted becomes publicly viewable. Only Project
+name mapping) and how they voted becomes publicly visible. Only Project
 members are valid voters for the purposes of devotee, and only valid votes are
 tracked by the system.</p>
 
