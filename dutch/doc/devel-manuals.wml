@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Handleidingen voor Ontwikkelaars van Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
-#use wml::debian::translation-check translation="a5f6ece6021a908d003b334683cb03496734ec3e"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f"
 
 # Last Translation Update by $Author$
 # Last Translation Update at $Date$
@@ -296,8 +296,8 @@ het <code>grep</code>-pakket en het maken van een pakket voor het spel
   ready
   </status>
   <availability>
-  <p><a href="https://d-i.alioth.debian.org/doc/internals/">HTML online</a>.</p>
-  <p><a href="https://anonscm.debian.org/cgit/d-i/debian-installer.git/tree/doc/devel/internals">DocBook XML broncode online</a>.</p>
+  <p><a href="https://d-i.alioth.debian.org/doc/internals/">HTML online (FIXME: momenteel niet beschikbaar)</a>.</p>
+  <p><a href="https://salsa.debian.org/installer-team/debian-installer/tree/master/doc/devel/internals">DocBook XML broncode online</a>.</p>
   </availability>
 </doctable>
 </div>
