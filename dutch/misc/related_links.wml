@@ -1,5 +1,5 @@
 #use wml::debian::template title="Gerelateerde pagina’s"
-#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
+#use wml::debian::translation-check translation="c91c2140fcc985b7c9561074e7cdc3b3f7af2d15"
 
 <p>Hieronder vindt u een overzicht van informatie op het net die
 interessant kan zijn voor gebruikers van Debian.</p>
@@ -10,7 +10,7 @@ interessant kan zijn voor gebruikers van Debian.</p>
  <li><a href="../users/">Organisaties die Debian gebruiken</a></li>
  <li><a href="/derivatives">Andere softwaredistributies gebaseerd op Debian</a></li>
  <li><a href="#misclinux">Diverse GNU/Linux links</a></li>
- <li><a href="#lugs">Linux Gebruikersgroepen</a></li>
+ <li><a href="#usergroups">Gebruikersgroepen</a></li>
  <li><a href="#otherfreeos">Andere projecten voor een vrij besturingssysteem (OS)</a></li>
 </ul>
 
@@ -49,8 +49,8 @@ interessant kan zijn voor gebruikers van Debian.</p>
 <dt><a href="https://www.kde.org/">K Desktop Environment (KDE)</a></dt>
   <dd>KDE wil tegemoet komen aan de behoefte aan een eenvoudig
   te gebruiken desktopomgeving voor UNIX werkstations, vergelijkbaar met de
-  desktopomgevingen van de Macintosh en Microsoft Windows
-  besturingssystemen.</dd>
+  desktopomgevingen die men aantreft op het Macintosh en het Microsoft Windows
+  besturingssysteem.</dd>
 
 <dt><a href="http://www.freedesktop.org/">freedesktop.org</a></dt>
   <dd>freedesktop.org is een project gericht op het verbeteren van de
@@ -72,14 +72,18 @@ interessant kan zijn voor gebruikers van Debian.</p>
     <a href="https://sourceforge.net/">SourceForge</a></dt>
   <dd>Verzamelplaatsen van Vrije Software.</dd>
 
-#<dt><a href="https://planet.debian.org/">Debian Planet</a></dt>
-#  <dd>Een verzamelplaats van Debian-georiënteerde blogpagina's.</dd>
+<dt><a href="https://planet.debian.org/">Debian Planet</a></dt>
+  <dd>Een verzamelplaats van Debian-georiënteerde blogpagina's.</dd>
 
-<dt><a href="http://www.debianforum.de/">DebianForum.de</a></dt>
-  <dd>Een startpagina voor Duitstalige Debian gebruikers.</dd>
+<dt><a href="https://www.debianforum.de/">DebianForum.de</a></dt>
+  <dd>Een portaalsite voor Duitstalige Debian gebruikers.</dd>
 
 <dt><a href="https://exdebian.org/">exDebian</a></dt>
        <dd>Een portaalsite voor Spaanstalige Debian gebruikers.</dd>
+</dl>
+
+<dt><a href="https://debianusers.or.kr/">Korean Debian Users</a></dt>     
+       <dd>Een portaalsite voor Koreaanse Debian gebruikers.</dd>
 </dl>
 
 <hr />
