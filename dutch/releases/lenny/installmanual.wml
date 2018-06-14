@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/lenny/release.data"
-#use wml::debian::translation-check translation="588ac1ae09d08ac7a16940a1f14cd70aca96b209"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
 
 # Last Translation Update by $Author$
 # Last Translation Update at $Date$
@@ -15,7 +15,7 @@ mogelijk dat de hier beschikbare informatie verouderd en/of incorrect is in
 verband met wijzigingen in het installatiesysteem. Mogelijk dat u ook geïnteresseerd
 bent in de <a href="../etch/installmanual">installatiehandleiding voor Debian
 GNU/Linux 4.0, codenaam Etch</a>, de laatste officieel vrijgegeven Debian
-release; of in de <a href="https://d-i.alioth.debian.org/manual/">ontwikkelversie
+release; of in de <a href="https://d-i.debian.org/manual/">ontwikkelversie
 van de Installatiehandleiding</a>, die de meest recente wijzigingen bevat.
 </if-stable-release>
 
