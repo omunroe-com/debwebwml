@@ -9,7 +9,7 @@
 # Cyril Brulebois, 2007, 2008.
 # Guillaume Delacour, 2009.
 # David Prévot, 2010-2013.
-# Jean-Paul Guillonneau, 2016-2017.
+# Jean-Paul Guillonneau, 2016-2018.
 
 <h1>Informations concernant le système de traitement des bogues
 pour les responsables de paquet et les trieurs de bogues</H1>
@@ -322,6 +322,15 @@ Voici quelques renseignements détaillés sur les étiquettes :
 <dt><code>a11y</code></dt>
   <dd>Ce bogue concerne l’accessibilité du paquet.</dd>
 
+<dt><code>ftbfs</code></dt>
+  <dd>La construction du paquet à partir du source a échouée. Si le bogue est
+  assigné à un paquet source, la construction de ce paquet échouera. Si le
+  bogue est assigné à un paquet binaire, la construction des paquets sources
+  concernés échouera. L’étiquette est valable pour les environnements de
+  construction non standard (par exemple, utilisation de Build-Depends à partir
+  d’experimental), mais la sévérité devrait être inférieure à serious (release
+  critical) dans de tels cas.</dd>
+
 <dt><bts_release_tags></dt>
   <dd>Ce sont des étiquettes de version qui ont deux effets. Quand elles sont
   utilisées pour un bogue, le bogue concerne seulement une version particulière
@@ -449,10 +458,9 @@ le bogue, aux développeurs et aux tiers intéressés de s'abonner à des
 bogues en particulier. Cette fonctionnalité peut être utilisée par
 ceux qui souhaitent garder un &oelig;il sur un bogue, sans avoir à
 s'abonner à un paquet par le biais du
-<a href="https://packages.qa.debian.org">PTS</a>.
-
-Tous les messages reçus sur
-<var>nnn</var><code>@bugs.debian.org</code> sont envoyés aux abonnés.</p>
+<a href="https://tracker.debian.org">Debian Package Tracker</a>. Tous les
+messages reçus sur <var>nnn</var><code>@bugs.debian.org</code> sont envoyés
+aux abonnés.</p>
 
 <p>S'abonner à un bogue se fait en envoyant un courriel à
 <var>nnn</var><code>-subscribe@bugs.debian.org</code>. L'objet et le
