@@ -1,5 +1,5 @@
 #use wml::debian::template title="Rincón de los desarrolladores de Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="d95389d578d7941cd99f185103ef1a508d34269f" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Fernando C. Estrada"
 
 <p>La información de esta página, a pesar de ser pública, es
 principalmente de interés para los desarrolladores de Debian.</p>
@@ -273,7 +273,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
         <dd>
 
         Las páginas <a href="https://qa.debian.org/developer.php">información
-        sobre paquetes</a> y <a href="https://packages.qa.debian.org/">seguimiento
+        sobre paquetes</a> y <a href="https://tracker.debian.org/">seguimiento
         de paquetes</a> proporcionan a los mantenedores información
         valiosa.
         </dd>
