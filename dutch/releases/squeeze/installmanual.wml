@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/squeeze/release.data"
-#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
 
 # Last Translation Update by $Author$
 # Last Translation Update at $Date$
@@ -15,7 +15,7 @@ mogelijk dat de hier beschikbare informatie verouderd en/of incorrect is in
 verband met wijzigingen in het installatiesysteem. Mogelijk dat u ook geïnteresseerd
 bent in de <a href="../lenny/installmanual">installatiehandleiding voor Debian
 GNU/Linux 5.0, codenaam Lenny</a>, de laatste officieel vrijgegeven Debian
-release; of in de <a href="https://d-i.alioth.debian.org/manual/">ontwikkelversie
+release; of in de <a href="https://d-i.debian.org/manual/">ontwikkelversie
 van de Installatiehandleiding</a>, die de meest recente wijzigingen bevat.
 </if-stable-release>
 
