@@ -308,11 +308,9 @@ privilégiant l’accès à la documentation technique.
   prêt
   </status>
   <availability>
-  <a href="https://d-i.alioth.debian.org/doc/internals/">en ligne</a>
-<p>
-<a href="https://anonscm.debian.org/cgit/d-i/debian-installer.git/tree/doc/devel/internals">\
-Sources XML DocBook en ligne</a>.
-</p>
+ <p><a href="https://d-i.alioth.debian.org/doc/internals/">en ligne (À CORRIGER : non disponible actuellement)</a>.</p>
+ <p><a href="https://salsa.debian.org/installer-team/debian-installer/tree/master/doc/devel/internals">\
+ Sources XML DocBook en ligne</a>.</p>
   </availability>
 </doctable>
 </div>
