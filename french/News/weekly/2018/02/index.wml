@@ -87,7 +87,7 @@ et de la <a href="https://qa.debian.org/developer.php?login=pkg-ayatana-devel%40
 de présentation des empaqueteurs d'Ayatana</a>.</p>
 
 
-<p><b>Migration de Debian Alioth</p></b>
+<p><b>Migration de Debian Alioth</b></p>
 
 <p>Debian a migré plusieurs de ses services à partir du vieux serveur <a
 href="https://wiki.debian.org/Alioth">Alioth</a>, qui fonctionnait avec
@@ -108,7 +108,7 @@ paquets qui ont été ajoutés à l'archive « unstable » de Debian</a>
 ces dernières semaines voici une courte sélection :
 </p>
 
-<ul><p>
+<ul>
 <li><a href="https://packages.debian.org/sid/wig">wig</a> — outil de collecte
 d'informations d'applications Web qui sait identifier de nombreux systèmes de
 gestion de contenu et d'autres applications d'administration.</li>
@@ -128,7 +128,6 @@ l'apprentissage des algorithmes et des langages de programmation en fournissant
 et ffmpeg.</li>
 <li><a href="https://packages.debian.org/search?keywords=gitlab-cli">gitlab-cli</a>
 — interface en ligne de commande pour la version 3 de l'API de GitLab.</li>
-</p>
 </ul>
 
 <toc-add-entry name="events">Événements à venir et comptes-rendus</toc-add-entry>
