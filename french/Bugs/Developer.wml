@@ -1,6 +1,6 @@
 #use wml::debian::template title="Suivi des bogues Debian — informations pour les développeurs" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="33ca549a7a4f5f50ef26749a5882613fb0715a03" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="3d1e8276d95d126a48f9af769f48b1f3183d20e4" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Christophe Le Bars, 1999, 2000.
@@ -324,9 +324,9 @@ Voici quelques renseignements détaillés sur les étiquettes :
 
 <dt><code>ftbfs</code></dt>
   <dd>La construction du paquet à partir du source a échouée. Si le bogue est
-  assigné à un paquet source, la construction de ce paquet échouera. Si le
+  assigné à un paquet source, la construction de ce paquet échoue. Si le
   bogue est assigné à un paquet binaire, la construction des paquets sources
-  concernés échouera. L’étiquette est valable pour les environnements de
+  concernés échoue. L’étiquette est valable pour les environnements de
   construction non standard (par exemple, utilisation de Build-Depends à partir
   d’experimental), mais la sévérité devrait être inférieure à serious (release
   critical) dans de tels cas.</dd>
