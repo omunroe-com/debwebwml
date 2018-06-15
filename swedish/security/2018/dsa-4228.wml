@@ -1,0 +1,23 @@
+#use wml::debian::translation-check translation="5d75916c48ef884d01cf7dfb0301d113a4d09d39" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i SPIP, en webbsajtmotor för
+publicering, som resulterar i sajtöverskridande skriptangrepp och
+PHP-injicering.</p>
+
+<p>För den gamla stabila utgåvan (Jessie) har detta problem rättats
+i version 3.0.17-2+deb8u4.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 3.1.4-4~deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era spip-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om spip vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/spip">\
+https://security-tracker.debian.org/tracker/spip</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4228.data"
