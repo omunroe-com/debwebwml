@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Debians brugervejledninger"
-#use wml::debian::translation-check translation="89452b91283c66fe196874b0444b28b819d16d7d"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
 
@@ -55,7 +55,7 @@
   Tilgængelig på de <a href="$(HOME)/CD">officielle komplette cd'er og dvd'er</a> i
   mappen <tt>/doc/manual/</tt>.
   <br><br>
-  <a href="https://d-i.alioth.debian.org/manual/">Version under udvikling</a>
+  <a href="https://d-i.debian.org/manual/">Version under udvikling</a>
 # <br>
 # <a href="$(HOME)/releases/testing/installmanual">Version der er under
 # udarbejdelse til den næste stabile distribution (i test).</a>
