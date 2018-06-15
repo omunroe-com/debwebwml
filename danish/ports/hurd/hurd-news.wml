@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd -- Nyheder" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="f6ec9896085cb13f36e27ec19c0efa864cca1488"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a"
 
 <h1>Nyheder om Debian GNU/Hurd</h1>
 
@@ -228,8 +228,8 @@ Se <a href="./hurd-cd">Hurds cd-side</a> for flere oplysninger.</p>
 <h3><:=spokendate ("2004-03-06"):></h3>
 
 <p>Efter ikke at have været opdateret i lang tid, er der nu uploadet nye
-CVS-øjebliksbilleder af <a href="https://packages.qa.debian.org/hurd">Hurd</a> 
-og <a href="https://packages.qa.debian.org/gnumach">GNU Mach</a>.</p>
+CVS-øjebliksbilleder af <a href="https://tracker.debian.org/pkg/hurd">Hurd</a> 
+og <a href="https://tracker.debian.org/pkg/gnumach">GNU Mach</a>.</p>
 
 
 <h3><:=spokendate ("2003-07-31"):></h3>
