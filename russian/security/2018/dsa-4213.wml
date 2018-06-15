@@ -1,5 +1,5 @@
 #use wml::debian::translation-check translation="72e985dfa9b7a9be1fca49944d2bccd5d39a088c"
-<define-tag description>security update</define-tag>
+<define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В qemu, быстром эмуляторе процессора, было обнаружено несколько
 уязвимостей.</p>
