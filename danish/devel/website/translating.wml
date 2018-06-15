@@ -1,6 +1,6 @@
 #use wml::debian::template title="Oversættelse af Debians websider" BARETITLE=true
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="d2e8c3c0b0e06f6a3d5dd63bf8a4caaace29664e"
+#use wml::debian::translation-check translation="8f2dd37edbf6287df4029e3f234798efbcce2862"
 
 <p>For at gøre oversætternes arbejde så let som muligt, genereres siderne lidt
 anderledes end mange af dem du måske er vant til. Websiderne genereres faktisk
@@ -26,6 +26,7 @@ originale .wml-fil oversættes og placeres i det andet sprogs mappe.  Den
 relative sti og navnet skal være det samme som i mappen english så linkene 
 fortsat vil fungere.</p>
 
+
 <h3>Oversættelses-headere</h3>
 
 <p>Det anbefales også kraftigt at oversætteren føjer yderligere en linie til 
@@ -44,38 +45,38 @@ ligne denne:
 <tt>copypage.pl</tt> gør dette automatisk, hvis du opsætter miljøvariablen 
 <tt>DWWW_MAINT</tt> eller anvender kommandolinjeparameteret <tt>-m</tt>.</p>
 
-<p>Man kan også fortælle robotten, hvem man er, hvor ofte man ønsker at modtage
-automatiske e-mails og deres indhold.  Til det formål kan du (eller din 
-koordinator) redigere filen 
-webwml/<var>language</var>/international/<var>sprog</var>/translator.db.pl
-i arkivet.  Syntaksen skulle være til at forstå og man kan det franske 
-oversætterholds fil som udgangspunkt, hvis den ikke findes i ens eget sprog 
-endnu.  Robotten kan sende flere forskellige former for oplysninger og for hver
-af dem, kan man angive hvor ofte det skal sendes.  De forskellige oplysninger 
-er:
-<ul>
- <li><b>summary</b>: et resume af hvilke dokumenter som er blevet forældede</li>
- <li><b>logs</b>: en <q>cvs log</q> mellem den oversatte og aktuelle versioner</li>
- <li><b>diff</b>: <q>cvs diff</q></li>
- <li><b>tdiff</b>: skriptet vil prøve at finde den oversatte tekst, som svarer til den ændrede engelske tekst</li>
- <li><b>file</b>: tilføj den akulle version af filen der skal oversættes</li>
-</ul>
-
-<p>Dernæst, for hver af dem, kan værdierne være: 0 (nyere), 1 (månedlig), 2 
-(ugentlig) or 3 (daglig).</p>
-
-<p>Et eksempel:</p>
-
-<verbatim>
-                'Martin Quinson' => {
-                        email       => 'martin.quinson@tuxfamily.org',
-                        summary     => 3,
-                        logs        => 3,
-                        diff        => 3,
-                        tdiff       => 0,
-                        file        => 0
-                },
-</verbatim>
+#<p>Man kan også fortælle robotten, hvem man er, hvor ofte man ønsker at modtage
+#automatiske e-mails og deres indhold.  Til det formål kan du (eller din 
+#koordinator) redigere filen 
+#webwml/<var>language</var>/international/<var>sprog</var>/translator.db.pl
+#i arkivet.  Syntaksen skulle være til at forstå og man kan det franske 
+#oversætterholds fil som udgangspunkt, hvis den ikke findes i ens eget sprog 
+#endnu.  Robotten kan sende flere forskellige former for oplysninger og for hver
+#af dem, kan man angive hvor ofte det skal sendes.  De forskellige oplysninger 
+#er:
+#<ul>
+# <li><b>summary</b>: et resume af hvilke dokumenter som er blevet forældede</li>
+# <li><b>logs</b>: en <q>cvs log</q> mellem den oversatte og aktuelle versioner</li>
+# <li><b>diff</b>: <q>cvs diff</q></li>
+# <li><b>tdiff</b>: skriptet vil prøve at finde den oversatte tekst, som svarer til den ændrede engelske tekst</li>
+# <li><b>file</b>: tilføj den akulle version af filen der skal oversættes</li>
+#</ul>
+#
+#<p>Dernæst, for hver af dem, kan værdierne være: 0 (nyere), 1 (månedlig), 2 
+#(ugentlig) or 3 (daglig).</p>
+#
+#<p>Et eksempel:</p>
+#
+#<verbatim>
+#                'Martin Quinson' => {
+#                        email       => 'martin.quinson@tuxfamily.org',
+#                        summary     => 3,
+#                        logs        => 3,
+#                        diff        => 3,
+#                        tdiff       => 0,
+#                        file        => 0
+#                },
+#</verbatim>
 
 <p>Header'en på websiderne kan nemt fremstilles ved hjælp af skriptet 
 <tt>copypage.pl</tt> i webwmls root-mappe.  Skriptet kopierer siden til dens
@@ -100,6 +101,7 @@ der er ting som ikke skal oversættes; respektér dem.  Foretag ingen unødvendi
 ændringer af formatteringen; hvis noget skal rettes, skal det formentlig også
 rettes i originalen.</p>
 
+
 <h3>Sideopbygning og -udgivelse</h3>
 
 <p>Da vi anvender <a href="content_negotiation">indholdsforhandling</a>
@@ -108,24 +110,24 @@ men <tt><var>fil</var>.<var>&lt;sprog&gt;</var>.html</tt>, hvor
 <var>&lt;sprog&gt;</var> er to-bogstavskoden for sproget, jævnfør 
 <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639</a>
 (for eksempel <tt>da</tt> for dansk).</p>
- 
+
 <p>Du kan generere HTML-filer fra WML ved at køre 
 <kbd>make <var>file</var>.<var>&lt;sprog&gt;</var>.html</kbd>.  
 Hvis det fungerer, kontroller da om syntaksen er helt korrekt med 
 <kbd>weblint <var>file</var>.<var>&lt;sprog&gt;</var>.html</kbd>.</p>
 
-<p>Websiderne genereres fra VCS på serveren www-master, og denne proces er 
-stort set sikret mod fejl.  Hvis du overfører en ødelagt fil til din 
-oversættelses øverste niveau (for eksempel index.wml på det øverste niveau), 
-vil det dog stoppe genereringsprocessen og forhindre alle andre opdateringer af
-webstedet.  Vær særligt omhyggelig med disse filer.</p>
+<p>BEMÆRK: Websiderne bliver jævnligt automatisk genopbygget på serveren 
+www-master, baseret på wml-kildekoden i Git.  Processen er mestendels sikret mod 
+fejl.  Men hvis du overfører en defekt fil til din oversættelses øverste niveau 
+(for eksempel index.wml på det øverste niveau), vil det standse 
+opbygningsprocessen samt forhindre alle andre opdateringer af webstedet.  Vær 
+særligt omhyggelig med disse filer.</p>
 
 <p>Når en side er klar til brug, kan du overføre den til Git.  Hvis du har
 rettigheder til selv at gøre det, så push dine commits til 
-<a href="https://salsa.debian.org/webmaster-team/webwml">git-arkivet på 
-Salsa-platformen</a>; hvis ikke, sendes siden til 
-<a href="translation_coordinators">en eller anden med skriveadgang til 
-arkivet</a>.</p>
+<a href="https://salsa.debian.org/webmaster-team/webwml">webwml-git-arkivet</a>; 
+hvis ikke, sendes siden til <a href="translation_coordinators">en eller anden 
+med skriveadgang til arkivet</a>.</p>
 
 
 <h2><a name="completenew">Begynd på en ny oversættelse</a></h2>
@@ -134,15 +136,13 @@ arkivet</a>.</p>
 så send en e-mail (på engelsk) til os på
 <a href="mailto:webmaster@debian.org">webmaster@debian.org</a>.</p>
 
-<p>Først og fremmest skal du sikre dig at du har foretaget en korrekt 
-checkout af vores kildekodetræ, som beskrevet <a href="using_git">på vores 
-side med introduktion til Git</a>.</p>
+<p>Først og fremmest skal du klone vores kildekodetræ, som beskrevet i side med
+<a href="using_git">introduktion til Git</a>.</p>
 
-<p>Efter du har foretaget en checkout af mappen webwml/ og (mindst)
-webwml/english/, begynd da med at oprette en ny mappe til dine 
-oversættelser, på samme niveau som english/ og de andre sprog.  Navnet på 
-oversættelsesmappen skal være på engelsk og kun skrives med små bogstaver
-(for eksempel <q>german</q> og ikke <q>Deutsch</q>).</p>
+<p>Når du har en Git-checkout, så begynd med at oprette en ny mappe på øverste 
+niveau til dine oversættelser, på samme niveau som english/ og de andre sprog.  
+Navnet på oversættelsesmappen skal være på engelsk og må kun skrives med små 
+bogstaver (for eksempel <q>german</q> og ikke <q>Deutsch</q>).</p>
 
 <p>Kopier filerne <tt>Make.lang</tt> og <tt>.wmlrc</tt> fra mappen english/
 til den nye oversættelsesmappe.  Disse filer er afgørende i opbygningen af 
@@ -252,14 +252,14 @@ commit'ets hashstreng.  For at vise detaljerede oplysninger om de foretagne
 <code>git show</code>:</p>
 
 <verbatim>
-  git show <COMMIT_HASH_STRING> -- <sti/til/slettet/fil.wml>
+   git show <COMMIT_HASH_STRING> -- <sti/til/slettet/fil.wml>
 </verbatim>
 
 <p>Hvis commit'en netop er den, der slettede filen, kan du gendanne filen til 
 arbejdsrummet ved hjælp af <code>git checkout</code>:</p>
 
 <verbatim>
-  git checkout <COMMIT_HASH_STRING>^ -- <sti/til/slettet/fil.wml>
+   git checkout <COMMIT_HASH_STRING>^ -- <sti/til/slettet/fil.wml>
 </verbatim>
 
 <p>Når du gør det, skal du - selvfølgelig - opdatere filen før den checker 

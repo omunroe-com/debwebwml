@@ -1,5 +1,5 @@
 #use wml::debian::translation-check translation="97c63276e44b98a1da68595f99dc2712f2352661"
-<define-tag description>security update</define-tag>
+<define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Этьен Столманс обнаружил, что git, быстрая масштабируемая распределённая
 система управления ревизиями, уязвима к выполнению произвольного кода

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Hvordan man arbejder på Debians websider" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="648de6ad5bea60540e41a5733da0b761a34c7927"
+#use wml::debian::translation-check translation="bc66db8592a5b03cf67480ae2e3df889eb158f0c"
 
 <toc-display/>
 
@@ -114,57 +114,8 @@ ulejlige et 20-25 personer vedrørende ting, der hurtigt kan klares af en enkelt
 person.</p>
 
 <p>For at gøre den slags ændringer nemmere at foretage, kan man desuden anvende
-skriptet <code>smart_change.pl</code>, der ligger i den øverste mappe i webwmls 
-Git-modul.</p>
-
-
-<h4>Anvendelse af smart_change.pl</h4>
-
-<pre>smart_change.pl [parametre] original-fil</pre>
-
-<p>Pt. tillades kun filer i <code>/english/</code> som <var>original-fil</var>. 
-<code>smart_change.pl</code> kender følgende parametre:</p>
-
-<dl>
-  <dt><code>-s, --substitute=<var>REGEXP</var></code></dt>
-  <dd>Skriv et regulært udtryk i Perl, som vil blive kørt på kildekodefilerne
-      (kan anvendes mere end én gang). Eksempel:
-      <pre>
-      $&gt; ./smart_change.pl -s "s,http://gammel-url/,http://ny-url/,g" english/devel/index.wml
-      $&gt; cvs diff -u */devel/index.wml | less
-      $&gt; cvs ci -m "1.23: Updated gammel-url to current location" */devel/index.wml
-      </pre>
-      Den første kommando foretager ændringen, den anden kommando kontrollerer
-      den engelsksprogede originale fil og alle oversættelser af den.  Du bør
-      gøre dette for at gennemse de egentlige ændringer før du commit'er dine
-      ændringer.  Hvis alt ser ud som forventet, kan du commit'e ændringerne
-      med den tredje kommando.
-  </dd>
-
-  <dt><code>-l, --lang=<var>STRING</var></code></dt>
-  <dd>Dette sprog behandles (kan anvendes mere end én gang).  Hvis der ikke er
-      angivet et sprog, vil alle tilgængelige sprog blive behandlet.</dd>
-
-  <dt><code>-n, --no-bump</code></dt>
-  <dd>Opdatér ikke <q>translation-check</q>-linjer.  
-      Normalt forøges versionen i hver <q>translation-check</q>-linje med én, hvis
-      de oversatte filer er ajourførte, og ændres ikke i filer, som ikke er ført
-      ajour.  Hvis paremeteret er angivet, røres der ikke ved nogen 
-      <q>translation-check</q>-linjer.  Se <q>om at holde oversættelser ajour</q> 
-      for en <a href="uptodate">beskrivelse af <q>translation-check</q>-linjerne</a>.
-      </dd>
-
-  <dt><code>-p, --previous</code></dt>
-  <dd>Vis foregående CVS-revision.  Dette er primært nyttigt, hvis den engelske 
-      fil allerede er commit'et og man ønsker at kontrollere 
-      <q>translation-check</q>-linjerne mod den foregående version.</dd>
-
-  <dt><code>-h, --help</code></dt>
-  <dd>Vis en kort brugsanvisning.</dd>
-
-  <dt><code>-v, --verbose</code></dt>
-  <dd>Vis alle meddelelser under kørsel.</dd>
-</dl>
+skriptet <a href="using_git#translation-smart-change">\
+<code>smart_change.pl</code></a> fra den øverste mappe i Git-modulet webwml.</p>
 
 
 <toc-add-entry name="links">Links</toc-add-entry>
