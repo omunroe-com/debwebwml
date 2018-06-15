@@ -1,9 +1,10 @@
 #use wml::debian::template title="Le coin du développeur Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="83e7c9d3117e07a0acc4360149be71547b0ec7a7" maintainer="David Prévot"
+#use wml::debian::translation-check translation="83e7c9d3117e07a0acc4360149be71547b0ec7a7" maintainer="Jean-Paul Guillonneau"
 
 # Original translation by Christian Couder
 # Previous translator Pierre Machard
 # Previous translator Nicolas Bertolissio
+# Previous translator David Prévot
 
 <p>
 Les informations de cette page, bien que publiques, seront surtout
@@ -22,7 +23,7 @@ intéressantes pour les développeurs Debian.
 
 <div id="main">
 
-<div class="cardleft" id="basic"> 
+<div class="cardleft" id="basic">
 
 <h2>Bases</h2>
 
@@ -190,25 +191,25 @@ comme&nbsp;:
     Python</a>.<br />
     Une proposition pour des règles qui couvrent tout ce qui concerne les
     paquets Python&nbsp;;</li>
-  <li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">les règles
-    d'infrastructure de langage intermédiaire (CLI) Debian</a>.<br />
-    Les règles de base concernant l'empaquetage d'applications de bibliothèques
-    basées sur Mono ou d'autres infrastructures et composants de langage
-    intermédiaire&nbsp;;</li>
+#  <li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">les règles
+#    d'infrastructure de langage intermédiaire (CLI) Debian</a>.<br />
+#    Les règles de base concernant l'empaquetage d'applications de bibliothèques
+#    basées sur Mono ou d'autres infrastructures et composants de langage
+#    intermédiaire&nbsp;;</li>
   <li><a href="$(DOC)/packaging-manuals/debconf_specification.html">les
     spécifications de debconf</a>.<br />
     Les spécifications du système de gestion de configuration
     «&nbsp;debconf&nbsp;»&nbsp;;</li>
-  <li><a href="https://dict-common.alioth.debian.org/">la charte pour les
-    dictionnaires et correcteurs orthographiques</a>.<br />
-    Document concernant les listes de mots et les dictionnaires pour
-    <kbd>ispell</kbd> et <kbd>myspell</kbd>&nbsp;;</li>
-  <li><a href="https://webapps-common.alioth.debian.org/draft/html/">le manuel
-    de règles pour les applications web</a> (brouillon).<br />
-    Des règles pour les applications sur le web&nbsp;;</li>
-  <li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">les
-    règles pour PHP</a> (brouillon).<br />
-    Normes d'empaquetage pour PHP&nbsp;;</li>
+#  <li><a href="https://dict-common.alioth.debian.org/">la charte pour les
+#    dictionnaires et correcteurs orthographiques</a>.<br />
+#    Document concernant les listes de mots et les dictionnaires pour
+#    <kbd>ispell</kbd> et <kbd>myspell</kbd>&nbsp;;</li>
+#  <li><a href="https://webapps-common.alioth.debian.org/draft/html/">le manuel
+#    de règles pour les applications web</a> (brouillon).<br />
+#    Des règles pour les applications sur le web&nbsp;;</li>
+#  <li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">les
+#    règles pour PHP</a> (brouillon).<br />
+#    Normes d'empaquetage pour PHP&nbsp;;</li>
   <li><a href="https://www.debian.org/doc/manuals/dbapp-policy/">les
     règles pour les applications de bases de données</a> (brouillon).<br />
     Un ensemble d'indications et de bonnes pratiques pour les paquets
@@ -299,7 +300,7 @@ intégré dans les récentes versions de la Charte.
   <dd>
     Les pages proposant des <a href="https://qa.debian.org/developer.php">\
     informations sur les paquets</a> et concernant le <a
-    href="https://packages.qa.debian.org/">suivi de paquets</a> fournissent des
+    href="https://tracker.debian.org/">suivi de paquets</a> fournissent des
     informations précieuses aux développeurs.
   </dd>
 
@@ -369,7 +370,7 @@ Le wiki rassemble des conseils pour les développeurs et autres contributeurs.
 <h2>Projets</h2>
 
 <div>
-      
+
 <p>
 Debian est une grande organisation, et, en tant que telle, elle est constituée
 de plusieurs groupes et projets internes. Voici ceux possédant une page, triés
@@ -396,11 +397,11 @@ par ordre chronologique de création de ces pages&nbsp;:
   <li><a href="tech-ctte">comité technique</a>&nbsp;;</li>
   <li><a href="$(HOME)/international/l10n/ddtp">projet de traduction des descriptions de
     paquets Debian</a>&nbsp;;</li>
-  <li><a href="https://alioth.debian.org/">Alioth&nbsp;: un GForge pour
-    Debian</a>&nbsp;;</li>
-  <li>groupe de réflexion sur <a
-    href="https://deb-usability.alioth.debian.org/">l'ergonomie de
-    Debian</a>&nbsp;;</li>
+#  <li><a href="https://alioth.debian.org/">Alioth&nbsp;: un GForge pour
+#    Debian</a>&nbsp;;</li>
+#  <li>groupe de réflexion sur <a
+#    href="https://deb-usability.alioth.debian.org/">l'ergonomie de
+#    Debian</a>&nbsp;;</li>
   <li><a href="debian-installer/">installateur de Debian</a>&nbsp;;</li>
   <li><a href="debian-live/">Debian Live</a>&nbsp;;</li>
   <li><a href="http://www.emdebian.org/">emdebian - Debian embarqué</a>&nbsp;;</li>
@@ -410,7 +411,7 @@ par ordre chronologique de création de ces pages&nbsp;:
   <li><a href="$(HOME)/women/"><i>Debian Women</i></a>&nbsp;;</li>
 
 </ul>
-      
+
 <p>
 Un certain nombre de ces projets ont pour objectif de créer des <a
 href="https://wiki.debian.org/DebianPureBlends">« Debian Pure Blends »</a>
@@ -425,7 +426,7 @@ parfaitement dans le système Debian. Cela inclut&nbsp;:
   <li><a href="debian-accessibility/">projet d'accessibilité pour Debian</a> ;</li>
   <li><a href="https://wiki.debian.org/DebianGis">projet Debian GIS</a> ;</li>
   <li><a href="https://wiki.debian.org/DebianScience">Debian Science</a> ;</li>
-  <li><a href="https://debichem.alioth.debian.org/">DebiChem Project</a>.</li>
+#  <li><a href="https://debichem.alioth.debian.org/">DebiChem Project</a>.</li>
 </ul>
 
 </div>
@@ -450,7 +451,7 @@ parfaitement dans le système Debian. Cela inclut&nbsp;:
     <code>debian-keyring</code>.
   </dd>
 </dl>
-      
+
 <p>
 Liens associés&nbsp;:
 </p>
@@ -482,7 +483,7 @@ Liens associés&nbsp;:
   <li><a href="$(HOME)/social_contract.1.0">version&nbsp;1.0 historique</a>
     du <em>contrat social</em> avec la communauté du logiciel libre.</li>
 </ul>
-      
+
 <p>
 Voici quelques liens externes intéressants&nbsp;:
 </p>
