@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/lenny/release.data"
-#use wml::debian::translation-check translation="588ac1ae09d08ac7a16940a1f14cd70aca96b209"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
 
 <if-stable-release release="etch">
 <p>Esta es una <strong>versión beta</strong> de la guía de instalación para Debian
@@ -12,7 +12,7 @@ que se presenta aquí podría estar desactualizada y/o ser inexacta debido a cam
 el instalador. Podría interesarle la
 <a href="../etch/installmanual">guía de instalación de Debian
 GNU/Linux 4.0, nombre en clave etch</a>, que es la última versión publicada de
-Debian, o la <a href="https://d-i.alioth.debian.org/manual/">versión de
+Debian, o la <a href="https://d-i.debian.org/manual/">versión de
 los desarrolladores de la guía de instalación</a>, que es la versión más reciente
 de este documento.</p>
 </if-stable-release>
