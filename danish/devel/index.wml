@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians udviklerhjørne" BARETITLE="true"
-#use wml::debian::translation-check translation="d95389d578d7941cd99f185103ef1a508d34269f"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a"
 
 <p>Oplysningerne på denne side er offentligt tilgængelige, men primært af 
 interesse for Debian-udviklere.</p>
@@ -254,7 +254,7 @@ interesse for Debian-udviklere.</p>
 	<dd>
 	Websiderne til 
 	<a href="https://qa.debian.org/developer.php">pakkeoplysning</a> og
-	<a href="https://packages.qa.debian.org/">pakkesporing</a> stiller 
+	<a href="https://tracker.debian.org/">pakkesporing</a> stiller 
 	samlinger af værdifulde oplysninger til rådighed for vedligeholderne.
 
         <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">\
