@@ -1,5 +1,5 @@
 #use wml::debian::template title="Brug af Git til at håndtere webstedets kildekode"
-#use wml::debian::translation-check translation="4cf7397e207de608c604c96102ab380555d8ff4f"
+#use wml::debian::translation-check translation="5d080035d9ae8d0435f58853443362eb5407acaa"
 
 <p>Git er et <a href="https://da.wikipedia.org/wiki/Versionsstyring">\
 versionsstyringssystem</a>, som hjælper med at håndtere, at der er mange 
@@ -12,7 +12,7 @@ lokale kopi, som de ønsker, og når det ændrede materiale er parat, commit'es
 <p>Git tillader ikke at man push'er en commit direkte, hvis fjernarkivet 
 indeholder nyere commits (ændringer), end man har i sin lokale kopi i den samme 
 branch (forgrening).  I sådanne tilfælde hvor konflikter kan opstå, skal man 
-først hente ændringerne og opdatere sin lokale kopi, og dernæst 
+først hente ændringerne og opdatere sin lokale kopi, og dernæst efter behov 
 <code>rebase</code> sine nye ændringer oven på den seneste commit.</p>
 
 
@@ -31,25 +31,33 @@ hvem der kan stå inde for dig.</p>
 
 <h3><a name="work-on-repository">Arbejde i arkivet</a></h3>
 
-<h4><a name="establish-local-repo-copy">Etablering af lokal kopi af arkivet</a></h4>
+<h4><a name="clone-local-repo-copy">Klon en lokal kopi af arkviet</a></h4>
 
-<p>For at kunne arbejde i arkivet, skal du installere Git, samt opsætte din 
-bruger og mailadresse (se Gits generelle dokumentation).  Når det er på plads, 
-kan arkivet klones med:</p>
+<p>Først skal du installere Git, for at kunne arbejde med arkivet.  Dernæst 
+opsættes din bruger og mailoplysninger på din computer (se Gits generelle 
+dokumentation for oplysninger om hvordan dette gøres).  Herefter kan du klone 
+arkivet (med andre ord, lave en lokal kopi af det) på to forskellige måder.</p>
+
+<p>Den anbefalede måde at arbejde på webwml, er først at registrere en konto på 
+salsa.debian.org, og aktivere adgang til Git via SSH, ved at uploade en 
+offentlig SSH-nøgle til din salsakonto.  Se 
+<a href="https://salsa.debian.org/help/ssh/README.md">salsas hjælpesider</a> for 
+flere oplysninger om hvordan det gøres.  Dernæst kan du klone webwml-arkivet med 
+følgende kommando:</p>
 
 <pre>
-   git clone git@salsa.debian.org:webmaster-team/webwml.git
+  git clone git@salsa.debian.org:webmaster-team/webwml.git
 </pre>
 
-<p>Bemærk at du på forhånd <strong>skal</strong> have oprettet en konto på 
-salsa.debian.org, samt have aktiveret SSH-adgang ved at uploade en SSH-pubkey 
-til Salsa-platformen, før <code>git clone</code>-kommandoen kan udføres via 
-SSH-protokollen.  Alternativt kan du overveje at klone arkivet ved hjælp af 
-HTTPS-protokollen:</p>
+<p>Hvis du ikke har en salsakonto, er der en alternativ metode til kloning af 
+arkivet ved hjælp af HTTPS-protokollen:</p>
 
 <pre>
   git clone https://salsa.debian.org/webmaster-team/webwml.git
 </pre>
+
+<p>Det giver dig en lokal kopi af det samme arkiv, men den vil ikke være i stand 
+til at push'e ændringer direkte tilbage på denne måde.</p>
 
 <p>Kloning af hele webwml-arkivet kræver, at der hentes omkring 500 megabyte 
 data, hvilket kan være et problem for dem, med langsomme eller ustabile 
@@ -60,8 +68,8 @@ minimal dybde, for i første omgang at overføre færre data:</p>
   git clone git@salsa.debian.org:webmaster-team/webwml.git --depth 1
 </pre>
 
-<p>Efter at have fået hentet et (begrænset) arkiv, kan den lokale begrænsede 
-kopi gøres dybere, og slutteligt gøres til et komplet lokalt arkiv:</p>
+<p>Efter at have hentet et brugbart (begrænset) arkiv, kan du fordybe den lokale 
+begrænsede kopi, og med tiden konvertere den til et komplet lokalt arkiv:</p>
 
 <pre>
   git fetch --deepen=1000 # fordyb arkivet med yderligere 1000 commits
@@ -75,48 +83,49 @@ kopi gøres dybere, og slutteligt gøres til et komplet lokalt arkiv:</p>
 af siderne:</p>
 
 <pre>
-   $ git clone --no-checkout git@salsa.debian.org:webmaster-team/webwml.git
-   $ cd webwml
-   $ git config core.sparseCheckout true
-   I webwml: Opret filen .git/info/sparse-checkout med indhold som det følgende (hvis 
-   du kun ønsker grundlæggende filer, engelsk, samt danske og svenske oversættelser):
-      /*
-      !/[a-z]*/
-      /english/
-      /danish/
-      /swedish/
-   Then:
-   $ git checkout --
+  $ git clone --no-checkout git@salsa.debian.org:webmaster-team/webwml.git
+  $ cd webwml
+  $ git config core.sparseCheckout true
+  I webwml: Opret filen .git/info/sparse-checkout med indhold som det følgende (hvis 
+  du kun ønsker grundlæggende filer, engelsk, samt danske og svenske oversættelser):
+    /*
+    !/[a-z]*/
+    /english/
+    /danish/
+    /swedish/
+  Then:
+  $ git checkout --
 </pre>
 
 
 <h4><a name="submit-changes">Overførsel af lokale ændringer</a></h4>
 
-<p>En gang i mellem (og i hvert fald inden du går i gang med at redigere!), skal 
+<p>En gang i mellem (og helt sikkert inden du går i gang med at redigere!), skal 
 du udføre en</p>
 
 <pre>
-   git pull
+  git pull
 </pre>
 
 <p>for at hente alle ændrede filer fra arkivet.</p>
 
-<p>Bemærk, da Git er et distribueret (ikke centraliseret) system, skal du efter 
-at have commit'et dine ændringer, dernæst push'e (skubbe) dem til arkivet i 
-Salsa.</p>
+<p>Bemærk: Git er et distribueret (ikke centraliseret) versionsstyringssystem.  
+Det betyder at når du commit'er ændringer, bliver de kun gemt i dit lokale 
+arkiv.  For at dele dine ændringer med andre, skal du også push'e (skubbe) dem 
+til arkivet i Salsa.</p>
 
 <p><strong>En ændring af en engelsksproget fil, kan ligne følgende:</strong></p>
 
 <pre>
-   $ git pull
+  $ git pull
 </pre>
 
-<p>Foretag nu dine filændringer.  Når du er færdig, kan du commit'e ændringerne 
-til det lokale arkiv, med</p>
+<p>Foretag nu dine filændringer.  Når du er færdig, skal du commit'e ændringerne 
+til dit lokale arkiv, med</p>
 
 <pre>
-   $ git add sti/til/fil(er)
-   $ git commit -m "Your commit message"
+  $ git add sti/til/fil(er)
+  $ git commit -m "Your commit message"
 </pre>
 
 # Translator's note about the message should be in English
@@ -125,10 +134,10 @@ til det lokale arkiv, med</p>
 <p>Dernæst skubbes dine ændringer til Salsa-arkivet:</p>
 
 <pre>
-   $ git push
+  $ git push
 </pre>
 
-<p>Det er den mest grundlæggende anvendelse af Git til at ændre på kildekoden 
+<p>Det er et meget grundlæggende resume af hvordan Git bruges til at kildekoden 
 til Debians websted.  For flere oplysninger om Git, kan du læse Gits 
 dokumentation.</p>
 
@@ -142,16 +151,21 @@ commitmeddelelse, vil fejl nummer <code>#</code><var>nnnnnn</var> blive lukket
 automatisk når du push'er dine ændringer.  Det nøjagtige format er det samme, 
 som <a href="$(DOC)/debian-policy/footnotes.html#f17">i Debian Policy</a>.</p>
 
-<p>Mange Debian-websteder understøtter SSL, benyt derfor HTTPS-links til dem, 
-der understøtter SSL.  Da nogle websteder tilhørende Debian/DebConf/SPI/osv., 
-ikke har HTTPS-understøttelse eller kun er signeret af SPI, og ikke af en 
-SSL-certifikatmyndighed, som webbrowsere uden for Debian stoler på, bør vi 
-undgå at linke til https:-versioner af disse websteder, så personer der ikke 
-anvender Debian, ikke får fejlmeddelelser, som de måske ikke forstår.  
-Git-arkivet afviser commits indeholdende almindelige HTTP-links til 
-Debian-websteder, som understøttter HTTPS, eller hvis de indeholder 
-HTTPS-links til de Debian-/DebConf-/SPI-websteder, som vi véd enten ikke 
-understøtter HTTPS eller anvender certifikater, som kun er signeret af SPI.</p>
+
+<h4><a name="links-using-http-https">Links med HTTP/HTTPS</a></h4>
+
+
+<p>Mange af Debians websteder understøtter SSL, benyt derfor HTTPS-links, hvor 
+det er muligt og giver mening.  <strong>Dog</strong> har nogle websteder 
+tilhørende Debian/DebConf/SPI/osv., enten ikke HTTPS-understøttelse eller 
+anvender kun SPI's egen certifikatmyndighed (og ikke en SSL-certifikatmyndighed, 
+som alle webbrowsere stoler på).  For at undgå fejlmeddelelser, for besøgende der 
+ikke Debian, skal der ikke oprettes HTTPS-links til sådanne websteder.</p>
+
+<p>Git-arkivet afviser commits indeholdende almindelige HTTP-links til Debians 
+websteder, som understøttter HTTPS, eller hvis de indeholder HTTPS-links til de 
+Debian-/DebConf-/SPI-websteder, som vi véd enten ikke understøtter HTTPS eller 
+anvender certifikater, som kun er signeret af SPI.</p>
 
 
 <h3><a name="translation-work">Arbejde med oversættelser</a></h3>
@@ -161,7 +175,7 @@ til at svare til Git-commithashværdien i den tilhørende ændring af den
 engelsksprogede fil.  Du kan finde hashværdien med</p>
 
 <pre>
-$ git log sti/til/engelsk/fil
+  $ git log sti/til/engelsk/fil
 </pre>
 
 <p>Hvis du foretager en ny oversættelse af en fil, så benyt skriptet 
@@ -171,17 +185,37 @@ korrekte translation-header.</p>
 
 <h3><a name="translation-smart-change">Oversættelsesændringer med smart_change.pl</a></h3>
 
-<p>Der er en *NY* implementering af smart_change.pl, som er begrænset til 
-understøttelse Gits commithashværdier.  Fremgangsmåde:</p>
+<p><code>smart_change.pl</code> er et skript beregnet til at gøre det lettere at 
+opdatere originale filer og deres oversættelser på samme tid.  Der er to måder 
+at anvende skriptet på, afhængigt af hvilke ændringer, du laver.</p>
 
-<ul>
+<p>For at anvende <code>smart_change</code> til blot at opdatere 
+translation-check-headere, når du manuelt arbejder på filer:</p>
+
+<ol>
   <li>Foretag ændringerne i de(n) original(e) fil(er), og udfør commit</li>
   <li>Opdater oversættelser</li>
   <li>Udfør smart_change.pl - det opsamler ændringerne og opdaterer headerne i 
       de oversatte filer</li>
-  <li>Gennemse ændringerne (for eksempel med <q>git diff -u</q>)</li>
-  <li>Commit og push ændringerne</li>
+  <li>Gennemse ændringerne (fx med <code>git diff</code>)</li>
+  <li>Commit oversættelsesændringerne</li>
 </ul>
+
+<p>Eller, hvis du anvender smart_change med et regulært udtræk, for at foretage 
+adskillige ændringer på tværs af filer i ét gennemløb:</p>
+
+<ol>
+  <li>Kør <code>smart_change.pl -s s/FOO/BAR/ origfil1 origfil2 ...</code></li>
+  <li>Gennemse ændringerne (fx med <code>git diff</code>)</li>
+  <li>Commit de(n) original(e) fil(er)</li>
+  <li>Kør <code>smart_change.pl origfil1 origfil2</code>
+    (dvs. denne gang <strong>uden regexp'en</strong>); det vil nu kun opdatere 
+    headerne i de oversatte filer</li>
+  <li>Slutteligt commit'es ændringerne til oversættelserne</li>
+</ol>
+
+<p>Det er mere kompliceret end tidligere (behov for to commits), men uundgåeligt 
+på grund af den måde, Gits commithashes fungerer.</p>
 
 
 <h3><a name="notifications">Modtag notifikationer</a></h3>
