@@ -1,5 +1,5 @@
 #use wml::debian::template title="Уголок разработчика Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="d95389d578d7941cd99f185103ef1a508d34269f" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Lev Lamberov"
 
 <p>Информация на этой странице, хотя и является общедоступной, интересна,
 прежде всего, разработчикам Debian.</p>
@@ -250,7 +250,7 @@
         <dt>Обзор пакетов с точки зрения разработчика</dt>
         <dd>
         Страницы <a href="https://qa.debian.org/developer.php">информации о пакетах</a>
-        и <a href="https://packages.qa.debian.org/">отслеживания пакетов</a>
+        и <a href="https://tracker.debian.org/">отслеживания пакетов</a>
         содержат важную информацию для разработчиков.
 
         <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">Система

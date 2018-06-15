@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Lev Lamberov"
 <define-tag pagetitle>Анонс смеси Debian Hamradio</define-tag>
 <define-tag release_date>2014-12-02</define-tag>
 #use wml::debian::news
@@ -101,7 +101,7 @@ PET.
 [3a]: <a  rel="nofollow" href="https://blends.debian.org/hamradio/tasks/index">https://blends.debian.org/hamradio/tasks/index</a>
 [3b]: <a  rel="nofollow" href="https://blends.debian.org/hamradio/bugs_udd/">https://blends.debian.org/hamradio/bugs_udd/</a>
 [3c]: <a  rel="nofollow" href="https://blends.debian.org/hamradio/thermometer/">https://blends.debian.org/hamradio/thermometer/</a>
-[3d]: <a  rel="nofollow" href="https://anonscm.debian.org/cgit/blends/projects/hamradio.git">https://anonscm.debian.org/cgit/blends/projects/hamradio.git</a>
+[3d]: <a  rel="nofollow" href="https://salsa.debian.org/blends-team/hamradio">https://salsa.debian.org/blends-team/hamradio</a>
 
 4. Цели выпуска &quot;strech&quot;
 =============================
@@ -117,7 +117,7 @@ PET.
  * Перемещение меню XDG для Hamradio в пакет смесей, добавление
    подменю для каждой задачи для упрощения перемещения по меню в случае
    установки нескольких пакетов для радиолюбительства.
- 
+
 [4a]: <a  rel="nofollow" href="https://wiki.debian.org/ReleaseGoals/NoLinuxDevDsp">https://wiki.debian.org/ReleaseGoals/NoLinuxDevDsp</a>
 
 Конечно, эти задачи открыты для обсуждения и не установлены раз и навсегда.
@@ -129,11 +129,9 @@ PET.
 Спасибо за внимание,
 Иэн.
 
--- 
+--
 e: irl@fsfe.org            w: iain.learmonth.me
 x: irl@jabber.fsfe.org     t: +447875886930
 c: 2M0STB                  g: IO87we
 p: 1F72 607C 5FF2 CCD5 3F01 600D 56FF 9EA4 E984 6C49
 </pre>
-
-

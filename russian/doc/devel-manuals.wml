@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Руководства для разработчиков Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
-#use wml::debian::translation-check translation="a5f6ece6021a908d003b334683cb03496734ec3e" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Lev Lamberov"
 
 <document "Руководство по политике Debian" "policy">
 
@@ -286,8 +286,8 @@
   готов
   </status>
   <availability>
-  <p><a href="https://d-i.alioth.debian.org/doc/internals/">HTML</a>.</p>
-  <p><a href="https://anonscm.debian.org/cgit/d-i/debian-installer.git/tree/doc/devel/internals">Исходный код в DocBook XML</a>.</p>
+  <p><a href="https://d-i.alioth.debian.org/doc/internals/">HTML (В настоящее время не доступен.)</a>.</p>
+  <p><a href="https://salsa.debian.org/installer-team/debian-installer/tree/master/doc/devel/internals">Исходный код в DocBook XML</a>.</p>
   </availability>
 </doctable>
 </div>

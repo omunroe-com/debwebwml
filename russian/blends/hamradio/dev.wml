@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Разработка смеси"
 #use "navbar.inc"
 # $Id$
-#use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Lev Lamberov"
 
 <h2>Создание пакетов</h2>
 
@@ -19,11 +19,11 @@
 <h2>Исходный код метапакетов</h2>
 
 <ul>
-	<li><a href="https://anonscm.debian.org/cgit/blends/projects/hamradio.git">Просмотр git через веб</a></li>
-	<li><a href="https://anonscm.debian.org/git/blends/projects/hamradio.git">Анонимное клонирование git</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/hamradio">Просмотр git через веб</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/hamradio.git">Анонимное клонирование git</a></li>
 </ul>
 
-<pre>git clone https://anonscm.debian.org/git/blends/projects/hamradio.git
+<pre>git clone https://salsa.debian.org/blends-team/hamradio
 cd hamradio ; make dist
 gbp buildpackage</pre>
 
@@ -37,11 +37,11 @@ href="https://packages.debian.org/unstable/git-buildpackage">git-buildpackage</a
 <h2>Исходный код <q>живого</q> DVD</h2>
 
 <ul>
-	<li><a href="https://anonscm.debian.org/cgit/blends/blends-images.git">Просмотр git через веб</a></li>
-	<li><a href="https://anonscm.debian.org/git/blends/blends-images.git/">Анонимное клонирование git</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/blends-images">Просмотр git через веб</a></li>
+	<li><a href="https://salsa.debian.org/blends-team/blends-images.git">Анонимное клонирование git</a></li>
 </ul>
 
-<pre>git clone https://anonscm.debian.org/git/blends/blends-images.git/
+<pre>git clone https://salsa.debian.org/blends-team/blends-images.git
 cd blends-images/images/hamradio-amd64
 lb config
 sudo lb build</pre>
@@ -54,5 +54,3 @@ sudo lb build</pre>
 <p>Дополнительную информацию о том, как работать с исходным кодом live-build см. в <a
  href="http://live.debian.net/manual/unstable/html/live-manual/toc.en.html">Руководстве
  по <q>живым</q> системам</a>.</p>
-
-

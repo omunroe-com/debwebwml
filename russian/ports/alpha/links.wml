@@ -1,6 +1,6 @@
 #use wml::debian::template title="Перенос на Alpha -- Ссылки" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
-#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Lev Lamberov"
 
 <h1>Ссылки переноса на платформу Alpha</h1>
 
@@ -17,7 +17,7 @@
 Старый, но всё ещё очень полезный документ для новых и опытных пользователей.
 Он описывает
 различия между Alpha и другими архитектурами, а также описывает
-различные системы Alpha. <b>Если у вас имеется старая система и вам необходимо 
+различные системы Alpha. <b>Если у вас имеется старая система и вам необходимо
 знать, что это за система
 (на самом деле, а не то, что написано на её корпусе), см.
 <a href="http://www.alphalinux.org/docs/alpha-howto.html#The%20Systems">этот подраздел</a>.</b></li>
@@ -28,24 +28,24 @@
 и является отличным справочником.</li>
 
 <li><a href="http://www.alphalinux.org/faq/SRM-HOWTO/index.html">HOWTO по микропрограмме SRM</a><br />
-Официальное HOWTO для систем, использующих микропрограмму SRM. Если вам нужно использовать 
+Официальное HOWTO для систем, использующих микропрограмму SRM. Если вам нужно использовать
 <a href="http://sourceforge.net/projects/aboot">aboot</a>
-для того, чтобы загрузить вашу систему Alpha, эта страница для вас. 
+для того, чтобы загрузить вашу систему Alpha, эта страница для вас.
 #This HOWTO is included in
 #the latest version of the
-#<a href="https://packages.qa.debian.org/a/aboot.html">Debian packet</a>
+#<a href="https://tracker.debian.org/pkg/aboot">Debian packet</a>
 #as well.
 </li>
 
 <li><a href="http://alphalinux.org/faq/MILO-HOWTO/t1.html">MILO HOWTO</a><br />
-Официальное HOWTO по MILO. Заметьте, что в 
+Официальное HOWTO по MILO. Заметьте, что в
 <a href="$(HOME)/devel/debian-installer/">debian-installer</a> отсутствует поддержка MILO.
 Рекомендуется использовать SRM, но если вы не можете переключиться и
 вам нужна поддержка
-MILO для выпусков Debian новее Woody, то для добавления поддержки MILO прочтите 
-<a href="https://lists.debian.org/debian-alpha/2004/debian-alpha-200402/msg00003.html">это сообщение в debian-alpha</a> и подпишитесь на 
+MILO для выпусков Debian новее Woody, то для добавления поддержки MILO прочтите
+<a href="https://lists.debian.org/debian-alpha/2004/debian-alpha-200402/msg00003.html">это сообщение в debian-alpha</a> и подпишитесь на
 <a href="https://lists.debian.org/debian-boot/">debian-boot</a>. Документация
-есть на 
+есть на
 <a href="http://www.suse.de/~stepan/">странице Штепана Райнара (Stepan Rainauer)</a>, <a href="ftp://genie.ucd.ie/pub/alpha/milo/">Никиты
 Шмидта (Nikita Schmidt</a> и
 на сайте <a href="http://dev.gentoo.org/~taviso/milo/">Gentoo</a>.</li>
@@ -78,7 +78,7 @@ MILO для выпусков Debian новее Woody, то для добавле
 <ul>
 
 <li>Список рассылки debian-alpha<br />
-Вышлите сообщение с темой «subscribe» на 
+Вышлите сообщение с темой «subscribe» на
 <email "debian-alpha-request@lists.debian.org" />, чтобы подписаться.
 <a href="https://lists.debian.org/debian-alpha/">Также доступны
 архивы</a>.</li>
@@ -87,7 +87,7 @@ MILO для выпусков Debian новее Woody, то для добавле
 
 <p>
 Этот список ориентирован на пользователей Red Hat Linux/Alpha, но также содержит
-ценные советы по общим проблемам Linux-Alpha. Чтобы подписаться на него, 
+ценные советы по общим проблемам Linux-Alpha. Чтобы подписаться на него,
 перейдите на <a href="http://www.redhat.com/mailman/listinfo/axp-list">страницу информации о списке рассылки</a>.
 Также доступны <a href="http://www.redhat.com/archives/axp-list/">Архивы</a> этого списка рассылки.
 Альтернативный (с возможностью поиска) архив можно найти на
