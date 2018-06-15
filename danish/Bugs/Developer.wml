@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debians fejlrapporteringssystem &ndash; oplysninger til udviklere" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="3d7d37336bd5edeaec7948e9153a69847505fd39"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a"
 <h1>Oplysninger om fejlsporingssystemet til pakkevedligeholdere og fejlsøgere</h1>
 
 <p>Det første der sker er at en bruger indsender en fejlrapport per e-mail til
@@ -402,9 +402,9 @@ overfor.</p>
 og andre interesserede tredjeparter at tegne abonnement på individuelle fejl.
 Denne funktion kan anvendes af dem, der ønsker at holde øje med en fejl, uden
 at skulle tegne abonnement på pakken gennem 
-<a href="https://packages.qa.debian.org">PTS</a>.  Alle meddelelser der 
-modtages på <var>nnn</var><code>@bugs.debian.org</code>, sendes til dem, der har
-tegnet abonnement.</p>
+<a href="https://tracker.debian.org/">Debian Package Tracker</a>.  Alle 
+meddelelser der modtages på <var>nnn</var><code>@bugs.debian.org</code>, 
+sendes til dem, der har tegnet abonnement.</p>
 
 <p>Tegnelse af abonnement kan gøres ved at sende en e-mail til 
 <var>nnn</var><code>-subscribe@bugs.debian.org</code>.  E-mail'ens emne og
