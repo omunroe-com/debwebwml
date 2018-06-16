@@ -1,6 +1,6 @@
 #use wml::debian::template title="Suivi des bogues Debian — informations pour les développeurs" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="3d1e8276d95d126a48f9af769f48b1f3183d20e4" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Christophe Le Bars, 1999, 2000.
