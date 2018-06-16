@@ -18,24 +18,24 @@
 ##
 
 <p>Debian 长期支持（LTS）团队在此宣布 Debian 7 "Wheezy" 的支持已于2018年5月31日终止。
-自其于2013年5月4日初次发布至今，该版本总计得到了五年的支持。</p>
+从2013年5月4日初次发布至今，该版本总计得到了五年的支持。</p>
 
 <p>Debian 将不会继续提供 Debian 7 的安全更新。Wheezy 软件包中的一小部分将\
-由外部团队提供支持。其详细信息可以参考 <a
+或由外部团队提供支持。其详细信息可以参考 <a
 href="https://wiki.debian.org/LTS/Extended">
 LTS 扩展</a>页面。</p>
 
 <p>LTS 团队将准备迁移到支持 Debian 8 "Jessie"，即当前的旧稳定发布版本。
 LTS 团队将于2018年6月17日接管该版本的维护工作。</p>
 
-<p>Debian 8 将同样接受自初始发布后为期五年的长期维护支持，其预计结束日期为\
+<p>Debian 8 将同样接受自首次发布后为期五年的长期维护支持，其预计结束日期为\
 2020年6月30日。得到支持的架构包括 amd64、i386、armel 和 armhf。</p>
 
-<p>如需了解使用 Jessie LTS 和从 Wheezy LTS 升级的进一步信息，
+<p>如需了解使用 Jessie LTS 或从 Wheezy LTS 升级的进一步信息，
 请参考 <a href="https://wiki.debian.org/LTS/Using">LTS/Using</a> 页面。</p>
 
 <p>Debian 及其 LTS 团队在此感谢所有做出贡献的用户、开发者和赞助商，\
-他们的帮助使得延长旧稳定版的支持成为了可能，也使得本次 LTS 版本取得了成功。</p>
+他们的帮助延长了对旧稳定版的支持，也使得本次 LTS 版本取得了非凡的成功。</p>
 
 <p>如果您的工作依赖 Debian LTS 版本，请考虑<a
 href="https://wiki.debian.org/LTS/Development">加入我们的团队</a>、\
@@ -53,7 +53,7 @@ Debian 计划由伊恩·默多克于1993年启动，是一个真正自由的社�
 </p>
 
 <h2>更多信息</h2>
-<p>更多与 Debian 长期支持相关的的信息可以在
+<p>更多与长期支持 Debian 相关的的信息可以在
 <a href="https://wiki.debian.org/LTS/">https://wiki.debian.org/LTS/</a>
 页面上找到。</p>
 
