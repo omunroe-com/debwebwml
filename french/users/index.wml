@@ -1,5 +1,5 @@
 #use wml::debian::template title="Les utilisateurs de Debian" BARETITLE=true
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="David Prévot"
+#use wml::debian::translation-check translation="257c21bc3adb2b3c7174439a605ea9010623492d" maintainer="Jean-Paul Guillonneau"
 #use wml::debian::toc
 #use wml::debian::users_list
 
@@ -7,6 +7,7 @@
 # Nicolas Bertolissio, 2004, 2005
 # Simon Paillard, 2008, 2009
 # David Prévot, 2010-2012
+# Jean-Paul Guillonneau, 2018
 
 <p>
 Sont fournies ci-dessous les descriptions de certaines organisations
@@ -39,20 +40,42 @@ instructions</a>.
 <p>
 Afin d'être ajouté à cette liste, veuillez s'il vous plaît indiquer les
 informations suivantes dans un courrier électronique à <a
-href="mailto:debian-www@lists.debian.org?subject=Who's%20using%20Debian%3F">debian-www@lists.debian.org</a> (sans modifier l'intitulé du sujet s'il vous plaît).
+href="mailto:debian-www@lists.debian.org?subject=Who's%20using%20Debian%3F">debian-www@lists.debian.org</a>
+(conservez l'intitulé du sujet s'il vous plaît, <q>Who's using Debian</q>, ou
+nous pourrions ne pas remarquer votre soumission).
 Cette soumission devrait être envoyée en anglais. Si vous ne parlez pas
 anglais, veuillez envoyer votre soumission à la <a
 href="https://lists.debian.org/i18n.html">liste de traduction appropriée</a>.
 Remarquez que votre message sera envoyé sur une liste de diffusion publique.
 </p>
 
+<p>
+Ne soumettez des informations que des organisations que vous représentez. Il
+vous faudra peut-être demander la permission à votre organisation avant de faire
+une soumission ici. Si vous êtes un conseiller qui réalisez au moins une partie
+de votre revenu en fournissant une assistance <strong>rémunérée</strong> pour
+Debian, veuillez plutôt vous référer à notre page
+<a href="$(HOME)/consultants/">Consultants</a>.
+</p>
+
+<p>
+Ne soumettez pas des informations sur des particuliers. Nous apprécions votre
+assistance, mais nous n’avons pas assez de personnel pour entretenir des
+informations sur nos nombreux utilisateurs.
+</p>
+
+<p>
+<strong>Ne fournissez uniquement que des informations dont vous êtes sûr
+qu’elles peuvent devenir publiques.</strong>
+</p>
+
 <ol>
   <li>
     <p>
     Nom de l'organisation (au format <em>division</em>, <em>organisation</em>,
-    <em>ville</em> (facultatif),
-    <em>pays</em>). Par exemple&nbsp;: laboratoire d'intelligence artificielle,
-    institut de technologie du Massachusetts, États-Unis.
+    <em>ville</em> [facultatif], <em>région/province</em> [facultatif],
+    <em>pays</em>), par exemple&nbsp;: laboratoire d'intelligence artificielle,
+    institut de technologie du Massachusetts, États-Unis ;
     </p>
     <p>
     Tous les entrées ne sont pas encore à ce format, mais nous aimerions
@@ -60,17 +83,25 @@ Remarquez que votre message sera envoyé sur une liste de diffusion publique.
     </p>
   </li>
   <li>
-    Type d'organisation (éducative, à but non lucratif, commerciale,
-    gouvernementale)&nbsp;;
+    Type d'organisation (choisissez-en seulement une parmi <q>educational</q>,
+    <q>non-profit</q>, <q>commercial</q>, ou <q>government</q>)&nbsp;;
   </li>
   <li>
-    <em>(optionnel)</em> Lien vers votre page d'accueil&nbsp;;
+    Lien vers votre page d'accueil <em>(facultatif)</em> &nbsp;;
   </li>
   <li>
-    Un paragraphe ou deux décrivant comment votre organisation utilise Debian.
+    Un paragraphe court ou deux décrivant comment votre organisation utilise Debian.
     Essayez d'indiquer des informations comme le nombre de stations de travail
     et de serveurs, les logiciels utilisés (mais sans préciser de version),
     et la raison pour laquelle vous
     avez choisi Debian plutôt que la concurrence.
   </li>
 </ol>
+
+<p>
+Si vous représenter une organisation envisageant de devenir partenaire de
+Debian, veuillez consulter notre <a href="$(HOME)/partners/">Programme de
+partenariat</a> pour davantage d’informations sur la manière de fournir une
+assistance permanente à Debian. Pour les dons à Debian, veuillez consulter
+notre page <a href="$(HOME)/donations/">Dons</a>.
+</p>
