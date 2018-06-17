@@ -1,22 +1,23 @@
 #use wml::debian::template title="Exemples"
-#use wml::debian::translation-check translation="d1c06014aabc068656f3ebd20a38c574c7553f7a" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="93f96e5508d963eef6dee47f4ac2360e27d7939b" maintainer="Jean-Paul Guillonneau"
+
+# Previous translator : Frédéric Bothamy
 
 <h3>Exemple d'un commencement de traduction</h3>
 <p>Le français sera utilisé pour cet exemple.
 
 <pre>
-   cvs checkout webwml/Makefile.common webwml/english
+   git pull
    cd webwml
    mkdir french
-   cvs add french
    cd french
-   cp ../english/.wmlrc ../english/Make.*
+   cp ../english/.wmlrc ../english/Make.* .
    echo '<protect>include $(subst webwml/french,webwml/english,$(CURDIR))/Makefile</protect>' &gt; Makefile
    mkdir po
-   cvs add Make* .wmlrc po
+   git add Make* .wmlrc
    cp Makefile po
    make -C po init-po
-   cvs add po/Makefile po/*.fr.po
+   git add po/Makefile po/*.fr.po
 </pre>
 
 <p>Éditez le fichier <tt>.wmlrc</tt> et changez&nbsp;:
@@ -48,7 +49,8 @@ et <code>make</code> a besoin de ces Makefiles.
 
 <p>Quand vous aurez fini d'ajouter des pages, faites un
 <pre>
-   cvs commit
+   git commit -m "Ajouter ici votre message de commit"
+   git push
 </pre>
 à partir du répertoire webwml.
 Vous pouvez maintenant commencer à traduire des pages.
@@ -61,9 +63,8 @@ exemple&nbsp;:
    cd webwml
    ./copypage.pl english/social_contract.wml
    cd french
-    cvs add social_contract.wml
 </pre>
- 
+
 <p>
 Cela ajoutera automatiquement l'en-tête translation-check,
 indiquant la version du fichier original qui a été copié.
@@ -73,11 +74,14 @@ seront aussi créés s'ils n'existent pas.
 </p>
 
 <p>Éditez social_contract.wml et traduisez le texte. N'essayez pas de
-traduire les liens ni d'en modifier en aucune façon. Quand c'est fini,
-tapez
+traduire les liens ni d'en modifier en aucune façon. Si vous voulez changer
+quelque chose, demandez-le sur la liste debian-www. Quand c'est fini, tapez
 
 <pre>
-   cvs commit -m "short description of the changes you made" social_contract.wml
+  git add social_contract.wml
+  git commit -m "Translated social contract to french"
+  git push
+
 </pre>
 (les commentaires doivent être en anglais, car ils sont susceptibles
 d'être lus par tout le monde).
@@ -89,18 +93,35 @@ d'être lus par tout le monde).
 <pre>
    cd webwml/french
    mkdir intro
-   cvs add intro
    cd intro
    cp ../Makefile .
-</pre> 
-
-Vérifiez toujours qu'un Makefile se trouve dans le répertoire ajouté, et
-que ce Makefile a été enregistré dans le CVS. Sinon il sera impossible
-de générer les pages.
-
-<pre>
-   cvs add Makefile
-   cd ..
-   cvs commit -m "added the intro dir to CVS" intro
+   git add Makefile
+   git commit -m "added the intro dir to git"
+   git push
 </pre>
 
+Vérifiez toujours qu'un Makefile se trouve dans le répertoire ajouté, et
+que ce Makefile a été enregistré dans Git. Sinon, l’exécution de make générera
+une erreur pour tout ceux l’essayant.
+
+#example not finished
+# <H3>Example of a Conflict</H3>
+#
+# <p>This example shows a commit that won't work because the copy in the
+# repository has been modified since your last <kbd>git pull</kbd>.
+#
+# <pre>
+#    git foo.wml
+#    cvs commit -m "fixed a broken link"
+#    git push
+# </pre>
+#
+# will output:
+#
+# <pre>
+#To salsa.debian.org:webmaster-team/webwml.git
+# ! [rejected]                master -> master (fetch first)
+#error: failed to push some refs to 'git@salsa.debian.org:webmaster-team/webwml.git'
+# </pre>
+#
+# or something like that :)
