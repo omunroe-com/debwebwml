@@ -1,0 +1,18 @@
+#use wml::debian::translation-check translation="a4c274ef1917964e72b8b0a5e1b9b2c6ec76fc05" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i Lua-undersystemet Redis, en
+beständig nyckelvärdedatabas, som kunde resultera i överbelastning.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 3:3.2.6-3+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era redis-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om redis vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/redis">https://security-tracker.debian.org/tracker/redis</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4230.data"
