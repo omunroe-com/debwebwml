@@ -1,6 +1,6 @@
 #use wml::debian::template title="Traduction du site web Debian"
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="d2e8c3c0b0e06f6a3d5dd63bf8a4caaace29664e" maintainer="David Prévot"
+#use wml::debian::translation-check translation="8f2dd37edbf6287df4029e3f234798efbcce2862" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Denis Barbier, 2001-2003.
@@ -10,6 +10,7 @@
 # Mohammed Adnène Trojette, 2005.
 # Thomas Peteul, 2008.
 # David Prévot, 2010.
+# Jean-Paul Guillonneau, 2018
 
 <P>Pour rendre le travail des traducteurs aussi facile que possible, les
 pages sont générées un peu différemment de ce à quoi beaucoup d'entre
@@ -24,87 +25,96 @@ d'une nouvelle traduction</a>.
 
 <h2><a name="singlepages">Traduire une page</a></h2>
 
-<p>Nous utilisons des fichiers source WML, ainsi le contenu et les éléments 
-généraux sont enregistrés séparément. Ce qui signifie qu'il faut éditer
-un certain nombre de fichiers source WML au lieu d'éditer les pages HTML
-Veuillez récupérez les sources
-<a href="using_cvs">en utilisant CVS</a>. Vous aurez besoin de récupérer
-au moins les répertoires <tt>webwml/english/</tt> et 
-<tt>webwml/<var>&lt;langue&gt;</var>/</tt>.</p>
+<p>Nous utilisons WML pour séparer le contenu spécifique à une page des
+éléments communs à plusieurs pages. Ce qui signifie qu'il faut éditer un
+certain nombre de fichiers source WML au lieu d'éditer des fichiers HTML.
+Veuillez récupérez les sources actuelles <a href="using_git">en utilisant
+Git</a>. Vous aurez besoin de récupérer au moins les répertoires :
+<tt>webwml/english/</tt> et <tt>webwml/<var>&lt;votre_langue&gt;</var>/</tt>.</p>
 
 <p>Pour traduire une page de l'anglais dans votre langue préférée,
 il faut traduire le fichier .wml original et le placer dans le répertoire
-de votre langue qui correspond. Le chemin relatif ainsi que le nom devront 
-être les mêmes que ceux de la version anglaise pour que les liens puissent 
+correspondant de votre langue. Le chemin relatif ainsi que le nom devront
+être les mêmes que ceux de la version anglaise pour que les liens puissent
 fonctionner.</p>
 
 <h3>En-têtes de traduction</h3>
 
-<p>Nous recommandons tout spécialement au traducteur d'ajouter une 
-ligne supplémentaire dans les en-têtes, juste à la suite de la dernière commande
-<code>#use</code>, pour enregistrer le numéro de version exact du document 
-qu'il vient de traduire. De cette manière, <a href="uptodate">les mises à jour 
+<p>Nous recommandons tout spécialement au traducteur d'ajouter une
+ligne supplémentaire dans les en-têtes, juste à la suite de la dernière déclaration
+<code>#use</code>, pour enregistrer le numéro de version exact du document
+qu'il vient de traduire. De cette manière, <a href="uptodate">les mises à jour
 sont facilitées</a>. La ligne ressemble à cela&nbsp;:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"</kbd>.
+<kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd>
+Veuillez noter que si vous créez le fichier traduit en utilisant l’outil
+<tt>copypage.pl</tt> (ce qui est fortement recommandé), l’empreinte numérique
+du commit de Git sera générée automatiquement. L’utilisation de <tt>copypage.pl</tt>
+est expliquée dans la suite du texte.
+
+<p><strong>Remarque : </strong>quelques parties de l’information fournie
+ci-dessous sont obsolètes, particulièrement toutes celles mentionnant CVS.
+Veuillez ignorer ces parties pour le moment et nous aider à mettre à jour les
+instructions mentionnées si possible.
 </p>
 
 <p>Plusieurs équipes de traduction utilisent également cette ligne pour
 indiquer le traducteur officiel de chaque page web. Ainsi, vous recevrez
-automatiquement des courriels quand les pages dont vous êtes le responsables
+automatiquement des courriels quand les pages dont vous êtes le responsable
 sont mises à jour dans la version anglaise et nécessitent votre attention pour
 la mise à jour de la traduction. Pour cela, ajoutez simplement votre nom comme
 responsable à la fin de la ligne <code>#use</code> pour la faire ressembler à
 ceci&nbsp;:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"
-maintainer="<var>votre nom</var>"</kbd>.
-
-<tt>copypage.pl</tt> permet de le faire automatiquement si la
+<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>" maintainer="<var>votre_nom</var>"</kbd>.
+Le script <tt>copypage.pl</tt> permet de le faire automatiquement si la
 variable d'environnement <tt>DWWW_MAINT</tt> est configurée,
 ou en utilisant l'option <tt>-m</tt> de la ligne de commande.
 </p>
 
-<p>Vous devez également expliquer au robot qui vous êtes, la fréquence à
-laquelle vous désirez recevoir les courriels automatiques et le contenu de
-ceux-ci. Pour cela, éditez (ou demandez à votre coordinateur d'éditer) le fichier
-webwml/<var>language</var>/international/<var>language</var>/translator.db.pl
-dans le CVS. La syntaxe devrait être assez compréhensible et vous pouvez
-utiliser le fichier de l'équipe française comme modèle si celui de votre
-langue n'existe pas encore. Le robot peut envoyer plusieurs types
-d'informations et pour chacune d'entre elles, vous pouvez choisir la fréquence
-à laquelle elle doit vous être envoyée. Les différents types d'informations
-sont&nbsp;:
-</p>
+# I Removed cvs specific descriptions from here because of cvs to git transition.
+# Help to update instruction if possible.
+#
+#<p>Vous devez également expliquer au robot qui vous êtes, la fréquence à
+#laquelle vous désirez recevoir les courriels automatiques et le contenu de
+#ceux-ci. Pour cela, éditez (ou demandez à votre coordinateur d'éditer) le fichier
+#webwml/<var>language</var>/international/<var>language</var>/translator.db.pl
+#dans le CVS. La syntaxe devrait être assez compréhensible et vous pouvez
+#utiliser le fichier de l'équipe française comme modèle si celui de votre
+#langue n'existe pas encore. Le robot peut envoyer plusieurs types
+#d'informations et pour chacune d'entre elles, vous pouvez choisir la fréquence
+#à laquelle elle doit vous être envoyée. Les différents types d'informations
+#sont&nbsp;:
+#</p>
 
-<ul>
- <li><b>summary</b>&nbsp;: un résumé des documents non à jour</li>
- <li><b>logs</b>&nbsp;: le «&nbsp;journal cvs&nbsp;» entre les versions traduite et actuelle</li>
- <li><b>diff</b>&nbsp;: le «&nbsp;diff cvs&nbsp;»</li>
- <li><b>tdiff</b>&nbsp;: le script va tenter de trouver les parties du texte traduit
-modifié par le correctif anglais</li>
- <li><b>file</b>&nbsp;: ajoute la version actuelle du fichier à traduire</li>
-</ul>
+#<ul>
+# <li><b>summary</b>&nbsp;: un résumé des documents non à jour</li>
+# <li><b>logs</b>&nbsp;: le «&nbsp;journal cvs&nbsp;» entre les versions traduite et actuelle</li>
+# <li><b>diff</b>&nbsp;: le «&nbsp;diff cvs&nbsp;»</li>
+# <li><b>tdiff</b>&nbsp;: le script va tenter de trouver les parties du texte traduit
+#modifié par le correctif anglais</li>
+# <li><b>file</b>&nbsp;: ajoute la version actuelle du fichier à traduire</li>
+#</ul>
 
-<p>Puis, pour chacun d'entre eux, la valeur devrait être l'une des suivantes&nbsp;: 0 (jamais), 1
-(tous les mois), 2 (toutes les semaines) ou 3 (tous les jours).</p>
+#<p>Puis, pour chacun d'entre eux, la valeur devrait être l'une des suivantes&nbsp;: 0 (jamais), 1
+#(tous les mois), 2 (toutes les semaines) ou 3 (tous les jours).</p>
 
-<p>Un exemple pourrait être&nbsp;:
-</p>
+#<p>Un exemple pourrait être&nbsp;:
+#</p>
 
-<verbatim>
-                'Martin Quinson' => {
-                        email       => 'martin.quinson@tuxfamily.org',
-                        summary     => 3,
-                        logs        => 3,
-                        diff        => 3,
-                        tdiff       => 0,
-                        file        => 0
-                },
-</verbatim>
+#<verbatim>
+#                'Martin Quinson' => {
+#                       email       => 'martin.quinson@tuxfamily.org',
+#                        summary     => 3,
+#                        logs        => 3,
+#                        diff        => 3,
+#                        tdiff       => 0,
+#                        file        => 0
+#                },
+#</verbatim>
 
 <p>Les en-têtes de page web peuvent être générés très simplement en utilisant
-le script <tt>copypage.pl</tt> qui se trouve à la racine du module webwml. Le
-script va copier la page au bon endroit, créer les répertoires et les fichiers
-Makefile si nécessaire et ajouter l'en-tête qui convient de façon
+le script <tt>copypage.pl</tt> qui se trouve à la racine du répertoire webwml.
+Le script va copier la page au bon endroit, créer les répertoires et les
+fichiers Makefile si nécessaire et ajouter l'en-tête qui convient de façon
 automatique.
 Vous serez alerté si une page à copier existe dans le dépôt, soit parce que
 la page a été supprimée du dépôt (à cause d'un décalage trop important par
@@ -131,7 +141,7 @@ il suffit de le lancer sans argument pour obtenir l'aide.
 <p>Une fois que vous avez par exemple exécuté la commande&nbsp;:
 <kbd>./copypage.pl <var>fichier</var>.wml</kbd>, traduisez le texte d'origine
 directement dans le fichier. Les commentaires contenus dans les fichiers
-indiquent s'il y a des portions de texte à ne pas traduire. Suivez ces 
+indiquent s'il y a des portions de texte à ne pas traduire. Suivez ces
 commentaires. N'effectuez pas de modifications non justifiées
 dans la mise en page. S'il faut faire des corrections, il faut également
 que ces corrections soient apportées dans le fichier original.</p>
@@ -139,78 +149,86 @@ que ces corrections soient apportées dans le fichier original.</p>
 <h3>Construction et publication des pages</h3>
 
 <p>Étant donné que nous utilisons <a href="content_negotiation">la négociation
-du contenu</a>, les fichiers HTML ne sont pas nommés 
-<tt><var>fichier</var>.html</tt> mais 
+de contenu</a>, les fichiers HTML ne sont pas nommés
+<tt><var>fichier</var>.html</tt> mais
 <tt><var>fichier</var>.<var>&lt;lang&gt;</var>.html</tt>, où
 <var>&lt;lang&gt;</var> est le code à deux lettres de la langue, telle qu'elle
-est définie dans l'<a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639</a>
+est définie dans l'<a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639</a>
 (par exemple, <tt>fr</tt> pour le français).</p>
 
-<p>Vous pouvez construire les fichiers HTML à partir des fichiers WML en 
+<p>Vous pouvez construire les fichiers HTML à partir des fichiers WML en
 lançant <kbd>make <var>fichier</var>.<var>&lt;lang&gt;</var>.html</kbd>.
-Si cela fonctionne, vérifiez la syntaxe à l'aide de 
+Si cela fonctionne, vérifiez la syntaxe à l'aide de
 <kbd>weblint <var>fichier</var>.<var>&lt;lang&gt;</var>.html</kbd>.</p>
 
-<p>Une fois que la page vous convient, vous pouvez l'envoyer dans le CVS.
-Si vous possédez l'autorisation, faites-le vous-même&nbsp;; lancez
-<kbd>cvs commit</kbd>. Si vous ne possédez pas cette autorisation, 
-envoyez la page traduite <a href="translation_coordinators">aux personnes</a> ayant un
-accès en écriture au CVS.
+<p>REMARQUE : les pages web sont reconstruites automatiquement régulièrement sur
+le serveur www-master, en se basant sur les sources wml dans Git. Ce procédé est
+en grande partie résistant aux erreurs. Cependant, si vous téléversez un fichier
+défectueux au tout début de la traduction (par exemple, la première indication
+du fichier index.wml), cela brisera le processus de construction et paralysera
+les autres mises à jour vers le site web. Veuillez accorder une attention
+particulière à ces fichiers.</p>
+
+<p>Lorsque la page est prête, vous pouvez l'envoyer dans Git. Si vous possédez
+l'autorisation, faites-le vous-même&nbsp;. Téléverser (push) le commit dans le
+<a href="https://salsa.debian.org/webmaster-team/webwml">dépôt webwml de Git</a>.
+Sinon, envoyez-le à <a href="translation_coordinators"> une personne ayant un
+accès en écriture dans le dépôt</a>.</p>
 
 <h2><a name="completenew">Commencer une nouvelle traduction</a></h2>
 
-<p>Si vous voulez démarrer une traduction des pages web Debian dans une
+<p>Si vous voulez démarrer une traduction des pages web de Debian dans une
 nouvelle langue, envoyez-nous un message (en anglais) à
 <a href="mailto:webmaster@debian.org">webmaster@debian.org</a>.
 
-<p>Tout d'abord, assurez-vous d'avoir une copie de travail valide,
-comme expliqué sur notre <a href="using_cvs">page d'introduction à
-CVS</a>.</p>
+<p>Tout d'abord, cloner notre arbre des sources comme décrit dans notre
+<a href="using_git">page d'introduction à Git</a>.</p>
 
-<p>Une fois que vous avez récupéré le répertoire webwml/ et (au minimum)
-webwml/english/, commencez par créer un nouveau répertoire pour votre 
-traduction à coté des répertoires english/ et des autres. Le nom du
-répertoire de traduction doit être en anglais et être écrit en minuscules
-(par exemple, «&nbsp;french&nbsp;», et pas «&nbsp;français&nbsp;»).</p>
+<p>Une fois que vous avez réalisé une extraction (checkout) de Git, commencez
+par créer un nouveau répertoire de départ pour votre traduction, à coté des
+répertoires english/ et autres. Le nom du répertoire de traduction doit
+être en anglais et être écrit en minuscule (par exemple, «&nbsp;french&nbsp;»,
+et pas «&nbsp;Français&nbsp;»).</p>
 
 <p>Copiez les fichiers <tt>Make.lang</tt> et <tt>.wmlrc</tt> du répertoire
 english/ dans le répertoire de votre traduction. Ces fichiers sont essentiels
-pour construire vos traductions à partir des fichiers WML. Ils ont été conçu
-de sorte qu'une fois qu'ils ont été copiés, vous aurez uniquement a effectuer
-les modifications suivantes&nbsp;:</p>
+pour construire vos traductions à partir des fichiers WML. Ils ont été conçus
+de sorte qu'une fois copiés, vous aurez uniquement a effectuer les
+modifications suivantes&nbsp;:</p>
 
 <ol>
   <li>La variable LANGUAGE doit être changée dans le fichier
-      <tt>Make.lang</tt>.
+      <tt>Make.lang</tt> ;
 
-  <li>Le fichier <tt>.wmlrc</tt>. Ajoutez aussi CUR_LOCALE si cette 
-      variable est nécessaire au tri alphabétique.
+  <li>Les variables CUR_LANG, CUR_ISO_LANG et CHARSET doivent être modifiées
+      dans le fichier <tt>.wmlrc</tt>. Ajoutez aussi CUR_LOCALE si cette
+      variable est nécessaire au tri alphabétique ;
 
   <li>Certaines langues peuvent nécessiter un traitement spécial à cause
-      du jeu  de caractères utilisé. Cela peut être fait avec les options
+      du jeu de caractères utilisé. Cela peut être fait avec les options
       --prolog et --epilog de wml. Utilisez les variables WMLPROLOG et
-      WMLEPILOG dans <tt>Make.lang</tt> dans ce but.
+      WMLEPILOG dans <tt>Make.lang</tt> dans ce but ;
 
-  <li>La variable LANGUAGES doit être changée dans le fichier
+  <li>La variable LANGUAGES doit être changée dans le fichier de premier niveau
       <tt>webwml/Makefile</tt> afin que votre langue soit prise en compte comme
       les autres sur www.debian.org. Nous préférerions que vous laissiez
       ce changement à la charge des webmestres, parce que vous pourriez
-      ne pas vous rendre compte que votre traduction n'a pas été
+      ne pas vous rendre compte que votre traduction n'ait pas été
       correctement faite, ce qui pourrait bloquer le processus de
-      génération du reste du site.
+      génération du reste du site ;
 </ol>
 
 <p>Une fois que vous aurez fait cela, ajoutez la ligne suivante dans un
-nouveau fichier appelé «&nbsp;Makefile&nbsp;» dans ce répertoire&nbsp;:
+nouveau fichier appelé «&nbsp;Makefile&nbsp;» dans le nouveau répertoire&nbsp;:
 
 <pre>
 <protect>include $(subst webwml/<var>répertoire_de_votre_langue</var>,webwml/english,$(CURDIR))/Makefile</protect>
 </pre>
 
-<p>(Remplacez bien sûr <var>répertoire_de_votre_langue</var> avec le nom de répertoire de 
+<p>(Remplacez bien sûr <var>répertoire_de_votre_langue</var> avec le nom de répertoire de
 votre langue.)</p>
 
-<p>Créez maintenant un sous-répertoire «&nbsp;po&nbsp;» à l'intérieur du 
+<p>Créez maintenant un sous-répertoire «&nbsp;po&nbsp;» à l'intérieur du
 répertoire de votre langue, et copiez le même Makefile dans ce répertoire
 (<kbd>cp ../Makefile .</kbd>).</p>
 
@@ -218,7 +236,7 @@ répertoire de votre langue, et copiez le même Makefile dans ce répertoire
 ensemble initial de fichiers *.po.</p>
 
 <p>Maintenant que le squelette est prêt, vous pouvez commencer à ajouter
-vos traductions dans nos balises WML partagées que nous utilisons dans
+vos traductions dans nos balises WML communes que nous utilisons dans
 les modèles. Les premiers modèles de traduction
 que vous devez traduire sont ceux qui apparaissent sur l'ensemble de nos
 pages web, comme les en-têtes, les entrées dans la barre de navigation,
@@ -226,22 +244,21 @@ et les pieds de pages.</p>
 
 # The page on <a href="using_wml">using WML</a> has more information on this.
 
-<p>Commencez à traduire dans le fichier 
+<p>Commencez à traduire dans le fichier
 <code>po/templates.<var>xy</var>.po</code> (où <var>xy</var> est le code
-à deux lettres de votre langue). Pour chaque 
-<code>msgid "<var>quelque chose</var>"</code> il y a un <code>msgstr ""</code>
-à l'intérieur duquel vous devez ajouter la traduction de 
-<var>quelque chose</var> entre les guillemets après <code>msgstr</code>.</p>
+à deux lettres de votre langue). Pour chaque
+<code>msgid "<var>quelque_chose</var>"</code> il y a un <code>msgstr ""</code>
+à l'intérieur duquel vous devez ajouter la traduction du
+<var>quelque_chose</var> entre les guillemets après <code>msgstr</code>.</p>
 
-<p>Vous n'avez pas besoin de traduire l'ensemble des chaînes de caractères
-qui sont contenues dans le fichier .po en une seule fois, traduisez uniquement
-celles qui sont utilisées dans vos traductions. Pour savoir si vous avez besoin
-de traduire une chaîne de caractères, lisez les commentaires dans le fichier
-.po juste au dessus de chaque étiquette <code>msgid</code>. Si le fichier
-en question se trouve dans le répertoire <tt>english/template/debian</tt>,
-vous devrez alors le traduire à coup sûr. Sinon, vous pourrez le faire plus
-tard, lorsqu'il sera question de traduire les pages web qui utilisent ces
-éléments.</p>
+<p>Vous n'avez pas besoin de traduire toutes les chaînes de caractères dans
+dans tous les fichiers .po, traduisez uniquement celles qui sont réellement
+nécessaires aux pages traduites. Pour savoir si vous avez besoin de traduire
+une chaîne de caractères, lisez les commentaires dans le fichier .po juste au
+dessus de chaque étiquette <code>msgid</code>. Si le fichier référencé se
+trouve dans le répertoire <tt>english/template/debian</tt>, vous devrez alors
+le traduire à coup sûr. Sinon, vous pourrez le faire plus tard, lorsqu'il sera
+question de traduire les pages web qui l’utilisent.</p>
 
 <p>Le but de l'utilisation de fichiers po/ est de rendre les choses plus
 faciles pour les traducteurs, qu'ils n'aient ainsi (presque) jamais besoin
@@ -254,14 +271,18 @@ que de publier les traductions dans les modèles, ce qui serait
 (habituellement) un problème majeur.
 
 <p>Si vous n'êtes pas sûr d'avoir fait les bonnes modifications, demandez
-à la liste de diffusion debian-www avant d'envoyer les fichiers dans le 
-CVS.</p>
+à la liste de diffusion debian-www avant d'envoyer les fichiers dans le
+dépôt.</p>
 
-<p>Une fois que le squelette d'un modèle a été traduit, 
+<p>REMARQUE : si vous éprouvez le besoin de modifier n’importe quoi d’autre,
+envoyez un courrier à debian-www indiquant ce que vous avez changé et pourquoi,
+de façon à ce que le problème soit corrigé.</p>
+
+<p>Une fois que le squelette d'un modèle a été traduit,
 vous pouvez commencer à traduire la page d'accueil et les autres fichiers
 *.wml. Pour connaître la liste des fichiers qui doivent être traduits,
-vérifiez <a href="translation_hints">les pages de conseils</a>. Traduisez
-les pages *.wml tel que décrites <a href="#singlepages">au début de la 
+vérifiez <a href="translation_hints">la page de conseils</a>. Traduisez
+les pages *.wml tel que décrit <a href="#singlepages">au début de la
 page</a>.</p>
 
 <h3>Ressusciter des traductions obsolètes</h3>
@@ -273,33 +294,33 @@ risquent d'être supprimées automatiquement si beaucoup de temps
 s'est écoulé sans mise à jour.
 </p>
 
-<p>
-Si vous utilisez le script <tt>copypage.pl</tt> avec un
-fichier qui a été supprimé du dépôt CVS, il refusera de
-copier la page et vous demandera plutôt de la ressusciter.
+<p>Si vous trouvez que certains fichiers ont été supprimés dans le passé et que
+vous voulez extraire les fichiers à nouveau pour une édition future, vous pouvez
+chercher dans l’historique des commits en utilisant les commandes normales de
+Git.</p>
 
-Vous pouvez vérifier les raisons pour lesquelles le fichier a
-été supprimé du dépôt avec la commande <tt>cvs log</tt> sur le
-fichier supprimé (ou utiliser l'interface web, les fichiers
-effacés sont disponibles dans le sous-répertoire « Attic »).
-</p>
-
-<p>
-Afin de ressusciter la traduction périmée, utilisez <tt>cvs
-status</tt> (ou <tt>cvs log</tt>) pour connaître le numéro de
-la version d'effacement puis exécutez un <q>backwards merge</q>.
-</p>
-
-<p>
-Par exemple, si le fichier effacé est « oubli.wml », et que
-la version d'effacement est 1.7, la version qui précède
-l'effacement est 1.6 (la version d'effacement moins un).
-
-Le fichier peut être retrouvé en exécutant :
-</p>
+<p>Par exemple, si le fichier supprimé est « supprimé.wml », vous pouvez
+chercher dans l’historique en exécutant :</p>
 
 <verbatim>
-   cvs update -j 1.7 -j 1.6 oubli.wml
+   git log --all --full-history -- <chemin/vers/fichier/supprimé.wml>
+</verbatim>
+
+<p>Vous pouvez retrouver le commit exact qui a supprimé le fichier désiré en
+même temps que la chaîne de l’empreinte numérique du commit. Pour afficher
+l’information détaillée sur la modification, vous pouvez utiliser
+<code>git show</code> sous-commande :</p>
+
+<verbatim>
+  git show <COMMIT_HASH_STRING> -- <chemin/vers/fichier/supprimé.wml>
+</verbatim>
+
+<p>Si le commit est exactement celui qui a supprimé le fichier, vous pouvez
+restaurer le fichier dans l’espace de travail en utilisant
+<code>git checkout</code> :</p>
+
+<verbatim>
+  git checkout <COMMIT_HASH_STRING>^ -- <chemin/vers/fichier/supprimé.wml>
 </verbatim>
 
 <p>
@@ -313,7 +334,7 @@ Sinon, il risque d'être supprimé par ailleurs.
 <p>La description ci-dessus sera probablement suffisante pour vous
 permettre de démarrer. Après, vous pourrez avoir envie de lire les liens
 ci-dessous qui donnent des explications plus détaillées et de nombreuses
-informations utiles.
+informations utiles.</p>
 
 <ul>
 <li>Quelques <a href="examples">exemples</a> sont fournis pour vous
