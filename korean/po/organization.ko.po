@@ -5,17 +5,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2007-09-08 08:46+0900\n"
-"Last-Translator: Song Woo-il <wooil@debian.or.kr>\n"
-"Language-Team: debian-kr-www <debian-kr-www@lists.debian.or.kr>\n"
-"Language: \n"
+"PO-Revision-Date: 2018-06-18 06:38+0900\n"
+"Last-Translator: Sebul <sebuls@gmail.com>\n"
+"Language-Team: debian-l10n-korean <debian-l10n-korean@lists.debian.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 2.0.8\n"
 
 #: ../../english/intro/organization.data:15
 msgid "delegation mail"
-msgstr ""
+msgstr "위임 메일"
 
 #: ../../english/intro/organization.data:16
 msgid "appointment mail"
@@ -47,13 +49,11 @@ msgstr ""
 
 #: ../../english/intro/organization.data:34
 msgid "SRM"
-msgstr ""
+msgstr "SRM"
 
 #: ../../english/intro/organization.data:34
-#, fuzzy
-#| msgid "Release Managers"
 msgid "Stable Release Manager"
-msgstr "릴리스 관리자"
+msgstr "안정 릴리스 관리자"
 
 #: ../../english/intro/organization.data:36
 msgid "wizard"
@@ -140,25 +140,23 @@ msgstr ""
 
 #: ../../english/intro/organization.data:111
 msgid "Backports"
-msgstr ""
+msgstr "백포트"
 
 #: ../../english/intro/organization.data:113
 msgid "Backports Team"
-msgstr ""
+msgstr "백포트 팀"
 
 #: ../../english/intro/organization.data:117
 msgid "Individual Packages"
-msgstr ""
+msgstr "개별 패키지"
 
 #: ../../english/intro/organization.data:118
 msgid "Release Management"
 msgstr "릴리스 관리"
 
 #: ../../english/intro/organization.data:120
-#, fuzzy
-#| msgid "Release Wizard"
 msgid "Release Team"
-msgstr "릴리스 마법사"
+msgstr "릴리스 팀"
 
 #: ../../english/intro/organization.data:133
 msgid "Quality Assurance"
@@ -170,7 +168,7 @@ msgstr "설치 시스템 팀"
 
 #: ../../english/intro/organization.data:135
 msgid "Release Notes"
-msgstr ""
+msgstr "릴리스 노트"
 
 #: ../../english/intro/organization.data:137
 msgid "CD Images"
@@ -206,19 +204,19 @@ msgstr ""
 
 #: ../../english/intro/organization.data:186
 msgid "Debian Live Team"
-msgstr ""
+msgstr "데비안 라이브 팀"
 
 #: ../../english/intro/organization.data:187
 msgid "Ports"
-msgstr ""
+msgstr "포트"
 
 #: ../../english/intro/organization.data:222
 msgid "Special Configurations"
-msgstr ""
+msgstr "특별한 설정"
 
 #: ../../english/intro/organization.data:225
 msgid "Laptops"
-msgstr ""
+msgstr "랩톱"
 
 #: ../../english/intro/organization.data:226
 msgid "Firewalls"
@@ -257,10 +255,8 @@ msgid "Events"
 msgstr "행사"
 
 #: ../../english/intro/organization.data:281
-#, fuzzy
-#| msgid "Technical Committee"
 msgid "DebConf Committee"
-msgstr "기술 위원회"
+msgstr "Debconf 기술위원회"
 
 #: ../../english/intro/organization.data:288
 msgid "Partner Program"
@@ -318,7 +314,7 @@ msgstr "정책"
 
 #: ../../english/intro/organization.data:425
 msgid "System Administration"
-msgstr ""
+msgstr "시스템 관리"
 
 #: ../../english/intro/organization.data:426
 msgid ""
@@ -360,7 +356,7 @@ msgstr ""
 
 #: ../../english/intro/organization.data:456
 msgid "Salsa administrators"
-msgstr ""
+msgstr "Salsa 관리자"
 
 #: ../../english/intro/organization.data:460
 msgid "Alioth administrators"
@@ -380,23 +376,19 @@ msgstr "교육을 위한 데비안"
 
 #: ../../english/intro/organization.data:484
 msgid "Debian in legal offices"
-msgstr ""
+msgstr "법률 사무소 안의 데비안"
 
 #: ../../english/intro/organization.data:488
 msgid "Debian for people with disabilities"
-msgstr "장애우를 위한 데비안"
+msgstr "장애인을 위한 데비안"
 
 #: ../../english/intro/organization.data:492
-#, fuzzy
-#| msgid "Debian for medical practice and research"
 msgid "Debian for science and related research"
-msgstr "의학 실습과 연구를 위한 데비안"
+msgstr "과학 및 관련 연구를 위한 데비안"
 
 #: ../../english/intro/organization.data:495
-#, fuzzy
-#| msgid "Debian for education"
 msgid "Debian for astronomy"
-msgstr "교육을 위한 데비안"
+msgstr "천문학을 위한 데비안"
 
 #, fuzzy
 #~| msgid "Installation System Team"
