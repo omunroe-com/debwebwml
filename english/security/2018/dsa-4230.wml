@@ -1,0 +1,18 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Multiple vulnerabilities were discovered in the Lua subsystem of Redis, a
+persistent key-value database, which could result in denial of service.</p>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 3:3.2.6-3+deb9u1.</p>
+
+<p>We recommend that you upgrade your redis packages.</p>
+
+<p>For the detailed security status of redis please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/redis">https://security-tracker.debian.org/tracker/redis</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4230.data"
+# $Id: $
