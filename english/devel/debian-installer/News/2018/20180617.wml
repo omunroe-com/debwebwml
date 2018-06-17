@@ -29,7 +29,7 @@ announce the third alpha release of the installer for Debian 10
   <li>debian-installer:
     <ul>
       <li>Bump Linux kernel ABI from 4.13.0-1 to 4.16.0-2.</li>
-      <li>Replace c_rehash with openssl rehash (#895074). That should
+      <li>Replace c_rehash with openssl rehash (<a href="https://bugs.debian.org/895074">#895074</a>). That should
         only affect builds with SSL_CERTS enabled; regular HTTPS
         support comes from ca-certificates anyway.</li>
       <li>Ensure stricter separation from host's apt configuration by
@@ -41,13 +41,13 @@ announce the third alpha release of the installer for Debian 10
         provides an udeb.</li>
       <li>Run fc-cache when /etc/fonts or /usr/share/fonts exist (for gtk
         targets), to avoid having to generate UUIDs at runtime, which can be
-        hard because of missing entropy (#898468).</li>
+        hard because of missing entropy (<a href="https://bugs.debian.org/898468">#898468</a>).</li>
     </ul>
   </li>
   <li>debian-installer-utils:
     <ul>
       <li>Fix "list-devices partition" to also report LVM logical
-        volumes (#868848).</li>
+        volumes (<a href="https://bugs.debian.org/868848">#868848</a>).</li>
     </ul>
   </li>
   <li>debootstrap:
@@ -68,17 +68,17 @@ announce the third alpha release of the installer for Debian 10
   </li>
   <li>flash-kernel:
     <ul>
-      <li>Fix issues in handle_dtb (#870430).</li>
-      <li>Add option to allow "any" in Kernel-Flavors (#883547).</li>
-      <li>Warn when ubootenv.d snippet will be ignored (#884376).</li>
+      <li>Fix issues in handle_dtb (<a href="https://bugs.debian.org/870430">#870430</a>).</li>
+      <li>Add option to allow "any" in Kernel-Flavors (<a href="https://bugs.debian.org/883547">#883547</a>).</li>
+      <li>Warn when ubootenv.d snippet will be ignored (<a href="https://bugs.debian.org/884376">#884376</a>).</li>
       <li>Adjust sunxi boot script to prefer prefix variable if
         defined.</li>
-      <li>Add support for relative paths for DTB-Id (#860304).</li>
+      <li>Add support for relative paths for DTB-Id (<a href="https://bugs.debian.org/860304">#860304</a>).</li>
       <li>Add compatibility symlink to dtb in vendor
         sub-directory.</li>
       <li>Add support for root device specified by PARTLABEL.</li>
-      <li>Provide hook to start EFI application (#873390).</li>
-      <li>Fix when no Kernel-Flavors are defined (#887803).</li>
+      <li>Provide hook to start EFI application (<a href="https://bugs.debian.org/873390">#873390</a>).</li>
+      <li>Fix when no Kernel-Flavors are defined (<a href="https://bugs.debian.org/887803">#887803</a>).</li>
       <li>Add support for Boot-Kernel-Path-Version,
         Boot-Initrd-Path-Version, and Boot-DTB-Path-Version</li>
     </ul>
@@ -86,17 +86,17 @@ announce the third alpha release of the installer for Debian 10
   <li>iso-scan:
     <ul>
       <li>Detect LVM logical volumes so that they can be used to find
-        the ISO image being looked for (#868859).</li>
+        the ISO image being looked for (<a href="https://bugs.debian.org/868859">#868859</a>).</li>
       <li>Copy the ISO image into RAM before mounting it when debconf
         question iso-scan/copy_iso_to_ram is true. This makes it
         possible to use the disk that provided the ISO image for
-        (automatic) partitioning (#868900).</li>
+        (automatic) partitioning (<a href="https://bugs.debian.org/868900">#868900</a>).</li>
     </ul>
   </li>
   <li>localechooser:
     <ul>
       <li>Use iso_3166-1.mo filename instead of the compatibility
-        symlink (#889963).</li>
+        symlink (<a href="https://bugs.debian.org/889963">#889963</a>).</li>
       <li>languagelist: Enable Georgian and Lao in bterm.</li>
       <li>Enable all languages when using speakup_soft, which supports
         any UTF-8 language.</li>
@@ -119,9 +119,9 @@ announce the third alpha release of the installer for Debian 10
   <li>ppp:
     <ul>
       <li>Use /bin/ip instead of /sbin/ifconfig in the interfaces
-        configuration for the installed system (#889295).</li>
+        configuration for the installed system (<a href="https://bugs.debian.org/889295">#889295</a>).</li>
       <li>Consider interface names using udev predictable interface
-        naming (#873391).</li>
+        naming (<a href="https://bugs.debian.org/873391">#873391</a>).</li>
     </ul>
   </li>
   <li>rescue:
@@ -132,13 +132,13 @@ announce the third alpha release of the installer for Debian 10
   </li>
   <li>util-linux:
     <ul>
-      <li>Ship fallocate in util-linux-udeb (#882001).</li>
+      <li>Ship fallocate in util-linux-udeb (<a href="https://bugs.debian.org/882001">#882001</a>).</li>
     </ul>
   </li>
   <li>wide-dhcpv6:
     <ul>
       <li>Build against static flex library to avoid a runtime
-        dependency on libfl2 (#893988).</li>
+        dependency on libfl2 (<a href="https://bugs.debian.org/893988">#893988</a>).</li>
     </ul>
   </li>
 </ul>
@@ -158,11 +158,11 @@ announce the third alpha release of the installer for Debian 10
   <li>flash-kernel:
     <ul>
       <li>Add support for installing 32bit kernels on the Raspberry Pi
-        3 (#886225).</li>
-      <li>Make ubootenv.d work on Wandboard (#884375).</li>
+        3 (<a href="https://bugs.debian.org/886225">#886225</a>).</li>
+      <li>Make ubootenv.d work on Wandboard (<a href="https://bugs.debian.org/884375">#884375</a>).</li>
       <li>Make ubootenv.d work on CuBox-i.</li>
-      <li>Add support for SolidRun Clearfog Boards (#839595).</li>
-      <li>Add support for SolidRun CuBox (dove) (#876773).</li>
+      <li>Add support for SolidRun Clearfog Boards (<a href="https://bugs.debian.org/839595">#839595</a>).</li>
+      <li>Add support for SolidRun CuBox (dove) (<a href="https://bugs.debian.org/876773">#876773</a>).</li>
       <li>Fix typos in imx-base boot script.</li>
     </ul>
   </li>
@@ -171,17 +171,17 @@ announce the third alpha release of the installer for Debian 10
       <li>armel: Adjust lzo-modules and mtd-modules contents and some
         reverse-dependencies.</li>
       <li>Add dependency from nic-modules to zlib-modules.</li>
-      <li>armhf: Add i2c-exynos5 to i2c-modules (#895976).</li>
+      <li>armhf: Add i2c-exynos5 to i2c-modules (<a href="https://bugs.debian.org/895976">#895976</a>).</li>
       <li>Move arc4 and ecb from nic-wireless-modules to
-        crypto-modules (#895362).</li>
-      <li>Add algif_skcipher to crypto-modules (#896968).</li>
+        crypto-modules (<a href="https://bugs.debian.org/895362">#895362</a>).</li>
+      <li>Add algif_skcipher to crypto-modules (<a href="https://bugs.debian.org/896968">#896968</a>).</li>
       <li>Rename lzo-modules to compress-modules</li>
       <li>Add zstd_decompress to compress-modules and make
         squashfs-modules depend on it.</li>
       <li>amd64: Add vmd to scsi-modules, required for NVMe on some
-        systems (#891482).</li>
+        systems (<a href="https://bugs.debian.org/891482">#891482</a>).</li>
       <li>Update patterns for PHY modules included in usb-modules
-        (#893154).</li>
+        (<a href="https://bugs.debian.org/893154">#893154</a>).</li>
       <li>Enable NVME_MULTIPATH, NVME_FC, NVME_TARGET_FC, move nvme
         module into scsi-modules installer udeb.</li>
       <li>arm64: add multifunction devices.</li>
@@ -191,13 +191,13 @@ announce the third alpha release of the installer for Debian 10
   </li>
   <li>parted:
     <ul>
-      <li>Improve detection of Apple systems (#890587).</li>
+      <li>Improve detection of Apple systems (<a href="https://bugs.debian.org/890587">#890587</a>).</li>
       <li>Prevent crash resizing FAT with very deep directories
-        (#840709).</li>
+        (<a href="https://bugs.debian.org/840709">#840709</a>).</li>
       <li>Fix recognition of FAT file system after resizing
-        (#840710).</li>
-      <li>Add support for NVMe devices (#886960).</li>
-      <li>Update DASD handling (#887016).</li>
+        (<a href="https://bugs.debian.org/840710">#840710</a>).</li>
+      <li>Add support for NVMe devices (<a href="https://bugs.debian.org/886960">#886960</a>).</li>
+      <li>Update DASD handling (<a href="https://bugs.debian.org/887016">#887016</a>).</li>
     </ul>
   </li>
 </ul>
