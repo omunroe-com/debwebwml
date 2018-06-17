@@ -29,7 +29,12 @@ report</a> describing the problem.
 
      <dt>Theme used in the installer</dt>
      <dd>There's no Buster artwork yet, and the installer is still
-       using the Stretch theme.</dd>
+       using the Stretch theme.
+     <br />
+     <b>Status:</b>
+       The <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00003.html">Call
+       for Buster artwork proposals</a> was published on
+       2018-06-15.</dd>
 
 
 <!-- things should be better starting with Jessie Beta 2...
