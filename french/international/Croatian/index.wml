@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian en croate"
-#use wml::debian::translation-check translation="4db2a2bcc022871cf74a78ab7676086b159cd242" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="c0816ff3dae7deb1cd48fb2f83fa934f5e5f3559" maintainer="Nicolas Bertolissio"
 
 <p>
 Cette page contient des choses utiles pour les utilisateurs de Debian parlant
@@ -18,6 +18,6 @@ D'autres documents sur Linux, non spécifiques à Debian, sont disponibles sur l
 
 <p>
 Si vous pensez que quelque chose pourrait être ajouté à cette page, veuillez
-contacter &lt;jrodin@jagor.srce.hr&gt;i (N.d.T.&nbsp;: en anglais ou en
+contacter &lt;jrodin@jagor.srce.hr&gt; (N.d.T.&nbsp;: en anglais ou en
 croate).
 </p>
