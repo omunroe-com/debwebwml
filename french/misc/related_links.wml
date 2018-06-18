@@ -1,8 +1,8 @@
 #use wml::debian::template title="Liens apparentés"
-#use wml::debian::translation-check translation="c91c2140fcc985b7c9561074e7cdc3b3f7af2d15" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="327a5925886ecf2100158719bcbfbbc810e92546" maintainer="Jean-Paul Guillonneau"
 # Previous translation by Norbert Bottlaender-Prier
 # Différents traducteurs, voir journal.
-# Jean-Paul Guillonneau, 2016-2017.
+# Jean-Paul Guillonneau, 2016-2018.
 
 <p>Ce qui suit est une liste d'informations sur le web susceptibles
 d'intéresser les utilisateurs de Debian.</p>
@@ -89,7 +89,7 @@ libres</a></li>
 <dt><a href="https://exdebian.org/">exDebian</a></dt>
        <dd>Un portail pour les utilisateurs Debian parlant espagnol.</dd>
 
-<dt><a href="https://debianusers.or.kr/">Korean Debian Users</a></dt> 
+<dt><a href="https://debianusers.or.kr/">Korean Debian Users</a></dt>
        <dd>Un portail pour les utilisateurs Debian parlant coréen.</dd>
 
 </dl>
