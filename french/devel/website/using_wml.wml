@@ -1,5 +1,7 @@
 #use wml::debian::template title="Utilisation de WML"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="24a8bbc5bf2fd2fbe025f0baa536bf1126f83723" maintainer="Jean-Paul Guillonneau"
+
+# Previous translator : Frédéric Bothamy
 
 <p>WML est l'acronyme de <em>Web site Meta Language</em>. Cela signifie
 que WML prend en entrée des fichiers .wml et les traite quel que soit
@@ -12,7 +14,7 @@ est en fait plutôt complète, mais jusqu'à ce que vous compreniez comment
 partir d'exemples.
 Les fichiers modèles utilisés pour le site Debian peuvent s'avérer
 utiles. Ils se trouvent dans le répertoire
-<code><a href="https://anonscm.debian.org/viewvc/webwml/webwml/english/template/debian/">\
+<code><a href="https://salsa.debian.org/webmaster-team/webwml/tree/master/english/template/debian">\
 webwml/english/template/debian/</a></code>.</p>
 
 <p>Nous supposons que vous avez installé WML sur votre machine&nbsp;; WML est
