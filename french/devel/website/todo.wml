@@ -1,7 +1,9 @@
 #use wml::debian::template title="Liste des choses à faire pour les pages web de Debian" BARETITLE=true
 #use wml::debian::common_tags
 #use wml::debian::toc
-#use wml::debian::translation-check translation="fec8d607f478cb64b87fed6cb217d4621db3f8fa" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="c5bc1c982167d35ed41702b617990a78decb417f"
+
+# Previous translator : Thomas Huriaux
 
 <toc-display/>
 
@@ -167,6 +169,8 @@
 <h3>/devel/website/*</h3>
 
   <p>Coder toutes les meilleures utilisations courantes qui restent.</p>
+  
+  <p>Documenter la migration de CVS à Git.</p>
 
 <toc-add-entry name="cn">Problèmes avec la négociation de
 contenu</toc-add-entry>

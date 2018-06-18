@@ -1,10 +1,10 @@
 #use wml::debian::template title="Travailler sur les pages du site Debian" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="a2ecb1eb5e40411b648499a302c668a3eb820dfe" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="bc66db8592a5b03cf67480ae2e3df889eb158f0c"
+
+# Previous translator : Frédéric Bothamy
 
 <toc-display/>
-
-
 
 <toc-add-entry name="general">Informations générales</toc-add-entry>
 
@@ -20,11 +20,11 @@ répertoire english/.</p>
 
 <h3>Récupération partielle</h3>
 
-<p>Beaucoup de personnes n'auront pas besoin de toute l'arborescence CVS
+<p>Beaucoup de personnes n'auront pas besoin de toute l'arborescence Git
 sous <code>webwml</code>, ce qui peut occasionner des fichiers manquants
 et entraîner des erreurs à la compilation, au cas où un fichier
-important a été ajouté et qu'on n'a pas fait de <kbd>cvs update</kbd>
-dans le répertoire. Veuillez vérifier que vous avez bien tous les
+important a été ajouté et qu'on n'a pas de <q>checkout</q> complet.
+Veuillez vérifier que vous avez bien tous les
 fichiers nécessaires (comme les fichiers .wmlrc) avant de vous plaindre
 à nous.</p>
 
@@ -59,7 +59,7 @@ site.</p>
 
 <h3>Quand vous ajoutez de nouveaux répertoires, ajoutez aussi le Makefile&nbsp;!</h3>
 
-<p>Il faut faire attention quand on ajoute un nouveau répertoire au CVS.
+<p>Il faut faire attention quand on ajoute un nouveau répertoire au dépôt Git.
 Si le répertoire courant est indiqué dans ../Makefile, alors il
 <b>faut</b> créer un Makefile dans ce répertoire&nbsp;; sinon <tt>make</tt>
 affichera un message d'erreur.</p>
@@ -78,14 +78,14 @@ source expliquant le sens de la phrase.</p>
 <p>
 En cas de doute, ou pour relire votre proposition, veuillez
 contacter l'<a href="mailto:debian-l10n-english@lists.debian.org">\
-équipe de localisation en anglais</a>.
+équipe anglaise de localisation</a>.
 </p>
 
 
 <h3>Cherchez le README dans les répertoires anglais.</h3>
 
 <p>Certains répertoires contiennent un fichier README qui peut vous
-aider à comprendre comment ce répertoire est organisé. Il peut
+aider à comprendre comment le répertoire est organisé. Il peut
 fournir des informations utiles lorsqu'on travaille dans un tel
 répertoire.</p>
 
@@ -95,7 +95,7 @@ traitant de la mise en forme.</h3>
 <p>Réalisez toujours des rustines différentes ou des envois différents pour
 les changements relatifs au contenu et les changements relevant de la mise en 
 page. Lorsque ces changements sont combinés, il est plus difficile pour les 
-traducteurs d'identifier les différences. En lançant un <kbd>cvs diff</kbd> sur
+traducteurs d'identifier les différences. En lançant un <kbd>git diff -u</kbd> sur
 des changements qui contiennent les deux types de modifications, vous pourrez
 vous rendre compte de l'ampleur du problème.</p>
 
@@ -110,7 +110,7 @@ le départ être écrits proprement.</p>
 
 <p>Certains changements sont indépendants de la langue utilisée dans le
 fichier WML, comme des changements dans des URLs ou dans du code Perl
-inclus. Corriger les erreurs typographique entre également dans la même
+inclus. Corriger les erreurs typographiques entre également dans la même
 catégorie car les traducteurs ont pour habitude de les ignorer lors de
 la traduction. Pour tous ces changements indépendants de la langue, vous
 pouvez faire le même changement dans tous les fichiers traduits sans
@@ -125,62 +125,9 @@ deux douzaines de personnes de faire quelque chose qui pourrait être
 rapidement fait par une seule personne.</p>
 
 <p>De plus, pour rendre de telles modifications plus faciles à
-appliquer, vous pouvez utiliser le script <code>smart_change.pl</code>
-du répertoire de plus haut niveau dans le module CVS webwml.</p>
-
-<h4>Utilisation de smart_change.pl</h4>
-
-<pre>smart_change.pl [options] origfile</pre>
-
-<p>Actuellement, seuls les fichiers de <code>/english/</code> sont
-autorisés comme <var>origfile</var>. <code>smart_change.pl</code>
-utilise les arguments suivants&nbsp;:</p>
-
-<dl>
-      <dt><code>-s, --substitute=<var>REGEXP</var></code></dt>
-      <dd>Spécifie une expression rationnelle Perl à appliquer aux
-      fichiers source (peut être utilisée plusieurs fois). Par
-      exemple&nbsp;:
-       <pre>
-         $&gt; ./smart_change.pl -s "s,http://oldurl/,http://newurl/,g" english/devel/index.wml
-         $&gt; cvs diff -u */devel/index.wml | less
-         $&gt; cvs ci -m "1.23: Updated oldurl to current location" */devel/index.wml
-       </pre>
-      La première commande effectue le changement, la deuxième vérifie
-      le fichier original anglais et toutes ses traductions. Il est
-      conseillé de faire cela pour vérifier les changements réels avant
-      de les valider. Si tout vous semble correct, validez vos
-      changements avec la troisième commande.
-      </dd>
-
-      <dt><code>-l, --lang=<var>STRING</var></code></dt>
-      <dd>Traite la langue (peut être utilisé plusieurs fois). Si aucune
-      langue n'est spécifiée, toutes les langues disponibles sont
-      traitées.</dd>
-
-      <dt><code>-n, --no-bump</code></dt>
-      <dd>N'incrémente pas les numéros de version dans les en-têtes
-      translation-check. Normalement, le numéro de version de chaque en-tête
-      translation-check est incrémenté d'un dans les fichiers traduits
-      qui sont à jour et n'est pas modifié dans ceux qui ne sont pas à jour.
-      Si cette option est spécifiée, aucun en-tête translation-check
-      n'est modifié. Voir <q>Maintenir les traductions à jour</q>
-      pour une <a href="uptodate">explication sur les en-têtes
-      translation-check</a>.
-      </dd>
-
-      <dt><code>-p, --previous</code></dt>
-      <dd>Affiche la précédente révision CVS. Ceci est principalement
-      utile quand les fichiers anglais ont déjà été validés et que vous
-      voulez vérifier les en-têtes translation-check par rapport à la
-      version précédente.</dd>
-
-      <dt><code>-h, --help</code></dt>
-      <dd>Affiche un court message d'information sur l'utilisation.</dd>
-
-      <dt><code>-v, --verbose</code></dt>
-      <dd>Affiche des messages verbeux lors de l'exécution.</dd>
-</dl>
+appliquer, vous pouvez utiliser le script
+<a href="using_git#translation-smart-change"><code>smart_change.pl</code></a>
+du répertoire de plus haut niveau dans le module webwml de Git.</p>
 
 <toc-add-entry name="links">Liens</toc-add-entry>
 
@@ -253,7 +200,7 @@ ligne telle que la suivante en haut d'un nouveau fichier&nbsp;:</p>
 fichier modèle 
 <code>wml::debian::template</code> sauf si elles en utilisent un spécial
 créé uniquement pour leur section, comme par exemple les pages des
-nouvelles ou celle sur la sécurité.</p>
+nouvelles ou celles sur la sécurité.</p>
 
 <p>Les modèles que nous utilisons vous permettent de définir certaines
 variables qui affecteront les pages créées. Cela devrait éviter d'avoir
@@ -303,7 +250,7 @@ S'il n'est pas possible d'étendre l'un d'eux d'une manière compatible
 avec l'existant, essayez de vous arranger pour que le nouveau modèle
 soit un surensemble d'un modèle existant de façon à ce que les pages
 puissent être converties à lui lors du passage à la prochaine version
-majeure (avec un peu de chance jamais plus de tous les 6 mois).</p>
+majeure (avec un peu de chance jamais plus de tous les six mois).</p>
 
 <p>Si vous créez une page qui est générée par un script ou qui contient
 peu de texte, envisagez d'utiliser les balises &lt;gettext&gt; pour
@@ -330,10 +277,10 @@ répertoire ne seront pas mises à jour automatiquement.</p>
 web.</p>
 <pre>
    mkdir foo
-   cvs add foo
+   git add foo
    cd foo
    cp ../intro/Makefile .
-   cvs add Makefile
+   git add Makefile
 </pre>
 
 <p>Éditez le Makefile dans le répertoire parent et ajoutez le répertoire
@@ -342,5 +289,5 @@ ce répertoire lors de la prochaine compilation quand make est lancé.</p>
 
 <p>Enfin, enregistrez tous les changements effectués avec</p>
 <pre>
-  cvs commit Makefile foo
+  git commit Makefile foo
 </pre>

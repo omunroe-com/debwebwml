@@ -2,7 +2,9 @@
 #use wml::debian::common_tags
 #use wml::debian::acronyms
 #use wml::debian::toc
-#use wml::debian::translation-check translation="54b8009523a375d159be453194c05df95ade0ede" translation_maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="648de6ad5bea60540e41a5733da0b761a34c7927"
+
+# Previous translator : Nicolas Bertolissio
 
 <p>
 Cette page est actuellement une version de travail.
@@ -33,7 +35,7 @@ traductions.
     Les lignes des fichiers wml et des autres fichiers ne devraient pas
     dépasser la taille d'un terminal standard. C'est plus facile à éditer sous
     vi, il est plus simple d'y faire des recherches et plus aisé à traduire.
-    C'est également important car CVS est orienté lignes et qu'il est plus
+    C'est également important car il est plus
     difficile de résoudre des conflits dans de longues lignes.
     </dd>
   <dt>Placer les balises sur des lignes séparées si possible</dt>
@@ -81,7 +83,7 @@ l'acronyme ou l'abréviation est en langue étrangère.
 <p>
 Il y a déjà un ensemble d'acronymes usuels dans les modèles wml à utiliser dans
 vos pages, vous devriez ajouter une ligne pour utiliser les
-<code>acronyms</code> dans le fichier wml. Par exemple, la balise wml pour DD
+<code>acronym</code> dans le fichier wml. Par exemple, la balise wml pour DD
 est &lt;acronym_DD /&gt;.
 </p>
 
@@ -102,15 +104,15 @@ Pour des citations plus longues, la balise &lt;blockquote&gt; devrait être
 utilisée. Une balise &lt;blockquote&gt; délimite un ou plusieurs paragraphes de
 texte qui sont marqués par &lt;p&gt;. Veuillez ne pas utiliser les balises
 &lt;blockquote&gt; pour centrer un bloc de texte qui n'est pas une citation.
-Les blockquotes sont exclusivement réservés aux citations et seront affichés
+Les blockquotes sont exclusivement réservées aux citations et seront affichées
 par une feuille de style spécifique à la langue à l'avenir.
 </p>
 
 <p>
 Il existe également une balise &lt;cite&gt; en HTML. Cette balise &lt;cite&gt;
 n'est pas utilisée pour le texte de la citation lui-même. Elle est utilisée
-pour la source de la citation. Ce peut être le nom de la personne citée ou une
-URL si elle est ajouté comme attribut dans une balise &lt;blockquote&gt;.
+pour la source de la citation. Ce peut être le nom de la personne citée et elle
+est ajoutée comme attribut sous forme d’URL dans une balise &lt;blockquote&gt;.
 </p>
 
 
@@ -125,10 +127,10 @@ car cela ne renseigne pas sur le contenu.
 </p>
 
 
-<toc-add-entry name="samp">Exemples d'affichages d'ordinateur</toc-add-entry>
+<toc-add-entry name="samp">Exemples d'affichages de terminal</toc-add-entry>
 
 <p>
-Pour les affichages d'ordinateur à l'écran, il existe une balise spéciale
+Pour les affichages de terminal à l'écran, il existe une balise spéciale
 nommée &lt;samp&gt;. Si vous avez un grand bloc d'affichage, vous devriez
 également regarder dans le fichier de feuille de style si une classe
 particulière existe.
@@ -140,18 +142,18 @@ particulière existe.
 S'il y a des exemples où l'utilisateur doit saisir quelque chose au clavier, la
 balise &lt;kbd&gt; devrait être utilisée pour la saisie de l'utilisateur.
 Veuillez également vous reporter au chapitre sur les <a href="#var">\
-variables</a> pour savoir comment baliser les saisies variables.
+variables</a> pour savoir comment baliser les saisies de variable.
 </p>
 
 
 <toc-add-entry name="var">Variables</toc-add-entry>
 
 <p>
-Parfois, il est nécessaire d'indiquer qu'une entrée variable telle qu'une
+Parfois, il est nécessaire d'indiquer qu'une entrée de variable telle qu'une
 adresse IP particulière ou un nom d'utilisateur doit être fournie à un
-programme sur la ligne de commande. Pour ces entrées variables, la balise
+programme sur la ligne de commande. Pour ces saisies de variables, la balise
 &lt;var&gt; devrait être utilisée.
-</p>
+ </p>
 
 
 <toc-add-entry name="pre">Contenu préformaté</toc-add-entry>
