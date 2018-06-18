@@ -1,13 +1,13 @@
 #use wml::debian::template title="Les pages Debian en polonais"
 
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Jean-Pierre Giraud"
 
 # Translators:
 # Christian Couder, 2001, 2003-2005
 # Nicolas Bertolissio, 2003
 # Thomas Huriaux, 2005, 2006
 # David Prévot, 2010, 2011
-# Jean-Pierre Giraud, 2015, 2016
+# Jean-Pierre Giraud, 2015-2018
 
 <p>
 Debian est également disponible en polonais.
@@ -193,7 +193,7 @@ en polonais (PDDP)</a>, mais il ne semble plus actif actuellement.
  <li>Format des traductions : gettext (fichiers PO)</li>
  <li>Porter des modifications : directement dans SVN/debian-l10n-polish@</li>
  <li>Statistiques : <a href="https://d-i.debian.org/l10n-stats/">https://d-i.debian.org/l10n-stats/</a></li>
- <li>Dépôt : <a href="https://anonscm.debian.org/viewvc/d-i/trunk/packages/po/">https://anonscm.debian.org/viewvc/d-i/trunk/packages/po/</a></li>
+ <li>Dépôt : <a href="https://salsa.debian.org/installer-team/d-i/tree/master/packages/popo">https://salsa.debian.org/installer-team/d-i/tree/master/packages/po</a></li>
  <li>Documentation : <a href="https://d-i.alioth.debian.org/doc/i18n/">https://d-i.alioth.debian.org/doc/i18n/</a></li>
 </ul>
 
@@ -214,7 +214,7 @@ en polonais (PDDP)</a>, mais il ne semble plus actif actuellement.
  <li>Format des traductions : WML</li>
  <li>Porter des modifications : directement dans SVN/debian-l10n-polish@</li>
  <li>Statistiques : <a href="https://www.debian.org/devel/website/stats/">https://www.debian.org/devel/website/stats/</a></li>
- <li>Dépôt : <a href="https://anonscm.debian.org/viewvc/webwml/webwml/polish/">https://anonscm.debian.org/viewvc/webwml/webwml/polish/</a></li>
+ <li>Dépôt : <a href="https://salsa.debian.org/webmaster-team/webwml/tree/master/polish">https://salsa.debian.org/webmaster-team/webwml/tree/master/polish</a></li>
  <li>Documentation : <a href="https://www.debian.org/devel/website/translating">https://www.debian.org/devel/website/translating</a></li>
 </ul>
 <p>
@@ -366,7 +366,7 @@ en polonais (PDDP)</a>, mais il ne semble plus actif actuellement.
  <li>Portée : Debian</li>
  <li>Format des traductions : WML</li>
  <li>Porter des modifications : directement dans SVN/debian-publicity@</li>
- <li>Dépôt : <a href="https://anonscm.debian.org/viewvc/publicity/">https://anonscm.debian.org/viewvc/publicity/</a></li>
+ <li>Dépôt : <a href="https://salsa.debian.org/publicity-team/">https://salsa.debian.org/publicity-team/</a></li>
 </ul>
 <p>
  Les nouvelles ne sont pas traduites en polonais et c'est sans doute
