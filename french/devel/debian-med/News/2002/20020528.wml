@@ -2,7 +2,7 @@
 <define-tag release_date>2002-05-28</define-tag>
 {#style#:<link rel="stylesheet" href="../../talks.css" type="text/css" />:#style#}
 #use wml::debian::news
-#use wml::debian::translation-check translation="b45d1a5a307644cfecd93e3a5a67299ebd0df512" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="c0816ff3dae7deb1cd48fb2f83fa934f5e5f3559" maintainer="Nicolas Bertolissio"
 
 <p>
 Debian Med a été présenté lors d'un exposé au LinuxTag à Magdeburg, Allemagne.
