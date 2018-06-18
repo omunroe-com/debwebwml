@@ -2,18 +2,20 @@
 #use wml::fmt::verbatim
 #use wml::debian::translation-check translation="ad3c7be7ae8789593d1c18116e078f35ebd9f2f7"
 
-<P>為了讓翻譯人員的工作更加容易，在這些頁面的生成方式和您過去所熟知的之間存在
+<p>為了讓翻譯人員的工作更加容易，在這些頁面的生成方式和您過去所熟知的之間存在
 一些差異。實際上這些網頁是通過由 <a
 href="http://www.engelschall.com/sw/wml/"><tt>wml</tt></a> 標記的源代碼自動生
 成的。每一門語種都有各自對應的目錄。
+</p>
 
 <p>如果您計劃為 Debian 網頁開創一個新的語種的翻譯工作，請查閱 <a
 href="#completenew">開創一個新語種</a> 一節。
+</p>
 
 <h2><a name="singlepages">翻譯單獨的頁面</a></h2>
 
 <p>我們使用 WML 區分一個頁面關鍵的內容和多個頁面共通的元素。意思就是唯一需要編輯
-的是 WML 源代碼，而不是 HTML 文件。請 <a href="using_cvs">使用CVS</a> 獲取當前的
+的是 WML 源代碼，而不是 HTML 文件。請 <a href="using_git">使用 Git</a> 獲取當前的
 源代碼。您將需要簽出 (check out) 至少兩個目錄: <tt>webwml/english/</tt> 和
 <tt>webwml/<var>&lt;language&gt;</var>/</tt>.</p> 
 
@@ -23,15 +25,23 @@ href="#completenew">開創一個新語種</a> 一節。
 
 <h3>翻譯頁頭</h3>
 <p>強烈建議翻譯人員在頁頭的最後一個 <code>#usr</code> 語句之後追加一行，
-用於記錄該被翻譯的原始文件的修訂版本號，這樣的話 <a href="uptodate">便於更新</a>。
+用於記錄該被翻譯的原始文件的准确提交信息，从而 <a href="uptodate">便於更新</a>。
 這一行看上去應該像這樣:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>"</kbd>
+<kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd>
+请注意如果您使用 <tt>copypage.pl</tt> 工具生成可翻译文件（我们非常推荐您采用\
+这种做法），该工具会自动生成对应的 git 提交散列字符串。<tt>copypage.pl</tt>
+工具的详细用法会在接下来的文字中予以解释。
+</p>
+
+<p><strong>请注意：</strong>下面的某些信息目前已过时，尤其是所有涉及 CVS
+的信息均已过时。请暂时丢弃相关的信息，如果可能的话，请帮助我们更新相关\
+的内容。</p>
 
 <p>另外某些翻譯小組還會用這一行給每個網頁標記一位官方的翻譯人員。這樣，當您所
 維護的這個頁面在英語目錄中相應位置發生更新時，您將會自動收到郵件通知，提醒您
 更新這個翻譯工作。為此，只要在剛才 <code>#use</code> 一行的最後簡單的加上您的
 名字作為維護者使它看起來像這樣:
-<kbd>#use wml::debian::translation-check translation="<var>x.y</var>" maintainer="<var>your name</var>"</kbd>
+<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>" maintainer="<var>your name</var>"</kbd>
 </p>
 
 <p>您還需要向機器人說明您的身份，以及自動接收郵件通知的週期。為此，編輯 (或者
