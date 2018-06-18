@@ -199,7 +199,7 @@ translation-check-headere, når du manuelt arbejder på filer:</p>
       de oversatte filer</li>
   <li>Gennemse ændringerne (fx med <code>git diff</code>)</li>
   <li>Commit oversættelsesændringerne</li>
-</ul>
+</ol>
 
 <p>Eller, hvis du anvender smart_change med et regulært udtræk, for at foretage 
 adskillige ændringer på tværs af filer i ét gennemløb:</p>
