@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="7a64a9aeb9449043606abd36c8704f0576740ffb" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Man opdagede at Libgcrypt var sårbar over for et lokalt sidekanalsangreb, som 
+gjorde det muligt at få fat i private ECDSA-nøgler.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 1.7.6-2+deb9u3.</p>
+
+<p>Vi anbefaler at du opgraderer dine libgcrypt20-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende libgcrypt20, 
+se dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/libgcrypt20">\
+https://security-tracker.debian.org/tracker/libgcrypt20</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4231.data"
