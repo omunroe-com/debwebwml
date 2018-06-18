@@ -11,27 +11,40 @@
 </p>
 
 <dl>
-  <dt><strong>郵件列表</strong></dt>
+  <dt><strong>使用者郵件列表</strong></dt>
   <dd>
     <ul>
       <li>
-        [HK:繁体:][TW:正体:]中文：<a href="https://lists.debian.org/debian-chinese-big5/"><tt>debian-chinese-big5</tt></a>
+        繁体/正体中文：<a href="https://lists.debian.org/debian-chinese-big5/"><tt>debian-chinese-big5</tt></a>
       </li>
       <li>
         简体中文：<a href="https://lists.debian.org/debian-chinese-gb/"><tt>debian-chinese-gb</tt></a>
       </li>
     </ul>
-    此郵件列表歡迎任何中文或英文的文章。兩者不互通，如需完整通知信息请手动进行抄送。请务必使用 UTF-8 编码信件（而非 GB2312/GBK/GB18030/BIG5 等）。
+    以上两个邮件列表也作为中文通知、公告的发布列表。
   </dd>
+  <dt><strong>开发者邮件列表</strong></dt>
+  <dd>
+    <ul>
+      <li>
+        中文本地化/在地化/国际化开发（翻译协调）：<a href="https://lists.debian.org/debian-l10n-chinese/"><tt>debian-l10n-chinese</tt></a>
+      </li>
+      <li>
+        中文开发者团队列表（Alioth）：<a href="https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/chinese-developers"><tt>chinese-developers@lists.alioth.debian.org</tt></a>
+      </li>
+    </ul>
+  </dd>
+  <p>郵件列表歡迎任何中文或英文的文章。兩者不互通，如需完整通知信息请手动进行抄送。
+  请务必使用 UTF-8 编码信件（而非 GB2312/GBK/GB18030/BIG5 等）。</p>
   <dt><strong>中文 Debian 使用者社区</strong></dt>
   <dd>
     <ul>
       <li>
-        <a href="https://debiancn.org/">Debian 中文社区</a>，<a href="https://wiki.debian.org/LocalGroups/Debian-CN">Wiki 介绍</a>
+        <a href="https://www.debiancn.org/">（非官方）Debian 中文社区</a>，<a href="https://wiki.debian.org/LocalGroups/Debian-CN">Wiki 介绍</a>
         <ul>
           <li>IRC: #debian-cn @ Freenode，<a href="https://webchat.freenode.net/">Webchat</a>（需要加载部分Google资源）</li>
           <li>Webchat: <a href="https://irc.debiancn.org">irc.debiancn.org</a></li>
-          <li>Telegram: <a href="https://t.me/debianzh">@debianzn</a></li>
+          <li>Telegram: <a href="https://t.me/debianzh">@debianzh</a> 群组</li>
           </ul>
         <br>
         以上各聊天方式互相联通。

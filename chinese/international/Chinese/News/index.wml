@@ -2,7 +2,17 @@
 
 # $Id$
 
-<H1>最新消息</H1>
+<h1>中文新闻存档</h1>
+
+<p>本页面存放一些中文新闻的摘要存档。</p>
+
+<h2>近期新闻</h2>
+
+<p>（暂无新闻）</p>
+
+<h2>历史消息存档</h2>
+<p>
+<details>
 <h3>2004年 6月22日：</h3>
 <ul>
 <li>我們回來了！抱歉這一個階段主頁沒有及時更新，但是 Debian 中文計劃一直在繼續。</li>
@@ -13,7 +23,7 @@
 
 <h3>2003年 5月 8日：</h3>
 <ul>
-<li><a href="http://www.fcitx.org">小企鵝輸入法</a>進入unstable。unstable用戶可以使用 apt-get install fcitx 來安裝。Woody 用戶可以從 <a href="https://people.debian.org/~ygh">https://people.debian.org/~ygh</a>下載安裝。</li>
+<li><a href="https://www.fcitx.org">小企鵝輸入法</a>進入unstable。unstable用戶可以使用 apt-get install fcitx 來安裝。Woody 用戶可以從 <a href="https://people.debian.org/~ygh">https://people.debian.org/~ygh</a>下載安裝。</li>
 <li> zhcon更新至 0.2.3版本，修整了 Emacs 重繪的問題。 Woody 用戶同樣可以從 <a href="https://people.debian.org/~ygh">https://people.debian.org/~ygh</a>下載安裝。</li>
 <li> Stardict 2.0進入 unstable。星際譯王 2.0版，使用 gtk 2.0 改寫，增加漢英詞典。非常好用，強烈推薦。請用 apt-get install stardict 安裝。</li>
 </ul>
@@ -264,7 +274,9 @@ debian-chinese-big5 和 debian-chinese-gb 了。
 </UL>
 
 <H3>2000年 5月29日：</H3>
-<UL>
+<ul>
 <LI>新版的 xcin_2.5.1.99.pre3-1、libtabe_0.1.4-1 和 bg5ps_1.3.0-1 
     已上傳至 woody 中了。</LI>
-</UL>
+</ul>
+</details>
+</p>
