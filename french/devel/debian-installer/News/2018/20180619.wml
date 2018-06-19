@@ -1,0 +1,241 @@
+#use wml::debian::translation-check translation="2b3622e819bf7ac7d34af220efad8c7b99fecfe4" maintainer="Jean-Pierre Giraud"
+<define-tag pagetitle>Publication de l'installateur Debian Buster Alpha 3</define-tag>
+<define-tag release_date>2018-06-19</define-tag>
+#use wml::debian::news
+
+<p>
+L'<a href="https://wiki.debian.org/DebianInstaller/Team">équipe</a> du
+programme d'installation de Debian a le plaisir d'annoncer la parution
+de la troisième version alpha pour Debian 10 <q>Buster</q>.
+</p>
+
+
+<h2>Améliorations dans cette version de l'installateur</h2>
+
+<ul>
+  <li>apt-setup :
+    <ul>
+      <li>lors d'une installation à partir d'une image CD simple pour ordinateur
+        de bureau, commentaire de l’image dans le sources.list après
+        l'installation comme cela est fait avec les images netinst, avec
+        également une explication dans le commentaire.</li>
+    </ul>
+  </li>
+  <li>cryptsetup :
+    <ul>
+      <li>mise à niveau vers la version amont 2.0.0.</li>
+    </ul>
+  </li>
+  <li>debian-installer :
+    <ul>
+      <li>passage de l'ABI du noyau Linux de 4.13.0-1 à 4.16.0-2 ;</li>
+      <li>remplacement de c_rehash par openssl rehash (<a href="https://bugs.debian.org/895074">n° 895074</a>).
+        Cela ne devrait affecter que les constructions avec SSL_CERTS activé ;
+        la prise en charge normale de HTTPS vient quand même de ca-certificates ;</li>
+      <li>assurance d'une séparation plus stricte de la configuration d'APT de 
+        l'hôte en configurant APT_CONFIG durant le processus de construction ;</li>
+      <li>ajustement d'Acquire::Languages, Apt::Architecture, Apt::Architectures
+        et désactivation à la fois des extraits de configuration apt.conf.d et
+        preferences.d ;</li>
+      <li>suppression de libnewt0.52 de Build-Depends, la bibliothèque fournit
+        maintenant un udeb ;</li>
+      <li>exécution de fc-cache quand /etc/fonts ou /usr/share/fonts existent
+        (pour les cibles gtk ), pour éviter d'avoir à générer les UUID au moment
+        de l'exécution, ce qui peut être difficile du fait du manque d'entropie
+        (<a href="https://bugs.debian.org/898468">n° 898468</a>).</li>
+    </ul>
+  </li>
+  <li>debian-installer-utils :
+    <ul>
+      <li>correction de « list-devices partition » pour aussi rendre compte des
+        volumes logiques LVM (<a href="https://bugs.debian.org/868848">n° 868848</a>).</li>
+    </ul>
+  </li>
+  <li>debootstrap :
+    <ul>
+      <li>ajout de la prise en charge de bookworm ;</li>
+      <li>ajout de la prise en charge d'Acquire-By-Hash ;</li>
+      <li>autres améliorations trop nombreuses pour être listées ici.</li>
+    </ul>
+  </li>
+  <li>espeakup :
+    <ul>
+      <li>correction du chemin vers les définitions de voix, ce qui corrige le
+        changement automatique de langue dans l'installateur ;</li>
+      <li>configuration du frontal de debconf pour readline sur le système
+        installé pour une meilleure accessibilité ;</li>
+      <li>amélioration des commutations console/terminal virtuel X11.</li>
+    </ul>
+  </li>
+  <li>flash-kernel :
+    <ul>
+      <li>correction de problèmes dans handle_dtb (<a href="https://bugs.debian.org/870430">n° 870430</a>) ;</li>
+      <li>ajout d'une option pour autoriser "any" dans les versions du noyau(<a href="https://bugs.debian.org/883547">n° 883547</a>) ;</li>
+      <li>avertissement quand le fragment de code ubootenv.d sera ignoré (<a href="https://bugs.debian.org/884376">n° 884376</a>) ;</li>
+      <li>ajustement du script d'amorçage de sunxi pour préférer la variable
+      prefix si elle est définie ;</li>
+      <li>ajout de la prise en charge des chemins relatifs pour DTB-Id (<a href="https://bugs.debian.org/860304">n° 860304</a>) ;</li>
+      <li>ajout d'un lien symbolique de compatibilité vers dtb dans le
+        sous-répertoire fabriquant ;</li>
+      <li>ajout de la prise en charge du périphérique racine spécifié par
+        PARTLABEL ;</li>
+      <li>fourniture d'un hook pour démarrer une application EFI (<a href="https://bugs.debian.org/873390">n° 873390</a>) ;</li>
+      <li>correction pour le cas où aucune version du noyau n'est spécifiée
+        (<a href="https://bugs.debian.org/887803">n° 887803</a>) ;</li>
+      <li>ajout de la prise en charge de Boot-Kernel-Path-Version,
+        Boot-Initrd-Path-Version et Boot-DTB-Path-Version.</li>
+    </ul>
+  </li>
+  <li>iso-scan :
+    <ul>
+      <li>détection des volumes logiques LVM de telle manière qu'ils peuvent 
+        servir à trouver l'image ISO recherchée (<a href="https://bugs.debian.org/868859">n° 868859</a>) ;</li>
+      <li>copie de l'image ISO en RAM avant son montage quand la réponse à la
+        question de debconf iso-scan/copy_iso_to_ram est « true ». Cela rend
+        possible l'utilisation du disque qui fournit l'image ISO pour le
+        partitionnement (automatique) (<a href="https://bugs.debian.org/868900">n° 868900</a>).</li>
+    </ul>
+  </li>
+  <li>localechooser :
+    <ul>
+      <li>utilisation du nom de fichier iso_3166-1.mo à la place du lien
+        symbolique de compatibilité (<a href="https://bugs.debian.org/889963">n° 889963</a>) ;</li>
+      <li>languagelist : activation du géorgien et du laotien dans bterm ;</li>
+      <li>activation de toutes les langues lors de l'utilisation de speakup_soft,
+        qui prend en charge toutes les langues UTF-8 ;</li>
+      <li>activation aussi de toutes langues lors de l'utilisation de
+        speakup_dummy qui peut aussi prendre en charge toutes les langues UTF-8.</li>
+    </ul>
+  </li>
+  <li>mdadm :
+    <ul>
+      <li>utilisation des mêmes règles d'udev dans l'installateur et dans le 
+        système installé.</li>
+    </ul>
+  </li>
+  <li>partman-lvm :
+    <ul>
+      <li>détection d'erreurs par device_remove_lvm(), pour un arrêt plus tôt si
+        quelque chose ne marche pas.</li>
+    </ul>
+  </li>
+  <li>ppp :
+    <ul>
+      <li>utilisation de /bin/ip à la place de /sbin/ifconfig dans la
+        configuration des interfaces pour le système installé (<a href="https://bugs.debian.org/889295">n° 889295</a>) ;</li>
+      <li>prise en compte des noms d'interface en utilisant les noms d'interface
+        réseau prévisibles (Predictable Network Interface Names) d'udev
+        (<a href="https://bugs.debian.org/873391">n° 873391</a>).</li>
+    </ul>
+  </li>
+  <li>rescue :
+    <ul>
+      <li>assurance de ne pas fournir d'entrées dupliquées dans la liste des
+        périphériques potentiels pour la partition racine.</li>
+    </ul>
+  </li>
+  <li>util-linux :
+    <ul>
+      <li>fourniture de fallocate dans util-linux-udeb (<a href="https://bugs.debian.org/882001">n° 882001</a>).</li>
+    </ul>
+  </li>
+  <li>wide-dhcpv6 :
+    <ul>
+      <li>construction avec la bibliothèque statique flex pour éviter une
+        dépendance à libfl2 au moment de l'exécution (<a href="https://bugs.debian.org/893988">n° 893988</a>).</li>
+    </ul>
+  </li>
+</ul>
+
+
+<h2>Modifications de la prise en charge matérielle</h2>
+
+<ul>
+  <li>debian-installer :
+    <ul>
+      <li>armhf : ajout de la prise en charge de Cubietruck_plus ;</li>
+      <li>armhf : activation de grub-efi mini.iso (netboot) ;</li>
+      <li>arm64 : génération du support u-boot pour pine64_plus ;</li>
+      <li>ajout de la prise en charge de NanoPiNeo.</li>
+    </ul>
+  </li>
+  <li>flash-kernel :
+    <ul>
+      <li>ajout de la prise en charge de l'installation des noyaux 32 bits sur
+        les Raspberry Pi 3 (<a href="https://bugs.debian.org/886225">n° 886225</a>) ;</li>
+      <li>ubootenv.d fonctionnel sur Wandboard (<a href="https://bugs.debian.org/884375">n° 884375</a>) ;</li>
+      <li>ubootenv.d fonctionnel sur CuBox-i ;</li>
+      <li>ajout de la prise en charge des cartes SolidRun Clearfog (<a href="https://bugs.debian.org/839595">n° 839595</a>) ;</li>
+      <li>ajout de la prise en charge de SolidRun CuBox (dove) (<a href="https://bugs.debian.org/876773">n° 876773</a>) ;</li>
+      <li>corrections de fautes dans le script de démarrage d'imx-base.</li>
+    </ul>
+  </li>
+  <li>linux :
+    <ul>
+      <li>armel : ajustement des contenus de lzo-modules et mtd-modules et de
+        quelques dépendances inverses ;</li>
+      <li>ajout de dépendance de nic-modules vers zlib-modules ;</li>
+      <li>armhf : ajout de i2c-exynos5 dans i2c-modules (<a href="https://bugs.debian.org/895976">n° 895976</a>) ;</li>
+      <li>migration de arc4 et ecb de nic-wireless-modules vers
+        crypto-modules (<a href="https://bugs.debian.org/895362">n° 895362</a>) ;</li>
+      <li>ajout de algif_skcipher à crypto-modules (<a href="https://bugs.debian.org/896968">n° 896968</a>) ;</li>
+      <li>renommage de lzo-modules en compress-modules</li>
+      <li>ajout de zstd_decompress à compress-modules et de sa dépendance pour
+        squashfs-modules ;</li>
+      <li>amd64: ajout de vmd dans scsi-modules, nécessaire à NVMe sur certains
+        systèmes (<a href="https://bugs.debian.org/891482">n° 891482</a>) ;</li>
+      <li>mise à jour des motifs pour les modules PHY inclus dans usb-modules
+        (<a href="https://bugs.debian.org/893154">n° 893154</a>) ;</li>
+      <li>activation de NVME_MULTIPATH, NVME_FC, NVME_TARGET_FC, migration du
+        module de nvme dans l'udeb de l'installateur scsi-modules ;</li>
+      <li>arm64 : ajout des périphériques multifonctions ;</li>
+      <li>arm64 : ajout de mvebu comphy pour armada 8K ;</li>
+      <li>armel : suppression de fbcon du paquet fb-modules.</li>
+    </ul>
+  </li>
+  <li>parted :
+    <ul>
+      <li>amélioration de la détection des systèmes Apple (<a href="https://bugs.debian.org/890587">n° 890587</a>) ;</li>
+      <li>prévention du plantage de redimensionnement de FAT avec des
+        répertoires trop profonds (<a href="https://bugs.debian.org/840709">n° 840709</a>) ;</li>
+      <li>correction de la reconnaissance du système de fichiers FAT après
+        redimensionnement (<a href="https://bugs.debian.org/840710">n° 840710</a>) ;</li>
+      <li>ajout de la prise en charge des périphériques NVMe (<a href="https://bugs.debian.org/886960">n° 886960</a>) ;</li>
+      <li>mise à jour de la gestion de DASD (<a href="https://bugs.debian.org/887016">n° 887016</a>).</li>
+    </ul>
+  </li>
+</ul>
+
+
+<h2>État de la localisation</h2>
+
+<ul>
+  <li>75 langues sont prises en charge dans cette version ;</li>
+  <li>La traduction est complète pour 9 de ces langues.</li>
+</ul>
+
+
+<h2>Problèmes connus dans cette version</h2>
+
+<p>
+Veuillez consulter les <a href="$(DEVEL)/debian-installer/errata">errata</a>
+pour plus de détails et une liste complète des problèmes connus.
+</p>
+
+
+<h2>Retours d'expérience pour cette version</h2>
+
+<p>
+Nous avons besoin de votre aide pour trouver des bogues et améliorer encore
+l'installateur, merci de l'essayer. Les CD, les autres supports d'installation,
+et tout ce dont vous pouvez avoir besoin sont disponibles sur notre
+<a href="$(DEVEL)/debian-installer">site web</a>.
+</p>
+
+
+<h2>Remerciements</h2>
+
+<p>
+L'équipe du programme d'installation Debian remercie toutes les personnes ayant
+pris part à cette publication.
+</p>
