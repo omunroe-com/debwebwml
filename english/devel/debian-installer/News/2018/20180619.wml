@@ -1,0 +1,236 @@
+<define-tag pagetitle>Debian Installer Buster Alpha 3 release</define-tag>
+<define-tag release_date>2018-06-19</define-tag>
+#use wml::debian::news
+
+<p>
+The Debian Installer <a
+href="https://wiki.debian.org/DebianInstaller/Team">team</a> is pleased to
+announce the third alpha release of the installer for Debian 10
+<q>Buster</q>.
+</p>
+
+
+<h2>Improvements in this release</h2>
+
+<ul>
+  <li>apt-setup:
+    <ul>
+      <li>If installing from a single-desktop single CD image, comment
+        it out from sources.list after installation like we do with
+        the netinst images, along with an explanation in comment as
+        well.</li>
+    </ul>
+  </li>
+  <li>cryptsetup:
+    <ul>
+      <li>Upgrade to upstream version 2.0.0.</li>
+    </ul>
+  </li>
+  <li>debian-installer:
+    <ul>
+      <li>Bump Linux kernel ABI from 4.13.0-1 to 4.16.0-2.</li>
+      <li>Replace c_rehash with openssl rehash (<a href="https://bugs.debian.org/895074">#895074</a>). That should
+        only affect builds with SSL_CERTS enabled; regular HTTPS
+        support comes from ca-certificates anyway.</li>
+      <li>Ensure stricter separation from host's apt configuration by
+        setting APT_CONFIG during the build process.</li>
+      <li>Tweak Acquire::Languages, Apt::Architecture,
+        Apt::Architectures and disable both apt.conf.d and
+        preferences.d snippets.</li>
+      <li>Drop libnewt0.52 from Build-Depends, the library now
+        provides an udeb.</li>
+      <li>Run fc-cache when /etc/fonts or /usr/share/fonts exist (for gtk
+        targets), to avoid having to generate UUIDs at runtime, which can be
+        hard because of missing entropy (<a href="https://bugs.debian.org/898468">#898468</a>).</li>
+    </ul>
+  </li>
+  <li>debian-installer-utils:
+    <ul>
+      <li>Fix "list-devices partition" to also report LVM logical
+        volumes (<a href="https://bugs.debian.org/868848">#868848</a>).</li>
+    </ul>
+  </li>
+  <li>debootstrap:
+    <ul>
+      <li>Add support for bookworm.</li>
+      <li>Add Acquire-By-Hash support.</li>
+      <li>Too many other improvements to list them all here.</li>
+    </ul>
+  </li>
+  <li>espeakup:
+    <ul>
+      <li>Fix path to voice definitions, which fixes language
+        auto-switch in the installer.</li>
+      <li>Configure debconf frontend to readline on the installed
+        system for better accessibility.</li>
+      <li>Improve console/X11 VT switches.</li>
+    </ul>
+  </li>
+  <li>flash-kernel:
+    <ul>
+      <li>Fix issues in handle_dtb (<a href="https://bugs.debian.org/870430">#870430</a>).</li>
+      <li>Add option to allow "any" in Kernel-Flavors (<a href="https://bugs.debian.org/883547">#883547</a>).</li>
+      <li>Warn when ubootenv.d snippet will be ignored (<a href="https://bugs.debian.org/884376">#884376</a>).</li>
+      <li>Adjust sunxi boot script to prefer prefix variable if
+        defined.</li>
+      <li>Add support for relative paths for DTB-Id (<a href="https://bugs.debian.org/860304">#860304</a>).</li>
+      <li>Add compatibility symlink to dtb in vendor
+        sub-directory.</li>
+      <li>Add support for root device specified by PARTLABEL.</li>
+      <li>Provide hook to start EFI application (<a href="https://bugs.debian.org/873390">#873390</a>).</li>
+      <li>Fix when no Kernel-Flavors are defined (<a href="https://bugs.debian.org/887803">#887803</a>).</li>
+      <li>Add support for Boot-Kernel-Path-Version,
+        Boot-Initrd-Path-Version, and Boot-DTB-Path-Version</li>
+    </ul>
+  </li>
+  <li>iso-scan:
+    <ul>
+      <li>Detect LVM logical volumes so that they can be used to find
+        the ISO image being looked for (<a href="https://bugs.debian.org/868859">#868859</a>).</li>
+      <li>Copy the ISO image into RAM before mounting it when debconf
+        question iso-scan/copy_iso_to_ram is true. This makes it
+        possible to use the disk that provided the ISO image for
+        (automatic) partitioning (<a href="https://bugs.debian.org/868900">#868900</a>).</li>
+    </ul>
+  </li>
+  <li>localechooser:
+    <ul>
+      <li>Use iso_3166-1.mo filename instead of the compatibility
+        symlink (<a href="https://bugs.debian.org/889963">#889963</a>).</li>
+      <li>languagelist: Enable Georgian and Lao in bterm.</li>
+      <li>Enable all languages when using speakup_soft, which supports
+        any UTF-8 language.</li>
+      <li>Enable all languages when using speakup_dummy too, which can
+        also support any UTF-8 language.</li>
+    </ul>
+  </li>
+  <li>mdadm:
+    <ul>
+      <li>Use the same udev rules in the installer and in the
+        installed system.</li>
+    </ul>
+  </li>
+  <li>partman-lvm:
+    <ul>
+      <li>Make device_remove_lvm() detect errors, so as to stop early
+        if anything goes wrong.</li>
+    </ul>
+  </li>
+  <li>ppp:
+    <ul>
+      <li>Use /bin/ip instead of /sbin/ifconfig in the interfaces
+        configuration for the installed system (<a href="https://bugs.debian.org/889295">#889295</a>).</li>
+      <li>Consider interface names using udev predictable interface
+        naming (<a href="https://bugs.debian.org/873391">#873391</a>).</li>
+    </ul>
+  </li>
+  <li>rescue:
+    <ul>
+      <li>Make sure to not provide duplicate entries in the list of
+        possible devices for the root partition.</li>
+    </ul>
+  </li>
+  <li>util-linux:
+    <ul>
+      <li>Ship fallocate in util-linux-udeb (<a href="https://bugs.debian.org/882001">#882001</a>).</li>
+    </ul>
+  </li>
+  <li>wide-dhcpv6:
+    <ul>
+      <li>Build against static flex library to avoid a runtime
+        dependency on libfl2 (<a href="https://bugs.debian.org/893988">#893988</a>).</li>
+    </ul>
+  </li>
+</ul>
+
+
+<h2>Hardware support changes</h2>
+
+<ul>
+  <li>debian-installer:
+    <ul>
+      <li>armhf: Add support for Cubietruck_plus.</li>
+      <li>armhf: Enable grub-efi mini.iso (netboot).</li>
+      <li>arm64: Generate u-boot media for pine64_plus.</li>
+      <li>Add support for the NanoPiNeo.</li>
+    </ul>
+  </li>
+  <li>flash-kernel:
+    <ul>
+      <li>Add support for installing 32bit kernels on the Raspberry Pi
+        3 (<a href="https://bugs.debian.org/886225">#886225</a>).</li>
+      <li>Make ubootenv.d work on Wandboard (<a href="https://bugs.debian.org/884375">#884375</a>).</li>
+      <li>Make ubootenv.d work on CuBox-i.</li>
+      <li>Add support for SolidRun Clearfog Boards (<a href="https://bugs.debian.org/839595">#839595</a>).</li>
+      <li>Add support for SolidRun CuBox (dove) (<a href="https://bugs.debian.org/876773">#876773</a>).</li>
+      <li>Fix typos in imx-base boot script.</li>
+    </ul>
+  </li>
+  <li>linux:
+    <ul>
+      <li>armel: Adjust lzo-modules and mtd-modules contents and some
+        reverse-dependencies.</li>
+      <li>Add dependency from nic-modules to zlib-modules.</li>
+      <li>armhf: Add i2c-exynos5 to i2c-modules (<a href="https://bugs.debian.org/895976">#895976</a>).</li>
+      <li>Move arc4 and ecb from nic-wireless-modules to
+        crypto-modules (<a href="https://bugs.debian.org/895362">#895362</a>).</li>
+      <li>Add algif_skcipher to crypto-modules (<a href="https://bugs.debian.org/896968">#896968</a>).</li>
+      <li>Rename lzo-modules to compress-modules</li>
+      <li>Add zstd_decompress to compress-modules and make
+        squashfs-modules depend on it.</li>
+      <li>amd64: Add vmd to scsi-modules, required for NVMe on some
+        systems (<a href="https://bugs.debian.org/891482">#891482</a>).</li>
+      <li>Update patterns for PHY modules included in usb-modules
+        (<a href="https://bugs.debian.org/893154">#893154</a>).</li>
+      <li>Enable NVME_MULTIPATH, NVME_FC, NVME_TARGET_FC, move nvme
+        module into scsi-modules installer udeb.</li>
+      <li>arm64: add multifunction devices.</li>
+      <li>arm64: add mvebu comphy for armada 8K.</li>
+      <li>armel: Remove fbcon from fb-modules package.</li>
+    </ul>
+  </li>
+  <li>parted:
+    <ul>
+      <li>Improve detection of Apple systems (<a href="https://bugs.debian.org/890587">#890587</a>).</li>
+      <li>Prevent crash resizing FAT with very deep directories
+        (<a href="https://bugs.debian.org/840709">#840709</a>).</li>
+      <li>Fix recognition of FAT file system after resizing
+        (<a href="https://bugs.debian.org/840710">#840710</a>).</li>
+      <li>Add support for NVMe devices (<a href="https://bugs.debian.org/886960">#886960</a>).</li>
+      <li>Update DASD handling (<a href="https://bugs.debian.org/887016">#887016</a>).</li>
+    </ul>
+  </li>
+</ul>
+
+
+<h2>Localization status</h2>
+
+<ul>
+  <li>75 languages are supported in this release.</li>
+  <li>Full translation for 9 of them.</li>
+</ul>
+
+
+<h2>Known issues in this release</h2>
+
+<p>
+See the <a href="$(DEVEL)/debian-installer/errata">errata</a> for
+details and a full list of known issues.
+</p>
+
+
+<h2>Feedback for this release</h2>
+
+<p>
+We need your help to find bugs and further improve the installer, so please
+try it. Installer CDs, other media and everything else you will need are
+available at our <a href="$(DEVEL)/debian-installer">web site</a>.
+</p>
+
+
+<h2>Thanks</h2>
+
+<p>
+The Debian Installer team thanks everybody who has contributed to this
+release.
+</p>
