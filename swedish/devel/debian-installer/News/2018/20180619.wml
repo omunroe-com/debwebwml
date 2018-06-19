@@ -1,0 +1,236 @@
+#use wml::debian::translation-check translation="2b3622e819bf7ac7d34af220efad8c7b99fecfe4"
+<define-tag pagetitle>Alpha 3 av utgåvan av Debian Buster-installeraren</define-tag>
+<define-tag release_date>2018-06-19</define-tag>
+#use wml::debian::news
+
+<p>
+Debian Installer-<a
+href="https://wiki.debian.org/DebianInstaller/Team">gruppen</a> tillkännager
+stolt den tredje alfa-utgåvan av installeraren för Debian 10
+<q>Buster</q>.
+</p>
+
+
+<h2>Förbättringar i denna utgåva</h2>
+
+<ul>
+  <li>apt-setup:
+    <ul>
+      <li>Om man installerar från en single-desktop single CD-avbildning,
+        kommentera bort från sources.list efter installation som vi gör
+        med netinst-avbildningarna, tillsammans med en förklaring i
+        kommentarerna också.</li>
+    </ul>
+  </li>
+  <li>cryptsetup:
+    <ul>
+      <li>Uppgradera till uppströmsversionen 2.0.0.</li>
+    </ul>
+  </li>
+  <li>debian-installer:
+    <ul>
+      <li>Öka Linux kernel-ABI från 4.13.0-1 till 4.16.0-2.</li>
+      <li>Ersätt c_rehash med openssl rehash (<a href="https://bugs.debian.org/895074">#895074</a>). Detta skall
+        enbart påverka byggen med SSL_CERTS aktiverade; vanligt HTTPS-stöd
+        kommer från ca-certificates ändå.</li>
+      <li>Säkerställ striktare separation från hosts's apt-konfiguration genom
+          att sätta APT_CONFIG under byggprocessen.</li>
+      <li>Justera Acquire::Languages, Apt::Architecture,
+        Apt::Architectures samt inaktivera både apt.conf.d och
+        preferences.d-fragment.</li>
+      <li>Ta bort libnewt0.52 från Build-Depends, biblioteket tillhandahåller
+          numer en udeb.</li>
+      <li>Kör fc-cache när /etc/fonts eller /usr/share/fonts existerar (för gtk-mål),
+          för att undvika att behöva generera UUIDs vid körning, vilket kan
+          vara svårt på grund av saknad entropi (<a href="https://bugs.debian.org/898468">#898468</a>).</li>
+    </ul>
+  </li>
+  <li>debian-installer-utils:
+    <ul>
+      <li>Rätta "list-devices partition" att även rapportera logiska
+          LVM-volymer (<a href="https://bugs.debian.org/868848">#868848</a>).</li>
+    </ul>
+  </li>
+  <li>debootstrap:
+    <ul>
+      <li>Lägg till stöd för bookworm.</li>
+      <li>Lägg till stöd för Acquire-By-Hash.</li>
+      <li>För många andra förbättringar för att lista här.</li>
+    </ul>
+  </li>
+  <li>espeakup:
+    <ul>
+      <li>Rätta sökvägen till röst-definitioner, vilket fixar språk-autoväxling
+          i installeraren.</li>
+      <li>Konfigurera debconf-frontändan till readline på det installerade
+         systemet för bättre åtkomst.</li>
+      <li>Förbättra console/X11 VT-växlingar.</li>
+    </ul>
+  </li>
+  <li>flash-kernel:
+    <ul>
+      <li>Rätta problem i handle_dtb (<a href="https://bugs.debian.org/870430">#870430</a>).</li>
+      <li>Lägg till alternativ för att tillåta "any" i Kernel-Flavors (<a href="https://bugs.debian.org/883547">#883547</a>).</li>
+      <li>Var när ubootenv.d-snippet kommer att ignoreras (<a href="https://bugs.debian.org/884376">#884376</a>).</li>
+      <li>Justera sunxi bootskript för att föredra prefixvariabler om definierat.</li>
+      <li>Lägg till stöd för relativa sökvägare för DTB-Id (<a href="https://bugs.debian.org/860304">#860304</a>).</li>
+      <li>Lägg till kompatibilitetsymlänk till dtb i vendor-undermappen.</li>
+      <li>Lägg till stöd för root-enheter specificerade i PARTLABEL.</li>
+      <li>Tillhandahåll en hook för att starta EFI-applikation (<a href="https://bugs.debian.org/873390">#873390</a>).</li>
+      <li>Rätta när inga Kernel-Flavors är definierade (<a href="https://bugs.debian.org/887803">#887803</a>).</li>
+      <li>Lägg till stöd för Boot-Kernel-Path-Version,
+        Boot-Initrd-Path-Version, och Boot-DTB-Path-Version</li>
+    </ul>
+  </li>
+  <li>iso-scan:
+    <ul>
+	  <li>Detektera logiska LVM-volymer så att dom kan användas för att
+	      hitta ISO-avbildningen som eftersöks (<a href="https://bugs.debian.org/868859">#868859</a>).</li>
+	  <li>Kopiera ISO-avbildningen till RAM före montering av den när
+	      debconf-frågan iso-scan/copy_iso_to_ram är sann. Detta gör
+		  att det blir möjligt att använda disken som tillhandahåller
+		  ISO-avbildningen för automatisk partitionering.
+		  (<a href="https://bugs.debian.org/868900">#868900</a>).</li>
+    </ul>
+  </li>
+  <li>localechooser:
+    <ul>
+      <li>Använd filnamnet iso_3166-1.mo istället för kompatibilitetsymlänken
+          (<a href="https://bugs.debian.org/889963">#889963</a>).</li>
+      <li>languagelist: Aktivera Georgiska och Lao i bterm.</li>
+      <li>Aktivera alla språk vid användning av speakup_soft, som
+          även stöder alla UTF-8-språk.</li>
+      <li>Aktivera alla språk vid användning av speakup_dummy, som
+          även stöder alla UTF-8-språk.</li>
+    </ul>
+  </li>
+  <li>mdadm:
+    <ul>
+      <li>Använd samma udev-regler i installeraren och i det
+          installerade systemet.</li>
+    </ul>
+  </li>
+  <li>partman-lvm:
+    <ul>
+      <li>Gör att device_remove_lvm() detekterar fel, så att den avbryts
+      tidigt om något går snett.</li>
+    </ul>
+  </li>
+  <li>ppp:
+    <ul>
+      <li>Använd /bin/ip istället för /sbin/ifconfig i interfaces
+          konfigurationen för det installerade systemet (<a href="https://bugs.debian.org/889295">#889295</a>).</li>
+      <li>Ta hänsyn till gränssnittsnamn som använder udev förutsägbara
+      gränssnittsnamn (<a href="https://bugs.debian.org/873391">#873391</a>).</li>
+    </ul>
+  </li>
+  <li>rescue:
+    <ul>
+      <li>Säkerställ att inte flera fält ges i listan för möjliga enheter
+          för root-partitionen.</li>
+    </ul>
+  </li>
+  <li>util-linux:
+    <ul>
+      <li>Skeppa fallocate i util-linux-udeb (<a href="https://bugs.debian.org/882001">#882001</a>).</li>
+    </ul>
+  </li>
+  <li>wide-dhcpv6:
+    <ul>
+      <li>Bygg mot statiskt flex-bibliotek för att undvika ett körtidsberoende
+        på libfl2 (<a href="https://bugs.debian.org/893988">#893988</a>).</li>
+    </ul>
+  </li>
+</ul>
+
+
+<h2>Ändringar i hårdvarustöd</h2>
+
+<ul>
+  <li>debian-installer:
+    <ul>
+      <li>armhf: Tillagt stöd för Cubietruck_plus.</li>
+      <li>armhf: Aktiverat grub-efi mini.iso (netboot).</li>
+      <li>arm64: Generera u-boot-media för pine64_plus.</li>
+      <li>Tillagt stöd för NanoPiNeo.</li>
+    </ul>
+  </li>
+  <li>flash-kernel:
+    <ul>
+      <li>Tillagt stöd för installation av 32bitars kärnor på Raspberry Pi
+        3 (<a href="https://bugs.debian.org/886225">#886225</a>).</li>
+      <li>Gör att ubootenv.d fungerar på Wandboard (<a href="https://bugs.debian.org/884375">#884375</a>).</li>
+      <li>Gör att ubootenv.d fungerar på CuBox-i.</li>
+      <li>Tillagt stöd för SolidRun Clearfog Boards (<a href="https://bugs.debian.org/839595">#839595</a>).</li>
+      <li>Tillagt stöd för SolidRun CuBox (dove) (<a href="https://bugs.debian.org/876773">#876773</a>).</li>
+      <li>Rätta felstavningar i imx-base boot script.</li>
+    </ul>
+  </li>
+  <li>linux:
+    <ul>
+      <li>armel: Justera innehåll i lzo-modules och mtd-modules och några
+        reverse-beroenden.</li>
+      <li>Lägg till beroende från nic-modules till zlib-modules.</li>
+      <li>armhf: Lägg till i2c-exynos5 till i2c-modules (<a href="https://bugs.debian.org/895976">#895976</a>).</li>
+      <li>Flytta arc4 och ecb från nic-wireless-modules till
+        crypto-modules (<a href="https://bugs.debian.org/895362">#895362</a>).</li>
+      <li>Lägg till algif_skcipher till crypto-modules (<a href="https://bugs.debian.org/896968">#896968</a>).</li>
+      <li>Byt namn på lzo-modules till compress-modules</li>
+      <li>Lägg till zstd_decompress till compress-modules och göra att
+        squashfs-modules beror på den.</li>
+      <li>amd64: Lägg till vmd till scsi-modules, vilket krävs för NVMe på vissa
+        system (<a href="https://bugs.debian.org/891482">#891482</a>).</li>
+      <li>Uppdatera mönster för PHY-moduler som inkluderas i usb-modules
+        (<a href="https://bugs.debian.org/893154">#893154</a>).</li>
+      <li>Aktivera NVME_MULTIPATH, NVME_FC, NVME_TARGET_FC, flytta nvme-modulen
+        till scsi-modules installer udeb.</li>
+      <li>arm64: lägg till multifunktionsenheter.</li>
+      <li>arm64: lägg till mvebu comphy för armada 8K.</li>
+      <li>armel: Ta bort fbcon från paketet fb-modules.</li>
+    </ul>
+  </li>
+  <li>parted:
+    <ul>
+      <li>Förbättra detektering av Apple-system (<a href="https://bugs.debian.org/890587">#890587</a>).</li>
+      <li>Förhindra krasch vid storleksändring av FAT med väldigt djupa mappar
+        (<a href="https://bugs.debian.org/840709">#840709</a>).</li>
+      <li>Rätta igenkännande av FAT-filsystem efter storleksändring
+        (<a href="https://bugs.debian.org/840710">#840710</a>).</li>
+      <li>Tillagt stöd för NVMe-enheter (<a href="https://bugs.debian.org/886960">#886960</a>).</li>
+      <li>Uppdaterad DASD-hantering (<a href="https://bugs.debian.org/887016">#887016</a>).</li>
+    </ul>
+  </li>
+</ul>
+
+
+<h2>Lokaliseringsstatus</h2>
+
+<ul>
+  <li>75 språk stöds i denna utgåva.</li>
+  <li>Fullständig översättning för 9 av dessa.</li>
+</ul>
+
+
+<h2>Kända problem i denna utgåva</h2>
+
+<p>
+Se <a href="$(DEVEL)/debian-installer/errata">errata</a> för detaljer och
+en fullständig lista på kända problem.
+</p>
+
+
+<h2>Feedback för denna utgåva</h2>
+
+<p>
+Vi behöver din hjälp för att hitta fel och fortsatt förbättring av
+installeraren, så var vänlig och testa den. Installations-CDs, annan media
+och allt annat du kan tänkas behöva finns på vår
+<a href="$(DEVEL)/debian-installer">webbplats</a>.
+</p>
+
+
+<h2>Tack</h2>
+
+<p>
+Debian Installer-gruppen tackar alla som har bidragit till denna utgåva.
+</p>
