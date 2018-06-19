@@ -1,22 +1,22 @@
 #use wml::debian::template title="Les pages Debian en allemand" NOHEADER="yes"
 #include "$(ENGLISHDIR)/../german/international/German/credits.tags"
 
-#use wml::debian::translation-check translation="9fd892e7f6e978e15e986f2f57dfad53887a79bf" maintainer="Christian Couder"
+#use wml::debian::translation-check translation="c0816ff3dae7deb1cd48fb2f83fa934f5e5f3559" maintainer="Christian Couder"
 
 <h3>Traduire www.debian.org</h3>
 
 <p>Un grand nombre de personnes ont aidé à traduire www.debian.org en
-allemand.  C'est une tâche importante et longue.  Cependant, une fois
-que la traduction en allemand sera à jour ce sera beaucoup plus facile
+allemand. C'est une tâche importante et longue. Cependant, une fois
+que la traduction en allemand sera à jour, ce sera beaucoup plus facile
 car seules quelques pages devront être resynchronisées lorsque
 quelqu'un éditera l'original en anglais.
 
 <h3>Remerciements</h3>
 
-<p>Beaucoup de gens ont aidé à ces traductions.  Cependant, comme
-c'est une tâche très longue le groupe semble probablement plus grand
-qu'il n'est en réalité.  Beaucoup de gens n'ont maintenant plus le
-temps de travailler sur les traductions.  Les listes de personnes sont
+<p>Beaucoup de gens ont aidé à ces traductions. Cependant, comme
+c'est une tâche très longue, le groupe semble probablement plus grand
+qu'il n'est en réalité. Beaucoup de gens n'ont maintenant plus le
+temps de travailler sur les traductions. Les listes de personnes sont
 triées alphabétiquement.
 
 <p><b>Effort de traduction actuel</b> :</p>
