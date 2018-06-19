@@ -1,6 +1,6 @@
 #use wml::debian::template title="Errata pour l'installateur Debian"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="c75cafbee4a0fdc9c9a699b41b22f3e35a529b64" maintainer="Baptiste Jammet" mindelta="1" maxdelta="1"
+#use wml::debian::translation-check translation="7e4db2f1f4f0d56a40da3851090a0baad53a2acb" maintainer="Baptiste Jammet" mindelta="1" maxdelta="1"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
 # Translators:
@@ -48,6 +48,10 @@ davantage de paquets sur le premier CD.
 
 <dd>Il n'y a pas encore de thème graphique pour Buster et l'installateur
 utilise toujours celui de Stretch.
+<br />
+<b>État :</b>
+L'<a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00003.html">appel
+à propositions pour le thème de Buster</a> a été publié le 15 juin 2018.
 </dd>
 
 <!-- Les choses devraient être mieux à partir de Jessie Beta 2...
