@@ -1,0 +1,23 @@
+#use wml::debian::translation-check translation="cc1049d2a8e80457c2710554b875b19b503a72e0" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Denna uppdatering tillhandahåller lindringar för <q>lazy FPU</q>-sårbarheten
+som påverkar en rad av Intel-CPUer, vilket kunde resultera i läckage av
+CPU-registerlägen som tillhör en annan vCPU som tidigare schemalagts på
+samma CPU. För ytterligare information, var vänlig se
+<a href="https://xenbits.xen.org/xsa/advisory-267.html">\
+https://xenbits.xen.org/xsa/advisory-267.html</a></p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 4.8.3+xsa267+shim4.10.1+xsa267-1+deb9u8.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era xen-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om xen vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/xen">\
+https://security-tracker.debian.org/tracker/xen</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4232.data"
