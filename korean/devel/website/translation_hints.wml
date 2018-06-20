@@ -95,9 +95,9 @@ Language-speaking visitors.
 <p>If you know of information that would be useful to all users,
 bring it up on debian-www.
 
-<h2>언제 파일이 업데이트 되야 하는지 번역자는 어떻게 알까?</h2>
+<h2>언제 파일이 업데이트 되야 하는지 번역자는 어떻게 아나요?</h2>
 
-<P>There is a mechanism that translators can use to <a href="uptodate">
+<p>There is a mechanism that translators can use to <a href="uptodate">
 keeping web site translations up-to-date</a>.
 
 <h2>How do we keep the gettext template translations up to date?</h2>
@@ -122,8 +122,7 @@ translations which are outdated.
 
 <h2>번역 때 주의할 것</h2>
 
-<p>The following is a list of pages and directories that may require special
-attention when translating:
+<p>아래는 번역할 때 특별한 주의를 요하는 페이지와 디렉토리 목록입니다:
 
 <dl>
 <dt><tt>News/</tt>
