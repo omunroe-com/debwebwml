@@ -36,10 +36,9 @@ developed for the next Debian release and will install Debian testing
 <if-stable-release release="stretch">
 <p>
 
-<strong>To install Debian testing</strong>, we recommend you use
-the <strong><humanversion /></strong> release of the installer, after checking its
-<a href="errata">errata</a>. The following images are available for
-<humanversion />:
+<strong>데비안 테스팅을 설치하려면</strong>, <a href="errata">정오표</a>를 체크하고, 
+<strong><humanversion /></strong> 릴리스를 쓸 것을 권합니다. 다음 이미지가
+<humanversion />에서 가능합니다:
 <!--
 <strong>To install Debian testing</strong>, we recommend you use
 the <strong>daily builds</strong> of the installer. The following images are available for
