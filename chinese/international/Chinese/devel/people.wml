@@ -1,7 +1,7 @@
 #use tmpl::debian-zh::template area=devel.people title="中文計劃成員 (Debian Chinese Project Participants)"
 
 # $Id$
-# 著者： 黃彥邦 Anthony Wong <ypwong@debian.org> 等
+# 著者： 黃彥邦 Anthony Wong <ypwong@gmail.com> 等
 
 # %0 is Chinese name, %1 is English name, %2 is email
 #  or
@@ -193,7 +193,7 @@ GNU zh_CN.GB2312 翻譯協調，有可能的話會參與軟件測試及包裝，
 Debian-JP 和我們之間的協調
 </entry>
 
-<entry ypwong Anthony Y.P. Wong ypwong@debian.org>
+<entry ypwong Anthony Y.P. Wong ypwong@gmail.com>
 香港的電子計算機學系研究生。Debian 維護員，Debian 網頁中文翻譯協調。
 </entry>
 
