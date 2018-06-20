@@ -1,13 +1,13 @@
 #use wml::debian::template title="Debian-Installer errata"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="c75cafbee4a0fdc9c9a699b41b22f3e35a529b64" mindelta="1" maxdelta="1"
+#use wml::debian::translation-check translation="7e4db2f1f4f0d56a40da3851090a0baad53a2acb" mindelta="1" maxdelta="1"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
 <h1>Kända problem i <humanversion /></h1>
 
 <p>
-Detta är en lista på kända problem i utgåvan <humanversion /> av 
-Debian Installer. Om du inte ser ditt problem i listan här, vänligen sänd in en 
+Detta är en lista på kända problem i utgåvan <humanversion /> av
+Debian Installer. Om du inte ser ditt problem i listan här, vänligen sänd in en
 <a href="$(HOME)/releases/stable/amd64/ch05s04.html#submit-bug">installationsrapport</a>
 som beskriver problemet.
 </p>
@@ -27,7 +27,7 @@ som beskriver problemet.
 	<dd>
 		Tack vare utrymmesbrist på den första CDn, så får inte alla väntade delar
 		av GNOME-skrivbordet plats på CD#1. Använd extra paket-källor (t.ex. en
-		andra CD eller en nätverksspegel) för en framgångsrik installation, 
+		andra CD eller en nätverksspegel) för en framgångsrik installation,
 		<br />
 		<b>Status:</b> Det är osannolikt att fler insatser kommer göras för att få
 		fler paket att få plats på CD#1.
@@ -37,6 +37,11 @@ som beskriver problemet.
 	
 	<dd>Det finns ingen artwork för Buster ännu, och installeraren använder
 	ännu Stretch-temat.
+	<br />
+	<b>Status:</b>
+		<a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00003.html">Uppmaningen
+		att lämna in förslag på Buster-grafik</a> publicerades den
+		2018-06-15.</dd>
 	</dd>
 
 <!-- things should be better starting with Jessie Beta 2...
@@ -54,11 +59,11 @@ som beskriver problemet.
 	</dd>
 -->
 	
-<!-- kind of obsoleted by the first "important change" mentioned in the 20140813 announce..	
+<!-- kind of obsoleted by the first "important change" mentioned in the 20140813 announce..
 	<dt>Tillgänglighet i det installerade systemet</dt>
 	
 	<dd>
-		Även om funktionalitet för tillgänglighet används i under 
+		Även om funktionalitet för tillgänglighet används i under
 		installationsprocessen, så kanske detta inte automatiskt är aktiverat i
 		det installerade systemet.
 	</dd>
