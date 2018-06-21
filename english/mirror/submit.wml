@@ -44,7 +44,7 @@ Mirror name: <input type="text" name="site" size="30"></p>
 Leave non-relevant fields blank.</p>
 
 <table>
-<tablerowdef "Packages archive, over HTTP"   archive-http   30 "/debian" " <small>We strongly recommend <code>/debian</code>.</small>">
+  <tr><td>Packages archive, over HTTP: </td><td><input type="text" name="archive-http" id="archve-http" size="30" value="/debian" readonly="readonly">The archive needs to be available at <code>/debian</code>.</td></tr>
 <tablerowdef "Packages archive, over rsync"  archive-rsync  30 "debian" " <small>If you offer rsync, <code>debian</code> is suggested as module name.</small>">
 # <tablerow "CD/DVD images, over HTTP"      cdimage-http   30>
 # <tablerow "CD/DVD images, over rsync"     cdimage-rsync  30>
