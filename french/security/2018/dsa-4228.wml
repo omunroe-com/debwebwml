@@ -2,8 +2,8 @@
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans SPIP, un système de
-publication pour Internet,avec pour conséquence un script intersite et une
-injection de code PHP.</p>
+publication pour Internet, ayant pour conséquence le scriptage intersite et
+l'injection de code PHP.</p>
 
 <p>Pour la distribution oldstable (Jessie), ce problème a été corrigé dans
 la version 3.0.17-2+deb8u4.</p>
