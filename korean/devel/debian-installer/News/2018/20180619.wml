@@ -6,26 +6,22 @@
 <p>
 데비안 설치관리자 <a
 href="https://wiki.debian.org/DebianInstaller/Team">팀</a>은
-데비안 10을 위한 3번째 알파 릴리스를 알림을 기쁘게 생각합니다.
-
-<q>Buster</q>.
+데비안 10 <q>Buster</q>용 설치관리자의 3번째 알파 릴리스를 알림을 기쁘게 생각합니다.
 </p>
 
 
-<h2>이번 릴리스 개선</h2>
+<h2>이 릴리스 개선</h2>
 
 <ul>
   <li>apt-setup:
     <ul>
-      <li>If installing from a single-desktop single CD image, comment
-        it out from sources.list after installation like we do with
-        the netinst images, along with an explanation in comment as
-        well.</li>
+      <li>단일 데스크톱 단일CD에서 설치하면, netinst 이미지에서처럼 설명과 함께, 설치 후에 sources.list 에서 주석처리.
+      </li>
     </ul>
   </li>
   <li>cryptsetup:
     <ul>
-      <li>Upgrade to upstream version 2.0.0.</li>
+      <li>업스트림 버전 2.0.0 으로 업그레이드.</li>
     </ul>
   </li>
   <li>debian-installer:
@@ -48,7 +44,7 @@ href="https://wiki.debian.org/DebianInstaller/Team">팀</a>은
   </li>
   <li>debian-installer-utils:
     <ul>
-      <li>"list-devices partition"을 고쳐서LVM 논리 볼륨을 보고
+      <li>"list-devices partition"을 고쳐서 LVM 논리 볼륨을 보고
 (<a href="https://bugs.debian.org/868848">#868848</a>).</li>
     </ul>
   </li>
@@ -216,7 +212,7 @@ href="https://wiki.debian.org/DebianInstaller/Team">팀</a>은
 <h2>이 릴리스의 알려진 이슈</h2>
 
 <p>
-자세한 것 그리고 알려진 이슈의 전체 목록을 <a href="$(DEVEL)/debian-installer/errata">정오표</a>를 보세요.
+자세한 것 그리고 알려진 이슈의 전체 목록은 <a href="$(DEVEL)/debian-installer/errata">정오표</a>를 보세요.
 </p>
 
 
