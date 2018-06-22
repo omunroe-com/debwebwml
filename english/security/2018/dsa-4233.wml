@@ -1,0 +1,20 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>It was discovered that the low-level interface to the RSA key pair
+generator of Bouncy Castle (a Java implementation of cryptographic
+algorithms) could perform less Miller-Rabin primality tests than
+expected.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 1.56-1+deb9u2.</p>
+
+<p>We recommend that you upgrade your bouncycastle packages.</p>
+
+<p>For the detailed security status of bouncycastle please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/bouncycastle">https://security-tracker.debian.org/tracker/bouncycastle</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4233.data"
+# $Id: $
