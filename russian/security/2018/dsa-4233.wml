@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="b9827adb0326c7851cde425fbd57f83c86975cdb" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Было обнаружено, что низкоуровневый интерфейс к генератору пары ключей
+RSA из состава Bouncy Castle (Java-реализации криптографических
+алгоритмов) может выполнять меньше тестов на простоту Миллера-Рабина, чем
+это ожидается.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 1.56-1+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты bouncycastle.</p>
+
+<p>С подробным статусом поддержки безопасности bouncycastle можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/bouncycastle">\
+https://security-tracker.debian.org/tracker/bouncycastle</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4233.data"
