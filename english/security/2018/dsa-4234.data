@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4234-1 lava-server</define-tag>
+<define-tag report_date>2018-6-22</define-tag>
+<define-tag secrefs>CVE-2018-12564 CVE-2018-12565</define-tag>
+<define-tag packages>lava-server</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
