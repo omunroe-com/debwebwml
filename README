@@ -6,3 +6,21 @@
     If you are interested in working on the Debian web pages, please see:
 
                     https://www.debian.org/devel/website/
+
+Build requirements
+------------------
+
+There are a range of tools needed to build even the basic bits of the
+website, and then some extra/optional packages that you'll need for
+some of the translations. Here's a (probably incomplete!) list...
+
+Basics:
+
+ * git             (you probably have this already if you're reading this!)
+ * wget            (the build will use wget to grab some files as it runs)
+ * wml             (the templating engine we use)
+ * libxml-rss-perl (for building Debian Weekly News RDF files)
+
+Translations:
+
+ * opencc          (Chinese translation conversions)
