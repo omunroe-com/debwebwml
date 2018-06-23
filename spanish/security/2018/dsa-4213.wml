@@ -1,0 +1,81 @@
+#use wml::debian::translation-check translation="72e985dfa9b7a9be1fca49944d2bccd5d39a088c"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se descubrieron varias vulnerabilidades en qemu, un emulador de
+procesadores rápido.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15038">CVE-2017-15038</a>
+
+    <p>Tuomas Tynkkynen descubrió una fuga de información en 9pfs.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15119">CVE-2017-15119</a>
+
+    <p>Eric Blake descubrió que el servidor NBD no restringe lo suficiente
+    las peticiones de opciones largas, dando lugar a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15124">CVE-2017-15124</a>
+
+    <p>Daniel Berrange descubrió que el servidor VNC integrado
+    no restringe lo suficiente la asignación de memoria, lo que podría dar lugar a
+    denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15268">CVE-2017-15268</a>
+
+    <p>Una fuga de memoria en el soporte de websockets puede dar lugar a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15289">CVE-2017-15289</a>
+
+    <p>Guoxiang Niu descubrió una escritura fuera de límites en el adaptador gráfico Cirrus
+    emulado que podría dar lugar a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-16845">CVE-2017-16845</a>
+
+    <p>Cyrille Chatras descubrió una fuga de información en la emulación de ratón
+    y teclado PS/2 que podría ser explotada durante la migración de
+    instancias.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-17381">CVE-2017-17381</a>
+
+    <p>Dengzhan Heyuandong Bijunhua y Liweichao descubrieron que un
+    error de implementación en la implementación de virtio vring podría dar lugar
+    a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-18043">CVE-2017-18043</a>
+
+    <p>Eric Blake descubrió un desbordamiento de entero en una macro de uso
+    interno que podría dar lugar a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5683">CVE-2018-5683</a>
+
+    <p>Jiang Xin y Lin ZheCheng descubrieron un acceso a memoria fuera de límites en el
+    adaptador VGA emulado que podría dar lugar a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7550">CVE-2018-7550</a>
+
+    <p>Cyrille Chatras descubrió que una escritura en memoria fuera de límites al utilizar
+    multiarranque podría dar lugar a ejecución de código arbitrario.</p></li>
+
+</ul>
+
+<p>Esta actualización incluye también adaptaciones de varias mitigaciones de la vulnerabilidad
+Spectre v2, que afecta a las CPU modernas
+(<a href="https://security-tracker.debian.org/tracker/CVE-2017-5715">\
+CVE-2017-5715</a>). Para más información consulte
+<a href="https://www.qemu.org/2018/01/04/spectre/">\
+https://www.qemu.org/2018/01/04/spectre/</a>.</p>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 1:2.8+dfsg-6+deb9u4.</p>
+
+<p>Le recomendamos que actualice los paquetes de qemu.</p>
+
+<p>Para información detallada sobre el estado de seguridad de qemu consulte
+su página del «security tracker» en:
+<a href="https://security-tracker.debian.org/tracker/qemu">\
+https://security-tracker.debian.org/tracker/qemu</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4213.data"
