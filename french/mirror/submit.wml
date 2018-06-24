@@ -1,5 +1,5 @@
 #use wml::debian::template title="Entrer des informations concernant un miroir"
-#use wml::debian::translation-check translation="71fcd13c2f4a67e7c67a1d95e58021a7df5be462" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="3996405f06412ebcfaddf6753d0c6e38ca37741f" maintainer="Jean-Paul Guillonneau"
 #include "$(ENGLISHDIR)/mirror/submit.inc"
 
 #traducteurs :voir journal
@@ -55,8 +55,8 @@ champs ci-dessous. Laissez en blanc les champs qui ne vous concernent
 pas.</p>
 
 <table>
-<tablerowdef "Archive des paquets, accès par HTTP "   archive-http   30 "/debian" " <small>Nous recommendons fortement <code>/debian</code>.</small>">
-<tablerowdef "Archive des paquets, accès par FTP "    archive-ftp    30 "debian" " <small>Si vous proposez rsync, <code>debian</code> est suggéré comme nom de module.</small>">
+  <tr><td>Archive des paquets, accès par HTTP : </td><td><input type="text" name="archive-http" id="archve-http" size="30" value="/debian" readonly="readonly">L’archive doit être accessible à <code>/debian</code>.</td></tr>
+<tablerowdef "Archive des paquets, accès par rsync"  archive-rsync  30 "debian" " <small>Si vous proposez rsync, <code>debian</code> est suggéré comme nom de module.</small>">
 #<tablerow "Images de CD/DVD, accès par HTTP "	  cdimage-http   30>
 #<tablerow "Images de CD/DVD, accès par rsync "	  cdimage-rsync  30>
 #<tablerow "Anciennes versions de Debian, accès par HTTP "     old-http      30>
