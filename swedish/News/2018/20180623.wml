@@ -66,8 +66,8 @@ En utförlig lista på speglingar finns på:</p>
 
 <h2>Blandade felrättningar</h2>
 
-<p>This oldstable update adds a few important corrections to the
-following paket:</p>
+<p>Denna uppdatering av den gamla stabila utgåvan lägg till några viktiga
+rättningar till följande paket:</p>
 <table border=0>
 <tr><th>Paket</th>               <th>Orsak</th></tr>
 <correction adminer                          "Don't allow connections to privileged ports [CVE-2018-7667]">
