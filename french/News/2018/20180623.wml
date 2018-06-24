@@ -43,7 +43,7 @@ détails sur le sous-ensemble d'architectures et de paquets couvert par le proje
 
 <p>Les paquets pour certaines architectures pour DSA 3746, DSA 3944, DSA 3968,
 DSA 4010, DSA 4014, DSA 4061, DSA 4075, DSA 4102, DSA 4155, DSA 4209 et DSA 4218
-ne sont pas inclus dans cette version pour des raisons techniques Toutes les
+ne sont pas inclus dans cette version pour des raisons techniques. Toutes les
 autres mises à jour de sécurité publiées pendant la durée de vie de « Jessie »
 qui n'avaient pas déjà été intégrées à une version intermédiaire sont incluses
 dans cette mise à jour.</p>
@@ -86,7 +86,7 @@ paquets suivants :</p>
 <correction adminer                          "Interdiction des connexions à des ports privilégiés [CVE-2018-7667]">
 <correction base-files                       "Mise à jour pour cette version">
 <correction blktrace                         "Correction de dépassement de tampon dans btt [CVE-2018-10689]">
-<correction bwm-ng                           "Construction explicite sans prise en charge de libstatgrab">
+<correction bwm-ng                           "Construction explicitement sans prise en charge de libstatgrab">
 <correction clamav                           "Mise à jour de sécurité [CVE-2017-6418 CVE-2017-6420 CVE-2017-12374 CVE-2017-12375 CVE-2017-12376 CVE-2017-12377 CVE-2017-12378 CVE-2017-12379 CVE-2017-12380] ; correction d'un problème de nettoyage de fichier temporaire ; nouvelle publication amont ; nouvelle version amont">
 <correction debian-installer                 "Reconstruction pour cette version">
 <correction debian-installer-netboot-images  "Reconstruction pour cette version">
@@ -114,7 +114,7 @@ paquets suivants :</p>
 <correction python-mimeparse                 "Correction des dépendances à python3-mimeparse">
 <correction rar                              "Retrait de la version de rar liée de façon statique et installation à la place de la version liée dynamiquement">
 <correction reportbug                        "Arrêt de la mise en copie de messages à secure-testing-team@lists.alioth.debian.org">
-<correction sam2p                            "Correction de nombreuses libérations de mémoire non valable et de vulnérabilités de dépassement de tampon [CVE-2018-7487 CVE-2018-7551 CVE-2018-7552 CVE-2018-7553 CVE-2018-7554]">
+<correction sam2p                            "Correction de nombreuses libérations de mémoire non valables et de vulnérabilités de dépassement de tampon [CVE-2018-7487 CVE-2018-7551 CVE-2018-7552 CVE-2018-7553 CVE-2018-7554]">
 <correction slurm-llnl                       "Correction d'un problème de mise à niveau à partir de Wheezy">
 <correction soundtouch                       "Corrections de sécurité [CVE-2017-9258 CVE-2017-9259 CVE-2017-9260]">
 <correction subversion                       "Correction de plantages avec les liaisons Perl, fréquemment observés lors de l'utilisation de git-svn">
