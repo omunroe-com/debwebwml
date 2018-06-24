@@ -2,12 +2,12 @@
 # Copyright (C) 2011 Software in the Public Interest, Inc.
 #
 # David Prévot <david@tilapin.org>, 2011, 2012.
-# Jean-Paul Guillonneau <guillonneau.jeanpaul@free.fichier>, 2017.
+# Jean-Paul Guillonneau <guillonneau.jeanpaul@free.fichier>, 2017-18.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2017-05-11 07:16+0200\n"
-"Last-Translator: David Prévot <david@tilapin.org>\n"
+"PO-Revision-Date: 2018-06-24 08:58+0200\n"
+"Last-Translator: Jean-Paul Guillonneau <guillonneau.jeanpaul@free.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -69,15 +69,14 @@ msgid "Colored diff"
 msgstr "Différentiel coloré"
 
 #: ../../stattrans.pl:524 ../../stattrans.pl:683
-#, fuzzy
 #| msgid "Colored diff"
 msgid "Commit diff"
-msgstr "Différentiel coloré"
+msgstr "Différentiel de commit"
 
 #. FIXME - this is clearly wrong, but no idea what's meant to go here!
 #: ../../stattrans.pl:528 ../../stattrans.pl:683
 msgid "Git command line"
-msgstr ""
+msgstr "Ligne de commande de Git"
 
 #: ../../stattrans.pl:639 ../../stattrans.pl:785
 msgid "Created with <transstatslink>"
