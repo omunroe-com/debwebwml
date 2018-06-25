@@ -86,12 +86,6 @@
     The GTK+ frontend needs you.
   </li>
   <li>
-    Help <a href="https://alioth.debian.org/projects/pkg-gnome">pkg-gnome</a>,
-    <a href="https://alioth.debian.org/projects/pkg-kde">pkg-kde</a> or
-    <a href="https://alioth.debian.org/projects/pkg-xfce">pkg-xfce</a> group. 
-    You can help with packaging, bug triaging, documentation, tests and more.
-  </li>
-  <li>
     Teach users how to install and use the Debian desktop tasks we have now
     (desktop, gnome-desktop and kde-desktop).
   </li>
