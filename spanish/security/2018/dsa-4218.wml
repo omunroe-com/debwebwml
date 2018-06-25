@@ -1,0 +1,50 @@
+#use wml::debian::translation-check translation="4ebfdd503e9e85f67ec7fcf9034b307c4969a337"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se descubrieron varias vulnerabilidades en memcached, un sistema de almacenamiento temporal («caching»)
+de objetos de memoria de alto rendimiento. El proyecto «Vulnerabilidades y exposiciones comunes» («Common Vulnerabilities and
+Exposures») identifica los problemas siguientes:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-9951">CVE-2017-9951</a>
+
+    <p>Daniel Shapira informó de una lectura fuera de límites de memoria dinámica («heap») en memcached
+    (debida a una corrección incompleta de <a href="https://security-tracker.debian.org/tracker/CVE-2016-8705">CVE-2016-8705</a>) desencadenada por
+    solicitudes de adición/establecimiento de una clave, manipuladas de una forma determinada. Esto permite que un atacante
+    remoto provoque denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-1000115">CVE-2018-1000115</a>
+
+    <p>Se informó de que memcached escucha a UDP por omisión. Un atacante
+    remoto puede aprovecharlo para usar el servicio memcached como
+    amplificador de denegación de servicio distribuido (DDoS, por sus siglas en inglés).</p>
+
+    <p>A las instalaciones por omisión de memcached en Debian no les afecta
+    este problema ya que con la configuración por omisión solo se escucha a localhost.
+    Esta actualización inhabilita, por omisión, el puerto UDP. La escucha en UDP
+    se puede habilitar de nuevo en /etc/memcached.conf (cf.
+    /usr/share/doc/memcached/NEWS.Debian.gz).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-1000127">CVE-2018-1000127</a>
+
+    <p>Se informó de un desbordamiento de entero en memcached, que da lugar a fuga de
+    recursos, corrupción de datos, interbloqueos o caídas.</p></li>
+
+</ul>
+
+<p>Para la distribución «antigua estable» (jessie), estos problemas se han corregido
+en la versión 1.4.21-1.1+deb8u2.</p>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 1.4.33-1+deb9u1.</p>
+
+<p>Le recomendamos que actualice los paquetes de memcached.</p>
+
+<p>Para información detallada sobre el estado de seguridad de memcached consulte su
+página del «security tracker» en:
+<a href="https://security-tracker.debian.org/tracker/memcached">https://security-tracker.debian.org/tracker/memcached</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4218.data"
