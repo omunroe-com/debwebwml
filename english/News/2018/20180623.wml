@@ -82,7 +82,7 @@ following packages:</p>
 <correction dns-root-data                    "Update IANA DNSSEC files to 2017-02-02 versions">
 <correction faad2                            "Fix several DoS issues via crafted MP4 files [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
 <correction file                             "Avoid reading past the end of a buffer [CVE-2018-10360]">
-<correction ghostscript                      "Fix segfault with fuzzing file in gxht_thresh_image_init[); fix buffer overflow in fill_threshold_buffer [CVE-2016-10317]; pdfwrite - Guard against trying to output an infinite number [CVE-2018-10194]">
+<correction ghostscript                      "Fix segfault with fuzzing file in gxht_thresh_image_init; fix buffer overflow in fill_threshold_buffer [CVE-2016-10317]; pdfwrite - Guard against trying to output an infinite number [CVE-2018-10194]">
 <correction intel-microcode                  "Update included microcode, including fixes for Spectre v2 [CVE-2017-5715]">
 <correction lame                             "Fix security issues by switching to use I/O routines from sndfile [CVE-2017-15018 CVE-2017-15045 CVE-2017-15046 CVE-2017-9869 CVE-2017-9870 CVE-2017-9871 CVE-2017-9872]">
 <correction libdatetime-timezone-perl        "Update included data">
