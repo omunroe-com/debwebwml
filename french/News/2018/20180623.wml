@@ -36,7 +36,7 @@ référencées dans ce document.
 <p>Après cette version intermédiaire, les équipes de sécurité et de publication
 de Debian ne produiront plus de mises à jour pour Debian 8. Les utilisateurs qui
 souhaitent continuer à bénéficier du suivi de sécurité devraient mettre à niveau
-vers Debian 9, ou voir <url "https://wiki.debian.org/LTS"> pour avoir des
+vers Debian 9, ou consulter <url "https://wiki.debian.org/LTS"> pour avoir des
 détails sur le sous-ensemble d'architectures et de paquets couvert par le projet
 « Long Term Support ».
 </p>
