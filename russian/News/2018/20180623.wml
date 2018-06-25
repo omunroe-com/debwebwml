@@ -99,7 +99,7 @@ DSA 4014, DSA 4061, DSA 4075, DSA 4102, DSA 4155, DSA 4209 и DSA 4218 не вк
 <correction postgresql-9.4                   "Новая версия основной ветки разработки">
 <correction psensor                          "Исправление обхода каталога [CVE-2014-10073]">
 <correction python-mimeparse                 "Исправление зависимостей python3-mimeparse">
-<correction rar                              "Удаление статически скомпанованного rar и установка вместо него динамически скомпанованной версии">
+<correction rar                              "Удаление статически скомпонованного rar и установка вместо него динамически скомпонованной версии">
 <correction reportbug                        "Прекращение отправки копий по адресу secure-testing-team@lists.alioth.debian.org">
 <correction sam2p                            "Исправление многочисленные неправильных освобождений памяти и переполнений буфера [CVE-2018-7487 CVE-2018-7551 CVE-2018-7552 CVE-2018-7553 CVE-2018-7554]">
 <correction slurm-llnl                       "Исправление проблем обновления с выпуска wheezy">
