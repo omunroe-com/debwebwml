@@ -2,7 +2,7 @@
 <define-tag release_date>2018-06-23</define-tag>
 #use wml::debian::news
 # $Id:
-#use wml::debian::translation-check translation="380b8f15da8cbc5f45d54be0ab7094a0afca72af" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="9ff6f638fa2715b59313571379c95937e7710d29" maintainer="Erik Pfannenstein"
 
 <define-tag release>8</define-tag>
 <define-tag codename>Jessie</define-tag>
@@ -97,7 +97,7 @@ Korrekturen vor:</p>
 <correction dns-root-data                    "IANA-DNSSEC-Dateien auf Version vom 02.02.2017 aktualisiert">
 <correction faad2                            "Mehrere DoS-Probleme mit manipulierten MP4-Dateien behoben [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
 <correction file                             "Vermeiden, über das Pufferende hinaus zu lesen [CVE-2018-10360]">
-<correction ghostscript                      "Speicherzugriffsfehler mit Fuzzing-Datei in gxht_thresh_image_init[) behoben; Pufferüberlauf in fill_threshold_buffer [CVE-2016-10317] behoben; pdfwrite – Vor dem versuchten Ausgeben einer unendlichen Zahl schützen [CVE-2018-10194]">
+<correction ghostscript                      "Speicherzugriffsfehler mit Fuzzing-Datei in gxht_thresh_image_init behoben; Pufferüberlauf in fill_threshold_buffer [CVE-2016-10317] behoben; pdfwrite – Vor dem versuchten Ausgeben einer unendlichen Zahl schützen [CVE-2018-10194]">
 <correction intel-microcode                  "Enthaltener Microcode aktualisiert, einschließlich Korrekturen für Spectre v2 [CVE-2017-5715]">
 <correction lame                             "Sicherheitsprobleme beim Umschalten auf die E/A-Routinen von sndfile behoben [CVE-2017-15018 CVE-2017-15045 CVE-2017-15046 CVE-2017-9869 CVE-2017-9870 CVE-2017-9871 CVE-2017-9872]">
 <correction libdatetime-timezone-perl        "Enthaltene Dateien aktualisiert">

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="380b8f15da8cbc5f45d54be0ab7094a0afca72af" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="9ff6f638fa2715b59313571379c95937e7710d29" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de la mise à jour de Debian 8.11</define-tag>
 <define-tag release_date>2018-06-23</define-tag>
 #use wml::debian::news
@@ -95,7 +95,7 @@ paquets suivants :</p>
 <correction dns-root-data                    "Mise à jour des fichiers IANA DNSSEC jusqu'aux versions du 02-02-2017">
 <correction faad2                            "Correction de plusieurs dénis de service au moyen de fichiers MP4 contrefaits [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
 <correction file                             "Lecture au-delà de la fin d'un tampon évitée [CVE-2018-10360]">
-<correction ghostscript                      "Correction d'erreur de segmentation avec un fichier à données aléatoires dans gxht_thresh_image_init[) ; correction de dépassement de tampon dans fill_threshold_buffer [CVE-2016-10317] ; pdfwrite – protection contre les tentatives de sortie d'un nombre infini [CVE-2018-10194]">
+<correction ghostscript                      "Correction d'erreur de segmentation avec un fichier à données aléatoires dans gxht_thresh_image_init ; correction de dépassement de tampon dans fill_threshold_buffer [CVE-2016-10317] ; pdfwrite – protection contre les tentatives de sortie d'un nombre infini [CVE-2018-10194]">
 <correction intel-microcode                  "Mise à jour du microcode inclus, y compris les correctifs pour Spectre v2 [CVE-2017-5715]">
 <correction lame                             "Correction de problèmes de sécurité en basculant vers l'utilisation de routines d'E/S provenant de sndfile [CVE-2017-15018 CVE-2017-15045 CVE-2017-15046 CVE-2017-9869 CVE-2017-9870 CVE-2017-9871 CVE-2017-9872]">
 <correction libdatetime-timezone-perl        "Mise à jour des données incluses">
