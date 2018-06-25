@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: debian webwml templates 0.1\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-03-22 20:56+0100\n"
+"PO-Revision-Date: 2018-06-25 21:01+0100\n"
 "Last-Translator: Baptiste Jammet <baptiste@mailoo.org>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
 "Language: fr\n"
@@ -211,7 +211,6 @@ msgstr "dans la version 2.2"
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
 #: ../../english/template/debian/footer.wml:105
-#, fuzzy
 #| msgid ""
 #| "To report a problem with the web site, e-mail our publicly archived "
 #| "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-"
@@ -231,8 +230,8 @@ msgstr ""
 "français à <a href=\"mailto:debian-l10n-french@lists.debian.org\">debian-"
 "l10n-french@lists.debian.org</a>. Pour obtenir d'autres informations, "
 "référez-vous à la <a href=\"m4_HOME/contact\">page contact</a> de Debian. Le "
-"code source du site est <a href=\"m4_HOME/devel/website/using_cvs"
-"\">disponible</a>."
+"code source du site est <a href=\"https://salsa.debian.org/webmaster-team/webw"
+"ml\">disponible</a>."
 
 #: ../../english/template/debian/footer.wml:108
 msgid "Last Modified"
@@ -528,7 +527,7 @@ msgstr "<em>Note&nbsp;:</em> le document original n'existe plus."
 
 #: ../../english/template/debian/translation-check.wml:56
 msgid "Wrong translation version!"
-msgstr ""
+msgstr "Mauvaise version de traduction"
 
 #: ../../english/template/debian/url.wml:4
 msgid "URL"

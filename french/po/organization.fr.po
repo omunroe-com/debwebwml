@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: debian webwml organisation 0.1\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-03-22 20:56+0100\n"
+"PO-Revision-Date: 2018-06-25 21:00+0100\n"
 "Last-Translator: Baptiste Jammet <baptiste@mailoo.org>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
 "Language: fr\n"
@@ -99,7 +99,7 @@ msgstr "Communication et ouverture"
 #: ../../english/intro/organization.data:57
 #: ../../english/intro/organization.data:235
 msgid "Data Protection team"
-msgstr ""
+msgstr "Équipe de protection des données"
 
 #: ../../english/intro/organization.data:58
 #: ../../english/intro/organization.data:239
