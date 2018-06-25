@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="0788aa9ab387393e2e9236d36df0630ae1c038c6" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="380b8f15da8cbc5f45d54be0ab7094a0afca72af" maintainer="Lev Lamberov"
 <define-tag pagetitle>Обновлённый Debian 8: выпуск 8.11</define-tag>
 <define-tag release_date>2018-06-23</define-tag>
 #use wml::debian::news
@@ -81,7 +81,7 @@ DSA 4014, DSA 4061, DSA 4075, DSA 4102, DSA 4155, DSA 4209 и DSA 4218 не вк
 <correction dh-make-perl                     "Поддержка файла Contents, не имеющего заголовка">
 <correction dns-root-data                    "Обновление файлов IANA DNSSEC до версий 2017-02-02">
 <correction faad2                            "Исправление нескольких отказов в обслуживании, возникающих из-за специально сформированных MP4-файлов [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
-<correction file                             "Исправление чтения за пределами буфера [CVE-2018-10360]]">
+<correction file                             "Исправление чтения за пределами буфера [CVE-2018-10360]">
 <correction ghostscript                      "Исправление ошибки сегментирования при исследовании файла в функции gxht_thresh_image_init[); исправление переполнения буфера в fill_threshold_buffer [CVE-2016-10317]; pdfwrite &mdash; защита от попытки вывести бесконечное число [CVE-2018-10194]">
 <correction intel-microcode                  "Обновление микрокода, включающее исправления для Spectre v2 [CVE-2017-5715]">
 <correction lame                             "Исправление проблем безопасности, возникающих при исользовании функций ввода/вывода из sndfile [CVE-2017-15018 CVE-2017-15045 CVE-2017-15046 CVE-2017-9869 CVE-2017-9870 CVE-2017-9871 CVE-2017-9872]">

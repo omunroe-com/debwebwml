@@ -2,7 +2,7 @@
 <define-tag release_date>2018-06-23</define-tag>
 #use wml::debian::news
 # $Id:
-#use wml::debian::translation-check translation="0788aa9ab387393e2e9236d36df0630ae1c038c6" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="380b8f15da8cbc5f45d54be0ab7094a0afca72af" maintainer="Erik Pfannenstein"
 
 <define-tag release>8</define-tag>
 <define-tag codename>Jessie</define-tag>
@@ -26,40 +26,40 @@
 <define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
 
 <p>
-Das Debian-Projekt freut sich, die elfete (und letzte) Aktualisierung seiner 
-Oldstable-Veröffentlichung Debian <release> (Codename <q><codename></q>) 
-ankündigen zu dürfen. Diese Aktualisierung behebt hauptsächlich 
-Sicherheitslücken der Oldstable-Veröffentlichung sowie einige ernste Probleme. 
-Für sie sind bereits separate Sicherheitsankündigungen veröffentlicht worden, auf 
+Das Debian-Projekt freut sich, die elfete (und letzte) Aktualisierung seiner
+Oldstable-Veröffentlichung Debian <release> (Codename <q><codename></q>)
+ankündigen zu dürfen. Diese Aktualisierung behebt hauptsächlich
+Sicherheitslücken der Oldstable-Veröffentlichung sowie einige ernste Probleme.
+Für sie sind bereits separate Sicherheitsankündigungen veröffentlicht worden, auf
 die, wenn möglich, verwiesen wird.
 </p>
 
 <p>
-In Zukunft werden von Debians Sicherheits- und Veröffentlichungsteams keine 
-Aktualisierungen für Debian 8 mehr veröffentlicht. Wer weiterhin mit 
-Sicherheitsaktualisierungen versorgt werden möchte, sollte auf Debian 9 
-umsteigen oder <url "https://wiki.debian.org/LTS"> lesen, um Details über 
+In Zukunft werden von Debians Sicherheits- und Veröffentlichungsteams keine
+Aktualisierungen für Debian 8 mehr veröffentlicht. Wer weiterhin mit
+Sicherheitsaktualisierungen versorgt werden möchte, sollte auf Debian 9
+umsteigen oder <url "https://wiki.debian.org/LTS"> lesen, um Details über
 die unterstützten Architekturen und Pakete des Long Term Support (Debians
 Langzeitunterstützungs-Projekt) zu erfahren.
 </p>
 
-<p>Aus technischen Gründen sind in dieser Zwischenveröffentlichung für manche 
+<p>Aus technischen Gründen sind in dieser Zwischenveröffentlichung für manche
 Architekturen keine Pakete für DSA 3746, DSA 3944, DSA 3968, DSA 4010,
-DSA 4014, DSA 4061, DSA 4075, DSA 4102, DSA 4155, DSA 4209 und DSA 4218 
-enthalten, dafür aber alle bisherigen Aktualisierungen für <q>Jessie</q>, 
+DSA 4014, DSA 4061, DSA 4075, DSA 4102, DSA 4155, DSA 4209 und DSA 4218
+enthalten, dafür aber alle bisherigen Aktualisierungen für <q>Jessie</q>,
 die es in keine frühere Zwischenveröffentlichung geschafft haben.
 </p>
 
 <p>
-Bitte beachten Sie, dass diese Aktualisierung keine neue Version von 
-Debian <release> darstellt, sondern nur einige der enthaltenen Pakete 
-auffrischt. Es gibt keinen Grund, <codename>-Medien zu entsorgen, da deren 
-Pakete nach der Installation mit Hilfe eines aktuellen Debian-Spiegelservers 
+Bitte beachten Sie, dass diese Aktualisierung keine neue Version von
+Debian <release> darstellt, sondern nur einige der enthaltenen Pakete
+auffrischt. Es gibt keinen Grund, <codename>-Medien zu entsorgen, da deren
+Pakete nach der Installation mit Hilfe eines aktuellen Debian-Spiegelservers
 auf den neuesten Stand gebracht werden können.
 </p>
 
 <p>
-Wer häufig Aktualisierungen von security.debian.org herunterlädt, wird 
+Wer häufig Aktualisierungen von security.debian.org herunterlädt, wird
 nicht viele Pakete auf den neuesten Stand bringen müssen. Die meisten dieser
 Aktualisierungen sind in dieser Revision enthalten.
 </p>
@@ -69,8 +69,8 @@ Neue Installationsabbilder können bald von den gewohnten Orten bezogen werden.
 </p>
 
 <p>
-Vorhandene Installationen können auf diese Revision angehoben werden, indem 
-das Paketverwaltungssystem auf einen der vielen HTTP-Spiegel von Debian 
+Vorhandene Installationen können auf diese Revision angehoben werden, indem
+das Paketverwaltungssystem auf einen der vielen HTTP-Spiegel von Debian
 verwiesen wird. Eine vollständige Liste der Spiegelserver ist verfügbar unter:
 </p>
 
@@ -80,7 +80,7 @@ verwiesen wird. Eine vollständige Liste der Spiegelserver ist verfügbar unter:
 
 <h2>Verschiedene Fehlerkorrekturen</h2>
 
-<p>Diese Oldstable-Veröffentlichung nimmt an den folgenden Paketen einige wichtige 
+<p>Diese Oldstable-Veröffentlichung nimmt an den folgenden Paketen einige wichtige
 Korrekturen vor:</p>
 
 <table border=0>
@@ -96,7 +96,7 @@ Korrekturen vor:</p>
 <correction dh-make-perl                     "Contents-Datei ohne Kopfzeile unterstützen">
 <correction dns-root-data                    "IANA-DNSSEC-Dateien auf Version vom 02.02.2017 aktualisiert">
 <correction faad2                            "Mehrere DoS-Probleme mit manipulierten MP4-Dateien behoben [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
-<correction file                             "Vermeiden, über das Pufferende hinaus zu lesen [CVE-2018-10360]]">
+<correction file                             "Vermeiden, über das Pufferende hinaus zu lesen [CVE-2018-10360]">
 <correction ghostscript                      "Speicherzugriffsfehler mit Fuzzing-Datei in gxht_thresh_image_init[) behoben; Pufferüberlauf in fill_threshold_buffer [CVE-2016-10317] behoben; pdfwrite – Vor dem versuchten Ausgeben einer unendlichen Zahl schützen [CVE-2018-10194]">
 <correction intel-microcode                  "Enthaltener Microcode aktualisiert, einschließlich Korrekturen für Spectre v2 [CVE-2017-5715]">
 <correction lame                             "Sicherheitsprobleme beim Umschalten auf die E/A-Routinen von sndfile behoben [CVE-2017-15018 CVE-2017-15045 CVE-2017-15046 CVE-2017-9869 CVE-2017-9870 CVE-2017-9871 CVE-2017-9872]">
@@ -130,8 +130,8 @@ Korrekturen vor:</p>
 
 <h2>Sicherheitsaktualisierungen</h2>
 
-<p>Diese Revision fügt der Oldstable-Veröffentlichung die folgenden 
-Sicherheitsaktualisierungen hinzu. Das Sicherheits-Team hat bereits für jede 
+<p>Diese Revision fügt der Oldstable-Veröffentlichung die folgenden
+Sicherheitsaktualisierungen hinzu. Das Sicherheits-Team hat bereits für jede
 davon eine Ankündigung veröffentlicht:</p>
 
 <table border=0>
@@ -276,7 +276,7 @@ davon eine Ankündigung veröffentlicht:</p>
 
 <h2>Entfernte Pakete</h2>
 <p>
-Die folgenden Pakete wurden wegen Umständen entfernt, die außerhalb unserer 
+Die folgenden Pakete wurden wegen Umständen entfernt, die außerhalb unserer
 Kontrolle liegen:
 </p>
 
@@ -298,13 +298,13 @@ Kontrolle liegen:
 <h2>Debian-Installer</h2>
 
 <p>
-Der Installer wurde neu gebaut, damit er die Sicherheitskorrekturen enthält, 
+Der Installer wurde neu gebaut, damit er die Sicherheitskorrekturen enthält,
 die durch diese Zwischenveröffentlichung in Oldstable eingeflossen sind.
 </p>
 
 <h2>URLs</h2>
 
-<p>Die vollständigen Listen von Paketen, die sich mit dieser Revision geändert 
+<p>Die vollständigen Listen von Paketen, die sich mit dieser Revision geändert
 haben:</p>
 
 <div class="center">
@@ -323,7 +323,7 @@ haben:</p>
   <url "http://ftp.debian.org/debian/dists/oldstable-proposed-updates">
 </div>
 
-<p>Informationen zur Oldstable-Distribution (Veröffentlichungshinweise, Errata 
+<p>Informationen zur Oldstable-Distribution (Veröffentlichungshinweise, Errata
 usw.):</p>
 
 <div class="center">
@@ -339,14 +339,13 @@ usw.):</p>
 
 <h2>Über Debian</h2>
 
-<p>Das Debian-Projekt ist ein Zusammenschluss von Entwicklern freier Software, 
-die ihre Kraft und Zeit einbringen, um das vollständig freie Betriebssystem 
+<p>Das Debian-Projekt ist ein Zusammenschluss von Entwicklern freier Software,
+die ihre Kraft und Zeit einbringen, um das vollständig freie Betriebssystem
 Debian zu erschaffen.</p>
 
 <h2>Kontaktinformationen</h2>
 
 <p>Für weitere Informationen besuchen Sie bitte die Debian-Webseiten unter
-<a href="$(HOME)/">https://www.debian.org/</a>, schicken eine E-Mail an 
-&lt;press@debian.org&gt;, oder kontaktieren das Stable-Release-Team 
+<a href="$(HOME)/">https://www.debian.org/</a>, schicken eine E-Mail an
+&lt;press@debian.org&gt;, oder kontaktieren das Stable-Release-Team
 auf Englisch über &lt;debian-release@lists.debian.org&gt;.</p>
-
