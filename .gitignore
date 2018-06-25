@@ -11,3 +11,4 @@ english/devel/website/stats/*list
 .git-revs-cache.*
 *.log
 */MailingLists/*subscribe.wml
+*.html.tmp
