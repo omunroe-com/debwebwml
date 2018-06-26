@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ayuda con las Páginas web de Debian" BARETITLE=true
-#use wml::debian::translation-check translation="984995807efa896a687c7f3d0a7df46a506e0d2d" maintainer="Gildardo A. Maravilla Jácome"
+#use wml::debian::translation-check translation="31375fa6f14ef06c96ec4e6e54adf7ff85abe111" maintainer="Laura Arjona Reina"
 
 <h3>Introducción</h3>
 
@@ -8,35 +8,36 @@ Debido al tamaño de Debian y que todos los desarrolladores son
 voluntarios, hemos dividido muchas tareas en piezas más manejables. La
 mayor parte del trabajo necesario para ayudar a mantener el sitio web
 no involucra programar, por lo tanto podemos utilizar los talentos de
-casi cualquier entusiasta de los computadores.
+casi cualquier entusiasta de los computadores.</p>
 
 <p>La gente que ayuda en el sitio web debería, de todas formas,
 <a href="https://lists.debian.org/debian-www/">suscribirse a la
 lista de correo <code>debian-www</code></a>.
 Los coordinadores de traducciones <strong>deben</strong> suscribirse.
-Todas las discusiones que involucran el sitio web tienen lugar ahí.
+Todas las discusiones que involucran el sitio web tienen lugar ahí.</p>
 
 <p>Donde usted vaya desde aquí depende de en qué este interesado:
 
 <ul>
   <li><a href="desc">descripción de cómo está organizado el sitio web</a> 
-  -- <em>¡lectura recomendada!</em>
+  -- <em>¡lectura recomendada!</em></li>
   <li><a href="working">creación o edición de páginas en inglés</a>
     <ul>
-      <li><a href="using_git">cómo uar git</a>
-      <li><a href="using_cvs">cómo usar CVS (obsoleto)</a>
-      <li><a href="using_wml">cómo usar WML</a>
+      <li><a href="using_git">cómo uar git</a></li>
+      <li><a href="using_cvs">cómo usar CVS (obsoleto)</a></li>
+      <li><a href="using_wml">cómo usar WML</a></li>
       <li><a href="htmlediting">cómo utilizar HTML en las páginas
-Web de Debian</a>
-      <li><a href="todo">la lista de tareas pendientes</a>
+Web de Debian</a></li>
+      <li><a href="todo">la lista de tareas pendientes</a></li>
     </ul>
   <li><a href="translating">traducción de páginas</a>
     <ul>
-      <li><a href="content_negotiation">negociación de contenido</a>
-      <li><a href="uptodate">mantener las traducciones actualizadas</a>
-      <li><a href="translation_hints">consejos de traducción</a>
-      <li><a href="examples">algunos ejemplos</a>
-      <li><a href="stats">estadísticas de traducción</a>
-      <li><a href="translation_coordinators">lista de los coordinadores de traducciones</a>
+      <li><a href="content_negotiation">negociación de contenido</a></li>
+      <li><a href="uptodate">mantener las traducciones actualizadas</a></li>
+      <li><a href="translation_hints">consejos de traducción</a></li>
+      <li><a href="examples">algunos ejemplos</a></li>
+      <li><a href="stats">estadísticas de traducción</a></li>
+      <li><a href="translation_coordinators">lista de los coordinadores de traducciones</a></li>
     </ul>
+  </li>
 </ul>
