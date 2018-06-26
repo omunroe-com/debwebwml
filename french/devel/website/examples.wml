@@ -102,7 +102,7 @@ d'être lus par tout le monde).
 
 Vérifiez toujours qu'un Makefile se trouve dans le répertoire ajouté, et
 que ce Makefile a été enregistré dans Git. Sinon, l’exécution de make générera
-une erreur pour tout ceux l’essayant.
+une erreur pour tous ceux qui l'essaieront.
 
 #example not finished
 # <H3>Example of a Conflict</H3>
