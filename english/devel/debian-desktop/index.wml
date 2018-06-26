@@ -86,6 +86,12 @@
     The GTK+ frontend needs you.
   </li>
   <li>
+Help <a href="https://wiki.debian.org/Teams/DebianGnome">Debian GNOME team</a>,
+<a href="https://qt-kde-team.pages.debian.net/">Debian Qt and KDE Team</a> or
+<a href="https://salsa.debian.org/xfce-team/">Debian Xfce Group</a> group.
+You can help with packaging, bug triaging, documentation, tests and more.
+  </li>
+  <li>
     Teach users how to install and use the Debian desktop tasks we have now
     (desktop, gnome-desktop and kde-desktop).
   </li>
