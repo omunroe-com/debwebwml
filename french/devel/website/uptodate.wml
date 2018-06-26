@@ -67,7 +67,7 @@ traduites. Le but est d'aider les traducteurs et d'attirer de nouvelles recrues.
 </p>
 
 <p>
-Pour éviter de présenter des informations trop obsolètes à nos
+Pour éviter de présenter des informations trop dépassées à nos
 utilisateurs, les traductions qui n'ont pas été mises à jour dans les
 six mois après la modification de la page d'origine sont automatiquement
 supprimées. Veuillez consulter la
@@ -96,10 +96,10 @@ to version <var>XXXXXXX</var></code>&nbsp;».
 différences en ajoutant l'option <kbd>-d</kbd> à la commande ci-dessus.
 
 
-<P>Si vous voulez ignorer les avertissements sur les pages manquantes
+<P>Si vous voulez ignorer les avertissements sur des pages manquantes
 (par exemple les pages d'anciennes nouvelles), vous pouvez créer un fichier
 appelé <code>.transignore</code> dans le répertoire où vous voulez supprimer
-les avertissements, qui liste les fichiers que vous n'allez pas
+ces avertissements, qui liste les fichiers que vous n'allez pas
 traduire, avec un nom par ligne.
 
 <p>Un script similaire pour suivre les modifications des traductions des
