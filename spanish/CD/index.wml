@@ -1,10 +1,10 @@
-#use wml::debian::cdimage title="Debian en CDs" BARETITLE=true
+#use wml::debian::cdimage title="Debian en CDs/DVDs" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="9dcab36202d262b6b33583d68794b995999fa269" maintainer="Laura Arjona Reina"
 
-<p>Si quiere obtener Debian en CD o memoria USB, vea abajo las
+<p>Si quiere obtener Debian en CD/DVD o memoria USB, vea abajo las
 opciones disponibles. En caso de problemas puede ver las
-<a href="faq/">Preguntas frecuentes sobre los CDs de Debian</a>.</p>
+<a href="faq/">Preguntas frecuentes sobre los CDs/DVDs de Debian</a>.</p>
 
 <div class="tip">
 <p>Si simplemente quiere instalar Debian y tiene una conexión de Internet
@@ -20,10 +20,10 @@ href="netinst/">instalación en red</a> que son descargas más pequeñas.</p>
 
  <li><a href="http-ftp/">Descarga de imágenes de CD/DVD usando HTTP.</a> Muchas réplicas proporcionan directamente enlaces a descarga directa mediante HTTP para los cuales se puede usar el navegador o una herramienta de línea de órdenes.</li>
 
-  <li><a href="vendors/">Compre CD-ROMs de Debian terminados.</a>
+  <li><a href="vendors/">Compre medios de instalación de Debian terminados.</a>
   Son baratos: no perseguimos obtener beneficios con ellos. Si su
   conexión a Internet se tarifica por minutos, ésta es su única
-  opción. También puede considerar el comprar los CDs si sólo tiene
+  opción. También puede considerar el comprar medios de instalación si sólo tiene
   un módem, ya que bajar las imágenes con un módem puede tardar
   días.</li>
 
@@ -47,19 +47,19 @@ href="netinst/">instalación en red</a> que son descargas más pequeñas.</p>
 
 </ul>
 
-<p>Las imágenes oficiales en CD estan firmadas, lo cual permite <a
+<p>Las imágenes oficiales en CD/DVD estan firmadas, lo cual permite <a
 href="verify">verificar que son auténticas</a>.</p>
 
 <p>Debian está disponible para diferentes arquitecturas de
 computadoras; asegúrese de que tiene las imágenes que coinciden
 con la de su máquina (la mayoría de la gente necesitará imágenes
-para «i386», por ejemplo, para los sistemas Intel). Una vez que haya
-creado sus propios CDs, puede que le interese el <a
-href="artwork/">trabajo artístico para cubiertas de CDs de
+para <q>amd64</q>, por ejemplo, para los sistemas PC compatibles de 64 bits). Una vez que haya
+creado sus propios discos, puede que le interese el <a
+href="artwork/">trabajo artístico para cubiertas de discos de
 Debian</a>.</p>
 
       <div class="cdflash" id="latest">Última versión oficial
-      «estable» de las imágenes de CDs:
+      «estable» de las imágenes de CDs/DVDs:
         <strong><current-cd-release></strong>.
       <br><small>(Semanalmente se crean instantáneas de la
       distribución «en pruebas»).</small></div>
