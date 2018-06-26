@@ -1,5 +1,5 @@
 #use wml::debian::template title="Enlaces relacionados"
-#use wml::debian::translation-check translation="2cdc1b76c5a409f600e170cdc093d931292e8174"
+#use wml::debian::translation-check translation="327a5925886ecf2100158719bcbfbbc810e92546"
 
 <p>Esta es una lista de información en la red que puede ser de interés
 para los usuarios de Debian.</p>
@@ -81,6 +81,10 @@ basado completamente en software libre.</dd>
 
 <dt><a href="https://exdebian.org/">exDebian</a></dt>   
        <dd>Un portal para usuarios de Debian en español.</dd>
+       
+<dt><a href="https://debianusers.or.kr/">debianusers.or.kr</a></dt>     
+       <dd>Un portal para usuarios de Debian en coreano.</dd>
+
 </dl>
 
 <hr />
