@@ -1,6 +1,6 @@
-#use wml::debian::cdimage title="Debian sur CD" BARETITLE=true
+#use wml::debian::cdimage title="Debian sur CD et DVD" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="9dcab36202d262b6b33583d68794b995999fa269" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Willy Picard 2002-2004.
@@ -9,12 +9,12 @@
 # Simon Paillard 2007, 2009, 2010.
 # David Kremer 2008.
 # David Prévot 2011.
-# Jean-Paul Guillonneau 2015-2017.
+# Jean-Paul Guillonneau 2015-2018.
 
-<p>Si vous souhaitez obtenir Debian sur CD ou sur clef USB,
+<p>Si vous souhaitez obtenir Debian sur CD, DVD ou sur clef USB,
 veuillez consulter ci-après les options disponibles. En cas de
 problème, veuillez vérifier la
-<a href="faq/">FAQ concernant les CD Debian</a>.</p>
+<a href="faq/">FAQ concernant les CD et DVD de Debian</a>.</p>
 
 <div class="tip">
 <p>
@@ -31,29 +31,29 @@ peuvent être aussi <a href="https://www.debian.org/CD/faq/#write-usb">utilisée
 
 <ul>
   <li><a href="http-ftp/">Télécharger les images des CD ou DVD
-  par HTTP ou FTP.</a>
+  par HTTP.</a>
   Beaucoup de miroirs fournissent des liens HTTP pour un téléchargement direct,
-  obtenables avec un navigateur ou un outil en ligne de commande.</li>
+  joignables avec un navigateur ou un outil en ligne de commande.</li>
 
-  <li><a href="vendors/">Acheter les CD Debian.</a> Ils sont bon
+  <li><a href="vendors/">Acheter un média complet de Debian.</a> Ils sont bon
   marché &ndash;&nbsp;nous ne faisons aucun bénéfice avec eux&nbsp;! Si votre
   connexion Internet est facturée à la minute, c'est votre seule
-  solution. Vous pouvez également envisager d'acheter les CD
-  si vous possédez seulement un modem, étant donné que le
-  téléchargement des images au moyen d'un modem peut prendre des
-  jours.</li>
+  solution. Vous pouvez également envisager d'acheter un média si le débit de
+  votre connexion est faible, étant donné que le téléchargement de toutes les
+  images peut prendre énormément de temps.</li>
 
   <li><a href="jigdo-cd/">Télécharger les images des CD ou DVD
   avec jigdo.</a>
   Le projet «&nbsp;jigdo&nbsp;» vous permet de sélectionner le miroir Debian le
   plus rapide parmi les 300 existants dans le monde. Il permet de
-  choisir facilement un miroir et de mettre à jour aisément de vieilles
-  images. C'est également la seule manière de télécharger les images
-  des DVD de Debian pour <em>toutes</em> les architectures.</li>
+  choisir facilement un miroir et de mettre à niveau aisément de vieilles
+  images vers les dernières publications. C'est également la seule manière de
+  télécharger les images des DVD de Debian pour <em>toutes</em> les
+  architectures.</li>
 
   <li><a href="torrent-cd/">Télécharger les images des CD ou DVD
   avec BitTorrent.</a>
-  Le système pair-à-pair BitTorrent permet à de nombreux utilisateurs de
+  Le système pair à pair BitTorrent permet à de nombreux utilisateurs de
   télécharger les images de manière coopérative et simultanée avec une charge
   minimale pour nos serveurs. Les images des DVD ne sont
   disponibles que pour certaines architectures.</li>
@@ -70,20 +70,20 @@ peuvent être aussi <a href="https://www.debian.org/CD/faq/#write-usb">utilisée
 </ul>
 
 <p>
-Les CD officiellement publiés sont signés afin de
+Les CD et DVD officiellement publiés sont signés afin de
 pouvoir <a href="verify">vérifier leur authenticité</a>.
 </p>
 
 <p>Debian est disponible pour diverses architectures &ndash;&nbsp;veuillez vous
 assurer d'avoir les images qui sont compatibles avec votre ordinateur&nbsp;!
-(La plupart des gens ont besoin des images pour «&nbsp;i386&nbsp;»,
-c'est-à-dire les systèmes Intel.) Une fois que vous avez créé vos propres
+(La plupart des gens ont besoin des images pour « amd64 », c'est-à-dire les
+systèmes compatibles avec les ordinateurs personnels 64 bits.)
+Une fois que vous avez créé vos propres
 CD, vous pourriez être intéressé par les
-<a href="artwork/">illustrations pour les pochettes des CD Debian</a>.</p>
+<a href="artwork/">illustrations pour les pochettes de disque de Debian</a>.</p>
 
-# Dernière version : Modification de webwml/english/template/debian/cdimage.wml
       <div class="cdflash" id="latest">Dernière version officielle
-      des images des CD de la distribution
+      des images des CD et DVD de la distribution
       «&nbsp;stable&nbsp;»&nbsp;:
         <strong><current-cd-release></strong>.
       <br><small>(Des instantanés de la distribution
