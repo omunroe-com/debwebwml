@@ -12,10 +12,10 @@
 # David Prévot, 2010.
 # Jean-Paul Guillonneau, 2018
 
-<P>Pour rendre le travail des traducteurs aussi facile que possible, les
+<p>Pour rendre le travail des traducteurs aussi facile que possible, les
 pages sont générées un peu différemment de ce à quoi beaucoup d'entre
 vous sont habitués. Les pages web sont en fait générées en
-utilisant un source qui a un suffixe en
+utilisant un source qui utilise le langage de balisage
 <a href="http://www.engelschall.com/sw/wml/"><tt>wml</tt></a>. Il y a
 des répertoires distincts pour chaque langue.
 
@@ -28,7 +28,7 @@ d'une nouvelle traduction</a>.
 <p>Nous utilisons WML pour séparer le contenu spécifique à une page des
 éléments communs à plusieurs pages. Ce qui signifie qu'il faut éditer un
 certain nombre de fichiers source WML au lieu d'éditer des fichiers HTML.
-Veuillez récupérez les sources actuelles <a href="using_git">en utilisant
+Veuillez récupérer les sources actuelles <a href="using_git">en utilisant
 Git</a>. Vous aurez besoin de récupérer au moins les répertoires :
 <tt>webwml/english/</tt> et <tt>webwml/<var>&lt;votre_langue&gt;</var>/</tt>.</p>
 
@@ -138,7 +138,7 @@ D'autres fonctionnalités sont disponibles dans le script,
 il suffit de le lancer sans argument pour obtenir l'aide.
 </p>
 
-<p>Une fois que vous avez par exemple exécuté la commande&nbsp;:
+<p>Une fois que vous avez, par exemple, exécuté la commande&nbsp;:
 <kbd>./copypage.pl <var>fichier</var>.wml</kbd>, traduisez le texte d'origine
 directement dans le fichier. Les commentaires contenus dans les fichiers
 indiquent s'il y a des portions de texte à ne pas traduire. Suivez ces
@@ -170,7 +170,7 @@ les autres mises à jour vers le site web. Veuillez accorder une attention
 particulière à ces fichiers.</p>
 
 <p>Lorsque la page est prête, vous pouvez l'envoyer dans Git. Si vous possédez
-l'autorisation, faites-le vous-même&nbsp;. Téléverser (push) le commit dans le
+l'autorisation, faites-le vous-même. Téléversez (push) le commit dans le
 <a href="https://salsa.debian.org/webmaster-team/webwml">dépôt webwml de Git</a>.
 Sinon, envoyez-le à <a href="translation_coordinators"> une personne ayant un
 accès en écriture dans le dépôt</a>.</p>
@@ -213,7 +213,7 @@ modifications suivantes&nbsp;:</p>
       <tt>webwml/Makefile</tt> afin que votre langue soit prise en compte comme
       les autres sur www.debian.org. Nous préférerions que vous laissiez
       ce changement à la charge des webmestres, parce que vous pourriez
-      ne pas vous rendre compte que votre traduction n'ait pas été
+      ne pas vous rendre compte que votre traduction n'a pas été
       correctement faite, ce qui pourrait bloquer le processus de
       génération du reste du site ;
 </ol>
@@ -236,7 +236,7 @@ répertoire de votre langue, et copiez le même Makefile dans ce répertoire
 ensemble initial de fichiers *.po.</p>
 
 <p>Maintenant que le squelette est prêt, vous pouvez commencer à ajouter
-vos traductions dans nos balises WML communes que nous utilisons dans
+vos traductions dans les balises WML communes que nous utilisons dans
 les modèles. Les premiers modèles de traduction
 que vous devez traduire sont ceux qui apparaissent sur l'ensemble de nos
 pages web, comme les en-têtes, les entrées dans la barre de navigation,
@@ -308,8 +308,8 @@ chercher dans l’historique en exécutant :</p>
 
 <p>Vous pouvez retrouver le commit exact qui a supprimé le fichier désiré en
 même temps que la chaîne de l’empreinte numérique du commit. Pour afficher
-l’information détaillée sur la modification, vous pouvez utiliser
-<code>git show</code> sous-commande :</p>
+l’information détaillée sur la modification, vous pouvez utiliser la
+sous-commande <code>git show</code> :</p>
 
 <verbatim>
   git show <COMMIT_HASH_STRING> -- <chemin/vers/fichier/supprimé.wml>
