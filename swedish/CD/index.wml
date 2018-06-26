@@ -1,10 +1,10 @@
-#use wml::debian::cdimage title="Debian på cd" BARETITLE=true
+#use wml::debian::cdimage title="Debian på cd/dvd" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b"
+#use wml::debian::translation-check translation="9dcab36202d262b6b33583d68794b995999fa269"
 
-<p>Om du vill få tag på Debian på cd eller USB, se nedan för tillgängliga
+<p>Om du vill få tag på Debian på cd, dvd eller usb, se nedan för tillgängliga
 möjligheter.
-Om du har problem, se <a href="faq/">frågor och svar om Debian-cd</a>.</p>
+Om du har problem, se <a href="faq/">frågor och svar om Debian-cd/dvd</a>.</p>
 
 <div class="tip">
 <p>Om du vill installera Debian på en dator med internetuppkoppling
@@ -13,8 +13,8 @@ kan du använda media för
 vilket gör nedladdningen mindre.</p> </div>
 
 <div class="tip">
-<p>På i386- och amd64-arkitekturerna kan alla CD/DVD-avbildningar även
-<a href="https://www.debian.org/CD/faq/#write-usb">användas på USB-minnen</a>.</p>
+<p>På i386- och amd64-arkitekturerna kan alla cd/dvd-avbildningar även
+<a href="https://www.debian.org/CD/faq/#write-usb">användas på usb-minnen</a>.</p>
 </div>
 
 <ul>
@@ -23,11 +23,11 @@ vilket gör nedladdningen mindre.</p> </div>
   Flera speglar tillhandahåller länkar för hämtning via HTTP där du kan
   hämta med hjälp av din webbläsare eller ditt kommandoradsverktyg.</li>
 
-  <li><a href="vendors/">Köp färdiga cd-skivor.</a>
+  <li><a href="vendors/">Köp färdig Debian-media.</a>
   De är billiga &ndash; vi tjänar inga pengar på dem!
   Om din Internetanslutning debiteras per minut är detta ditt enda val.
   Du kan även överväga att köpa skivorna om du bara har ett modem, eftersom
-  det tar dagar att hämta avbildningarna via modem.</li>
+  det kan ta väldigt lång tid att hämta avbildningarna via modem.</li>
 
   <li><a href="jigdo-cd/">Hämta cd-/dvd-avbildningar med jigdo.</a>
   &rdquo;jigdo&rdquo;-systemet låter dig välja den
@@ -53,18 +53,18 @@ vilket gör nedladdningen mindre.</p> </div>
 
 </ul>
 
-<p>Officiella CD-utgåvor är signerade så att du kan 
+<p>Officiella cd/dvd-utgåvor är signerade så att du kan
 <a href="verify">kontrollera att de är äkta</a>.</p>
 
 <p>Debian är tillgängligt för olika datorarkitekturer &ndash;
 se till att du hämtar avbildningar som passar för din dator!
-(De allra flesta vill ha avbildningar för &rdquo;i386&rdquo;, dvs.
-Intelsystem.)
+(De allra flesta vill ha avbildningar för <q>amd64</q>, dvs.
+64-bitars PC-kompatibla system.)
 När du har fått tag på dina Debian-cd-skivor kanske det kan vara intressant med
 <a href="artwork/">omslagsbilder för skivor med Debian</a>.</p>
 
       <div class="cdflash" id="latest">Senaste officiella utgåvan av
-      cd-avbildningar för den stabila versionen:
+      cd/dvd-avbildningar för den stabila versionen:
         <strong><current-cd-release></strong>.
       <br><small>(Ögonblicksbilder av
       uttestningsutgåvan
