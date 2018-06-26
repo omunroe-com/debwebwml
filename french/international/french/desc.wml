@@ -216,7 +216,7 @@ sub get_version
 
 sub vcs_diff_url {
     my ( $path, $r1, $r2, $diff_format ) = @_;
-    return "$VCSBASE/compare?from=$r1&to=$r2";
+    return "$VCSBASE/compare?from=$r1&amp;to=$r2";
 }
 
 sub vcs_log_url {
