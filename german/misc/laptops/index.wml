@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian unterwegs"
 
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="cad280928ec082d8f5c882b3a67bc12e0c87fb6b"
 # Translator: Noel Koethe, noel@koethe.net, 2001-07-01
 # Updated: Holger Wansing <linux@wansing-online.de>, 2013.
 # $Id$
@@ -28,7 +28,7 @@ Abonnement-Seite der Mailingliste</a>. Die Liste wird archiviert im
         Laptop-Modellen</a>
   <li><a href="http://www.linux-laptop.net/">
   	Linux auf Laptops, maßgebliche Seite</a></li>
-  <li><a href="http://www.tuxmobil.org/Mobile-Guide.db/Mobile-Guide.html">
+  <li><a href="https://www.tldp.org/LDP/Mobile-Guide/html/index.html">
   	Ein Ratgeber für Laptops und Mobile Geräte</a></li>
 </ul>
 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian på farten"
-#use wml::debian::translation-check translation="8b7f135c64c097a0f186700fb48e6fc9aa079a59"
+#use wml::debian::translation-check translation="cad280928ec082d8f5c882b3a67bc12e0c87fb6b"
 
 <p>Denne side beskriver Debian til bærbare computere.
 # TODO: a real description
@@ -22,8 +22,8 @@ postlistearkivet</a>.</p>
 	oplysninger om installering af Debian på nogle laptopmodeller</a>
     <li><a href="http://www.linux-laptop.net/">Linux on Laptops</a> (Linux på 
 	bærbare computere), det ultimative websted</li>
-#    <li><a href="http://www.tuxmobil.org/Mobile-Guide.db/Mobile-Guide.html">A 
-#	Guide for Laptops and Mobile Devices</a></li>
+    <li><a href="https://www.tldp.org/LDP/Mobile-Guide/html/index.html">A 
+	Guide for Laptops and Mobile Devices</a></li>
 </ul>
 
 <p>Send en e-mail til <a href="mailto:debian-www@lists.debian.org">\

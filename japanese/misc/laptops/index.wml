@@ -1,5 +1,5 @@
 #use wml::debian::template title="持ち運びできる Debian"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="cad280928ec082d8f5c882b3a67bc12e0c87fb6b"
 
 <p>このページは Debian をラップトップで動作させるための説明です。</p>
 # TODO: a real description!
@@ -27,7 +27,7 @@
 	Debian をインストールする場合の詳細な情報</a></li>
   <li><a href="http://www.linux-laptop.net/">Linux
 	on Laptops</a>: 最も有益なサイト</li>
-  <li><a href="http://www.tuxmobil.org/Mobile-Guide.db/Mobile-Guide.html">ラップトップ
+  <li><a href="https://www.tldp.org/LDP/Mobile-Guide/html/index.html">ラップトップ
 	及びモバイル機器向けガイド</a></li>
 </ul>
 
