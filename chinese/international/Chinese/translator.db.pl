@@ -27,7 +27,7 @@
 sub init_translators {
 	my $translators = {
 		'Kanru Chen' =>  {
-			email       => 'koster@debian.org.tw',
+			email       => 'koster@debian.org',
 			summary     => 2,
 			logs        => 2,
 			diff        => 2,

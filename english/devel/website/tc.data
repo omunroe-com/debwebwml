@@ -34,7 +34,7 @@ my %translators = (
 	'Anthony Fok (<span lang="zh-TW">&#38669;&#26481;&#38728;</span>)' => 'foka@debian.org',
 	'Boyuan Yang (<span lang="zh-CN">&#26472;&#21338;&#36828;</span>)' => '073plan@gmail.com',
 	'Rex Tsai (<span lang="zh-TW">&#34081;&#24535;&#23637;</span>)' => 'chihchun@kalug.linux.org.tw',
-	'Kanru Chen (<span lang="zh-TW">&#38515;&#20355;&#22914;</span>)' => 'koster@debian.org.tw',
+	'Kanru Chen (<span lang="zh-TW">&#38515;&#20355;&#22914;</span>)' => 'koster@debian.org',
 	'Anthony Wong (<span lang="zh-TW">&#40643;&#24421;&#37030;</span>)' => 'ypwong@gmail.com',
         },
   croatian => {
