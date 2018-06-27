@@ -4,7 +4,7 @@
 ##   reviewd by native speakers;  translators can start their work now
 ## * Use "sent" if the issue has been sent our; furhter changes should now
 ##   be done in Debian's webwml repository
-# Status: [open-for-edit|content-frozen|sent]
+# Status: sent
 # $Id$
 # $Rev: 5854 $
 
@@ -22,7 +22,7 @@
 ## that it should also be reviewed and translated
 <define-tag release_date>2015-04-24</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Laura Arjona Reina"
 
 
 
@@ -45,7 +45,7 @@ Vista esta experiencia, confiamos en que Debian 7 "Wheezy" y Debian 8
 <p>
 Sin embargo, se han realizado algunas restricciones en la cobertura para Squeeze-LTS.
 Por ejemplo, sólo se soportan los PC x86 (amd64 e i386), y no se soportan un
-<a href="https://anonscm.debian.org/cgit/collab-maint/debian-security-support.git/plain/security-support-ended.deb6">
+<a href="https://salsa.debian.org/debian/debian-security-support/blob/master/security-support-ended.deb6">
 número de paquetes populares</a>. Por ejemplo, no se puede ejecutar un
 Xen dom0 o un anfitrión KVM con Squeeze, y no hay soporte para los navegadores bajo entorno gráfico.
 Los recursos actuales del equipo sólo son suficientes para mantener la carga de trabajo
