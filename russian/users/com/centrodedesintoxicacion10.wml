@@ -1,0 +1,17 @@
+# From: Alex Navarro <alex@dropalia.com>
+#use wml::debian::translation-check translation="8d543106d154098df11ca50bd7d8e6fdab9aea05" maintainer="Lev Lamberov"
+
+<define-tag pagetitle>Centros de Desintoxicación 10, Grupo Dropalia, Аликанте, Испания</define-tag>
+<define-tag webpage>http://www.centrodedesintoxicacion10.com/</define-tag>
+
+#use wml::debian::users
+
+<p>
+    Мы используем Debian в качестве межсетевого экрана, прокси и DNS.
+</p>
+
+<p>
+    Мы выбрали операционную систему Debian потому, что она чрезвычайно стабильна и
+    отлично масштабируется. Помимо этого мы выбрали её за её надёжность,
+    безопасность и низкую стоимость для компании.
+</p>
