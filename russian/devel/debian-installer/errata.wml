@@ -1,6 +1,6 @@
 #use wml::debian::template title="Ошибки Debian-Installer"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="c75cafbee4a0fdc9c9a699b41b22f3e35a529b64" maintainer="Lev Lamberov" mindelta="1" maxdelta="1"
+#use wml::debian::translation-check translation="7e4db2f1f4f0d56a40da3851090a0baad53a2acb" maintainer="Lev Lamberov" mindelta="1" maxdelta="1"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
 <h1 id="wheezy-rc3">Ошибки выпуска <humanversion /></h1>
@@ -31,7 +31,12 @@
 
     <dt>Используемая в программе установки тема</dt>
     <dd>Тем оформления для Buster пока нет, в программе установки всё ещё
-     используется тема Stretch.</dd>
+     используется тема Stretch.
+    <br />
+    <b>Статус:</b>
+      <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00003.html">Информация
+      о конкурсе оформления для выпуска Buster</a> была опубликована
+      2018-06-15.</dd>
 
 <!-- things should be better starting with Jessie Beta 2...
 

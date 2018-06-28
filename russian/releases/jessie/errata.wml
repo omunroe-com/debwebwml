@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 8 &mdash; Известные ошибки" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="9bfac34eb3fcbf9c947928e0e27ffdaa402b00e8" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a61db9f0be033cc72386226e5214eaad477eb66e" maintainer="Lev Lamberov"
 
 #include "$(ENGLISHDIR)/releases/info"
 
@@ -52,7 +52,9 @@
   <li>Девятая редакция, 8.9, была выпущена
       <A href="$(HOME)/News/2017/2017072202">22 июля 2017 года</a>.</li>
   <li>Десятая редакция, 8.10, была выпущена
-      <A href="$(HOME)/News/2017/20171209">9 декабря 2017 года</a>.</li>
+      <a href="$(HOME)/News/2017/20171209">9 декабря 2017 года</a>.</li>
+  <li>Одиннадцатая редакция, 8.11, была выпущена
+      <a href="$(HOME)/News/2018/20180623">23 июня 2018 года</a>.</li>
 </ul>
 
 <ifeq <current_release_jessie> 8.0 "

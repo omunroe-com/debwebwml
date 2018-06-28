@@ -1,5 +1,13 @@
-#use wml::debian::template title="Использование CVS"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Lev Lamberov"
+#use wml::debian::template title="Использование CVS (устарело)"
+#use wml::debian::translation-check translation="8f2dd37edbf6287df4029e3f234798efbcce2862" maintainer="Lev Lamberov"
+
+<div class="important">
+<h3>Важно</h3>
+
+<p>Недавно репозторий содержимого веб-сайта был переведён с CVS
+на git. Данная странице сохранена только исключительно для истории. Обращайтесь к
+<a href="using_git">руководству по использованию git</a>. </p>
+</div>
 
 <p>CVS&nbsp;&mdash; это программа, облегчающая нескольким людям работу над одним и
 тем же материалом одновременно. Каждый пользователь создаёт локальную
