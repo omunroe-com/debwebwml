@@ -22,7 +22,7 @@ eller ställa in triggers med uppström, eller använda <code>ftpsync-cron</code
 varje timme för att övervaka din uppström för förändringar och initiar synkar).
 Utöver detta,</li>
 <li>måste din spegling ha en korrekt namngiven tracefil (ftpsync kommer att
-göra detta om MIRRORNAME är korrekt satt<),
+göra detta om MIRRORNAME är korrekt satt),
 <li>bör köra touch på flaggfilerna <code>/Archive-Update-in-Progress-XXX</code> 
 och <code>/Archive-Update-Required-XXX</code> när lämpligt
 (återigen, ftpsync gör det åt dig) för att hjälpa speglingar nedströms från dig
