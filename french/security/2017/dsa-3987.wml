@@ -3,7 +3,7 @@
 <define-tag moreinfo>
 <p>Plusieurs problèmes de sécurité ont été découverts dans le navigateur
 web Mozilla Firefox : plusieurs erreurs de sécurité mémoire, des
-utilisations de mémoire après libération et d'autre erreurs d'implémentation
+utilisations de mémoire après libération et d'autres erreurs d'implémentation
 pourraient conduire à l'exécution de code arbitraire, à un déni de service,
 à un script intersite ou au contournement de la fonctionnalité de protection
 contre l'hameçonnage et les programmes malveillants.</p>
