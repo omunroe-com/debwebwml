@@ -7,24 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml templates\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-06-15 11:29+0500\n"
-"Last-Translator: Lev Lamberov <l.lamberov@gmail.com>\n"
+"PO-Revision-Date: 2018-06-28 15:03+0500\n"
+"Last-Translator: Lev Lamberov <dogsleg@debian.org>\n"
 "Language-Team: ru <debian-l10n-russian@lists.debian.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.8\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-
-#: ../../english/search.xml.in:7
-msgid "Debian website"
-msgstr "Вебсайт Debian"
-
-#: ../../english/search.xml.in:9
-msgid "Search the Debian website."
-msgstr "Искать на вебсайте Debian."
 
 #: ../../english/template/debian/basic.wml:19
 #: ../../english/template/debian/navbar.wml:11
@@ -205,13 +197,6 @@ msgstr "в выпуске 2.2"
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
 #: ../../english/template/debian/footer.wml:105
-#, fuzzy
-#| msgid ""
-#| "To report a problem with the web site, e-mail our publicly archived "
-#| "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-"
-#| "www@lists.debian.org</a>.  For other contact information, see the Debian "
-#| "<a href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a "
-#| "href=\"m4_HOME/devel/website/using_cvs\">available</a>."
 msgid ""
 "To report a problem with the web site, please e-mail our publicly archived "
 "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists."
@@ -225,8 +210,8 @@ msgstr ""
 "переводе сообщайте в русскоязычный список рассылки <a href=\"mailto:debian-"
 "l10n-russian@lists.debian.org\">debian-l10n-russian@lists.debian.org</a>. "
 "Прочую контактную информацию см. на странице <a href=\"m4_HOME/contact\">Как "
-"с нами связаться</a>. Также доступен <a href=\"m4_HOME/devel/website/"
-"using_cvs\">исходный код сайта</a>."
+"с нами связаться</a>. Также доступен <a href=\"https://salsa.debian.org/"
+"webmaster-team/webwml\">исходный код сайта</a>."
 
 #: ../../english/template/debian/footer.wml:108
 msgid "Last Modified"
@@ -519,7 +504,7 @@ msgstr "<em>Замечание:</em> Оригинал этого докумен�
 
 #: ../../english/template/debian/translation-check.wml:56
 msgid "Wrong translation version!"
-msgstr ""
+msgstr "Неправильная версия перевода!"
 
 #: ../../english/template/debian/url.wml:4
 msgid "URL"
@@ -528,6 +513,14 @@ msgstr "URL"
 #: ../../english/template/debian/users.wml:7
 msgid "Back to the <a href=\"../\">Who's using Debian? page</a>."
 msgstr "Назад на страницу <a href=\"./\">Кто использует Debian</a>."
+
+#: ../../english/search.xml.in:7
+msgid "Debian website"
+msgstr "Вебсайт Debian"
+
+#: ../../english/search.xml.in:9
+msgid "Search the Debian website."
+msgstr "Искать на вебсайте Debian."
 
 #~ msgid "Visit the site sponsor"
 #~ msgstr "Посетите&nbsp;нашего&nbsp;спонсора"

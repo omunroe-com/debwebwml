@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml stats\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-06-13 18:36+0500\n"
-"Last-Translator: Lev Lamberov <l.lamberov@gmail.com>\n"
+"PO-Revision-Date: 2018-06-28 15:02+0500\n"
+"Last-Translator: Lev Lamberov <dogsleg@debian.org>\n"
 "Language-Team: Russian <debian-l10n-russian@lists.debian.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -13,23 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.11\n"
-
-#: ../../english/template/debian/stats_tags.wml:6
-msgid "Debian web site translation statistics"
-msgstr "Статистика перевода сайта Debian"
-
-#: ../../english/template/debian/stats_tags.wml:10
-msgid "There are %d pages to translate."
-msgstr "Страниц для перевода: %d."
-
-#: ../../english/template/debian/stats_tags.wml:14
-msgid "There are %d bytes to translate."
-msgstr "Байт для перевода: %d."
-
-#: ../../english/template/debian/stats_tags.wml:18
-msgid "There are %d strings to translate."
-msgstr "Строк для перевода: %d."
+"X-Generator: Poedit 2.0.8\n"
 
 #: ../../stattrans.pl:282 ../../stattrans.pl:506
 msgid "Wrong translation version"
@@ -48,12 +32,12 @@ msgid "The original no longer exists"
 msgstr "Оригинал более не существует"
 
 #: ../../stattrans.pl:482
-msgid "hit count N/A"
-msgstr "число обращений не доступно"
-
-#: ../../stattrans.pl:482
 msgid "hits"
 msgstr "обращения"
+
+#: ../../stattrans.pl:482
+msgid "hit count N/A"
+msgstr "число обращений не доступно"
 
 #: ../../stattrans.pl:500 ../../stattrans.pl:501
 msgid "Click to fetch diffstat data"
@@ -68,15 +52,13 @@ msgid "Colored diff"
 msgstr "Цветной diff"
 
 #: ../../stattrans.pl:524 ../../stattrans.pl:683
-#, fuzzy
-#| msgid "Colored diff"
 msgid "Commit diff"
-msgstr "Цветной diff"
+msgstr "diff коммита"
 
 #. FIXME - this is clearly wrong, but no idea what's meant to go here!
 #: ../../stattrans.pl:528 ../../stattrans.pl:683
 msgid "Git command line"
-msgstr ""
+msgstr "Командная строка git"
 
 #: ../../stattrans.pl:639 ../../stattrans.pl:785
 msgid "Created with <transstatslink>"
@@ -86,15 +68,6 @@ msgstr "Создано с помощью <transstatslink>"
 msgid "Translation summary for"
 msgstr "Резюме перевода для"
 
-#: ../../stattrans.pl:647 ../../stattrans.pl:809 ../../stattrans.pl:855
-#: ../../stattrans.pl:898
-msgid "Not translated"
-msgstr "Не переведено"
-
-#: ../../stattrans.pl:647 ../../stattrans.pl:808 ../../stattrans.pl:854
-msgid "Outdated"
-msgstr "Устарело"
-
 #: ../../stattrans.pl:647
 msgid "Translated"
 msgstr "Переведено"
@@ -103,6 +76,15 @@ msgstr "Переведено"
 #: ../../stattrans.pl:853 ../../stattrans.pl:896
 msgid "Up to date"
 msgstr "Актуально"
+
+#: ../../stattrans.pl:647 ../../stattrans.pl:808 ../../stattrans.pl:854
+msgid "Outdated"
+msgstr "Устарело"
+
+#: ../../stattrans.pl:647 ../../stattrans.pl:809 ../../stattrans.pl:855
+#: ../../stattrans.pl:898
+msgid "Not translated"
+msgstr "Не переведено"
 
 #: ../../stattrans.pl:648 ../../stattrans.pl:649 ../../stattrans.pl:650
 #: ../../stattrans.pl:651
@@ -249,6 +231,22 @@ msgstr "Переведённые веб-страницы (по размеру)"
 #: ../../stattrans.pl:836
 msgid "Translation Statistics by Page Size"
 msgstr "Статистика перевода по размеру страниц"
+
+#: ../../english/template/debian/stats_tags.wml:6
+msgid "Debian web site translation statistics"
+msgstr "Статистика перевода сайта Debian"
+
+#: ../../english/template/debian/stats_tags.wml:10
+msgid "There are %d pages to translate."
+msgstr "Страниц для перевода: %d."
+
+#: ../../english/template/debian/stats_tags.wml:14
+msgid "There are %d bytes to translate."
+msgstr "Байт для перевода: %d."
+
+#: ../../english/template/debian/stats_tags.wml:18
+msgid "There are %d strings to translate."
+msgstr "Строк для перевода: %d."
 
 #~ msgid "Hit data from %s, gathered %s."
 #~ msgstr "Данные о посещениях с %s, собраны %s."
