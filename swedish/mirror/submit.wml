@@ -1,5 +1,5 @@
 #use wml::debian::template title="Registrera spegelinformation"
-#use wml::debian::translation-check translation="71fcd13c2f4a67e7c67a1d95e58021a7df5be462"
+#use wml::debian::translation-check translation="cd8f39027a950a5174d2d49109ba6800c0f0cdec"
 #include "$(ENGLISHDIR)/mirror/submit.inc"
 
 <p>
@@ -51,7 +51,7 @@ Lämna irrelevanta fält blanka.
 </p>
 
 <table>
-<tablerowdef "Paketarkiv, via HTTP"           archive-http   30 "/debian" " <small>Vi rekommenderar <code>/debian</code> starkt.</small>">
+<tr><td>Paketarkiv, över HTTP: </td><td><input type="text" name="archive-http" id="archve-http" size="30" value="/debian" readonly="readonly"> <small>Arkivet måste finnas tillgängligt på <code>/debian</code>.</small></td></tr>
 <tablerowdef "Paketarkiv, via rsync"          archive-rsync  30 "debian" " <small>Om du erbjuder rsync, föreslås <code>debian</code> som modulnamn.</small>">
 
 #<tablerow "Cd-/dvd-avbilder, via HTTP"     cdimage-http   30>
