@@ -1,0 +1,337 @@
+#use wml::debian::translation-check translation="9ff6f638fa2715b59313571379c95937e7710d29" maintainer="Laura Arjona Reina"
+<define-tag pagetitle>Debian 8 actualizado: publicada la versión 8.11</define-tag>
+<define-tag release_date>2018-06-23</define-tag>
+#use wml::debian::news
+
+<define-tag release>8</define-tag>
+<define-tag codename>jessie</define-tag>
+<define-tag revision>8.11</define-tag>
+
+<define-tag dsa>
+    <tr><td align="center"><a href="$(HOME)/security/%0/dsa-%1">DSA-%1</a></td>
+        <td align="center"><:
+    my @p = ();
+    for my $p (split (/,\s*/, "%2")) {
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
+    }
+    print join (", ", @p);
+:></td></tr>
+</define-tag>
+
+<define-tag correction>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+</define-tag>
+
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
+
+<p>El proyecto Debian se complace en anunciar la decimoprimera (y última) actualización 
+de su distribución «antigua estable» Debian <release> (nombre en clave <q><codename></q>). 
+Esta versión añade, principalmente, correcciones de problemas de seguridad, 
+junto con unos pocos ajustes para problemas graves. Los avisos de seguridad 
+se han publicado ya de forma independiente, y aquí hacemos referencia a ellos donde corresponde.</p>
+
+<p>Tras la publicación de esta versión, los equipos de seguridad y de gestión de la 
+publicación de Debian ya no proporcionarán actualizaciones para Debian 8.
+Los usuarios que deseen continuar recibiendo soporte de seguridad deberían actualizar
+a Debian 9, o consultar <url "https://wiki.debian.org/LTS"> para detalles sobre el
+subconjunto de arquitecturas y paquetes que están cubiertos por el proyecto de 
+soporte a largo plazo («LTS»).</p>
+
+<p>Por razones técnicas, esta versión no incluye las actualizaciones para algunas arquitecturas
+de los avisos DSA 3746, DSA 3944, DSA 3968, DSA 4010,
+DSA 4014, DSA 4061, DSA 4075, DSA 4102, DSA 4155, DSA 4209 y DSA 4218. 
+El resto de actualizaciones de seguridad
+publicadas durante el ciclo de vida de <q>jessie</q> que no formaran parte de una 
+publicación de versión sí se incluyen en esta actualización.</p>
+
+<p>Tenga en cuenta que esta actualización no constituye una nueva versión completa de Debian 
+<release>, solo actualiza algunos de los paquetes incluidos. No es 
+necesario deshacerse de los viejos medios de instalación de <q><codename></q>. Tras la instalación de Debian,
+los paquetes instalados pueden pasarse a las nuevas versiones utilizando una réplica Debian 
+actualizada.</p>
+
+<p>Quienes instalen frecuentemente actualizaciones desde  security.debian.org no tendrán
+que actualizar muchos paquetes, y la mayoría de dichas actualizaciones están 
+incluidas en esta nueva versión.</p>
+
+<p>Pronto habrá disponibles nuevas imágenes de instalación en los sitios habituales.</p>
+
+<p>Puede actualizar una instalación existente a esta nueva versión haciendo 
+que el sistema de gestión de paquetes apunte a una de las muchas réplicas HTTP de Debian. 
+
+En la dirección siguiente puede encontrar el listado completo de réplicas:</p>
+
+<div class="center">
+  <a href="$(HOME)/mirror/list">https://www.debian.org/mirror/list</a>
+</div>
+
+
+<h2>Corrección de errores varios</h2>
+
+<p>Esta actualización de la distribución «antigua estable» añade unas pocas correcciones importantes a los 
+paquetes siguientes:</p>
+<table border=0>
+<tr><th>Paquete</th>               <th>Motivo</th></tr>
+<correction adminer                          "No permite conexiones a puertos privilegiados [CVE-2018-7667]">
+<correction base-files                       "Actualizado para esta versión">
+<correction blktrace                         "Corrige desbordamiento de memoria en btt [CVE-2018-10689]">
+<correction bwm-ng                           "Construcción explícita sin soporte de libstatgrab">
+<correction clamav                           "Actualización de seguridad [CVE-2017-6418 CVE-2017-6420 CVE-2017-12374 CVE-2017-12375 CVE-2017-12376 CVE-2017-12377 CVE-2017-12378 CVE-2017-12379 CVE-2017-12380]; corrige un problema con la limpieza de archivos temporales; nueva publicación del proyecto original; nueva versión del proyecto original">
+<correction debian-installer                 "Recompilado para esta versión">
+<correction debian-installer-netboot-images  "Recompilado para esta versión">
+<correction debian-security-support          "Actualizados los datos del paquete">
+<correction dh-make-perl                     "Soporte de archivo Contents sin cabecera">
+<correction dns-root-data                    "Actualización de los archivos IANA DNSSEC a versiones de 2017-02-02">
+<correction faad2                            "Corrige varios problemas de denegación de servicio a través de archivos MP4 especialmente elaborados [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
+<correction file                             "Evita leer pasado el final [CVE-2018-10360]">
+<correction ghostscript                      "Corrige fallo de segmento con fichero difuso en gxht_thresh_image_init; corrige desbordamiento de memoria en fill_threshold_buffer [CVE-2016-10317]; pdfwrite - Salvaguarda para evitar proporcionar como salida un número infinito [CVE-2018-10194]">
+<correction intel-microcode                  "Actualización del microcódigo incluido, incluyendo correcciones para Spectre v2 [CVE-2017-5715]">
+<correction lame                             "Corrige problemas de seguridad mediante el uso de rutinas de E/S de sndfile [CVE-2017-15018 CVE-2017-15045 CVE-2017-15046 CVE-2017-9869 CVE-2017-9870 CVE-2017-9871 CVE-2017-9872]">
+<correction libdatetime-timezone-perl        "Actualización de los datos incluidos">
+<correction libextractor                     "Varias correcciones de seguridad [CVE-2017-15266 CVE-2017-15267 CVE-2017-15600 CVE-2017-15601 CVE-2017-15602 CVE-2017-15922 CVE-2017-17440]">
+<correction libipc-run-perl                  "Corrige filtración de memoria">
+<correction linux                            "Nueva versión estable del proyecto original">
+<correction mactelnet                        "Corrección de seguridad [CVE-2016-7115]">
+<correction ncurses                          "Corrige desbordamiento de memoria en la función _nc_write_entry [CVE-2017-16879]">
+<correction nvidia-graphics-drivers          "Nueva versión del proyecto original">
+<correction nvidia-graphics-drivers-legacy-304xx "Actualización al último controlador">
+<correction openafs                          "Corrige la compilación del módulo del núcleo con núcleos linux 3.16.51-3+deb8u1 tras los cambios ABI inducidos por actualizaciones de seguridad">
+<correction openldap                         "Corrige fallo al actualizar cuando olcSuffix contiente una barra invertida; corrige corrupción de memoria causada al invocar sasl_client_init() varias veces">
+<correction patch                            "Corrige ejecución arbitraria de órdenes en parches de estilo ed [CVE-2018-1000156]">
+<correction postgresql-9.4                   "Nueva versión del proyecto original">
+<correction psensor                          "Corrige problema de directorio transversal [CVE-2014-10073]">
+<correction python-mimeparse                 "Corrige dependencias de python3-mimeparse">
+<correction rar                              "Separa rar enlazado estáticamente e instala la versión enlazada dinámicamente en su lugar">
+<correction reportbug                        "Deja de enviar copia a secure-testing-team@lists.alioth.debian.org">
+<correction sam2p                            "Corrige liberaciones de memoria múltiples e inválidas y vulnerabilidades de desbordamiento de memoria [CVE-2018-7487 CVE-2018-7551 CVE-2018-7552 CVE-2018-7553 CVE-2018-7554]">
+<correction slurm-llnl                       "Corrige problema en la actualización desde wheezy">
+<correction soundtouch                       "Correcciones de seguridad [CVE-2017-9258 CVE-2017-9259 CVE-2017-9260]">
+<correction subversion                       "Corrige caídas con enlaces con Perl, que se han visto usualmente al usar git-svn">
+<correction tzdata                           "Actualiza los datos incluidos">
+<correction user-mode-linux                  "Recompilado con el núcleo actual de jessie">
+<correction virtualbox-guest-additions-iso   "Corrige múltiples problemas de seguridad [CVE-2016-0592 CVE-2016-0495 CVE-2015-8104 CVE-2015-7183 CVE-2015-5307 CVE-2015-7183 CVE-2015-4813 CVE-2015-4896 CVE-2015-3456]">
+<correction xerces-c                         "Corrige denegación de servicio a través de referencia a DTD externo [CVE-2017-12627]">
+<correction zsh                              "Recompilado para usar las bibliotecas actuales de jessie">
+</table>
+
+<h2>Actualizaciones de seguridad</h2>
+
+
+<p>Esta versión añade las siguientes actualizaciones de seguridad a la distribución
+«antigua estable». El equipo de seguridad ya ha publicado un aviso para cada una 
+de estas actualizaciones:</p>
+
+<table border=0>
+<tr><th>ID del aviso</th>  <th>Paquete</th></tr>
+
+
+<dsa 2016 3707 openjdk-7>
+<dsa 2016 3708 mat>
+<dsa 2016 3746 graphicsmagick>
+<dsa 2017 3782 openjdk-7>
+<dsa 2017 3832 openoffice.org-dictionaries>
+<dsa 2017 3858 openjdk-7>
+<dsa 2017 3923 freerdp>
+<dsa 2017 3944 mariadb-10.0>
+<dsa 2017 3954 openjdk-7>
+<dsa 2017 3968 icedove>
+<dsa 2017 4010 git-annex>
+<dsa 2017 4014 thunderbird>
+<dsa 2017 4048 openjdk-7>
+<dsa 2017 4054 tor>
+<dsa 2017 4057 erlang>
+<dsa 2017 4058 optipng>
+<dsa 2017 4059 libxcursor>
+<dsa 2017 4060 wireshark>
+<dsa 2017 4061 thunderbird>
+<dsa 2017 4062 firefox-esr>
+<dsa 2017 4066 otrs2>
+<dsa 2017 4067 openafs>
+<dsa 2017 4068 rsync>
+<dsa 2017 4069 otrs2>
+<dsa 2017 4070 enigmail>
+<dsa 2017 4071 sensible-utils>
+<dsa 2017 4075 thunderbird>
+<dsa 2017 4076 asterisk>
+<dsa 2017 4077 gimp>
+<dsa 2018 4079 poppler>
+<dsa 2018 4081 php5>
+<dsa 2018 4082 linux>
+<dsa 2018 4082 linux-latest>
+<dsa 2018 4083 poco>
+<dsa 2018 4084 gifsicle>
+<dsa 2018 4085 xmltooling>
+<dsa 2018 4086 libxml2>
+<dsa 2018 4087 transmission>
+<dsa 2018 4088 gdk-pixbuf>
+<dsa 2018 4089 bind9>
+<dsa 2018 4090 wordpress>
+<dsa 2018 4091 mysql-5.5>
+<dsa 2018 4092 awstats>
+<dsa 2018 4093 openocd>
+<dsa 2018 4094 smarty3>
+<dsa 2018 4096 firefox-esr>
+<dsa 2018 4097 poppler>
+<dsa 2018 4098 curl>
+<dsa 2018 4100 tiff>
+<dsa 2018 4101 wireshark>
+<dsa 2018 4102 thunderbird>
+<dsa 2018 4104 p7zip>
+<dsa 2018 4108 mailman>
+<dsa 2018 4109 ruby-omniauth>
+<dsa 2018 4110 exim4>
+<dsa 2018 4111 libreoffice>
+<dsa 2018 4114 jackson-databind>
+<dsa 2018 4115 quagga>
+<dsa 2018 4117 gcc-4.9>
+<dsa 2018 4118 tomcat-native>
+<dsa 2018 4119 libav>
+<dsa 2018 4122 squid3>
+<dsa 2018 4123 drupal7>
+<dsa 2018 4124 lucene-solr>
+<dsa 2018 4126 xmltooling>
+<dsa 2018 4127 simplesamlphp>
+<dsa 2018 4129 freexl>
+<dsa 2018 4130 dovecot>
+<dsa 2018 4132 libvpx>
+<dsa 2018 4133 isc-dhcp>
+<dsa 2018 4136 curl>
+<dsa 2018 4137 libvirt>
+<dsa 2018 4139 firefox-esr>
+<dsa 2018 4140 libvorbis>
+<dsa 2018 4141 libvorbisidec>
+<dsa 2018 4142 uwsgi>
+<dsa 2018 4143 firefox-esr>
+<dsa 2018 4146 plexus-utils>
+<dsa 2018 4147 polarssl>
+<dsa 2018 4148 kamailio>
+<dsa 2018 4149 plexus-utils2>
+<dsa 2018 4150 icu>
+<dsa 2018 4151 librelp>
+<dsa 2018 4152 mupdf>
+<dsa 2018 4153 firefox-esr>
+<dsa 2018 4154 net-snmp>
+<dsa 2018 4155 thunderbird>
+<dsa 2018 4156 drupal7>
+<dsa 2018 4157 openssl>
+<dsa 2018 4161 python-django>
+<dsa 2018 4163 beep>
+<dsa 2018 4164 apache2>
+<dsa 2018 4165 ldap-account-manager>
+<dsa 2018 4167 sharutils>
+<dsa 2018 4168 squirrelmail>
+<dsa 2018 4172 perl>
+<dsa 2018 4175 freeplane>
+<dsa 2018 4176 mysql-5.5>
+<dsa 2018 4177 libsdl2-image>
+<dsa 2018 4178 libreoffice>
+<dsa 2018 4179 linux-tools>
+<dsa 2018 4180 drupal7>
+<dsa 2018 4184 sdl-image1.2>
+<dsa 2018 4186 gunicorn>
+<dsa 2018 4187 linux-latest>
+<dsa 2018 4187 linux>
+<dsa 2018 4189 quassel>
+<dsa 2018 4190 jackson-databind>
+<dsa 2018 4192 libmad>
+<dsa 2018 4193 wordpress>
+<dsa 2018 4194 lucene-solr>
+<dsa 2018 4195 wget>
+<dsa 2018 4196 linux>
+<dsa 2018 4199 firefox-esr>
+<dsa 2018 4202 curl>
+<dsa 2018 4204 imagemagick>
+<dsa 2018 4208 procps>
+<dsa 2018 4209 thunderbird>
+<dsa 2018 4211 xdg-utils>
+<dsa 2018 4212 git>
+<dsa 2018 4214 zookeeper>
+<dsa 2018 4215 batik>
+<dsa 2018 4216 prosody>
+<dsa 2018 4217 wireshark>
+<dsa 2018 4218 memcached>
+<dsa 2018 4220 firefox-esr>
+<dsa 2018 4221 libvncserver>
+<dsa 2018 4222 gnupg2>
+<dsa 2018 4224 gnupg>
+<dsa 2018 4225 openjdk-7>
+<dsa 2018 4226 perl>
+<dsa 2018 4227 plexus-archiver>
+<dsa 2018 4228 spip>
+<dsa 2018 4229 strongswan>
+
+</table>
+
+<h2>Paquetes eliminados</h2>
+
+<p>Se han eliminado los paquetes listados a continuación por circunstancias ajenas 
+a nosotros:</p>
+
+
+<table border=0>
+<tr><th>Paquete</th>               <th>Motivo</th></tr>
+
+<correction dolibarr                  "Demasiado trabajo para mantenerlo adecuadamente en Debian">
+<correction electrum                  "Ya no puede conectarse a la red">
+<correction jirc                      "Roto con libpoe-filter-xml-perl de jessie">
+<correction nvidia-graphics-modules   "Problema de licencia; incompatible con la ABI del núcleo actual">
+<correction openstreetmap-client      "Roto">
+<correction redmine                   "Ya no tiene soporte de seguridad">
+<correction redmine-plugin-pretend    "Depende de redmine">
+<correction redmine-plugin-recaptcha  "Depende de redmine">
+<correction redmine-recaptcha         "Depende de redmine">
+<correction youtube-dl                "Cambios incompatibles en la API de YouTube">
+</table>
+
+<h2>Instalador de Debian</h2>
+<p>Se ha actualizado el instalador para incluir las correcciones incorporadas por 
+esta nueva versión en la distribución «antigua estable».</p>
+
+<h2>URLs</h2>
+
+<p>Las listas completas de paquetes que han cambiado en esta 
+versión:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/<downcase <codename>>/ChangeLog">
+</div>
+
+<p>La distribucion «antigua estable» actual:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/oldstable/">
+</div>
+
+<p>Actualizaciones propuestas a la distribución «antigua estable»:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/oldstable-proposed-updates">
+</div>
+
+<p>Información sobre la distribución «antigua estable» (notas de publicación, erratas, etc.):</p>
+
+<div class="center">
+  <a
+  href="$(HOME)/releases/oldstable/">https://www.debian.org/releases/oldstable/</a>
+</div>
+
+<p>Información y anuncios de seguridad:</p>
+
+<div class="center">
+  <a href="$(HOME)/security/">https://security.debian.org/</a>
+</div>
+
+
+<h2>Acerca de Debian</h2>
+
+<p>El proyecto Debian es una asociación de desarrolladores de software libre que 
+aportan de forma voluntaria su tiempo y esfuerzo para producir el sistema operativo
+Debian, un sistema operativo completamente libre.</p>
+
+
+<h2>Información de contacto</h2>
+
+<p>Para más información, visite las páginas web de Debian en 
+<a href="$(HOME)/">https://www.debian.org/</a>, envíe un correo electrónico a 
+&lt;press@debian.org&gt; o contacte con el equipo responsable de la publicación en 
+&lt;debian-release@lists.debian.org&gt;.</p>
