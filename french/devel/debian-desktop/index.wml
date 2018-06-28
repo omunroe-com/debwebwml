@@ -1,15 +1,15 @@
 #use wml::debian::template title="Debian comme poste de travail"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="f17adfcaa4dbad74178134aa94c26efff40b0722" maintainer="Thomas Huriaux"
+#use wml::debian::translation-check translation="cc6c8ae04b0c297eda14e869f88e647f6984ea7a" maintainer="Thomas Huriaux"
 # Original translation by Yann Forget
 
 <h2>Le système d'exploitation universel pour votre poste de travail</h2>
 <p>
-  Le projet Debian Desktop est un groupe de volontaires qui veulent créer le
+  Le sous-projet Debian Desktop est géré par un groupe de volontaires qui veulent créer le
   meilleur système d'exploitation possible pour un poste de travail pour une
-  utilisation personnelle ou professionnelle. Notre devise est <q>Un
-  logiciel qui fonctionne, tout simplement</q>. En bref, notre objectif est
-  d'apporter Debian, GNU, et Linux à tout le monde.
+  utilisation personnelle ou professionnelle. Notre devise est <q>Des
+  logiciels qui fonctionnent, tout simplement</q>. En bref, notre objectif est
+  d'apporter Debian, GNU et Linux à tout le monde.
   <img style="float: right;" src="debian-desktop.png" alt="Debian Desktop" width="371" height="323">
 </p>
 <h3>Nos principes</h3>
@@ -37,8 +37,8 @@
   <li>
      Nous nous assurerons que les logiciels sont configurés pour
      l'utilisation la plus courante d'un poste de travail. Par exemple,
-     les comptes des utilisateurs ordinaires doivent leur permettre par
-     défaut de regarder des vidéos, d'écouter de la musique, d'imprimer,
+     le compte d’utilisateur ordinaire ajouté par défaut lors de l’installation
+     doit permettre de regarder des vidéos, d'écouter de la musique, d'imprimer,
      et de gérer le système avec sudo.
   </li>
   <li>
@@ -63,7 +63,7 @@
     priorité de ces questions de Debconf doit être au moins diminuée.
     </p>
     <p>
-      Heureusement un bon nombre de ces problèmes est déjà résolu pour
+      Heureusement un bon nombre de ces problèmes sont déjà résolus pour
       <em>Sarge</em> par l'utilisation de l'installateur Debian
       <code>debian-installer</code>.
     </p>
@@ -73,7 +73,7 @@
 </ul>
 <h3>Comment pouvez-vous aider&nbsp;?</h3>
 <p>
-  Le plus important d'un projet Debian n'est pas les listes de discussion, le
+  Le plus important d'un sous-projet Debian n'est pas les listes de discussion, le
   site web, ou l'espace d'archive pour les paquets. Le plus important, ce sont
   les <em>personnes motivées</em> qui font que les choses se produisent. Vous
   n'avez pas besoin d'être un développeur Debian officiel pour commencer à
@@ -94,12 +94,13 @@
     travailler sur l'<a href="$(DEVEL)/debian-installer/">installateur
     Debian</a>. L'interface GTK+ a besoin de main d'&oelig;uvre&nbsp;;
   <li>
-    aider les groupes
-    <a href="https://alioth.debian.org/projects/pkg-gnome">pkg-gnome</a>,
-    <a href="https://alioth.debian.org/projects/pkg-kde">pkg-kde</a> ou
-    <a href="https://alioth.debian.org/projects/pkg-xfce">pkg-xfce</a>.
+    aider les équipes
+    <a href="https://wiki.debian.org/Teams/DebianGnome">Debian GNOME</a>,
+    <a href="https://qt-kde-team.pages.debian.net/">Debian Qt et KDE</a> ou
+    <a href="https://salsa.debian.org/xfce-team/">Debian Xfce</a>.
+
     Vous pouvez aider à l'empaquetage, au tri des bogues, à la
-    documentation, aux tests, etc.&nbsp;;
+    documentation, aux tests, etc.&nbsp;;
   </li>
   <li>
     apprendre aux utilisateurs à installer et à utiliser les tâches pour
@@ -118,7 +119,7 @@
     artistique pour le bureau Debian</a>.
   </li>
 </ul>
-<h3>Wiki Debian Desktop</h3>
+<h3>Wiki</h3>
 <p>
   Nous avons quelques articles sur notre wiki, notre page principale
   étant <a href="https://wiki.debian.org/DebianDesktop">DebianDesktop</a>.
@@ -133,7 +134,7 @@
 <h3>Canal IRC</h3>
 <p>
   Nous encourageons toutes les personnes (développeur Debian ou non)
-  intéressées par Debian Desktop à se joindre à #debian-desktop sur
+  intéressées par Debian Desktop à rejoindre #debian-desktop sur
   <a href="http://oftc.net/">IRC, réseau OFTC</a> (irc.debian.org).
 </p>
 
