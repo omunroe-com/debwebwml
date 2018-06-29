@@ -16,6 +16,7 @@
 DIV.box-double-med { border: double medium black; width: 100%; padding: 0.5em }
 DIV.box-double { border: double thin black; width: 100%; padding: 0.5em }
 DIV.box-single { border: solid medium black; width: 100%; padding: 0.5em }
+div.grey { color: #888; }
 P.hanging-indent { margin-left: 1.5em; text-indent: -1.5em }
 P.indent { text-indent: 3em }
 A.menubar { font-family: helvetica, arial, sans-serif; text-decoration: none }

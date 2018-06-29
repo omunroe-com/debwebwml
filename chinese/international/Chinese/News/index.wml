@@ -8,11 +8,19 @@
 
 <h2>近期新闻</h2>
 
-<p>（暂无新闻）</p>
+<p>2018年度最大新聞是 DebConf18 將在7月29日至8月5日於台灣新竹市盛大舉行！\
+在活動正式開始前有一週的 DebCamp (7月21日至7月27日)
+以及一日的 Open Day (7月28日)。\
+活動詳情，請參閱 DebConf18 官方網站
+<a href="https://debconf18.debconf.org/">https://debconf18.debconf.org/</a>。\
+這也是首次在亞洲地區舉行的 DebConf 盛會！期望您的參與！</p>
 
 <h2>历史消息存档</h2>
-<p>
-<details>
+
+<p>以下是2000年至2004年間 Debian 中文計劃的一些動態。年代久遠，謹供參考。</p>
+
+<div class="grey">
+
 <h3>2004年 6月22日：</h3>
 <ul>
 <li>我們回來了！抱歉這一個階段主頁沒有及時更新，但是 Debian 中文計劃一直在繼續。</li>
@@ -278,5 +286,4 @@ debian-chinese-big5 和 debian-chinese-gb 了。
 <LI>新版的 xcin_2.5.1.99.pre3-1、libtabe_0.1.4-1 和 bg5ps_1.3.0-1 
     已上傳至 woody 中了。</LI>
 </ul>
-</details>
-</p>
+</div>

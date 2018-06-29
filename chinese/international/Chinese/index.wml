@@ -1,9 +1,9 @@
 #use tmpl::debian-zh::template area=home title="Debian 中文計劃"
 
 <div class="important">
-<p>
-当前 Debian 主站久已未翻译，页首链接暂按原样展示，不保证可用性。
-</p>
+<p>这个版本的「Debian 中文計劃」相關頁面久已未更新，页首链接暂按原样展示，不保证可用性。</p>
+
+<p>請同時參考 Debian Salsa 上的 <a href="https://chinese-team.pages.debian.net/" target="_blank">chinese-team.pages.debian.net</a> 網站，上面的資訊比較新。謝謝！</p>
 </div>
 
 <p>
@@ -30,15 +30,17 @@
         中文本地化/在地化/国际化开发（翻译协调）：<a href="https://lists.debian.org/debian-l10n-chinese/"><tt>debian-l10n-chinese</tt></a>
       </li>
       <li>
-        中文开发者团队列表（Alioth）：<a href="https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/chinese-developers"><tt>chinese-developers@lists.alioth.debian.org</tt></a>
+        中文开发者团队列表 (Alioth)：<a href="https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/chinese-developers"><tt>chinese-developers@lists.alioth.debian.org</tt></a>
       </li>
     </ul>
+    <p>郵件列表歡迎任何中文或英文的文章。兩者不互通，如需完整通知信息请手动进行抄送。
+    请务必使用 UTF-8 编码信件（而非 GB2312/GBK/GB18030/BIG5 等）。</p>
   </dd>
-  <p>郵件列表歡迎任何中文或英文的文章。兩者不互通，如需完整通知信息请手动进行抄送。
-  请务必使用 UTF-8 编码信件（而非 GB2312/GBK/GB18030/BIG5 等）。</p>
   <dt><strong>中文 Debian 使用者社区</strong></dt>
   <dd>
     <ul>
+      <li>IRC: #debian-zh @ OFTC (irc.debian.org), <a href="https://webchat.oftc.net/">Webchat</a>
+      </li>
       <li>
         <a href="https://www.debiancn.org/">（非官方）Debian 中文社区</a>，<a href="https://wiki.debian.org/LocalGroups/Debian-CN">Wiki 介绍</a>
         <ul>
@@ -51,9 +53,16 @@
       </li>
       <li>
         <a href="http://www.debian.org.tw/">Debian 臺灣社群</a>，<a href="https://wiki.debian.org/LocalGroups/Debian-TW">Wiki 介绍</a>
+        <ul>
+        <li><a href="https://www.facebook.com/groups/debian.tw/">Debian 台灣使用者社團 (Debian Taiwan User Group) Facebook 群組</a>
+        <li>IRC: #dot @ OFTC (irc.debian.org), <a href="https://webchat.oftc.net/">Webchat</a>
+        </ul>
       </li>
       <li>
         <a href="http://www.debian.org.hk/">Debian HK</a>，<a href="https://wiki.debian.org/LocalGroups/Debian-HK">Wiki 介绍</a>
+        <ul>
+        <li><a href="https://www.facebook.com/groups/debianhk/">Debian HK Facebook 群組</a>
+        </ul>
       </li>
     </ul>
   </dd>
