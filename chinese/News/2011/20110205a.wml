@@ -6,7 +6,7 @@
 <p>經過 24 個月不停的開發，Debian 計畫很榮幸在此宣佈推出新的穩定版：
 Debian 6.0 (代號 “Squeeze”)。Debian 6.0 作為一個自由的作業系統，這是
 第一次推第二種不同的風味；除了常見的 Debian GNU/Linux，這次還引入了 Debian
-GNU/kFreeBSD 作<q>技術預覽</q>。</p>
+GNU/kFreeBSD 作爲<q>技術預覽</q>。</p>
 
 <p>Debian 6.0 包含了 KDE Plasma 桌面及應用程式、GNOME、Xfce 和 LXDE 桌面環境，
 還有各種不同的伺服器程式。此外，它兼容 FHS v2.3，可以適用相容
