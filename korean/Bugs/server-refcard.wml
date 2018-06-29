@@ -1,0 +1,98 @@
+#use wml::debian::template title="Debian BTS &mdash; mail server reference card" NOHEADER=yes NOCOPYRIGHT=true
+#include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
+#use wml::debian::translation-check translation="d57880fc68c4033938ec5f4b76af957cf31ea743" maintainer="Sebul"
+#
+# Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-06-29
+
+<h1>메일서버의 참조 카드(Mail servers' reference card)</h1>
+
+<p>메일서버의 전체 문서는 웹상에서 
+<a href="server-request">bug-log-mailserver.txt</a>와
+<a href="server-control">bug-maint-mailcontrol.txt</a>에서 볼 수 있으며,
+또는 각 메일서버에다 <code>help</code> 명령어를 기재(본문에다 기재)하여 전자메일을 보냄으로써
+알 수도 있습니다.</a> 
+
+<h2><code>request@bugs.debian.org</code>에서 사용가능한 명령어들의 개요</h2>
+
+<ul>
+<li><code>send</code> <var>bugnumber</var></li>
+<li><code>send-detail</code> <var>bugnumber</var></li>
+<li><code>index</code> [<code>full</code>]</li>
+<li><code>index-summary by-package</code></li>
+<li><code>index-summary by-number</code></li>
+<li><code>index-maint</code></li>
+<li><code>index maint</code> <var>maintainer</var></li>
+<li><code>index-packages</code></li>
+<li><code>index packages</code> <var>package</var></li>
+<li><code>send-unmatched</code> [<code>this</code>|<code>0</code>]</li>
+<li><code>send-unmatched</code> <code>last</code>|<code>-1</code></li>
+<li><code>send-unmatched</code> <code>old</code>|<code>-2</code></li>
+<li><code>getinfo</code> <var>filename</var> <small>(ftp.debian.org/debian/doc/*)</small></li>
+<li><code>help</code></li>
+<li><code>refcard</code></li>
+<li><code><a href="$(BUGS)/server-control#thanks">thanks</a></code></li>
+<li><code>#</code>... <em>(comment)</em></li>
+<li><code>debug</code> <var>level</var></li>
+</ul>
+
+<h2><code>control@bugs.debian.org</code>에서 사용가능한 특별한 명령어들의 개요</h2>
+
+<ul>
+<li><code>reassign</code> <var>bugnumber</var> <var>package</var>
+ [ <var>version</var> ]</li>
+<li><code>severity</code> <var>bugnumber</var> <var>severity</var></li>
+<li><code>reopen</code> <var>bugnumber</var>
+ [ <var>originator-address</var> | <code>=</code> | <code>!</code> ]</li>
+<li><code>found</code> <var>bugnumber</var> [ <var>version</var> ]</li>
+<li><code>notfound</code> <var>bugnumber</var> <var>version</var></li>
+<li><code>submitter</code> <var>bugnumber</var>
+ <var>originator-address</var> | <code>!</code></li>
+<li><code>forwarded</code> <var>bugnumber</var> <var>address</var></li>
+<li><code>notforwarded</code> <var>bugnumber</var></li>
+<li><code>owner</code> <var>bugnumber</var>
+ <var>address</var> | <code>!</code></li>
+<li><code>noowner</code> <var>bugnumber</var></li>
+<li><code>retitle</code> <var>bugnumber</var> <var>new-title</var></li>
+<li><code>clone</code> <var>bugnumber</var> <var>NewID</var> [ <var>new IDs</var> ... ]</li>
+<li><code>merge</code> <var>bugnumber</var> <var>bugnumber</var> ...</li>
+<li><code>unmerge</code> <var>bugnumber</var></li>
+<li><code>forcemerge</code> <var>bugnumber</var> <var>bugnumber</var> ...</li>
+<li><code>tag</code> <var>bugnumber</var>
+  [ <code>+</code> | <code>-</code> | <code>=</code> ] <var>tag</var> [ <var>tag</var> ... ]</li>
+<li><code>block</code> <var>bugnumber</var> <code>by</code> <var>bug</var> ...</li>
+<li><code>unblock</code> <var>bugnumber</var> <code>by</code> <var>bug</var> ...</li>
+<li><code>close</code> <var>bugnumber</var> [ <var>fixed-version</var> ]
+ <strong>(사용되지 않음 &mdash; 별도로 여러분은 반드시 발신자(해당 버그 보고서 제출자와 피드백에 참여한 사용자들)
+에게 닫는(closing bug report) 이유를 설명해주어야 합니다,
+<q>대신 <a href="Developer#closing">버그 보고서 닫기(Closing bug reports)</a> 편을 참조하세요</q>)</strong>
+</li>
+</ul>
+
+<p><code>reopen</code> 시에 "<code>=</code>" 기호를 기재하거나 또는 발신자 주소(originator address)를
+빈 공란으로 남겨두면 발신자(the originator)가 해당 버그 보고서의 제출자(the original submitter)로 대치됩니다; 
+"<code>!</code>" 기호를 기재하면 발신자(the originator)는 지금 reopen 명령어를 시도하는 
+바로 여러분의 전자메일 주소로 대치됩니다.</p> 
+
+<p>사용가능한 <a href="Developer#severities">Severities</a> 목록: <bts_severities>.</p>
+
+<p>현재 사용가능한 <a href="Developer#tags">Tag</A> 목록: <bts_tags>.</p>
+
+<h2>버그 보고서 제출시 따라붙는 주소(followup address) 목록</h2>
+
+<ul>
+  <li><var>nnn</var>[ <code>-submit</code> | ]</li>
+  <li><var>nnn</var><code>-maintonly</code></li>
+  <li><var>nnn</var><code>-quiet</code></li>
+  <li><var>nnn</var><code>-forwarded</code></li>
+  <li><var>nnn</var><code>-request</code></li>
+  <li><var>nnn</var><code>-submitter</code></li>
+  <li><var>nnn</var><code>-done</code></li>
+  <li><var>nnn</var><code>-close</code></li>
+  <li><var>nnn</var><code>-subscribe</code></li>
+</ul>  
+
+<hr />
+
+#use "otherpages.inc"
+
+#use "$(ENGLISHDIR)/Bugs/footer.inc"
