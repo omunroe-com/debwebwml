@@ -1,14 +1,14 @@
-#use wml::debian::cdimage title="Debian op CD's" BARETITLE=true
+#use wml::debian::cdimage title="Debian op CD's/DVD's" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b"
+#use wml::debian::translation-check translation="9dcab36202d262b6b33583d68794b995999fa269"
 
 # Last Translation update by: $Author$
 # Last Translation update at: $Date$
 
-<p>Als u Debian op CD's of USB-stick wilt hebben, kunt u hieronder zien
+<p>Als u Debian op CD's/DVD's of USB-stick wilt bekomen, kunt u hieronder zien
 welke opties er beschikbaar zijn. Indien u problemen heeft, kijk dan
 eens in de <a href="faq/">FAQ (lijst van veelgestelde vragen) over de
-Debian CD's</a>.</p>
+Debian CD's/DVD's</a>.</p>
 
 <div class="tip">
   <p>Wilt u Debian installeren en beschikt de doelcomputer over een
@@ -29,11 +29,11 @@ gebruikt worden</a></div>
   Veel spiegelservers bieden HTTP-links aan waarmee u de images rechtstreeks
   met uw browser of met een programma aan de commandoregel kunt downloaden.</li>
 
-  <li><a href="vendors/">Koop kant-en-klare Debian CD's.</a> Ze zijn goedkoop -
+  <li><a href="vendors/">Koop kant-en-klare Debian media.</a> Ze zijn goedkoop -
   we maken er geen winst op! Als u voor uw internetverbinding per minuut
-  betaalt, dan is dit uw enige optie. U kunt ook overwegen de CD's te kopen als
-  u alleen een modem hebt, omdat het downloaden over een modemverbinding dagen
-  kan duren.</li>
+  betaalt, dan is dit uw enige optie. U zou de media ook kunnen aankopen als
+  u een trage internetverbinding heeft, omdat het downloaden van alle images
+  zeer lang kan duren.</li>
 
   <li><a href="jigdo-cd/">Download CD/DVD-images met jigdo.</a> Het programma
   &quot;jigdo&quot; geeft u de mogelijkheid om de snelste van de
@@ -57,18 +57,18 @@ gebruikt worden</a></div>
 
 </ul>
 
-<p>Officiële CD-releases zijn ondertekend zodat u hun echtheid kunt <a
+<p>Officiële CD/DVD-releases zijn ondertekend zodat u hun echtheid kunt <a
 href="verify">verifiëren.</a>.</p>
 
 <p>Debian is beschikbaar voor verschillende computerarchitecturen - zorg
 ervoor dat u de images downloadt die bij uw computer horen! (De meeste
-mensen moeten de images voor &quot;i386&quot;-, ofwel Intel-systemen
-gebruiken.) Als u eenmaal uw eigen CD's heeft gebrand, bent u wellicht
+mensen moeten de images voor <q>amd64</q>, d.w.z. 64-bits PC-compatibele systemen,
+gebruiken.) Als u eenmaal uw eigen schijfjes heeft gebrand, bent u wellicht
 geïnteresseerd in het <a href="artwork/">illustratiemateriaal</a>
-voor de CD-hoesjes van Debian-CD's.</p>
+voor de hoesjes van Debian schijfjes.</p>
 
       <div class="cdflash" id="latest">Meest recente officiële
-      release van de &quot;stable&quot; CD-images:
+      release van de &quot;stable&quot; CD/DVD-images:
         <strong><current-cd-release></strong>.
       <br><small>(Snapshots voor de &quot;testing&quot; distributie worden
       wekelijks gegenereerd.)</small></div>
