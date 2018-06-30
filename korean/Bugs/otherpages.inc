@@ -1,7 +1,7 @@
 #
 # Updated: Woo-il Song, 2007
-# Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-06-29
-<p>버그 추적 시스템(BTS) 문서들:
+# Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-06-30
+<p>그 외의 버그 추적 시스템(BTS) 문서들:
 
 <ul>
   <li><a href="./">버그 추적 시스템(BTS) 메인 차례 페이지.</a>
