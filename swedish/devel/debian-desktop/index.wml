@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian på skrivbordet"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="f17adfcaa4dbad74178134aa94c26efff40b0722"
+#use wml::debian::translation-check translation="cc6c8ae04b0c297eda14e869f88e647f6984ea7a"
 
 <h2>Det universella operativsystemet som ditt skrivbord</h2>
 
@@ -100,12 +100,11 @@
   GTK+-skalet behöver dig.
  </li>
  <li>
-  Hjälpa
-  <a href="https://alioth.debian.org/projects/pkg-gnome">pkg-gnome</a>-
-  <a href="https://alioth.debian.org/projects/pkg-kde">pkg-kde</a>-, eller
-  <a href="https://alioth.debian.org/projects/pkg-xfce">pkg-xfce</a>-gruppen.
-  Du kan hjälpa till med paketering, prioritera fel, dokumentation,
-  testning, med mera.
+  Hjälpa <a href="https://wiki.debian.org/Teams/DebianGnome">Debian GNOME-gruppen</a>,
+  <a href="https://qt-kde-team.pages.debian.net/">Debian Qt- och KDE-grupperna</a> eller
+  <a href="https://salsa.debian.org/xfce-team/">Debian Xfce-gruppen</a>.
+  Du kan hjälpa till med paketering, felbedömning, dokumentation, testning och
+  mer.
  </li>
  <li>
   Lära användare hur man installerar och använder de skrivbordsfunktioner vi 
