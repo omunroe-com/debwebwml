@@ -1,0 +1,46 @@
+#use wml::debian::translation-check translation="60bbfaf2abb6c026015e0805d790a044c7b24088"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se han descubierto varias vulnerabilidades en el intérprete del
+lenguaje de programación Ruby. El proyecto «Vulnerabilidades y exposiciones comunes» («Common Vulnerabilities and Exposures»)
+identifica los problemas siguientes:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-0898">CVE-2017-0898</a>
+
+    <p>aerodudrizzt informó de una vulnerabilidad de subdesbordamiento de «buffer» en el método
+    sprintf del módulo Kernel, que da lugar a corrupción de la memoria dinámica («heap») o
+    a revelación de información de la memoria dinámica.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-0903">CVE-2017-0903</a>
+
+    <p>Max Justicz informó de que RubyGems es propenso a una vulnerabilidad de reconstrucción
+    insegura de datos serializados. Una especificación de gem con formato YAML manipulada
+    de una manera determinada puede dar lugar a ejecución de código remoto cuando la analiza
+    sintácticamente una aplicación que procesa gems.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-10784">CVE-2017-10784</a>
+
+    <p>Yusuke Endoh descubrió una vulnerabilidad de inyección de secuencia de escape
+    en la autenticación «Basic» de WEBrick. Un atacante puede
+    aprovechar este defecto para inyectar secuencias de escape maliciosas en el
+    log de WEBrick y, potencialmente, ejecutar caracteres de control en el
+    emulador de terminal de la víctima cuando lea logs.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-14033">CVE-2017-14033</a>
+
+    <p>asac informó de una vulnerabilidad de subdesbordamiento de «buffer» en la extensión
+    OpenSSL. Un atacante remoto puede aprovechar este defecto para
+    provocar la caída del intérprete de Ruby, dando lugar a denegación de servicio.</p></li>
+
+</ul>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han resuelto en
+la versión 2.3.3-1+deb9u2.</p>
+
+<p>Le recomendamos que actualice los paquetes de ruby2.3.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2017/dsa-4031.data"
