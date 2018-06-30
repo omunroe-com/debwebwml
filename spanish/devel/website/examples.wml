@@ -1,24 +1,22 @@
 #use wml::debian::template title="Ejemplos"
-#use wml::debian::translation-check translation="d1c06014aabc068656f3ebd20a38c574c7553f7a"
+#use wml::debian::translation-check translation="93f96e5508d963eef6dee47f4ac2360e27d7939b"
 
 <H3>Ejemplo de cómo se comienza una traducción</H3>
 
 <p>Usaremos el idioma francés para el ejemplo:
 
 <pre>
-   cvs checkout webwml/Makefile.common webwml/english
+   git pull
    cd webwml
    mkdir french
-   cvs add french
    cd french
    cp ../english/.wmlrc ../english/Make.* .
-   echo '<protect>include $(subst webwml/french,webwml/english,$(CURDIR))/Makefile</protect>' &gt;
-   Makefile
+   echo '<protect>include $(subst webwml/french,webwml/english,$(CURDIR))/Makefile</protect>' &gt; Makefile
    mkdir po
-   cvs add Make* .wmlrc po
+   git add Make* .wmlrc
    cp Makefile po
    make -C po init-po
-   cvs add po/Makefile po/*.fr.po
+   git add po/Makefile po/*.fr.po
 </pre>
 
 <p>Edite el fichero <tt>.wmlrc</tt> y modifique:
@@ -42,17 +40,17 @@ información lea ../Makefile.common y a lo mejor otros ejemplos de trabajo
 Esto debería ser bastante intuitivo.
 
 <p>Asegúrese siempre de que copia el Makefile a cada directorio que
-traduce. Es necesario porque el programa <code>make</code> es el que
-usa para convertir los .wml en HTML, y <code>make</code> usa
-Makefiles.
+traduce. Es necesario porque se usa el programa <code>make</code> para convertir
+los .wml en HTML y <code>make</code> usa Makefiles.
 
 <p>Cuando acabe de añadir y editar páginas, haga
 <pre>
-   cvs commit
+   git commit -m "Add your commit message here"
+   git push
 </pre>
-desde el directorio webwml. Ahora puede usted empezar a traducir páginas.
+desde el directorio webwml. Ahora puede empezar a traducir las páginas.
 
-<H3>Ejemplo de Traducción de una Página</H3>
+<H3>Ejemplo de traducción de una página</H3>
 
 <p>Usaremos la traducción del contrato social al francés como ejemplo:
 
@@ -60,10 +58,9 @@ desde el directorio webwml. Ahora puede usted empezar a traducir páginas.
    cd webwml
    ./copypage.pl english/social_contract.wml
    cd french
-   cvs add social_contract.wml
 </pre>
 
-<p>Esto añadirá automáticamente la cabecera «translation-check header», apuntando a
+<p>Esto añadirá automáticamente la cabecera «translation-check» apuntando a
 la versión del fichero original que se copió. También crea el directorio destino y
 el fichero «Makefile», si no existieran.</p>
 
@@ -72,45 +69,46 @@ ningún enlace de forma alguna - si quiere cambiar cualquier cosa, notifíquelo 
 lista debian-www. Cuando termine, escriba
 
 <pre>
-   cvs commit -m "pequeña descripción de los cambios que hizo" social_contract.wml
+   git add social_contract.wml
+   git commit -m "Translated social contract to french"
+   git push
 </pre>
 
-<H3>Ejemplo para Añadir un Nuevo Directorio</H3>
+<H3>Ejemplo de adición de un nuevo directorio</H3>
 
-<p>Éste ejemplo muestra cómo añadir el directorio intro/ a la traducción francesa:
+<p>Este ejemplo muestra cómo añadir el directorio intro/ a la traducción francesa:
 
 <pre>
    cd webwml/french
    mkdir intro
-   cvs add intro
    cd intro
-   cp ../english/intro/Makefile .
+   cp ../Makefile .
+   git add Makefile
+   git commit -m "added the intro dir to git"
+   git push
 </pre>
 
-Asegúrese que el nuevo directorio tiene el Makefile y que ha sido enviado al CVS.
+Asegúrese de que el nuevo directorio tiene el Makefile y de que ha hecho el commit en git.
 De otra forma, dará un error a cualquiera que intente ejecutar make.
-
-<pre>
-   cvs add Makefile
-   cd ..
-   cvs commit -m "added the intro dir to CVS" intro
-</pre>
 
 #example not finished
 # <H3>Example of a Conflict</H3>
 #
 # <p>This example shows a commit that won't work because the copy in the
-# repository has been modified since your last <kbd>cvs update -d</kbd>.
+# repository has been modified since your last <kbd>git pull</kbd>.
 #
 # <pre>
-#    cvs commit -m"fixed a broken link" foo.wml
+#    git foo.wml
+#    cvs commit -m "fixed a broken link"
+#    git push
 # </pre>
 #
 # will output:
 #
 # <pre>
-# cvs: Up-to-date check failed for foo.wml!
-# cvs: fix the above errors first
+#To salsa.debian.org:webmaster-team/webwml.git
+# ! [rejected]                master -> master (fetch first)
+#error: failed to push some refs to 'git@salsa.debian.org:webmaster-team/webwml.git'
 # </pre>
 #
 # or something like that :)
