@@ -10,7 +10,7 @@
 <a href="server-request">bug-log-mailserver.txt</a>와
 <a href="server-control">bug-maint-mailcontrol.txt</a>에서 볼 수 있으며,
 또는 각 메일서버에다 <code>help</code> 명령어를 기재(본문에다 기재)하여 전자메일을 보냄으로써
-알 수도 있습니다.</a> 
+알 수도 있습니다.
 
 <h2><code>request@bugs.debian.org</code>에서 사용가능한 명령어들의 개요</h2>
 
