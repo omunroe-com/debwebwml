@@ -1,0 +1,160 @@
+#use wml::debian::translation-check translation="38064b8fd0bc72aee5667310770c1e8a7cc78720" maintainer="Jean-Pierre Giraud"
+<define-tag description>Mise à jour de sécurité</define-tag>
+<define-tag moreinfo>
+<p>Plusieurs vulnérabilités ont été découvertes dans le navigateur web
+Chromium.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6118">CVE-2018-6118</a>
+
+<p>Ned Williamson a découvert un problème d'utilisation de mémoire après
+libération.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6120">CVE-2018-6120</a>
+
+<p>Zhou Aiting a découvert un problème de dépassement de tampon dans la
+bibliothèque pdfium.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6121">CVE-2018-6121</a>
+
+<p>Des extensions malveillantes pourraient mener à une augmentation de
+droits.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6122">CVE-2018-6122</a>
+
+<p>Un problème de confusion de type a été découvert dans la bibliothèque
+JavaScript v8.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6123">CVE-2018-6123</a>
+
+<p>Looben Yang a découvert un problème d'utilisation de mémoire après
+libération.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6124">CVE-2018-6124</a>
+
+<p>Guang Gong a découvert un problème de confusion de type.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6125">CVE-2018-6125</a>
+
+<p>Yubico a découvert que l'implémentation de WebUSB était trop permissive.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6126">CVE-2018-6126</a>
+
+<p>Ivan Fratric a découvert un problème de dépassement de tampon dans la
+bibliothèque skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6127">CVE-2018-6127</a>
+
+<p>Looben Yang a découvert un problème d'utilisation de mémoire après
+libération.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6129">CVE-2018-6129</a>
+
+<p>Natalie Silvanovich a découvert un problème de lecture hors limites dans
+WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6130">CVE-2018-6130</a>
+
+<p>Natalie Silvanovich a découvert un problème de lecture hors limites dans
+WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6131">CVE-2018-6131</a>
+
+<p>Natalie Silvanovich a découvert une erreur dans WebAssembly.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6132">CVE-2018-6132</a>
+
+<p>Ronald E. Crane a découvert un problème de mémoire non initialisée.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6133">CVE-2018-6133</a>
+
+<p>Khalil Zhani a découvert un problème d'usurpation d'URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6134">CVE-2018-6134</a>
+
+<p>Jun Kokatsu a découvert un moyen de contourner le « Referrer Policy ».</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6135">CVE-2018-6135</a>
+
+<p>Jasper Rebane a découvert un problème d'usurpation d'interface
+utilisateur.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6136">CVE-2018-6136</a>
+
+<p>Peter Wong a découvert un problème de lecture hors limites dans la
+bibliothèque JavaScript v8.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6137">CVE-2018-6137</a>
+
+<p>Michael Smith a découvert une fuite d'informations.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6138">CVE-2018-6138</a>
+
+<p>François Lajeunesse-Robert a découvert que la politique des extensions
+était trop permissive.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6139">CVE-2018-6139</a>
+
+<p>Rob Wu a découvert un moyen de contourner les restrictions dans
+l'extension de débogage.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6140">CVE-2018-6140</a>
+
+<p>Rob Wu a découvert un moyen de contourner les restrictions dans
+l'extension de débogage.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6141">CVE-2018-6141</a>
+
+<p>Yangkang a découvert un problème de dépassement de tampon dans la
+bibliothèque skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6142">CVE-2018-6142</a>
+
+<p>Choongwoo Han a découvert une lecture hors limites dans la bibliothèque
+JavaScript v8.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6143">CVE-2018-6143</a>
+
+<p>Guang Gong a découvert une lecture hors limites dans la bibliothèque
+JavaScript v8.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6144">CVE-2018-6144</a>
+
+<p>pdknsk a découvert une lecture hors limites dans la bibliothèque pdfium.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6145">CVE-2018-6145</a>
+
+<p>Masato Kinugawa a découvert une erreur dans l'implémentation de MathML.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6147">CVE-2018-6147</a>
+
+<p>Michail Pishchagin a découvert une erreur dans les champs d'entrée de
+mot de passe.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6148">CVE-2018-6148</a>
+
+<p>Michał Bentkowski a découvert que l'en-tête « Content Security Policy »
+était géré incorrectement.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6149">CVE-2018-6149</a>
+
+<p>Yu Zhou et Jundong Xie ont découvert un problème de lecture hors limites
+dans la bibliothèque JavaScript v8.</p></li>
+
+</ul>
+
+<p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
+dans la version 67.0.3396.87-1~deb9u1.</p>
+
+<p>Nous vous recommandons de mettre à jour vos paquets chromium-browser.</p>
+
+<p>Pour disposer d'un état détaillé sur la sécurité de chromium-browser,
+veuillez consulter sa page de suivi de sécurité à l'adresse :
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">\
+https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4237.data"
+# $Id: $
