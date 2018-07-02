@@ -5,10 +5,10 @@
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0"
 
 <p>
-<a href="http://sv.wikipedia.org/wiki/Bittorrent">BitTorrent</a> är ett
+<a href="https://sv.wikipedia.org/wiki/Bittorrent">BitTorrent</a> är ett
 icke-hierarkiskt filhämntningssystem optimerat för stora mängder hämtar.
 Det belastar vårt nätverk minimalt, då BitTorrentklienter sänder små delar av
 filer till andra medan de hämtar och därmed sprider belastningen över nätverket,
@@ -29,15 +29,13 @@ från dem.
 <p>
 Du behöver en BitTorrentklient för att hämta Debian-cd:arna på det här sättet.
 I Debiandistributionen finns verktygen
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a>
 och originalet
 <a href="https://packages.debian.org/bittorrent">BitTorrent</a>.
 Stöd för andra operativsystem finns i
-<a href="http://azureus.sourceforge.net/download.php">Azureus</a>,
 <a href="http://www.bittornado.com/download.html">BitTornado</a> och
-<a href="http://www.bittorrent.com/download">BitTorrent</a>.
+<a href="https://www.bittorrent.com/download">BitTorrent</a>.
 </p>
 
 

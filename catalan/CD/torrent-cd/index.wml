@@ -1,12 +1,12 @@
 #use wml::debian::cdimage title="Descarregant imatges de CD de Debian amb BitTorrent" BARETITLE=true
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Guillem Jover"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0" maintainer="Guillem Jover"
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-<p><a href="http://ca.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
+<p><a href="https://ca.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 és un sistema de descarregues d'igual a igual optimitzat per a nombres
 molt grans de persones fent descarregues. Carrega molt poc els nostres
 servidors per què els clients de BitTorrent apugen trossos de fitxers a
@@ -25,14 +25,12 @@ que necessitareu paquets continguts en aquests.</p>
 <p>
 Per a descarregar els CD/DVD de Debian d'aquesta manera necessitareu un
 client BitTorrent. La distribució Debian inclou
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> i les eines
 <a href="https://packages.debian.org/bittorrent">BitTorrent</a> originals.
 Altres sistemes operatius estan suportats per <a
-href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
 href="http://www.bittornado.com/download.html">BitTornado</a> i <a
-href="http://www.bittorrent.com/download">BitTorrent</a>.
+href="https://www.bittorrent.com/download">BitTorrent</a>.
 </p>
 
 

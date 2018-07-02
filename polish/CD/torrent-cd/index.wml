@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Pobieranie obrazów płyt Debiana przy użyciu BitTorrenta" BARETITLE=true
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0"
 # oryginalny plik CD/torrent-cd/index
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
@@ -7,7 +7,7 @@
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-<p><a href="http://pl.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
+<p><a href="https://pl.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 to system wymiany plików p2p zoptymalizowany dla dużej liczby pobierających.
 Nie obciąża on zbytnio naszych serwerów, ponieważ użytkownicy BitTorrent'a 
 wysyłają części plików do innych użytkowników podczas pobierania, powodując
@@ -25,14 +25,12 @@ zawartych na nich pakietów.</p>
 <p>
 Będziesz potrzebował klienta sieci BitTorrent, aby pobrać obraz płyty CD/DVD
 z dystrybucją Debiana w ten sposób. Dystrybucja Debiana zawiera
-<a href="https://packages.debian.org/azureus">Azureusa</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> i oryginalnego 
 <a href="https://packages.debian.org/bittorrent">BitTorrenta</a>.
 Inne systemy operacyjne są wspierane przez <a
-href="http://azureus.sourceforge.net/download.php">Azureusa</a>, <a
 href="http://www.bittornado.com/download.html">BitTornado</a> i <a
-href="http://www.bittorrent.com/download">BitTorrent</a>.
+href="https://www.bittorrent.com/download">BitTorrent</a>.
 </p>
 
 

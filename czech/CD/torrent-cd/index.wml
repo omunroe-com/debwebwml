@@ -2,11 +2,11 @@
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::installer
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Michal Simunek"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0" maintainer="Michal Simunek"
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-<p><a href="http://cs.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
+<p><a href="https://cs.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 je systém přímého stahování (peer-to-peer) optimalizovaný pro velké počty
 stahujících. Minimálně zatěžuje naše servery, protože klienti sítě BitTorrent
 během stahování nahrávají části souborů ostatním stahujícím, čímž rozkládají zátěž
@@ -24,14 +24,12 @@ některé z&nbsp;balíčků, které se na nich nacházejí.</p>
 <p>
 Abyste tímto způsobem mohli stáhnout CD/DVD Debianu, budete potřebovat
 klienta BitTorrentu. Distribuce Debian obsahuje
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> a&nbsp;původní nástroje
 <a href="https://packages.debian.org/bittorrent">BitTorrentu</a>.
 Jiné operační systémy podporují <a
-href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
 href="http://www.bittornado.com/download.html">BitTornado</a> a&nbsp;<a
-href="http://www.bittorrent.com/download">BitTorrent</a>.
+href="https://www.bittorrent.com/download">BitTorrent</a>.
 </p>
 
 <h3>Oficiální torrenty verze <q>stable</q></h3>

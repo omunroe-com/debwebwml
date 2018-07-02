@@ -4,9 +4,9 @@
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0"
 
-<p><a href="http://ru.wikipedia.org/wiki/BitTorrent">BitTorrent</a>&nbsp;&mdash;
+<p><a href="https://ru.wikipedia.org/wiki/BitTorrent">BitTorrent</a>&nbsp;&mdash;
 это пиринговая система, оптимизированная для большого числа параллельных
 загрузок. Её использование снижает нагрузки на наши серверы, поскольку
 клиенты BitTorrent по мере загрузки передают части файлов остальным, более
@@ -24,14 +24,12 @@
 <p>
 Чтобы загрузить образы CD/DVD Debian этим способом, вам понадобится клиент
 BitTorrent. Дистрибутив Debian содержит
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> и оригинальные
 утилиты <a href="https://packages.debian.org/bittorrent">BitTorrent</a>.
 Другие операционные системы поддерживаются следующими клиентами: <a
-href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
 href="http://www.bittornado.com/download.html">BitTornado</a> и <a
-href="http://www.bittorrent.com/download">BitTorrent</a>.
+href="https://www.bittorrent.com/download">BitTorrent</a>.
 </p>
 
 <h3>Официальные файлы torrent для <q>стабильного</q> выпуска</h3>

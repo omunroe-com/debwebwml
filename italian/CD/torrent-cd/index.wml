@@ -2,11 +2,11 @@
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::installer
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0" maintainer="Luca Monducci"
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-<p><a href="http://it.wikipedia.org/wiki/BitTorrent">BitTorrent</a> è un sistema
+<p><a href="https://it.wikipedia.org/wiki/BitTorrent">BitTorrent</a> è un sistema
 peer-to-peer per scaricare ottimizzato per un numero elevato di utilizzatori.
 Applica un carico minimale sui nostri server perché i client BitTorrent mentre
 scaricano inviano parti dei file agli altri client spalmando il carico sulla
@@ -22,14 +22,12 @@ si ha bisogno dei pacchetti in essi contenuti.</p>
 
 <p>&Egrave; necessario un client BitTorrent per scaricare le immagini dei
 CD/DVD Debian con questo sistema. La distribuzione Debian include
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> e
 <a href="https://packages.debian.org/bittorrent">BitTorrent</a>.
 Su altri sistemi operativi sono disponibili
-<a href="http://azureus.sourceforge.net/download.php">Azureus</a>,
 <a href="http://www.bittornado.com/download.html">BitTornado</a> e
-<a href="http://www.bittorrent.com/download">BitTorrent</a>.</p>
+<a href="https://www.bittorrent.com/download">BitTorrent</a>.</p>
 
 
 <h3>Torrent ufficiali per la distribuzione <q>stable</q></h3>

@@ -4,9 +4,9 @@
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Andrei Popescu"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0" maintainer="Andrei Popescu"
 
-<p><a href="http://ro.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
+<p><a href="https://ro.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 este un sistem de descărcare partener-partener (eng.: peer-to-peer)
 optimizat pentru un număr mare de descărcări. Serverele noastre sunt
 solicitate minimal deoarece clienții BitTorrent încarcă bucăți de
@@ -25,14 +25,12 @@ acestea.</p>
 <p>
 Pentru a descărca imagini CD/DVD Debian veți avea nevoie de un client
 BitTorrent. Distribuția Debian include
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> și uneltele 
 <a href="https://packages.debian.org/bittorrent">BitTorrent</a> originale.
 Există variante ale aplicațiilor <a
-href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
 href="http://www.bittornado.com/download.html">BitTornado</a> și <a
-href="http://www.bittorrent.com/download">BitTorrent</a> și pentru alte
+href="https://www.bittorrent.com/download">BitTorrent</a> și pentru alte
 sisteme de operare.
 </p>
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0" maintainer="Trần Ngọc Quân <vnwildman@gmail.com>"
 #use wml::debian::cdimage title="Tải về ảnh CD Debian bằng BitTorrent" BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
@@ -6,7 +6,7 @@
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-<p><a href="http://en.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
+<p><a href="https://en.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 là hệ thống tải ngang hàng được tối ưu hóa cho việc truyền tải dữ liệu với số lượng lớn.
 Nó đặt mức tải trên máy chủ của chúng tôi ở mức tối thiểu nhất bởi vì các máy khách BitTorrent
 tải lên từng mảnh nhỏ của các tập tin cho các máy khác trong khi nó đang tải về, như thế sẽ
@@ -22,14 +22,12 @@ trong chúng.</p>
 <p>
 Bạn sẽ cần một trình khách BitTorrent để tải về các ảnh CD/DVD Debian
 theo cách này. Bản phân phối Debian có chứa các ứng dụng
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> và công cụ nguyên bản
 <a href="https://packages.debian.org/bittorrent">BitTorrent</a>.
 Các hệ điều hành khác cũng được hỗ trợ bởi <a
-href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
 href="http://www.bittornado.com/download.html">BitTornado</a> và <a
-href="http://www.bittorrent.com/download">BitTorrent</a>.
+href="https://www.bittorrent.com/download">BitTorrent</a>.
 </p>
 <h3>Các torrent chính thức cho bản phát hành <q>ổn định</q></h3>
 

@@ -4,9 +4,9 @@
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Szabolcs Siebenhofer"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0" maintainer="Szabolcs Siebenhofer"
 
-<p>A <a href="http://hu.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
+<p>A <a href="https://hu.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 egy peer to peer, nagy számú letöltőre optimalizált letöltő rendszer.
 Nagyon ki terhelést okoz a szervereinken, mert a BitTorrent kliensek
 fájlok darabjait töltik fel letöltés közben, ezzel szétosztva a terhelést
@@ -24,14 +24,12 @@ You will need a BitTorrent client to download Debian CD/DVD images
 this way. The Debian distribution includes
 BitTorrent kliensre van szükséges, hogy ilyen módon tölts le CD/DVD
 képeket. A Debian terjesztés a következőket tartalmazza:
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> és az eredeti 
 <a href="https://packages.debian.org/bittorrent">BitTorrent</a> eszköz.
 Más operációs rendszereket támogatók:
-<a href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
-href="http://www.bittornado.com/download.html">BitTornado</a> és <a
-href="http://www.bittorrent.com/download">BitTorrent</a>.
+<a href="http://www.bittornado.com/download.html">BitTornado</a> és <a
+href="https://www.bittorrent.com/download">BitTorrent</a>.
 </p>
 <h3>Hivatalos torrentek a <q>stabil</q> kiadáshoz</h3>
 

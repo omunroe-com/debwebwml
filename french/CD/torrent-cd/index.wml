@@ -5,11 +5,11 @@
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Frédéric Bothamy"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0" maintainer="Frédéric Bothamy"
 # Initial translation: Willy Picard
 # Previous translation by Thomas Huriaux
 
-<p><a href="http://fr.wikipedia.org/wiki/BitTorrent_%28protocole%29">BitTorrent</a>
+<p><a href="https://fr.wikipedia.org/wiki/BitTorrent_%28protocole%29">BitTorrent</a>
 est un système de téléchargement pair-à-pair (ang. «&nbsp;peer-to-peer&nbsp;»)
 optimisé pour un grand nombre d'utilisateurs. Une charge minimale est laissée
 à nos serveurs car les clients BitTorrent rendent accessibles des fragments de
@@ -30,13 +30,11 @@ DVD à moins d'avoir besoin des paquets de ces images.</p>
 Vous avez besoin d'un client BitTorrent afin de télécharger les images
 de CD-ROM et DVD de Debian par BitTorrent. La distribution Debian
 inclut les clients <a
-href="https://packages.debian.org/azureus">Azureus</a>, <a
 href="https://packages.debian.org/bittornado">BitTornado</a>, <a
 href="https://packages.debian.org/ktorrent">KTorrent</a> et les outils <a
 href="https://packages.debian.org/bittorrent">BitTorrent</a> d'origine.
-<a href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
-href="http://www.bittornado.com/download.html">BitTornado</a> et <a
-href="http://www.bittorrent.com/download">BitTorrent</a> prennent
+<a href="http://www.bittornado.com/download.html">BitTornado</a> et <a
+href="https://www.bittorrent.com/download">BitTorrent</a> prennent
 également en charge d'autres systèmes d'exploitation.
 </p>
 

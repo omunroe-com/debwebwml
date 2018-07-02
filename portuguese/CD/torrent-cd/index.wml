@@ -4,9 +4,9 @@
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="e8bc071549727e1ed1d215013db8ccabd37bb3e0" maintainer="Felipe Augusto van de Wiel (faw)"
 
-<p>O <a href="http://pt.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
+<p>O <a href="https://pt.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 é um sistema de download par-a-par (P2P) otimizado para grandes
 quantidades de usuários. Ele coloca uma carga mínima em nossos servidores
 porque os clientes BitTorrent fazem o envio de pedaços de arquivos
@@ -25,14 +25,12 @@ precisa de pacotes deles.</p>
 <p>
 Você precisará de um cliente BitTorrent para baixar as imagens de CD/DVD
 desse modo. A distribuição Debian inclui as ferramentas
-<a href="https://packages.debian.org/azureus">Azureus</a>,
 <a href="https://packages.debian.org/bittornado">BitTornado</a>,
 <a href="https://packages.debian.org/ktorrent">KTorrent</a> e o original 
 <a href="https://packages.debian.org/bittorrent">BitTorrent</a>.
 Outros sistemas operacionais são suportados pelo <a
-href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
 href="http://www.bittornado.com/download.html">BitTornado</a> e <a
-href="http://www.bittorrent.com/download">BitTorrent</a>.
+href="https://www.bittorrent.com/download">BitTorrent</a>.
 </p>
 
 <h3><q>Torrents</q> oficiais para a distribuição estável (<q>stable</q>)</h3>
