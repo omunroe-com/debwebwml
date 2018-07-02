@@ -1,0 +1,142 @@
+#use wml::debian::translation-check translation="38064b8fd0bc72aee5667310770c1e8a7cc78720" maintainer="Sebul"
+<define-tag description>보안 업데이트</define-tag>
+<define-tag moreinfo>
+<p>chromium web browser에서 여러 취약점이 발견되었습니다.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6118">CVE-2018-6118</a>
+
+    <p>Ned Williamson discovered a use-after-free issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6120">CVE-2018-6120</a>
+
+    <p>Zhou Aiting discovered a buffer overflow issue in the pdfium library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6121">CVE-2018-6121</a>
+
+    <p>It was discovered that malicious extensions could escalate privileges.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6122">CVE-2018-6122</a>
+
+    <p>A type confusion issue was discovered in the v8 javascript library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6123">CVE-2018-6123</a>
+
+    <p>Looben Yang discovered a use-after-free issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6124">CVE-2018-6124</a>
+
+    <p>Guang Gong discovered a type confusion issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6125">CVE-2018-6125</a>
+
+    <p>Yubico discovered that the WebUSB implementation was too permissive.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6126">CVE-2018-6126</a>
+
+    <p>Ivan Fratric discovered a buffer overflow issue in the skia library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6127">CVE-2018-6127</a>
+
+    <p>Looben Yang discovered a use-after-free issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6129">CVE-2018-6129</a>
+
+    <p>Natalie Silvanovich discovered an out-of-bounds read issue in WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6130">CVE-2018-6130</a>
+
+    <p>Natalie Silvanovich discovered an out-of-bounds read issue in WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6131">CVE-2018-6131</a>
+
+    <p>Natalie Silvanovich discovered an error in WebAssembly.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6132">CVE-2018-6132</a>
+
+    <p>Ronald E. Crane discovered an uninitialized memory issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6133">CVE-2018-6133</a>
+
+    <p>Khalil Zhani discovered a URL spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6134">CVE-2018-6134</a>
+
+    <p>Jun Kokatsu discovered a way to bypass the Referrer Policy.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6135">CVE-2018-6135</a>
+
+    <p>Jasper Rebane discovered a user interface spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6136">CVE-2018-6136</a>
+
+    <p>Peter Wong discovered an out-of-bounds read issue in the v8 javascript
+    library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6137">CVE-2018-6137</a>
+
+    <p>Michael Smith discovered an information leak.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6138">CVE-2018-6138</a>
+
+    <p>François Lajeunesse-Robert discovered that the extensions policy was
+    too permissive.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6139">CVE-2018-6139</a>
+
+    <p>Rob Wu discovered a way to bypass restrictions in the debugger extension.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6140">CVE-2018-6140</a>
+
+    <p>Rob Wu discovered a way to bypass restrictions in the debugger extension.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6141">CVE-2018-6141</a>
+
+    <p>Yangkang discovered a buffer overflow issue in the skia library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6142">CVE-2018-6142</a>
+
+    <p>Choongwoo Han discovered an out-of-bounds read in the v8 javascript
+    library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6143">CVE-2018-6143</a>
+
+    <p>Guang Gong discovered an out-of-bounds read in the v8 javascript library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6144">CVE-2018-6144</a>
+
+    <p>pdknsk discovered an out-of-bounds read in the pdfium library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6145">CVE-2018-6145</a>
+
+    <p>Masato Kinugawa discovered an error in the MathML implementation.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6147">CVE-2018-6147</a>
+
+    <p>Michail Pishchagin discovered an error in password entry fields.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6148">CVE-2018-6148</a>
+
+    <p>Michał Bentkowski discovered that the Content Security Policy header
+    was handled incorrectly.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6149">CVE-2018-6149</a>
+
+    <p>Yu Zhou and Jundong Xie discovered an out-of-bounds write issue in the
+    v8 javascript library.</p></li>
+
+</ul>
+
+<p>안정 배포(stretch)에서, 이 문제는 버전
+버전 67.0.3396.87-1~deb9u1에서 고쳐졌습니다.</p>
+
+<p>chromium-browser 패키지를 업그레이드 하는 게 좋습니다.</p>
+
+<p>chromium-browser 자세한 보안 상태는 보안 추적 페이지 참조:
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">\
+https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4237.data"
