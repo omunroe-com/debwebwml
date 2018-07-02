@@ -85,11 +85,11 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6139">CVE-2018-6139</a>
 
-    <p>Роб Ву обнаружил способ обхода ограничений в расшрении отладки.</p></li>
+    <p>Роб Ву обнаружил способ обхода ограничений в расширении отладки.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6140">CVE-2018-6140</a>
 
-    <p>Роб Ву обнаружил способ обхода ограничений в расшрении отладки.</p></li>
+    <p>Роб Ву обнаружил способ обхода ограничений в расширении отладки.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6141">CVE-2018-6141</a>
 
@@ -120,7 +120,7 @@
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6148">CVE-2018-6148</a>
 
     <p>Михал Бентковский обнаружил, что заголовок правила безопасности содержимого
-    обрабатывается неправильном.</p></li>
+    обрабатывается неправильно.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6149">CVE-2018-6149</a>
 
