@@ -1,0 +1,18 @@
+#use wml::debian::translation-check translation="dc789b4ef17fd36cbf5692840da05247dbaaa564"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se descubrió que las órdenes pg_ctlcluster, pg_createcluster
+y pg_upgradecluster manejaban los enlaces simbólicos de forma insegura, lo que podría
+dar lugar a denegación de servicio local al sobreescribir ficheros arbitrarios.</p>
+
+<p>Para la distribución «antigua estable» (jessie), este problema se ha corregido
+en la versión 165+deb8u3.</p>
+
+<p>Para la distribución «estable» (stretch), este problema se ha corregido en
+la versión 181+deb9u1.</p>
+
+<p>Le recomendamos que actualice los paquetes de postgresql-common.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2017/dsa-4029.data"
