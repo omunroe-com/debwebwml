@@ -1,7 +1,7 @@
 #use wml::debian::template title="신규 리스트 개설 요청 방법"
 #use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda" maintainer="Sebul"
 #
-# Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-01-08
+# Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-07-03
 
 <p>본 문서의 범위는 <a href="https://lists.debian.org/">lists.debian.org</a>
  에 사람들이 신규 리스트를 개설하는 걸 돕는 것입니다.</p>
@@ -36,7 +36,7 @@
 <div class="centerblock">
 <dl>
 
-   <dt><strong>명칭</strong></dt>
+   <dt><strong>명칭(Name)</strong></dt>
    <dd>
 	<p>설명적이며, 짧고 유일한 명칭을 하나 선정하세요.</p>
 
@@ -52,7 +52,7 @@
         리스트 명칭이 만들어집니다.</p>
    </dd>
 
-   <dt><strong>근본적 이유</strong></dt>
+    <dt><strong>근원적 배경(Rationale)</strong></dt>
    <dd>
         <p>신규 리스트 개설을 왜 해야 하는가에 대해서 종합적인 설명이 필요합니다.</p>
 
@@ -62,12 +62,12 @@
         의견 수렴을 함으로써 신규 리스트 개설 처리 시간을 줄일 수 있습니다.</p>
    </dd>
 
-   <dt><strong>짧은 설명</strong></dt>
+   <dt><strong>짧은 설명(Short description)</strong></dt>
    <dd>
         <p>직시할 수 있도록 짧은, 리스트 색인에 나타날 한 줄의 설명입니다.</p>
    </dd>
 
-   <dt><strong>긴 설명</strong></dt>
+   <dt><strong>긴 설명(Long description)</strong></dt>
    <dd>
         <p>사람들이 적합한 리스트를 찾을때 도움을 주는 긴 설명이므로, 명확하게 정보를 
         제공하게끔 만들어야합니다.</p>
@@ -91,7 +91,7 @@
 		</UL>
    </dd>
 
-   <dt><strong>리스트 가입 정책</strong></dt>
+   <dt><strong>리스트 가입 정책(Subscription Policy)</strong></dt>
    <dd>
       <P>개방적(open) / 제한적(closed)
 
@@ -100,7 +100,7 @@
       그런 리스트를 신규 개설을 하려면 제대로된 합당한 명분이 있어야만 합니다.</p>
    </dd>
 
-   <dt><strong>메시지 게시 정책</strong></dt>
+   <dt><strong>메시지 게시 정책(Post Policy)</strong></dt>
    <dd>
       <P>개방적(open) / 통제적(moderated)
 
@@ -110,7 +110,7 @@
       통제를 위한 도구는 존재하지않으며, 오직 전자메일에 의해서만 통제가 이루어집니다.</p>
    </dd>
 
-   <dt><strong>웹상의 보관 정책</strong></dt>
+   <dt><strong>웹상의 보관 정책(Web Archive)</strong></dt>
    <dd>
       <P>예(yes) / 아니오(no)
 
@@ -123,7 +123,7 @@
 </div>
 
 <p>신규 리스트 개설 요청서(버그 보고서)를 다 작성 후에, 신규 리스트 개설에 관심있는 몇몇 다른 청중들이 
-해당 요청서를 전자메일을 통하여 제출해주시면 감사하겠습니다. 이는 신규 리스트의 관심도를 예측하는데 도움이 
+해당 요청서에 전자메일로 피드백을 해주시면 감사하겠습니다. 이는 신규 리스트의 관심도를 예측하는데 도움이
 됩니다.</p>
 
 <p>상기 규칙들을 지켜주시길 바랍니다. 부적절한 요청은 받아들여지지 않습니다.</p>
