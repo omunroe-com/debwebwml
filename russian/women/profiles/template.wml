@@ -1,17 +1,17 @@
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Lev Lamberov"
 <define-tag pagetitle>Шаблон для новых профилей Debian Women</define-tag>
 #use wml::debian::profiles
 #include "$(ENGLISHDIR)/women/profiles/profiles.def"
 
 <profile name="Шаблон нового профиля Debian Women" picture="">
     # В СТРОКЕ ВЫШЕ ИЗМЕНИТЕ "Шаблон нового профиля Debian Women" НА ИМЯ
-    
+
     Загрузите шаблон,
     # УДАЛИТЕ СТРОКУ СВЕРХУ ("Загрузите шаблон,")
-    
-    <URL>https://anonscm.debian.org/viewvc/webwml/webwml/russian/women/profiles/template.wml?view=co</URL>
+
+    <url>https://salsa.debian.org/webmaster-team/webwml/blob/master/russian/women/profiles/template.wml</url>
     # ИЗМЕНИТЕ URL НА URL ВЕБ-САЙТА (ЕСЛИ ТАКОВОЙ ИМЕЕТСЯ)
-    <email></email> 
+    <email></email>
 
     <question1>
     # Как давно ты используешь Debian?
@@ -24,7 +24,7 @@
     <answer><p>
     ваш ответ
     </p></answer>
-    
+
     <question3>
     # В какие области Debian ты вовлечена?
     <answer><p>
