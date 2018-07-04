@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="10f3a4c35407b2bf8f3ea80e236c6b33a201386f" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В Exiv2, библиотеке C++ и утилите командной строки для работы с метаданными
+изображений, было обнаружено несколько уязвимостей, которые могут приводить к
+отказу в обслуживании или выполнению произвольного кода при выполнении
+грамматического разбора специально сформированного файла.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+version 0.25-3.1+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты exiv2.</p>
+
+<p>С подробным статусом поддержки безопасности exiv2 можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/exiv2">\
+https://security-tracker.debian.org/tracker/exiv2</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4238.data"

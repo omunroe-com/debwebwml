@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="ffa948bd63c8f61d01d4cfc22c477e020edcfd31" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Фабиан Хеннеке обнаружил межсайтовый скриптинг в форме смены пароля
+в GOsa, программе для администрирования LDAP через веб-интерфейс.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+version gosa 2.7.4+reloaded2-3+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты gosa.</p>
+
+<p>С подробным статусом поддержки безопасности gosa можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/gosa">\
+https://security-tracker.debian.org/tracker/gosa</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4239.data"
