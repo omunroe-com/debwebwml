@@ -1,0 +1,19 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Fabian Henneke discovered a cross-site scripting vulnerability in the
+password change form of GOsa, a web-based LDAP administration program.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version gosa 2.7.4+reloaded2-3+deb9u1.</p>
+
+<p>We recommend that you upgrade your gosa packages.</p>
+
+<p>For the detailed security status of gosa please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/gosa">\
+https://security-tracker.debian.org/tracker/gosa</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4239.data"
+# $Id: $
