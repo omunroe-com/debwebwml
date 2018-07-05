@@ -1,0 +1,20 @@
+# From: Jacques Theys <farenheid@atheneegembloux.be>
+#use wml::debian::translation-check translation="6e9eff87037044751cee57e7b1d72e8027463a03x" maintainer="Jean-Pierre Giraud"
+
+<define-tag pagetitle>Athénée Royal de Gembloux, Gembloux, Belgique</define-tag>
+<define-tag webpage>https://www.atheneegembloux.be/</define-tag>
+
+#use wml::debian::users
+
+<p>
+    Nous utilisons Debian sur nos serveurs principaux (5 machines). Nous
+    avons choisi Debian parce que c'est une distribution stable, facile à
+    configurer, facile à maintenir et à mettre à niveau, compatible avec
+    toutes les principales normes, et qu'elle dispose de nombreux logiciels
+    disponibles gratuitement. De plus, nous sommes très concernés par la
+    liberté et la protection de la vie privée, et nous savons que le code
+    source de Debian est régulièrement examiné. Bien conçue, Debian
+    <q>simplement fonctionne</q> mais peut être configurée sur mesure si
+    besoin est.
+    Merci pour tout !
+</p>
