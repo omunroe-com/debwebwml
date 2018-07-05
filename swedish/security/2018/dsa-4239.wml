@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="ffa948bd63c8f61d01d4cfc22c477e020edcfd31" mindelta="1"
+#use wml::debian::translation-check translation="70c8800a536386c9c84f9bee5854b51293c15256" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Fabian Henneke upptäckte en serveröverskridande skriptsårbarhet i
