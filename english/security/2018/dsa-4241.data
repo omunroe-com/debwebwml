@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4241-1 libsoup2.4</define-tag>
+<define-tag report_date>2018-7-05</define-tag>
+<define-tag secrefs>CVE-2018-12910</define-tag>
+<define-tag packages>libsoup2.4</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
