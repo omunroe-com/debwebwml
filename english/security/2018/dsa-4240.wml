@@ -1,0 +1,48 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities were found in PHP, a widely-used open source
+general purpose scripting language:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7584">CVE-2018-7584</a>
+
+    <p>Buffer underread in parsing HTTP responses</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10545">CVE-2018-10545</a>
+
+    <p>Dumpable FPM child processes allowed the bypass of opcache access
+    controls</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10546">CVE-2018-10546</a>
+
+    <p>Denial of service via infinite loop in convert.iconv stream filter</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10547">CVE-2018-10547</a>
+
+    <p>The fix for <a href="https://security-tracker.debian.org/tracker/CVE-2018-5712">CVE-2018-5712</a> (shipped in DSA 4080) was incomplete</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10548">CVE-2018-10548</a>
+
+    <p>Denial of service via malformed LDAP server responses</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10549">CVE-2018-10549</a>
+
+    <p>Out-of-bounds read when parsing malformed JPEG files</p></li>
+
+</ul>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 7.0.30-0+deb9u1.</p>
+
+<p>We recommend that you upgrade your php7.0 packages.</p>
+
+<p>For the detailed security status of php7.0 please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/php7.0">\
+https://security-tracker.debian.org/tracker/php7.0</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4240.data"
+# $Id: $
