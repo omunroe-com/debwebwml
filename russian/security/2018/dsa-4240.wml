@@ -8,11 +8,11 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7584">CVE-2018-7584</a>
 
-    <p>Отставание в заполнении буфера при выполнении грамматического разбора ответов HTTP</p></li>
+    <p>Неполное чтение буфера при выполнении грамматического разбора ответов HTTP</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10545">CVE-2018-10545</a>
 
-    <p>Сохраняемые дочерние FPM-процессы позволяют обходит проверку доступа
+    <p>Сохраняемые дочерние FPM-процессы позволяют обходить проверку доступа
     opcache</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10546">CVE-2018-10546</a>
