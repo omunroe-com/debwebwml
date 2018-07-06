@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="6bb3bc0cc9cc4d1a1aa6fda194f3cf7440257938" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Было обнаружено, что HTTP-библиотека Soup выполняет недостаточную
+проверку запросов куки, что может приводить к чтению за пределами
+выделенного буфера памяти.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 2.56.0-2+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты libsoup2.4.</p>
+
+<p>С подробным статусом поддержки безопасности libsoup2.4 можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/libsoup2.4">\
+https://security-tracker.debian.org/tracker/libsoup2.4</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4241.data"

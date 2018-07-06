@@ -1,0 +1,48 @@
+#use wml::debian::translation-check translation="106284ed210b4894870fc06b0f1886be682e6dfd" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В PHP, широко используемом языке сценариев общего назначения, было обнаружено
+несколько уязвимостей:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7584">CVE-2018-7584</a>
+
+    <p>Отставание в заполнении буфера при выполнении грамматического разбора ответов HTTP</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10545">CVE-2018-10545</a>
+
+    <p>Сохраняемые дочерние FPM-процессы позволяют обходит проверку доступа
+    opcache</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10546">CVE-2018-10546</a>
+
+    <p>Отказ в обслуживании из-за бесконечного цикла в потоковом фильтре convert.iconv</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10547">CVE-2018-10547</a>
+
+    <p>Исправление для <a href="https://security-tracker.debian.org/tracker/CVE-2018-5712">CVE-2018-5712</a> (из DSA 4080) неполно</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10548">CVE-2018-10548</a>
+
+    <p>Отказ в обслуживании из-за специально сформированных ответов LDAP-сервера</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10549">CVE-2018-10549</a>
+
+    <p>Чтение за пределами выделенного буфера при выполнении грамматического разбора специально сформированных файлов в формате JPEG</p></li>
+
+</ul>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 7.0.30-0+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты php7.0.</p>
+
+<p>С подробным статусом поддержки безопасности php7.0 можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/php7.0">\
+https://security-tracker.debian.org/tracker/php7.0</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4240.data"
