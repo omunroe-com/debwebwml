@@ -15,7 +15,7 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6121">CVE-2018-6121</a>
 
-    <p>Было обнаружено, что вредоносные расширения могут повышать свои привилегии.</p></li>
+    <p>Было обнаружено, что вредоносные расширения могут повышать привилегии.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6122">CVE-2018-6122</a>
 
@@ -31,7 +31,7 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6125">CVE-2018-6125</a>
 
-    <p>Сотрудники Yubico обнаружили, что реализация WebUSB слишком пермиссивна.</p></li>
+    <p>Сотрудники Yubico обнаружили, что реализация WebUSB позволяет слишком много возможностей.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6126">CVE-2018-6126</a>
 
@@ -59,7 +59,7 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6133">CVE-2018-6133</a>
 
-    <p>Халил Зани обнаружил возможность подделки URL.</p></li>
+    <p>Халил Жани обнаружил возможность подделки URL.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6134">CVE-2018-6134</a>
 
