@@ -10,7 +10,7 @@
     Nous utilisons Debian comme système d'exploitation sur notre serveur
     principal. Cela comprend des services tels que le système de bases de
     données MySQL, JSP, EJB, PHP, Java J2EE, JDK et Smb4k. Nous avons sept
-    machines de bureau avec Openbox et XFCE comme environnement de bureau,
+    machines de bureau avec Openbox, XFCE comme environnement de bureau,
     et prévoyons le déploiement de davantage d'ordinateurs.
 
 <p>
