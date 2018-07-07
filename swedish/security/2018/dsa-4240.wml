@@ -1,0 +1,47 @@
+#use wml::debian::translation-check translation="106284ed210b4894870fc06b0f1886be682e6dfd" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i PHP, ett välanvänt öppenkällkodsprogramspråk för
+allmäna ändamål:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7584">CVE-2018-7584</a>
+
+    <p>Bufferunderläsning vid tolkning av HTTP-svar</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10545">CVE-2018-10545</a>
+
+    <p>Dumpbara FPM-barnprocesser tillät förbigång av opcaches åtkomstkontroller</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10546">CVE-2018-10546</a>
+
+    <p>Överbelastning via oändlig loop i strömfiltret convert.iconv</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10547">CVE-2018-10547</a>
+
+    <p>Rättningen för <a href="https://security-tracker.debian.org/tracker/CVE-2018-5712">CVE-2018-5712</a> (skeppad i DSA 4080) var ofullständig</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10548">CVE-2018-10548</a>
+
+    <p>Överbelastning via felaktigt formatterade LDAP-serversvar</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10549">CVE-2018-10549</a>
+
+    <p>Läsning utanför gränserna vid tolkning av felaktigt formatterade JPEG-filer</p></li>
+
+</ul>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 7.0.30-0+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era php7.0-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om php7.0 vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/php7.0">\
+https://security-tracker.debian.org/tracker/php7.0</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4240.data"

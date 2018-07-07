@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="6bb3bc0cc9cc4d1a1aa6fda194f3cf7440257938" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Man har upptäckt att HTTP-biblioteket Soup utförde otillräcklig
+validering av cookie-förfrågningar vilket kunde resultera i läsning
+av minne utanför gränserna.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 2.56.0-2+deb9u2.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era libsoup2.4-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om libsoup2.4 vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/libsoup2.4">\
+https://security-tracker.debian.org/tracker/libsoup2.4</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4241.data"
