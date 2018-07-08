@@ -1,13 +1,13 @@
 # From: Wiktor Gamracki <kancelaria@adwokat-24.pl>
 #use wml::debian::translation-check translation="7ae51e037e5983c1442e51d8bddaa714f67ff73b" maintainer="Jean-Pierre Giraud"
 
-<define-tag pagetitle>Cabinet d'avocats Adwokat Wiktor Gamracki, Rzeszów, Pologne</define-tag>
+<define-tag pagetitle>Wiktor Gamracki, Cabinet d'avocats, Rzeszów, Pologne</define-tag>
 <define-tag webpage>http://www.adwokat-24.pl/</define-tag>
 
 #use wml::debian::users
 
 <p>
-    Nous utilisons Debian sur tous nos serveurs – version 64 bits et sur
+    Nous utilisons Debian sur tous nos serveurs – version 64 bits – et sur
     toutes nos stations de travail. La raison principale de notre choix de
     Debian était sa stabilité. Nos applications fonctionnent avec Debian et
     sont toujours rapides et fiables. Toutes ces raisons font que nous
