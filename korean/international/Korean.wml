@@ -8,7 +8,6 @@
 <a href="https://cafe.naver.com/debian9">네이버 카페 데비안</a>도 있습니다.
 또한 리눅스에 대한 자료가 <a href="https://kldp.org">KLDP</a>에 많이 있습니다.
 </p>
-<p><a href="https://lists.debian.org/debian-l10n-korean/2018/01/msg00054.html">debian.or.kr ?</a></p>
 
 <toc-add-entry name="coordinators">코디네이터</toc-add-entry>
 <table>
@@ -38,7 +37,3 @@ debian-l10n-korean@lists.debian.org</a>
 
 <toc-add-entry name="howto_translation">번역 방법</toc-add-entry>
 <p><a href="https://www.debian.org">www.debian.org</a>의 번역 방법은 <a href="https://wiki.debianusers.or.kr/index.php?title=Debian_website_editing_and_translation">데비안 공식 홈페이지의 내용 수정 및 한국어 번역 방법</a>을 참고해 보세요.</p>
-
-
-
-
