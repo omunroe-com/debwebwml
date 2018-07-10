@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian som desktop"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="f17adfcaa4dbad74178134aa94c26efff40b0722"
+#use wml::debian::translation-check translation="cc6c8ae04b0c297eda14e869f88e647f6984ea7a"
 
 <h2>Det universelle styresystem som din desktop</h2>
 
@@ -93,10 +93,10 @@
     GTK+-frontend'en har brug for dig.
   </li>
   <li>
-    Hjælp grupperne 
-    <a href="https://alioth.debian.org/projects/pkg-gnome">pkg-gnome</a>,
-    <a href="https://alioth.debian.org/projects/pkg-kde">pkg-kde</a> eller
-    <a href="https://alioth.debian.org/projects/pkg-xfce">pkg-xfce</a>.  Du kan 
+    Hjælp 
+    <a href="https://wiki.debian.org/Teams/DebianGnome">Debian GNOME Team</a>
+    <a href="https://qt-kde-team.pages.debian.net/">Debian Qt og KDE Team</a> eller
+    <a href="https://salsa.debian.org/xfce-team/">Debian Xfce Group</a>.  Du kan 
     hjælpe med pakning, fejlsortering, dokumentation, test og meget mere.
   </li>
   <li>
