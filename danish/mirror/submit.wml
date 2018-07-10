@@ -1,5 +1,5 @@
 #use wml::debian::template title="Registrér oplysninger om spejl"
-#use wml::debian::translation-check translation="71fcd13c2f4a67e7c67a1d95e58021a7df5be462"
+#use wml::debian::translation-check translation="cd8f39027a950a5174d2d49109ba6800c0f0cdec"
 #include "$(ENGLISHDIR)/mirror/submit.inc"
 
 <p>Hvis du ønsker at indsende oplysninger om et Debian-filspejl, kan du gøre det
@@ -45,7 +45,7 @@ Opdatering af eksisterende filspejl</p>
 irrlevante felter.</p>
 
 <table>
-    <tablerowdef "Pakkearkiv, over HTTP"   archive-http   30 "/debian" " <small>Vi anbefaler kraftigt <code>/debian</code>.</small>">
+    <tr><td>Pakkearkiv, over HTTP: </td><td><input type="text" name="archive-http" id="archve-http" size="30" value="/debian" readonly="readonly"> <small>Arkivet skal være tilgængeligt i <code>/debian</code>.</small></td></tr>
     <tablerowdef "Pakkearkiv, over rsync"  archive-rsync  30 "debian" " <small>Hvis du tilbyder rsync, foreslås <code>debian</code> som modulnavn.</small>">
 #   <tablerow "CD/DVD images, over HTTP"      cdimage-http   30>
 #   <tablerow "CD/DVD images, over rsync"     cdimage-rsync  30>
