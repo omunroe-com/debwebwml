@@ -1,9 +1,10 @@
-#use wml::debian::cdimage title="Debian på cd'er" BARETITLE=true
+#use wml::debian::cdimage title="Debian på CD'er/DVD'er" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b"
+#use wml::debian::translation-check translation="9dcab36202d262b6b33583d68794b995999fa269"
 
-<p>Hvis du vil anskaffe Debian på cd'er eller USB-pind, har du følgende 
-muligheder. Hvis du har problemer se <a href="faq/">OSS'en om Debian-cd</a>.</p>
+<p>Hvis du vil anskaffe Debian på CD/DVD eller USB-pind, har du følgende 
+muligheder. Hvis du har problemer se <a href="faq/">OSS'en om Debian på 
+CD/DVD</a>.</p>
 
 <div class="tip">
 <p>Hvis du blot ønsker at installere Debian og har en internetforbindelse på den
@@ -12,31 +13,31 @@ netværksinstalleringsmedie</a>, der ikke er så stort at downloade.</p>
 </div>
 
 <div class="tip">
-<p>På arkitekturerne i386 og amd64, kan alle cd-/dvd-aftryk også 
+<p>På arkitekturerne i386 og amd64, kan alle CD-/DVD-aftryk også 
 <a href="https://www.debian.org/CD/faq/#write-usb">anvendes på en USB-pind</a>.
 </div>
 
 <ul>
-  <li><a href="http-ftp/">Download cd-/dvd-aftryk ved hjælå af HTTP.</a> Mange 
+  <li><a href="http-ftp/">Download CD-/DVD-aftryk ved hjælp af HTTP.</a> Mange 
   filspejle har direkte HTTP-downloadlinks, som du kan downloade fra med din 
   browser eller kommandolinjeværktøj.</li>
 
-  <li><a href="vendors/">Køb færdige Debian-cd-rom'er.</a> De er billige -
+  <li><a href="vendors/">Køb færdige medier med Debian.</a> De er billige -
   vi tjener intet på dem! Hvis du betaler minuttakst for din 
   Internet-forbindelse er dette din eneste mulighed.  Du kan også overveje
-  at købe cd'erne hvis du kun har et modem, da det tager dage at hente 
-  aftrykkene via modem.</li>
+  at købe medier, hvis du har en langsom internetforbindelse, da det kan tage 
+  meget lang tid at hente alle aftrykkene.</li>
 
-  <li><a href="jigdo-cd/">Hent cd-/dvd-aftryk med jigdo.</a> Jigdo-metoden gør 
+  <li><a href="jigdo-cd/">Hent CD-/DVD-aftryk med jigdo.</a> Jigdo-metoden gør 
   det muligt at vælge det hurtigste af 300 Debian-filspejle over hele verden til 
   din overførsel. Jigdo tilbyder let valg af filspejl og <q>opgradering</q> af 
-  ældre cd-aftryk til den seneste udgivelse. Det er også den eneste måde at 
+  ældre CD-aftryk til den seneste udgivelse. Det er også den eneste måde at 
   hente Debian-DVD-aftryk til <em>alle</em> arkitekturer.</li>
 
-  <li><a href="torrent-cd/">Hent cd-/dvd-aftryk med BitTorrent.</a>  Peer to 
+  <li><a href="torrent-cd/">Hent CD-/DVD-aftryk med BitTorrent.</a>  Peer to 
   peer-systemet BitTorrent gør det muligt for mange brugere, i fællesskab at
   hente aftryk på samme tid, med minimal belastning på vores servere.  Til nogle
-  arkitekturer er dvd-aftryk også tilgængelige.</li>
+  arkitekturer er DVD-aftryk også tilgængelige.</li>
 
   <li><a href="live/">Hent live-aftryk ved hjælp af HTTP, FTP eller BitTorrent.</a>
   Som et nyt alternativ til de almindelige aftryk, er der live-aftryk, som kan 
@@ -44,17 +45,17 @@ netværksinstalleringsmedie</a>, der ikke er så stort at downloade.</p>
   aftrykket.</li>
 </ul>
 
-<p>Officielle cd-udgivelser er signerede, så man kan <a href="verify">\
+<p>Officielle CD-/DVD-udgivelser er signerede, så man kan <a href="verify">\
 kontrollere hvorvidt de er autentiske</a>.</p>
 
 <p>Debian er tilgængelig til forskellige computer-arkitekturer - sørg for at 
 hente det aftryk som passer til din computer! (De fleste skal bruge aftryk til
-<q>i386</q>, dvs. Intel-systemer.) Når du har fremstillet dine egne cd'er kan du
-måske være interesseret i noget
-<a href="artwork/">grafik til Debian-cd'ernes omslag</a>.</p>
+<q>amd64</q>, dvs. 64 bit, PC-kompatible systemer.) Når du har fremstillet dine 
+egne skiver, kan du måske være interesseret i 
+<a href="artwork/">grafik til Debian-skivernes omslag</a>.</p>
 
-<div class="cdflash" id="latest">Seneste officielle udgave af det stabile 
-cd-aftryk, <q>stable</q>: <strong><current-cd-release></strong>.<br />
+<div class="cdflash" id="latest">Seneste officielle udgave af de stabile 
+CD-/DVD-aftryk, <q>stable</q>: <strong><current-cd-release></strong>.<br />
 <small>(Officielle øjebliksbilleder (snapshot) af distributionerne 
 <q>testing</q> fremstilles ugentligt.)</small></div>
 
