@@ -1,0 +1,58 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities were discovered in CUPS, the Common UNIX Printing
+System. These issues have been identified with the following CVE ids:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15400">CVE-2017-15400</a>
+
+    <p>Rory McNamara discovered that an attacker is able to execute arbitrary
+    commands (with the privilege of the CUPS daemon) by setting a
+    malicious IPP server with a crafted PPD file.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4180">CVE-2018-4180</a>
+
+     <p>Dan Bastone of Gotham Digital Science discovered that a local
+     attacker with access to cupsctl could escalate privileges by setting
+     an environment variable. </p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4181">CVE-2018-4181</a>
+
+     <p>Eric Rafaloff and John Dunlap of Gotham Digital Science discovered
+     that a local attacker can perform limited reads of arbitrary files
+     as root by manipulating cupsd.conf.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
+
+    <p>Dan Bastone of Gotham Digital Science discovered that an attacker
+    with sandboxed root access can execute backends without a sandbox
+    profile by provoking an error in CUPS' profile creation.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
+
+     <p>Dan Bastone and Eric Rafaloff of Gotham Digital Science discovered
+     that an attacker with sandboxed root access can execute arbitrary
+     commands as unsandboxed root by modifying /etc/cups/cups-files.conf</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
+
+    <p>Dan Bastone of Gotham Digital Science discovered that an attacker
+    can bypass the AppArmor cupsd sandbox by invoking the dnssd backend
+    using an alternate name that has been hard linked to dnssd.</p></li>
+
+</ul>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 2.2.1-8+deb9u2.</p>
+
+<p>We recommend that you upgrade your cups packages.</p>
+
+<p>For the detailed security status of cups please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/cups">https://security-tracker.debian.org/tracker/cups</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4243.data"
+# $Id: $
