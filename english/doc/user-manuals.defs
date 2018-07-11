@@ -22,7 +22,7 @@
 
 # formats: see manuals.defs for available ones
 # langs: If unset, file extention becomes .html instead of .en.html
-# cvsname: set "cvsname" when the DDP svn repo name is not same as "name"
+# cvsname: set "cvsname" when the DDP VCS repo name is not same as "name"
 
 # vcstype="ddp": DDP subversion site (no need for vcsweb and vcsrepo)
 # vcstype="svn": Generic subversion site

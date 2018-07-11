@@ -16,7 +16,7 @@ books.$(LANGUAGE).html: books.wml $(ENGLISHSRCDIR)/doc/books.def \
 ddp.$(LANGUAGE).html: ddp.wml $(TEMPLDIR)/ddp.wml
 todo.$(LANGUAGE).html: todo.wml $(TEMPLDIR)/ddp.wml
 docpolicy.$(LANGUAGE).html: docpolicy.wml $(TEMPLDIR)/ddp.wml
-cvs.$(LANGUAGE).html: cvs.wml $(TEMPLDIR)/ddp.wml $(ENGLISHSRCDIR)/doc/dirtree.jpg
+cvs.$(LANGUAGE).html: cvs.wml $(TEMPLDIR)/ddp.wml
 topics.$(LANGUAGE).html: topics.wml $(TEMPLDIR)/ddp.wml
 user-manuals.$(LANGUAGE).html: user-manuals.wml $(TEMPLDIR)/ddp.wml \
   $(ENGLISHSRCDIR)/doc/manuals.defs $(ENGLISHSRCDIR)/doc/user-manuals.defs

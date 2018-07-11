@@ -93,10 +93,10 @@ on our mailing list. Thus, these may be good and bad ideas. :-)
 
   <li>Generate the information of available manuals presented in the website
   by extracting the info (which is provided by <tt>manual.defs</tt> 
-  and <tt>version.defs</tt>) automatically from CVS.
+  and <tt>version.defs</tt>) automatically from VCS.
 
   <li>Make it possible to track translation status based on information from
-  the CVS site. Consider re-using the framework developed by 
+  the VCS site. Consider re-using the framework developed by
   the debian-installer for the installation manual.
 
   <li>Track document 'last-changed' status so that the users browsing the
@@ -104,7 +104,7 @@ on our mailing list. Thus, these may be good and bad ideas. :-)
   apply) to them.
 
   <li>Consider providing documentation for users in non-english languages
-  (CVS holds directories for some languages and some documentation originally
+  (VCS holds directories for some languages and some documentation originally
   written in a language which is not English)
 
   <li>Consider providing an interactive mechanism for users to annotate
