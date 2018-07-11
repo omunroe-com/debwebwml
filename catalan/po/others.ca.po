@@ -1,12 +1,12 @@
 # others webwml Catalan template.
 # Copyright (C) 2002, 2004, 2005, 2007 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002.
-# Guillem Jover <guillem@debian.org>, 2004, 2005, 2006, 2007, 2008, 2011.
+# Guillem Jover <guillem@debian.org>, 2004-2008, 2011, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2011-02-05 06:33+0100\n"
+"PO-Revision-Date: 2018-07-12 01:07+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -20,7 +20,7 @@ msgstr "Descàrrega"
 
 #: ../../english/banners/index.tags:11
 msgid "Old banner ads"
-msgstr "Banners antics"
+msgstr "Pancartes antigues"
 
 #: ../../english/devel/debian-installer/ports-status.defs:10
 msgid "Working"
@@ -44,11 +44,11 @@ msgstr "Construït"
 
 #: ../../english/devel/debian-installer/ports-status.defs:56
 msgid "Not yet"
-msgstr "No encara"
+msgstr "Encara no"
 
 #: ../../english/devel/debian-installer/ports-status.defs:59
 msgid "No kernel"
-msgstr "No te kernel"
+msgstr "No te nucli"
 
 #: ../../english/devel/debian-installer/ports-status.defs:62
 msgid "No images"
@@ -66,7 +66,7 @@ msgstr "No està disponible"
 #, fuzzy
 #| msgid "New Maintainers' Corner"
 msgid "New Members Corner"
-msgstr "Racó dels nous mantenidors"
+msgstr "Racó dels nous membres"
 
 #: ../../english/devel/join/nm-steps.inc:10
 msgid "Step 1"
@@ -98,7 +98,7 @@ msgstr "Setena passa"
 
 #: ../../english/devel/join/nm-steps.inc:19
 msgid "Applicants' checklist"
-msgstr "Llista de tarees del sol·licitant"
+msgstr "Llista de tasques del sol·licitant"
 
 #: ../../english/devel/website/tc.data:11
 msgid ""
@@ -124,22 +124,16 @@ msgstr ""
 "</a> (només disponible en castellà) per a més informació."
 
 #: ../../english/distrib/pre-installed.defs:18
-#, fuzzy
-#| msgid "Phone:"
 msgid "Phone"
-msgstr "Telèfon:"
+msgstr "Telèfon"
 
 #: ../../english/distrib/pre-installed.defs:19
-#, fuzzy
-#| msgid "Fax:"
 msgid "Fax"
-msgstr "Fax:"
+msgstr "Fax"
 
 #: ../../english/distrib/pre-installed.defs:21
-#, fuzzy
-#| msgid "Address:"
 msgid "Address"
-msgstr "Adreça:"
+msgstr "Adreça"
 
 #: ../../english/logos/index.data:6
 msgid "With&nbsp;``Debian''"
@@ -155,15 +149,15 @@ msgstr "PostScript encapsulat"
 
 #: ../../english/logos/index.data:18
 msgid "[Powered by Debian]"
-msgstr "[Powered by Debian]"
+msgstr "[Funciona amb Debian]"
 
 #: ../../english/logos/index.data:21
 msgid "[Powered by Debian GNU/Linux]"
-msgstr "[Powered by Debian GNU/Linux]"
+msgstr "[Funciona amb Debian GNU/Linux]"
 
 #: ../../english/logos/index.data:24
 msgid "[Debian powered]"
-msgstr "[Debian powered]"
+msgstr "[Funciona amb Debian]"
 
 #: ../../english/logos/index.data:27
 msgid "[Debian] (mini button)"
@@ -211,11 +205,11 @@ msgstr "coixinet del ratolí"
 
 #: ../../english/misc/merchandise.def:35
 msgid "badges"
-msgstr "insignies"
+msgstr "insígnies"
 
 #: ../../english/misc/merchandise.def:38
 msgid "basketball goals"
-msgstr "cistelles de bàsket"
+msgstr "cistelles de bàsquet"
 
 #: ../../english/misc/merchandise.def:42
 msgid "earrings"
@@ -227,17 +221,15 @@ msgstr "maletins"
 
 #: ../../english/misc/merchandise.def:48
 msgid "umbrellas"
-msgstr ""
+msgstr "paraigües"
 
 #: ../../english/misc/merchandise.def:51
-#, fuzzy
-#| msgid "suitcases"
 msgid "pillowcases"
-msgstr "maletins"
+msgstr "fundes de coixí"
 
 #: ../../english/misc/merchandise.def:54
 msgid "keychains"
-msgstr ""
+msgstr "clauers"
 
 #: ../../english/misc/merchandise.def:57
 msgid "Swiss army knives"
@@ -245,15 +237,15 @@ msgstr ""
 
 #: ../../english/misc/merchandise.def:60
 msgid "USB-Sticks"
-msgstr ""
+msgstr "memòries USB"
 
 #: ../../english/misc/merchandise.def:75
 msgid "lanyards"
-msgstr ""
+msgstr "cordons"
 
 #: ../../english/misc/merchandise.def:78
 msgid "others"
-msgstr ""
+msgstr "d'altres"
 
 #: ../../english/misc/merchandise.def:98
 msgid "Donates money to Debian"

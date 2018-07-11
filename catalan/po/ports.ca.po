@@ -1,12 +1,12 @@
 # ports webwml Catalan template.
 # Copyright (C) 2002, 2003, 2004 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002, 2003.
-# Guillem Jover <guillem@debian.org>, 2004-2011, 2017.
+# Guillem Jover <guillem@debian.org>, 2004-2011, 2017-2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2017-06-19 00:31+0200\n"
+"PO-Revision-Date: 2018-07-12 00:58+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: debian-l10n-catalan@lists.debian.org\n"
 "Language: ca\n"
@@ -88,7 +88,7 @@ msgstr "Estat"
 
 #: ../../english/ports/menu.defs:67
 msgid "Supply"
-msgstr "Suministrament"
+msgstr "Subministrament"
 
 #: ../../english/ports/menu.defs:71
 msgid "Systems"

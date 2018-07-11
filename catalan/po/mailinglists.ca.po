@@ -1,12 +1,12 @@
 # others webwml Catalan template.
 # Copyright (C) 2002, 2004, 2005, 2007 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002.
-# Guillem Jover <guillem@debian.org>, 2004, 2005, 2007-2011.
+# Guillem Jover <guillem@debian.org>, 2004-2005, 2007-2011, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2017-06-19 01:29+0200\n"
+"PO-Revision-Date: 2018-07-12 00:57+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -37,10 +37,10 @@ msgid ""
 "address that you do not mind being made public."
 msgstr ""
 "Tingueu en compte que la major part de les llistes de correu de Debian, són "
-"forums publics. Qualsevol correu que s'hi envíi es publicarà als arxius "
-"publics de les llistes de correu i s'indexarà pels motors de cerques. Us "
-"haurieu de suscriure a les llistes de correu de Debian emprant una adreça de "
-"correu que no us importi es façi publica."
+"fòrums públics. Qualsevol correu que s'hi envíi es publicarà als arxius "
+"públics de les llistes de correu i s'indexarà pels motors de cerques. Us "
+"hauríeu de subscriure a les llistes de correu de Debian emprant una adreça de "
+"correu que no us importi es faci publica."
 
 #: ../../english/MailingLists/mklist.tags:15
 msgid ""
@@ -48,6 +48,9 @@ msgid ""
 "subscriptions is limited, if your request doesn't succeed, please use <a "
 "href=\"./#subunsub\">another method</a>):"
 msgstr ""
+"Seleccioneu a quina llista us voleu subscriure (el número de subscripcions és "
+"limitada, si la vostra petició no té èxit, intenteu emprar un <a href=\"./"
+"#subunsub\">altre mètode</a>):"
 
 #: ../../english/MailingLists/mklist.tags:18
 msgid "No description given"
@@ -59,7 +62,7 @@ msgstr "Moderada:"
 
 #: ../../english/MailingLists/mklist.tags:24
 msgid "Posting messages allowed only to subscribers."
-msgstr "Enviament de missatges només permés a subscriptors."
+msgstr "Enviament de missatges només permès a subscriptors."
 
 #: ../../english/MailingLists/mklist.tags:27
 msgid ""
@@ -107,7 +110,7 @@ msgid ""
 "form</a> is also available, for subscribing to mailing lists. "
 msgstr ""
 "Mireu la pàgina de les <a href=\"./#subunsub\">llistes de correu</a> per a "
-"informació de com us podeu dessubscriure usant el correu.  També hi ha "
+"informació de com us podeu donar de baixa usant el correu.  També hi ha "
 "disponible un <a href=\"subscribe\">formulari web per a donar-vos d'alta</a> "
 "d'aquestes llistes de correu. "
 
@@ -117,6 +120,9 @@ msgid ""
 "unsubscriptions is limited, if your request doesn't succeed, please use <a "
 "href=\"./#subunsub\">another method</a>):"
 msgstr ""
+"Seleccioneu de quina llista us voleu donar de baixa (el número de "
+"desuscripcions és limitada, si la vostra petició no té èxit, intenteu emprar "
+"un <a href=\"./#subunsub\">altre mètode</a>):"
 
 #: ../../english/MailingLists/mklist.tags:57
 msgid "Unsubscribe"

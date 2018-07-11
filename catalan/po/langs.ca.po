@@ -1,12 +1,12 @@
 # langs webwml Catalan template.
 # Copyright © 2002, 2003, 2004, 2005 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002, 2003.
-# Guillem Jover <guillem@debian.org>, 2004-2005, 2008, 2010-2011, 2017.
+# Guillem Jover <guillem@debian.org>, 2004-2005, 2008, 2010-2011, 2017-2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2017-06-19 01:29+0200\n"
+"PO-Revision-Date: 2018-07-12 01:01+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -76,7 +76,7 @@ msgstr "portuguès"
 
 #: ../../english/template/debian/language_names.wml:23
 msgid "Portuguese (Brazilian)"
-msgstr "portuguès (Braziler)"
+msgstr "portuguès (Brasiler)"
 
 #: ../../english/template/debian/language_names.wml:24
 msgid "Chinese"
@@ -152,7 +152,7 @@ msgstr "català"
 
 #: ../../english/template/debian/language_names.wml:42
 msgid "Indonesian"
-msgstr "indonès"
+msgstr "indonesi"
 
 #: ../../english/template/debian/language_names.wml:43
 msgid "Lithuanian"
@@ -185,11 +185,11 @@ msgstr "asturià"
 
 #: ../../english/template/debian/language_names.wml:51
 msgid "Amharic"
-msgstr "amharrès"
+msgstr "amhàric"
 
 #: ../../english/template/debian/language_names.wml:52
 msgid "Azerbaijani"
-msgstr "azerbaitjanès"
+msgstr "azerbaidjanès"
 
 #: ../../english/template/debian/language_names.wml:53
 msgid "Basque"
@@ -205,7 +205,7 @@ msgstr "bengalí"
 
 #: ../../english/template/debian/language_names.wml:56
 msgid "Bosnian"
-msgstr "bosni"
+msgstr "bosnià"
 
 #: ../../english/template/debian/language_names.wml:57
 msgid "Breton"
@@ -277,7 +277,7 @@ msgstr "malai"
 
 #: ../../english/template/debian/language_names.wml:74
 msgid "Malayalam"
-msgstr "malayalam"
+msgstr "malaiàlam"
 
 #: ../../english/template/debian/language_names.wml:75
 msgid "Maltese"
@@ -321,7 +321,7 @@ msgstr "eslovè"
 
 #: ../../english/template/debian/language_names.wml:87
 msgid "Tajik"
-msgstr "tajik"
+msgstr "tadjik"
 
 #: ../../english/template/debian/language_names.wml:88
 msgid "Thai"
@@ -353,7 +353,7 @@ msgstr "xhosa"
 
 #: ../../english/template/debian/language_names.wml:95
 msgid "Yiddish"
-msgstr "yiddish"
+msgstr "jiddisch"
 
 #: ../../english/template/debian/language_names.wml:96
 msgid "Zulu"

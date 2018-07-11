@@ -1,12 +1,13 @@
 # search webwml Catalan template.
 # Copyright (C) 2002 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002.
+# Guillem Jover <guillem@debian.org>, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2003-03-18 20:50+0100\n"
-"Last-Translator: Jordi Mallach <jordi@debian.org>\n"
+"PO-Revision-Date: 2018-07-12 00:59+0200\n"
+"Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -83,7 +84,7 @@ msgid ""
 "Any."
 msgstr ""
 "Ho sentim, però la cerca no ha tornat cap resultat. <P>Algunes pàgines poden "
-"estar disponibles en anglès unicament, potser voleu tornar a intentar-ho "
+"estar disponibles en anglès únicament, potser voleu tornar a intentar-ho "
 "establint la Llengua a Qualsevol."
 
 #: ../../english/searchtmpl/search.def:73
@@ -92,7 +93,7 @@ msgstr "S'ha produït un error!"
 
 #: ../../english/searchtmpl/search.def:77
 msgid "You should give at least one word to search for."
-msgstr "Deuríeu introduïr al menys una paraula a cercar"
+msgstr "Deuríeu introduir al menys una paraula a cercar"
 
 #: ../../english/searchtmpl/search.def:81
 msgid "Powered by"

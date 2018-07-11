@@ -1,12 +1,12 @@
 # templates webwml Catalan template.
 # Copyright (C) 2002, 2003, 2004, 2005 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002, 2003.
-# Guillem Jover <guillem@debian.org>, 2004, 2005, 2006, 2007.
+# Guillem Jover <guillem@debian.org>, 2004-2007, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2008-07-16 05:53+0300\n"
+"PO-Revision-Date: 2018-07-12 00:59+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -24,7 +24,7 @@ msgstr "Línia temporal"
 
 #: ../../english/template/debian/votebar.wml:19
 msgid "Summary"
-msgstr ""
+msgstr "Resum"
 
 #: ../../english/template/debian/votebar.wml:22
 msgid "Nominations"
@@ -167,22 +167,16 @@ msgid "Amendment Text B"
 msgstr "Text de l'esmena B"
 
 #: ../../english/template/debian/votebar.wml:127
-#, fuzzy
-#| msgid "Amendment Proposer A"
 msgid "Amendment Proposer C"
-msgstr "Proponent de l'esmena A"
+msgstr "Proponent de l'esmena C"
 
 #: ../../english/template/debian/votebar.wml:130
-#, fuzzy
-#| msgid "Amendment Seconds A"
 msgid "Amendment Seconds C"
-msgstr "Els que secunden l'esmena A"
+msgstr "Els que secunden l'esmena C"
 
 #: ../../english/template/debian/votebar.wml:133
-#, fuzzy
-#| msgid "Amendment Text A"
 msgid "Amendment Text C"
-msgstr "Text de l'esmena A"
+msgstr "Text de l'esmena C"
 
 #: ../../english/template/debian/votebar.wml:136
 msgid "Amendments"

@@ -1,12 +1,12 @@
 # countries webwml Catalan template.
 # Copyright (C) 2002, 2003, 2004, 2005 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002, 2003, 2005.
-# Guillem Jover <guillem@debian.org>, 2004, 2005, 2006, 2007, 2008, 2009, 2011.
+# Guillem Jover <guillem@debian.org>, 2004-2009, 2011, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2011-02-05 06:47+0100\n"
+"PO-Revision-Date: 2018-07-12 00:57+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: ../../english/template/debian/countries.wml:111
 msgid "United Arab Emirates"
-msgstr "Emirats Arabs Units"
+msgstr "Emirats Àrabs Units"
 
 #: ../../english/template/debian/countries.wml:114
 msgid "Albania"
@@ -40,7 +40,7 @@ msgstr "Austràlia"
 
 #: ../../english/template/debian/countries.wml:129
 msgid "Bosnia and Herzegovina"
-msgstr "Bòsnia i Herzegovina"
+msgstr "Bòsnia i Hercegovina"
 
 #: ../../english/template/debian/countries.wml:132
 msgid "Bangladesh"
@@ -112,7 +112,7 @@ msgstr "Algèria"
 
 #: ../../english/template/debian/countries.wml:183
 msgid "Ecuador"
-msgstr "Ecuador"
+msgstr "Equador"
 
 #: ../../english/template/debian/countries.wml:186
 msgid "Estonia"
@@ -128,7 +128,7 @@ msgstr "Espanya"
 
 #: ../../english/template/debian/countries.wml:195
 msgid "Ethiopia"
-msgstr "Etiopia"
+msgstr "Etiòpia"
 
 #: ../../english/template/debian/countries.wml:198
 msgid "Finland"
@@ -264,13 +264,11 @@ msgstr "Montenegro"
 
 #: ../../english/template/debian/countries.wml:297
 msgid "Madagascar"
-msgstr ""
+msgstr "Madagascar"
 
 #: ../../english/template/debian/countries.wml:300
-#, fuzzy
-#| msgid "Dominican Republic"
 msgid "Macedonia, Republic of"
-msgstr "República Dominicana"
+msgstr "República de Macedònia"
 
 #: ../../english/template/debian/countries.wml:303
 msgid "Mongolia"
@@ -290,7 +288,7 @@ msgstr "Malàisia"
 
 #: ../../english/template/debian/countries.wml:315
 msgid "New Caledonia"
-msgstr "Nova Caledonia"
+msgstr "Nova Caledònia"
 
 #: ../../english/template/debian/countries.wml:318
 msgid "Nicaragua"
@@ -338,7 +336,7 @@ msgstr "Portugal"
 
 #: ../../english/template/debian/countries.wml:351
 msgid "Réunion"
-msgstr ""
+msgstr "Illa de la Reunió"
 
 #: ../../english/template/debian/countries.wml:354
 msgid "Romania"
@@ -381,10 +379,8 @@ msgid "Thailand"
 msgstr "Tailàndia"
 
 #: ../../english/template/debian/countries.wml:384
-#, fuzzy
-#| msgid "Pakistan"
 msgid "Tajikistan"
-msgstr "Pakistan"
+msgstr "Tadjikistan"
 
 #: ../../english/template/debian/countries.wml:387
 msgid "Tunisia"

@@ -1,12 +1,12 @@
 # templates webwml Catalan template.
 # Copyright (C) 2002, 2003, 2004, 2005 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002, 2003.
-# Guillem Jover <guillem@debian.org>, 2004-2007, 2011, 2017.
+# Guillem Jover <guillem@debian.org>, 2004-2007, 2011, 2017-2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2017-06-19 00:59+0200\n"
+"PO-Revision-Date: 2018-07-12 00:59+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -105,7 +105,7 @@ msgstr "Suport"
 
 #: ../../english/template/debian/common_translation.wml:52
 msgid "Pure Blends"
-msgstr ""
+msgstr "Mescles pures"
 
 #: ../../english/template/debian/common_translation.wml:55
 #: ../../english/template/debian/links.tags.wml:46
@@ -200,13 +200,6 @@ msgstr "en la versió 2.2"
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
 #: ../../english/template/debian/footer.wml:105
-#, fuzzy
-#| msgid ""
-#| "To report a problem with the web site, e-mail our publicly archived "
-#| "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-"
-#| "www@lists.debian.org</a>.  For other contact information, see the Debian "
-#| "<a href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a "
-#| "href=\"m4_HOME/devel/website/using_cvs\">available</a>."
 msgid ""
 "To report a problem with the web site, please e-mail our publicly archived "
 "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists."
@@ -215,11 +208,11 @@ msgid ""
 "\"https://salsa.debian.org/webmaster-team/webwml\">available</a>."
 msgstr ""
 "Per informar d'algun problema amb el lloc web, envieu un correu en anglès a "
-"la llista de correu arxivada publicament <a href=\"mailto:debian-www@lists."
-"debian.org\">debian-www@lists.debian.org</a>.Per a altre informació de "
-"contacte, vegeu la <a href=\"m4_HOME/contact\">pàgina de contacte</a> de "
-"Debian. El codi font del lloc web està <a href=\"m4_HOME/devel/website/"
-"using_cvs\">disponible</a>."
+"la llista de correu arxivada públicament <a href=\"mailto:debian-www@lists."
+"debian.org\">debian-www@lists.debian.org</a> en anglès. Per a altre "
+"informació de contacte, vegeu la <a href=\"m4_HOME/contact\">pàgina de "
+"contacte</a> de Debian. El codi font del lloc web està <a href=\"m4_HOME/"
+"devel/website/using_cvs\">disponible</a>."
 
 #: ../../english/template/debian/footer.wml:108
 msgid "Last Modified"
@@ -231,7 +224,7 @@ msgstr "Copyright"
 
 #: ../../english/template/debian/footer.wml:114
 msgid "<a href=\"https://www.spi-inc.org/\">SPI</a> and others;"
-msgstr ""
+msgstr "<a href=\"https://www.spi-inc.org/\">SPI</a> i altres;"
 
 #: ../../english/template/debian/footer.wml:117
 msgid "See <a href=\"m4_HOME/license\" rel=\"copyright\">license terms</a>"
@@ -516,7 +509,7 @@ msgstr ""
 
 #: ../../english/template/debian/translation-check.wml:56
 msgid "Wrong translation version!"
-msgstr ""
+msgstr "La versió de traducció és incorrecta!"
 
 #: ../../english/template/debian/url.wml:4
 msgid "URL"

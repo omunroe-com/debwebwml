@@ -1,11 +1,11 @@
 # distrib webwml Catalan template.
 # Copyright (C) 2004, 2005 Free Software Foundation, Inc.
-# Guillem Jover <guillem@debian.org>, 2004, 2005, 2006, 2007, 2008, 2011.
+# Guillem Jover <guillem@debian.org>, 2004-2008, 2011, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2011-02-05 06:32+0100\n"
+"PO-Revision-Date: 2018-07-12 00:57+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -102,7 +102,7 @@ msgstr "Noms de paquet font"
 
 #: ../../english/distrib/search_packages-form.inc:21
 msgid "Only show exact matches"
-msgstr "Nomès mostra concordancies exactes"
+msgstr "Només mostra concordances exactes"
 
 #: ../../english/distrib/search_packages-form.inc:34
 msgid "Section"
@@ -133,20 +133,16 @@ msgid "ARM"
 msgstr "ARM"
 
 #: ../../english/releases/arches.data:11
-#, fuzzy
-#| msgid "64-bit PC (amd64)"
 msgid "64-bit ARM (AArch64)"
-msgstr "PC de 64 bits (amd64)"
+msgstr "ARM de 64 bits (AArch64)"
 
 #: ../../english/releases/arches.data:12
-#, fuzzy
-#| msgid "EABI ARM"
 msgid "EABI ARM (armel)"
-msgstr "EABI ARM"
+msgstr "ARM amb EABI (armel)"
 
 #: ../../english/releases/arches.data:13
 msgid "Hard Float ABI ARM (armhf)"
-msgstr ""
+msgstr "ARM amb ABI de coma flotant de maquinari (armhf)"
 
 #: ../../english/releases/arches.data:14
 msgid "HP PA-RISC"
@@ -181,10 +177,8 @@ msgid "MIPS (big endian)"
 msgstr "MIPS (terminació gran)"
 
 #: ../../english/releases/arches.data:22
-#, fuzzy
-#| msgid "MIPS (little endian)"
 msgid "64-bit MIPS (little endian)"
-msgstr "MIPS (terminació petita)"
+msgstr "MIPS de 64 bits (terminació petita)"
 
 #: ../../english/releases/arches.data:23
 msgid "MIPS (little endian)"
@@ -196,7 +190,7 @@ msgstr "PowerPC"
 
 #: ../../english/releases/arches.data:25
 msgid "POWER Processors"
-msgstr ""
+msgstr "Processador POWER"
 
 #: ../../english/releases/arches.data:26
 msgid "IBM S/390"
@@ -204,7 +198,7 @@ msgstr "IBM S/390"
 
 #: ../../english/releases/arches.data:27
 msgid "IBM System z"
-msgstr ""
+msgstr "Systema z d'IBM"
 
 #: ../../english/releases/arches.data:28
 msgid "SPARC"

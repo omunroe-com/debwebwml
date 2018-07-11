@@ -1,11 +1,11 @@
 # doc webwml Catalan template.
 # Copyright (C) 2002, 2003 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002, 2003.
-# Guillem Jover <guillem@debian.org>, 2011.
+# Guillem Jover <guillem@debian.org>, 2011, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2011-02-05 06:27+0100\n"
+"PO-Revision-Date: 2018-07-12 00:57+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -117,7 +117,7 @@ msgstr "Disponible en:"
 
 #: ../../english/doc/books.def:48
 msgid "CD Included:"
-msgstr "CD Inclós:"
+msgstr "CD Inclòs:"
 
 #: ../../english/doc/books.def:51
 msgid "Publisher:"
