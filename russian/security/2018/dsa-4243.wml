@@ -1,0 +1,59 @@
+#use wml::debian::translation-check translation="07b675fd002929e3c7b095ccf3c2d7ee18953a49" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В CUPS, общей системе печати UNIX, было обнаружено несколько
+уязвимостей. Эти уязвимости получили следующие идентификаторы CVE:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15400">CVE-2017-15400</a>
+
+    <p>Рори МакНамара обнаружил, что злоумышленник способен выполнять произвольные
+    команды (с правами службы CUPS), выбирая специально сформированный PPD-файл
+    для вредоносного IPP-сервера.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4180">CVE-2018-4180</a>
+
+     <p>Дэн Бэстоун из Gotham Digital Science обнаружил, что локальный
+     злоумышленник, имеющий доступ к cupsctl, может повысить свои права доступа, установив
+     переменную окружения. </p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4181">CVE-2018-4181</a>
+
+     <p>Эрик Рэфэлофф и Джон Данлэп из Gotham Digital Science обнаружил,
+     что локальный злоумышленник может выполнять ограниченные чтения произвольных файлов
+     от лица суперпользователя, изменяя cupsd.conf.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
+
+    <p>Дэн Бэстоун из Gotham Digital Science обнаружил, что злоумышленник с
+    ограниченными песочницей правами суперпользователя может запускать движки без
+    использования профиля песочницы, используя ошибку в коде создания профиля CUPS.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
+
+     <p>Дэн Бэстоун и Эрик Рэфэлофф из Gotham Digital Science обнаружили, что злоумышленник
+     с ограниченными песочницей правами суперпользователя может выполнять произвольные команды
+     от лица суперпользователя без ограничений песочницы, изменяя /etc/cups/cups-files.conf</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
+
+    <p>Дэн Бэстоун из Gotham Digital Science обнаружил, что злоумышленник может
+    обойти песочницу AppArmor для cupsd, запустив движок dnssd с помощью
+    изменённого имени по жёсткой ссылке на dnssd.</p></li>
+
+</ul>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 2.2.1-8+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты cups.</p>
+
+<p>С подробным статусом поддержки безопасности cups можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/cups">\
+https://security-tracker.debian.org/tracker/cups</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4243.data"
