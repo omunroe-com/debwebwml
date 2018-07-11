@@ -1,0 +1,81 @@
+#use wml::debian::template title="Debian 9 -- Errata" BARETITLE=true
+#use wml::debian::toc
+#use wml::debian::translation-check translation="7f910d78f53ef9502f748a4f6e7e16f68f71c2ed"
+
+#include "$(ENGLISHDIR)/releases/info"
+
+<toc-display/>
+
+
+# <toc-add-entry name="known_probs">Kända problem</toc-add-entry>
+<toc-add-entry name="security">Säkerhetsproblem</toc-add-entry>
+
+<p>Debians säkerhetsgrupp ger ut uppdateringar till paket i den stabila
+utgåvan där dom har identifierat problem relaterade till säkerhet. Vänligen
+se <a href="$(HOME)/security/">säkerhetssidorna</a> för information om
+potentiella säkerhetsproblem som har identifierats i <q>Stretch</q>.</p>
+
+<p>Om du använder APT, lägg till följande rad i <tt>/etc/apt/sources.list</tt>
+för att få åtkomst till de senaste säkerhetsuppdateringarna:</p>
+
+<pre>
+  deb http://security.debian.org/ stretch/updates main contrib non-free
+</pre>
+
+<p>Kör <kbd>apt-get update</kbd> efter detta, följt av
+<kbd>apt-get upgrade</kbd>.</p>
+
+
+<toc-add-entry name="pointrelease">Punktutgåvor</toc-add-entry>
+
+<p>Ibland, när det gäller kritiska problem eller säkerhetsuppdateringar,
+uppdateras utgåvedistributionen. I allmänhet indikeras detta som
+punktutgåvor.</p>
+
+<ul>
+  <li>Den första punktutgåvan, 9.1, släpptes
+      <a href="$(HOME)/News/2017/20170722">den 22 juli 2017</a>.</li>
+  <li>Den andra punktutgåvan, 9.2, släpptes
+      <a href="$(HOME)/News/2017/20171007">den 7 oktober 2017</a>.</li>
+  <li>Den tredje punktutgåvan, 9.3, släpptes
+      <a href="$(HOME)/News/2017/2017120902">den 9 december 2017</a>.</li>
+  <li>Den fjärde punktutgåvan, 9.4, släpptes
+      <a href="$(HOME)/News/2018/20180310">den 10 mars 2018</a>.</li>
+
+</ul>
+
+<ifeq <current_release_stretch> 9.0 "
+
+<p>Det finns inga punktutgåvor för Debian 9 ännu.</p>" "
+
+<p>Se <a
+href="http://http.us.debian.org/debian/dists/stretch/ChangeLog">\
+förändringsloggen</a>
+för detaljer om ändringar mellan 9.0 och <current_release_stretch/>.</p>"/>
+
+
+<p>Rättningar till den utgivna stabila utgåvan går ofta genom en utökad
+testningsperiod innan de accepteras i arkivet. Dock, så finns dessa rättningar
+tillgängliga i mappen
+<a href="http://ftp.debian.org/debian/dists/stretch-proposed-updates/">\
+dists/stretch-proposed-updates</a> i alla Debianarkivspeglingar.</p>
+
+<p>Om du använder APT för att uppdatera dina paket kan du installera de
+föreslagna uppdateringarna genom att lägga till följande rad i
+<tt>/etc/apt/sources.list</tt>:</p>
+
+<pre>
+  \# föreslagna tillägg för en punktutgåva till Debian 9
+  deb http://ftp.us.debian.org/debian stretch-proposed-updates main contrib non-free
+</pre>
+
+<p>Kör <kbd>apt-get update</kbd> efter detta, följt av
+<kbd>apt-get upgrade</kbd>.</p>
+
+
+<toc-add-entry name="installer">Installationssystem</toc-add-entry>
+
+<p>
+För information om kända problem och uppdateringar till installationssystemet,
+se <a href="debian-installer/">debian-installer</a>-sidan.
+</p>
