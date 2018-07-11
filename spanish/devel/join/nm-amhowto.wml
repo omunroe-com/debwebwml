@@ -1,5 +1,5 @@
 #use wml::debian::template title="Mini-CÓMO para Gestores de solicitud de Nuevos Miembros de Debian"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217"
+#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f"
 
 <p>
 <b>Nota:</b> La página wiki «<a href="https://wiki.debian.org/FrontDesk/AMTutorial">AM
@@ -9,8 +9,8 @@ Tutorial</a>» está más actualizada que esta página.
 <h2>Documentación e Infraestructura para Gestores de Solicitud</h2>
 
 <p>La información básica necesaria para un(a) Gestor(a) de Solicitud se proporciona
-aquí, en el <a href="newmaint">Rincón del nuevo miembro</a>. Comience a mirar
-alrededor hasta que esté familiarizado con el proceso y todos los requisitos de los
+aquí, en el <a href="newmaint">Rincón del nuevo miembro</a>. Comience por echar
+un vistazo hasta que esté familiarizado con el proceso y todos los requisitos de los
 solicitantes.</p>
 
 <p>Hay tres direciones de correo importantes para Gestores de Solicitud:</p>
@@ -29,14 +29,14 @@ manera privada.</dd>
 
  <dt>Recepción del nuevo miembro: nm@debian.org</dt>
   <dd>Aquí es donde se envían las solicitudes iniciales, los mensajes de aval y
-los informes finales de las solicitudes. Cualquier pregunta personal sobre 
-solicitudes individuales que no es apropiada para un foro público debe dirigirse aquí
-también.</dd>
+los informes finales de las solicitudes. También debería dirigirse aquí
+cualquier pregunta personal sobre solicitudes individuales que no sea apropiada para un
+foro público.</dd>
 
  <dt>Gestores de Cuentas de Debian («DAMs», «Debian Account Managers»): da-manager@debian.org</dt>
   <dd>Normalmente, esta dirección es sólo importante para enviar el informe final
 de la solicitud. Los «DAMs» son responsables de crear nuevas cuentas en las
-máquinas de Debian, y agregar al anillo de claves las claves OpenPGP de los nuevos miembros.
+máquinas de Debian y de agregar al anillo de claves las claves OpenPGP de los nuevos miembros.
 También toman la decisión final sobre cada solicitud, como delegados oficiales del Líder del Proyecto Debian para los nuevos miembros.</dd>
 </dl>
 
@@ -68,7 +68,7 @@ de todos los Solicitantes y cambiar su perfil de GS.</p>
 sobre los requisitos de las comprobaciones, nada de eso se repetirá aquí. Si no
 está seguro de cómo gestionar una solicitud, use las excelentes plantillas
 proporcionadas por el proyecto <a 
-href="https://anonscm.debian.org/cgit/collab-maint/nm-templates.git">nm-templates</a>
+href="https://salsa.debian.org/nm-team/nm-templates">nm-templates</a>
 de Joerg Jaspert's. Las preguntas deberían hacerse en debian-newmaint@l.d.o o
 enviarse a Recepción.</p>
 
@@ -79,7 +79,7 @@ comprobaciones de Nuevo Miembro para terminarlas en un tiempo razonable (&sim; d
 6 a 9 meses) deberían ponerse en espera. Eso no supone un problema o una valoración
 de las habilidades del/ de la Solicitante, sino una simple reacción a la falta de tiempo.
 Mucha gente quiere unirse a Debian, así que los Solicitantes no deberían bloquear
-los GS.</p>
+a los GS.</p>
 
 <p>Debería discutir la posibilidad de poner una solicitud en espera cuando tenga
 la sensación de que no avanza, ya sea porque el/la Solicitante no responde o porque la
@@ -99,9 +99,9 @@ en publicar su biografía.</li>
 informe &mdash; use su motor de búsquedas favorito, archivos de correo privado, el BTS
 y cualquier otro medio que se le venga a la mente. Algunas veces el proceso de solicitud
 es demasiado corto para tener una impresión apropiada de la personalidad del/de la Solicitante,
-así que trate de averiguar qué hicieron en el pasado.</li>
+así que trate de averiguar qué hizo en el pasado.</li>
 
- <li>Consulte a los patrocinadores y otras personas que hayan trabajado junto con el/la
+ <li>Consulte a los patrocinadores y a otras personas que hayan trabajado junto con el/la
 Solicitante para proporcionar afirmaciones cortas sobre ellos. Según se van manteniendo
 más paquetes por equipos, casi siempre puede encontrar a alguien que puede decirle más
 sobre un(a) Solicitante. Incluya estas afirmaciones en el informe.</li>
