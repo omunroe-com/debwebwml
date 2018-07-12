@@ -166,6 +166,15 @@
  <p><gettext domain="partners">Skolelinux is an effort to create a Debian Pure Blend aimed at schools and universities. An easy 3-question installation results in a preconfigured system tailored for schools, requiring almost no Linux or networking knowledge. This includes 15 preconfigured services and a localized environment.</gettext></p> 
  </define-tag> 
 
+## StackPath
+
+ <define-tag stackpath1 whitespace=delete>
+ <p><gettext domain="partners"><a href="https://www.stackpath.com/?utm_campaign=Partner%20Display&utm_source=Partner%20Display&utm_medium=Debian">StackPath</a> provides Debian with content delivery network (CDN) services, allowing high availability of services like <a href="https://security-tracker.debian.org/">the Security Bug Tracker</a> and <a href="https://planet.debian.org/">Planet Debian</a>.
+ </define-tag>
+ <define-tag stackpath2 whitespace=delete>
+ <p><gettext domain="partners">StackPath is a platform of secure edge services that enables developers to protect, accelerate, and innovate cloud properties ranging from websites to media delivery and IoT services.
+ </define-tag>
+
 ## Telegraaf
  
  <define-tag telegraaf1 whitespace=delete> 
