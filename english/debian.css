@@ -880,6 +880,9 @@ div.tabular table > td:first-child, table.tabular > td:first-child, table.vendor
 #pageLang:hover #langContainer {
     display: block;
 }
+.partnerlogo {
+    max-width: 200px;
+}
 
 /* for l10n-arabic */
 .bidi {

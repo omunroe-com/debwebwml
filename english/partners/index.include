@@ -18,7 +18,7 @@ $(WML1_IGNORE:-#) wml::sys::compat1
 <define-tag partnerlogo>
 <div class="partnerlogo">
   <A HREF="%2">
-  <IMG SRC="./images/%1" alt="%0">
+  <IMG SRC="./images/%1" alt="%0" class="partnerlogo">
   </A>
 </div>
 </define-tag>
@@ -26,7 +26,7 @@ $(WML1_IGNORE:-#) wml::sys::compat1
 <define-tag partnerlogo2>
 <div class="partnerlogo2">
   <A HREF="%2">
-  <IMG SRC="./images/%1" alt="%0">
+  <IMG SRC="./images/%1" alt="%0" class="partnerlogo">
   </A>
 </div>
 </define-tag>
