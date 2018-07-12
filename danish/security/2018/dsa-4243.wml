@@ -1,0 +1,60 @@
+#use wml::debian::translation-check translation="07b675fd002929e3c7b095ccf3c2d7ee18953a49" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder blev opdaget i CUPS, Common UNIX Printing System.  
+Problemerne er registreret med følgende CVE-id'er:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15400">CVE-2017-15400</a>
+
+    <p>Rory McNamara opdagede at en angriber ville være i stand til at udføre 
+    vilkårlige kommandoer (med rettighederne hørende til CUPS-dæmonen), ved at 
+    opsætte en ondsindet IPP-server med en fabrikeret PPD-fil.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4180">CVE-2018-4180</a>
+
+    <p>Dan Bastone fra Gotham Digital Science opdagede at en lokal angriber med 
+    adgang til cupsctl, kunne forøge rettigheder ved at opsætte en 
+    miljøvariabel.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4181">CVE-2018-4181</a>
+
+    <p>Eric Rafaloff og John Dunlap fra Gotham Digital Science opdagede at en 
+    lokal angriber kunne iværksætte begrænsede læsninger af vilkårlige filer 
+    som root, ved at manipulere med cupsd.conf.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
+
+    <p>Dan Bastone fra Gotham Digital Science opdagede at en angriber med 
+    sandkasse-rodadgang, kunne udføre backends uden en sandkasseprofil, ved at 
+    fremprovokere en fejl i CUPS' profiloprettelse.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
+
+    <p>Dan Bastone og Eric Rafaloff fra Gotham Digital Science opdagede at en 
+    angriber med sandkasse-rodadgang, kunne udføre vilkårlige kommandoer som 
+    root uden sandkasse, ved at ændre 
+    <code>/etc/cups/cups-files.conf</code>.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
+
+    <p>Dan Bastone fra Gotham Digital Science opdagede at en angriber kunne 
+    omgå AppArmors cupsd-sandkasse, ved at kalde dnssd-backend'en ved hjælp af 
+    et alternativt navn, hårdtlinket til dnssd.</p></li>
+
+</ul>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 2.2.1-8+deb9u2.</p>
+
+<p>Vi anbefaler at du opgraderer dine cups-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende cups, 
+se dens sikkerhedssporingsside på: 
+<a href="https://security-tracker.debian.org/tracker/cups">\
+https://security-tracker.debian.org/tracker/cups</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4243.data"
