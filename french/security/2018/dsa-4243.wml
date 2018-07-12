@@ -29,7 +29,7 @@ arbitraires en tant que superutilisateur en manipulant cupsd.conf.</p></li>
 
 <p>Dan Bastone de Gotham Digital Science a découvert qu'un attaquant doté
 d'un accès de superutilisateur dans un bac à sable peut exécuter des
-dorsaux sans un profil de bac à sable en provoquant une erreur dans la
+dorsaux sans profil de bac à sable en provoquant une erreur dans la
 création de profil de CUPS.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
@@ -43,7 +43,7 @@ sable en modifiant /etc/cups/cups-files.conf.</p></li>
 
 <p>Dan Bastone de Gotham Digital Science a découvert qu'un attaquant peut
 contourner le bac à sable AppArmor de cupsd en invoquant le dorsal dnssd en
-utilisant un nom différent lié physiquement à dnssd.</p></li>
+utilisant un nom différent lié directement à dnssd.</p></li>
 
 </ul>
 
