@@ -1,0 +1,15 @@
+#use wml::debian::projectnews::header PAGENAME="Índice de 2018"
+#use wml::debian::projectnews::index
+#use wml::debian::translation-check translation="cd730d237e0bba9a775d92ab53f796de2252829f"
+
+
+<p>
+Aquí están los números atrasados recientes de las noticias del proyecto Debian.
+#Also, see the  <a href="timeline">timeline</a> summary for all of 2018.
+</p>
+
+<p>
+<:= get_weeklynews_list (2018, '$(ENGLISHDIR)/News/weekly', '\d+', 1) :>
+</p>
+
+#use wml::debian::projectnews::footer NOBACKISSUES="yes"
