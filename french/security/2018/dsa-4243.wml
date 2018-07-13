@@ -25,20 +25,6 @@ variable d'environnement.</p></li>
 qu'un attaquant local peut réaliser des lectures limitées de fichiers
 arbitraires en tant que superutilisateur en manipulant cupsd.conf.</p></li>
 
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
-
-<p>Dan Bastone de Gotham Digital Science a découvert qu'un attaquant doté
-d'un accès de superutilisateur dans un bac à sable peut exécuter des
-dorsaux sans profil de bac à sable en provoquant une erreur dans la
-création de profil de CUPS.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
-
-<p>Dan Bastone et Eric Rafaloff de Gotham Digital Science ont découvert
-qu'un attaquant avec un accès de superutilisateur dans un bac à sable peut
-exécuter des commandes arbitraires en tant que superutilisateur sans bac à
-sable en modifiant /etc/cups/cups-files.conf.</p></li>
-
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
 
 <p>Dan Bastone de Gotham Digital Science a découvert qu'un attaquant peut
