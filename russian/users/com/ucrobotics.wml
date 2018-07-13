@@ -1,0 +1,22 @@
+# From: Yingjun Liu <yliu@ucrobotics.com>
+#use wml::debian::translation-check translation="ae2846a85c54736db5111b3ba09788586a21a675" maintainer="Lev Lamberov"
+
+<define-tag pagetitle>Taiwan uCRobotics Technology, Inc., Таоюань, Тайвань (Китайская республика)</define-tag>
+<define-tag webpage>http://www.ucrobotics.com.tw/</define-tag>
+
+#use wml::debian::users
+
+<p>
+    У нас есть два сервера, работающих под управлением стабильного выпуска Debian. На одном
+    установлен dolibarr для архитектуры x86 для ERP/CRM. Другой сервер &mdash; на ARM64 для
+    табельных часов сотрудников. Мы используем Debian за его безопасность, стабильность,
+    а также за простоту переноса на различные архитектуры.
+</p>
+
+<p>
+    Кроме того, у нас используется тестируемый выпуск Debian на множестве настольных компьютеров
+    и ноутбуках. В качестве основного окружения рабочего стола в нашей компании мы используем
+    KDE. Сотрудники используют LibreOffice для подготовки документов, браузер chromium для работы
+    с приложениями Google, а также нашу систему dolibarr ERP/CRM. Также мы используем Debian для
+    управления 3D-принерами как с помощью нашей собственной программы, так и с помощью octoprint.
+</p>

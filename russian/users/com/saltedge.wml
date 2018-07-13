@@ -1,0 +1,20 @@
+# From: Andrei Shestak <andreis@saltedge.com>
+#use wml::debian::translation-check translation="b186012a833506dd5be1eb42b4982e6293ca0e6c" maintainer="Lev Lamberov"
+
+<define-tag pagetitle>Salt Edge Inc., Торонто, Канада</define-tag>
+<define-tag webpage>https://www.saltedge.com/</define-tag>
+
+#use wml::debian::users
+
+<p>
+    Salt Edge Inc. &mdash; компания-лидер в области финансовых технологий.
+    Компания основана в 2013 году с целью создать стабильные и безопасные
+    каналы взаимоприёма между поставщиками финансовых услуг и конечными клиентами,
+    предоставляя выгоды всем участвующим сторонам.
+</p>
+
+<p>
+    В Salt Edge мы используем стандартизированную платформу Debian на более, чем
+    100 серверах. Мы используем её потому, что она проста в настройке и обновлении,
+    а также потому, что она представляет собой полностью свободное и стабильное решение.
+</p>
