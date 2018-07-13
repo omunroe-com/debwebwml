@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="07b675fd002929e3c7b095ccf3c2d7ee18953a49" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="2a51d7df00b2a3ce821da43704c57a93a05fda39" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans CUPS, le système
