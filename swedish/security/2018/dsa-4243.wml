@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="07b675fd002929e3c7b095ccf3c2d7ee18953a49" mindelta="1"
+#use wml::debian::translation-check translation="2a51d7df00b2a3ce821da43704c57a93a05fda39" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i CUPS, Common UNIX Printing
@@ -23,19 +23,6 @@ System. Dessa problem har identifierats med följande CVS-ids:</p>
 	<p>Eric Rafaloff och John Dunlap från Gotham Digital Science upptäckte
 	att en lokal angripare kan utföra begränsade läsningar av godtyckliga
 	filer som root genom att manipulera cupsd.conf.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
-
-	<p>Dan Bastone från Gotham Digital Science upptäckte att en angripare
-	med sandboxad rootåtkomst kan exekvera bakändar utan en bakändeprofil
-	genom att provocera fram ett fel i CUPS skapande av profil.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
-
-	<p>Dan Bastone och Eric Rafaloff från Gotham Digital Science upptäckte
-	att en angripare med sandboxad rootåtkomst kan exekvera godtyckliga
-	kommandon som icke sandboxad root genom att modifiera
-	/etc/cups/cups-files.conf</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
 
