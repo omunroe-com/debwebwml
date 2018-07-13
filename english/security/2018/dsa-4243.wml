@@ -23,18 +23,6 @@ System. These issues have been identified with the following CVE ids:</p>
      that a local attacker can perform limited reads of arbitrary files
      as root by manipulating cupsd.conf.</p></li>
 
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
-
-    <p>Dan Bastone of Gotham Digital Science discovered that an attacker
-    with sandboxed root access can execute backends without a sandbox
-    profile by provoking an error in CUPS' profile creation.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
-
-     <p>Dan Bastone and Eric Rafaloff of Gotham Digital Science discovered
-     that an attacker with sandboxed root access can execute arbitrary
-     commands as unsandboxed root by modifying /etc/cups/cups-files.conf</p></li>
-
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
 
     <p>Dan Bastone of Gotham Digital Science discovered that an attacker
