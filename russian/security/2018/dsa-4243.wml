@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="07b675fd002929e3c7b095ccf3c2d7ee18953a49" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2a51d7df00b2a3ce821da43704c57a93a05fda39" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>В CUPS, общей системе печати UNIX, было обнаружено несколько
@@ -23,18 +23,6 @@
      <p>Эрик Рэфэлофф и Джон Данлэп из Gotham Digital Science обнаружил,
      что локальный злоумышленник может выполнять ограниченные чтения произвольных файлов
      от лица суперпользователя, изменяя cupsd.conf.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
-
-    <p>Дэн Бэстоун из Gotham Digital Science обнаружил, что злоумышленник с
-    ограниченными песочницей правами суперпользователя может запускать движки без
-    использования профиля песочницы, используя ошибку в коде создания профиля CUPS.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
-
-     <p>Дэн Бэстоун и Эрик Рэфэлофф из Gotham Digital Science обнаружили, что злоумышленник
-     с ограниченными песочницей правами суперпользователя может выполнять произвольные команды
-     от лица суперпользователя без ограничений песочницы, изменяя /etc/cups/cups-files.conf</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
 
