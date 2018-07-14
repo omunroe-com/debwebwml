@@ -1,0 +1,288 @@
+#use wml::debian::translation-check translation="04046ccaf8a2556fdf9c38ba6ea840d8d003459d"
+<define-tag pagetitle>Debian 8 actualizado: publicada la versión 8.4</define-tag>
+<define-tag release_date>2016-04-02</define-tag>
+#use wml::debian::news
+
+<define-tag release>8</define-tag>
+<define-tag codename>jessie</define-tag>
+<define-tag revision>8.4</define-tag>
+
+<define-tag dsa>
+    <tr><td align="center"><a href="$(HOME)/security/%0/dsa-%1">DSA-%1</a></td>
+        <td align="center"><:
+    my @p = ();
+    for my $p (split (/,\s*/, "%2")) {
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
+    }
+    print join (", ", @p);
+:></td></tr>
+</define-tag>
+
+<define-tag correction>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+</define-tag>
+
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
+
+<p>El proyecto Debian se complace en anunciar la cuarta actualización de su
+distribución «estable» Debian <release> (nombre en clave <q><codename></q>).
+Esta versión añade, principalmente, correcciones de problemas de seguridad a la distribución
+«estable», junto con unos pocos ajustes para problemas graves. Los avisos de seguridad
+se han publicado ya de forma independiente, y aquí hacemos referencia a ellos donde corresponde.</p>
+
+<p>Tenga en cuenta que esta actualización no constituye una nueva versión completa de Debian
+<release>, solo actualiza algunos de los paquetes incluidos. No es
+necesario deshacerse de los viejos CD o DVD de <q><codename></q>, basta con actualizar un
+sistema Debian ya instalado, utilizando una réplica que esté al día, para que los
+paquetes instalados de los que haya una versión posterior se actualicen.</p>
+
+<p>Quienes instalen frecuentemente actualizaciones desde security.debian.org no tendrán
+que actualizar muchos paquetes, y la mayoría de dichas actualizaciones están
+incluidas en esta nueva versión.</p>
+
+<p>Pronto habrá disponibles nuevos medios de instalación e imágenes de CD y de DVD con
+paquetes actualizados en los sitios habituales.</p>
+
+<p>La actualización en línea a esta versión se realiza habitualmente haciendo que
+la herramienta de gestión de paquetes aptitude (o apt) apunte a una de las muchas réplicas
+FTP o HTTP de Debian (vea la página del manual sources.list(5)). En la dirección siguiente
+puede encontrar el listado completo de réplicas:</p>
+
+<div class="center">
+  <a href="$(HOME)/mirror/list">https://www.debian.org/mirror/list</a>
+</div>
+
+<h2>Corrección de errores varios</h2>
+
+<p>Esta actualización de la distribución «estable» añade unas pocas correcciones importantes a los paquetes
+siguientes:</p>
+<table border=0>
+<tr><th>Paquete</th>               <th>Motivo</th></tr>
+<correction amavisd-new                      "Da valor a LC_ALL antes de ejecutar el servicio">
+<correction amd64-microcode                  "Actualiza parche de microcódigo de AMD para procesadores de la familia AMD 15h para corregir errores en un parche de microcódigo anterior">
+<correction apt                              "apt-pkg/algorithms.cc: Evita desbordamiento de pila en KillList">
+<correction aptdaemon                        "Corrección de seguridad [CVE-2015-1323]">
+<correction ardour                           "Generado de nuevo para eliminar libs/pdb/dmalloc.cc">
+<correction base-files                       "Actualizado para esta versión">
+<correction c-icap-modules                   "Recompilado contra libclamav7">
+<correction cairo                            "Corrección de seguridad [CVE-2016-3190]">
+<correction cinnamon-settings-daemon         "Corrige un error menor de seguridad (falta comprobación de polkit)">
+<correction clamav                           "Nueva versión del proyecto original; evita acceso a memoria no alineado">
+<correction conkeror                         "Corrige correspondencia de mensajes de error de carga de módulos para que funcione con Firefox 36">
+<correction dansguardian                     "Recompilado contra libclamav7">
+<correction debian-installer                 "Recompilado contra proposed-updates">
+<correction debian-installer-netboot-images  "Recompilado contra el nuevo debian-installer">
+<correction dolibarr                         "Múltiples correcciones de seguridad [CVE-2015-3935 CVE-2015-8685 CVE-2016-1912]">
+<correction espeakup                         "Hace que la búsqueda de idiomas disponibles sea independiente de la jerarquía de ficheros; usa portugués en lugar de gallego; synth.c: corrige la búsqueda de voces por nombre de idioma">
+<correction exactimage                       "Corrección de seguridad [CVE-2015-8366]">
+<correction fglrx-driver                     "libfglrx-amdxvba1: añade Rompe+Reemplaza: xvba-va-driver (&lt;&lt; 0.8.0-9+deb) ya que ahora distribuimos fglrx_drv_video.so y xvba_drv_video.so">
+<correction flash-kernel                     "Usa /dev/mtdN al escribir, en lugar de ir, innecesariamente, a través de la capa mtdblock (lo cual es problemático en algunos plataformas/núcleos); usa nandwrite al escribir en nand flash">
+<correction fonts-sil-andika                 "Elimina 65-andika.conf realmente">
+<correction giflib                           "Abandona si Width &gt; SWidth [CVE-2015-7555]">
+<correction glib2.0                          "Recompilado contra pcre3 actualizado para incorporar actualizaciones de seguridad">
+<correction glibc                            "Mejora granpt cuando /dev/pts no está montado con las opciones correctas; no compila pt_chown [CVE-2013-2207]">
+<correction gnome-shell-extension-weather    "Nuevo snapshot del proyecto original, compatible con la nueva API de openweathermap.org">
+<correction gnupg                            "Maneja correctamente tipos de subclave desconocidos">
+<correction gtk+2.0                          "Evita desbordamiento de entero al asignar un bloque de memoria grande [CVE-2013-7447]">
+<correction gummi                            "Actualiza corrección para nombres de ficheros temporales predecibles [CVE-2015-7758] para utilizar la corrección del proyecto original">
+<correction havp                             "Recompilado contra libclamav7">
+<correction imagemagick                      "Correcciones de seguridad">
+<correction initramfs-tools                  "Añade controladores que faltaban y varias correcciones de errores">
+<correction installation-guide               "Añade QNAP TS-109, TS-209, TS-409 y TS-409U de nuevo como modelos soportados">
+<correction libclamunrar                     "Recompilado para libclamav7">
+<correction libdatetime-timezone-perl        "Actualiza los datos incluidos de zonas horarias a tzdata 2016c">
+<correction librsvg                          "Corrige lectura de memoria dinámica («heap») fuera de límites al analizar sintácticamente fichero SVG [CVE-2015-7557]">
+<correction libsndfile                       "Corrige denegación de servicio a través de división por cero [CVE-2014-9756] y desbordamiento de memoria dinámica («heap») en analizador sintáctico AIFF [CVE-2015-7805]">
+<correction libvirt                          "No permite '/' en el volumen de un sistema de archivos [CVE-2015-5313]; libvirt-daemon: Espera qemu-bridge-helper en /usr/lib/qemu">
+<correction linux                            "Actualizado a la nueva versión del proyecto original 3.16.7-ckt25; añade dm-service-time a multipath-modules; añade soporte de CPU MIPS 5KE">
+<correction mongrel2                         "Marcada como comentario una prueba que falla por un certificado expirado">
+<correction mozilla-devscripts               "Actualiza la generación de sustitución de variables («substvar») de dh_xul-ext para las próximas transiciones en «estable» de iceweasel a firefox-esr y de icedove a thunderbird">
+<correction nettle                           "Múltiples correcciones de seguridad [CVE-2015-8803 CVE-2015-8804 CVE-2015-8805]">
+<correction nss-pam-ldapd                    "Corrige problemas con la ejecución de nslcd como «daemon» y evita una condición de carrera en la gestión de señales durante el arranque; corrige avisos de expiración de política de contraseñas; asegura código de retorno de init script apropiado">
+<correction osmo                             "Corrige backup de datos corrupto en i386">
+<correction pagekite                         "Añade dependencia en tiempo de compilación con python-openssl, que faltaba, para corregir fallo en test">
+<correction pam                              "Recompilado para corregir la capacidad de coinstalación multiarquitectura">
+<correction pcre3                            "Corrige desbordamiento de espacio de trabajo por (*ACCEPT) con paréntesis anidados en muchos niveles [CVE-2016-3191]; corrige desbordamiento de memoria dinámica («heap») al gestionar grupos con nombre duplicado [CVE-2016-1283]; corrige un problema con saltos de tabla anidados [CVE-2014-9769]">
+<correction pgplot5                          "Corrige error de compilación utilizando ruta multiarquitectura a zconf.h">
+<correction php-dompdf                       "Corrige vulnerabilidades de revelación de información [CVE-2014-5011], denegación de servicio [CVE-2014-5012] y ejecución de código remoto [CVE-2014-5013]">
+<correction php-mail-mime                    "Añade dependencia con php-pear, que faltaba">
+<correction php-net-ldap2                    "Corrige error fatal con versiones de PEAR más recientes">
+<correction php5                             "Nueva versión «estable» del proyecto original; revierte PEAR a la última versión que funcionaba desde PHP 5.6.14">
+<correction postgresql-9.1                   "Nueva versión del proyecto original">
+<correction postgresql-common                "pg_upgradecluster: hace dynamic_shared_memory_type = mmap por omisión; esto, fundamentalmente, evita problemas con la actualización de clusters existentes en un contenedor LXC">
+<correction python-clamav                    "Recompilado contra libclamav7">
+<correction python-rsa                       "Corrige posible falsificación de firma mediante el ataque Bleichenbacher'06 [CVE-2016-1494]">
+<correction rdesktop                         "Corrige violación de acceso («sigsegv») al usar credssp y Kerberos sin especificar nombre de dominio («domainname») como parámetro">
+<correction rsnapshot                        "Corrige regresión en --rsh con parámetros">
+<correction ruby-defaults                    "ruby: hace que el conflicto con ruby-activesupport-2.3 incluya número de versión con (&lt;&lt; 2:4) para permitir la instalación del paquete transitorio">
+<correction ruby-standalone                  "Instala 'rubyX.Y' como un enlace a 'ruby' de forma que los binarios instalados por bundler sean funcionales">
+<correction ruby-tzinfo                      "Carga iso3166.tab y zone.tab como UTF-8">
+<correction s3ql                             "Soporta actualizaciones desde sistemas de ficheros creados con la versión de S3QL en Debian Wheezy">
+<correction sane-backends                    "Reescrito debian/saned@.service para evitar errores por escaneos de red; impide el arranque a través del script alternativo /etc/init.d/saned">
+<correction sitesummary                      "Corrige bloqueo del script de postinstalación, enlace simbólico roto en configuración Apache tras la eliminación">
+<correction stress                           "No instala info/dir.gz">
+<correction subversion                       "Corrige violación de acceso («segfault») al utilizar kwallet para almacenar información de autenticación">
+<correction suckless-tools                   "slock: hace que se ajuste correctamente el tamaño de la ventana de cubierta cuando se añaden nuevas pantallas o cuando se cambia la resolución mientras está activo el bloqueo («lock»)">
+<correction sus                              "Actualizada la suma de verificación («checksum») del fichero tar del proyecto original">
+<correction systemd                          "Se asegura de que todas las unidades swap estén ordenadas por delante del «target» swap. Esto evita que los dispositivos de swap sean parados prematuramente durante el apagado; solo omite la verificación del sistema de ficheros /usr si el fichero indicador /run/initramfs/fsck-usr existe, evitando problemas al utilizar dracut; corrige --network-interface en systemd-nspawn para que no falle al modificar un enlace existente; no llama a addgroup con --quiet; debian/udev.prerm: añade acción <q>deconfigure</q>, que faltaba">
+<correction torbrowser-launcher              "Inhabilita la fijación («pinning») del certificado para evitar problemas con próximo cambio de certificado; evita ataque de verificación de firma pasando a gpg tanto el fichero con los datos como el fichero con la firma [CVE-2016-3180]">
+<correction tzdata                           "Nueva versión del proyecto original">
+<correction unbound                          "Actualiza «hints» para H.ROOT-SERVERS.NET">
+<correction user-mode-linux                  "Recompilado contra el núcleo Linux 3.16.7-ckt20-1+deb8u3">
+<correction vsftpd                           "Corrige que la opción de configuración <q>deny_file</q> no siempre se gestione correctamente [CVE-2015-1419]; hace que el valor por omisión de tunable_listen coincida con el valor de listen en la página del manual de vsftpd.conf">
+<correction whatmaps                         "Respeta el cambio de nombre del paquete Apache de Jessie">
+<correction xvba-video                       "xvba-va-driver, como paquete separado, ha pasado a estar obsoleto tras fglrx-driver 1:15.9, transformado en un metapaquete vacío">
+</table>
+
+<h2>Actualizaciones de seguridad</h2>
+
+
+<p>Esta versión añade las siguientes actualizaciones de seguridad a la distribución
+«estable». El equipo de seguridad ya ha publicado un aviso para cada una
+de estas actualizaciones:</p>
+
+<table border=0>
+<tr><th>ID del aviso</th>  <th>Paquete</th></tr>
+
+
+<dsa 2016 3426 ctdb>
+<dsa 2016 3447 tomcat7>
+<dsa 2016 3448 linux>
+<dsa 2016 3449 bind9>
+<dsa 2016 3450 ecryptfs-utils>
+<dsa 2016 3451 fuse>
+<dsa 2016 3452 claws-mail>
+<dsa 2016 3453 mariadb-10.0>
+<dsa 2016 3454 virtualbox>
+<dsa 2016 3455 curl>
+<dsa 2016 3456 chromium-browser>
+<dsa 2016 3457 iceweasel>
+<dsa 2016 3459 mysql-5.5>
+<dsa 2016 3460 privoxy>
+<dsa 2016 3462 radicale>
+<dsa 2016 3463 prosody>
+<dsa 2016 3464 rails>
+<dsa 2016 3466 krb5>
+<dsa 2016 3467 tiff>
+<dsa 2016 3468 polarssl>
+<dsa 2016 3471 qemu>
+<dsa 2016 3472 wordpress>
+<dsa 2016 3474 libgcrypt20>
+<dsa 2016 3477 iceweasel>
+<dsa 2016 3479 graphite2>
+<dsa 2016 3481 glibc>
+<dsa 2016 3483 cpio>
+<dsa 2016 3484 xdelta3>
+<dsa 2016 3485 didiwiki>
+<dsa 2016 3486 chromium-browser>
+<dsa 2016 3487 libssh2>
+<dsa 2016 3488 libssh>
+<dsa 2016 3490 websvn>
+<dsa 2016 3492 gajim>
+<dsa 2016 3493 xerces-c>
+<dsa 2016 3494 cacti>
+<dsa 2016 3496 php-horde-core>
+<dsa 2016 3497 php-horde>
+<dsa 2016 3498 drupal7>
+<dsa 2016 3499 pillow>
+<dsa 2016 3500 openssl>
+<dsa 2016 3501 perl>
+<dsa 2016 3502 roundup>
+<dsa 2016 3503 linux>
+<dsa 2016 3504 bsh>
+<dsa 2016 3505 wireshark>
+<dsa 2016 3506 libav>
+<dsa 2016 3507 chromium-browser>
+<dsa 2016 3508 jasper>
+<dsa 2016 3509 rails>
+<dsa 2016 3510 iceweasel>
+<dsa 2016 3511 bind9>
+<dsa 2016 3512 libotr>
+<dsa 2016 3513 chromium-browser>
+<dsa 2016 3514 samba>
+<dsa 2016 3515 graphite2>
+<dsa 2016 3516 wireshark>
+<dsa 2016 3517 exim4>
+<dsa 2016 3518 spip>
+<dsa 2016 3519 xen>
+<dsa 2016 3521 git>
+<dsa 2016 3522 squid3>
+<dsa 2016 3523 iceweasel>
+<dsa 2016 3524 activemq>
+<dsa 2016 3526 libmatroska>
+<dsa 2016 3527 inspircd>
+<dsa 2016 3528 pidgin-otr>
+<dsa 2016 3529 redmine>
+<dsa 2016 3531 chromium-browser>
+<dsa 2016 3532 quagga>
+
+</table>
+
+<h2>Paquetes eliminados</h2>
+
+<p>Se han eliminado los paquetes listados a continuación por circunstancias ajenas
+a nosotros:</p>
+
+
+<table border=0>
+<tr><th>Paquete</th>               <th>Motivo</th></tr>
+
+<correction gnome-gmail               "Roto">
+<correction nautilus-pastebin         "Sin mantenimiento activo">
+</table>
+
+<h2>Instalador de Debian</h2>
+
+Se ha actualizado el instalador para incluir las correcciones incorporadas por
+esta nueva versión en la distribución «estable».
+
+<h2>URL</h2>
+
+<p>Las listas completas de paquetes que han cambiado en esta
+versión:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/<downcase <codename>>/ChangeLog">
+</div>
+
+<p>La distribución «estable» actual:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/stable/">
+</div>
+
+<p>Actualizaciones propuestas a la distribución «estable»:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/proposed-updates">
+</div>
+
+<p>Información sobre la distribución «estable» (notas de publicación, erratas, etc.):</p>
+
+<div class="center">
+  <a
+  href="$(HOME)/releases/stable/">https://www.debian.org/releases/stable/</a>
+</div>
+
+<p>Información y anuncios de seguridad:</p>
+
+<div class="center">
+  <a href="$(HOME)/security/">https://security.debian.org/</a>
+</div>
+
+
+<h2>Acerca de Debian</h2>
+
+<p>El proyecto Debian es una asociación de desarrolladores de software libre que
+aportan de forma voluntaria su tiempo y esfuerzo para producir el sistema operativo
+Debian, un sistema operativo completamente libre.</p>
+
+
+<h2>Información de contacto</h2>
+
+<p>Para más información, visite las páginas web de Debian en
+<a href="$(HOME)/">https://www.debian.org/</a>, envíe un correo electrónico a
+&lt;press@debian.org&gt; o contacte con el equipo responsable de la publicación en
+&lt;debian-release@lists.debian.org&gt;.</p>
+
+
