@@ -1,0 +1,331 @@
+#use wml::debian::translation-check translation="0cbed7020912a0a074c52b71918e0a9700ee9a0b" maintainer="Lev Lamberov"
+<define-tag pagetitle>Обновлённый Debian 9: выпуск 9.5</define-tag>
+<define-tag release_date>2018-07-14</define-tag>
+#use wml::debian::news
+
+<define-tag release>9</define-tag>
+<define-tag codename>stretch</define-tag>
+<define-tag revision>9.5</define-tag>
+
+<define-tag dsa>
+    <tr><td align="center"><a href="$(HOME)/security/%0/dsa-%1">DSA-%1</a></td>
+        <td align="center"><:
+    my @p = ();
+    for my $p (split (/,\s*/, "%2")) {
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
+    }
+    print join (", ", @p);
+:></td></tr>
+</define-tag>
+
+<define-tag correction>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+</define-tag>
+
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
+
+<p>Проект Debian с радостью сообщает о четвёртом обновлении своего
+стабильного выпуска Debian <release> (кодовое имя <q><codename></q>).
+Это обновление в основном содержит исправления проблем безопасности,
+а также несколько корректировок серьёзных проблем. Рекомендации по безопасности
+опубликованы отдельно и указываются при необходимости.</p>
+
+<p>Заметьте, что это обновление не является новой версией Debian
+<release>, а лишь обновлением некоторых включённых в выпуск пакетов. Нет
+необходимости выбрасывать старые носители с выпуском <q><codename></q>. После установки
+пакеты можно обновить до текущих версий, используя актуальное
+зеркало Debian.</p>
+
+<p>Тем, кто часто устанавливает обновления с security.debian.org, не придётся
+обновлять много пакетов, большинство обновлений с security.debian.org
+включены в данное обновление.</p>
+
+<p>Новые установочные образы будут доступны позже в обычном месте.</p>
+
+<p>Обновление существующих систем до этой редакции можно выполнить с помощью
+системы управления пакетами, используя одно из множества HTTP-зеркал Debian.
+Исчерпывающий список зеркал доступен на странице:</p>
+
+<div class="center">
+  <a href="$(HOME)/mirror/list">https://www.debian.org/mirror/list</a>
+</div>
+
+<h2>Исправления различных ошибок</h2>
+
+<p>Данное стабильное обновление вносит несколько важных исправлений для следующих
+пакетов:</p>
+<table border=0>
+<tr><th>Пакет</th>               <th>Причина</th></tr>
+<correction 2ping "Добавление отсутствующей зависимости от python-pkg-resources">
+<correction abiword "Разрешение конфликта двоичных файлов между пакетами abiword-dbgsym и abiword-plugin-grammar-dbgsym">
+<correction adminer "Не разрешать подключения к привилегированным портам [CVE-2018-7667]">
+<correction animals "Исправление неправильных прав доступа к файлам, из-за которых игра не работала">
+<correction apache2 "Обновление mod_http и mod_proxy_http2 до версий из 2.4.33, исправление ошибок сегментирования, высокого потребления памяти и потенциальной аварийной остановки [CVE-2018-1302]; действительное использование сценарием инициализации apache-htcacheclean файла /etc/default/apache-htcacheclean для настройки">
+<correction auto-complete-el "Добавление исправления основной ветки для emacs25; изменение зависимостей от emacs для версий emacs из stretch; настройка сценария auto-complete-el.emacsen-compat таким образом, чтобы предупреждение при установке не выводилось">
+<correction awffull "Не использовать удалённые опции в /etc/cron.daily/awffull">
+<correction ax25-tools "Избегание ошибки сегментирования во время исполнения">
+<correction base-files "Обновление для данной редакции">
+<correction blktrace "Исправление переполнения буфера в btt [CVE-2018-10689]">
+<correction ca-certificates "Обновление пакета Mozilla CA до версии 2.22; исправления ошибок">
+<correction camo "Добавление отсутствующей зависимости от openssl">
+<correction cffi "Добавление отсутствующих файлов для cffi-libffi и cffi-toolchain; добавление нескольких отсутствующих зависимостей">
+<correction check-postgres "Обновление набора тестов для обработки функции pg_get_indexdef(), теперь всегда включающей имя схемы">
+<correction clamav "Новый выпуск основной ветки разработки; не прекращать работу при использовании недавно удалённых опций настройки">
+<correction clustershell "Добавление отсутствующей зависимости от python-pkg-resources">
+<correction debian-installer "Обновление для ABI ядра -7">
+<correction debian-installer-netboot-images "Повторная сборка для данной редакции">
+<correction debian-security-support "Обновление включённых данных">
+<correction dehydrated "Исправление ошибки создания fullchain.pem">
+<correction devscripts "uscan: исправление регулярного выражения для новой версии для опции filenamemangle; debsign: исправление автодополнения bash; bts: поддержка нового тега <q>ftbfs</q>; uscan: поддержка HTTPS в службе перенаправления sf.net; debcheckout: поддержка salsa.debian.org; debdiff: сортировка файлов shlibs до их сравнения, уменьшение шума при сравнении; uscan: поддержка --copy">
+<correction disc-cover "Исправление ошибки perl при запуске disc-cover">
+<correction discover "Использование правильного типа для параметра длины вызова getline()">
+<correction django-xmlrpc "Исправление зависимостей от python3">
+<correction dosbox "Исправление аварийных остановок с core=dynamic">
+<correction dpdk "Новая стабильная версия основной ветки разработки">
+<correction dpkg "Исправление переполнения целых чисел в коде для грамматического разбора формата версии deb(5); исправление обхода каталога с dpkg-deb --raw-extract; добавление поддержки ЦП riscv64; прекращение нормализации аргументов после слова останова в Dpkg::Getopt; корректный грамматический разбор пользовательских имён и имён групп start-stop-daemon, начинающихся с цифр; всегда использовать двоичную версию для имени файла .buildinfo">
+<correction dput-ng "Добавление целей jessie-backports-sloppy и stretch-backports; добавление 'testing' в наборы rm-managed и 'oldstable' в <q>защищённые дистрибутивы</q>; добавление профиля ports-master; FTP: грамматический разбор и использование необязательной части [:порт] для fqdn">
+<correction elastix "Повторная сборка с ITK, сборка с помощью gcc 6">
+<correction email2trac "Исправление определения Trac 1.2">
+<correction faad2 "Исправление нескольких отказов в обслуживании из-за специально сформированных файлов MP4 [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
+<correction faker "Добавление отсутствующей зависимости от python-ipaddress">
+<correction fastkml "Добавление отсутствующей зависимости от pkg-resources">
+<correction file "Избегание чтения за границами буфера [CVE-2018-10360]">
+<correction freedink-dfarc "Исправление обхода каталога в коде распаковки D-Mod [CVE-2018-0496]">
+<correction ganeti "Правильная проверка SSL-сертификатов во время экспорта виртуальной машины">
+<correction ghostscript "Исправление ошибки сегментирования при проверке файла в gxht_thresh_image_init(); исправление переполнения буфера в fill_threshold_buffer [CVE-2016-10317]; pdfwrite &mdash; защита от попыток вывода бесконечного числа [CVE-2018-10194]">
+<correction git-annex "Исправления безопасности [CVE-2018-10857 CVE-2018-10859]">
+<correction glx-alternatives "Новая версия основной ветки разработки">
+<correction gridengine "Использование правильных путей к пиксельным изображениям qmon; исправление FTBFS на armhf">
+<correction intel-microcode "Обновление включённого микрокода, добавление исправлений для Spectre v2 [CVE-2017-5715]">
+<correction jdresolve "Исправление несовместимости с libnet-dns-perl в Debian 8 и более поздних версиях">
+<correction libb64 "Повторная сборка с поддержкой PIE">
+<correction libdate-holidays-de-perl "Пометка Дня Реформации как праздника в Нижней Саксонии и Бремене">
+<correction libdatetime-timezone-perl "Обновление включённых данных">
+<correction libextractor "Различные исправления безопасности [CVE-2017-15266 CVE-2017-15267 CVE-2017-15600 CVE-2017-15601 CVE-2017-15602 CVE-2017-15922 CVE-2017-17440]">
+<correction libipc-run-perl "Исправление утечки памяти">
+<correction liblouis "Исправление переполнения буфера [CVE-2018-11410]; исправление нескольких переполнений буфера [CVE-2018-11440 CVE-2018-11577 CVE-2018-11683 CVE-2018-11684 CVE-2018-11685 2018-12085]">
+<correction libosmium "Правильный вывод координат со значением -2^31; исправление буферов более 2^32 байтов">
+<correction linux "Новая стабильная версия основной ветки разработки 4.9.110">
+<correction linux-latest "Обновление до ABI ядра -7">
+<correction llvm-toolchain-4.0 "Новый пакет для обратного переноса rust; исправление сборка на s390x">
+<correction local-apt-repository "Исправление поломки apt, если пакет удалён, но не вычищен">
+<correction loook "Исправление обработки файлов, защищённых паролем">
+<correction miniupnpd "Исправление отказа в обслуживании [CVE-2017-1000494]">
+<correction nss-pam-ldapd "Увеличение размера буфера для имени узла">
+<correction nvidia-graphics-drivers "Новая версия основной ветки разработки">
+<correction obfsproxy "Прекращение установки сломанного профиля AppArmor">
+<correction openldap "Исправление рассинхронизации при репликации delta-syncrepl в окружении с несколькими базовыми узлами; исправление обновлений, если настройки содержат экранированные с помощью обратной косой черты специальные символы">
+<correction openstack-debian-images "Размещение CloudStack после OpenStack в datasource_list, чтобы избежать задержки в 120 секунд в сценарии cloud-init при загрузке машины в облаке OpenStack">
+<correction patch "Исправление выполнения произвольной команды в заплатах в стиле ed [CVE-2018-1000156]">
+<correction piglit "Исправление отсутствующей зависимости от python-mako">
+<correction postgresql-9.6 "Новая версия основной ветки разработки">
+<correction postgresql-common "Запрет при обновлении/удалении серверных пакетов останавливать другие версии кластеров в случае, если используется systemd">
+<correction psad "Добавление отсутствующих зависимостей от net-tools и iproute2">
+<correction pysurfer "Добавление отсутствующей зависимости от python-matplotlib">
+<correction python-cluster "Добавление отсутствующей зависимости от pkg-resources">
+<correction python-pyorick "Исправление ошибки импорта путём добавления отсутствующей зависимости от python3-numpy">
+<correction python-scruffy "Добавление отсутствующих зависимостей от pkg-resources">
+<correction r-cran-mi "Добавление отсутствующей зависимости от r-cran-arm">
+<correction redis "Исправление RunTimeDirectory -&gt; опечатка RuntimeDirectory в .service-файлах systemd">
+<correction reportbug "Уведомление команды безопасности или команды LTS о возможной регрессии в случае сообщения об ошибке в пакете, содержащем исправление безопасности">
+<correction rustc "Новый выпуск основной ветки разработки для поддержки Firefox ESR">
+<correction salt "Исправление <q>копирование вспомогательной части salt-ssh через настройки с основного источника соли без изменения прав доступа</q> [CVE-2017-8109]">
+<correction shared-mime-info "Переключение dpkg в режим noawait, исправление проблем обновления с jessie">
+<correction showq "Исправление префикса, чтобы приложение начало работать">
+<correction source-highlight "Исправление зависимости от libboost-regex-dev">
+<correction starplot "Исправление аварийной остановки при запуске">
+<correction subversion "Отклонение коммитов, которые привели бы к столкновению хэшей с уже существующими данными, для решения проблемы повреждения SHA1">
+<correction sus "Обновление до новой версии, технически совпадающей с SUSv4 + TC1 + TC2">
+<correction systemd "networkd-ndisc: обработка отсутствующего значения MTU; разрешение установки RemoveIPC= в unit-файле, а не только через D-Bus; nspawn: добавление отсутствующей опции -E для getopt_long'; login: учёт --no-wall при отмене запроса на выключение">
+<correction tclreadline "Исправление сборки разделяемой библиотеки на ppc64el">
+<correction thefuck "Добавление отсутствующей зависимости от pkg-resources">
+<correction tinyproxy "Не прекращать прослушивание после SIGHUP; исправление пути к файлу настройки; добавление отсутствующей зависимости от adduser">
+<correction tlslite-ng "Проверка MAC, даже если заполнение имеет длину 1 байт">
+<correction tzdata "Новая версия основной ветки разработки">
+<correction unison "Повторная сборка с ocaml из stretch">
+<correction variety "Исправление введения команд командной оболочки при удалении файлов в корзину; исправление введения команд командной оболочки в фильтре и часах с помощью специально сформированных имён файлов; улучшение безопасности вызовов ImageMagick с целью предотвращения потенциального введения команд командной оболочки">
+<correction xapian-core "Исправление MSet::snippet() для экранирования HTML во всех случаях [CVE-2018-499]">
+<correction xerces-c "Исправление отказа в обслуживании через ссылку на внешние сущности DTD [CVE-2017-12627]; исправление регрессии, которая приводила к обязательному использованию SSE2 в gcc даже на платформах, не поддерживающих эти инструкции">
+<correction xrdp "Исправление ошибки на единицу, приводящей к аварийным остановкам">
+</table>
+
+<h2>Обновления безопасности</h2>
+
+
+<p>В данный выпуск внесены следующие обновления безопасности. Команда
+безопасности уже выпустила рекомендации для каждого
+из этих обновлений:</p>
+
+<table border=0>
+<tr><th>Идентификационный номер рекомендации</th>  <th>Пакет</th></tr>
+<dsa 2017 4010 git-annex>
+<dsa 2017 4064 chromium-browser>
+<dsa 2018 4113 libvorbis>
+<dsa 2018 4133 isc-dhcp>
+<dsa 2018 4134 util-linux>
+<dsa 2018 4135 samba>
+<dsa 2018 4136 curl>
+<dsa 2018 4137 libvirt>
+<dsa 2018 4138 mbedtls>
+<dsa 2018 4139 firefox-esr>
+<dsa 2018 4140 libvorbis>
+<dsa 2018 4141 libvorbisidec>
+<dsa 2018 4142 uwsgi>
+<dsa 2018 4143 firefox-esr>
+<dsa 2018 4144 openjdk-8>
+<dsa 2018 4145 gitlab>
+<dsa 2018 4146 plexus-utils>
+<dsa 2018 4148 kamailio>
+<dsa 2018 4150 icu>
+<dsa 2018 4151 librelp>
+<dsa 2018 4152 mupdf>
+<dsa 2018 4153 firefox-esr>
+<dsa 2018 4155 thunderbird>
+<dsa 2018 4156 drupal7>
+<dsa 2018 4157 openssl>
+<dsa 2018 4158 openssl1.0>
+<dsa 2018 4159 remctl>
+<dsa 2018 4160 libevt>
+<dsa 2018 4161 python-django>
+<dsa 2018 4162 irssi>
+<dsa 2018 4163 beep>
+<dsa 2018 4164 apache2>
+<dsa 2018 4165 ldap-account-manager>
+<dsa 2018 4167 sharutils>
+<dsa 2018 4169 pcs>
+<dsa 2018 4170 pjproject>
+<dsa 2018 4171 ruby-loofah>
+<dsa 2018 4172 perl>
+<dsa 2018 4173 r-cran-readxl>
+<dsa 2018 4174 corosync>
+<dsa 2018 4175 freeplane>
+<dsa 2018 4177 libsdl2-image>
+<dsa 2018 4178 libreoffice>
+<dsa 2018 4180 drupal7>
+<dsa 2018 4181 roundcube>
+<dsa 2018 4183 tor>
+<dsa 2018 4184 sdl-image1.2>
+<dsa 2018 4185 openjdk-8>
+<dsa 2018 4188 linux>
+<dsa 2018 4189 quassel>
+<dsa 2018 4190 jackson-databind>
+<dsa 2018 4191 redmine>
+<dsa 2018 4192 libmad>
+<dsa 2018 4193 wordpress>
+<dsa 2018 4194 lucene-solr>
+<dsa 2018 4195 wget>
+<dsa 2018 4196 linux>
+<dsa 2018 4197 wavpack>
+<dsa 2018 4198 prosody>
+<dsa 2018 4199 firefox-esr>
+<dsa 2018 4200 kwallet-pam>
+<dsa 2018 4201 xen>
+<dsa 2018 4202 curl>
+<dsa 2018 4203 vlc>
+<dsa 2018 4203 phonon-backend-vlc>
+<dsa 2018 4203 goldencheetah>
+<dsa 2018 4206 gitlab>
+<dsa 2018 4206 ruby-omniauth-auth0>
+<dsa 2018 4207 packagekit>
+<dsa 2018 4208 procps>
+<dsa 2018 4209 thunderbird>
+<dsa 2018 4210 xen>
+<dsa 2018 4211 xdg-utils>
+<dsa 2018 4212 git>
+<dsa 2018 4213 qemu>
+<dsa 2018 4214 zookeeper>
+<dsa 2018 4215 batik>
+<dsa 2018 4216 prosody>
+<dsa 2018 4217 wireshark>
+<dsa 2018 4218 memcached>
+<dsa 2018 4219 jruby>
+<dsa 2018 4220 firefox-esr>
+<dsa 2018 4221 libvncserver>
+<dsa 2018 4222 gnupg2>
+<dsa 2018 4223 gnupg1>
+<dsa 2018 4226 perl>
+<dsa 2018 4227 plexus-archiver>
+<dsa 2018 4228 spip>
+<dsa 2018 4229 strongswan>
+<dsa 2018 4230 redis>
+<dsa 2018 4231 libgcrypt20>
+<dsa 2018 4232 xen>
+<dsa 2018 4233 bouncycastle>
+<dsa 2018 4234 lava-server>
+<dsa 2018 4235 firefox-esr>
+<dsa 2018 4236 xen>
+<dsa 2018 4238 exiv2>
+<dsa 2018 4239 gosa>
+<dsa 2018 4240 php7.0>
+<dsa 2018 4241 libsoup2.4>
+</table>
+
+
+<h2>Удалённые пакеты</h2>
+
+<p>Следующие пакеты были удалены из-за обстоятельств, на которые мы не
+можем повлиять:</p>
+
+
+<table border=0>
+<tr><th>Пакет</th>               <th>Причина</th></tr>
+<correction libnet-whois-perl "Сломан">
+<correction mlbviewer "Более не работает из-за изменений на стороне поставщика содержимого">
+<correction python-uniconvertor "Не работает; требуется зависимость, отсутствующая в архиве">
+<correction singularity-container "Не получает поддержки безопасности">
+<correction undertow "Не поддерживается; несколько проблем безопасности; существуют альтернативы">
+<correction visionegg "Не работает; требует недоступную функциональность numpy.oldnumeric">
+
+</table>
+
+<h2>Программа установки Debian</h2>
+
+Программа установки была обновлена с целью включения исправлений, добавленных в
+данную редакцию стабильного выпуска.
+
+<h2>URL</h2>
+
+<p>Полный список пакетов, которые были изменены в данной редакции:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/<downcase <codename>>/ChangeLog">
+</div>
+
+<p>Текущий стабильный выпуск:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/stable/">
+</div>
+
+<p>Предлагаемые обновления для стабильного выпуска:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/proposed-updates">
+</div>
+
+<p>Информация о стабильном выпуске (информация о выпуске, известные ошибки и т. д.):</p>
+
+<div class="center">
+  <a
+  href="$(HOME)/releases/stable/">https://www.debian.org/releases/stable/</a>
+</div>
+
+<p>Анонсы безопасности и информация:</p>
+
+<div class="center">
+  <a href="$(HOME)/security/">https://security.debian.org/</a>
+</div>
+
+<h2>О Debian</h2>
+
+<p>Проект Debian &mdash; объединение разработчиков свободного программного обеспечения,
+которые жертвуют своё время и знания для создания абсолютно свободной
+операционной системы Debian.</p>
+
+
+<h2>Контактная информация</h2>
+
+<p>Более подробную информацию вы можете получить на сайте Debian
+<a href="$(HOME)/">https://www.debian.org/</a>, либо отправив письмо по адресу
+&lt;press@debian.org&gt;, либо связавшись с командой стабильного выпуска по адресу
+&lt;debian-release@lists.debian.org&gt;.</p>
