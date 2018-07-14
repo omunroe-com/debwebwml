@@ -1,0 +1,327 @@
+<define-tag pagetitle>Updated Debian 9: 9.5 released</define-tag>
+<define-tag release_date>2018-07-14</define-tag>
+#use wml::debian::news
+# $Id:
+
+<define-tag release>9</define-tag>
+<define-tag codename>stretch</define-tag>
+<define-tag revision>9.5</define-tag>
+
+<define-tag dsa>
+    <tr><td align="center"><a href="$(HOME)/security/%0/dsa-%1">DSA-%1</a></td>
+        <td align="center"><:
+    my @p = ();
+    for my $p (split (/,\s*/, "%2")) {
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
+    }
+    print join (", ", @p);
+:></td></tr>
+</define-tag>
+
+<define-tag correction>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+</define-tag>
+
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
+
+<p>The Debian project is pleased to announce the fifth update of its
+stable distribution Debian <release> (codename <q><codename></q>). 
+This point release mainly adds corrections for security issues,
+along with a few adjustments for serious problems.  Security advisories
+have already been published separately and are referenced where available.</p>
+
+<p>Please note that the point release does not constitute a new version of Debian
+<release> but only updates some of the packages included.  There is
+no need to throw away old <q><codename></q> media. After installation,
+packages can be upgraded to the current versions using an up-to-date Debian
+mirror.</p>
+
+<p>Those who frequently install updates from security.debian.org won't have
+to update many packages, and most such updates are
+included in the point release.</p>
+
+<p>New installation images will be available soon at the regular locations.</p>
+
+<p>Upgrading an existing installation to this revision can be achieved by
+pointing the package management system at one of Debian's many HTTP mirrors.
+A comprehensive list of mirrors is available at:</p>
+
+<div class="center">
+  <a href="$(HOME)/mirror/list">https://www.debian.org/mirror/list</a>
+</div>
+
+<h2>Miscellaneous Bugfixes</h2>
+
+<p>This stable update adds a few important corrections to the following packages:</p>
+
+<table border=0>
+<tr><th>Package</th>               <th>Reason</th></tr>
+<correction 2ping "Add missing dependency on python-pkg-resources">
+<correction abiword "Resolve binary file conflict between abiword-dbgsym and abiword-plugin-grammar-dbgsym">
+<correction adminer "Don't allow connections to privileged ports [CVE-2018-7667]">
+<correction animals "Fix incorrect file permissions that made the game unusable">
+<correction apache2 "Upgrade mod_http and mod_proxy_http2 to the versions from 2.4.33, fixing segfaults, high memory usage and potential crash [CVE-2018-1302]; make the apache-htcacheclean init script actually use /etc/default/apache-htcacheclean for its config">
+<correction auto-complete-el "Add upstream fix for emacs25; adjust the emacs dependencies to the emacs versions in stretch; set auto-complete-el.emacsen-compat to silence installation warning">
+<correction awffull "Do not use removed options in /etc/cron.daily/awffull">
+<correction ax25-tools "Avoid segmentation fault at runtime">
+<correction base-files "Update for the point release">
+<correction blktrace "Fix buffer overflow in btt [CVE-2018-10689]">
+<correction ca-certificates "Update Mozilla CA bundle to version 2.22; bug fixes">
+<correction camo "Add missing dependency on openssl">
+<correction cffi "Add missing files for cffi-libffi and cffi-toolchain; add several missing dependencies">
+<correction check-postgres "Update testsuite to handle pg_get_indexdef() now always including the schema name">
+<correction clamav "New upstream version; don't fail on recently removed config options">
+<correction clustershell "Add missing dependency on python-pkg-resources">
+<correction debian-installer "Update for -7 kernel ABI">
+<correction debian-installer-netboot-images "Rebuild for the point release">
+<correction debian-security-support "Update included data">
+<correction dehydrated "Fix failure to create fullchain.pem">
+<correction devscripts "uscan: fix the new package version regex for filenamemangle; debsign: fix bash completion; bts: support the new <q>ftbfs</q> tag; uscan: support HTTPS in the sf.net redirector; debcheckout: support salsa.debian.org; debdiff: sort shlibs files before comparing, reducing diff noise; uscan: actually support --copy">
+<correction disc-cover "Fix perl error when running disc-cover">
+<correction discover "Use correct type for the length parameter of the getline() call">
+<correction django-xmlrpc "Fix python3 dependencies">
+<correction dosbox "Fix crashes with core=dynamic">
+<correction dpdk "New upstream stable update">
+<correction dpkg "Fix integer overflow in deb(5) format version parser; fix directory traversal with dpkg-deb --raw-extract; add support for riscv64 CPU; do not normalize args past a passthrough stop word in Dpkg::Getopt; parse start-stop-daemon usernames and groupnames starting with digits correctly; always use the binary version for the .buildinfo filename">
+<correction dput-ng "Add jessie-backports-sloppy and stretch-backports targets; include 'testing' in the rm-managed suites and 'oldstable' in <q>protected distributions</q>; add ports-master profile; FTP: parse and use optional [:port] part for fqdn">
+<correction elastix "Rebuild with ITK that has been built with gcc 6">
+<correction email2trac "Fix detection of Trac 1.2">
+<correction faad2 "Fix several DoS issues via crafted MP4 files [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
+<correction faker "Add missing dependency on python-ipaddress">
+<correction fastkml "Add missing dependency on pkg-resources">
+<correction file "Avoid reading past the end of buffer [CVE-2018-10360]">
+<correction freedink-dfarc "Fix directory traversal in D-Mod extractor [CVE-2018-0496]">
+<correction ganeti "Properly verify SSL certificates during VM export">
+<correction ghostscript "Fix segfault with fuzzing file in gxht_thresh_image_init(); fix buffer overflow in fill_threshold_buffer [CVE-2016-10317]; pdfwrite - Guard against trying to output an infinite number [CVE-2018-10194]">
+<correction git-annex "Security fixes [CVE-2018-10857 CVE-2018-10859]">
+<correction glx-alternatives "New upstream version">
+<correction gridengine "Use correct paths to qmon pixmaps; fix FTBFS on armhf">
+<correction intel-microcode "Update included microcode, including fixes for Spectre v2 [CVE-2017-5715]">
+<correction jdresolve "Fix incompatibility with libnet-dns-perl in Debian 8 and later">
+<correction libb64 "Rebuild with PIE">
+<correction libdate-holidays-de-perl "Mark Reformation Day as a holiday in Niedersachsen and Bremen">
+<correction libdatetime-timezone-perl "Update included data">
+<correction libextractor "Various security fixes [CVE-2017-15266 CVE-2017-15267 CVE-2017-15600 CVE-2017-15601 CVE-2017-15602 CVE-2017-15922 CVE-2017-17440]">
+<correction libipc-run-perl "Fix memory leak">
+<correction liblouis "Fix buffer overflow [CVE-2018-11410]; fix several buffer overflows [CVE-2018-11440 CVE-2018-11577 CVE-2018-11683 CVE-2018-11684 CVE-2018-11685 2018-12085]">
+<correction libosmium "Output coordinate with value of -2^31 correctly; fix buffers larger than 2^32 bytes">
+<correction linux "New upstream stable release 4.9.110">
+<correction linux-latest "Update to -7 kernel ABI">
+<correction llvm-toolchain-4.0 "New package for rust backports; fix build on s390x">
+<correction local-apt-repository "Stop breaking apt when the package is removed but not purged">
+<correction loook "Fix handling of password protected files">
+<correction miniupnpd "Fix DoS [CVE-2017-1000494]">
+<correction nss-pam-ldapd "Increase size of hostname buffer">
+<correction nvidia-graphics-drivers "New upstream version">
+<correction obfsproxy "Don't install the broken AppArmor profile">
+<correction openldap "Fix an out-of-sync issue with delta-syncrepl replication in multi-master environments; really fix upgrades when the config contains backslash-escaped special characters">
+<correction openstack-debian-images "Set CloudStack after OpenStack in the datasource_list, to avoid a 120s delay in cloud-init when booting a machine in an OpenStack cloud">
+<correction patch "Fix arbitrary command execution in ed-style patches [CVE-2018-1000156]">
+<correction piglit "Fix missing dependency on python-mako">
+<correction postgresql-9.6 "New upstream release">
+<correction postgresql-common "Prevent upgrading/removing server packages from stopping other major version clusters when running systemd">
+<correction psad "Add missing dependencies on net-tools and iproute2">
+<correction pysurfer "Add missing dependency on python-matplotlib">
+<correction python-cluster "Add missing dependency on pkg-resources">
+<correction python-pyorick "Fix import failure by adding missing dependency on python3-numpy">
+<correction python-scruffy "Add missing dependencies on pkg-resources">
+<correction r-cran-mi "Add missing dependency on r-cran-arm">
+<correction redis "Correct RunTimeDirectory -&gt; RuntimeDirectory typo in systemd .service files">
+<correction reportbug "Notify the security team or LTS team about a possible regression if reporting a bug against a package containing a security fix">
+<correction rustc "New upstream release to support Firefox ESR">
+<correction salt "Fix <q>salt-ssh minion copied over configuration from the Salt Master without adjusting permissions</q> [CVE-2017-8109]">
+<correction shared-mime-info "Switch dpkg trigger to noawait, fixing upgrade issues from jessie">
+<correction showq "Fix prefix, so application actually works">
+<correction source-highlight "Fix dependency on libboost-regex-dev">
+<correction starplot "Fix startup crash">
+<correction subversion "Reject commits which would introduce hash collisions with existing data, thus addressing the SHA1/shattered issue">
+<correction sus "Update to new version, technically identical to SUSv4 + TC1 + TC2">
+<correction systemd "networkd-ndisc: Handle missing MTU gracefully; allow RemoveIPC= to be set in the unit file not only via D-Bus; nspawn: Add missing -E to getopt_long'; login: Respect --no-wall when cancelling a shutdown request">
+<correction tclreadline "Fix shared library build on ppc64el">
+<correction thefuck "Add missing dependency on pkg-resources">
+<correction tinyproxy "Do not stop listening after SIGHUP; fix configuration file path; add missing dependency on adduser">
+<correction tlslite-ng "Verify MAC even if the padding is 1 byte long">
+<correction tzdata "New upstream release">
+<correction unison "Rebuild with stretch's ocaml">
+<correction variety "Fix shell injection on deleting files to trash; fix shell injection in filter and clock with specially crafted filenames; harden ImageMagick calls against potential shell injection">
+<correction xapian-core "Fix MSet::snippet() to escape HTML in all cases [CVE-2018-499]">
+<correction xerces-c "Fix Denial of Service via external DTD reference [CVE-2017-12627]; fix a regression that forced gcc to use SSE2, even on platforms that do not support it">
+<correction xrdp "Fix off-by-one error which could lead to crashes">
+</table>
+
+<h2>Security Updates</h2>
+
+
+<p>This revision adds the following security updates to the stable release.
+The Security Team has already released an advisory for each of these
+updates:</p>
+
+<table border=0>
+<tr><th>Advisory ID</th>  <th>Package</th></tr>
+<dsa 2017 4010 git-annex>
+<dsa 2017 4064 chromium-browser>
+<dsa 2018 4113 libvorbis>
+<dsa 2018 4133 isc-dhcp>
+<dsa 2018 4134 util-linux>
+<dsa 2018 4135 samba>
+<dsa 2018 4136 curl>
+<dsa 2018 4137 libvirt>
+<dsa 2018 4138 mbedtls>
+<dsa 2018 4139 firefox-esr>
+<dsa 2018 4140 libvorbis>
+<dsa 2018 4141 libvorbisidec>
+<dsa 2018 4142 uwsgi>
+<dsa 2018 4143 firefox-esr>
+<dsa 2018 4144 openjdk-8>
+<dsa 2018 4145 gitlab>
+<dsa 2018 4146 plexus-utils>
+<dsa 2018 4148 kamailio>
+<dsa 2018 4150 icu>
+<dsa 2018 4151 librelp>
+<dsa 2018 4152 mupdf>
+<dsa 2018 4153 firefox-esr>
+<dsa 2018 4155 thunderbird>
+<dsa 2018 4156 drupal7>
+<dsa 2018 4157 openssl>
+<dsa 2018 4158 openssl1.0>
+<dsa 2018 4159 remctl>
+<dsa 2018 4160 libevt>
+<dsa 2018 4161 python-django>
+<dsa 2018 4162 irssi>
+<dsa 2018 4163 beep>
+<dsa 2018 4164 apache2>
+<dsa 2018 4165 ldap-account-manager>
+<dsa 2018 4167 sharutils>
+<dsa 2018 4169 pcs>
+<dsa 2018 4170 pjproject>
+<dsa 2018 4171 ruby-loofah>
+<dsa 2018 4172 perl>
+<dsa 2018 4173 r-cran-readxl>
+<dsa 2018 4174 corosync>
+<dsa 2018 4175 freeplane>
+<dsa 2018 4177 libsdl2-image>
+<dsa 2018 4178 libreoffice>
+<dsa 2018 4180 drupal7>
+<dsa 2018 4181 roundcube>
+<dsa 2018 4183 tor>
+<dsa 2018 4184 sdl-image1.2>
+<dsa 2018 4185 openjdk-8>
+<dsa 2018 4188 linux>
+<dsa 2018 4189 quassel>
+<dsa 2018 4190 jackson-databind>
+<dsa 2018 4191 redmine>
+<dsa 2018 4192 libmad>
+<dsa 2018 4193 wordpress>
+<dsa 2018 4194 lucene-solr>
+<dsa 2018 4195 wget>
+<dsa 2018 4196 linux>
+<dsa 2018 4197 wavpack>
+<dsa 2018 4198 prosody>
+<dsa 2018 4199 firefox-esr>
+<dsa 2018 4200 kwallet-pam>
+<dsa 2018 4201 xen>
+<dsa 2018 4202 curl>
+<dsa 2018 4203 vlc>
+<dsa 2018 4203 phonon-backend-vlc>
+<dsa 2018 4203 goldencheetah>
+<dsa 2018 4206 gitlab>
+<dsa 2018 4206 ruby-omniauth-auth0>
+<dsa 2018 4207 packagekit>
+<dsa 2018 4208 procps>
+<dsa 2018 4209 thunderbird>
+<dsa 2018 4210 xen>
+<dsa 2018 4211 xdg-utils>
+<dsa 2018 4212 git>
+<dsa 2018 4213 qemu>
+<dsa 2018 4214 zookeeper>
+<dsa 2018 4215 batik>
+<dsa 2018 4216 prosody>
+<dsa 2018 4217 wireshark>
+<dsa 2018 4218 memcached>
+<dsa 2018 4219 jruby>
+<dsa 2018 4220 firefox-esr>
+<dsa 2018 4221 libvncserver>
+<dsa 2018 4222 gnupg2>
+<dsa 2018 4223 gnupg1>
+<dsa 2018 4226 perl>
+<dsa 2018 4227 plexus-archiver>
+<dsa 2018 4228 spip>
+<dsa 2018 4229 strongswan>
+<dsa 2018 4230 redis>
+<dsa 2018 4231 libgcrypt20>
+<dsa 2018 4232 xen>
+<dsa 2018 4233 bouncycastle>
+<dsa 2018 4234 lava-server>
+<dsa 2018 4235 firefox-esr>
+<dsa 2018 4236 xen>
+<dsa 2018 4238 exiv2>
+<dsa 2018 4239 gosa>
+<dsa 2018 4240 php7.0>
+<dsa 2018 4241 libsoup2.4>
+</table>
+
+
+<h2>Removed packages</h2>
+
+<p>The following packages were removed due to circumstances beyond our control:</p>
+
+<table border=0>
+<tr><th>Package</th>               <th>Reason</th></tr>
+<correction libnet-whois-perl "Broken">
+<correction mlbviewer "No longer works due to content provider changes">
+<correction python-uniconvertor "Unusable; requires unpackaged dependency">
+<correction singularity-container "Not security supportable">
+<correction undertow "Unsupportable; several security issues; alternatives exist">
+<correction visionegg "Unusable; requires no longer available numpy.oldnumeric">
+
+</table>
+
+<h2>Debian Installer</h2>
+<p>The installer has been updated to include the fixes incorporated
+into stable by the point release.</p>
+
+<h2>URLs</h2>
+
+<p>The complete lists of packages that have changed with this revision:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/<downcase <codename>>/ChangeLog">
+</div>
+
+<p>The current stable distribution:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/stable/">
+</div>
+
+<p>Proposed updates to the stable distribution:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/proposed-updates">
+</div>
+
+<p>stable distribution information (release notes, errata etc.):</p>
+
+<div class="center">
+  <a
+  href="$(HOME)/releases/stable/">https://www.debian.org/releases/stable/</a>
+</div>
+
+<p>Security announcements and information:</p>
+
+<div class="center">
+  <a href="$(HOME)/security/">https://security.debian.org/</a>
+</div>
+
+<h2>About Debian</h2>
+
+<p>The Debian Project is an association of Free Software developers who
+volunteer their time and effort in order to produce the completely
+free operating system Debian.</p>
+
+<h2>Contact Information</h2>
+
+<p>For further information, please visit the Debian web pages at
+<a href="$(HOME)/">https://www.debian.org/</a>, send mail to
+&lt;press@debian.org&gt;, or contact the stable release team at
+&lt;debian-release@lists.debian.org&gt;.</p>
