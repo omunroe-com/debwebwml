@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2018-07-12 01:07+0200\n"
+"PO-Revision-Date: 2018-07-15 02:11+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -63,8 +63,6 @@ msgid "Unavailable"
 msgstr "No està disponible"
 
 #: ../../english/devel/join/nm-steps.inc:7
-#, fuzzy
-#| msgid "New Maintainers' Corner"
 msgid "New Members Corner"
 msgstr "Racó dels nous membres"
 

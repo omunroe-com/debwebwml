@@ -1,12 +1,12 @@
 # templates webwml Catalan template.
 # Copyright (C) 2002, 2003, 2004, 2005 Free Software Foundation, Inc.
 # Jordi Mallach <jordi@debian.org>, 2002, 2003.
-# Guillem Jover <guillem@debian.org>, 2004, 2005, 2006, 2007, 2009, 2011.
+# Guillem Jover <guillem@debian.org>, 2004-2007, 2009, 2011, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2011-02-05 06:36+0100\n"
+"PO-Revision-Date: 2018-07-15 02:40+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -16,13 +16,11 @@ msgstr ""
 
 #: ../../english/News/news.rdf.in:16
 msgid "Debian News"
-msgstr ""
+msgstr "Notícies de Debian"
 
 #: ../../english/News/news.rdf.in:19
-#, fuzzy
-#| msgid "Latest News"
 msgid "Debian Latest News"
-msgstr "Darreres notícies"
+msgstr "Darreres notícies de Debian"
 
 #: ../../english/News/press/press.tags:11
 msgid "p<get-var page />"
@@ -340,17 +338,12 @@ msgid ""
 msgstr ""
 
 #: ../../english/template/debian/projectnews/footer.wml:6
-#, fuzzy
-#| msgid ""
-#| "To receive this newsletter weekly in your mailbox, <a href=\"https://"
-#| "lists.debian.org/debian-news/\">subscribe to the debian-news mailing "
-#| "list</a>."
 msgid ""
 "To receive this newsletter in your mailbox, <a href=\"https://lists.debian."
 "org/debian-news/\">subscribe to the debian-news mailing list</a>."
 msgstr ""
-"Per a rebre aquest butlletí setmanal en la vostra bústia, <a href=\"m4_HOME/"
-"MailingLists/subscribe#debian-news\">subscriviu-vos a la llista de correu "
+"Per a rebre aquest butlletí en la vostra bústia, <a href=\"https://lists.debian."
+"org/debian-news/\">subscriviu-vos a la llista de correu "
 "debian-news.</a>"
 
 #: ../../english/template/debian/projectnews/footer.wml:10

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: webwml\n"
-"PO-Revision-Date: 2018-07-12 00:57+0200\n"
+"PO-Revision-Date: 2018-07-15 02:37+0200\n"
 "Last-Translator: Guillem Jover <guillem@debian.org>\n"
 "Language-Team: Catalan <debian-l10n-catalan@lists.debian.org>\n"
 "Language: ca\n"
@@ -16,21 +16,21 @@ msgstr ""
 
 #: ../../english/intro/organization.data:15
 msgid "delegation mail"
-msgstr ""
+msgstr "correu de delegació"
 
 #: ../../english/intro/organization.data:16
 msgid "appointment mail"
-msgstr ""
+msgstr "correu de nomenament"
 
 #. One male delegate
 #: ../../english/intro/organization.data:18
 msgid "<void id=\"male\"/>delegate"
-msgstr ""
+msgstr "<void id=\"male\"/>delegat"
 
 #. One female delegate
 #: ../../english/intro/organization.data:20
 msgid "<void id=\"female\"/>delegate"
-msgstr ""
+msgstr "<void id=\"female\"/>delegada"
 
 #: ../../english/intro/organization.data:23
 #: ../../english/intro/organization.data:25
@@ -83,12 +83,12 @@ msgstr "Distribució"
 #: ../../english/intro/organization.data:55
 #: ../../english/intro/organization.data:232
 msgid "Communication and Outreach"
-msgstr ""
+msgstr "Comunicació i divulgació"
 
 #: ../../english/intro/organization.data:57
 #: ../../english/intro/organization.data:235
 msgid "Data Protection team"
-msgstr ""
+msgstr "Equip de protecció de dades"
 
 #: ../../english/intro/organization.data:58
 #: ../../english/intro/organization.data:239
@@ -135,7 +135,7 @@ msgstr "Assistents de FTP"
 
 #: ../../english/intro/organization.data:107
 msgid "FTP Wizards"
-msgstr ""
+msgstr "Mags de FTP"
 
 #: ../../english/intro/organization.data:111
 msgid "Backports"
@@ -203,7 +203,7 @@ msgstr "Llista de paquets en perspectiva o en falta de feina"
 
 #: ../../english/intro/organization.data:186
 msgid "Debian Live Team"
-msgstr ""
+msgstr "Equip del sistema autònom de Debian"
 
 #: ../../english/intro/organization.data:187
 msgid "Ports"
@@ -239,7 +239,7 @@ msgstr "Planeta Debian"
 
 #: ../../english/intro/organization.data:259
 msgid "Outreach"
-msgstr ""
+msgstr "Divulgació"
 
 #: ../../english/intro/organization.data:263
 msgid "Debian Women Project"
@@ -247,7 +247,7 @@ msgstr "Projecte Debian dona"
 
 #: ../../english/intro/organization.data:271
 msgid "Anti-harassment"
-msgstr ""
+msgstr "Anti-assetjament"
 
 #: ../../english/intro/organization.data:275
 msgid "Events"
@@ -278,10 +278,8 @@ msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Administració i arxius de les llistes de correu"
 
 #: ../../english/intro/organization.data:386
-#, fuzzy
-#| msgid "New Maintainers Front Desk"
 msgid "New Members Front Desk"
-msgstr "Recepció de nous mantenidors"
+msgstr "Recepció de nous membres"
 
 #: ../../english/intro/organization.data:392
 msgid "Debian Account Managers"
@@ -292,6 +290,8 @@ msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
 msgstr ""
+"Per enviar un missatge privat al grup de DAMs, empreu la clau GPG "
+"57731224A9762EA155AB2A530CA8D15BB24D96F2."
 
 #: ../../english/intro/organization.data:397
 msgid "Keyring Maintainers (PGP and GPG)"
@@ -354,18 +354,17 @@ msgstr "Sistema de seguiment de paquets"
 
 #: ../../english/intro/organization.data:447
 msgid "Treasurer"
-msgstr ""
+msgstr "Tresorers"
 
 #: ../../english/intro/organization.data:453
 msgid ""
 "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr ""
+"Peticions d'us de la <a name=\"trademark\" href=\"m4_HOME/trademark\">marca comercial</a>"
 
 #: ../../english/intro/organization.data:456
-#, fuzzy
-#| msgid "Alioth administrators"
 msgid "Salsa administrators"
-msgstr "Administració d'Alioth"
+msgstr "Administració de Salsa"
 
 #: ../../english/intro/organization.data:460
 msgid "Alioth administrators"
@@ -392,16 +391,12 @@ msgid "Debian for people with disabilities"
 msgstr "Debian per a gent amb discapacitats"
 
 #: ../../english/intro/organization.data:492
-#, fuzzy
-#| msgid "Debian for medical practice and research"
 msgid "Debian for science and related research"
-msgstr "Debian per a la pràctica i recerca medica"
+msgstr "Debian per a la ciència i recerca relacionada"
 
 #: ../../english/intro/organization.data:495
-#, fuzzy
-#| msgid "Debian for education"
 msgid "Debian for astronomy"
-msgstr "Debian per a l'educació"
+msgstr "Debian per a l'astronomia"
 
 #~ msgid "Testing Security Team"
 #~ msgstr "Equip de seguretat de Proves"
