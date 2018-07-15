@@ -1,0 +1,20 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Toshitsugu Yoneyama of Mitsui Bussan Secure Directions, Inc. discovered
+that mailman, a web-based mailing list manager, is prone to a cross-site
+scripting flaw allowing a malicious listowner to inject scripts into the
+listinfo page, due to not validated input in the host_name field.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 1:2.1.23-1+deb9u3.</p>
+
+<p>We recommend that you upgrade your mailman packages.</p>
+
+<p>For the detailed security status of mailman please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/mailman">https://security-tracker.debian.org/tracker/mailman</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4246.data"
+# $Id: $
