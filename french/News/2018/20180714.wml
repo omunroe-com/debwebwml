@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="6e1096d320b738a7498cf748c40b193844001808" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="0cbed7020912a0a074c52b71918e0a9700ee9a0b" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de la mise à jour de Debian 9.5</define-tag>
 <define-tag release_date>2018-07-14</define-tag>
 #use wml::debian::news
@@ -104,7 +104,7 @@ importantes aux paquets suivants :</p>
 <correction fastkml "Ajout de dépendance manquante à pkg-resources">
 <correction file "Lecture au-delà de la fin d'un tampon évitée [CVE-2018-10360]">
 <correction freedink-dfarc "Correction d'une traversée de répertoire dans l'extracteur D-Mod [CVE-2018-0496]">
-<correction ganeti "Vérification correct des certificats SSL lors de l'export de VM">
+<correction ganeti "Vérification correcte des certificats SSL lors de l'export de VM">
 <correction ghostscript "Correction d'erreur de segmentation avec un fichier à données aléatoires dans gxht_thresh_image_init ; correction de dépassement de tampon dans fill_threshold_buffer [CVE-2016-10317] ; pdfwrite – protection contre les tentatives de sortie d'un nombre infini [CVE-2018-10194]">
 <correction git-annex "Corrections de sécurité [CVE-2018-10857 CVE-2018-10859]">
 <correction glx-alternatives "Nouvelle version amont">
