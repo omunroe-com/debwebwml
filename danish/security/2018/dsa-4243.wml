@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="07b675fd002929e3c7b095ccf3c2d7ee18953a49" mindelta="1"
+#use wml::debian::translation-check translation="2a51d7df00b2a3ce821da43704c57a93a05fda39" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo>
 <p>Flere sårbarheder blev opdaget i CUPS, Common UNIX Printing System.  
@@ -23,19 +23,6 @@ Problemerne er registreret med følgende CVE-id'er:</p>
     <p>Eric Rafaloff og John Dunlap fra Gotham Digital Science opdagede at en 
     lokal angriber kunne iværksætte begrænsede læsninger af vilkårlige filer 
     som root, ved at manipulere med cupsd.conf.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
-
-    <p>Dan Bastone fra Gotham Digital Science opdagede at en angriber med 
-    sandkasse-rodadgang, kunne udføre backends uden en sandkasseprofil, ved at 
-    fremprovokere en fejl i CUPS' profiloprettelse.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
-
-    <p>Dan Bastone og Eric Rafaloff fra Gotham Digital Science opdagede at en 
-    angriber med sandkasse-rodadgang, kunne udføre vilkårlige kommandoer som 
-    root uden sandkasse, ved at ændre 
-    <code>/etc/cups/cups-files.conf</code>.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
 
