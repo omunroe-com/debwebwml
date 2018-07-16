@@ -125,8 +125,6 @@ opdateringer:</p>
 
 <table border=0>
 <tr><th>Bulletin-id</th>  <th>Pakke(r)</th></tr>
-
-<h2>Security Updates</h2>
 <dsa 2016 3707 openjdk-7>
 <dsa 2016 3708 mat>
 <dsa 2016 3746 graphicsmagick>
