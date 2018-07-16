@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 9 &mdash; Известные ошибки" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="7f910d78f53ef9502f748a4f6e7e16f68f71c2ed" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="88298a195ad0f1a69e0089b0acfdcc9dd73cd9af" maintainer="Lev Lamberov"
 
 #include "$(ENGLISHDIR)/releases/info"
 
@@ -41,6 +41,8 @@
       <a href="$(HOME)/News/2017/2017120902">9 декабря 2017 года</a>.</li>
   <li>Четвёртая редакция, 9.4, была выпущена
       <a href="$(HOME)/News/2018/20180310">10 марта 2018 года</a>.</li>
+  <li>Пятая редакция, 9.5, была выпущена
+      <a href="$(HOME)/News/2018/20180714">14 июля 2018 года</a>.</li>
 </ul>
 
 <ifeq <current_release_stretch> 9.0 "
