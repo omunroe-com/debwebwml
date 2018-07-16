@@ -1,15 +1,15 @@
-#use wml::debian::template title="Mercaderia de Debian" GEN_TIME="yes" BARETITLE=true
+#use wml::debian::template title="Marxandatge de Debian" GEN_TIME="yes" BARETITLE=true
 #use wml::debian::translation-check translation="64198c8649eacbf3785e855576efca79ae144494"
 
 <P>
-Degut a que la popularitat de Debian a anat en augment, em rebut
-moltes peticions per a poder comerciar amb Debian. Donat que som
-una organització sense lucre, no fabriquem ni venem res per
-nosaltres mateixos. Afortunadament, hi ha un cert nombre de
-companyies que han vist un mercat amb potencial i estan mirant de
-cobrir-lo. La següent informació es mostra com a agraïment als
-nostres lleials usuaris. L'ordre de les entrades és purament alfabètic
-i no implica cap preferència o suport a proveïdors específics.
+Arran de la popularitat que ha anat adquirint Debian, hem rebut
+moltes peticions de marxandatge de Debian. Com que som
+una organització sense ànim de lucre, nosaltres no fabriquem ni
+venem res. Afortunadament algunes empreses han vist un potencial
+mercat i estan intentant cobrir-lo. La informació següent es
+mostra com a agraïment als nostres lleials usuaris. L'ordre és
+purament alfabètic i no implica cap preferència o suport a un
+proveïdor en concret.
 
 <BR>
 
@@ -17,19 +17,19 @@ i no implica cap preferència o suport a proveïdors específics.
 
 <BR>
 
-<p>Si veneu mercaderia amb temàtica de Debian i voleu estar
-llistat en aquesta pàgina, escriviu <strong>en anglès</strong> a
+<p>Si veneu marxandatge amb temàtica de Debian i voleu formar
+part d'aquesta pàgina, escriviu <strong>en anglès</strong> a
 &lt;<a href="mailto:merchandise@debian.org">merchandise@debian.org</a>&gt;.
 <br>
-Si us plau envieu-nos la següent informació:
+Envieu-nos la següent informació:
 <ul>
   <li>el nom de la companyia,
   <li>la URL de la vostra pàgina principal,
-  <li>la URL de a on es pot trobar la mercaderia Debian, i
-  <li>la llista de la mercaderia de Debian que vendreu.
+  <li>la URL on es pot trobar el marxandatge de Debian, i
+  <li>la llista de marxandatge de Debian que veneu.
 </ul>
-Sols ens interessa anunciar articles relacionats amb Debian.
+Només ens interessa anunciar articles relacionats amb Debian.
 
-<p>Donat que ens agradaria protegir la nostra reputació, ens prenem
-el servei al client molt seriosament. Si rebem qualsevol queixa del
-vostre servei, sereu esborrat d'aquesta pàgina.
+<p>Com que ens agrada protegir la nostra reputació, ens prenem
+l'atenció al client seriosament. Si rebem qualsevol queixa del
+vostre servei, us esborrarem d'aquesta pàgina.
