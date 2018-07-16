@@ -95,7 +95,7 @@ importantes aux paquets suivants :</p>
 <correction django-xmlrpc "Correction de dépendances à python3">
 <correction dosbox "Correction de plantages avec core=dynamic">
 <correction dpdk "Nouvelle mise à jour amont stable">
-<correction dpkg "Correction d'un dépassement d'entier dans l'analyseur de version de format deb(5) ; correction d'une traversée de répertoire avec dpkg-deb --raw-extract ; ajout de la prise en charge du processeur riscv64 ; pas de normalisation des arguments après le passage d'un mot « stop » dans Dpkg::Getopt ; analyse correcte des noms et des groupes d'utilisateurs start-stop-daemon commençant par des chiffres ; utilisation toujours de la version binaire pour le nom de fichier .buildinfo">
+<correction dpkg "Correction d'un dépassement d'entier dans l'analyseur de version de format deb(5) ; correction d'une traversée de répertoire avec dpkg-deb --raw-extract ; ajout de la prise en charge du processeur riscv64 ; pas de normalisation des arguments après le passage d'un mot « stop » dans Dpkg::Getopt ; analyse correcte des noms et des groupes d'utilisateurs start-stop-daemon commençant par des chiffres ; utilisation systématique de la version binaire pour le nom de fichier .buildinfo">
 <correction dput-ng "Ajout des cibles jessie-backports-sloppy et stretch-backports ; inclusion de « testing » dans les suites gérées par rm et de « oldstable » dans les <q>protected distributions</q> ; ajout du profil ports-master ; FTP : analyse et utilisation de la partie optionnelle [:port] pour le nom de domaine complètement qualifié">
 <correction elastix "Reconstruction avec ITK qui a été construit avec gcc 6">
 <correction email2trac "Correction de la détection de Trac 1.2">
@@ -119,7 +119,7 @@ importantes aux paquets suivants :</p>
 <correction liblouis "Correction d'un dépassement de tampon [CVE-2018-11410] ; correction de plusieurs dépassements de tampon [CVE-2018-11440 CVE-2018-11577 CVE-2018-11683 CVE-2018-11684 CVE-2018-11685 2018-12085]">
 <correction libosmium "Sortie correcte de coordonnées avec une valeur de -2^31 ; correction des tampons plus grands que 2^32 octets">
 <correction linux "Nouvelle version amont stable 4.9.110">
-<correction linux-latest "Mise à jour vers l'ABI du noyau -7">
+<correction linux-latest "Mise à jour vers l'ABI version 7 du noyau">
 <correction llvm-toolchain-4.0 "Nouveau paquet pour les rétroportages de rust ; correction de la construction sur s390x">
 <correction local-apt-repository "Plus de casse d'apt quand le paquet est retiré mais pas purgé">
 <correction loook "Correction de la gestion des fichiers protégés par mot de passe">
