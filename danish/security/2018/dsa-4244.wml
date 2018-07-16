@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="a71ba0806ba69261598af596aac0f19689207f03" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Adskillige sikkerhedsproblemer er fundet i Thunderbird, hvilke kunne føre til 
+udførelse af vilkårlig kode, lammelsesangreb eller angreb mod krypterede 
+mails.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 1:52.9.1-1~deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine thunderbird-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende thunderbird, 
+se dens sikkerhedssporingsside på: 
+<a href="https://security-tracker.debian.org/tracker/thunderbird">\
+https://security-tracker.debian.org/tracker/thunderbird</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4244.data"

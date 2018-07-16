@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="c4a5c3a857da924c38d9bf6f83c0541c2b67048c" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Toshitsugu Yoneyama fra Mitsui Bussan Secure Directions, Inc., opdagede at 
+mailman, et webbaseret program til håndtering af postlister, var ramt af en fejl 
+i forbindelse med udførelse af skripter tværs af websteder, hvilket gjorde det 
+muligt for en ondsindet listeejer, at indsprøjte skript på listinfosiden, på 
+grund af ikke-validerede inddata i feltet host_name.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 1:2.1.23-1+deb9u3.</p>
+
+<p>Vi anbefaler at du opgraderer dine mailman-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende mailman, 
+se dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/mailman">\
+https://security-tracker.debian.org/tracker/mailman</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4246.data"

@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="98179eaf28cbf1118b404355ec9fa0d9bfff1f7e" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Denne opdatering retter flere sårbarheder i Imagemagick, en programsamling 
+med grafisk software.  Forskellige hukommelseshåndteringsproblemer eller 
+ufuldstændig fornuftighedskontrol af inddata, kunne medføre lammelsesangreb 
+eller udførelse af vilkårlig kode.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 8:6.9.7.4+dfsg-11+deb9u5.</p>
+
+<p>Vi anbefaler at du opgraderer dine imagemagick-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende imagemagick, 
+se dens sikkerhedssporingsside på: 
+<a href="https://security-tracker.debian.org/tracker/imagemagick">\
+https://security-tracker.debian.org/tracker/imagemagick</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4245.data"
