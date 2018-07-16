@@ -1,5 +1,5 @@
 #use wml::debian::translation-check translation="07b675fd002929e3c7b095ccf3c2d7ee18953a49" maintainer="Sebul"
-<define-tag description>security update</define-tag>
+<define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
 <p>여러 취약점을 CUPS에서 발견했습니다.
 이러한 이슈는 다음 CVE ID로 식별되었습니다:</p>
