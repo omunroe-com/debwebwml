@@ -1,0 +1,336 @@
+#use wml::debian::translation-check translation="0cbed7020912a0a074c52b71918e0a9700ee9a0b"
+<define-tag pagetitle>Opdateret Debian 9: 9.5 udgivet</define-tag>
+<define-tag release_date>2018-07-14</define-tag>
+#use wml::debian::news
+
+<define-tag release>9</define-tag>
+<define-tag codename>stretch</define-tag>
+<define-tag revision>9.5</define-tag>
+
+<define-tag dsa>
+    <tr><td align="center"><a href="$(HOME)/security/%0/dsa-%1">DSA-%1</a></td>
+        <td align="center"><:
+    my @p = ();
+    for my $p (split (/,\s*/, "%2")) {
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
+    }
+    print join (", ", @p);
+:></td></tr>
+</define-tag>
+
+<define-tag correction>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+</define-tag>
+
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
+
+<p>Debian-projektet er stolt over at kunne annoncere den femte opdatering af 
+dets stabile distribution, Debian <release> (kodenavn <q><codename></q>).
+Denne opdatering indeholder primært rettelser af sikkerhedsproblemer i den 
+stabile udgave, sammen med nogle få rettelser af alvorlige problemer.  
+Sikkerhedsbulletiner er allerede udgivet separat og der vil blive refereret til 
+dem, hvor de er tilgængelige.</p>
+
+<p>Bemærk at denne opdatering ikke er en ny udgave af Debian GNU/Linux
+<release>, den indeholder blot opdateringer af nogle af de medfølgende pakker.  
+Der er ingen grund til at smide gamle <q><codename></q>-medier væk.  Efter en 
+installering, kan pakkerne opgradere til de aktuelle versioner ved hjælp af et 
+ajourført Debian-filspejl.</p>
+
+<p>Dem der hyppigt opdaterer fra security.debian.org, behøver ikke at opdatere 
+ret mange pakker, og de fleste opdateringer fra security.debian.org er indeholdt 
+i denne opdatering.</p>
+
+<p>Nye installeringsfilaftryk vil snart være tilgængelige fra de sædvanlige 
+steder.</p>
+
+<p>Online-opdatering til denne revision gøres normalt ved at lade 
+pakkehåndteringssystemet pege på et af Debians mange HTTP-filspejle. En 
+omfattende liste over filspejle er tilgængelig på:</p>
+
+<div class="center">
+  <a href="$(HOME)/mirror/list">https://www.debian.org/mirror/list</a>
+</div>
+
+
+<h2>Forskellige fejlrettelser</h2>
+
+<p>Denne opdatering til den stabile udgave tilføjer nogle få vigtige rettelser 
+til følgende pakker:</p>
+
+<table border=0>
+<tr><th>Pakke</th>                           	<th>Årsag</th></tr>
+<correction 2ping 				"Tilføjer manglende afhængighed af python-pkg-resources">
+<correction abiword 				"Løser binær fil-konflikt mellem abiword-dbgsym og abiword-plugin-grammar-dbgsym">
+<correction adminer 				"Tillad ikke forbindelser til priviligerede porte [CVE-2018-7667]">
+<correction animals 				"Retter ukorrekte filrettigheder, som gjorde spillet ubrugeligt">
+<correction apache2 				"Opgraderer mod_http og mod_proxy_http2 til versionerne fra 2.4.33, retter segmenteringsfejl, højt hukommelsesforbrug og potentielt nedbrud [CVE-2018-1302]; får initskriptet apache-htcacheclean til faktisk at bruge /etc/default/apache-htcacheclean til sin opsætning">
+<correction auto-complete-el 			"Tilføjer opstrømsrettelse af emacs25; justerer emacs-afhængighederne til emacs-versionerne i stretch; opsætter auto-complete-el.emacsen-compat til at komme med installeringsadvarsel i stilhed">
+<correction awffull 				"Benyt ikke fjernede valgmuligheder i /etc/cron.daily/awffull">
+<correction ax25-tools 				"Undgå segmenteringsfejl på kørselstidspunktet">
+<correction base-files 				"Opdaterer til denne punktopdatering">
+<correction blktrace 				"Retter bufferoverløb i btt [CVE-2018-10689]">
+<correction ca-certificates 			"Opdaterer Mozilla CA-bundt til version 2.22; fejlrettelser">
+<correction camo 				"Tilføjer manglende afhængighed af openssl">
+<correction cffi 				"Tilføjer filer til cffi-libffi og cffi-toolchain; tilføjer flere manglende afhængigheder">
+<correction check-postgres 			"Opdaterer testsuite til at håndtere pg_get_indexdef(), medtager nu altid schema-navnet">
+<correction clamav 				"Ny opstrømsversion; afbryd ikke med fejl ved nyligt fjernede opsætningsvalgmuligheder">
+<correction clustershell 			"Tilføjer manglende afhængighed af python-pkg-resources">
+<correction debian-installer 			"Opdaterer til kerne-ABI -7">
+<correction debian-installer-netboot-images 	"Genopbygger til denne punktopdatering">
+<correction debian-security-support 		"Opdaterer medfølgende data">
+<correction dehydrated 				"Retter mislykket oprettelse af fullchain.pem">
+<correction devscripts 				"uscan: retter den nye pakkeversions regex for filenamemangle; debsign: retter bash-fuldførelse; bts: understøtter det nye tag <q>ftbfs</q>; uscan: understøtter HTTPS i sf.net-viderestilleren; debcheckout: understøtter salsa.debian.org; debdiff: sorterer shlibs-filer før de sammenlignes, hvilket reducerer diff-støj; uscan: faktisk understøttelse af --copy">
+<correction disc-cover 				"Retter perl-fejl når disc-cover køres">
+<correction discover 				"Anvender korrekt type for længdeparameteret hørende til kaldet getline()">
+<correction django-xmlrpc 			"Retter python3-afhængigheder">
+<correction dosbox 				"Retter nedbrud med core=dynamic">
+<correction dpdk 				"Ny stabil optrømsopdatering">
+<correction dpkg 				"Retter heltalsoverløb i formatversionsfortolkeren af deb(5); retter mappegennemløb med dpkg-deb --raw-extract; tilføjer understøttelse af riscv64-CPU; normaliser ikke parametre forbi et videreførselsstopord i Dpkg::Getopt; fortolker på korrekt vis bruger- og gruppenavne i start-stop-daemon, som begynder med cifre; anvend altid den binære version for .buildinfo-filnavnet">
+<correction dput-ng 				"Tilføjer målene jessie-backports-sloppy og stretch-backports; medtager 'testing' i rm-managed-samlingerne og 'oldstable' i <q>protected distributions</q> (beskyttede distributioner); tilføjer ports-master-profiler; FTP: fortolker og anvender valgfri [:port]-del til fqdn">
+<correction elastix 				"Genopbygger med ITK, som er opbygget med gcc 6">
+<correction email2trac 				"Retter genkendelse af Trac 1.2">
+<correction faad2 				"Retter flere lammelsesangrebsproblemer gennem fabrikerede MP4-filer [CVE-2017-9218 CVE-2017-9219 CVE-2017-9220 CVE-2017-9221 CVE-2017-9222 CVE-2017-9223 CVE-2017-9253 CVE-2017-9254 CVE-2017-9255 CVE-2017-9256 CVE-2017-9257]">
+<correction faker 				"Tilføjer manglende afhængighed af python-ipaddress">
+<correction fastkml 				"Tilføjer manglende afhængighed af pkg-resources">
+<correction file 				"Undgår at læse forbi slutningen af bufferen [CVE-2018-10360]">
+<correction freedink-dfarc 			"Retter mappegennemløb i D-Mod-extractor [CVE-2018-0496]">
+<correction ganeti 				"Verificerer på korrekt vis SSL-certifikater under VM-eksport">
+<correction ghostscript 			"Retter segmenteringsfejl med fuzzing-fil i gxht_thresh_image_init(); retter bufferløb i fill_threshold_buffer [CVE-2016-10317]; pdfwrite - beskytter mod forsøg på at sende et uendelig tal som uddata [CVE-2018-10194]">
+<correction git-annex 				"Sikkerhedsrettelser [CVE-2018-10857 CVE-2018-10859]">
+<correction glx-alternatives 			"Ny opstrømsversion">
+<correction gridengine 				"Anvender korrekte stier til qmon-pixmaps; retter FTBFS på armhf">
+<correction intel-microcode 			"Opdaterer medfølgende mikrokode, medfølgende rettelser af Spectre v2 [CVE-2017-5715]">
+<correction jdresolve 				"Retter inkompatibilitet med libnet-dns-perl i Debian 8 og senere">
+<correction libb64 				"Genopbygger med PIE">
+<correction libdate-holidays-de-perl 		"Markerer reformationsdag som helligdag i Niedersachsen og Bremen">
+<correction libdatetime-timezone-perl 		"Opdaterer medfølgende data">
+<correction libextractor 			"Forskellige sikkerhedsrettelser [CVE-2017-15266 CVE-2017-15267 CVE-2017-15600 CVE-2017-15601 CVE-2017-15602 CVE-2017-15922 CVE-2017-17440]">
+<correction libipc-run-perl 			"Retter hukommelseslækage">
+<correction liblouis 				"Retter bufferoverløb [CVE-2018-11410]; retter flere bufferoverløb [CVE-2018-11440 CVE-2018-11577 CVE-2018-11683 CVE-2018-11684 CVE-2018-11685 2018-12085]">
+<correction libosmium 				"Send koordinat med værdien -2^31 som uddata på korrekt vis; retter buffere størrend 2^32 bytes">
+<correction linux 				"Ny stabil opstrømsudgave 4.9.110">
+<correction linux-latest 			"Opdaterer til kerne-ABI -7">
+<correction llvm-toolchain-4.0 			"Nye pakker til rust-backports; retter opbygning på s390x">
+<correction local-apt-repository 		"Stopper at apt afbrydes når pakken er fjernet men ikke tømt">
+<correction loook 				"Retter håndtering af filer beskyttet med adgangskode">
+<correction miniupnpd 				"Retter lammelsesangreb [CVE-2017-1000494]">
+<correction nss-pam-ldapd 			"Forøger størrelse på hostname-buffer">
+<correction nvidia-graphics-drivers 		"Ny opstrømsversion">
+<correction obfsproxy 				"Installer ikke den defekte AppArmor-profil">
+<correction openldap 				"Retter et problem med manglende synkronisering ved delta-syncrepl-replikering i miljøer med flere mastere; ret virkelig opgraderinger når opsætningen indeholder særlige tegn indkapslet af backslash">
+<correction openstack-debian-images 		"Opsætter CloudStack efter OpenStack i datasource_list, for at undgå en forsinkelse på 120 sekunder i cloud-init, når en maskine i OpenStack-skyen bootes">
+<correction patch 				"Retter udførelse af vilkårlig kommando i ed-style-patches [CVE-2018-1000156]">
+<correction piglit 				"Retter manglende afhængighed af python-mako">
+<correction postgresql-9.6 			"Ny opstrømsudgave">
+<correction postgresql-common 			"Forhindrer opgradering/fjernelse af serverpakker i at stoppe andre større versionsklynger, når der benyttes systemd">
+<correction psad 				"Tilføjer manglende afhængigheder af net-tools og iproute2">
+<correction pysurfer 				"Tilføjer manglende afhængighed af python-matplotlib">
+<correction python-cluster 			"Tilføjer manglende afhængighed af pkg-resources">
+<correction python-pyorick 			"Retter importfejl vved at tilføje manglende afhængighed af python3-numpy">
+<correction python-scruffy 			"Tilføjer manglende afhængighed af pkg-resources">
+<correction r-cran-mi 				"Tilføjer manglende afhængighed af r-cran-arm">
+<correction redis 				"Korrigerer slåfejl vedrørende RunTimeDirectory -&gt; RuntimeDirectory i systemd-.service-filer">
+<correction reportbug 				"Giver sikkerhedsholdet eller LTS-holder besked om en mulig regression, hvis der rapporteres en fejl mod en pakke, som indeholder en sikkerhedsrettelse">
+<correction rustc 				"Ny opstrømsudgave til understøttelse af Firefox ESR">
+<correction salt 				"Retter salt-ssh-minion kopieret oven i opsætning fra Salt Master, uden at justere rettigheder [CVE-2017-8109]">
+<correction shared-mime-info 			"Skifter dpkg-trigger til noawait, retter opgraderingsproblemer fra jessie">
+<correction showq 				"Retter prefix så applikationen faktisk kan fungere">
+<correction source-highlight 			"Retter afhængighed af libboost-regex-dev">
+<correction starplot 				"Retter nedbrud ved start">
+<correction subversion 				"Afviser commits der kan medføre hashkollisioner med eksisterende data, dermed løses problemet med SHA1/shattered">
+<correction sus 				"Opdaterer til ny version, teknisk identisk med SUSv4 + TC1 + TC2">
+<correction systemd 				"networkd-ndisc: håndterer manglende MTU på en pæn måde; tillader at RemoveIPC= kan opsættes i unit-filen, ikke kun gennem D-Bus; nspawn: tilføjer manglende -E til getopt_long'; login: respekterer --no-wall når en nedlukning afbrydes">
+<correction tclreadline 			"Retter opbygning af delt bibliotek på ppc64el">
+<correction thefuck 				"Tilføjer manglende afhængighed af pkg-resources">
+<correction tinyproxy 				"Hold ikke op med at lytte efter SIGHUP; retter filsti til opsætning; tilføjer manglende afhængighed af adduser">
+<correction tlslite-ng 				"Verificerer MAC selv når paddingen er 1 byte lang">
+<correction tzdata 				"Ny opstrømsudgave">
+<correction unison 				"Genopbygger med stretchs ocaml">
+<correction variety 				"Retter shell-indsprøjtning ved slet af filer til affaldsspanden; retter shell-indsprøjtning i filer og clock med særligt fabrikerede filnavne; hærder kald til ImageMagick mod potentiel shell-indsprøjtning">
+<correction xapian-core 			"Retter MSet::snippet() to escape HTML in all cases [CVE-2018-499]">
+<correction xerces-c 				"Retter lammelsesangreb gennem ekstern DTD-reference [CVE-2017-12627]; retter en regression der tvang gcc til at benytte SSE2, selv på platforme der ikke understøtter det">
+<correction xrdp 				"Retter forskudt med én-fejl, der kunne føre til nedbrud">
+</table>
+
+
+<h2>Sikkerhedsopdateringer</h2>
+
+<p>Denne revision tilføjer følgende sikkerhedsopdateringer til den stabile 
+udgave.  Sikkerhedsteamet har allerede udgivet bulletiner for hver af de nævnte
+opdateringer:</p>
+
+<table border=0>
+<tr><th>Bulletin-id</th>  <th>Pakke(r)</th></tr>
+<dsa 2017 4010 git-annex>
+<dsa 2017 4064 chromium-browser>
+<dsa 2018 4113 libvorbis>
+<dsa 2018 4133 isc-dhcp>
+<dsa 2018 4134 util-linux>
+<dsa 2018 4135 samba>
+<dsa 2018 4136 curl>
+<dsa 2018 4137 libvirt>
+<dsa 2018 4138 mbedtls>
+<dsa 2018 4139 firefox-esr>
+<dsa 2018 4140 libvorbis>
+<dsa 2018 4141 libvorbisidec>
+<dsa 2018 4142 uwsgi>
+<dsa 2018 4143 firefox-esr>
+<dsa 2018 4144 openjdk-8>
+<dsa 2018 4145 gitlab>
+<dsa 2018 4146 plexus-utils>
+<dsa 2018 4148 kamailio>
+<dsa 2018 4150 icu>
+<dsa 2018 4151 librelp>
+<dsa 2018 4152 mupdf>
+<dsa 2018 4153 firefox-esr>
+<dsa 2018 4155 thunderbird>
+<dsa 2018 4156 drupal7>
+<dsa 2018 4157 openssl>
+<dsa 2018 4158 openssl1.0>
+<dsa 2018 4159 remctl>
+<dsa 2018 4160 libevt>
+<dsa 2018 4161 python-django>
+<dsa 2018 4162 irssi>
+<dsa 2018 4163 beep>
+<dsa 2018 4164 apache2>
+<dsa 2018 4165 ldap-account-manager>
+<dsa 2018 4167 sharutils>
+<dsa 2018 4169 pcs>
+<dsa 2018 4170 pjproject>
+<dsa 2018 4171 ruby-loofah>
+<dsa 2018 4172 perl>
+<dsa 2018 4173 r-cran-readxl>
+<dsa 2018 4174 corosync>
+<dsa 2018 4175 freeplane>
+<dsa 2018 4177 libsdl2-image>
+<dsa 2018 4178 libreoffice>
+<dsa 2018 4180 drupal7>
+<dsa 2018 4181 roundcube>
+<dsa 2018 4183 tor>
+<dsa 2018 4184 sdl-image1.2>
+<dsa 2018 4185 openjdk-8>
+<dsa 2018 4188 linux>
+<dsa 2018 4189 quassel>
+<dsa 2018 4190 jackson-databind>
+<dsa 2018 4191 redmine>
+<dsa 2018 4192 libmad>
+<dsa 2018 4193 wordpress>
+<dsa 2018 4194 lucene-solr>
+<dsa 2018 4195 wget>
+<dsa 2018 4196 linux>
+<dsa 2018 4197 wavpack>
+<dsa 2018 4198 prosody>
+<dsa 2018 4199 firefox-esr>
+<dsa 2018 4200 kwallet-pam>
+<dsa 2018 4201 xen>
+<dsa 2018 4202 curl>
+<dsa 2018 4203 vlc>
+<dsa 2018 4203 phonon-backend-vlc>
+<dsa 2018 4203 goldencheetah>
+<dsa 2018 4206 gitlab>
+<dsa 2018 4206 ruby-omniauth-auth0>
+<dsa 2018 4207 packagekit>
+<dsa 2018 4208 procps>
+<dsa 2018 4209 thunderbird>
+<dsa 2018 4210 xen>
+<dsa 2018 4211 xdg-utils>
+<dsa 2018 4212 git>
+<dsa 2018 4213 qemu>
+<dsa 2018 4214 zookeeper>
+<dsa 2018 4215 batik>
+<dsa 2018 4216 prosody>
+<dsa 2018 4217 wireshark>
+<dsa 2018 4218 memcached>
+<dsa 2018 4219 jruby>
+<dsa 2018 4220 firefox-esr>
+<dsa 2018 4221 libvncserver>
+<dsa 2018 4222 gnupg2>
+<dsa 2018 4223 gnupg1>
+<dsa 2018 4226 perl>
+<dsa 2018 4227 plexus-archiver>
+<dsa 2018 4228 spip>
+<dsa 2018 4229 strongswan>
+<dsa 2018 4230 redis>
+<dsa 2018 4231 libgcrypt20>
+<dsa 2018 4232 xen>
+<dsa 2018 4233 bouncycastle>
+<dsa 2018 4234 lava-server>
+<dsa 2018 4235 firefox-esr>
+<dsa 2018 4236 xen>
+<dsa 2018 4238 exiv2>
+<dsa 2018 4239 gosa>
+<dsa 2018 4240 php7.0>
+<dsa 2018 4241 libsoup2.4>
+</table>
+
+
+<h2>Fjernede pakker</h2>
+
+<p>Følgende pakker er blevet fjernet på grund af omstændigheder uden for vores 
+kontrol:</p>
+
+<table border=0>
+<tr><th>Pakke</th>                    <th>Årsag</th></tr>
+<correction libnet-whois-perl 		"Fungerer ikke">
+<correction mlbviewer 			"Fungerer ikke længere på grund af indholdsændringer hos leverandør">
+<correction python-uniconvertor 	"Ubrugelig; kræver ikke-pakkede afhængigheder">
+<correction singularity-container 	"Ikke mulig at sikkerhedsunderstøtte">
+<correction undertow 			"Ikke mulig at understøtte; flere sikkerhedsproblemer; alternativer findes">
+<correction visionegg 			"Ubrugelig; kræver ikke længere tilgængelig numpy.oldnumeric">
+</table>
+
+
+<h2>Debian Installer</h2>
+
+Installeringsprogrammet er opdateret for at medtage rettelser indført i stable, 
+i denne punktopdatering.
+
+
+<h2>URL'er</h2>
+
+<p>Den komplette liste over pakker, som er ændret i forbindelse med denne 
+revision:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/<downcase <codename>>/ChangeLog">
+</div>
+
+<p>Den aktuelle stabile distribution:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/stable/">
+</div>
+
+<p>Foreslåede opdateringer til den stabile distribution:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/proposed-updates">
+</div>
+
+<p>Oplysninger om den stabile distribution (udgivelsesbemærkninger, fejl, 
+osv.):</p>
+
+<div class="center">
+  <a href="$(HOME)/releases/stable/">https://www.debian.org/releases/stable/</a>
+</div>
+
+<p>Sikkerhedsannonceringer og -oplysninger:</p>
+
+<div class="center">
+  <a href="$(HOME)/security/">https://security.debian.org/</a>
+</div>
+
+<h2>Om Debian</h2>
+
+<p>Debian-projektet er en organisation af fri software-udviklere som frivilligt
+bidrager med tid og kræfter, til at fremstille det helt frie styresystem Debian
+GNU/Linux.</p>
+
+
+<h2>Kontaktoplysninger</h2>
+
+<p>For flere oplysninger, besøg Debians websider på 
+<a href="$(HOME)/">https://www.debian.org/</a> eller send e-mail på engelsk til
+&lt;press@debian.org&gt; eller kontakt holdet bag den stabile udgave på 
+&lt;debian-release@debian.org&gt;.</p>
