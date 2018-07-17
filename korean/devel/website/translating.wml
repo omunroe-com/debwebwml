@@ -88,6 +88,14 @@ HTML 파일 이름은 <tt><var>file</var>.html</tt> 아니고
 <kbd>weblint <var>file</var>.<var>&lt;lang&gt;</var>.html</kbd>
 로 확인하세요.</p>
 
+<p>NOTE: The web pages are regularly rebuilt automatically on the
+www-master server, based on the wml source in git. This process is for
+the most part impervious to errors. However, if you commit a broken
+file in the top level of your translation (e.g. the top-level
+index.wml file), it will break the build process and stall all the
+other updates to the web site. Please pay special attention to these
+files.</p>
+
 <p>페이지가 잘 되었으면, git에 커밋 할 수 있습니다.
 이 작업을 직접 할 권한이 있으면, <kbd>git commit</kbd> 를 하세요;
 아니면, 그것을 <a href="translation_coordinators">저장소에 쓰기 권한 있는 사람</a>에게 보내세요.
