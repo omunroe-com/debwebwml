@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Manuels pour les utilisateurs de Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048" maintainer="Jean-Paul Guillonneau"
 
 # Translator -> 2009: Frédéric Bothamy
 # Different translators 2009-2015
@@ -201,7 +201,7 @@ Debian pour les distributions <em>Potato</em> et
    base, des astuces et d'autres informations traitent des sujets aussi variés
    que l'installation d'un système, la gestion des paquets Debian, le noyau
    Linux sous Debian, l'optimisation du système, la mise en place d'une
-   passerelle, les éditeurs de texte, CVS, la programmation et GnuPG.
+   passerelle, les éditeurs de texte, VCS, la programmation et GnuPG.
 
    <p>Il était connu avant sous le nom de «&nbsp;<cite>Quick
    Reference</cite>&nbsp;».
