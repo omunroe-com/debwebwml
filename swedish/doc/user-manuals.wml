@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Debian Användarmanualer"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048"
 
 <document "Debian GNU/Linux FAQ" "faq">
 
@@ -175,7 +175,7 @@ dessa utgåvor.
    Grundläggande steg-för-steg-guider, tips och annan information finns
    för ämnen som systeminstallation, Debianpakethantering, Linuxkärnan under
    Debian, systemjustering, bygga en nätsluss, textredigeringsverktyg,
-   CVS, programmering och GnuPG.
+   versionshanteringssystem, programmering och GnuPG.
 
    <p>Tidigare känd som &rdquo;<span lang=en>Quick Reference</span>&rdquo;.
 
