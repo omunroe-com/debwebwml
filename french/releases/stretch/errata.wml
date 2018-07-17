@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 9 &mdash; Errata" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="7f910d78f53ef9502f748a4f6e7e16f68f71c2ed" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="88298a195ad0f1a69e0089b0acfdcc9dd73cd9af" maintainer="Jean-Pierre Giraud"
 
 #include "$(ENGLISHDIR)/releases/info"
 
@@ -51,6 +51,8 @@ intermédiaires.</p>
       <a href="$(HOME)/News/2017/2017120902">9 décembre 2017</a>.</li>
   <li>La quatrième version intermédiaire, 9.4, a été publiée le
       <a href="$(HOME)/News/2018/20180310">10 mars 2018</a>.</li>
+  <li>La cinquième version intermédiaire, 9.5, a été publiée le
+      <a href="$(HOME)/News/2018/20180714">14 juillet 2018</a>.</li>
 </ul>
 
 <ifeq <current_release_stretch> 9.0 "
