@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Liste des choses à faire pour le Projet de documentation Debian (DDP)"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048" maintainer="Jean-Paul Guillonneau"
 
 # Premier traducteur: Frédéric Bothamy, 2008.
 
@@ -26,7 +26,7 @@
   et le SVN dispose de certains
   <a href="https://anonscm.debian.org/viewvc/ddp/utils/scripts/">scripts</a>
   à améliorer avant d'être intégrés dans une tâche cron.
- 
+
 </ul>
 
 <H3>Idées&nbsp;:</H3>
@@ -37,7 +37,7 @@ liste de diffusion. Aussi, ce sont peut-être de bonnes ou de mauvaises idées.
 
 <br>&nbsp;
 
-<ul>  
+<ul>
   <li>
   <p>Fournir une interface cohérente pour toutes les pages de manuel de
   Debian, comme beaucoup d'autres le font déjà,
@@ -63,7 +63,6 @@ liste de diffusion. Aussi, ce sont peut-être de bonnes ou de mauvaises idées.
 # Hat ne le fait pas. Et le TLDP pointe vers différentes sources non
 # officielles y compris http://linux.ctyme.com/
 # jfs
-  
 
 <li>Mettre en &oelig;uvre les URN. Cela permettrait aux utilisateurs de vérifier
   la documentation localement, sur les sites web ou sur les miroirs. Une
@@ -109,10 +108,10 @@ liste de diffusion. Aussi, ce sont peut-être de bonnes ou de mauvaises idées.
 
   <li>Générer les informations sur les manuels disponibles présentés sur
   le site web par l'extraction des informations (fournies par
-  <tt>manual.defs</tt> et <tt>version.defs</tt>) automatiquement du CVS.
+  <tt>manual.defs</tt> et <tt>version.defs</tt>) automatiquement du VCS.
 
   <li>Rendre possible le suivi de l'état des traductions basé sur des
-  informations du site CVS. Considérer la réutilisation du cadre de
+  informations du site VCS. Considérer la réutilisation du cadre de
   travail développé pour le manuel d'installation de l'installateur
   Debian.
 
@@ -121,7 +120,7 @@ liste de diffusion. Aussi, ce sont peut-être de bonnes ou de mauvaises idées.
   puissent déterminer si le document est pertinent (ou non) pour eux.
 
   <li>Réfléchir à une façon de fournir de la documentation aux utilisateurs dans
-  d'autres langues que l'anglais (le CVS contient des répertoires pour
+  d'autres langues que l'anglais (le VCS contient des répertoires pour
   quelques langues et quelques documentations ont été écrites à
   l'origine dans une langue autre que l'anglais).
 
