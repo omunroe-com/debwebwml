@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Le Projet de documentation Debian"
-#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048" maintainer="Jean-Paul Guillonneau"
 
 # Premier traducteur: Frédéric Bothamy, 2008
 
@@ -56,10 +56,10 @@ système Debian.</p>
       Linux Installation &amp; Getting Started</a> dans la Linux Gazette.</li>
     </ul>
 
-    <h3>Accès SVN</h3>
+    <h3>Accès à Git</h3>
     <ul>
-      <li><a href="cvs">Comment accéder</a> au référentiel SVN du DDP.</li>
-      <li>Les documents du DDP dans le SVN sont dans le sous-répertoire des <a
+      <li><a href="cvs">Comment accéder</a> au référentiel Git du DDP.</li>
+      <li>Les documents du DDP dans Git sont dans le sous-répertoire des <a
       href="manuals/">manuels</a>.</li>
     </ul>
 
