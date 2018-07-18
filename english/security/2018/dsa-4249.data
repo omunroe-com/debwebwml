@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4249-1 ffmpeg</define-tag>
+<define-tag report_date>2018-7-17</define-tag>
+<define-tag secrefs>CVE-2018-6392 CVE-2018-6621 CVE-2018-7557 CVE-2018-10001 CVE-2018-12458 CVE-2018-13300 CVE-2018-13302</define-tag>
+<define-tag packages>ffmpeg</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
