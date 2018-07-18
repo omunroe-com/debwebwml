@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="5955bba0dd37209eae89638564d5ed289277b00f" maintainer="Jean-Pierre Giraud"
+<define-tag description>Mise à jour de sécurité</define-tag>
+<define-tag moreinfo>
+<p>Plusieurs vulnérabilités ont été découvertes dans divers analyseurs de
+Blender, un modeleur et moteur de rendu 3D. Des fichiers de modèle .blend
+mal formés et des fichiers multimédia mal formés (AVI, BMP, HDR, CIN, IRIS,
+PNG, TIFF) peuvent avoir pour conséquence l'exécution de code arbitraire.</p>
+
+<p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
+dans la version 2.79.b+dfsg0-1~deb9u1.</p>
+
+<p>Nous vous recommandons de mettre à jour vos paquets blender.</p>
+
+<p>Pour disposer d'un état détaillé sur la sécurité de blender, veuillez
+consulter sa page de suivi de sécurité à l'adresse :
+<a href="https://security-tracker.debian.org/tracker/blender">\
+https://security-tracker.debian.org/tracker/blender</a>.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4248.data"
+# $Id: $
