@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Debians brugervejledninger"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
 
@@ -163,7 +163,7 @@ udgivelsessiden</a> hørende til disse udgivelser.</p>
    systemadministration ved hjælp af shell-kommando-eksempler. Der er 
    grundlæggende øvelser, tips, og andre oplysninger om emner som blandt andre
    systeminstallation, pakkehåndtering under Debian, Linux-kernen under Debian,
-   systemoptimering, opsættelse af en gateway, tekstredigeringsprogrammer, CVS,
+   systemoptimering, opsættelse af en gateway, tekstredigeringsprogrammer, VCS,
    programmering, og GnuPG.
 
    <p>Tidligere kendt som "Quick Reference".

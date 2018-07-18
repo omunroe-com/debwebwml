@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Debians dokumentationsprojekt"
-#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048"
 
 <p>Debians dokumentationsprojekt (DDP) blev dannet for at kunne koordinere og 
 forene alle tiltag til at skrive mere og bedre dokumentation om 
@@ -31,7 +31,7 @@ Debian-systemet.</p>
 </div>
 
   <div class="item col50 lastcol">
-      
+
 <h3><a href="docpolicy">Fremgangsmåde for dokumentation</a></h3>
 <ul>
   <li>Vejledningernes licenser retter sig efter DFSG.</li>
@@ -49,11 +49,11 @@ Debian-systemet.</p>
   <li>Artiklen <a href="http://tldp.org/LDP/LGNET/issue15/debian.html">Debian Linux 
       Installation &amp; Getting Started</a> i Linux Gazette</li>
 </ul>
-    
-<h3>SVN-adgang</h3>
+
+<h3>Git-adgang</h3>
 <ul>
-  <li><a href="cvs">Hvordan man tilgår</a> DDP's SVN-arkiv</li>
-  <li>DDP SVN-dokumenter i <a href="manuals/">undermappen med håndbøger</a></li>
+  <li><a href="cvs">Hvordan man tilgår</a> DDP's git-arkiv</li>
+  <li>DDP's git-dokumenter i <a href="manuals/">undermappen med håndbøger</a></li>
 </ul>
 
 </div>

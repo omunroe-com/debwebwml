@@ -1,114 +1,83 @@
-#use wml::debian::ddp title="Debians dokumentationsprojekts SVN"
+#use wml::debian::ddp title="Debians dokumentationsprojekts git"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="01b1789e9ebd40d1c24729fcfe79a6b1f4baf15b"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048"
 
 <p>Debians dokumentationsprojekt opbevarer sine websider og mange af 
-vejledningsteksterne på Debians Subversion-server på adressen 
-<strong>svn.debian.org</strong> og på Debians Git-server på adressen 
-<strong>git.debian.org</strong>.  svn.debian.org og git.debian.org er del af 
-Gforge-installationen på alioth.debian.org.  Læs 
-<a href="https://wiki.debian.org/Alioth">Alioth-dokumentationen</a> for 
+vejledningsteksterne på Debians Salsa-tjeneste på adressen 
+<strong>salsa.debian.org</strong>, som er Debians GitLab-instans.  Læs 
+<a href="https://wiki.debian.org/Salsa">Salsa-dokumentationen</a> for 
 flere oplysninger om hvordan denne tjeneste fungerer.</p>
 
-<p>Alle kan hente kildekoden fra SVN-/Git-serveren. Kun medlemmer af Debians
+<p>Alle kan hente kildekoden fra Salsa-tjenesten. Kun medlemmer af Debians
 dokumentationsprojekt kan opdatere filer.</p>
 
 
 <toc-display />
 
 
-<toc-add-entry name="access">Adgang til kildekoden i SVN</toc-add-entry>
+<toc-add-entry name="access">Adgang til kildekoden i git</toc-add-entry>
 
 <p>Du kan anvende en webgrænseflade til at tilgå filerne individuelt og se 
-ændringer af dem på adressen 
-<url "https://anonscm.debian.org/viewvc/ddp/manuals/trunk/" />.</p>
+ændringer til hvert projekt, på adressen 
+<url "https://salsa.debian.org/ddp-team/" />.</p>
 
-<p>For at hente en komplet vejledning er direkte adgang til SVN-serveren ofte en 
+<p>For at hente en komplet vejledning er direkte adgang til git-serveren ofte en 
 bedre mulighed.  Du skal have pakken 
-<tt><a href="https://packages.debian.org/subversion">subversion</a></tt> på din
+<tt><a href="https://packages.debian.org/git">git</a></tt> på din
 egen maskine.</p>
 
 
-<h3>Anonym adgang (kun læsning) til SVN-serveren</h3>
+<h3>Kloning af et git-arkiv (kun læsning)</h3>
 
-<p>Anvend denne kommando for at hente alle filerne:</p>
+<p>Anvend denne kommando for at hente alle et projekts filer:</p>
 
 <p style="margin-left: 2em">
-  <code>svn co svn://svn.debian.org/svn/ddp/manuals/trunk manuals</code>
+  <code>git clone https://salsa.debian.org/ddp-team/release-notes.git</code>
 </p>
 
-<p>Herved oprettes mapperne rekursivt og filerne placeres i dem.</p>
+<p>Gør det samme for alle projekter, som du ønsker at klone lokalt.</p>
+
+
+<h3>Kloning af et git-arkiv med push-rettigheder (læsning/skrivning)</h3>
+
+<p>Før du tilgår git-serveren ved hjælp af denne metode, skal du først have fået 
+tildelt skriveadgang.  Læs først om hvordan man <a href="#obtaining">\
+beder</a> om push-rettigheder.</p>
+
+<p>Anvend denne kommando for at hente alle et projekts filer:</p>
+
+<p style="margin-left: 2em">
+  <code>git clone git@salsa.debian.org:ddp-team/release-notes.git</code>
+</p>
+
+<p>Gør det samme for alle projekter, som du ønsker at klone lokalt.</p>
+
+
+<h3>Hentning af ændringer fra det fjerne git-arkiv</h3>
 
 <p>For at opdatere din lokale kopi med alle ændringer foretaget af andre,
 skal du gå ind i mappen <strong>manuals</strong> og køre kommandoen:</p>
 
 <p style="margin-left: 2em">
-  <code>svn export --force svn://svn.debian.org/svn/ddp/manuals</code>
+  <code>git pull</code>
 </p>
 
 
-<h3>Adgang til SVN-serveren, med opdateringsrettigheder (svn)</h3>
+<toc-add-entry name="obtaining">Hvordan man får push-rettigheder</toc-add-entry>
 
-<p>Før du tilgår SVN-serveren ved hjælp af denne metode, skal du først have fået 
-tildelt opdateringsrettigheder.  Læs først om hvordan man <a href="#obtaining">\
-beder</a> om opdateringsrettigheder.</p>
-
-<p>Herved oprettes mapperne rekursivt og filerne placeres i dem.</p>
-
-<p style="margin-left: 2em">
-  <code>svn co svn+ssh://svn.debian.org/svn/ddp/manuals/trunk manuals</code>
-</p>
-
-<p>Herved oprettes mapperne rekursivt og der kommer indhold i dem.</p>
-
-<p>For at opdatere din lokale kopi med alle ændringer foretaget af andre,
-skal du gå ind i mappen <strong>manuals</strong> og køre kommandoen:</p>
-
-<p style="margin-left: 2em">
-  <code>svn update</code>
-</p>
-
-<h3>Adgang til SVN-serveren, med opdateringsrettigheder (git-svn)</h3>
-
-<p>Før du tilgår SVN-serveren ved hjælp af denne metode, skal du først have fået 
-tildelt opdateringsrettigheder.  Læs først om hvordan man <a href="#obtaining">\
-beder</a> om opdateringsrettigheder.</p>
-
-<p>Brug følgende kommando for at hente alle filerne:</p>
-
-<p style="margin-left: 2em">
-  <code>git svn clone -s -rHEAD svn+ssh://svn.debian.org/svn/ddp/manuals manuals</code>
-</p>
-
-<p>Herved oprettes mapperne rekursivt og der kommer indhold i dem, desuden 
-oprettes et lokalt git-arkiv uden den ældre historik, som kan følge Alioths 
-SVN-server.</p>
-
-<p>For at opdatere din lokale kopi med alle ændringer foretaget af andre,
-skal du gå ind i mappen <strong>manuals</strong> og køre kommandoen:</p>
-
-<p style="margin-left: 2em">
-  <code>git svn rebase</code>
-</p>
-
-
-<toc-add-entry name="obtaining">Hvordan man får opdateringsrettigheder</toc-add-entry>
-
-<p>Opdateringsrettigheder er tilgængelige for alle, der har lyst til at deltage 
+<p>Push-rettigheder er tilgængelige for alle, der har lyst til at deltage 
 i udarbejdelsen af vejledningerne.  Generelt beder vi om, at man først har 
 indsendt en række nyttige ændringer.</p>
 
-<p>Efter at have oprettet en konto på <a href="https://alioth.debian.org">\
-Alioth</a>, kan man bede om opdateringsrettigheder ved at klikke på <q>Request 
-to join</q> nederst til højre på siden 
-<url "https://alioth.debian.org/projects/ddp" />.  Sørg for at udfylde 
-kommentarboksen med den præcise årsag til, at du har brug for adgangen.  Følg 
-op med en mail til debian-doc@lists.debian.org, som forklarer dit hidtidige 
+<p>Efter at have oprettet en konto på <a href="https://salsa.debian.org/">\
+Salsa</a>, kan man bede om opdateringsrettigheder til gruppen eller til ethvert 
+af de specifikke projekter under <url "https://salsa.debian.org/ddp-team/" />.
+Følg op med en mail til debian-doc@lists.debian.org, som forklarer dit hidtidige 
 arbejde i Debian.</p>
 
-<p>Når din anmodning er blevet accepteret, vil du være en del af 
-<a href="https://alioth.debian.org/projects/ddp"><q>ddp</q>-projektet</a> (og 
-Unix-gruppen) på Alioth.</p>
+<p>Når din anmodning er blevet accepteret, vil du være en del af enten 
+<a href="https://salsa.debian.org/ddp-team/">gruppen <q>ddp-team</q></a> eller 
+en af dens projekter.</p>
 
 
 <hr />
