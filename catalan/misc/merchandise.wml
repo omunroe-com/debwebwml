@@ -1,5 +1,5 @@
 #use wml::debian::template title="Marxandatge de Debian" GEN_TIME="yes" BARETITLE=true
-#use wml::debian::translation-check translation="64198c8649eacbf3785e855576efca79ae144494"
+#use wml::debian::translation-check translation="8f79e04b6c730f512a9d1790d59815446a34e390"
 
 <P>
 Arran de la popularitat que ha anat adquirint Debian, hem rebut
@@ -11,15 +11,25 @@ mostra com a agraïment als nostres lleials usuaris. L'ordre és
 purament alfabètic i no implica cap preferència o suport a un
 proveïdor en concret.
 
-<BR>
+<p>
+Alguns proveïdors contribueixen amb Debian amb una part de les
+vendes del marxandatge de Debian. Això està indicat a sota de cada
+entrada de proveïdor. Esperem que els proveïdors pensin en fer
+donacions a Debian.
+</p>
+
+<p>
+A més, alguns contribuïdors o grups locals de Debian han creat
+marxandatge amb la marca Debian i pot ser que encara tinguin estoc
+disponible. Podeu trobar-ne informació a
+la <a href="https://wiki.debian.org/Merchandise">wiki</a>.
+</p>
 
 #include "$(ENGLISHDIR)/misc/merchandise.data"
 
-<BR>
-
 <p>Si veneu marxandatge amb temàtica de Debian i voleu formar
 part d'aquesta pàgina, escriviu <strong>en anglès</strong> a
-&lt;<a href="mailto:merchandise@debian.org">merchandise@debian.org</a>&gt;.
+&lt;<a href="mailto:events@debian.org">events@debian.org</a>&gt;.
 <br>
 Envieu-nos la següent informació:
 <ul>

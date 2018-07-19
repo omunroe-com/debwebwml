@@ -6,7 +6,7 @@
 
 
 
-<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">Descarregueu Debian <current_release_short><em>(Instal·lador per xarxa per a PC de 64 bits)</em></a> </span>
+<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">Baixeu Debian <current_release_short><em>(Instal·lador per xarxa per a PC de 64 bits)</em></a> </span>
 
 
 <div id="splash" style="text-align: center;">
@@ -22,11 +22,11 @@ Un sistema operatiu és un conjunt de programes bàsics i utilitats que fan
 que l'ordinador funcioni.
 </p>
 
-<p>Debian ofereix més que un SO: hi inclou més de
+<p>Debian ofereix molt més que un simple SO: inclou més de
 <packages_in_stable>
 <a href="distrib/packages">paquets</a>, programari precompilat distribuït
 en un format que fa més senzilla la instal·lació a l'ordinador.
-<a href="intro/about">Llegiu més...</a></p>
+<a href="intro/about">Llegiu-ne més...</a></p>
 
 </div>
 
@@ -46,13 +46,13 @@ les <a href="releases/">versions de Debian disponibles</a>.</p>
 <ul>
 <li>
 Si voleu començar a utilitzar Debian, podeu
-<a href="distrib/">obtenir una còpia</a> fàcilment i després seguir les
+<a href="distrib/">obtenir-ne una còpia</a> fàcilment i després seguir les
 <a href="releases/stable/installmanual">instruccions d'instal·lació</a> per
 a instal·lar-la.
 </li>
 <li>
 Si esteu actualitzant a l'última versió estable des d'una versió anterior,
-si us plau llegiu <a href="releases/stable/releasenotes">les notes de la
+llegiu <a href="releases/stable/releasenotes">les notes de la
 versió</a> abans de continuar.
 </li>
 <li>
@@ -77,20 +77,20 @@ dels <a href="ports/">ports</a>.
 <p><:= get_recent_list('News/$(CUR_YEAR)', '6', '$(ENGLISHDIR)', '', '\d+\w*' ) :></p>
 
 <p>Pel que fa a notícies més antigues, vegeu la <a href="$(HOME)/News/">Pàgina de
-Notícies</a>. Si desitgeu rebre correu cada vegada que surti una nova notícia
+Notícies</a>. Si desitgeu rebre un missatge cada vegada que surti una nova notícia
 sobre Debian, subscriviu-vos a la
 <a href="MailingLists/debian-announce">llista de correu debian-announce</a>.</p>
 
 <hr />
 
 <a class="rss_logo" href="security/dsa">RSS</a>
-<h2>Anuncis de seguretat</h2>
+<h2>Avisos de seguretat</h2>
 
 <p><:= get_recent_list ('security/2w', '10', '$(ENGLISHDIR)', 'bydate', '(2000\d+\w+|dsa-\d+)' ) :></p>
 
-<p>Pel que fa a anuncis de seguretat més antics, vegeu la <a href="$(HOME)/security/">
+<p>Pel que fa a avisos de seguretat més antics, vegeu la <a href="$(HOME)/security/">
 Pàgina de Seguretat</a>.
-Si desitgeu rebre els anuncis de seguretat en anunciar-se, subscriviu-vos a
+Si desitgeu rebre els avisos de seguretat tan bon punt es publiquen, subscriviu-vos a
 la <a href="https://lists.debian.org/debian-security-announce/">llista de correu
 debian-security-announce</a>.</p>
 
