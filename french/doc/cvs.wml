@@ -90,8 +90,8 @@ projets.
 <toc-add-entry name="updates">Mécanisme de mise à jour automatique</toc-add-entry>
 
 <p>Les pages web publiées de texte de manuel sont générées sur
-www-master.debian.org  dans le cadre du processus de reconstruction qui se
-déroule tous les quatre heures.</p>
+www-master.debian.org dans le cadre du processus de reconstruction qui se
+déroule toutes les quatre heures.</p>
 
 <p>Le script exécute un <kbd>svn export --force svn://svn.debian.org/svn/ddp/manuals</kbd>,
 et puis <kbd>make -C trunk publish</kbd>.</p>
