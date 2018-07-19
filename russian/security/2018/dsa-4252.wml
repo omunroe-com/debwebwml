@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="4b4124cd32131028b2b4fada737e15ba90d72618" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Jeriko One обнаружил две уязвимости в ZNC, баунсере IRC, которые
+могут приводить к повышению привилегий или отказу в обслуживании.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+version 1.6.5-1+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты znc.</p>
+
+<p>С подробным статусом поддержки безопасности znc можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/znc">\
+https://security-tracker.debian.org/tracker/znc</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4252.data"
