@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Debian Documentation Project"
-#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048"
 
 <p>Debian Documentation Project startades för att
 samordna och samla alla tidigare insatser att skriva mer och bättre
@@ -68,11 +68,11 @@ dokumentation för Debiansystemet.
       </li>
     </ul>
     
-    <h3>SVN-åtkomst</h3>
+    <h3>Git-åtkomst</h3>
     <ul>
-     <li><a href="cvs">Hur du kommer åt</a> DDPs SVN.
+     <li><a href="cvs">Hur du kommer åt</a> DDPs git-förråd.
      </li>
-     <li>DDPs SVN-dokument i <a href="manuals/">underkatalogen
+     <li>DDPs Git-dokument i <a href="manuals/">underkatalogen
          manuals</a>
      </li>
     </ul>
