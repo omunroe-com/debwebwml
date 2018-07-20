@@ -5,7 +5,7 @@
 <p>번역자의 작업을 가능한 한 쉽게 만들기 위해 페이지들은
 많은 사람들이 사용하는 것과 조금 다르게 만들어집니다.
 웹 페이지들은 <a href="http://www.engelschall.com/sw/wml/"><tt>wml</tt></a>로 표시된
-소스를 써서 만들어진다.
+소스를 써서 만들어집니다.
 언어마다 따로 디렉토리가 있습니다.</p>
 
 <p>데비안 사이트를 완전히 새롭게 번역 시작할 계획이라면,
@@ -27,13 +27,18 @@
 
 <h3>번역 헤더</h3>
 <p>번역자는 추가 행을 마지막 <code>#use</code> 문 뒤의 헤더에 더해서
-번역할 원본 파일의 정확한 리비전을 기록하는 것을 강력히 권장하는데, 그렇게 하면
+번역할 원본 파일의 정확한 커밋을 기록하는 것을 강력히 권장하는데, 그렇게 하면
 <a href="uptodate">업데이트가 쉬워집니다</a>.
 그 줄은 이렇게 보입니다:
 <kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd>
 번역가능한 파일을 <tt>copypage.pl</tt> 도구(강력 권장)를 써서 만들면, 
 git 커밋 해시가 자동 생성될 겁니다.
 <tt>copypage.pl</tt> 사용법은 다음 글에 설명할 겁니다.
+</p>
+
+<p><strong>Note: </strong>some part of information given below are outdated,
+especially everything that mentioned CVS. Please discard that part of
+information for now and help to update related instructions if possible.
 </p>
 
 <p>어떤 번역 팀은 이 줄을 각 웹 페이지의 공식 번역자를 표시할 때도 사용합니다.
@@ -81,7 +86,7 @@ HTML 파일 이름은 <tt><var>file</var>.html</tt> 아니고
 <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639</a>
 (e.g. <tt>ko</tt>는 한국어)를 따릅니다.</p>
 
-<p>WML로부터 HTML을 만드려면
+<p>WML로부터 HTML을 만들려면
 <kbd>make <var>file</var>.<var>&lt;lang&gt;</var>.html</kbd>
 를  실행하세요.
 동작하면, 구문이 타당한지
@@ -117,7 +122,7 @@ english/ 와 다른 것들 다음에 그대의 번역을 위한 새 디렉토리
 </p>
 
 <p><tt>Make.lang</tt> 과 <tt>.wmlrc</tt> 파일을 english/ 디렉토리에서 새 번역 디렉토리로 복사하세요.
-이 파일들은 WML 파일들로부터 번역을 빌드 하는데 꼭 필요하다.
+이 파일들은 WML 파일들로부터 번역을 빌드 하는데 꼭 필요합니다.
 그것들을 새 디렉토리에 복사한 후에, 아래 것들을 바꾸세요:</p>
 
 <ol>
@@ -138,7 +143,7 @@ VCS를 새로 체크 아웃 할 때 번역 내용이 손상된다는 것을 인�
 웹 사이트의 나머지 부분에 대한 빌드 프로세스가 깨질 수 있습니다.
 </ol>
 
-<p>그게 다 되면, 아래 줄을 그 디렉토리에 있는 새 파일 "Makefile"에 넣으시오.
+<p>그게 다 되면, 아래 줄을 그 디렉토리에 있는 새 파일 "Makefile"에 넣으시오:
 
 <pre>
 <protect>include $(subst webwml/<var>yourlanguagedir</var>,webwml/english,$(CURDIR))/Makefile</protect>
