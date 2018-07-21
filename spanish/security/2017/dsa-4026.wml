@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="dac2e3036eee4d669b53485340df4efb21a400f0"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Wen Bin descubrió que bchunk, una aplicación que convierte una imagen
+de CD en formato bin/cue en un conjunto de ficheros de pistas iso y cdr/wav,
+no comprobaba correctamente la entrada. Esto permitiría que usuarios maliciosos
+provocaran la caída de la aplicación o, potencialmente, ejecutaran código arbitrario.</p>
+
+<p>Para la distribución «antigua estable» (jessie), estos problemas se han corregido
+en la versión 1.2.0-12+deb8u1.</p>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 1.2.0-12+deb9u1.</p>
+
+<p>Le recomendamos que actualice los paquetes de bchunk.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2017/dsa-4026.data"
