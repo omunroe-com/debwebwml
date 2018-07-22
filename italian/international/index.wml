@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian Internazionale" 
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="c983d05b92b263f99491afdfdb7b5eb303d0cd2c" maintainer="Luca Monducci"
 
 <p>Nella comunità del Software Libero su Internet comunichiamo specialmente
 in lingua inglese. La maggior parte del nostro lavoro è fatta in inglese, ma
@@ -33,9 +33,11 @@ non è presente, dovresti pensare ad organizzare la traduzione.
 Per il supporto di una nuova lingua si deve lavorare nelle aree:</p>
 <dl>
   <dt><strong>Sistema di installazione</strong></dt>
-      <dd>Vedi anche le
-	  <a href="https://anonscm.debian.org/viewvc/d-i/trunk/manual/doc/translations.txt?view=markup">informazioni per i traduttori</a>
-      nel <a href="$(DEVEL)/debian-installer/svn">Subversion dell'installatore Debian</a>. Tutti i
+      <dd>Vedi anche le <a
+	  href="https://salsa.debian.org/installer-team/installation-guide/blob/master/doc/translations.txt">informazioni
+	  per i traduttori</a> nel <a
+	  href="https://salsa.debian.org/installer-team/installation-guide">repository
+	  della guida all'installazione Debian</a>. Tutti i
       lavori relativi alla procedura di installazione di Debian 
       sono discussi nella lista di messaggi <a href="https://lists.debian.org/debian-boot/">
       <tt>debian-boot</tt></a>.
