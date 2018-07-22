@@ -1,10 +1,10 @@
-#use wml::debian::cdimage title="Debian su CD" BARETITLE=true
+#use wml::debian::cdimage title="Debian su CD/DVD" BARETITLE=true
 #use wml::debian::release_info
-#use wml::debian::translation-check translation="d929cc609b3551f51df040eb46f6422ce61bae2b" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="9dcab36202d262b6b33583d68794b995999fa269" maintainer="Luca Monducci"
 
-<p>Per ottenere Debian su CD o su una chiavetta USB sono disponibili le
+<p>Per ottenere Debian su CD/DVD o su una chiavetta USB sono disponibili le
 opzioni descritte di seguito. In caso di problemi, si invita a leggere le
-<a href="faq/">FAQ sui CD Debian</a>.</p>
+<a href="faq/">FAQ sui CD/DVD Debian</a>.</p>
 
 <div class="tip">
 <p>Chi desidera solo installare Debian su un computer che
@@ -24,12 +24,11 @@ una chiavetta USB</a>.</p>
 Gran parte dei mirror mettono a disposizione i link per il download 
 tramite il browser o altri strumenti da riga di comando via HTTP.</li>
 
-  <li><a href="vendors/">Acquistare i CD-ROM Debian già
-  masterizzati.</a> Non sono costosi - non ne traiamo alcun profitto! Se
-  la propria connessione ad Internet è a tempo, questa è la
-  scelta giusta. Si potrebbe prendere in considerazione l'acquisto dei CD
-  anche nel caso si abbia solamente un modem, poiché scaricare le
-  immagini via modem richiede giorni.</li>
+<li><a href="vendors/">Acquistare i supporti Debian già pronti.</a> Non sono
+costosi, non ne traiamo alcun profitto! Se la propria connessione ad Internet
+è a tempo, questa è la scelta giusta. Si può prendere in considerazione
+l'acquisto dei CD anche nel caso si abbia una connessione a internet lenta
+perché scaricare tutte le immagini può richiedere molto tempo.</li>
 
   <li><a href="jigdo-cd/">Scaricare le immagini dei CD/DVD con jigdo.</a> Il
   sistema <em>jigdo</em> permette di scegliere il mirror Debian più
@@ -52,17 +51,17 @@ tramite il browser o altri strumenti da riga di comando via HTTP.</li>
 
 </ul>
 
-<p>Le immagini CD ufficiali sono firmate digitalmente, ciò permette di
+<p>Le immagini ufficiali dei CD/DVD sono firmate digitalmente, ciò permette di
 farne la <a href="verify">verifica di autenticità</a>.</p>
 
 <p>Debian è disponibile per varie architetture hardware - ci si
-assicuri di prelevare le immagini adatte al proprio computer! (I
-più avranno bisogno delle immagini per "i386", cioè per
-sistemi Intel). Una volta creati i CD, si potrebbero trovare utili le <a
-href="artwork/">copertine per i CD Debian</a>.</p>
+assicuri di scaricare le immagini adatte al proprio computer! (I
+più avranno bisogno delle immagini per <q>amd64</q>, cioè per i sistemi PC a
+64 bit). Una volta creati i dischi, si potrebbero trovare utili le <a
+href="artwork/">grafiche Debian per i dischi</a>.</p>
 
       <div class="cdflash" id="latest">Ultima release ufficiale
-      delle immagini dei CD "stable":
+      delle immagini dei CD/DVD <q>stable</q>:
         <strong><current-cd-release></strong>.
       <br><small>("fotografie" settimanali ufficiali di "testing")</small></div> 
 
