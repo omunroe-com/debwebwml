@@ -1,5 +1,5 @@
 #use wml::debian::template title="Port su AMD64"
-#use wml::debian::translation-check translation="869f35f09c79776d72b313089b08cfd0496fb217" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="3d9c842c8a62070d2b0db0fed7812af4619c7b91" maintainer="Luca Monducci"
 #use wml::debian::toc
 
 <toc-display/>
@@ -50,7 +50,9 @@ AMD64/Intel 64 al posto del vecchio sistema per i386</li>
 </ul>
 
 <p>L'esecuzione nativa dei vecchi binari a 32&nbsp;bit è supportata dal
-kernel e dalle librerie principali fornite dal pacchetto ia32-libs.</p>
+kernel e dalle librerie principali fornite tramite il <a
+href="https://wiki.debian.org/Multiarch">meccanismo Multiarch</a> di
+Debian.</p>
 
 
 <toc-add-entry name="i386support">Ambiente minimale di esecuzione AMD64 per i386</toc-add-entry>
@@ -81,9 +83,9 @@ Tutti i membri di Debian possono fare il port dei pacchetti usando le
 <ul>
 #<li><a href="https://alioth.debian.org/docman/view.php/30192/21/debian-amd64-howto.html">HOWTO e FAQ di debian-amd64</a></li>
 
-<li><a href='https://anonscm.debian.org/viewvc/debian-amd64/'>Repository CVS</a></li>
+#<li><a href='https://anonscm.debian.org/viewvc/debian-amd64/'>Repository CVS</a></li>
 
-<li><a href="https://alioth.debian.org/projects/debian-amd64/">Progetto debian-amd64 su Alioth</a></li>
+#<li><a href="https://alioth.debian.org/projects/debian-amd64/">Progetto debian-amd64 su Alioth</a></li>
 
 <li><a href="https://wiki.debian.org/DebianAMD64">Wiki di debian-amd64</a></li>
 </ul>
