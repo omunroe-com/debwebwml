@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="aa50a8a71248a2894016a08e6c47690f3e21bc06" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Denis Andzakovic upptäckte att network-manager-vpnc, en insticksmodul
+för att tillhandahålla VPNC-stöd i NetworkManager, är sårbar för en
+rättighetseskalering. En nyradstecken kan användas för att injicera
+en Password-hjälparparameter i konfigurationsdata som skickats till vpnc,
+vilket tillåter en lokal användare med rättigheter att modifiera en
+systemanslutning att exekvera godtyckliga kommandon som root.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 1.2.4-4+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era network-manager-vpnc-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om network-manager-vpnc vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/network-manager-vpnc">https://security-tracker.debian.org/tracker/network-manager-vpnc</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4253.data"
