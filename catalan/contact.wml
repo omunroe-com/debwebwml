@@ -1,10 +1,17 @@
 #use wml::debian::template title="Contactar amb nosaltres" NOCOMMENTS="yes"
-#use wml::debian::translation-check translation="46ab4ce9c96396b428db57845ccf4222719f74a1" maintainer="Jordi Mallach"
+#use wml::debian::translation-check translation="75b5b8a7cc43e45bfafa02d6bb2924f2f7201582" maintainer="Jordi Mallach"
 
 <p>Debian és una organització gran i hi ha moltes maneres de contactar-la.
-Aquesta pàgina resumeix els mitjans de contacte més utilitzats, però no és
-de cap forma inclusiva. Si us plau, referiu-vos a la resta de pàgines web per
+Aquesta pàgina recull els mitjans de contacte més utilitzats, però no és
+de cap manera inclusiva. Consulteu la resta de pàgines web per
 conèixer altres mitjans de contacte.</p>
+
+<p>
+Tingueu en compte que la majoria de les adreces de correu d'aquí sota
+són de llistes de correu obertes amb arxiu públic.
+Llegiu <a href="$(HOME)/MailingLists/disclaimer">\l'advertiment</a> abans
+d'enviar cap missatge.
+</p>
 
 <p>L'anglès és la llengua comú en les comunicacions amb desenvolupadors de
 Debian. Per açò, vos demanem que feu el primer contacte amb els desenvolupadors
@@ -12,142 +19,139 @@ en <strong>anglès</strong>. Si açò no és possible, busqueu la vostra llengua
 en <a
 href="https://lists.debian.org/users.html#debian-user">les llistes de correu per a usuaris</a>.</p>
 
-
 <ul class="toc">
   <li><a href="#generalinfo">Informació general</a>
-  <li><a href="#installuse">Instal·lant i usant Debian</a>
+  <li><a href="#installuse">Instal·lació i ús de Debian</a>
   <li><a href="#press">Publicitat / Premsa</a>
-  <li><a href="#events">Esdeveniments / Conferencies</a>
-  <li><a href="#helping">Ajudant a Debian</a>
-  <li><a href="#packageproblems">Informar de problemes en paquets de Debian</a>
+  <li><a href="#events">Esdeveniments / Conferències</a>
+  <li><a href="#helping">Col·laboració amb Debian</a>
+  <li><a href="#packageproblems">Informes de problemes en paquets de Debian</a>
   <li><a href="#development">Desenvolupament de Debian</a>
-  <li><a href="#infrastructure">Problemes amb infraestructura de Debian</a>
+  <li><a href="#infrastructure">Problemes amb la infraestructura de Debian</a>
+  <li><a href="#harassment">Problemes d'assetjament</a>
 </ul>
 
 
 <h2 id="generalinfo">Informació general</h2>
 
 <p>Gairebé tota la informació sobre Debian està emmagatzemada en el nostre lloc
-web, <a href="$(HOME)">https://www.debian.org/</a>, així que navegueu-la i
-<a href="$(SEARCH)">cerqueu</a> per ella abans de contactar-nos.
+web, <a href="$(HOME)">https://www.debian.org/</a>, així que navegueu-hi i
+<a href="$(SEARCH)">cerqueu-hi</a> el que necessiteu abans de contactar-nos.
 
 <p>Les nostres <a href="doc/manuals/debian-faq/">FAQ</a> respondran moltes de les vostres
-preguntes. També podeu obtenir versions en PostScript, text i HTML en
+preguntes. També podeu obtenir-ne versions en PostScript, text i HTML en
 <a href="http://ftp.debian.org/debian/doc/FAQ/">el lloc FTP</a>.
 
 <p>Les preguntes sobre el projecte Debian en general es poden enviar a la
 llista de correu <em>debian-project</em>, en <email debian-project@lists.debian.org>.
-Si us plau, no envieu preguntes sobre l'ús de Linux a aquesta llista. Llegiu
-mes avall per a açò.
+No envieu preguntes sobre l'ús de Linux a aquesta llista. Llegiu
+més avall per a açò.
 
-<h2 id="installuse">Instal·lant i usant Debian</h2>
+<h2 id="installuse">Instal·lació i ús de Debian</h2>
 
-<p>Si esteu segurs que amb la documentació al medi d'instal·lació i a la
-nostra web no trobeu la solució al vostre problema, hi ha una llista de
-correu molt activa a on usuaris i desenvolupadors de Debian podran ajudar-vos,
-la llista de correu <em>debian-user</em>.
-Totes les preguntes referents a:
+<p>Si esteu segur que amb la documentació que hi ha al suport d'instal·lació i al nostre
+web no trobeu la solució al vostre problema, hi ha una llista de correu molt
+activa on usuaris i desenvolupadors de Debian podran ajudar-vos,
+la llista de correu <em>debian-user</em>. Totes les preguntes referents a:
 <ul>
   <li>instal·lació
   <li>configuració
-  <li>maquinari suportat
-  <li>administrar màquines
-  <li>usar Debian
+  <li>maquinari compatible
+  <li>administració de màquines
+  <li>ús de Debian
 </ul>
 s'han d'enviar a aquesta llista de correu.
-Simplement <a href="https://lists.debian.org/debian-user/">subscriviu-vos a
+Només cal que us <a href="https://lists.debian.org/debian-user/">subscriviu a
 <em>debian-user</em></a> i envieu les vostres preguntes a
 <email debian-user@lists.debian.org>.
 
-<p>També hi ha llistes de correu per als usuaris que parlin en
-diferents llengües. Vegeu-ne la
+<p>També hi ha llistes de correu per als usuaris que parlen altres llengües. Vegeu-ne la
 <a href="https://lists.debian.org/users.html#debian-user">informació de
 subscripció a les llistes de correu internacionals</a>.
 
 <!-- Açò no és al original -->
-<p>Si sou catalanoparlants, podeu <a href="MailingLists/subscribe">
-subscriure-vos</a> a <em>debian-user-catalan</em>. A aquesta llista estan
+<p>Si sou catalanoparlants podeu <a href="MailingLists/subscribe">
+subscriure-vos</a> a <em>debian-user-catalan</em>. A aquesta llista hi ha
 subscrits altres usuaris catalanoparlants, als que podeu preguntar en català.
 Envieu les vostres consultes a
-<email debian-user-catalan@lists.debian.org>
+<email debian-user-catalan@lists.debian.org>.
 
-<p>I encara més, podeu navegar les nostres llistes de correu com a grups de
+<p>I encara més, podeu navegar per les nostres llistes de correu com a grups de
 notícies fent servir una interfície web, com
 <a href="http://groups.google.com/">Google</a> o
 <a href="http://gmane.org/">Gmane</a>.
 
 <p>Si penseu que heu trobat un error (bug) al nostre sistema d'instal·lació,
-envieu informació referent al mateix a
+envieu-ne la informació que tingueu a
 <email debian-boot@lists.debian.org>
 o <a href="$(HOME)/releases/stable/i386/ch05s04.html#submit-bug">informeu de l'error</a> al pseudo-paquet <a
 href="https://bugs.debian.org/debian-installer">debian-installer</a>.
 
 <h2 id="press">Publicitat / Premsa</h2>
 
-<p>Aquells que requereixen informació per a articles o notícies per a la
-nostra pàgina de notícies hauran de contactar amb el nostre
+<p>Aquells que necessiteu informació per a articles o notícies per a la
+nostra pàgina de notícies haureu de contactar amb el nostre
 <a href="mailto:press@debian.org">departament de publicitat</a>.
 
-<h2 id="events">Esdeveniments / Conferencies</h2>
+<h2 id="events">Esdeveniments / Conferències</h2>
 
-<p>Invitacions per a <a href="$(HOME)/events/">conferencies</a> i
+<p>Les invitacions per a <a href="$(HOME)/events/">conferències</a> i
 exhibicions o altres tipus d'esdeveniments s'han d'enviar al <a
 href="mailto:events@debian.org">departament d'esdeveniments</a>. Peticions de
 flyers, pòsters i participacions a Europa s'han d'enviar a la
 <a href="mailto:debian-events-eu@lists.debian.org">llista d'esdeveniments</a>
 europeus.</p>
 
-<h2 id="helping">Ajudant a Debian</h2>
+<h2 id="helping">Col·laboració amb Debian</h2>
 
-<p>Si voleu contactar amb Debian per oferir ajuda, si us plau mireu les
-<a href="devel/join/">possibles maneres d'ajudar</a> primer.
+<p>Si voleu contactar amb Debian per oferir ajuda, primer mireu les
+<a href="devel/join/">possibles maneres d'ajudar</a>.
 
 <p>Si voleu mantenir una rèplica de Debian, mireu les pàgines sobre
 <a href="mirror/">fer rèpliques de Debian</a>. Les noves rèpliques s'envien
 fent servir <a href="mirror/submit">aquest formulari</a>. Els problemes amb
 les rèpliques existents es poden informar a <email mirrors@debian.org>.</p>
 
-<p>Si voleu vendre CD de Debian, vegeu la <a href="CD/vendors/info">\
+<p>Si voleu vendre el CD de Debian, vegeu la <a href="CD/vendors/info">\
 informació per a proveïdors de CD</a>. Per a aparèixer en la llista de proveïdors,
-si us plau <a href="CD/vendors/adding-form">feu-ho fent servir aquest
-formulari</a>.</p>
+<a href="CD/vendors/adding-form">sol·liciteu-ho en aquest formulari</a>.</p>
 
-<h2 id="packageproblems">Reportant problemes en paquets Debian</h2>
+<h2 id="packageproblems">Informes de problemes en paquets de Debian</h2>
 
 <p>Si desitgeu enviar un informe d'error d'un paquet de Debian, tenim un
-sistema de seguiment d'errors amb el que podeu informar-nos del problema.
-Si us plau, llegiu les <a href="$(HOME)/Bugs/Reporting">instruccions per a
+sistema de seguiment d'errors amb el qual podeu informar-nos del problema.
+Llegiu les <a href="$(HOME)/Bugs/Reporting">instruccions per a
 informar d'errors</a>.</p>
 
-<p>Si simplement voleu comunicar-vos amb el mantenidor d'un paquet de Debian,
+<p>Si només voleu comunicar-vos amb el mantenidor d'un paquet de Debian,
 podeu fer servir les redireccions de correu especials que existeixen per a cada
-paquet. Qualsevol correu manat a
+paquet. Qualsevol correu enviat a
 &lt;<var>nom del paquet</var>&gt;@packages.debian.org serà reenviat al
 mantenidor responsable d'aquell paquet.
 
 <p>Si desitgeu informar als desenvolupadors d'algun problema de seguretat a
-Debian d'una manera discreta, envieu correu a
+Debian d'una manera discreta, envieu un missatge a
 <email security@debian.org>.
 
 <h2 id="development">Desenvolupament de Debian</h2>
 
-<p>Si la vostra pregunta està més relacionada amb la qüestió del
-desenvolupament, existeixen varies
+<p>Si la vostra pregunta està més relacionada amb temes de
+desenvolupament, hi ha diverses
 <a href="https://lists.debian.org/devel.html">llistes de correu de desenvolupament</a>
 a Debian que podeu fer servir per a contactar amb els nostres desenvolupadors.
 
 <p>La llista de correu general de desenvolupament és <em>debian-devel</em>:
-podeu <a href="https://lists.debian.org/debian-devel/">subscriure-vos</a>
-i després enviar correu a
+us hi podeu <a href="https://lists.debian.org/debian-devel/">subscriure</a>
+i després enviar missatges a
 <email debian-devel@lists.debian.org>.
 
-<h2 id="infrastructure">Problemes amb infraestructura de Debian</h2>
+<h2 id="infrastructure">Problemes amb la infraestructura de Debian</h2>
 
 <p>Per informar de problemes en qualsevol servei de Debian, normalment podeu
 enviar un informe d'error al <a href="Bugs/pseudo-packages">pseudo-paquet</a>
 apropiat.</p>
 
-<p>Alternativament, podeu feu servir el correu per a contactar-los.
+<p>Altrament podeu feu servir l'adreça de correu per a contactar-hi.
 
 <define-tag btsurl>paquet: <a href="https://bugs.debian.org/%0">%0</a></define-tag>
 
@@ -168,6 +172,14 @@ apropiat.</p>
       <email owner@bugs.debian.org></dd>
 </dl>
 
+<h2 id="harassment">Problemes d'assetjament</h2>
+
+<p>Debian és una comunitat de gent que valorem el respecte i el diàleg. Si sou
+víctima de qualsevol comportament que fereixi els vostres sentiments o heu estat assetjat,
+ja sigui durant una conferència o esprint organitzat pel projecte, o a través d'interaccions
+generals del projecte, contacteu-nos a: <email
+antiharassment@debian.org>.</p>
+
 <p>També tenim una completa llista de diferents
-<a href="intro/organization">càrrecs i correus</a> usats per a contactar amb
+<a href="intro/organization">càrrecs i adreces de correu</a> a utilitzar per a contactar amb
 les diverses parts de l'organització.
