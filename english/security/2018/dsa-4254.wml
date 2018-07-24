@@ -1,0 +1,34 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities were discovered in the Simple Linux Utility for
+Resource Management (SLURM), a cluster resource management and job
+scheduling system. The Common Vulnerabilities and Exposures project
+identifies the following problems:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7033">CVE-2018-7033</a>
+
+    <p>Incomplete sanitization of user-provided text strings could lead to
+    SQL injection attacks against slurmdbd.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10995">CVE-2018-10995</a>
+
+    <p>Insecure handling of user_name and gid fields leading to improper
+    authentication handling.</p></li>
+
+</ul>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 16.05.9-1+deb9u2.</p>
+
+<p>We recommend that you upgrade your slurm-llnl packages.</p>
+
+<p>For the detailed security status of slurm-llnl please refer to its
+security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/slurm-llnl">https://security-tracker.debian.org/tracker/slurm-llnl</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4254.data"
+# $Id: $
