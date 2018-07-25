@@ -1,0 +1,35 @@
+#use wml::debian::translation-check translation="d35310fd10413405f3f75514ca57e7d4cc6b8085" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В Simple Linux Utility for Resource Management (SLURM), системе
+управления ресурсами кластера и планировщике заданий, было обнаружено
+несколько уязвимостей. Проект Common Vulnerabilities and Exposures
+определяет следующие пробемы:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7033">CVE-2018-7033</a>
+
+    <p>Неполная очистка передаваемых пользователем текстовых строк может приводить
+    к SQL-инъекциям в slurmdbd.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10995">CVE-2018-10995</a>
+
+    <p>Небезопасная обработка полей user_name и gid приводит к неправильной работе
+    аутентификации.</p></li>
+
+</ul>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 16.05.9-1+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты slurm-llnl.</p>
+
+<p>С подробным статусом поддержки безопасности slurm-llnl можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/slurm-llnl">\
+https://security-tracker.debian.org/tracker/slurm-llnl</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4254.data"
