@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians utvecklarhörna" BARETITLE="true"
-#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a"
+#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991"
 
 <p>Informationen på denna sida är främst av intresse för utvecklare,
 men finns tillgänglig för alla.
@@ -278,8 +278,8 @@ men finns tillgänglig för alla.
         information för utvecklare.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">
-        Paketspårningssystemet</a></dt>
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">
+        Debians Paketspårningssystem</a></dt>
         <dd>
         För utvecklare som vill hålla sig à jour med andra paket ger
         paketspårningsystemet möjlighet att prenumerera (per e-post) på
@@ -329,7 +329,7 @@ men finns tillgänglig för alla.
         Debianwikin ger råd för utvecklare och andra bidragsgivare.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#s4.6.4">
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">\
             Den experimentella utgåvan</a></dt>
         <dd>
         Den <em>experimentella</em> utgåvan används som en temporär
@@ -406,7 +406,7 @@ men finns tillgänglig för alla.
         <dt>Konvertera PGP-nycklar till GPG:</dt>
         <dd>
         Informationen om detta finns i
-        <a href="$(DOC)/manuals/developers-reference/developer-duties#key-maint">
+        <a href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">
         utvecklarreferensen</a>.
         Ytterligare användbar information vad gäller signering av en
         GPG-nyckel med en PGP-dito finns i
