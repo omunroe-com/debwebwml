@@ -1,5 +1,5 @@
 #use wml::debian::template title="Le coin du développeur Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Jean-Paul Guillonneau"
 
 # Original translation by Christian Couder
 # Previous translator Pierre Machard
@@ -304,12 +304,11 @@ intégré dans les récentes versions de la Charte.
     informations précieuses aux développeurs.
   </dd>
 
-  <dt><a
-    href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">Le
-    système de suivi de paquets</a></dt>
+  <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">
+    Le suivi de paquets (Debian Package Tracker)</a></dt>
   <dd>
-    Le système de suivi de paquets permet aux développeurs, désireux de
-    conserver un œil sur certains paquets, de s'inscrire (<i>via</i> le
+    Le suivi de paquets permet aux développeurs, désireux de
+    conserver un œil sur certains paquets, de s'inscrire (à l’aide du
     courrier électronique), à un service qui leur enverra par courriel les
     notifications du système de gestion des bogues et les annonces de
     disponibilité qui concernent ces paquets.
@@ -350,8 +349,8 @@ intégré dans les récentes versions de la Charte.
 Le wiki rassemble des conseils pour les développeurs et autres contributeurs.
   </dd>
 
-  <dt><a href="$(DOC)/manuals/developers-reference/resources#s4.6.4">La
-    distribution expérimentale</a></dt>
+  <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">\
+   La distribution expérimentale</a></dt>
   <dd>
     La distribution expérimentale est utilisée comme zone d'entraînement pour
     des logiciels très expérimentaux. N'utilisez les <a
@@ -444,7 +443,7 @@ parfaitement dans le système Debian. Cela inclut&nbsp;:
   <dt>Convertir les clés PGP en clés GPG&nbsp;:</dt>
   <dd>
     Il y a des informations sur ce sujet dans la <a
-    href="$(DOC)/manuals/developers-reference/developer-duties#key-maint">\
+    href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">\
     référence du développeur</a>. Vous pouvez trouver des informations plus
     utiles concernant la signature d'une clé GPG avec une clé PGP dans le
     fichier <em>/usr/share/doc/debian-keyring/README.gz</em> du paquet
