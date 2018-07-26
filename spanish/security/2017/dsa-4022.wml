@@ -1,0 +1,18 @@
+#use wml::debian::translation-check translation="d57e0696b81ec71b2e66010597a95afb35b84797"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Marcin Noga descubrió dos vulnerabilidades en LibreOffice que podrían
+dar lugar a ejecución de código arbitrario si se abre un documento PPT
+o DOC mal construido.</p>
+
+<p>Para la distribución «antigua estable» (jessie), estos problemas se han corregido
+en la versión 1:4.3.3-2+deb8u9.</p>
+
+<p>Estas vulnerabilidades se corrigieron en Libreoffice 5.0.2, así que la versión
+de la distribución «estable» (stretch) no está afectada.</p>
+
+<p>Le recomendamos que actualice los paquetes de libreoffice.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2017/dsa-4022.data"
