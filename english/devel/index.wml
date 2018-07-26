@@ -250,11 +250,11 @@ to Debian developers.</p>
         provide collections of valuable information to maintainers.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">The
-        Package Tracking System</a></dt>
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">The
+        Debian Package Tracker</a></dt>
         <dd>
         For developers that wish to keep up-to-date with other packages, the
-        package tracking system allows them to subscribe (through email) to a
+        package tracker allows them to subscribe (through email) to a
         service that will send them copies of BTS mails and notifications
         for uploads and installations concerning the packages subscribed to.
         </dd>
@@ -295,7 +295,7 @@ to Debian developers.</p>
 	The Debian wiki gathers advice for developers and other contributors.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#s4.6.4">\
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">\
             Experimental distribution</a></dt>
         <dd>
         The <em>experimental</em> distribution is used as a temporary
@@ -373,7 +373,7 @@ to Debian developers.</p>
         <dt>Converting PGP keys to GPG:</dt>
         <dd>
         There is information on this in the
-        <a href="$(DOC)/manuals/developers-reference/developer-duties#key-maint">
+        <a href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">
         developers' reference</a>. You can get some more useful information
         on signing a GPG key with a PGP key from the
         <em>/usr/share/doc/debian-keyring/README.gz</em> file in the
