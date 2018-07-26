@@ -24,3 +24,13 @@ Basics:
 Translations:
 
  * opencc          (Chinese translation conversions)
+
+
+------------------
+
+To see the results of a build before pushing it out to the mirror network 
+you can build in www-master.debian.org and then have a look at:
+
+https://www-staging.debian.org/
+
+------------------
