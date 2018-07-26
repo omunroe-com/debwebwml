@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 開發者天地" BARETITLE="true"
-#use wml::debian::translation-check translation="83e7c9d3117e07a0acc4360149be71547b0ec7a7" maintainer="Hsin-lin Cheng"
+#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Hsin-lin Cheng"
 
 <p>本網頁的公開資訊主要提供給有興趣成為 Debian 開發者的人。</p>
 
@@ -115,16 +115,16 @@
         <br />涵蓋任何關於 Perl 套件打包的子方針。</li>
         <li><a href="$(DOC)/packaging-manuals/python-policy/">Python 方針</a>
         <br />涵蓋任何關於 Python 套件打包的子方針建議。</li>
-	<li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">Debian CLI 方針</a>
-	<br />關於打包 Mono 、其他 CLR 與 CLI 應用程式還有函式庫的基本方針。</li>
+#	<li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">Debian CLI 方針</a>
+#	<br />關於打包 Mono 、其他 CLR 與 CLI 應用程式還有函式庫的基本方針。</li>
         <li><a href="$(DOC)/packaging-manuals/debconf_specification.html">Debconf 規格書</a>
         <br />建構管理子系統 "debconf" 規格書。</li>
-        <li><a href="https://dict-common.alioth.debian.org/">拼寫字典與工具方針</a>
-        <br /><kbd>ispell</kbd> / <kbd>myspell</kbd> 字典與詞彙表子方針。</li>
-        <li><a href="https://webapps-common.alioth.debian.org/draft/html/">Webapps 方針手冊</a> (草稿)
-	<br />網頁應用程式的子方針。</li>
-        <li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">PHP 方針</a> (草稿)
-	<br />PHP 的套件打包標準。</li>
+#        <li><a href="https://dict-common.alioth.debian.org/">拼寫字典與工具方針</a>
+#        <br /><kbd>ispell</kbd> / <kbd>myspell</kbd> 字典與詞彙表子方針。</li>
+#        <li><a href="https://webapps-common.alioth.debian.org/draft/html/">Webapps 方針手冊</a> (草稿)
+#	<br />網頁應用程式的子方針。</li>
+#        <li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">PHP 方針</a> (草稿)
+#	<br />PHP 的套件打包標準。</li>
 	<li><a href="https://www.debian.org/doc/manuals/dbapp-policy/">資料庫應用程式方針</a> (草稿)
 	<br />一系列資料庫應用程式套件的指引與最佳實務。</li>
 	<li><a href="https://tcltk-team.pages.debian.net/policy-html/tcltk-policy.html/">Tcl/Tk 方針</a> (草稿)
@@ -186,15 +186,15 @@
         <dt>套件概況，從開發者的角度來看</dt>
         <dd>
 	<a href="https://qa.debian.org/developer.php">套件資訊</a>
-        與<a href="https://packages.qa.debian.org/">套件追蹤</a>網頁
+        與<a href="https://tracker.debian.org/">套件追蹤</a>網頁
         提供維護者有價值的資訊集。
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">
         套件追蹤系統</a></dt>
         <dd>
         提供給希望維持套件為最新狀態的開發者，套件追蹤系統可以讓他們訂閱 (透過電子郵件)
-        某套件即時的 BTS 郵件、上傳及安裝狀態的通知。
+        某套件即時的缺陷追踪系统郵件、上傳及安裝狀態的通知。
         </dd>
 
         <dt><a href="wnpp/">需要協助的套件 (WNPP)</a></dt>
@@ -226,7 +226,7 @@
         Debian 维基（Wiki）搜集来自开发者和贡献者的建议。
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#s4.6.4">
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">
             實驗版本 (Experimental distribution)</a></dt>
         <dd>
         <em>實驗</em>版本是用來暫放高度實驗性軟體的臨時地方。
@@ -295,7 +295,7 @@
       <dl>
         <dt>轉換 PGP keys 成為 GPG：</dt>
         <dd>
-        在 <a href="$(DOC)/manuals/developers-reference/developer-duties#key-maint">
+        在 <a href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">
         开发者指南</a> 中有相关信息。
         You can get some more useful information
         on signing a GPG key with a PGP key from the
