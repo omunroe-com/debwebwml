@@ -1,0 +1,163 @@
+#use wml::debian::translation-check translation="7a643f3f84873f2bbfa6b6f02ffdfd6c854ad652" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В веб-браузере chromium было обнаружено несколько уязвимостей.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4117">CVE-2018-4117</a>
+
+    <p>AhsanEjaz обнаружил утечку информации.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6044">CVE-2018-6044</a>
+
+    <p>Роб Ву обнаружил возможность поднять привилегии с помощью расширений.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6150">CVE-2018-6150</a>
+
+    <p>Роб Ву обнаружил раскрытие информации (эта проблемы была исправлена
+    в предыдущем выпуске, но по ошибке в то время сообщение об исправлении
+    было пропущено).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6151">CVE-2018-6151</a>
+
+    <p>Роб Ву обнаружил проблему в инструментах разработчика (эта проблемы была исправлена
+    в предыдущем выпуске, но по ошибке в то время сообщение об исправлении
+    было пропущено).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6152">CVE-2018-6152</a>
+
+    <p>Роб Ву обнаружил проблему в инструментах разработчика (эта проблемы была исправлена
+    в предыдущем выпуске, но по ошибке в то время сообщение об исправлении
+    было пропущено).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6153">CVE-2018-6153</a>
+
+    <p>Чжэнь Чжоу обнаружил переполнение буфера в библиотеке skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6154">CVE-2018-6154</a>
+
+    <p>Omair обнаружил переполнение буфера в реализации WebGL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6155">CVE-2018-6155</a>
+
+    <p>Натали Сильванович обнаружила использование указателей после освобождения памяти
+    в реализации WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6156">CVE-2018-6156</a>
+
+    <p>Натали Сильванович обнаружила переполнение буфера в реализации
+    WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6157">CVE-2018-6157</a>
+
+    <p>Натали Сильванович обнаружила путаницу в типах в реализации
+    WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6158">CVE-2018-6158</a>
+
+    <p>Чжэ Цзинь обнаружил использование указателей после освобождения памяти.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6159">CVE-2018-6159</a>
+
+    <p>Цзюнь Кокатсу обнаружил возможность обхода правила одного источника.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6161">CVE-2018-6161</a>
+
+    <p>Цзюнь Кокатсу обнаружил возможность обхода правила одного источника.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6162">CVE-2018-6162</a>
+
+    <p>Omair обнаружил переполнение буфера в реализации WebGL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6163">CVE-2018-6163</a>
+
+    <p>Халил Жани обнаружил возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6164">CVE-2018-6164</a>
+
+    <p>Цзюнь Кокатсу обнаружил возможность обхода правила одного источника.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6165">CVE-2018-6165</a>
+
+    <p>evil1m0 обнаружил возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6166">CVE-2018-6166</a>
+
+    <p>Линас Чжан обнаружил возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6167">CVE-2018-6167</a>
+
+    <p>Линас Чжан обнаружил возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6168">CVE-2018-6168</a>
+
+    <p>Гюнеш Акар и Дэнни Хуан обнаружили способ обхода правила разделения ресурсов
+    между источниками.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6169">CVE-2018-6169</a>
+
+    <p>Sam P обнаружил способ обхода ограничений прав доступа при установке
+    расширений.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6170">CVE-2018-6170</a>
+
+    <p>В библиотеке pdfium была обнаружена путаница типов.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6171">CVE-2018-6171</a>
+
+    <p>В реализации WebBluetooth было обнаружено использование указателей
+    после освобождения памяти.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6172">CVE-2018-6172</a>
+
+    <p>Халил Жани обнаружил возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6173">CVE-2018-6173</a>
+
+    <p>Халил Жани обнаружил возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6174">CVE-2018-6174</a>
+
+    <p>Марк Бранд обнаружил переполнение целых чисел в библиотеке
+    swiftshader.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6175">CVE-2018-6175</a>
+
+    <p>Халил Жани обнаружил возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6176">CVE-2018-6176</a>
+
+    <p>Янн Хорн обнаружил возможность поднятия привилегий при использовании расширений.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6177">CVE-2018-6177</a>
+
+    <p>Рон Масас обнаружил утечку информации.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6178">CVE-2018-6178</a>
+
+    <p>Халил Жани обнаружил возможность подделки пользовательского интерфейса.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6179">CVE-2018-6179</a>
+
+    <p>Было обнаружено, что информация о локальных файлах может быть доступна
+    дополнениями.</p>
+
+<p>Также данная версия исправляет регрессию, появившуюся в предыдущем обновлении
+безопасности, которая может помешать декодированию определённых аудио/видео кодеков.</p></li>
+
+</ul>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 68.0.3440.75-1~deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты chromium-browser.</p>
+
+<p>С подробным статусом поддержки безопасности chromium-browser можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">\
+https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4256.data"
