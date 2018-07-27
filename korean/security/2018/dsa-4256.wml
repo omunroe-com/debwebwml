@@ -1,0 +1,162 @@
+#use wml::debian::translation-check translation="7a643f3f84873f2bbfa6b6f02ffdfd6c854ad652" maintainer="Sebul"
+<define-tag description>보안 업데이트</define-tag>
+<define-tag moreinfo>
+<p>여러 취약점을 크롬 웹 브라우저에서 발견했습니다.
+</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4117">CVE-2018-4117</a>
+
+    <p>AhsanEjaz discovered an information leak.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6044">CVE-2018-6044</a>
+
+    <p>Rob Wu discovered a way to escalate privileges using extensions.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6150">CVE-2018-6150</a>
+
+    <p>Rob Wu discovered an information disclosure issue (this problem was
+    fixed in a previous release but was mistakenly omitted from upstream's
+    announcement at the time).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6151">CVE-2018-6151</a>
+
+    <p>Rob Wu discovered an issue in the developer tools (this problem  was
+    fixed in a previous release but was mistakenly omitted from upstream's
+    announcement at the time).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6152">CVE-2018-6152</a>
+
+    <p>Rob Wu discovered an issue in the developer tools (this problem  was
+    fixed in a previous release but was mistakenly omitted from upstream's
+    announcement at the time).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6153">CVE-2018-6153</a>
+
+    <p>Zhen Zhou discovered a buffer overflow issue in the skia library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6154">CVE-2018-6154</a>
+
+    <p>Omair discovered a buffer overflow issue in the WebGL implementation.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6155">CVE-2018-6155</a>
+
+    <p>Natalie Silvanovich discovered a use-after-free issue in the WebRTC
+    implementation.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6156">CVE-2018-6156</a>
+
+    <p>Natalie Silvanovich discovered a buffer overflow issue in the WebRTC
+    implementation.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6157">CVE-2018-6157</a>
+
+    <p>Natalie Silvanovich discovered a type confusion issue in the WebRTC
+    implementation.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6158">CVE-2018-6158</a>
+
+    <p>Zhe Jin discovered a use-after-free issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6159">CVE-2018-6159</a>
+
+    <p>Jun Kokatsu discovered a way to bypass the same origin policy.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6161">CVE-2018-6161</a>
+
+    <p>Jun Kokatsu discovered a way to bypass the same origin policy.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6162">CVE-2018-6162</a>
+
+    <p>Omair discovered a buffer overflow issue in the WebGL implementation.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6163">CVE-2018-6163</a>
+
+    <p>Khalil Zhani discovered a URL spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6164">CVE-2018-6164</a>
+
+    <p>Jun Kokatsu discovered a way to bypass the same origin policy.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6165">CVE-2018-6165</a>
+
+    <p>evil1m0 discovered a URL spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6166">CVE-2018-6166</a>
+
+    <p>Lynas Zhang discovered a URL spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6167">CVE-2018-6167</a>
+
+    <p>Lynas Zhang discovered a URL spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6168">CVE-2018-6168</a>
+
+    <p>Gunes Acar and Danny Y. Huang discovered a way to bypass the Cross
+    Origin Resource Sharing policy.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6169">CVE-2018-6169</a>
+
+    <p>Sam P discovered a way to bypass permissions when installing
+    extensions.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6170">CVE-2018-6170</a>
+
+    <p>A type confusion issue was discovered in the pdfium library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6171">CVE-2018-6171</a>
+
+    <p>A use-after-free issue was discovered in the WebBluetooth
+    implementation.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6172">CVE-2018-6172</a>
+
+    <p>Khalil Zhani discovered a URL spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6173">CVE-2018-6173</a>
+
+    <p>Khalil Zhani discovered a URL spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6174">CVE-2018-6174</a>
+
+    <p>Mark Brand discovered an integer overflow issue in the swiftshader
+    library.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6175">CVE-2018-6175</a>
+
+    <p>Khalil Zhani discovered a URL spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6176">CVE-2018-6176</a>
+
+    <p>Jann Horn discovered a way to escalate privileges using extensions.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6177">CVE-2018-6177</a>
+
+    <p>Ron Masas discovered an information leak.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6178">CVE-2018-6178</a>
+
+    <p>Khalil Zhani discovered a user interface spoofing issue.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6179">CVE-2018-6179</a>
+
+    <p>It was discovered that information about files local to the system
+    could be leaked to extensions.</p>
+
+<p>This version also fixes a regression introduced in the previous security
+update that could prevent decoding of particular audio/video codecs.</p></li>
+
+</ul>
+
+<p>안정 배포(stretch)에서, 이 문제는 버전 68.0.3440.75-1~deb9u1 에서 고쳤습니다.</p>
+
+<p>chromium-browser 패키지를 업그레이드 하는 게 좋습니다.</p>
+
+<p>크롬 웹 브라우저에 대한 자세한 보안 상태는 보안 추적 페이지 참조하세요:
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">\
+https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4256.data"
