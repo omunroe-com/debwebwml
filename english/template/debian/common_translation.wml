@@ -33,6 +33,12 @@
 <define-tag contactus whitespace=delete>
   <gettext>Contact Us</gettext>
 </define-tag>
+<define-tag legalinfo whitespace=delete>
+  <gettext>Legal Info</gettext>
+</define-tag>
+<define-tag dataprivacy whitespace=delete>
+  <gettext>Data Privacy</gettext>
+</define-tag>
 <define-tag donations whitespace=delete>
   <gettext>Donations</gettext>
 </define-tag>
