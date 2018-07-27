@@ -407,7 +407,22 @@ msgstr ""
 "sin precisar apenas conocimientos sobre Linux o redes. Esto incluye 15 "
 "servicios preconfigurados, y un entorno localizado (traducido)."
 
-#: ../../english/partners/partners.def:172
+#: ../../english/partners/partners.def:173
+msgid ""
+"<a href=\"https://www.stackpath.com/?utm_campaign=Partner"
+"%20Display&utm_source=Partner%20Display&utm_medium=Debian\">StackPath</a> "
+"provides Debian with content delivery network (CDN) services, allowing high "
+"availability of services like <a href=\"https://security-tracker.debian.org/"
+"\">the Security Bug Tracker</a> and <a href=\"https://planet.debian.org/"
+"\">Planet Debian</a>.</p>\n"
+" </define-tag>\n"
+" <define-tag stackpath2 whitespace=delete>\n"
+" <p><gettext domain=\"partners\">StackPath is a platform of secure edge "
+"services that enables developers to protect, accelerate, and innovate cloud "
+"properties ranging from websites to media delivery and IoT services."
+msgstr ""
+
+#: ../../english/partners/partners.def:182
 msgid ""
 "<a href=\"http://www.telegraaf.nl/\">Telegraaf Media ICT BV</a> is "
 "supporting the Debian community by donating hardware, rackspace and "
@@ -417,7 +432,7 @@ msgstr ""
 "comunidad Debian donando hardware, racks y ancho de banda para el "
 "alojamiento de los servidores Debian alioth, arch y svn."
 
-#: ../../english/partners/partners.def:175
+#: ../../english/partners/partners.def:185
 msgid ""
 "Telegraaf Media ICT BV is running its internet infrastructure (appx. 200 "
 "Intel based servers) mainly based on Debian GNU/Linux servers; the sysadmins "
@@ -428,7 +443,7 @@ msgstr ""
 "servidores Debian GNU/Linux; los administradores de sistemas son usuarios de "
 "Debian altamente motivados y algunos son también mantenedores de Debian."
 
-#: ../../english/partners/partners.def:178
+#: ../../english/partners/partners.def:188
 msgid ""
 "Telegraaf Media Group runs some of the most popular Dutch websites (http://"
 "www.telegraaf.nl, http://www.speurders.nl and http://www.dft.nl) as well as "
@@ -438,7 +453,7 @@ msgstr ""
 "más populares (http://www.telegraaf.nl, http://www.speurders.nl y http://www."
 "dft.nl) así­ como los dos periódicos más grandes de los Paí­ses Bajos."
 
-#: ../../english/partners/partners.def:184
+#: ../../english/partners/partners.def:194
 msgid ""
 "<a href=\"http://www.thomas-krenn.com\">Thomas Krenn</a> has provided a new "
 "high-end server for the Debian cdbuilder service. In addition, Thomas Krenn "
@@ -454,7 +469,7 @@ msgstr ""
 "Krenn en la comunidad Linux de software libre, vea <a href=\"http://www."
 "thomas-krenn.com/linux\">http://www.thomas-krenn.com/linux</a>."
 
-#: ../../english/partners/partners.def:187
+#: ../../english/partners/partners.def:197
 msgid ""
 "<a href=\"http://www.thomas-krenn.com\">Thomas Krenn</a> is Europe's leading "
 "online shop for server systems and high-quality hosting. They offer rack-"
@@ -471,7 +486,7 @@ msgstr ""
 "configurados individualmente en 24h a toda Europa. Y por supuesto, ¡soportan "
 "Debian como sistema operativo en sus servidores!"
 
-#: ../../english/partners/partners.def:193
+#: ../../english/partners/partners.def:203
 msgid ""
 "<a href=\"http://www.trustsec.de/\">trustsec</a> pays two Debian developers "
 "to work on the S/390 port of Debian and packages mainly related to Java. "
@@ -486,7 +501,7 @@ msgstr ""
 "zSeries. También pagaron y trabajaron en los CDs gratuitos que se dieron en "
 "la LinuxTag de 2001 en Stuttgart."
 
-#: ../../english/partners/partners.def:196
+#: ../../english/partners/partners.def:206
 msgid ""
 "trustsec offers customer support, consulting and training for Debian on the "
 "Intel PC architecture (i386), PowerPC and IBM S/390 and is specialized on "
@@ -499,7 +514,7 @@ msgstr ""
 "favor, enví­e un correo a <a href=\"mailto:info@trustsec.de\">info@trustsec."
 "de</a> para obtener más información."
 
-#: ../../english/partners/partners.def:207
+#: ../../english/partners/partners.def:217
 msgid ""
 "<A HREF=\"http://www.brainfood.com/\">Brainfood</A> (previously called "
 "Novare) provides several machines to Debian, as well as hosting and server "
@@ -509,7 +524,7 @@ msgstr ""
 "proporciona varias máquinas a Debian, así­ como servicios de administración "
 "de servidores y alojamiento."
 
-#: ../../english/partners/partners.def:210
+#: ../../english/partners/partners.def:220
 msgid ""
 "Brainfood is a technology solutions company whose goal is to work to produce "
 "an ideal result for a specific need, whether it's a website or an ongoing, "
@@ -524,7 +539,7 @@ msgstr ""
 "contacto con <A HREF=\"mailto:debian-contact@brainfood.com\">debian-"
 "contact@brainfood.com</A>."
 
-#: ../../english/partners/partners.def:217
+#: ../../english/partners/partners.def:227
 msgid ""
 "<a href=\"http://www.hp.com/\">Hewlett-Packard</a> has provided hardware for "
 "port development, Debian mirrors, and other Debian services (current HP "
@@ -540,7 +555,7 @@ msgstr ""
 "informarse acerca de la implicación de HP en la comunidad Linux, vea <a href="
 "\"http://www.hp.com/products1/linux/\">HP Linux</a>."
 
-#: ../../english/partners/partners.def:220
+#: ../../english/partners/partners.def:230
 msgid ""
 "Hewlett-Packard is one of the largest computer companies in the world, "
 "providing a wide range of products and services, such as servers, PCs, "
@@ -552,7 +567,7 @@ msgstr ""
 "impresoras, sistemas de almacenamiento, equipos de red, software, soluciones "
 "de computación en la nube, etc."
 
-#: ../../english/partners/partners.def:227
+#: ../../english/partners/partners.def:237
 msgid ""
 "<A HREF=\"http://www.linuxcentral.com/\">Linux Central</A> provides us with "
 "Debian GNU/Linux CD-ROM sets for trade show type events. These CD's help to "
@@ -564,7 +579,7 @@ msgstr ""
 "Estos CDs ayudan a promover Debian poniendo el sistema en las manos de los "
 "usuarios potenciales y actuales."
 
-#: ../../english/partners/partners.def:231
+#: ../../english/partners/partners.def:241
 msgid ""
 "Linux Central sells all the latest releases of Linux products such as "
 "commercial software, books, hardware, and versions of major Linux "
@@ -581,7 +596,7 @@ msgstr ""
 "&nbsp;Para más información, póngase en contacto con <A HREF=\"mailto:"
 "sales@linuxcentral.com\">sales@linuxcentral.com</A>."
 
-#: ../../english/partners/partners.def:238
+#: ../../english/partners/partners.def:248
 msgid ""
 "<a href=\"http://www.mythic-beasts.com\">Mythic Beasts Ltd.</a> supports "
 "Debian (and SPI Inc) by providing domain registration facilities.</p><p>They "
@@ -592,7 +607,7 @@ msgstr ""
 "p><p>Es una empresa de alojamiento web, registro de dominio y co-"
 "localización, ubicada en Reino Unido."
 
-#: ../../english/partners/partners.def:245
+#: ../../english/partners/partners.def:255
 msgid ""
 "San Francisco based <a href=\"http://www.nostarch.com/\">No Starch Press</"
 "a>, publisher of \"The Finest in Geek Entertainment,\" is co-publisher of "
@@ -610,7 +625,7 @@ msgstr ""
 "programación, y LEGO. No Starch Press dona al Proyecto Debian 1US$ de la "
 "venta de cada copia de \"El Sistema Debian\"."
 
-#: ../../english/partners/partners.def:252
+#: ../../english/partners/partners.def:262
 msgid ""
 "<a href=\"http://www.opensourcepress.de/\">Open Source Press</a> is the "
 "Munich-based publisher of the book <a href=\"http://debiansystem.info/\">The "
@@ -622,7 +637,7 @@ msgstr ""
 "Sistema Debian</a>. Por cada libro vendido, el editor y el autor "
 "conjuntamente donan 1&euro; al Proyecto Debian."
 
-#: ../../english/partners/partners.def:255
+#: ../../english/partners/partners.def:265
 msgid ""
 "Open Source Press specialises on books around Linux and Open Source "
 "Software, written by authors with considerable experience in the fields, and "
@@ -634,7 +649,7 @@ msgstr ""
 "producidos en cooperación estrecha con sus respectivas comunidades. Las "
 "publicaciones de Open Source Press son famosas por su calidad y profundidad."
 
-#: ../../english/partners/partners.def:263
+#: ../../english/partners/partners.def:273
 msgid ""
 "<a href=\"http://www.rapidswitch.com/\">RapidSwitch</a> (formely Black Cat "
 "Networks) is a UK ISP specialising in dedicated hosting. It provides "
@@ -646,7 +661,7 @@ msgstr ""
 "dedicado. Proporciona servidores dedicados, soluciones de servidores "
 "gestionados, servicios de colocación y servidores virtuales VPS."
 
-#: ../../english/partners/partners.def:266
+#: ../../english/partners/partners.def:276
 msgid ""
 "It hosts a Debian development machine, <a href=\"https://db.debian.org/"
 "machines.cgi?host=caballero\">caballero</a>."
@@ -654,7 +669,7 @@ msgstr ""
 "Aloja una máquina de desarrollo de Debian, <a href=\"https://db.debian.org/"
 "machines.cgi?host=caballero\">caballero</a>."
 
-#: ../../english/partners/partners.def:274
+#: ../../english/partners/partners.def:284
 msgid ""
 "<a href=\"http://www.simtec.co.uk\">Simtec</a> has provided several ARM "
 "machines which make up the bulk of the Debian ARM infrastructure. In "
@@ -666,7 +681,7 @@ msgstr ""
 "Además, Simtec emplea a varios desarrolladores que contribuyen a través de "
 "la adaptación de Debian a ARM."
 
-#: ../../english/partners/partners.def:277
+#: ../../english/partners/partners.def:287
 msgid ""
 "Simtec is a leading provider of ARM based computing products. We have a "
 "range of <a href=\"http://www.simtec.co.uk/products/boards.html\">boards</a> "
@@ -686,11 +701,14 @@ msgstr ""
 "operativos de software libre."
 
 #~ msgid ""
-#~ "They are a UK based web hosting, domain registration and co-location "
-#~ "company."
+#~ "credativ is a service oriented company focusing on open-source software "
+#~ "since its foundation in 1999. World-wide Debian support is provided by "
+#~ "credativ's <q>Open Source Support Centers</q> around the globe."
 #~ msgstr ""
-#~ "Son una empresa de alojamiento web, registro de dominio y co-localización "
-#~ "basada en Reino Unido."
+#~ " credativ es una empresa orientada a servicios, enfocada en software de "
+#~ "código abierto desde su fundación en 1999. Proporciona soporte a Debian a "
+#~ "nivel mundial a través de los <q>Centros de Soporte de Código Abierto</q> "
+#~ "de credativ en todo el globo."
 
 #~ msgid ""
 #~ "A large number of credativ staff are Debian developers, several of them "
@@ -704,11 +722,8 @@ msgstr ""
 #~ "visite <url \"http://www.credativ.com/\">."
 
 #~ msgid ""
-#~ "credativ is a service oriented company focusing on open-source software "
-#~ "since its foundation in 1999. World-wide Debian support is provided by "
-#~ "credativ's <q>Open Source Support Centers</q> around the globe."
+#~ "They are a UK based web hosting, domain registration and co-location "
+#~ "company."
 #~ msgstr ""
-#~ " credativ es una empresa orientada a servicios, enfocada en software de "
-#~ "código abierto desde su fundación en 1999. Proporciona soporte a Debian a "
-#~ "nivel mundial a través de los <q>Centros de Soporte de Código Abierto</q> "
-#~ "de credativ en todo el globo."
+#~ "Son una empresa de alojamiento web, registro de dominio y co-localización "
+#~ "basada en Reino Unido."
