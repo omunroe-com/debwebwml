@@ -3,11 +3,13 @@
 # TODO: a better introduction!
 <p>This section of the Debian web site is for legal issues.</p>
 
-<h2>Current things</h2>
+<h2>Legal information</h2>
 
 <ul>
   <li><a href="licenses/">License summaries</a></li>
   <li><a href="$(HOME)/trademark">Trademarks</a></li>
+  <li><a href="privacy">Privacy policy</a></li>
+  <li><a href="patent">Patent policy</a></li>
   <li><a href="cryptoinmain">Crypto in main</a>
     <ul>
       <li><a href="notificationforarchive">Initial notification for the archive</a></li>
@@ -15,7 +17,6 @@
     </ul>
   </li>
   <li><a href="anssi">Cryptographic export/import attestation</a></li>
-  <li><a href="patent">Patent policy</a></li>
 </ul>
 
 <h2>Mailing list</h2>
