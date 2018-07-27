@@ -140,12 +140,11 @@
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6179">CVE-2018-6179</a>
 
     <p>It was discovered that information about files local to the system
-    could be leaked to extensions.</p>
+    could be leaked to extensions.</p></li>
+</ul>
 
 <p>This version also fixes a regression introduced in the previous security
-update that could prevent decoding of particular audio/video codecs.</p></li>
-
-</ul>
+update that could prevent decoding of particular audio/video codecs.</p>
 
 <p>For the stable distribution (stretch), these problems have been fixed in
 version 68.0.3440.75-1~deb9u1.</p>
