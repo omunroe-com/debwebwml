@@ -1,0 +1,165 @@
+#use wml::debian::translation-check translation="65f56a46642aa27f4d3f4487d2d6322db1e2585d" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i webbläsaren chromium.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4117">CVE-2018-4117</a>
+
+    <p>AhsanEjaz upptäckte ett informationsläckage.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6044">CVE-2018-6044</a>
+
+	<p>Rob Wu upptäckte ett sätt att öka rättigheter med hjälp av tilläggsmoduler.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6150">CVE-2018-6150</a>
+
+	<p>Rob Wu upptäckte ett problem med utlämnande av information (detta
+	problem rättades i en tidigare utgåva men har felaktigt utelämnats ur
+	uppströmsutgåvans tillkännagivande vid det tillfället).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6151">CVE-2018-6151</a>
+
+    <p>Rob Wu upptäckte ett problem i utvecklarverktygen (detta
+	problem rättades i en tidigare utgåva men har felaktigt utelämnats ur
+	uppströmsutgåvans tillkännagivande vid det tillfället).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6152">CVE-2018-6152</a>
+
+    <p>Rob Wu upptäckte ett problem i utvecklarverktygen (detta
+	problem rättades i en tidigare utgåva men har felaktigt utelämnats ur
+	uppströmsutgåvans tillkännagivande vid det tillfället).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6153">CVE-2018-6153</a>
+
+    <p>Zhen Zhou upptäckte ett problem med buffertspill i biblioteket skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6154">CVE-2018-6154</a>
+
+    <p>Omair upptäckte ett problem med buffertspill i implementationen av WebGL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6155">CVE-2018-6155</a>
+
+    <p>Natalie Silvanovich upptäckte en användning efter frigörning i implementationen
+	av WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6156">CVE-2018-6156</a>
+
+    <p>Natalie Silvanovich upptäckte ett problem med buffertspill i
+	implementationen av WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6157">CVE-2018-6157</a>
+
+    <p>Natalie Silvanovich upptäckte ett typförvirringsproblem i implementationen 
+	av WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6158">CVE-2018-6158</a>
+
+    <p>Zhe Jin upptäcklte ett problem med användning efter frigörning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6159">CVE-2018-6159</a>
+
+    <p>Jun Kokatsu upptäckte ett sätt att förbigå same origin policy.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6161">CVE-2018-6161</a>
+
+    <p>Jun Kokatsu upptäckte ett sätt att förbigå same origin policy.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6162">CVE-2018-6162</a>
+
+    <p>Omair upptäckte ett problem med buffertspill i implementationen av WebGL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6163">CVE-2018-6163</a>
+
+    <p>Khalil Zhani upptäckte ett URL-förfalskningsproblem.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6164">CVE-2018-6164</a>
+
+    <p>Jun Kokatsu upptäckte ett sätt att förbigå same origin-policyn.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6165">CVE-2018-6165</a>
+
+    <p>evil1m0 upptäckte ett URL-förfalskningsproblem.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6166">CVE-2018-6166</a>
+
+    <p>Lynas Zhang upptäckte ett URL-förfalskningsproblem.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6167">CVE-2018-6167</a>
+
+    <p>Lynas Zhang upptäckte ett URL-förfalskningsproblem.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6168">CVE-2018-6168</a>
+
+    <p>Gunes Acar och Danny Y. Huang upptäckte ett sätt att förbigå
+	Cross Origin Resource Sharin-policyn.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6169">CVE-2018-6169</a>
+
+    <p>Sam P upptäckte ett sätt att förbigå rättigheter vid installation
+	av tilläggsmoduler.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6170">CVE-2018-6170</a>
+
+    <p>Ett typförvirringsproblem har upptäckts i biblioteket pdfium.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6171">CVE-2018-6171</a>
+
+    <p>Ett problem med användning efter frigörning har upptäckts i
+	implementationen av WebBluetooth.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6172">CVE-2018-6172</a>
+
+    <p>Khalil Zhani upptäckte ett URL-förfalskningsproblem.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6173">CVE-2018-6173</a>
+
+    <p>Khalil Zhani upptäckte ett URL-förfalskningsproblem.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6174">CVE-2018-6174</a>
+
+    <p>Mark Brand upptäckte ett problem med heltalsspill i biblioteket
+	swiftshader.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6175">CVE-2018-6175</a>
+
+    <p>Khalil Zhani upptäckte ett URL-förfalskningsproblem.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6176">CVE-2018-6176</a>
+
+    <p>Jann Horn upptäckte ett sätt att öka rättigheter genom att använda tilläggsmoduler.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6177">CVE-2018-6177</a>
+
+    <p>Ron Masas upptäckte ett informationsläckage.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6178">CVE-2018-6178</a>
+
+    <p>Khalil Zhani upptäckte ett problem med förfalskning av användargränssnitt.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6179">CVE-2018-6179</a>
+
+    <p>Man har upptäckt att information om lokala filer i systemet kunde
+	läckas till tilläggsmoduler.</p></li>
+
+</ul>
+
+<p>Denna version rättar även en regression som introducerades i förra
+säkerhetsuppdateringen som kunde förhindra avkodning av vissa
+audio/video-codecs.</p>
+
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 68.0.3440.75-1~deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era chromium-browser-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om chromium-browser vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">\
+https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4256.data"
