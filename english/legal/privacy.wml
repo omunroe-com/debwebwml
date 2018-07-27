@@ -73,16 +73,26 @@ shared with the accommodation provider.</p>
 
 <h2>Developers LDAP (<a href="https://db.debian.org">db.debian.org</a>)</h2>
 
-<p>Project contributors (developers and others with guest accounts) who have
-account access to machines within the Debian infrastructure have their details
-stored within the project's LDAP infrastructure. This primarily stores name,
-username and authentication information. However it also has the optional
-facility for contributors to provide additional information such as address or
-phone details. These are only shared with other individuals who have account
-access to the Debian infrastructure and is intended to provide a centralised
-location for project members to exchange such contact information. It is not
-explicitly collected at any point and can always be removed by logging into the
-db.debian.org web interface or sending signed email to the email interface.</p>
+<p>Project contributors (developers and others with guest accounts) who
+have account access to machines within the Debian infrastructure have
+their details stored within the project's LDAP infrastructure. This
+primarily stores name, username and authentication information. However
+it also has the optional facility for contributors to provide additional
+information such as gender, instant messaging (IRC/XMPP), country and
+address or phone details, and a message if they are on vacation.
+</p>
+
+<p>
+Name, username and some of the voluntarily provided details
+are freely available via the web interface or LDAP search. Additional
+details are only shared with other individuals who have account access
+to the Debian infrastructure and is intended to provide a centralised
+location for project members to exchange such contact information. It is
+not explicitly collected at any point and can always be removed by
+logging into the db.debian.org web interface or sending signed email to
+the email interface. See <a href="https://db.debian.org/">https://db.debian.org/</a> and
+<a href="https://db.debian.org/doc-general.html">https://db.debian.org/doc-general.html</a> for more details.
+</p>
 
 <h2>Gitlab (<a href="https://salsa.debian.org/">salsa.debian.org</a>)</h2>
 
