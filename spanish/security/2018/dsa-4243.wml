@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="07b675fd002929e3c7b095ccf3c2d7ee18953a49"
+#use wml::debian::translation-check translation="2a51d7df00b2a3ce821da43704c57a93a05fda39"
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Se descubrieron varias vulnerabilidades en el Sistema de impresión común de UNIX (CUPS, por sus siglas en
@@ -23,18 +23,6 @@ inglés). Estos problemas se han identificado con los ids de CVE siguientes:</p>
      <p>Eric Rafaloff y John Dunlap, de Gotham Digital Science, descubrieron
      que un atacante local puede realizar lecturas limitadas de ficheros arbitrarios
      como root manipulando cupsd.conf.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4182">CVE-2018-4182</a>
-
-    <p>Dan Bastone, de Gotham Digital Science, descubrió que un atacante
-    con acceso root en un entorno aislado («sandboxed») puede ejecutar backends sin un perfil
-    de entorno aislado. Esto lo puede hacer provocando un error en la creación del perfil de CUPS.</p></li>
-
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-4183">CVE-2018-4183</a>
-
-     <p>Dan Bastone y Eric Rafaloff, de Gotham Digital Science, descubrieron
-     que un atacante con acceso root en un entorno aislado («sandboxed») puede ejecutar órdenes
-     arbitrarias como root externo al entorno aislado («unsandboxed»). Esto lo puede hacer modificando /etc/cups/cups-files.conf.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6553">CVE-2018-6553</a>
 
