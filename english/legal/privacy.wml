@@ -1,5 +1,11 @@
 #use wml::debian::template title="Privacy Policy" NOCOMMENTS="yes"
 
+## Translators may want to add a note stating that the translation 
+## is only informative and has no legal value, and people
+## should look at the original English for that. 
+## Some languages have already put such a note in the
+## translations of /trademark and /license, for example.
+
 <p>The <a href="https://www.debian.org/">Debian Project</a> is a volunteer
 association of individuals who have made common cause to create a free
 operating system, referred to as Debian. </p>
