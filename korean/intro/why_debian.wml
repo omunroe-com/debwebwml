@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::translation-check translation="d6960bd98f2756c2adc09fdf2d36339a96562858" maintainer="Sebul"
 
-<P>데비안 GNU/리눅스를 사용하여 자신의 컴퓨터를 운용하는 것에 대해
+<P>데비안 GNU/리눅스를 사용하여 컴퓨터를 운용할 것을 생각해 주셔서
 고맙습니다. 왜 데비안을 시험해 봐야 하는지 그다지 확신이 서지 않는다면
 다음 사항을 고려해 보기 바랍니다.
 </p>
