@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4257-1 fuse</define-tag>
+<define-tag report_date>2018-7-28</define-tag>
+<define-tag secrefs>CVE-2018-10906 Bug#904439</define-tag>
+<define-tag packages>fuse</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
