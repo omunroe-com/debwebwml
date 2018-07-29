@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="7a643f3f84873f2bbfa6b6f02ffdfd6c854ad652" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="65f56a46642aa27f4d3f4487d2d6322db1e2585d" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans le navigateur web
@@ -153,13 +153,13 @@ utilisateur.</p></li>
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6179">CVE-2018-6179</a>
 
 <p>Des informations sur des fichiers présents sur le système pourraient
-être divulguées aux extensions.</p>
+être divulguées aux extensions.</p></li>
+
+</ul>
 
 <p>Cette version corrige aussi une régression introduite dans la mise à
 jour de sécurité précédente qui pourrait empêcher le décodage de certains
-codecs audio ou vidéo.</p></li>
-
-</ul>
+codecs audio ou vidéo.</p>
 
 <p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
 dans la version 68.0.3440.75-1~deb9u1.</p>
