@@ -1,14 +1,14 @@
 #use wml::debian::template title="Chi usa Debian?" BARETITLE=true
 #use wml::debian::toc
 #use wml::debian::users_list
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="257c21bc3adb2b3c7174439a605ea9010623492d" maintainer="Luca Monducci"
 
 <p>
-Di seguito sono presentate le descrizioni di alcune società che
-stanno utilizzando Debian e che hanno deciso di inviarci una breve
-descrizione dell'uso che ne fanno e del perché la hanno adottata. Le
-varie descrizioni sono ordinate alfabeticamente. Se si volesse essere
-inclusi nell'elenco si <a href="#submissions">seguano le istruzioni</a>.
+Di seguito sono presentate le descrizioni di alcune aziende e organizzazioni
+che stanno utilizzando Debian e che hanno deciso di inviarci una breve
+descrizione dell'uso che ne fanno e del perché la hanno scelta. Le
+descrizioni sono in ordine alfabetico. Chi volesse essere inserito
+nell'elenco può <a href="#submissions">seguire le indicazioni</a>.
 </p>
 
 <toc-display />
@@ -30,14 +30,34 @@ inclusi nell'elenco si <a href="#submissions">seguano le istruzioni</a>.
 <h2><a name="submissions" id="submissions">Sottomissioni</a></h2>
 
 <p>
-Per essere inclusi in questo elenco, si scrivano le seguenti informazioni a
-<a href="mailto:debian-www@lists.debian.org?subject=Who's%20using%20Debian%3F">\
-debian-www@lists.debian.org</a> (non cambiare l'oggetto della email). Le sottomissioni
-dovrebbero essere in inglese. Se non si 
-parla inglese, si mandi la sottomissione alla
+Per essere inclusi in questo elenco occorre inviare una email con le
+informazioni riportate sotto a <a
+href="mailto:debian-www@lists.debian.org?subject=Who's%20using%20Debian%3F">\
+debian-www@lists.debian.org</a>
+(non cambiare l'oggetto <q>Who's using Debian</q>, altrimenti potremmo non
+notare la email). Le sottomissioni dovrebbero essere in inglese; chi non
+conosce l'inglese può inviare la sottomissione alla
 <a href="https://lists.debian.org/i18n.html">lista di traduzione
 appropriata</a>.
 Notare che la propria richiesta verrà inviata a una lista di messaggi pubblica.
+</p>
+
+<p>
+Inviare informazioni solo delle organizzazioni di cui siete un rappresentantre.
+Potrebbe essere necessario richiedere un'autorizzazione prima di prensentare
+la propria richiesta. I consulenti che perecepiscono parte del proprio
+guadagno facendosi <strong>pagare</strong> per il proprio lavoro su Debian,
+possono consultare la pagina dei <a href="$(HOME)/consultants/">consulenti</a>.
+</p>
+
+<p>
+Non inviare informazioni su individui privati. Appreziamo il loro supporto
+tuttavia non abbiamo persone sufficienti per gestire le informazioni sui
+nostri numerosi utenti individuali.
+</p>
+
+<p>
+<strong>Inviare solo informazioni idonee a essere rese pubbliche.</strong>
 </p>
 
 <ol>
@@ -51,8 +71,8 @@ piacerebbe convertire quelle che non lo sono.
 </p></li>
 
 <li>
-Tipologia dell'organizzazione (educational, non-profit, commercial,
-government).
+Tipologia dell'organizzazione (scegliee solo una voca tra <q>educational</q>,
+<q>non-profit</q>, <q>commercial</q>, <q>government</q>).
 </li>
 
 <li>
@@ -60,9 +80,16 @@ Collegamento al proprio sito <em>(opzionale)</em>.
 </li>
 
 <li>
-Un paragrafo o due in cui si descrive come la società usa Debian. Se
+Un breve paragrafo in cui si descrive come l'organizzazione usa Debian. Se
 possibile includere dettagli come il numero di postazioni di lavoro,
 quali programmi sono utilizzati (non è necessario specificarne la
 versione) e perché è stata scelta Debian rispetto alla concorrenza.
 </li>
 </ol>
+
+<p>
+Chi rappresenta organizzazioni che vogliono diventare un Debian Partner
+dovrebbe consultare il nostro <a href="$(HOME)/partners/">Programma Partner</a>
+per maggiori informazioni su come dare assistenza a Debian. Per le donazioni a
+Debian, vedere la pagina <a href="$(HOME)/donations/">donazioni</a>.
+</p>
