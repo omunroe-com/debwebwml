@@ -136,7 +136,7 @@ msgid "Skolelinux is an effort to create a Debian Pure Blend aimed at schools an
 msgstr ""
 
 #: ../../english/partners/partners.def:173
-msgid "<a href=\"https://www.stackpath.com/?utm_campaign=Partner%20Display&utm_source=Partner%20Display&utm_medium=Debian\">StackPath</a> provides Debian with content delivery network (CDN) services, allowing high availability of services like <a href=\"https://security-tracker.debian.org/\">the Security Bug Tracker</a> and <a href=\"https://planet.debian.org/\">Planet Debian</a>."
+msgid "<a href=\"https://www.stackpath.com/%3Futm_campaign=Partner%20Display%26utm_source=Partner%20Display%26utm_medium=Debian\">StackPath</a> provides Debian with content delivery network (CDN) services, allowing high availability of services like <a href=\"https://security-tracker.debian.org/\">the Security Bug Tracker</a> and <a href=\"https://planet.debian.org/\">Planet Debian</a>."
 msgstr ""
 
 #: ../../english/partners/partners.def:176
