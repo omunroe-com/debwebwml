@@ -169,7 +169,7 @@
  <hr>
 
  <div id="StackPath">
- <partnerlogo "StackPath" stackpath-logo-reversed.svg "https://www.stackpath.com/?utm_campaign=Partner%20Display&utm_source=Partner%20Display&utm_medium=Debian">
+ <partnerlogo "StackPath" stackpath-logo-reversed.svg "https://www.stackpath.com/?utm_campaign=Partner%20Display&amp;utm_source=Partner%20Display&amp;utm_medium=Debian">
  <partnerdesc>
  <stackpath1>
  <stackpath2>

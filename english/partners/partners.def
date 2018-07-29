@@ -170,7 +170,7 @@
 # date added: 2018/07/27
 
  <define-tag stackpath1 whitespace=delete>
- <p><gettext domain="partners"><a href="https://www.stackpath.com/?utm_campaign=Partner%20Display&utm_source=Partner%20Display&utm_medium=Debian">StackPath</a> provides Debian with content delivery network (CDN) services, allowing high availability of services like <a href="https://security-tracker.debian.org/">the Security Bug Tracker</a> and <a href="https://planet.debian.org/">Planet Debian</a>.</gettext></p>
+ <p><gettext domain="partners"><a href="https://www.stackpath.com/?utm_campaign=Partner%20Display&amp;utm_source=Partner%20Display&amp;utm_medium=Debian">StackPath</a> provides Debian with content delivery network (CDN) services, allowing high availability of services like <a href="https://security-tracker.debian.org/">the Security Bug Tracker</a> and <a href="https://planet.debian.org/">Planet Debian</a>.</gettext></p>
  </define-tag>
  <define-tag stackpath2 whitespace=delete>
  <p><gettext domain="partners">StackPath is a platform of secure edge services that enables developers to protect, accelerate, and innovate cloud properties ranging from websites to media delivery and IoT services.</gettext></p>
