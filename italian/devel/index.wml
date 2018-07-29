@@ -1,5 +1,5 @@
 #use wml::debian::template title="L'angolo degli sviluppatori" BARETITLE="true"
-#use wml::debian::translation-check translation="83e7c9d3117e07a0acc4360149be71547b0ec7a7" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Giuseppe Sacco"
 
 # $Id$
 
@@ -165,22 +165,22 @@
         <br />Sotto regolamento che riguarda i pacchetti Perl.</li>
         <li><a href="$(DOC)/packaging-manuals/python-policy/">Python policy</a>
         <br />Una proposta di sottoregolamento che riguarda i pacchetti Python.</li>
-	<li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">Debian CLI Policy</a>
-	<br />Regolamenti di base riguardo i pacchetti Mono, altri CLR e applicazioni
-	    basate su CLI, altre librerie</li>
+#	<li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">Debian CLI Policy</a>
+#	<br />Regolamenti di base riguardo i pacchetti Mono, altri CLR e applicazioni
+#	    basate su CLI, altre librerie</li>
         <li><a href="$(DOC)/packaging-manuals/debconf_specification.html">\
 	    Debconf specification</a>
         <br />La specifica del sistema di gestione della configurazione
 	    "debconf".</li>
-        <li><a href="https://dict-common.alioth.debian.org/">
-	    Regolamento per gli strumenti legati ai dizionari</a>
-        <br />Sotto regolamento per i dizionari di <kbd>ispell</kbd> /
-	    <kbd>myspell</kbd> e gli elenchi di parole.</li>
-	<li><a href="https://webapps-common.alioth.debian.org/draft/html/">Manuale
-	    del regolamento per le applicazioni web</a> (bozza)
-	    <br />Sotto regolamento per le applicazioni <q>web based</q>.</li>
-	<li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">Regolamento PHP</a> (bozza)
-	    <br>Standard di pacchettizzazione per PHP.</li>
+#        <li><a href="https://dict-common.alioth.debian.org/">
+#	    Regolamento per gli strumenti legati ai dizionari</a>
+#        <br />Sotto regolamento per i dizionari di <kbd>ispell</kbd> /
+#	    <kbd>myspell</kbd> e gli elenchi di parole.</li>
+#	<li><a href="https://webapps-common.alioth.debian.org/draft/html/">Manuale
+#	    del regolamento per le applicazioni web</a> (bozza)
+#	    <br />Sotto regolamento per le applicazioni <q>web based</q>.</li>
+#	<li><a href="https://webapps-common.alioth.debian.org/draft-php/html/">Regolamento PHP</a> (bozza)
+#	    <br>Standard di pacchettizzazione per PHP.</li>
 	<li><a href="https://www.debian.org/doc/manuals/dbapp-policy/">Regolamento per i database</a> (bozza)
 	    <br />Un insieme di linee guida e buone pratiche per pacchetti di database</li>
 	<li><a href="https://tcltk-team.pages.debian.net/policy-html/tcltk-policy.html/">Regolamento Tcl/Tk</a> (bozza)
@@ -258,12 +258,12 @@
 	<dd>
 	Le pagine web delle <a href="https://qa.debian.org/developer.php">\
 	informazioni sui pacchetti</a> e sul <a
-	href="https://packages.qa.debian.org/">tracciamento dei pacchetti</a>
+	href="https://tracker.debian.org/">tracciamento dei pacchetti</a>
 	forniscono un insieme di informazioni utili per i manutentori.
 	</dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">Il
-	sistema di tracciamento dei pacchetti</a></dt>
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">Il
+	sistema Debian di tracciamento dei pacchetti</a></dt>
       	<dd>
 	Per gli sviluppatori che vogliono restare aggiornati rispetto ad altri
 	pacchetti, il sistema di tracciamento dei pacchetti permette loro di
@@ -311,7 +311,7 @@
        sviluppatori e non.
        </dd>
 
-       <dt><a href="$(DOC)/manuals/developers-reference/resources#s4.6.4">La distribuzione experimental</a></dt>
+       <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">La distribuzione experimental</a></dt>
        <dd>
         La distribuzione <em>experimental</em> è usata come area provvisoria di prova per
         software altamente sperimentale. Usare i <a href="https://packages.debian.org/experimental/">
@@ -343,9 +343,9 @@
 	      automatica per le architetture ufficiali</a></li>
 	<li><a href="tech-ctte">Comitato tecnico</a></li>
 	<li><a href="$(HOME)/international/l10n/ddtp">Il progetto Debian Description Translation (DDTP)</a></li>
-	<li><a href="https://alioth.debian.org/">Alioth: Debian GForge</a></li>
-	<li><a href="https://deb-usability.alioth.debian.org/">Debian
-		Usability Research</a></li>
+#	<li><a href="https://alioth.debian.org/">Alioth: Debian GForge</a></li>
+#	<li><a href="https://deb-usability.alioth.debian.org/">Debian
+#		Usability Research</a></li>
 	<li><a href="debian-installer/">L'installatore Debian</a></li>
 	<li><a href="debian-live/">Debian Live</a></li>
          <li><a href="http://www.emdebian.org/">emdebian - Embedded Debian</a></li>
@@ -369,7 +369,7 @@
 	<li><a href="https://wiki.debian.org/DebianGis">Debian GIS Project</a></li>
 	<li><a href="http://demudi.agnula.info/">Agnula DeMuDi</a></li>
 	<li><a href="https://wiki.debian.org/DebianScience">Scienza Debian</a></li>
-	<li><a href="https://debichem.alioth.debian.org/">Progetto DebiChem</a></li>
+#	<li><a href="https://debichem.alioth.debian.org/">Progetto DebiChem</a></li>
       </ul>
 
   </div>
@@ -382,7 +382,7 @@
 <dt>Convertire chiavi PGP in GPG:</dt>
 <dd>
 Si trovano le informazioni al riguardo nella
-<a href="$(DOC)/manuals/developers-reference/developer-duties#key-maint">
+<a href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">
 developers' reference</a>. È possibile avere altre informazioni utili su come
 firmare una chiave GPG utilizzandone una PGP dal file
 <em>/usr/share/doc/debian-keyring/README.gz</em> del pacchetto
