@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="93121e2a588f1cc3d623dd178effe98a8ce6ee10" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В FFmpeg, инфраструктуре мультимедиа, было обнаружено несколько уязвимостей,
+которые могут приводить к отказу в обслуживании или потенциальному выполнению
+произвольного кода в случае обработки специально сформированных файлов/потоков.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 7:3.2.12-1~deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты ffmpeg.</p>
+
+<p>С подробным статусом поддержки безопасности ffmpeg можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/ffmpeg">\
+https://security-tracker.debian.org/tracker/ffmpeg</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4258.data"
