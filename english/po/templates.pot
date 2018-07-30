@@ -58,72 +58,80 @@ msgid "Contact Us"
 msgstr ""
 
 #: ../../english/template/debian/common_translation.wml:37
-msgid "Donations"
+msgid "Legal Info"
 msgstr ""
 
 #: ../../english/template/debian/common_translation.wml:40
-msgid "Events"
+msgid "Data Privacy"
 msgstr ""
 
 #: ../../english/template/debian/common_translation.wml:43
-msgid "News"
+msgid "Donations"
 msgstr ""
 
 #: ../../english/template/debian/common_translation.wml:46
-msgid "Distribution"
+msgid "Events"
 msgstr ""
 
 #: ../../english/template/debian/common_translation.wml:49
-msgid "Support"
+msgid "News"
 msgstr ""
 
 #: ../../english/template/debian/common_translation.wml:52
-msgid "Pure Blends"
+msgid "Distribution"
 msgstr ""
 
 #: ../../english/template/debian/common_translation.wml:55
+msgid "Support"
+msgstr ""
+
+#: ../../english/template/debian/common_translation.wml:58
+msgid "Pure Blends"
+msgstr ""
+
+#: ../../english/template/debian/common_translation.wml:61
 #: ../../english/template/debian/links.tags.wml:46
 msgid "Developers' Corner"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:58
+#: ../../english/template/debian/common_translation.wml:64
 msgid "Documentation"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:61
+#: ../../english/template/debian/common_translation.wml:67
 msgid "Security Information"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:64
+#: ../../english/template/debian/common_translation.wml:70
 msgid "Search"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:67
+#: ../../english/template/debian/common_translation.wml:73
 msgid "none"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:70
+#: ../../english/template/debian/common_translation.wml:76
 msgid "Go"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:73
+#: ../../english/template/debian/common_translation.wml:79
 msgid "worldwide"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:76
+#: ../../english/template/debian/common_translation.wml:82
 msgid "Site map"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:79
+#: ../../english/template/debian/common_translation.wml:85
 msgid "Miscellaneous"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:82
+#: ../../english/template/debian/common_translation.wml:88
 #: ../../english/template/debian/links.tags.wml:104
 msgid "Getting Debian"
 msgstr ""
 
-#: ../../english/template/debian/common_translation.wml:85
+#: ../../english/template/debian/common_translation.wml:91
 msgid "The Debian Blog"
 msgstr ""
 
@@ -168,27 +176,27 @@ msgstr ""
 #. you can add some information of your own translation mailing list
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
-#: ../../english/template/debian/footer.wml:105
+#: ../../english/template/debian/footer.wml:107
 msgid "To report a problem with the web site, please e-mail our publicly archived mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists.debian.org</a> in English.  For other contact information, see the Debian <a href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a href=\"https://salsa.debian.org/webmaster-team/webwml\">available</a>."
 msgstr ""
 
-#: ../../english/template/debian/footer.wml:108
+#: ../../english/template/debian/footer.wml:110
 msgid "Last Modified"
 msgstr ""
 
-#: ../../english/template/debian/footer.wml:111
+#: ../../english/template/debian/footer.wml:113
 msgid "Copyright"
 msgstr ""
 
-#: ../../english/template/debian/footer.wml:114
+#: ../../english/template/debian/footer.wml:116
 msgid "<a href=\"https://www.spi-inc.org/\">SPI</a> and others;"
 msgstr ""
 
-#: ../../english/template/debian/footer.wml:117
+#: ../../english/template/debian/footer.wml:119
 msgid "See <a href=\"m4_HOME/license\" rel=\"copyright\">license terms</a>"
 msgstr ""
 
-#: ../../english/template/debian/footer.wml:120
+#: ../../english/template/debian/footer.wml:122
 msgid "Debian is a registered <a href=\"m4_HOME/trademark\">trademark</a> of Software in the Public Interest, Inc."
 msgstr ""
 
