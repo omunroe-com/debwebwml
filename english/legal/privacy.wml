@@ -1,0 +1,247 @@
+#use wml::debian::template title="Privacy Policy" NOCOMMENTS="yes"
+
+## Translators may want to add a note stating that the translation 
+## is only informative and has no legal value, and people
+## should look at the original English for that. 
+## Some languages have already put such a note in the
+## translations of /trademark and /license, for example.
+
+<p>The <a href="https://www.debian.org/">Debian Project</a> is a volunteer
+association of individuals who have made common cause to create a free
+operating system, referred to as Debian. </p>
+
+<p>There is no requirement for anyone who
+wishes to use Debian to provide the project with any personal information; it
+is freely downloadable without registration or other form of identification
+from both official mirrors run by the project and numerous third parties.</p>
+
+<p>Various other aspects of interacting with the Debian Project will, however,
+involve the collection of personal information. This is primarily in the form
+of names and email addresses in emails received by the project; all Debian
+mailing lists are publicly archived, as are all interactions with the bug
+tracking system. This is in keeping with our <a
+href="https://www.debian.org/social_contract">Social Contract</a>, in
+particular our statement that we will give back to the free software community
+(#2), and that we will not hide our problems (#3). We do not perform further
+processing on any of the information we hold, but there are instances where it
+is automatically shared with third parties (such as emails to lists, or
+interactions with the bug tracking system).</p>
+
+<p>The list below categorises the various services run by the project, the
+information used by those services and the reasons it is required.</p>
+
+<p>Please note that hosts and services under the <strong>debian.net</strong> 
+domain are not part of the official Debian project; 
+they are run by individuals who have an association with the project rather 
+than the project themselves. 
+Questions about exactly what data those services hold should be directed 
+at the service owners rather than the Debian Project itself.</p>
+
+<h2>Contributors (<a href="https://contributors.debian.org/">contributors.debian.org</a>)</h2>
+
+<p>The Debian Contributors site provides an aggregation of data about where
+someone has contributed to the Debian Project, whether that's through filing a
+bug report, making an upload to the archive, posting to a mailing list or
+various other interactions with the Project. It receives its information from
+the services in question (details about an identifier such as login name and
+time of last contribution) and provides a single reference point to see where
+the Project is storing information about an individual.</p>
+
+<h2>The Archive (<a href="https://ftp.debian.org/debian/">ftp.debian.org</a>)</h2>
+
+<p>The primary distribution method of Debian is via its public archive network.
+The archive consists of all of the binary packages and their associated source
+code, which will include personal information in the form of names and email
+addresses stored as part of changelogs, copyright information, and general
+documentation. The majority of this information is provided via the upstream
+software authors distributed source code, with Debian adding additional
+information to track authorship and copyright to ensure that licenses are being
+correctly documents and the Debian Free Software Guidelines adhered to.</p>
+
+<h2>Bug Tracking System (<a href="https://bugs.debian.org/">bugs.debian.org</a>)</h2>
+
+<p>The bug tracking system is interacted with via email, and stores all emails
+received in relation to a bug as part of that bug's history. In order that the
+project can effectively deal with issues found in the distribution, and to
+enable users to see details about those issues and whether a fix or workaround
+is available, the entirety of the bug tracking system is openly accessible.
+Therefore any information, including names and email addresses as part of email
+headers, sent to the BTS will be archived and publicly available.</p>
+
+<h2>DebConf (<a href="https://www.debconf.org/">debconf.org</a>)</h2>
+
+<p>The DebConf registration structure stores the details of conference
+attendees. These are required to determine eligibility to bursaries, association
+to the project, and to contact attendees with appropriate details. They may
+also be shared with suppliers to the conference, e.g. attendees staying in the
+conference provided accommodation will have their name and attendance date
+shared with the accommodation provider.</p>
+
+<h2>Developers LDAP (<a href="https://db.debian.org">db.debian.org</a>)</h2>
+
+<p>Project contributors (developers and others with guest accounts) who
+have account access to machines within the Debian infrastructure have
+their details stored within the project's LDAP infrastructure. This
+primarily stores name, username and authentication information. However
+it also has the optional facility for contributors to provide additional
+information such as gender, instant messaging (IRC/XMPP), country and
+address or phone details, and a message if they are on vacation.
+</p>
+
+<p>
+Name, username and some of the voluntarily provided details
+are freely available via the web interface or LDAP search. Additional
+details are only shared with other individuals who have account access
+to the Debian infrastructure and is intended to provide a centralised
+location for project members to exchange such contact information. It is
+not explicitly collected at any point and can always be removed by
+logging into the db.debian.org web interface or sending signed email to
+the email interface. See <a href="https://db.debian.org/">https://db.debian.org/</a> and
+<a href="https://db.debian.org/doc-general.html">https://db.debian.org/doc-general.html</a> for more details.
+</p>
+
+<h2>Gitlab (<a href="https://salsa.debian.org/">salsa.debian.org</a>)</h2>
+
+<p>salsa.debian.org provides an instance of the <a
+href="https://about.gitlab.com/">GitLab</a> DevOps lifecycle management tool.
+It is primarily used by the Project to allow Project contributors to host
+software repositories using Git and encourage collaboration between
+contributors. As a result it requires various pieces of personal information to
+manage accounts. For Project members this is tied to the central Debian LDAP
+system, but guests may also register for an account and will have to provide
+name and email details in order to facilitate the setup and use of that
+account.</p>
+
+<p>Due to the technical nature of git contributions to the git repositories
+held on salsa will contain the name and email address recorded within those git
+commits. The chained nature of the git system means that any modification to
+these commit details once they are incorporated into the repository is
+extremely disruptive and in some cases (such as when signed commits are in use)
+impossible.</p>
+
+<h2>Gobby (<a href="https://gobby.debian.org/">gobby.debian.org</a>)</h2>
+
+<p>Gobby is a collaborative online text editor, which tracks contributions and
+changes against connected users. No authentication is required to connect to
+the system and users may choose any username they wish. However while no
+attempt is made by the service to track who owns usernames it should be
+understand that it may prove possible to map usernames back to individuals
+based upon common use of that username or the content they post to a
+collaborative document within the system.</p>
+
+<h2>Mailing Lists (<a href="https://lists.debian.org/">lists.debian.org</a>)</h2>
+
+<p>Mailing lists are the primary communication mechanism of the Debian Project.
+Almost all of the mailing lists related to the project are open, and thus
+available for anyone to read and/or post to. All lists are also archived; for
+public lists this means in a web accessible manner. This fulfils the project
+commitment to transparency, and aids with helping our users and developers
+understand what is happening in the project, or understand the historical
+reasons for certain aspects of the project. Due to the nature of email these
+archives will therefore potentially hold personal information, such as names
+and email addresses.</p>
+
+<h2>New Members site (<a href="https://nm.debian.org/">nm.debian.org</a>)</h2>
+
+<p>Contributors to the Debian Project who wish to formalise their involvement
+may choose to apply to the New Members process. This allows them to gain the
+ability to upload their own packages (via Debian Maintainership) or to become
+full voting members of the Project with account rights (Debian Developers, in
+uploading and non-uploading variants). As part of this process various personal
+details are collected, starting with name, email address and
+encryption/signature key details. Full Project applications also involve the
+applicant engaging with an Application Manager who will undertake an email
+conversation to ensure the New Member understands the principles behind Debian
+and has the appropriate skills to interact with the Project infrastructure.
+This email conversation is archived and available to the applicant and
+Application Managers via the nm.debian.org interface. Additionally details of
+outstanding applicants are publicly visible on the site, allowing anyone to see
+the state of New Member processing within the Project to ensure an appropriate
+level of transparency.</p>
+
+<h2>Popularity Contest (<a href="https://popcon.debian.org/">popcon.debian.org</a>)</h2>
+
+<p>"popcon" tracks which packages are installed on a Debian system, to enable
+the gathering of statistics about which packages are widely used and which are
+no longer in use. It uses the optional "popularity-contest" package to collect
+this information, requiring explicit opt-in to do so. This provides useful
+guidance about where to devote developer resources, for example when migrating
+to newer library versions and having to spend effort on porting older
+applications. Each popcon instance generates a random 128 bit unique ID which
+is used to track submissions from the same host. No attempt is made to map this
+to an individual about submissions are made via email or HTTP and it is thus
+possible for personal information to leak in the form of the IP address used
+for access or email headers. This information is only available to the Debian
+System Administrators and popcon admins; all such meta-data is removed before
+submissions are made accessible to the project as a whole. However users should
+be aware that unique signatures of packages (such as locally created packages
+or packages with very low install counts) may make machines deducible as
+belonging to particular individuals.</p>
+
+<p>Raw submissions are stored for 24 hours, to allow replaying in the event of
+issues with the processing mechanisms. Anonymized submissions are kept for at
+most 20 days. Summary reports, which contain no personally identifiable
+information, are kept indefinitely.</p>
+
+<h2>snapshot (<a href="http://snapshot.debian.org/">snapshot.debian.org</a>)</h2>
+
+<p>The snapshot archive provides a historical view of the Debian archive
+(ftp.debian.org above), allowing access to old packages based on dates and
+version numbers. It carries no additional information over the main archive
+(and can thus contain personal information in the form of names + email address
+within changelogs, copyright statements and other documentation), but can
+contain packages that are no longer part of shipping Debian releases. This
+provides a useful resource to developers and users when tracking down
+regressions in software packages, or providing a specific environment to run a
+particular application.</p>
+
+<h2>Votes (<a href="https://vote.debian.org/">vote.debian.org</a>)</h2>
+
+<p>The vote tracking system (devotee) tracks the status of ongoing General
+Resolutions and the results of previous votes. In the majority of cases this
+means that once the voting period is over details of who voted (usernames +
+name mapping) and how they voted becomes publicly visible. Only Project
+members are valid voters for the purposes of devotee, and only valid votes are
+tracked by the system.</p>
+
+<h2>Wiki (<a href="https://wiki.debian.org/">wiki.debian.org</a>)</h2>
+
+<p>The Debian Wiki provides a support and documentation resource for the
+Project which is editable by everyone. As part of that contributions are
+tracked over time and associated with user accounts on the wiki; each
+modification to a page is tracked to allow for errant edits to be reverted and
+updated information to be easily examined. This tracking provides details of
+the user responsible for the change, which can be used to prevent abuse by
+blocking abusive users or IP addresses from making edits. User accounts also
+allow users to subscribe to pages to watch for changes, or see details of
+changes throughout the entire wiki since they last checked. In general user
+accounts are named after the name of the user, but no validation is performed
+of the account names and a user may choose any free account name. An email
+address is required for the purposes of providing a mechanism for account
+password reset, and notifying the user of any changes on pages they are
+subscribed to.</p>
+
+<h2>Echelon</h2>
+
+<p>Echelon is a system used by the Project to track member activity; in
+particular it watches the mailing list and archive infrastructures, looking for
+posts and uploads to record that a Debian member is active. Only the most
+recent activity is stored, in the member's LDAP record. It is thus limited to
+only tracking details of individuals who have accounts within the Debian
+infrastructure. This information is used when determining if a project member
+is inactive or missing and thus that there might be an operational requirement
+to lock their account or otherwise reduce their access permissions to ensure
+Debian systems are kept secure.</p>
+
+<h2>Service related logging</h2>
+
+<p>In addition to the explicitly listed services above the Debian
+infrastructure logs details about system accesses for the purposes of ensuring
+service availability and reliability, and to enable debugging and diagnosis of
+issues when they arise. This logging includes details of mails sent/received
+through Debian infrastructure, web page access requests sent to Debian
+infrastructure, and login information for Debian systems (such as SSH logins to
+project machines). None of this information is used for any purposes other than
+operational requirements and it is only stored for 15 days in the case of web
+server logs, 10 days in the case of mail log and 4 weeks in the case of
+authentication/ssh logs.</p>
