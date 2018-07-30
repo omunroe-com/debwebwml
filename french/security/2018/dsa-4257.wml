@@ -1,7 +1,7 @@
 #use wml::debian::translation-check translation="fc1667800a12b2282f2d43da67b4d9158f8ee83e" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
-<p>Jann Horn a découvert que FUSE, un système de fichiers pour espace
+<p>Jann Horn a découvert que FUSE, un système de fichiers en espace
 utilisateur, permet le contournement des restrictions <q>user_allow_other</q>
 lorsque SELinux est actif (y compris en mode « permissive »). Un
 utilisateur local peut tirer avantage de ce défaut dans l'utilitaire
