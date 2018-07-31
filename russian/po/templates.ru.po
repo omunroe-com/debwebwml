@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml templates\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-06-28 15:03+0500\n"
+"PO-Revision-Date: 2018-07-31 22:56+0500\n"
 "Last-Translator: Lev Lamberov <dogsleg@debian.org>\n"
 "Language-Team: ru <debian-l10n-russian@lists.debian.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.0.9\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
@@ -81,72 +81,80 @@ msgid "Contact Us"
 msgstr "Как с нами связаться"
 
 #: ../../english/template/debian/common_translation.wml:37
+msgid "Legal Info"
+msgstr "Юридическая информация"
+
+#: ../../english/template/debian/common_translation.wml:40
+msgid "Data Privacy"
+msgstr "Защита персональных данных"
+
+#: ../../english/template/debian/common_translation.wml:43
 msgid "Donations"
 msgstr "Пожертвования"
 
-#: ../../english/template/debian/common_translation.wml:40
+#: ../../english/template/debian/common_translation.wml:46
 msgid "Events"
 msgstr "События"
 
-#: ../../english/template/debian/common_translation.wml:43
+#: ../../english/template/debian/common_translation.wml:49
 msgid "News"
 msgstr "Новости"
 
-#: ../../english/template/debian/common_translation.wml:46
+#: ../../english/template/debian/common_translation.wml:52
 msgid "Distribution"
 msgstr "Дистрибутив"
 
-#: ../../english/template/debian/common_translation.wml:49
+#: ../../english/template/debian/common_translation.wml:55
 msgid "Support"
 msgstr "Поддержка"
 
-#: ../../english/template/debian/common_translation.wml:52
+#: ../../english/template/debian/common_translation.wml:58
 msgid "Pure Blends"
 msgstr "Чистые смеси"
 
-#: ../../english/template/debian/common_translation.wml:55
+#: ../../english/template/debian/common_translation.wml:61
 #: ../../english/template/debian/links.tags.wml:46
 msgid "Developers' Corner"
 msgstr "Уголок разработчика"
 
-#: ../../english/template/debian/common_translation.wml:58
+#: ../../english/template/debian/common_translation.wml:64
 msgid "Documentation"
 msgstr "Документация"
 
-#: ../../english/template/debian/common_translation.wml:61
+#: ../../english/template/debian/common_translation.wml:67
 msgid "Security Information"
 msgstr "Информация о безопасности"
 
-#: ../../english/template/debian/common_translation.wml:64
+#: ../../english/template/debian/common_translation.wml:70
 msgid "Search"
 msgstr "Поиск"
 
-#: ../../english/template/debian/common_translation.wml:67
+#: ../../english/template/debian/common_translation.wml:73
 msgid "none"
 msgstr "нет"
 
-#: ../../english/template/debian/common_translation.wml:70
+#: ../../english/template/debian/common_translation.wml:76
 msgid "Go"
 msgstr "Перейти"
 
-#: ../../english/template/debian/common_translation.wml:73
+#: ../../english/template/debian/common_translation.wml:79
 msgid "worldwide"
 msgstr "повсюду"
 
-#: ../../english/template/debian/common_translation.wml:76
+#: ../../english/template/debian/common_translation.wml:82
 msgid "Site map"
 msgstr "Карта сайта"
 
-#: ../../english/template/debian/common_translation.wml:79
+#: ../../english/template/debian/common_translation.wml:85
 msgid "Miscellaneous"
 msgstr "Разное"
 
-#: ../../english/template/debian/common_translation.wml:82
+#: ../../english/template/debian/common_translation.wml:88
 #: ../../english/template/debian/links.tags.wml:104
 msgid "Getting Debian"
 msgstr "Где взять Debian"
 
-#: ../../english/template/debian/common_translation.wml:85
+#: ../../english/template/debian/common_translation.wml:91
 msgid "The Debian Blog"
 msgstr "Блог Debian"
 
@@ -196,7 +204,7 @@ msgstr "в выпуске 2.2"
 #. you can add some information of your own translation mailing list
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
-#: ../../english/template/debian/footer.wml:105
+#: ../../english/template/debian/footer.wml:107
 msgid ""
 "To report a problem with the web site, please e-mail our publicly archived "
 "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists."
@@ -213,23 +221,23 @@ msgstr ""
 "с нами связаться</a>. Также доступен <a href=\"https://salsa.debian.org/"
 "webmaster-team/webwml\">исходный код сайта</a>."
 
-#: ../../english/template/debian/footer.wml:108
+#: ../../english/template/debian/footer.wml:110
 msgid "Last Modified"
 msgstr "Последнее изменение"
 
-#: ../../english/template/debian/footer.wml:111
+#: ../../english/template/debian/footer.wml:113
 msgid "Copyright"
 msgstr "Авторские права"
 
-#: ../../english/template/debian/footer.wml:114
+#: ../../english/template/debian/footer.wml:116
 msgid "<a href=\"https://www.spi-inc.org/\">SPI</a> and others;"
 msgstr "<a href=\"https://www.spi-inc.org/\">SPI</a> и другие;"
 
-#: ../../english/template/debian/footer.wml:117
+#: ../../english/template/debian/footer.wml:119
 msgid "See <a href=\"m4_HOME/license\" rel=\"copyright\">license terms</a>"
 msgstr "См. <a href=\"m4_HOME/license\" rel=\"copyright\">условия лицензии</a>"
 
-#: ../../english/template/debian/footer.wml:120
+#: ../../english/template/debian/footer.wml:122
 msgid ""
 "Debian is a registered <a href=\"m4_HOME/trademark\">trademark</a> of "
 "Software in the Public Interest, Inc."
