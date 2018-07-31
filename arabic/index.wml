@@ -2,7 +2,7 @@
 #use wml::debian::recent_list
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="7f5feef4c8e00dce1b1fca0a8c7cf9e5dbcc69bf" maintainer="Med. Amine"
+#use wml::debian::translation-check translation="98c0b4f7169993370e0d1a720579833dd72f0db5" maintainer="Med. Amine"
 
 <div class="bidi">
 
@@ -13,7 +13,7 @@
 </div>
 
 <div id="intro">
-<p><a href="https://www.debian.org/">دبيان</a> 
+<p>دبيان 
 هو نظام تشغيل <a href="intro/free">حر</a> لحاسوبك.
 نظام التشغيل هو مجموعة البرامج الأساسية والأدوات لتشغيل الحاسوب.
 </p>

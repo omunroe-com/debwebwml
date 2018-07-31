@@ -1,6 +1,6 @@
 #use wml::debian::mainpage title="세계적인 운영체제"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="7f5feef4c8e00dce1b1fca0a8c7cf9e5dbcc69bf" maintainer="Sangdo Jun"
+#use wml::debian::translation-check translation="98c0b4f7169993370e0d1a720579833dd72f0db5" maintainer="Sangdo Jun"
 #Last-translator: Sangdo Jun, sebuls@gmail.com, 20171001
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
@@ -12,7 +12,7 @@
 </div>
 
 <div id="intro">
-<p><a href="https://www.debian.org/">데비안</a>은 여러분의 컴퓨터를 위한
+<p>데비안은 여러분의 컴퓨터를 위한
 <a href="intro/free">자유</a> 운영체제입니다.
 운영체제는 컴퓨터를 돌리는 기본 프로그램과 유틸리티 모음입니다.</p>
 

@@ -2,7 +2,7 @@
 #use wml::debian::recent_list
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="7f5feef4c8e00dce1b1fca0a8c7cf9e5dbcc69bf"
+#use wml::debian::translation-check translation="98c0b4f7169993370e0d1a720579833dd72f0db5"
 
 <span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">Debian
 <current_release_short><em>(64 ビット PC ネットワーク インストーラ)</em> のダウンロード</a> </span>
@@ -12,7 +12,7 @@
 </div>  
 
 <div id="intro">
-<p><a href="https://www.debian.org/">Debian</a> 
+<p>Debian 
 はあなたのコンピュータのための<a href="intro/free">フリー</a>なオペレーティングシステム (OS) です。
 オペレーティングシステムは、コンピュータを動作させるために必要な基本プログラムとユーティリティの集合体です。
 </p>
