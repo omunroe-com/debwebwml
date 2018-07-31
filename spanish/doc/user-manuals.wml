@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Manuales de usuario de Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048" maintainer="Laura Arjona Reina"
 
 <document "Preguntas de uso frecuente de Debian GNU/Linux" "faq">
 
@@ -170,7 +170,7 @@
    Se proporcionan tutoriales básicos, consejos, y otra información para 
    temas incluyendo instalación del sistema, administración de paquetes 
    Debian, el núcleo Linux en Debian, personalización del sistema,
-   hacer una pasarela, editores de texto, CVS, programación y GnuPG.
+   hacer una pasarela, editores de texto, VCS, programación y GnuPG.
 
    <p>Anteriormente se la conocía como «Guía de referencia rápida».
 
