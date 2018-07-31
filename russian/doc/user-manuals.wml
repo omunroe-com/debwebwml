@@ -1,7 +1,7 @@
 #use wml::debian::ddp title="Пользовательские руководства Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/user-manuals.defs"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048" maintainer="Lev Lamberov"
 
 <document "ЧаВО по Debian GNU/Linux" "faq">
 
@@ -165,8 +165,8 @@
    помощи вспомогательных скриптов оболочки. Простые руководства, подсказки и
    другая информация сгруппированы по разделам <q>установка системы</q>, <q>управление
    пакетами в системе Debian</q>, <q>ядро Linux в системе Debian</q>, <q>оптимизация
-   системы</q>, <q>создание сервера-шлюза</q>, <q>текстовые редакторы</q>, <q>система управления
-   версиями CVS</q>, <q>программирование</q> и <q>GnuPG</q>.
+   системы</q>, <q>создание сервера-шлюза</q>, <q>текстовые редакторы</q>, <q>системы управления
+   версиями</q>, <q>программирование</q> и <q>GnuPG</q>.
 
    <p>Ранее известен как <q>Краткий справочник</q>.
 

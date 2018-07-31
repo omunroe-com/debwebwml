@@ -1,5 +1,5 @@
 #use wml::debian::template title="Уголок разработчика Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Lev Lamberov"
 
 <p>Информация на этой странице, хотя и является общедоступной, интересна,
 прежде всего, разработчикам Debian.</p>
@@ -253,7 +253,7 @@
         и <a href="https://tracker.debian.org/">отслеживания пакетов</a>
         содержат важную информацию для разработчиков.
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">Система
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">Система
         отслеживания пакетов</a></dt>
         <dd>
         Система отслеживания пакетов позволяет разработчикам, желающим
@@ -299,7 +299,7 @@
         Debian wiki содержит советы разработчикам и другим участникам работы над системой.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#s4.6.4">\
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">\
             Экспериментальный дистрибутив</a></dt>
         <dd>
         <em>Экспериментальный</em> дистрибутив используется в качестве
@@ -381,7 +381,7 @@
         <dt>Преобразование ключей PGP в GPG:</dt>
         <dd>
         Как это сделать, описано в
-        <a href="$(DOC)/manuals/developers-reference/developer-duties#key-maint">
+        <a href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">
         справочнике разработчика</a>. Другую полезную информацию о подписывании
         ключа GPG ключом PGP вы можете почерпнуть из файла
         <em>/usr/share/doc/debian-keyring/README.gz</em> в составе пакета
