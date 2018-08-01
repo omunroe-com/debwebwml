@@ -1,5 +1,5 @@
 #use wml::debian::ddp title="Debian Documentatie Project"
-#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048"
 
 # Translator: $Author$
 # Last update: $Date$
@@ -60,12 +60,12 @@ pogingen om meer en betere documentatie voor Debian te schrijven.</p>
 		  installeren van Debian”) artikel in de Linux Gazette.</li>
     </ul>
     
-    <h3>SVN-toegang</h3>
+    <h3>Git-toegang</h3>
     <ul>
-	  <li><a href="cvs">Hoe toegang te krijgen tot</a> de SVN-opslagplaats van
+	  <li><a href="cvs">Hoe toegang te krijgen tot</a> de git-opslagplaats van
 	      het DDP.</li>
-      <li>DDP SVN-documenten in de <a href="manuals/">handleidingen
-          submap.</a></li>
+      <li>DDP git-documenten in de <a href="manuals/">submap
+          handleidingen</a>.</li>
     </ul>
 
   </div>
