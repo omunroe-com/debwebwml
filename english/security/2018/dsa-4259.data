@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4259-1 ruby2.3</define-tag>
+<define-tag report_date>2018-7-31</define-tag>
+<define-tag secrefs>CVE-2017-17405 CVE-2017-17742 CVE-2017-17790 CVE-2018-6914 CVE-2018-8777  CVE-2018-8778  CVE-2018-8779  CVE-2018-8780 CVE-2018-1000073 CVE-2018-1000074 CVE-2018-1000075 CVE-2018-1000076 CVE-2018-1000077 CVE-2018-1000078 CVE-2018-1000079</define-tag>
+<define-tag packages>ruby2.3</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
