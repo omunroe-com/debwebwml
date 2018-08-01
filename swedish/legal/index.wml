@@ -1,13 +1,15 @@
 #use wml::debian::template title="Rättsliga frågor"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="3982afa259f29366b3b5b16b6bb0fcddbff7260e"
 
 <p>Denna sektion av Debians webbplats är avsedd för rättsliga frågor.</p>
 
-<h2>Aktuella ämnen</h2>
+<h2>Legal information</h2>
 
 <ul>
   <li><a href="licenses/">Debians licenssammanfattningar</a></li>
   <li><a href="$(HOME)/trademark">Varumärken</a></li>
+  <li><a href="privacy">Integritetspolicy</a></li>
+  <li><a href="patent">Patentpolicy</a></li>
   <li><a href="cryptoinmain">Kryptografi i huvudarkivet</a></li>
   <li>
     <ul>
@@ -16,7 +18,6 @@
     </ul>
   </li>
   <li><a href="anssi">Kryptografisk export/import-attest</a></li>
-  <li><a href="patent">Patentpolicy</a></li>
 </ul>
 
 <h2>Sändlista</h2>
