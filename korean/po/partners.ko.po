@@ -5,23 +5,23 @@ msgstr ""
 
 #: ../../english/partners/partners.def:8
 msgid "Partner of the Month"
-msgstr ""
+msgstr "이 달의 파트너"
 
 #: ../../english/partners/partners.def:12
 msgid "Alphabetical List of Partners"
-msgstr ""
+msgstr "파트너 알파벳 순 목록"
 
 #: ../../english/partners/partners.def:16
 msgid "Development Partners"
-msgstr ""
+msgstr "개발 파트너"
 
 #: ../../english/partners/partners.def:20
 msgid "Financial Partners"
-msgstr ""
+msgstr "재정 파트너"
 
 #: ../../english/partners/partners.def:24
 msgid "Service Partners"
-msgstr ""
+msgstr "서비스 파트너"
 
 #: ../../english/partners/partners.def:30
 msgid ""
@@ -258,28 +258,45 @@ msgid ""
 "environment."
 msgstr ""
 
-#: ../../english/partners/partners.def:172
+#: ../../english/partners/partners.def:173
+msgid ""
+"<a href=\"https://www.stackpath.com/?utm_campaign=Partner%20Display&amp;"
+"utm_source=Partner%20Display&amp;utm_medium=Debian\">StackPath</a> provides "
+"Debian with content delivery network (CDN) services, allowing high "
+"availability of services like <a href=\"https://security-tracker.debian.org/"
+"\">the Security Bug Tracker</a> and <a href=\"https://planet.debian.org/"
+"\">Planet Debian</a>."
+msgstr ""
+
+#: ../../english/partners/partners.def:176
+msgid ""
+"StackPath is a platform of secure edge services that enables developers to "
+"protect, accelerate, and innovate cloud properties ranging from websites to "
+"media delivery and IoT services."
+msgstr ""
+
+#: ../../english/partners/partners.def:182
 msgid ""
 "<a href=\"http://www.telegraaf.nl/\">Telegraaf Media ICT BV</a> is "
 "supporting the Debian community by donating hardware, rackspace and "
 "bandwidth for the Debian server hosting alioth, arch and svn."
 msgstr ""
 
-#: ../../english/partners/partners.def:175
+#: ../../english/partners/partners.def:185
 msgid ""
 "Telegraaf Media ICT BV is running its internet infrastructure (appx. 200 "
 "Intel based servers) mainly based on Debian GNU/Linux servers; the sysadmins "
 "are highly motivated Debian users and some of them also Debian maintainers."
 msgstr ""
 
-#: ../../english/partners/partners.def:178
+#: ../../english/partners/partners.def:188
 msgid ""
 "Telegraaf Media Group runs some of the most popular Dutch websites (http://"
 "www.telegraaf.nl, http://www.speurders.nl and http://www.dft.nl) as well as "
 "the two biggest newspapers in The Netherlands."
 msgstr ""
 
-#: ../../english/partners/partners.def:184
+#: ../../english/partners/partners.def:194
 msgid ""
 "<a href=\"http://www.thomas-krenn.com\">Thomas Krenn</a> has provided a new "
 "high-end server for the Debian cdbuilder service. In addition, Thomas Krenn "
@@ -289,7 +306,7 @@ msgid ""
 "thomas-krenn.com/linux</a>."
 msgstr ""
 
-#: ../../english/partners/partners.def:187
+#: ../../english/partners/partners.def:197
 msgid ""
 "<a href=\"http://www.thomas-krenn.com\">Thomas Krenn</a> is Europe's leading "
 "online shop for server systems and high-quality hosting. They offer rack-"
@@ -299,7 +316,7 @@ msgid ""
 "course they support Debian as operating system on their servers!"
 msgstr ""
 
-#: ../../english/partners/partners.def:193
+#: ../../english/partners/partners.def:203
 msgid ""
 "<a href=\"http://www.trustsec.de/\">trustsec</a> pays two Debian developers "
 "to work on the S/390 port of Debian and packages mainly related to Java. "
@@ -308,7 +325,7 @@ msgid ""
 "for LinuxTag 2001 in Stuttgart."
 msgstr ""
 
-#: ../../english/partners/partners.def:196
+#: ../../english/partners/partners.def:206
 msgid ""
 "trustsec offers customer support, consulting and training for Debian on the "
 "Intel PC architecture (i386), PowerPC and IBM S/390 and is specialized on "
@@ -316,14 +333,14 @@ msgid ""
 "\"mailto:info@trustsec.de\">info@trustsec.de</a> for more information."
 msgstr ""
 
-#: ../../english/partners/partners.def:207
+#: ../../english/partners/partners.def:217
 msgid ""
 "<A HREF=\"http://www.brainfood.com/\">Brainfood</A> (previously called "
 "Novare) provides several machines to Debian, as well as hosting and server "
 "administration services."
 msgstr ""
 
-#: ../../english/partners/partners.def:210
+#: ../../english/partners/partners.def:220
 msgid ""
 "Brainfood is a technology solutions company whose goal is to work to produce "
 "an ideal result for a specific need, whether it's a website or an ongoing, "
@@ -332,7 +349,7 @@ msgid ""
 "\">debian-contact@brainfood.com</A>."
 msgstr ""
 
-#: ../../english/partners/partners.def:217
+#: ../../english/partners/partners.def:227
 msgid ""
 "<a href=\"http://www.hp.com/\">Hewlett-Packard</a> has provided hardware for "
 "port development, Debian mirrors, and other Debian services (current HP "
@@ -342,7 +359,7 @@ msgid ""
 "com/products1/linux/\">HP Linux</a>."
 msgstr ""
 
-#: ../../english/partners/partners.def:220
+#: ../../english/partners/partners.def:230
 msgid ""
 "Hewlett-Packard is one of the largest computer companies in the world, "
 "providing a wide range of products and services, such as servers, PCs, "
@@ -350,7 +367,7 @@ msgid ""
 "solutions, etc."
 msgstr ""
 
-#: ../../english/partners/partners.def:227
+#: ../../english/partners/partners.def:237
 msgid ""
 "<A HREF=\"http://www.linuxcentral.com/\">Linux Central</A> provides us with "
 "Debian GNU/Linux CD-ROM sets for trade show type events. These CD's help to "
@@ -358,7 +375,7 @@ msgid ""
 "current users."
 msgstr ""
 
-#: ../../english/partners/partners.def:231
+#: ../../english/partners/partners.def:241
 msgid ""
 "Linux Central sells all the latest releases of Linux products such as "
 "commercial software, books, hardware, and versions of major Linux "
@@ -368,14 +385,14 @@ msgid ""
 "contact <A HREF=\"mailto:sales@linuxcentral.com\">sales@linuxcentral.com</A>."
 msgstr ""
 
-#: ../../english/partners/partners.def:238
+#: ../../english/partners/partners.def:248
 msgid ""
 "<a href=\"http://www.mythic-beasts.com\">Mythic Beasts Ltd.</a> supports "
 "Debian (and SPI Inc) by providing domain registration facilities.</p><p>They "
 "are a UK based web hosting, domain registration and co-location company."
 msgstr ""
 
-#: ../../english/partners/partners.def:245
+#: ../../english/partners/partners.def:255
 msgid ""
 "San Francisco based <a href=\"http://www.nostarch.com/\">No Starch Press</"
 "a>, publisher of \"The Finest in Geek Entertainment,\" is co-publisher of "
@@ -386,7 +403,7 @@ msgid ""
 "copy of The Debian System to the Debian Project."
 msgstr ""
 
-#: ../../english/partners/partners.def:252
+#: ../../english/partners/partners.def:262
 msgid ""
 "<a href=\"http://www.opensourcepress.de/\">Open Source Press</a> is the "
 "Munich-based publisher of the book <a href=\"http://debiansystem.info/\">The "
@@ -394,7 +411,7 @@ msgid ""
 "donate 1&euro; to the Debian Project."
 msgstr ""
 
-#: ../../english/partners/partners.def:255
+#: ../../english/partners/partners.def:265
 msgid ""
 "Open Source Press specialises on books around Linux and Open Source "
 "Software, written by authors with considerable experience in the fields, and "
@@ -402,7 +419,7 @@ msgid ""
 "Source Press publications are renowned for their quality and depth."
 msgstr ""
 
-#: ../../english/partners/partners.def:263
+#: ../../english/partners/partners.def:273
 msgid ""
 "<a href=\"http://www.rapidswitch.com/\">RapidSwitch</a> (formely Black Cat "
 "Networks) is a UK ISP specialising in dedicated hosting. It provides "
@@ -410,13 +427,13 @@ msgid ""
 "virtual servers."
 msgstr ""
 
-#: ../../english/partners/partners.def:266
+#: ../../english/partners/partners.def:276
 msgid ""
 "It hosts a Debian development machine, <a href=\"https://db.debian.org/"
 "machines.cgi?host=caballero\">caballero</a>."
 msgstr ""
 
-#: ../../english/partners/partners.def:274
+#: ../../english/partners/partners.def:284
 msgid ""
 "<a href=\"http://www.simtec.co.uk\">Simtec</a> has provided several ARM "
 "machines which make up the bulk of the Debian ARM infrastructure. In "
@@ -424,7 +441,7 @@ msgid ""
 "ARM port."
 msgstr ""
 
-#: ../../english/partners/partners.def:277
+#: ../../english/partners/partners.def:287
 msgid ""
 "Simtec is a leading provider of ARM based computing products. We have a "
 "range of <a href=\"http://www.simtec.co.uk/products/boards.html\">boards</a> "
