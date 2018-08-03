@@ -1,8 +1,8 @@
 #use wml::debian::ddp title="Proyecto de documentación de Debian (DDP)"
-#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618"
+#use wml::debian::translation-check translation="6fb6b036dd209b63e98e309c29803afec40f7048"
 
 <p>El Proyecto de Documentación de Debian (DDP) se formó para coordinar y unificar 
-todos los esfuerzos y escribir mayor y mejor documentación para el sistema Debian.</p>
+todos los esfuerzos y escribir más y mejor documentación para el sistema Debian.</p>
 
   <h2>Trabajo del DDP</h2>
 <div class="line">
@@ -53,10 +53,10 @@ todos los esfuerzos y escribir mayor y mejor documentación para el sistema Debi
           Gazette</li>
     </ul>
     
-    <h3>Acceso mediante SVN</h3>
+    <h3>Acceso mediante Git</h3>
     <ul>
-      <li><a href="cvs">Cómo acceder</a> al repositorio SVN del DDP</li>
-      <li>Documentos del SVN de DDP <a href="manuals/">en el subdirectorio
+      <li><a href="cvs">Cómo acceder</a> al repositorio git del DDP</li>
+      <li>Documentos del git de DDP <a href="manuals/">en el subdirectorio
           <q>manuals</q></a></li>
     </ul>
 
@@ -67,7 +67,7 @@ todos los esfuerzos y escribir mayor y mejor documentación para el sistema Debi
 
 <hr class="clr">
 
-<p>Nota para los usuarios que usen el portugués como lengua madre: Visiten
+<p>Nota para los usuarios que usen el portugués como lengua materna: visiten
 la página web <a href="http://wiki.debianbrasil.org/">DDP-BR</a> para encontrar 
 documentación de Debian en el portugués hablado en Brasil.</p>
 
