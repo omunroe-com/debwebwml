@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="7e8fedd4323e490f7b14377031ef0e368ce1792e" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В libsmpack, библиотеке для работы с форматами сжатия Microsoft, было обнаружено
+несколько уязвимостей. Удалённый злоумышленник может создать специальные файлы в
+форматах CAB, CHM или KWAJ и использовать указанные уязвимости для вызова отказа в
+обслуживании из-за аварийной остановки приложения или потенциального выполнения произвольного кода.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 0.5-1+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты libmspack.</p>
+
+<p>С подробным статусом поддержки безопасности libmspack можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/libmspack">\
+https://security-tracker.debian.org/tracker/libmspack</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4260.data"
