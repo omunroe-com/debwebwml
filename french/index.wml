@@ -2,7 +2,7 @@
 #use wml::debian::recent_list
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="7f5feef4c8e00dce1b1fca0a8c7cf9e5dbcc69bf" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="22dbd3c9647af354d2b6568836a5d87dee3115f7" maintainer="Jean-Paul Guillonneau"
 
 #traducteurs et contributeurs, voir le journal :
 #https://anonscm.debian.org/viewvc/webwml/webwml/french/index.wml?diff_format=h&view=log
@@ -20,7 +20,7 @@ Télécharger Debian <current_release_short><em>(installation par le réseau po
 </div>
 
 <div id="intro">
-<p><a href="https://www.debian.org/">Debian</a> est un système d'exploitation
+<p>Debian est un système d'exploitation
 <a href="intro/free">libre</a> pour votre ordinateur. Un système d'exploitation
 est une suite de programmes de base et d’utilitaires permettant à un ordinateur
 de fonctionner.

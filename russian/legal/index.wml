@@ -1,14 +1,16 @@
 #use wml::debian::template title="Правовые вопросы"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="3982afa259f29366b3b5b16b6bb0fcddbff7260e" maintainer="Lev Lamberov"
 
 # TODO: a better introduction!
 <p>Этот раздел веб-сайта Debian посвящён правовым вопросам.</p>
 
-<h2>Текущее</h2>
+<h2>Юридическая информация</h2>
 
 <ul>
   <li><a href="licenses/">Конспекты лицензий</a></li>
   <li><a href="$(HOME)/trademark">Торговые марки</a></li>
+  <li><a href="privacy">Политика относительно персональных данных</a></li>
+  <li><a href="patent">Политика относительно патентов</a></li>
   <li><a href="cryptoinmain">Криптографическое ПО в main</a>
     <ul>
       <li><a href="notificationforarchive">Изначальное сообщение для архива</a></li>
@@ -16,7 +18,6 @@
     </ul>
   </li>
   <li><a href="anssi">Аттестация криптографического экспорта/импорта</a></li>
-  <li><a href="patent">Политика относительно патентов</a></li>
 </ul>
 
 <h2>Список рассылки</h2>

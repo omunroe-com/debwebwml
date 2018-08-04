@@ -65,7 +65,7 @@ o mediante correo electrónico usando la orden <code>refcard</code>.
 # No creo que tal y como esté esté claro (jfs)
       <td valign="top">
       <ul class="nodecoration">
-          <li><a href="#reassign">reasign (reasignar)</a></li>
+          <li><a href="#reassign">reassign (reasignar)</a></li>
           <li><a href="#severity">severity (gravedad)</a></li>
           <li><a href="#tag">tags (etiquetas)</a></li>
           <li><a href="#retitle">retitle (retitulación)</a></li>

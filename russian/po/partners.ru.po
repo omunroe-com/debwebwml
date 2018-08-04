@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml partners\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-12-31 17:40+0500\n"
+"PO-Revision-Date: 2018-07-31 22:54+0500\n"
 "Last-Translator: Lev Lamberov <dogsleg@debian.org>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.9\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
@@ -409,7 +409,34 @@ msgstr ""
 "требующую знания Linux или сетей. Она содержит 15 заранее настроенных "
 "серверов и локализованную среду."
 
-#: ../../english/partners/partners.def:172
+#: ../../english/partners/partners.def:173
+msgid ""
+"<a href=\"https://www.stackpath.com/?utm_campaign=Partner%20Display&amp;"
+"utm_source=Partner%20Display&amp;utm_medium=Debian\">StackPath</a> provides "
+"Debian with content delivery network (CDN) services, allowing high "
+"availability of services like <a href=\"https://security-tracker.debian.org/"
+"\">the Security Bug Tracker</a> and <a href=\"https://planet.debian.org/"
+"\">Planet Debian</a>."
+msgstr ""
+"<a href=\"https://www.stackpath.com/?utm_campaign=Partner%20Display&amp;"
+"utm_source=Partner%20Display&amp;utm_medium=Debian\">StackPath</a> "
+"предоставляет Debian услуги сети доставки содержимого (CDN), позволяя "
+"обеспечивать высокую доступность таких служб как <a href=\"https://security-"
+"tracker.debian.org/\">система отслеживания безопасности</a> и <a href="
+"\"https://planet.debian.org/\">Планета Debian</a>."
+
+#: ../../english/partners/partners.def:176
+msgid ""
+"StackPath is a platform of secure edge services that enables developers to "
+"protect, accelerate, and innovate cloud properties ranging from websites to "
+"media delivery and IoT services."
+msgstr ""
+"StackPath &mdash; платформа безопасных граничных служб, позволяющих "
+"разработчикам защищать, ускорять и инновационно использовать различные "
+"облачные возможности, начиная от веб-сайтов и заканчивая службами доставки "
+"мультимедиа и Интернетом вещей."
+
+#: ../../english/partners/partners.def:182
 msgid ""
 "<a href=\"http://www.telegraaf.nl/\">Telegraaf Media ICT BV</a> is "
 "supporting the Debian community by donating hardware, rackspace and "
@@ -419,7 +446,7 @@ msgstr ""
 "сообщество Debian, предоставляя оборудование, rackspace и услуги связи для "
 "сервера Debian, хостирующего alioth, arch и svn."
 
-#: ../../english/partners/partners.def:175
+#: ../../english/partners/partners.def:185
 msgid ""
 "Telegraaf Media ICT BV is running its internet infrastructure (appx. 200 "
 "Intel based servers) mainly based on Debian GNU/Linux servers; the sysadmins "
@@ -430,7 +457,7 @@ msgstr ""
 "Системные администраторы сильно заинтересованные пользователи Debian и "
 "некоторые из них тоже сопровождающие Debian."
 
-#: ../../english/partners/partners.def:178
+#: ../../english/partners/partners.def:188
 msgid ""
 "Telegraaf Media Group runs some of the most popular Dutch websites (http://"
 "www.telegraaf.nl, http://www.speurders.nl and http://www.dft.nl) as well as "
@@ -441,7 +468,7 @@ msgstr ""
 "speurders.nl и http://www.dft.nl), и, кроме того, двух крупнейших газет в "
 "Голландии."
 
-#: ../../english/partners/partners.def:184
+#: ../../english/partners/partners.def:194
 msgid ""
 "<a href=\"http://www.thomas-krenn.com\">Thomas Krenn</a> has provided a new "
 "high-end server for the Debian cdbuilder service. In addition, Thomas Krenn "
@@ -457,7 +484,7 @@ msgstr ""
 "Linux Open Source см. на <a href=\"http://www.thomas-krenn.com/linux"
 "\">http://www.thomas-krenn.com/linux</a>."
 
-#: ../../english/partners/partners.def:187
+#: ../../english/partners/partners.def:197
 msgid ""
 "<a href=\"http://www.thomas-krenn.com\">Thomas Krenn</a> is Europe's leading "
 "online shop for server systems and high-quality hosting. They offer rack-"
@@ -474,7 +501,7 @@ msgstr ""
 "течение 24 часов по всей Европе. И, конечно же, они обеспечивают поддержку "
 "операционной системы Debian для своих серверов!"
 
-#: ../../english/partners/partners.def:193
+#: ../../english/partners/partners.def:203
 msgid ""
 "<a href=\"http://www.trustsec.de/\">trustsec</a> pays two Debian developers "
 "to work on the S/390 port of Debian and packages mainly related to Java. "
@@ -488,7 +515,7 @@ msgstr ""
 "\">web-портал</a> Debian на S/390 и zSeries. Они оплатили бесплатные компакт-"
 "диски Debian на LinuxTag2001 в Штутгарте и работали с ними."
 
-#: ../../english/partners/partners.def:196
+#: ../../english/partners/partners.def:206
 msgid ""
 "trustsec offers customer support, consulting and training for Debian on the "
 "Intel PC architecture (i386), PowerPC and IBM S/390 and is specialized on "
@@ -501,7 +528,7 @@ msgstr ""
 "Более подробную информацию вы можете получить, отправив письма по адресу <a "
 "href=\"mailto:info@trustsec.de\">info@trustsec.de</a>."
 
-#: ../../english/partners/partners.def:207
+#: ../../english/partners/partners.def:217
 msgid ""
 "<A HREF=\"http://www.brainfood.com/\">Brainfood</A> (previously called "
 "Novare) provides several machines to Debian, as well as hosting and server "
@@ -511,7 +538,7 @@ msgstr ""
 "предоставил Debian несколько машин, а также хостинг и услуги по "
 "администрированию серверов."
 
-#: ../../english/partners/partners.def:210
+#: ../../english/partners/partners.def:220
 msgid ""
 "Brainfood is a technology solutions company whose goal is to work to produce "
 "an ideal result for a specific need, whether it's a website or an ongoing, "
@@ -526,7 +553,7 @@ msgstr ""
 "можете получить, связавшись с <A HREF=\"mailto:debian-contact@brainfood.com"
 "\">debian-contact@brainfood.com</A>."
 
-#: ../../english/partners/partners.def:217
+#: ../../english/partners/partners.def:227
 msgid ""
 "<a href=\"http://www.hp.com/\">Hewlett-Packard</a> has provided hardware for "
 "port development, Debian mirrors, and other Debian services (current HP "
@@ -542,7 +569,7 @@ msgstr ""
 "об участии HP в сообществе Linux Open Source см. на <a href=\"http://www.hp."
 "com/products1/linux/\">HP Linux</a>."
 
-#: ../../english/partners/partners.def:220
+#: ../../english/partners/partners.def:230
 msgid ""
 "Hewlett-Packard is one of the largest computer companies in the world, "
 "providing a wide range of products and services, such as servers, PCs, "
@@ -554,7 +581,7 @@ msgstr ""
 "компьютеры, принтеры, продукты для организации хранилищ, сетевое "
 "оборудование, ПО, облачные решения и т. д."
 
-#: ../../english/partners/partners.def:227
+#: ../../english/partners/partners.def:237
 msgid ""
 "<A HREF=\"http://www.linuxcentral.com/\">Linux Central</A> provides us with "
 "Debian GNU/Linux CD-ROM sets for trade show type events. These CD's help to "
@@ -567,7 +594,7 @@ msgstr ""
 "поскольку потенциальные и нынешние пользователи получают систему прямо в "
 "руки."
 
-#: ../../english/partners/partners.def:231
+#: ../../english/partners/partners.def:241
 msgid ""
 "Linux Central sells all the latest releases of Linux products such as "
 "commercial software, books, hardware, and versions of major Linux "
@@ -584,7 +611,7 @@ msgstr ""
 "сведения. &nbsp; Чтобы получить более подробную информацию, напишите по "
 "адресу <A HREF=\"mailto:sales@linuxcentral.com\">sales@linuxcentral.com</A>."
 
-#: ../../english/partners/partners.def:238
+#: ../../english/partners/partners.def:248
 msgid ""
 "<a href=\"http://www.mythic-beasts.com\">Mythic Beasts Ltd.</a> supports "
 "Debian (and SPI Inc) by providing domain registration facilities.</p><p>They "
@@ -594,7 +621,7 @@ msgstr ""
 "Debian (и SPI Inc) услуги по регистрации доменов.</p><p>Она предоставляет "
 "услуги веб-хостинга, регистрации доменов и площадку по серверы заказчика."
 
-#: ../../english/partners/partners.def:245
+#: ../../english/partners/partners.def:255
 msgid ""
 "San Francisco based <a href=\"http://www.nostarch.com/\">No Starch Press</"
 "a>, publisher of \"The Finest in Geek Entertainment,\" is co-publisher of "
@@ -612,7 +639,7 @@ msgstr ""
 "системы, сети, хакерство, программирование и LEGO. No Starch Press отчисляет "
 "$1 США от продаж каждой копии The Debian System Проекту Debian."
 
-#: ../../english/partners/partners.def:252
+#: ../../english/partners/partners.def:262
 msgid ""
 "<a href=\"http://www.opensourcepress.de/\">Open Source Press</a> is the "
 "Munich-based publisher of the book <a href=\"http://debiansystem.info/\">The "
@@ -624,7 +651,7 @@ msgstr ""
 "info/\">The Debian System</a                      >. С каждой проданной "
 "книги издательство и автор отчисляют 1&euro; Проекту Debian."
 
-#: ../../english/partners/partners.def:255
+#: ../../english/partners/partners.def:265
 msgid ""
 "Open Source Press specialises on books around Linux and Open Source "
 "Software, written by authors with considerable experience in the fields, and "
@@ -636,7 +663,7 @@ msgstr ""
 "сотрудничестве с сообществами. Книги Open Source Press известны своим "
 "качеством и глубиной изложения."
 
-#: ../../english/partners/partners.def:263
+#: ../../english/partners/partners.def:273
 msgid ""
 "<a href=\"http://www.rapidswitch.com/\">RapidSwitch</a> (formely Black Cat "
 "Networks) is a UK ISP specialising in dedicated hosting. It provides "
@@ -649,7 +676,7 @@ msgstr ""
 "серверные решения, размещение серверов заказчика на своих площадках и "
 "виртуальные серверы VPS."
 
-#: ../../english/partners/partners.def:266
+#: ../../english/partners/partners.def:276
 msgid ""
 "It hosts a Debian development machine, <a href=\"https://db.debian.org/"
 "machines.cgi?host=caballero\">caballero</a>."
@@ -657,7 +684,7 @@ msgstr ""
 "У них размещены несколько серверов Debian: <a href=\"https://db.debian.org/"
 "machines.cgi?host=caballero\">Caballero</a>."
 
-#: ../../english/partners/partners.def:274
+#: ../../english/partners/partners.def:284
 msgid ""
 "<a href=\"http://www.simtec.co.uk\">Simtec</a> has provided several ARM "
 "machines which make up the bulk of the Debian ARM infrastructure. In "
@@ -669,7 +696,7 @@ msgstr ""
 "Simtec предоставляет работу нескольким разработчикам которые содействуют ARM "
 "переносу Debian."
 
-#: ../../english/partners/partners.def:277
+#: ../../english/partners/partners.def:287
 msgid ""
 "Simtec is a leading provider of ARM based computing products. We have a "
 "range of <a href=\"http://www.simtec.co.uk/products/boards.html\">boards</a> "

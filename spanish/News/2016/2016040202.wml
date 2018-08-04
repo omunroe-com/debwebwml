@@ -1,0 +1,316 @@
+#use wml::debian::translation-check translation="04046ccaf8a2556fdf9c38ba6ea840d8d003459d"
+<define-tag pagetitle>Debian 7 actualizado: publicada la versión 7.10</define-tag>
+<define-tag release_date>2016-04-02</define-tag>
+#use wml::debian::news
+
+<define-tag release>7</define-tag>
+<define-tag codename>wheezy</define-tag>
+<define-tag revision>7.10</define-tag>
+
+<define-tag dsa>
+    <tr><td align="center"><a href="$(HOME)/security/%0/dsa-%1">DSA-%1</a></td>
+        <td align="center"><:
+    my @p = ();
+    for my $p (split (/,\s*/, "%2")) {
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
+    }
+    print join (", ", @p);
+:></td></tr>
+</define-tag>
+
+<define-tag correction>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+</define-tag>
+
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
+
+<p>El proyecto Debian se complace en anunciar la décima actualización de su
+distribución «antigua estable» Debian <release> (nombre en clave <q><codename></q>).
+Esta versión añade, principalmente, correcciones de problemas de seguridad a la distribución
+«antigua estable», junto con unos pocos ajustes para problemas graves. Los avisos de seguridad
+se han publicado ya de forma independiente, y aquí hacemos referencia a ellos donde corresponde.</p>
+
+<p>Tenga en cuenta que esta actualización no constituye una nueva versión completa de Debian
+<release>, solo actualiza algunos de los paquetes incluidos. No es
+necesario deshacerse de los viejos CD o DVD de <q><codename></q>, basta con actualizar un
+sistema Debian ya instalado, utilizando una réplica que esté al día, para que los
+paquetes instalados de los que haya una versión posterior se actualicen.</p>
+
+<p>Quienes instalen frecuentemente actualizaciones desde security.debian.org no tendrán
+que actualizar muchos paquetes, y la mayoría de dichas actualizaciones están
+incluidas en esta nueva versión.</p>
+
+<p>Pronto habrá disponibles nuevos medios de instalación e imágenes de CD y de DVD con
+paquetes actualizados en los sitios habituales.</p>
+
+<p>La actualización en línea a esta versión se realiza habitualmente haciendo que
+la herramienta de gestión de paquetes aptitude (o apt) apunte a una de las muchas réplicas
+FTP o HTTP de Debian (vea la página del manual sources.list(5)). En la dirección siguiente
+puede encontrar el listado completo de réplicas:</p>
+
+<div class="center">
+  <a href="$(HOME)/mirror/list">https://www.debian.org/mirror/list</a>
+</div>
+
+<h2>Corrección de errores varios</h2>
+
+<p>Esta actualización de la distribución «antigua estable» añade unas pocas correcciones importantes a los
+paquetes siguientes:</p>
+<table border=0>
+<tr><th>Paquete</th>               <th>Motivo</th></tr>
+<correction amd64-microcode                  "Actualiza parche de microcódigo de AMD para procesadores de la familia AMD 15h para corregir errores en un parche de microcódigo anterior">
+<correction aptdaemon                        "Corrección de seguridad [CVE-2015-1323]">
+<correction base-files                       "Actualizado para esta versión">
+<correction c-icap                           "Corrige FTBFS con versiones de OpenSSL <q>más recientes</q>; recompilado contra libclamav7">
+<correction c-icap-modules                   "Recompilado contra libclamav7">
+<correction calendarserver                   "Corrige POODLE; actualiza zoneinfo a tzdata 2015g">
+<correction clamav                           "Evita acceso a memoria no alineado; nueva versión del proyecto original">
+<correction commons-httpclient               "Asegura que las llamadas HTTPS usan http.socket.timeout durante el «handshake» SSL [CVE-2015-5262]">
+<correction dansguardian                     "Recompilado contra libclamav7">
+<correction dbconfig-common                  "Corrige permiso de ficheros de backup de PostgreSQL">
+<correction debian-installer                 "Recompilado contra oldstable-proposed-updates">
+<correction debian-installer-netboot-images  "Recompilado contra el nuevo debian-installer">
+<correction exfat-utils                      "Corrige desbordamiento de memoria y bucle infinito">
+<correction exim4                            "Corrige defecto en el parche 89_02_Store-the-initial-working-directory.diff correspondiente a la subida de parches de seguridad anterior">
+<correction firebug                          "Actualizado para compatibilidad con versiones de Iceweasel más recientes">
+<correction fuse-exfat                       "Corrige desbordamiento de memoria y bucle infinito">
+<correction giflib                           "Abandona si Width &gt; SWidth [CVE-2015-7555]">
+<correction gummi                            "Evita nombres de ficheros temporales predecibles [CVE 2015-7758]">
+<correction iptables-persistent              "Los ficheros de reglas dejan de tener permiso universal de lectura">
+<correction libclamunrar                     "Recompilado para libclamav7">
+<correction libdatetime-timezone-perl        "Actualiza los datos incluidos a tzdata 2016c">
+<correction libhtml-scrubber-perl            "Corrige vulnerabilidad de cross site scripting en comentarios [CVE-2015-5667]">
+<correction libiptables-parse-perl           "Corrige uso de nombres de ficheros temporales predecibles [CVE-2015-8326]">
+<correction librsvg                          "Corrige lectura de memoria dinámica («heap») fuera de límites al analizar sintácticamente fichero SVG [CVE-2015-7557]">
+<correction libssh                           "Corrige <q>doble liberación de punteros colgantes en paquete de intercambio de clave inicial</q> [CVE-2014-8132]; corrige <q>desreferencia de puntero nulo debido a un error lógico en la gestión de paquetes SSH_MSG_NEWKEYS y KEXDH_REPLY</q> [CVE-2015-3146]">
+<correction linux                            "Actualizado a la nueva versión «estable» del proyecto original 3.2.78; drm, agp: actualizados a 3.4.110; rt: actualizado a 3.2.77-rt111; ppp, slip: validan completamente los parámetros de la ranura («slot») en la compresión VJ [CVE-2015-7799]; KVM: svm: intercepta #DB incondicionalmente [CVE-2015-8104]">
+<correction live-tools                       "Depende de initramfs-tools">
+<correction maven2                           "Recompilado con libmaven2-core-java 2.2.1-8+deb7u1 para utilizar por omisión una conexión segura al descargar artefactos desde el repositorio Maven Central">
+<correction maven2-core                      "Utiliza por omisión una conexión segura al descargar artefactos desde el repositorio Maven Central">
+<correction nvidia-graphics-drivers          "Nueva versión del proyecto original [CVE-2015-5950]; corrige problema de entrada en modo usuario no saneada [CVE-2015-7869]">
+<correction nvidia-graphics-modules          "Recompilado con nvidia-kernel-source 304.131">
+<correction pykerberos                       "Añade soporte de verificación de autenticidad del KDC [CVE-2015-3206]">
+<correction python-clamav                    "Recompilado contra libclamav7">
+<correction sendmail                         "Da valor correctamente al indicador close-on-exec para los descriptores de ficheros antes de ejecutar los mailers [CVE-2014-3956]; corrige una aserción incorrecta en libmilter; añade soporte para las opciones OpenSSL SSL_OP_NO_TLSv1_1 y SSL_OP_NO_TLSv1_2; corrige problemas de asociación de interfaz con CNAME y con MX solo-A al usar IPv6; incrementa MAXDAEMONS de 10 a 64; inicia sendmail después de bind9 (o de cualquier otro named) si está instalado; corrige bucle infinito en update_db">
+<correction stk                              "Instala los ficheros incluidos SKINI.msg y .tbl, que faltaban">
+<correction tzdata                           "Nueva versión del proyecto original">
+<correction zendframework                    "Corrige problema de entropía con captcha [ZF2015-09]">
+</table>
+
+<h2>Actualizaciones de seguridad</h2>
+
+
+<p>Esta versión añade las siguientes actualizaciones de seguridad a la distribución
+«antigua estable». El equipo de seguridad ya ha publicado un aviso para cada una
+de estas actualizaciones:</p>
+
+<table border=0>
+<tr><th>ID del aviso</th>  <th>Paquete</th></tr>
+
+
+<dsa 2013 2722 openjdk-7>
+<dsa 2014 2923 openjdk-7>
+<dsa 2014 2987 openjdk-7>
+<dsa 2014 3080 openjdk-7>
+<dsa 2015 3132 icedove>
+<dsa 2015 3144 openjdk-7>
+<dsa 2015 3173 libgtk2-perl>
+<dsa 2015 3179 icedove>
+<dsa 2015 3208 freexl>
+<dsa 2015 3212 icedove>
+<dsa 2015 3235 openjdk-7>
+<dsa 2015 3264 icedove>
+<dsa 2015 3316 openjdk-7>
+<dsa 2015 3324 icedove>
+<dsa 2015 3337 gdk-pixbuf>
+<dsa 2015 3346 drupal7>
+<dsa 2015 3349 qemu-kvm>
+<dsa 2015 3349 qemu>
+<dsa 2015 3350 bind9>
+<dsa 2015 3352 screen>
+<dsa 2015 3353 openslp-dfsg>
+<dsa 2015 3355 libvdpau>
+<dsa 2015 3358 php5>
+<dsa 2015 3359 virtualbox>
+<dsa 2015 3361 qemu>
+<dsa 2015 3362 qemu-kvm>
+<dsa 2015 3364 linux>
+<dsa 2015 3365 iceweasel>
+<dsa 2015 3366 rpcbind>
+<dsa 2015 3369 zendframework>
+<dsa 2015 3370 freetype>
+<dsa 2015 3371 spice>
+<dsa 2015 3377 mysql-5.5>
+<dsa 2015 3378 gdk-pixbuf>
+<dsa 2015 3379 miniupnpc>
+<dsa 2015 3380 php5>
+<dsa 2015 3381 openjdk-7>
+<dsa 2015 3382 phpmyadmin>
+<dsa 2015 3383 wordpress>
+<dsa 2015 3384 virtualbox>
+<dsa 2015 3386 unzip>
+<dsa 2015 3387 openafs>
+<dsa 2015 3388 ntp>
+<dsa 2015 3390 xen>
+<dsa 2015 3392 freeimage>
+<dsa 2015 3393 iceweasel>
+<dsa 2015 3395 krb5>
+<dsa 2015 3397 wpa>
+<dsa 2015 3398 strongswan>
+<dsa 2015 3399 libpng>
+<dsa 2015 3401 openjdk-7>
+<dsa 2015 3403 libcommons-collections3-java>
+<dsa 2015 3404 python-django>
+<dsa 2015 3405 smokeping>
+<dsa 2015 3406 nspr>
+<dsa 2015 3407 dpkg>
+<dsa 2015 3408 gnutls26>
+<dsa 2015 3409 putty>
+<dsa 2015 3413 openssl>
+<dsa 2015 3416 libphp-phpmailer>
+<dsa 2015 3417 bouncycastle>
+<dsa 2015 3420 bind9>
+<dsa 2015 3421 grub2>
+<dsa 2015 3422 iceweasel>
+<dsa 2015 3423 cacti>
+<dsa 2015 3426 linux>
+<dsa 2016 3426 ctdb>
+<dsa 2015 3427 blueman>
+<dsa 2015 3429 foomatic-filters>
+<dsa 2015 3430 libxml2>
+<dsa 2016 3431 ganeti>
+<dsa 2016 3433 samba>
+<dsa 2016 3434 linux>
+<dsa 2016 3435 git>
+<dsa 2016 3436 openssl>
+<dsa 2016 3437 gnutls26>
+<dsa 2016 3438 xscreensaver>
+<dsa 2016 3439 prosody>
+<dsa 2016 3440 sudo>
+<dsa 2016 3443 libpng>
+<dsa 2016 3444 wordpress>
+<dsa 2016 3445 pygments>
+<dsa 2016 3446 openssh>
+<dsa 2016 3447 tomcat7>
+<dsa 2016 3450 ecryptfs-utils>
+<dsa 2016 3452 claws-mail>
+<dsa 2016 3459 mysql-5.5>
+<dsa 2016 3460 privoxy>
+<dsa 2016 3461 freetype>
+<dsa 2016 3462 radicale>
+<dsa 2016 3463 prosody>
+<dsa 2016 3466 krb5>
+<dsa 2016 3468 polarssl>
+<dsa 2016 3469 qemu>
+<dsa 2016 3470 qemu-kvm>
+<dsa 2016 3472 wordpress>
+<dsa 2016 3473 nginx>
+<dsa 2016 3478 libgcrypt11>
+<dsa 2016 3479 graphite2>
+<dsa 2016 3483 cpio>
+<dsa 2016 3484 xdelta3>
+<dsa 2016 3485 didiwiki>
+<dsa 2016 3487 libssh2>
+<dsa 2016 3488 libssh>
+<dsa 2016 3489 lighttpd>
+<dsa 2016 3490 websvn>
+<dsa 2016 3492 gajim>
+<dsa 2016 3493 xerces-c>
+<dsa 2016 3494 cacti>
+<dsa 2016 3498 drupal7>
+<dsa 2016 3499 python-imaging>
+<dsa 2016 3500 openssl>
+<dsa 2016 3501 perl>
+<dsa 2016 3502 roundup>
+<dsa 2016 3503 linux>
+<dsa 2016 3504 bsh>
+<dsa 2016 3505 wireshark>
+<dsa 2016 3506 libav>
+<dsa 2016 3508 jasper>
+<dsa 2016 3511 bind9>
+<dsa 2016 3512 libotr>
+<dsa 2016 3514 samba>
+<dsa 2016 3516 wireshark>
+<dsa 2016 3517 exim4>
+<dsa 2016 3518 spip>
+<dsa 2016 3521 git>
+<dsa 2016 3522 squid3>
+<dsa 2016 3524 activemq>
+<dsa 2016 3525 pixman>
+<dsa 2016 3526 libmatroska>
+<dsa 2016 3527 inspircd>
+<dsa 2016 3532 quagga>
+
+</table>
+
+<h2>Paquetes eliminados</h2>
+
+<p>Se han eliminado los paquetes listados a continuación por circunstancias ajenas
+a nosotros:</p>
+
+
+<table border=0>
+<tr><th>Paquete</th>               <th>Motivo</th></tr>
+
+<correction gnome-gmail               "Roto">
+<correction libnsbmp                  "Problemas de seguridad, sin mantenimiento activo">
+<correction libnsgif                  "Problemas de seguridad, sin mantenimiento activo">
+<correction tlslite                   "Sin mantenimiento activo, anticuado">
+<correction vimperator                "Incompatible con versiones de iceweasel más recientes">
+</table>
+
+<h2>Instalador de Debian</h2>
+
+Se ha actualizado el instalador para incluir las correcciones incorporadas
+por esta nueva versión en la distribución «antigua estable».
+
+<h2>URL</h2>
+
+<p>Las listas completas de paquetes que han cambiado en esta
+versión:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/<downcase <codename>>/ChangeLog">
+</div>
+
+<p>La distribución «antigua estable» actual:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/oldstable/">
+</div>
+
+<p>Actualizaciones propuestas a la distribución «antigua estable»:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/oldstable-proposed-updates">
+</div>
+
+<p>Información sobre la distribución «antigua estable» (notas de publicación, erratas, etc.):</p>
+
+<div class="center">
+  <a
+  href="$(HOME)/releases/oldstable/">https://www.debian.org/releases/oldstable/</a>
+</div>
+
+<p>Información y anuncios de seguridad:</p>
+
+<div class="center">
+  <a href="$(HOME)/security/">https://security.debian.org/</a>
+</div>
+
+
+<h2>Acerca de Debian</h2>
+
+<p>El proyecto Debian es una asociación de desarrolladores de software libre que
+aportan de forma voluntaria su tiempo y esfuerzo para producir el sistema operativo
+Debian, un sistema operativo completamente libre.</p>
+
+
+<h2>Información de contacto</h2>
+
+<p>Para más información, visite las páginas web de Debian en
+<a href="$(HOME)/">https://www.debian.org/</a>, envíe un correo electrónico a
+&lt;press@debian.org&gt; o contacte con el equipo responsable de la publicación en
+&lt;debian-release@lists.debian.org&gt;.</p>
+
+

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PAGENAME="Выпуски за 2014 год"
 #use wml::debian::projectnews::index
-#use wml::debian::translation-check translation="76026e7cd75d9a14b8643055daea8755c338b420" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ae84a19f9d143923cfb0623fb4a7305491dc53d1" maintainer="Lev Lamberov"
 
 
 <p>
@@ -13,4 +13,3 @@
 </p>
 
 #use wml::debian::projectnews::footer NOBACKISSUES="yes"
-

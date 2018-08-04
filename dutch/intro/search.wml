@@ -1,5 +1,5 @@
 #use wml::debian::template title="Informatie over het gebruik van de Debian zoekmachine"
-#use wml::debian::translation-check translation="faac753e853745f84b366bfd32a4cd60e721616f"
+#use wml::debian::translation-check translation="c3b565ac6b9deb00572865c557a9c7094047163a"
 
 # Translator:       Bas Zoetekouw <bas@debian.org>
 # Translation Date: Mon Jun 17 19:18:29 CEST 2002
@@ -16,15 +16,8 @@ te klikken). De zoekmachine zal u dan alle pagina's op de website laten
 zien die dat woord bevatten. Meestal werkt dit erg goed.</p>
 
 <p>Het volgende niveau is het zoeken naar meer dan één
-woord. U heeft meerdere mogelijkheden:
-<dl>
-<dt><em>zoek naar alle worden</em>
-  <dd>De zoekmachine toont pagina's die alle woorden bevatten die u
-  invoerde
-<dt><em>zoek naar een van de woorden</em>
-  <dd>De zoekmachine toont pagina's die een van de woorden bevatten die
-  u invoerde.
-</dl>
+woord, hetgeen u een lijst zal tonen met pagina's op de website
+die allle woorden bevatten die u invoerde.</p>
 
 <h3>Booleaanse Zoekopdrachten</h3>
 
@@ -32,30 +25,29 @@ woord. U heeft meerdere mogelijkheden:
 een <a
 href="http://foldoc.org/boolean">booleaanse</a>
 opdracht proberen. U kunt kiezen uit <em>AND</em> (EN), <em>OR</em>
-(OF), <em>NOT</em> (NIET), of een combinatie van deze drie.</p>
+(OF), <em>NOT</em> (NIET), of een combinatie van deze drie. Merk op
+dat deze operatoren volledig in hoofdletters opgegeven moeten worden
+om herkend te worden.</p>
 
-<p><b>&amp; - een logische EN</b> geeft resultaten waar beide woorden in
-de pagina voorkomen. Het gebruik van &quot;gcc &amp; patch&quot; vindt
-bijvoorbeeld alle URL's die zowel &quot;gcc&quot; als &quot;patch&quot;
-bevatten.</p>
+<p><B>AND</B> (een logische EN) geeft resultaten waar beide woorden in
+de pagina voorkomen. Het gebruik van &quot;gcc AND patch&quot; vindt
+bijvoorbeeld alle pagina's die zowel &quot;gcc&quot; als &quot;patch&quot;
+bevatten. Met dit voorbeeld bekomt u hetzelfde resultaat als met
+&quot;gcc patch&quot;, maar een expliciete AND kan nuttig zijn in
+combinatie met andere operatoren.</p>
 
-<p><b>| - een logische OF</b> geeft resultaten waar een van beide
-woorden in de pagina voorkomen. Het gebruik van &quot;gcc | patch&quot;
-vindt bijvoorbeeld alle URL's die ofwel &quot;gcc&quot;, ofwel
-&quot;patch&quot;, ofwel beide bevatten.</p>
+<p><B>OR</B> (een logische OF) geeft resultaten waar een van beide
+woorden in de pagina voorkomen. Het gebruik van &quot;gcc OR patch&quot;
+vindt bijvoorbeeld alle pagina's die ofwel &quot;gcc&quot;, ofwel
+&quot;patch&quot; bevatten.</p>
 
-<p><b>~ - een logische NIET</b> sluit een woord uit bij de resultaten.
-Meestal zult u dit gebruiken samen met de logische EN (&amp;) omdat het
-resultaten van een lijst weghaalt. Het gebruik van &quot;gcc &amp;
-~patch&quot; vindt bijvoorbeeld alle URL's die wel &quot;gcc&quot;
-bevatten, maar niet &quot;patch&quot;. Als u zoekt naar alleen
-&quot;~patch&quot; geeft geen resultaten omdat u niets zocht, hetgeen
-geen resultaten geeft en vervolgens de pagina's die het woord
-&quot;patch&quot; bevatten, van deze (lege) lijst worden verwijderd,
-hetgeen natuurlijk nog steeds geen resultaten geeft.</p>
+<p><B>NOT</B> (een logische NIET) sluit een woord uit bij de resultaten.
+&quot;gcc NOT patch&quot; vindt bijvoorbeeld alle pagina's die wel &quot;gcc&quot;
+bevatten, maar niet &quot;patch&quot;. Om hetzelfde resultaat te bekomen
+kunt u ook &quot;gcc AND NOT patch&quot; gebruiken, maar enkel naar
+&quot;NOT patch&quot; zoeken wordt niet ondersteund.</p>
 
-<p><b>() - groeperen</b> voegt zelf nog meer functionaliteit toe omdat u
-nu logische blokken kan groeperen. Bijvoorbeeld, &quot;(gcc | make)
-&amp; ~patch&quot; geeft als resultaat alle pagina die
-&quot;gcc&quot; of &quot;make&quot; bevatten, maar niet
-&quot;patch&quot;.</p>
+<p><B>(</B>...<B>)</B> (groeperen) kan gebruikt worden om subexpressies
+te groeperen. Bijvoorbeeld, &quot;(gcc OR make) NOT patch&quot;
+geeft als resultaat alle pagina's die &quot;gcc&quot; of &quot;make&quot;
+bevatten, maar niet &quot;patch&quot;.</p>

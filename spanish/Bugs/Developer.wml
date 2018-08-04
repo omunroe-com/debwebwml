@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian BTS &mdash; información para desarrolladores" NOHEADER=yes NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
-#use wml::debian::translation-check translation="33ca549a7a4f5f50ef26749a5882613fb0715a03" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Laura Arjona Reina"
 <h1>Información sobre el sistema de seguimiento de fallos para desarrolladores
 y personas que tratan fallos</h1>
 
@@ -276,6 +276,14 @@ en Debian, o que quieren mejorar sus habilidades.</dd>
 <dt><code>a11y</code></dt>
   <dd>Este fallo es relevante para la accesibilidad del paquete.</dd>
 
+<dt><code>ftbfs</code></dt>
+  <dd>El paquete falla en su compilación desde fuentes. Si el fallo se asigna a 
+  un paquete de fuentes, ese paquete falla al compilar. Si el fallo se asigna a
+  un paquete binario, los paquetes fuentes afectados fallan al compilar. La
+  etiqueta se aplica a entornos de compilación no estándares (por ej. usando
+  «Build-Depends» de experimental), pero la severidad debería estar por debajo
+  de <q>serious</q> (<q>release critical</q>) en tales casos.</dd>
+  
 <dt><bts_release_tags></dt>
 
   <dd>Estas son etiquetas de distribución, que tienen dos efectos. Cuando se
@@ -391,8 +399,9 @@ servidor de más arriba.</p>
 <p>El sistema de seguimiento de fallos también permite a los remitentes,
 desarrolladores y otras terceras partes interesadas suscribirse a fallos 
 individuales. Esta capacidad la pueden usar aquellos que deseen mantener un
-ojo en un fallo, sin tener que suscribirse a un paquete a través del <a href="https://packages.qa.debian.org">PTS
-(Package Tracking System, Sistema de seguimiento de paquetes)</a>.
+ojo en un fallo, sin tener que suscribirse a un paquete a través del 
+<a href="https://tracker.debian.org">
+sistema de seguimiento de paquetes de Debian («Debian Package Tracker»)</a>.
 Todos los mensajes recibidos en <var>nnn</var><code>@bugs.debian.org</code>,
 se enviarán a los suscriptores.</p>
 
@@ -460,4 +469,5 @@ del correo.</p>
 #use "otherpages.inc"
 
 #use "$(ENGLISHDIR)/Bugs/footer.inc"
+
 

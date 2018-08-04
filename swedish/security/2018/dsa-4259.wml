@@ -1,0 +1,26 @@
+#use wml::debian::translation-check translation="f2b1c8c852199e9cb68f9abc25691b7d7dbd876e" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i tolken för språket Ruby,
+vilket kan resultera i felaktig behandling av HTTP/FTP,
+katalogtraversering, kommandoinjicering, oavsiktligt skapande av sockets eller
+utlämnande av information.</p>
+
+<p>Denna uppdatering rättar även flera problem i RubyGems som kunde tillåta 
+en angripare att använda especiellt skapade gem-filer för att montera
+sajtöverskridande skriptangrepp, orsaka överbelastning genom en oändlig loop,
+skriva godtyckliga filer eller köra illasinnad kod.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 2.3.3-1+deb9u3.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era ruby2.3-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om ruby2.3 vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/ruby2.3">\
+https://security-tracker.debian.org/tracker/ruby2.3</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4259.data"

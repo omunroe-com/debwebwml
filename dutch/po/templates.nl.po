@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: templates\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-06-02 20:17+0200\n"
+"PO-Revision-Date: 2018-08-02 15:22+0200\n"
 "Last-Translator: Frans Spiesschaert <Frans.Spiesschaert@yucom.be>\n"
 "Language-Team: Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>\n"
 "Language: nl\n"
@@ -19,14 +19,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Gtranslator 2.91.7\n"
-
-#: ../../english/search.xml.in:7
-msgid "Debian website"
-msgstr "Debian-website"
-
-#: ../../english/search.xml.in:9
-msgid "Search the Debian website."
-msgstr "Zoek binnen de website van Debian."
 
 #: ../../english/template/debian/basic.wml:19
 #: ../../english/template/debian/navbar.wml:11
@@ -90,72 +82,80 @@ msgid "Contact Us"
 msgstr "Neem contact op"
 
 #: ../../english/template/debian/common_translation.wml:37
+msgid "Legal Info"
+msgstr "Juridische Informatie"
+
+#: ../../english/template/debian/common_translation.wml:40
+msgid "Data Privacy"
+msgstr "Gegevensbescherming"
+
+#: ../../english/template/debian/common_translation.wml:43
 msgid "Donations"
 msgstr "Giften"
 
-#: ../../english/template/debian/common_translation.wml:40
+#: ../../english/template/debian/common_translation.wml:46
 msgid "Events"
 msgstr "Agenda"
 
-#: ../../english/template/debian/common_translation.wml:43
+#: ../../english/template/debian/common_translation.wml:49
 msgid "News"
 msgstr "Nieuws"
 
-#: ../../english/template/debian/common_translation.wml:46
+#: ../../english/template/debian/common_translation.wml:52
 msgid "Distribution"
 msgstr "Distributie"
 
-#: ../../english/template/debian/common_translation.wml:49
+#: ../../english/template/debian/common_translation.wml:55
 msgid "Support"
 msgstr "Ondersteuning"
 
-#: ../../english/template/debian/common_translation.wml:52
+#: ../../english/template/debian/common_translation.wml:58
 msgid "Pure Blends"
 msgstr "Specifieke uitgaven"
 
-#: ../../english/template/debian/common_translation.wml:55
+#: ../../english/template/debian/common_translation.wml:61
 #: ../../english/template/debian/links.tags.wml:46
 msgid "Developers' Corner"
 msgstr "Ontwikkeling"
 
-#: ../../english/template/debian/common_translation.wml:58
+#: ../../english/template/debian/common_translation.wml:64
 msgid "Documentation"
 msgstr "Documentatie"
 
-#: ../../english/template/debian/common_translation.wml:61
+#: ../../english/template/debian/common_translation.wml:67
 msgid "Security Information"
 msgstr "Informatie over beveiliging"
 
-#: ../../english/template/debian/common_translation.wml:64
+#: ../../english/template/debian/common_translation.wml:70
 msgid "Search"
 msgstr "Zoeken"
 
-#: ../../english/template/debian/common_translation.wml:67
+#: ../../english/template/debian/common_translation.wml:73
 msgid "none"
 msgstr "geen"
 
-#: ../../english/template/debian/common_translation.wml:70
+#: ../../english/template/debian/common_translation.wml:76
 msgid "Go"
 msgstr "Start"
 
-#: ../../english/template/debian/common_translation.wml:73
+#: ../../english/template/debian/common_translation.wml:79
 msgid "worldwide"
 msgstr "wereldwijd"
 
-#: ../../english/template/debian/common_translation.wml:76
+#: ../../english/template/debian/common_translation.wml:82
 msgid "Site map"
 msgstr "Index"
 
-#: ../../english/template/debian/common_translation.wml:79
+#: ../../english/template/debian/common_translation.wml:85
 msgid "Miscellaneous"
 msgstr "Diversen"
 
-#: ../../english/template/debian/common_translation.wml:82
+#: ../../english/template/debian/common_translation.wml:88
 #: ../../english/template/debian/links.tags.wml:104
 msgid "Getting Debian"
 msgstr "Verkrijgen"
 
-#: ../../english/template/debian/common_translation.wml:85
+#: ../../english/template/debian/common_translation.wml:91
 msgid "The Debian Blog"
 msgstr "Blog van Debian"
 
@@ -204,13 +204,7 @@ msgstr "in versie 2.2"
 #. you can add some information of your own translation mailing list
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
-#: ../../english/template/debian/footer.wml:105
-#| msgid ""
-#| "To report a problem with the web site, e-mail our publicly archived "
-#| "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-"
-#| "www@lists.debian.org</a>.  For other contact information, see the Debian "
-#| "<a href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a "
-#| "href=\"m4_HOME/devel/website/using_cvs\">available</a>."
+#: ../../english/template/debian/footer.wml:107
 msgid ""
 "To report a problem with the web site, please e-mail our publicly archived "
 "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists."
@@ -228,24 +222,24 @@ msgstr ""
 "broncode van de website is <a href=\"https://salsa.debian.org/webmaster-team/"
 "webwml\">beschikbaar</a>."
 
-#: ../../english/template/debian/footer.wml:108
+#: ../../english/template/debian/footer.wml:110
 msgid "Last Modified"
 msgstr "Laatste aanpassing"
 
-#: ../../english/template/debian/footer.wml:111
+#: ../../english/template/debian/footer.wml:113
 msgid "Copyright"
 msgstr "Copyright"
 
-#: ../../english/template/debian/footer.wml:114
+#: ../../english/template/debian/footer.wml:116
 msgid "<a href=\"https://www.spi-inc.org/\">SPI</a> and others;"
 msgstr "<a href=\"https://www.spi-inc.org/\">SPI</a> en anderen;"
 
-#: ../../english/template/debian/footer.wml:117
+#: ../../english/template/debian/footer.wml:119
 msgid "See <a href=\"m4_HOME/license\" rel=\"copyright\">license terms</a>"
 msgstr ""
 "Zie de <a href=\"m4_HOME/license\" rel=\"copyright\">licentievoorwaarden</a>"
 
-#: ../../english/template/debian/footer.wml:120
+#: ../../english/template/debian/footer.wml:122
 msgid ""
 "Debian is a registered <a href=\"m4_HOME/trademark\">trademark</a> of "
 "Software in the Public Interest, Inc."
@@ -529,6 +523,14 @@ msgstr "URL"
 #: ../../english/template/debian/users.wml:7
 msgid "Back to the <a href=\"../\">Who's using Debian? page</a>."
 msgstr "Terug naar de <a href=\"../\">Wie gebruikt Debian?-pagina</a>."
+
+#: ../../english/search.xml.in:7
+msgid "Debian website"
+msgstr "Debian-website"
+
+#: ../../english/search.xml.in:9
+msgid "Search the Debian website."
+msgstr "Zoek binnen de website van Debian."
 
 #~ msgid "Visit the site sponsor"
 #~ msgstr "Bezoek de sponsor van deze site"
