@@ -1,6 +1,6 @@
 #use wml::debian::template title="Port su Alpha -- Riferimenti" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
-#use wml::debian::translation-check translation="50b372e58f319602f11f76a32318cf8569310c07" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Luca Monducci"
 
 <h1>Riferimenti per Alpha</h1>
 
@@ -39,7 +39,12 @@
 	L'HOWTO ufficiale per i sistemi con firmware SRM. Questa è la pagina
 	giusta per chi deve usare
 	<a href="http://sourceforge.net/projects/aboot">aboot</a>
-	per avviare il sistema.</li>
+	per avviare il sistema.
+#This HOWTO is included in
+#the latest version of the
+#<a href="https://tracker.debian.org/pkg/aboot">Debian packet</a>
+#as well.
+	</li>
 
     <li>
 	<a href="http://alphalinux.org/faq/MILO-HOWTO/t1.html">MILO
