@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd &ndash; Ultime notizie" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="f6ec9896085cb13f36e27ec19c0efa864cca1488" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Luca Monducci"
 
 <h1>Ultime notizie su Debian GNU/Hurd</h1>
 
@@ -230,8 +230,8 @@ CD di Hurd</a> per maggiori informazioni.</p>
 <h3><:=spokendate ("2004-03-06"):></h3>
 
 <p>Dopo molto tempo che non veniva aggiornato, è stato fatto l'upload di un
-nuovo snapshot dal CVS di <a href="https://packages.qa.debian.org/hurd">Hurd</a>
-e <a href="https://packages.qa.debian.org/gnumach">GNU Mach</a>.</p>
+nuovo snapshot dal CVS di <a href="https://tracker.debian.org/pkg/hurd">Hurd</a>
+e <a href="https://tracker.debian.org/pkg/gnumach">GNU Mach</a>.</p>
 
 <h3><:=spokendate ("2003-07-31"):></h3>
 
