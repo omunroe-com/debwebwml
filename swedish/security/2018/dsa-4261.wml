@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="8ca7d81b94161449e412ccb8fee1cfc9be792672" mindelta="1"
+#use wml::debian::translation-check translation="d9cc9d183be355509538ed8970f3aa32a72aab52" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Enrico Zini upptäckte en sårbarhet i Syntastic, en tilläggsmodul
