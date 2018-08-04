@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="7c62356728d14a8a175af8c0b5dede88707e54fd" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В Symfony, PHP-инфраструктуре, были обнаружены многочисленные уязвимости,
+которые могут приводить к открытым перенаправлениям, подделке межсайтовых
+запросов, раскрытию информации, фиксации сессии или отказу в обслуживании.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 2.8.7+dfsg-1.3+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты symfony.</p>
+
+<p>С подробным статусом поддержки безопасности symfony можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/symfony">\
+https://security-tracker.debian.org/tracker/symfony</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4262.data"
