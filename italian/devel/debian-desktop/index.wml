@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian sul Desktop"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="f17adfcaa4dbad74178134aa94c26efff40b0722" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="cc6c8ae04b0c297eda14e869f88e647f6984ea7a" maintainer="Luca Monducci"
 
 <h2>Il Sistema Operativo Universale come vostro Desktop</h2>
 
@@ -87,12 +87,12 @@
     L'interfaccia GTK+ ha bisogno di voi.
   </li>
   <li>
-    Contribuire nei gruppi
-    <a href="https://alioth.debian.org/projects/pkg-gnome">pkg-gnome</a>,
-    <a href="https://alioth.debian.org/projects/pkg-kde">pkg-kde</a> o
-    <a href="https://alioth.debian.org/projects/pkg-xfce">pkg-xfce</a>.
-    Puoi contribuire alla preparazione del pacchetto, cercando dei bug,
-    lavorando alla documentazione, facendo dei test o in altri modi.
+	Contribuire nei gruppi <a
+	href="https://wiki.debian.org/Teams/DebianGnome">Debian GNOME</a>,
+	<a href="https://qt-kde-team.pages.debian.net/">Debian Qt e KDE</a>
+	o <a href="https://salsa.debian.org/xfce-team/">Debian Xfce</a>.
+	Puoi contribuire alla preparazione del pacchetto, cercando dei bug,
+	lavorando alla documentazione, facendo dei test o in altri modi.
   </li>
   <li>
     Insegnare agli utenti come installare e utilizzare i nuovi task di
