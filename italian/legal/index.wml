@@ -1,14 +1,16 @@
 #use wml::debian::template title="Problemi legali"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="3982afa259f29366b3b5b16b6bb0fcddbff7260e" maintainer="Luca Monducci"
 
 # TODO: a better introduction!
 <p>Questa sezione del sito web Debian tratta i problemi legali.</p>
 
-<h2>Questioni aperte</h2>
+<h2>Informazioni legali</h2>
 
 <ul>
 <li><a href="licenses/">Riepilogo delle licenze</a></li>
 <li><a href="$(HOME)/trademark">Marchi registrati</a></li>
+<li><a href="privacy">Politica sulla privacy</a></li>
+<li><a href="patent">Politica sui brevetti</a></li>
 <li><a href="cryptoinmain">Crittografia nell'archivio principale</a>
 	<ul>
 	<li><a href="notificationforarchive">Notifica iniziale
@@ -20,7 +22,6 @@
 
 <li><a href="anssi">Attestato di esportazione/importazione di sistemi
 	crittografici</a></li>
-<li><a href="patent">Politica sui brevetti</a></li>
 </ul>
 
 <h2>Lista di messaggi</h2>
