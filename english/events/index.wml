@@ -1,5 +1,11 @@
 #use wml::debian::template title="Major events related to Debian" BARETITLE=true
 
+<p>The major event of Debian is the annual Debian Conference called <a
+href="https://www.debconf.org/">DebConf</a>. There are also several <a
+href="https://wiki.debian.org/MiniDebConf">MiniDebConfs</a> which are
+local meetings organized by Debian project member.
+</p>
+
 <p>The subpages of <a href="https://wiki.debian.org/DebianEvents">Debian
 Wiki's event page</a> contain a list of events in which Debian was/is/will
 be involved.</p>
