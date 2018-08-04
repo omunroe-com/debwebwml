@@ -1,6 +1,6 @@
 #use wml::debian::template title="Errata corrige dell'Installatore Debian"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="c75cafbee4a0fdc9c9a699b41b22f3e35a529b64" maintainer="Luca Monducci" mindelta="1" maxdelta="1"
+#use wml::debian::translation-check translation="7e4db2f1f4f0d56a40da3851090a0baad53a2acb" maintainer="Luca Monducci" mindelta="1" maxdelta="1"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
 
 <!-- info: d-i Stretch Alpha5 was released -->
@@ -39,7 +39,10 @@ dell'installazione</a> in cui viene descritto il problema.
 	<dt>Tema grafico usato nell'installatore</dt>
 
 	<dd>Ancora non esistono delle grafiche per Buster e l'installatore
-	continua a usare il tema grafico di Stretch.</dd>
+	continua a usare il tema grafico di Stretch.<br />
+	<b>Stato:</b> La <a
+	href="https://lists.debian.org/debian-devel-announce/2018/06/msg00003.html">chiamata
+	per le grafiche per Buster</a> è stata pubblicata il 15/06/2018.</dd>
 
 
 <!-- things should be better starting with Jessie Beta 2...
