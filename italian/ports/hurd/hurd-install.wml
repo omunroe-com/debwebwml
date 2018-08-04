@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd &ndash; Configurazione" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="dcbe5fb647bc280877806efa5426b51f409eb3c5" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="274d217e90e1af2a4d4f6d8daaded5e3c588ed2f" maintainer="Luca Monducci"
 
 <h1>Configurazione di Debian GNU/Hurd</h1>
 
@@ -314,9 +314,9 @@ eseguire un'installazione corretta.</p>
 pre-installate:</p>
 
 <table><tr><td>&nbsp;</td><td class=example><pre>
-$ wget http://cdimage.debian.org/cdimage/ports/current/hurd-i386/debian-hurd.img.tar.gz
+$ wget http://cdimage.debian.org/cdimage/ports/current-hurd-i386/debian-hurd.img.tar.gz
 $ tar xzf debian-hurd.img.tar.gz
-$ kvm -m 1G -drive file=$(echo debian-hurd.img),cache=writeback
+$ kvm -m 1G -drive file=$(echo debian-hurd*.img),cache=writeback
 </pre></td></tr></table>
 
 <p>oppure convertirle in formato VDI per virtualbox:</p>
