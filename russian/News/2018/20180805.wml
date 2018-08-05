@@ -2,7 +2,7 @@
 
 <define-tag release_date>2018-08-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="PENDING" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="e35e93f93ea801c21f7e326b884a61dbddc68e25" maintainer="Lev Lamberov"
 
 <p>
 Сегодня, в воскресенье, 5 августа 2018 года подошла к концу ежегодная конференция
