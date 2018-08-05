@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="71f4676dc29d7a59150eb7c09c6c20b8a0d257c6" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Andreas Hug upptäckte en öppen omdirigering i Django, ett
+ramverk för webbutveckling i Python, som är exploaterbart om
+<code>django.middleware.common.CommonMiddleware</code> används och
+inställningen APPEND_SLASH är aktiverad.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 1:1.10.7-2+deb9u2.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era python-django-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om python-django vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/python-django">https://security-tracker.debian.org/tracker/python-django</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4264.data"
