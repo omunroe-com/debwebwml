@@ -1,0 +1,13 @@
+#use wml::debian::template title="Notizie del 2018"
+#use wml::debian::recent_list
+#use wml::debian::translation-check translation="720dd35d793500a7af12197beeee22e53345deea"
+
+<p><:= get_recent_list ('.', '0', '$(ENGLISHDIR)/News/2018', '', 
+'\d+\w*') :></p>
+
+<p>Nota: è possibile ricevere le ultime notizie su Debian iscrivendosi
+o consultando gli archivi delle liste di messaggi
+<a href="https://lists.debian.org/debian-announce/debian-announce-2018/">\
+<strong>debian-announce</strong></a> e
+<a href="https://lists.debian.org/debian-news/">\
+<strong>debian-news</strong></a>.</p>
