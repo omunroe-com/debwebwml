@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd &ndash; Sviluppo" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="4baafd664d49d58b403569ccdcfd435f913d6645" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="c5cbbe43be5b669ccf86d11da8c33614fff46368" maintainer="Luca Monducci"
 
 <h1>Debian GNU/Hurd</h1>
 
@@ -141,5 +141,18 @@ architetture <code>!linux-any</code> (per esempio tramite un'opzione
 <code>[linux-any]</code> in <code>Build-Depends</code> di alsa e
 aggiungere il contrario in <code>Build-Conflicts</code>, per esempio
 <code>Build-Conflicts: libasound2-dev [!linux-any]</code>.</p>
+</li>
+
+<li>
+<code>dh_install: Cannot find (any matches for) "foo" (tried in ., debian/tmp)</code>
+<p>
+Questo accade solitamento quando non è stato installato qualcosa perché non
+è stato riconosciuto il SO. Alcune volte è solo una sciocchezza (per esempio
+una libreria condivisa su GNU/Hurd si crea esattamente come su GNU/Linux) che
+deve essere corretta. Altre volte è più veritiero (non si installano i file
+di un servizio di systemd); in questo caso è possibile usare dh-exec: impostare
+una dipendenza di compilazione <tt>dh-exec</tt>, <tt>chmod +x</tt> sul file
+<tt>.install</tt> e inserire in testa alle righe che danno problemi con
+<tt>[linux-any]</tt> o <tt>[!hurd-any]</tt>.</p>
 </li>
 </ul>
