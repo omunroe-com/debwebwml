@@ -17,25 +17,25 @@ bons résultats.
 
 <P>Le niveau supérieur est de rechercher plus d'un mot à la fois, ce qui
 vous donnera une liste de pages du site qui contiennent tous les mots que
-vous avez tapé.
+vous avez tapés.
 
 <H3>Recherche booléenne</H3>
 
 <P>Si une recherche simple n'est pas suffisante, alors l'utilisation d'un
 <a href="http://foldoc.org/boolean">booléen</a>
 peut vous satisfaire. Vous avez le choix entre <em>ET</em>, <em>OU</em>,
-<em>NON</em> et toute combinaison de ces trois choix. Attention, ces
-opérateurs doivent être complétement écrit en capital pour être reconnus.
+<em>NON</em> et toute combinaison de ces trois opérateurs. Attention, ils
+doivent être complétement écrits en capitales pour être reconnus.
 
 <P><B>ET</B> donnera les résultats pour lesquels les deux mots sont dans
 la page. Par exemple, « gcc ET patch » trouvera toutes les pages qui
-contiennent à la fois « gcc » et « patch ». Ce exemple donne les mêmes
+contiennent à la fois « gcc » et « patch ». Cet exemple donne les mêmes
 résultats que « gcc patch », mais le ET explicite peut être utile en
 combinaison avec d'autres opérateurs.
 
 <P><B>OU</B> donnera les résultats pour lesquels l'un des mots est dans
-la page. Par exemple « gcc OU patch » trouvera toutes les pages qui
-contiennent « gcc » ou « patch ».
+la page. Par exemple « gcc OU patch » trouvera toutes les pages qui
+contiennent « gcc » ou « patch ».
 
 <P><B>NON</B> exclut un mot des résultats.
 Par exemple « gcc NON patch » trouvera toutes les pages qui contiennent
