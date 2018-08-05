@@ -1,6 +1,6 @@
 #use wml::debian::template title="Suggerimenti utili per la traduzione"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="7fce35397b85232374e07ada8bb4f49a830c5d1b" maintainer="Giuseppe Sacco"
 
 <p>Vedi anche le pagine <a href="working">lavorare sulle pagine web</a>
 che descrive alcune regole generali da osservare, non solo limitatamente
@@ -40,6 +40,7 @@ popolarità.</p>
   <ul>
     <li>Bugs/index.wml, Bugs/Reporting.wml</li>
     <li>banners/index.wml</li>
+    <li>blends/index.wml</li>
     <li>consultants/index.wml</li>
     <li>doc/ddp.wml</li>
     <li>events/index.wml</li>

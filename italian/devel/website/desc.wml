@@ -1,5 +1,5 @@
 #use wml::debian::template title="Com'è organizzato www.debian.org"
-#use wml::debian::translation-check translation="f4a553b77d7d268cc8964f792c054a7827ccfd39" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="b71e318d7035342144f073c15e0f275ded4ac220" maintainer="Giuseppe Sacco"
 #use wml::debian::toc
 
 <p>Il <em>&ldquo;webtree&rdquo;</em> del sito Debian, l'insieme di file e directory che
@@ -12,15 +12,18 @@ prodotti dinamicamente da script PHP o CGI o altro), poiché il sito web
 <p>Il sito è generato in uno di questi tre modi:
 <ul>
   <li>la maggior parte è generato tramite WML, a partire dalla
-      <a href="$(DEVEL)/website/using_cvs">directory <q>webwml</q></a> del CVS;
+      <a href="$(DEVEL)/website/using_git">directory <q>webwml</q></a> del
+	  repository git;</li>
   <li>la documentazione è generata utilizzando DocBook XML (l'uso di DebianDoc
-      è in via di esaurimento), dalla
-      <a href="$(DOC)/cvs">directory <q>ddp</q></a> del repository Subversion;
+      è in via di esaurimento), dal
+      <a href="$(DOC)/cvs">repository Subversion <q>ddp</q></a> oppure
+	  usando gli <a href="#scripts">script cron</a>, dei pacchetti Debian
+	  corrispondenti;</li>
   <li>alcune parti del sito sono generate da script che utilizzano altre sorgenti, ad
       esempio le pagine per l'iscrizione alle mailing list.
 </ul>
 
-<p>Un aggiornamento automatico (dal "repository" CVS e dalle altre sorgenti)
+<p>Un aggiornamento automatico (dal repository git e dalle altre sorgenti)
 viene fatto sei volte al giorno.
 
 <p>Se vuoi contribuire al sito, <strong>non</strong> devi semplicemente
@@ -69,19 +72,19 @@ di WML</a> per maggiori informazioni.
 
 <toc-add-entry name="sources">Sorgenti</toc-add-entry>
 
-<p>Il sorgente delle pagine web è memorizzato nel CVS. CVS è un sistema di controllo
+<p>Il sorgente delle pagine web è memorizzato in git. git è un sistema di controllo
 delle versioni che permette di avere un tracciato di cosa, da chi, quando e perché è stato
-cambiato. &Egrave; un modo sicuro per controllare la modifica in contemporanea di file
+cambiato. È un modo sicuro per controllare la modifica in contemporanea di file
 sorgenti da parte di vari autori, che è un fattore cruciale poiché il team web Debian
 è piuttosto grande.
 
 <p>Se non hai familiarità con questo programma, forse potresti leggere le pagine sull'
-<a href="using_cvs">uso di CVS</a>.
+<a href="using_git">uso di git</a>.
 
-<p>La directory webwml dell'archivio CVS contiene le directory
+<p>La directory webwml del repository git contiene le directory
 con il nome dell'idioma in cui le pagine sono tradotte, due makefile e parecchi
 script. I nomi delle directory che contengono traduzioni dovrebbero essere in inglese e
-in minuscolo (ad esempio "german", non "Deutsch").
+in minuscolo (ad esempio <q>german</q>, non <q>Deutsch</q>).
 
 <p>Il più importante dei due makefile è Makefile.common che, come dice
 il suo nome, contiene alcune regole comuni che sono applicate includendo questo

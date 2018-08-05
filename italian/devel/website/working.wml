@@ -1,6 +1,6 @@
 #use wml::debian::template title="Come lavorare sulle pagine web Debian" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="a2ecb1eb5e40411b648499a302c668a3eb820dfe" maintainer="skizzhg"
+#use wml::debian::translation-check translation="bc66db8592a5b03cf67480ae2e3df889eb158f0c" maintainer="skizzhg"
 
 <toc-display/>
 
@@ -18,9 +18,9 @@ basterà molto meno spazio, come i 50 Mb per la directory english/.</p>
 <h3>Checkout parziali</h3>
 
 <p>Molte persone non vogliono avere tutto l'albero <code>webwml</code>
-estratto dal CVS ma ciò può causare la mancanza di file e compilazioni errate
-nel caso qualcuno abbia aggiunto nuovi, cruciali file e non si sia fatto un <kbd>cvs
-update</kbd> completo per quella directory. Si ricordi di verificare la presenza di
+estratto dal repository git ma ciò può causare la mancanza di file e compilazioni errate
+nel caso qualcuno abbia aggiunto nuovi, cruciali file e non si sia fatto un
+checkout completo. Si ricordi di verificare la presenza di
 tutti i file richiesti (come .wmlrc) prima di protestare con noi.</p>
 
 <h3><q>Cosa sono queste linee che cominciano per '#'?</q></h3>
@@ -50,7 +50,7 @@ grandi porzioni del sito vengano ricostruite.</p>
 
 <h3>Quando si aggiungono nuove directory, si aggiunga anche il Makefile!</h3>
 
-<p>Un'attenzione particolare va prestata all'aggiunta di directory al CVS. Se la
+<p>Un'attenzione particolare va prestata all'aggiunta di directory al repository git. Se la
 directory attuale è inserita nel ../Makefile allora <b>si deve</b> creare un
 Makefile nella nuova directory altrimenti <tt>make</tt> darà un messaggio di errore.</p>
 
@@ -80,7 +80,7 @@ informazione necessaria per lavorare in quell'area.</p>
 <p>Effettuare sempre separatamente le patch o i commit con modifiche ai
 contenuti da quelli con modifiche della formattazione. Se fatti insieme, è
 molto più difficile per i traduttori trovare le differenze. Se si lancia
-<kbd>cvs diff</kbd> con qualche cambiamento misto, si potrà constatare quale
+<kbd>git diff -u</kbd> con qualche cambiamento misto, si potrà constatare quale
 miscuglio ne venga fuori.</p>
 
 <p>In generale evitare modifiche random della formattazione. Rendere vecchie
@@ -106,64 +106,15 @@ avere un checkout completo sul quale operare. Comunque vi incoraggiamo a farlo
 per evitare che due dozzine di persone lavorino a qualcosa che può essere fatto
 velocemente da una sola.</p>
 
-<p>In più per rendere l'applicazione di queste modifiche maggiormente facile,
-si può usare lo script <code>smart_change.pl</code> nella top-level directory
-del modulo CVS webwml.</p>
+<p>Inoltre, per rendere l'applicazione di queste modifiche ancora più
+facile, si può usare lo script
+<a href="using_git#translation-smart-change"><code>smart_change.pl</code></a>
+nella directory di livello più alto del modulo git webwml.</p>
 
-<h4>Uso di smart_change.pl</h4>
 
-<pre>smart_change.pl [opzioni] origfile</pre>
+<toc-add-entry name="links">Collegamenti</toc-add-entry>
 
-<p>Al momento solo i file in <code>/english/</code> sono consentiti come
-<var>origfile</var>. <code>smart_change.pl</code> accetta i 
-seguenti argomenti:</p>
-
-<dl>
-      <dt><code>-s, --substitute=<var>REGEXP</var></code></dt>
-      <dd>Specifica un'espressione regolare Perl da applicare al file sorgente (se
-        ne possono usare più di una). Esempio:
-	<pre>
-	  Esempio: ./smart_change.pl -s "s,http://oldurl/,http://newurl/,g" english/index.wml
-          $&gt; ./smart_change.pl -s "s,http://oldurl/,http://newurl/,g" english/devel/index.wml
-          $&gt; cvs diff -u */devel/index.wml | less
-          $&gt; cvs ci -m "1.23: Updated oldurl to current location" */devel/index.wml
-	</pre>
-        Il primo comando effettua le modifiche, il secondo serve per controllare
-        il file inglese originale ed ogni traduzione di esso. Va usato per
-        controllare le modifiche prima del commit. Se tutto appare in
-        ordine si effettui il commit dei file modificati con il terzo comando.
-      </dd>
-
-      <dt><code>-l, --lang=<var>STRING</var></code></dt>
-      <dd>Processa la lingua indicata (se ne possono indicare più di una). Se nessuna
-	lingua è specificata, tutte quelle disponibili sono processate.</dd>
-
-      <dt><code>-n, --no-bump</code></dt>
-      <dd>Non viene incrementato il numero di versione negli header translation-check.
-	Normalmente la versione di ogni header translation-check è incrementata
-	di uno se le traduzioni sono aggiornate, viene lasciata
-	inalterata se non lo sono.
-	Se questa opzione è specificata nessun
-	header translation-check è modificato. Si veda <q>Mantenere le traduzioni del
-	sito web aggiornate</q> per una <a href="uptodate">\
-	  spiegazione degli header translation-check</a>.
-      </dd>
-
-      <dt><code>-p, --previous</code></dt>
-      <dd>Mostra la precedente revisione CVS. Ciò è utile principalmente quando è già
-        stato fatto il commit del file inglese e si vuole controllare l'header
-	translation-check con la versione precedente.</dd>
-
-      <dt><code>-h, --help</code></dt>
-      <dd>Mostra una breve guida.</dd>
-
-      <dt><code>-v, --verbose</code></dt>
-      <dd>Mostra messaggi verbosi durante l'esecuzione.</dd>
-</dl>
-
-<toc-add-entry name="links">Link</toc-add-entry>
-
-<h3><q>Questo link non mi pare corretto. Posso cambiarlo?</q></h3>
+<h3><q>Questo collegamento non è corretto. Posso cambiarlo?</q></h3>
 
 <p>La configurazione del server web comprende l'uso
 della <a href="content_negotiation">negoziazione dei contenuti</a>,
@@ -300,10 +251,10 @@ quella directory non sarebbero aggiornate automaticamente.</p>
 </p>
 <pre>
    mkdir foo
-   cvs add foo
+   git add foo
    cd foo
    cp ../intro/Makefile .
-   cvs add Makefile
+   git add Makefile
 </pre>
 
 <p>Editare il Makefile nella directory padre e si aggiunga la directory
@@ -313,5 +264,5 @@ directory sia considerata durante la creazione del sito.</p>
 <p>Alla fine si faccia il commit al repository di tutti i cambiamenti con
 </p>
 <pre>
-   cvs commit Makefile foo
+   git commit Makefile foo
 </pre>

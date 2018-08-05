@@ -1,22 +1,21 @@
 #use wml::debian::template title="Esempi"
-#use wml::debian::translation-check translation="d1c06014aabc068656f3ebd20a38c574c7553f7a" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="93f96e5508d963eef6dee47f4ac2360e27d7939b" maintainer="Giuseppe Sacco"
 
 <H3>Esempio di come cominciare una nuova traduzione</H3>
 
 <p>Per questo esempio useremo la lingua francese
 
 <pre>
-   cvs checkout webwml/Makefile.common webwml/english
+   git pull
    cd webwml
    mkdir french
-   cvs add french
    cd french
    cp ../english/.wmlrc ../english/Make.* .
    echo '<protect>include $(subst webwml/french,webwml/english,$(CURDIR))/Makefile</protect>' &gt; Makefile
    mkdir po
-   cvs add Make* .wmlrc po
+   git add Make* .wmlrc po
    make -C po init-po
-   cvs add po/Makefile po/*.fr.po
+   git add po/Makefile po/*.fr.po
 </pre>
 
 <p>Edita il file <tt>.wmlrc</tt> e cambia:
@@ -45,7 +44,8 @@ utilizzato per convertire i file .wml in HTML e <code>make</code> usa i Makefile
 
 <p>Quando si finisce di aggiungere pagine e modificare i file, si deve eseguire
 <pre>
-   cvs commit
+   git commit -m "Inserire qui il messaggio di commit"
+   git push
 </pre>
 dalla directory webwml. A questo punto si può cominciare a tradurre le pagine.
 
@@ -57,7 +57,6 @@ dalla directory webwml. A questo punto si può cominciare a tradurre le pagine.
    cd webwml
    ./copypage.pl /english/social_contract.wml
    cd french
-   cvs add social_contract.wml
 </pre>
 
 <p>Questo aggiungerà automaticamente l'intestazione translation-check,
@@ -79,36 +78,34 @@ lista debian-www. Quando hai finito, esegui
 <pre>
    cd webwml/french
    mkdir intro
-   cvs add intro
    cd intro
    cp ../Makefile .
+   git add Makefile
+   git commit -m "added the intro dir to git"
+   git push
 </pre>
 
 Assicurati che la nuova directory abbia il Makefile e sia stata inserita
 (tramite commit) nel CVS. Altrimenti il make darà un errore
 
-<pre>
-   cvs add Makefile
-   cd ..
-   cvs commit -m "added the intro dir to CVS" intro
-</pre>
-
 #example not finished
 # <H3>Example of a Conflict</H3>
 #
 # <p>This example shows a commit that won't work because the copy in the
-# repository has been modified since your last <kbd>cvs update -d</kbd>.
+# repository has been modified since your last <kbd>git pull</kbd>.
 #
 # <pre>
-#    cvs commit -m"fixed a broken link" foo.wml
+#    git foo.wml
+#    cvs commit -m "fixed a broken link"
+#    git push
 # </pre>
 #
 # will output:
 #
 # <pre>
-# cvs: Up-to-date check failed for foo.wml!
-# cvs: fix the above errors first
+#To salsa.debian.org:webmaster-team/webwml.git
+# ! [rejected]                master -> master (fetch first)
+#error: failed to push some refs to 'git@salsa.debian.org:webmaster-team/webwml.git'
 # </pre>
 #
 # or something like that :)
-
