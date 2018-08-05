@@ -1,5 +1,5 @@
 #use wml::debian::template title="Information om hur man använder Debians sökfunktion"
-#use wml::debian::translation-check translation="faac753e853745f84b366bfd32a4cd60e721616f"
+#use wml::debian::translation-check translation="c3b565ac6b9deb00572865c557a9c7094047163a"
 
 <P>Debians sökfunktion på
 <a href="https://search.debian.org/">https://search.debian.org/</A>
@@ -12,45 +12,35 @@ Sökmaskinen kommer då att returnera alla sidor på webbplatsen som innehåller
 det ordet.
 Detta ger dig oftast bra resultat.
 
-<P>Nästa nivå är att söka efter mer än ett ord.
-Du har flera alternativ:
-
-<dl>
-<dt><em>Söka efter alla ord</em>
-  <dd>kommer att returnera sidor som innehåller samtliga de ord du skrev
-<dt><em>Söka efter något ord</em>
-  <dd>kommer att returnera sidor som innehåller något av de ord du skrev
-</dl>
+<P>Nästa nivå är att söka efter mer än ett ord, vilket kommer returnera
+en lista på sidor på webbplatsen som innehåller alla ord du har matat in.</p>
 
 <h3>Boolsk sökning</h3>
 
 <P>Om en enkel sökning inte är tillräckligt bra, kan en
 <a href="http://foldoc.org/boolean">boolsk</a>
 sökning fungera bättre för dig.
-Du kan välja mellan <em>och</em>, <em>eller</em>, <em>icke</em>
-samt en kombination av dessa tre.
+Du kan välja mellan <em>AND</em> (och), <em>OR</em> (eller), <em>NOT</em> (icke)
+samt en kombination av dessa tre. Notera att dessa operatorer måste skrivas
+med stora bokstäver för att kännas igen.</p>
 
-<P><B>&amp; - logisk OCH</B> returnerar resultat där båda orden finns på
+<P><B>AND</B> (och) returnerar resultat där båda orden finns på
 sidan.
-Till exempel ger "gcc &amp; patch" alla sidor som innehåller både "gcc" och
-"patch".
+Till exempel ger "gcc AND patch" alla sidor som innehåller både "gcc" och
+"patch". Detta exempel ger samma resultat som "gcc patch", men att explicit
+ge AND kan vara användbart i kombination med andra operatorer.
 
-<P><B>| - logisk ELLER</B> returnerar resultat där ett av orden finns på
+<P><B>OR</B> (eller) returnerar resultat där ett av orden finns på
 sidan.
-Till exempel ger "gcc | patch" alla sidor som innehåller antingen "gcc"
+Till exempel ger "gcc OR patch" alla sidor som innehåller antingen "gcc"
 eller "patch".
 
-<P><B>~ - logisk ICKE</B> utesluter ett ord från resultaten.
-Detta används vanligtvis tillsammans med logiskt OCH ("&amp;") eftersom det
-tar bort resultat ur listan.
-Till exempel ger "gcc &amp; ~patch" alla sidor som innehåller "gcc" och
-samtidigt inte innehåller "patch".
-Att bara söker efter "~patch" ger inte någonting eftersom du söker efter
-ingenting, och sedan tar bort de sidor som innehåller "patch" från den tomma
-listan, vilket naturligtvis fortfarande ger en tom lista.
+<P><B>NOT</B> (icke) utesluter ett ord från resultaten.
+Till exempel ger "gcc NOT patch" alla sidor som innehåller "gcc" och
+samtidigt inte innehåller "patch". Du kan även skriva "gcc AND NOT patch" för
+samma resultat, men att söka efter endast "NOT patch" stöds inte.</p>
 
-<P><B>() - gruppering</B> lägger till ytterligare komplexitet eftersom du nu
-kan samgruppera logiska block.
-Till exempel ger "(gcc | make) &amp; ~patch" alla sidor som innehåller
-antingen "gcc" eller "make", men som samtidigt inte innehåller "patch".
+<P><B>(</B>...<B>)</B> kan användas för att gruppera underutryck.
+Till exempel ger "(gcc OR make) NOT patch" alla sidor som innehåller
+antingen "gcc" eller "make", men som samtidigt inte innehåller "patch".</p>
 
