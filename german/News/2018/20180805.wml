@@ -1,0 +1,123 @@
+<define-tag pagetitle>DebConf18 schließt in Hsinchu, DebConf19-Datum bekanntgegeben</define-tag>
+
+<define-tag release_date>2018-08-05</define-tag>
+#use wml::debian::news
+#use wml::debian::translation-check translation="1.1" maintainer="Erik Pfannenstein"
+
+
+<p>
+iAm heutigen 5. August 2018 kam die jährliche Debian Developers and Contributors 
+Conferenz zu ihrem Ende. Mit 306 Anwesenden aus aller Welt und 137 
+Veranstaltungen, 100 Vorträgen, 25 Diskussionsrunden oder BoFs, fünf Workshops 
+und sieben anderen Aktivitäten gilt die 
+<a href="https://debconf18.debconf.org">DebConf18</a> als Erfolg.
+</p>
+
+<p>
+Zu den Highlights gehören das DebCamp, bei dem mehr als 90 Leute teilgenommen 
+haben, der 
+<a href="https://debconf18.debconf.org/schedule/?day=2018-07-28">Tag der offenen 
+Tür</a>, an dem auch Events für ein breiteres Publikum angeboten wurden, 
+Plenarsitzunngen wie die traditionellen Bits vom DPL, eine Frage- und 
+Antwortrunde mit Minister Audrey Tang, eine Paneldiskussion <q>Ignoring 
+negativity</q> (Ignorieren von Negativität) mit Bdale Garbee, Chris Lamb, 
+Enrico Zini und Steve McIntyre, der Vortrag <q>That's a free software 
+issue!!</q> (Das ist ein Freie-Software-Problem!!) von Molly de Blanc und 
+Karen Sandler, Lightning Talks und Live-Demos sowie die Ankündigung der 
+nächsten DebConf (<a href="https://wiki.debian.org/DebConf/19">DebConf19</a> 
+in Curitiba, Brasilien).
+</p>
+
+<p>
+Das <a href="https://debconf18.debconf.org/schedule/">Programm</a> wurde 
+jeden Tag aktualisiert, um etwa die 27 neuen Ad-Hoc-Aktivitäten 
+mitaufzunehmen, die während der gesamten Konferenz von Anwesenden geplant 
+wurden.
+</p>
+
+<p>
+Für die Daheimgebliebenen sind die meisten Vorträge und Sitzungen 
+aufgezeichnet und live im Internet ausgestrahlt worden; die Videos werden auf 
+die 
+<a href="https://meetings-archive.debian.net/pub/debian-meetings/2018/DebConf18/">Debian-Meetings-Archiv-Website</a> 
+hochgeladen. Viele Sitzungen ermöglichten auch die Fernteilnahme via IRC oder 
+ein kollaboratives Textdokument.
+</p>
+
+<p>
+Die <a href="https://debconf18.debconf.org/">DebConf18</a>-Website wird für 
+Archivzwecke online bleiben und Links zu den Präsentationen der Vorträge und 
+Veranstaltungen anbieten.
+</p>
+
+<p>
+Die nächstjährige <a href="https://wiki.debian.org/DebConf/19">DebConf19</a> 
+wird vom 21. bis 28. Juli 2019 in Curitiba, Brasilien, stattfinden. Sie 
+ist die zweite DebConf, die in Brasilien abgehalten wird (die erste war die 
+DebConf4 in Porto Alegre). Im Vorfeld (13. bis 19. Juli) werden die örtlichen 
+Organisatoren wieder ein DebCamp ausrichten, auf dem wieder intensiv an der 
+Verbesserung der Distribution gearbeitet werden kann; der Tag der offenen Tür 
+für die allgemeine Öffentlichkeit wird auf den 20. Juli 2019 gelegt.
+</p>
+
+<p>
+Die DebConf möchte ein sicheres und angenehmes Umfeld für alle Teilnehmerinnen 
+und Teilnehmer sein. 
+Was das bedeutet, entnehmen Sie bitte dem 
+<a href="https://debconf.org/codeofconduct.shtml">DebConf Code of Conduct</a> 
+und dem 
+<a href="https://www.debian.org/code_of_conduct">Debian Code of Conduct</a>.
+</p>
+
+<p>
+Debian bedankt sich für die Unterstützung der zahlreichen 
+<a href="https://debconf18.debconf.org/sponsors/">Sponsoren</a> 
+der DebConf18, vor allem unserem Platinum Sponsor
+<a href="http://www.hpe.com/engage/opensource">Hewlett Packard Enterprise</a>.
+</p>
+
+<h2>Über Debian</h2>
+
+<p>Das Debian-Projekt wurde 1993 von Ian Murdock als wirklich freies 
+Gemeinschaftsprojekt gegründet. Seitdem ist das Projekt zu einem der größten 
+und einflussreichsten Open-Source-Projekte angewachsen. Tausende von 
+Freiwilligen aus aller Welt arbeiten zusammen, um Debian-Software herzustellen 
+und zu betreuen. Verfügbar in über 70 Sprachen und eine große Bandbreite an 
+Rechnertypen unterstützend bezeichnet sich Debian als das <q>universelle 
+Betriebssystem</q>.</p>
+
+
+<h2>Über die DebConf</h2>
+
+<p>Die DebConf ist die Entwicklerkonferenz des Debian-Projektes. Neben 
+einem mit technischen, sozialen und politischen Vorträgen gefüllten Zeitplan 
+bietet die DebConf eine Möglichkeit für Entwickler, Mitwirkende und andere 
+interessierte Leute, sich persönlich zu treffen und enger miteinander zu 
+arbeiten. Seit 2000 findet sie jährlich in Ländern wie Schottland, Argentinien 
+und Bosnien-Herzegowina statt. Weitere Informationen über die DebConf sind 
+verfügbar unter 
+<a href="https://debconf.org/">https://debconf.org</a>.</p>
+
+<h2>Über Hewlett Packard Enterprise</h2>
+
+<p>
+<a href="http://www.hpe.com/engage/opensource">Hewlett Packard Enterprise (HPE)</a> 
+ist ein industrieführendes Technologieunternehmen, welches ein umfassendes 
+Portfolio mit Produkten wie integrierten Systemen, Servern, Storage, 
+Netzwerktechnik und Software. Außerdem bietet HPE unter anderem Consulting, 
+Unterstützung beim Betrieb, Finanzdienste und vollständige Lösungen für viele 
+verschhiedene Industrien: Mobile und IoT, Daten &amp; Analytics und 
+Herstellung oder öffentliche Sektoren.</p>
+
+<p>
+HPE ist außerdem ein Entwicklungspartner von Debian und liefert Hardware für 
+die Port-Entwicklung, Debian-Spiegel und andere Debian-Dienste 
+(Hardware-Spenden werden auf der <a href="https://db.debian.org/machines.cgi">Debian-Maschinen</a>-Seite aufgelistet).
+</p>
+
+
+<h2>Kontaktinformationen</h2>
+
+<p>Für weitere Informationen besuchen Sie bitte die DebConf18-Website unter 
+<a href="https://debconf18.debconf.org/">https://debconf18.debconf.org/</a>
+oder senden eine E-Mail an &lt;press@debian.org&gt;.</p>
