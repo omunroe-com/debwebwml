@@ -2,7 +2,7 @@
 
 <define-tag release_date>2018-08-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="e35e93f93ea801c21f7e326b884a61dbddc68e25" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="dded51c1e8b9c3bb765ff6b90a7689d19fa1942b" maintainer="Jean-Pierre Giraud"
 
 <p>
 Le dimanche 5 août 2018, la conférence annuelle des développeurs et
@@ -50,7 +50,7 @@ présentations et vidéos des communications et des événements.
 <p>
 L'an prochain, <a href="https://wiki.debian.org/DebConf/19">DebConf 19</a>  se tiendra à
 Curitiba, Brésil, du 21 juillet au 28 juillet 2019. Ce sera la seconde
-DebConf tenue au Brésil (la première était la DebConf4 à Porto Alegre.
+DebConf tenue au Brésil (la première était la DebConf4 à Porto Alegre).
 Pour les journées précédant la DebConf, les organisateurs locaux mettront à
 nouveau en place un DebCamp (13 juillet – 19 juillet), une session de
 travail intense pour améliorer la distribution, et organisera une journée

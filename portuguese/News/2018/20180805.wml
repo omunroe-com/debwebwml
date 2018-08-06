@@ -2,7 +2,7 @@
 
 <define-tag release_date>2018-08-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="e35e93f93ea801c21f7e326b884a61dbddc68e25" maintainer="Daniel Lenharo de Souza"
+#use wml::debian::translation-check translation="dded51c1e8b9c3bb765ff6b90a7689d19fa1942b" maintainer="Daniel Lenharo de Souza"
 
 <p>
 Hoje, 5 de agosto de 2018, a Conferência anual dos Desenvolvedores e Contribuidores Debian chegou ao fim.

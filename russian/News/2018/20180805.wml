@@ -2,7 +2,7 @@
 
 <define-tag release_date>2018-08-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="e35e93f93ea801c21f7e326b884a61dbddc68e25" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="dded51c1e8b9c3bb765ff6b90a7689d19fa1942b" maintainer="Lev Lamberov"
 
 <p>
 Сегодня, в воскресенье, 5 августа 2018 года подошла к концу ежегодная конференция
@@ -46,7 +46,7 @@
 <p>
 В следующем году <a href="https://wiki.debian.org/DebConf/19">DebConf19</a> пройдёт в Куритиба, Бразилия с
 21 июля по 28 июля 2019 года. Это будет второй DebConf в Бразилии (первым был DebConf4 в
-Порту-Алегри.
+Порту-Алегри).
 Перед DebConf местные организаторы снова проведут DebCamp
 (13 июля – 19 июля),
 специальную сессию для интенсивной работы по улучшению дистрибутива,
