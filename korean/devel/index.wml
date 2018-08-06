@@ -294,8 +294,8 @@ href="https://gallery.debconf.org/">이미지 갤러리
           <li><a href="$(DOC)/ddp">데비안 문서 프로젝트 (DDP)</a></li>
           <li><a href="https://wiki.debian.org/XStrikeForce">The X Strike
               Force</a></li>
-          <li>The <a href="https://qa.debian.org/">품질 보증</a>
-              group</li>
+          <li><a href="https://qa.debian.org/">품질 보증</a>
+              그룹</li>
           <li><a href="$(HOME)/CD/">데비안 CD 이미지</a></li>
           <li><a href="https://wiki.debian.org/Keysigning">키 사이닝
               coordination 페이지</a></li>
