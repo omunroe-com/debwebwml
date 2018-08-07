@@ -2,11 +2,11 @@
 
 <define-tag release_date>2018-08-05</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1" maintainer="Erik Pfannenstein"
+#use wml::debian::translation-check translation="dded51c1e8b9c3bb765ff6b90a7689d19fa1942b" maintainer="Erik Pfannenstein"
 
 
 <p>
-iAm heutigen 5. August 2018 kam die jährliche Debian Developers and Contributors 
+Am heutigen 5. August 2018 kam die jährliche Debian Developers and Contributors 
 Conferenz zu ihrem Ende. Mit 306 Anwesenden aus aller Welt und 137 
 Veranstaltungen, 100 Vorträgen, 25 Diskussionsrunden oder BoFs, fünf Workshops 
 und sieben anderen Aktivitäten gilt die 
