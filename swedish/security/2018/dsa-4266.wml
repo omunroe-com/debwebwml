@@ -1,0 +1,38 @@
+#use wml::debian::translation-check translation="f8f2f9257e00f87b05dddb078027f5189f09138f" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i Linuxkärnan som kan leda till
+utökning av privilegier eller överbelastning.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5390">CVE-2018-5390</a>
+
+	<p>Juha-Matti Tilli upptäckte att en fjärrangripare kan trigga
+	dom värsta fallen för kodvägar för återmontering av TCP-strömmar med
+	låga nivåer av speciellt skapade paket, vilket leder till
+	fjärröverbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-13405">CVE-2018-13405</a>
+
+	<p>Jann Horn upptäckte att funktionen inode_init_owner i
+	fs/incode.c i Linuxkärnan tillåter lokala användare att skapa
+	filer med ett icke menat gruppägarskap vilket tillåter angripare
+	att öka sina rättigheter genom att göra en simpel fil exekverbar
+	och SGID.</p></li>
+
+</ul>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 4.9.110-3+deb9u1. Denna uppdatering innehåller rättningar för
+flera regressioner i den senasta punktutgåvan.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era linux-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om linux vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/linux">https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4266.data"
