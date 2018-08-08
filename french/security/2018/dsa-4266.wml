@@ -9,8 +9,8 @@ pourraient conduire à une augmentation de droits ou un déni de service.</p>
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5390">CVE-2018-5390</a>
 
 <p>Juha-Matti Tilli a découvert qu'un attaquant distant peut déclencher les
-pires chemins de code pour le réassemblement d'un flux TCP avec de bas
-débits de paquets contrefaits pour l'occasion menant à un déni de service
+pires chemins de code pour le réassemblement d'un flux TCP avec un faible
+débit de paquets contrefaits pour l'occasion, menant à un déni de service
 distant.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-13405">CVE-2018-13405</a>
@@ -18,7 +18,7 @@ distant.</p></li>
 <p>Jann Horn a découvert que la fonction inode_init_owner de fs/inode.c
 dans le noyau Linux permet à des utilisateurs locaux de créer des fichiers
 avec la propriété d'un groupe non prévu permettant à des attaquants
-d'augmenter leurs droits en rendant un fichier simple exécutable et SGID.</p></li>
+d'augmenter leurs droits en rendant un simple fichier exécutable et SGID.</p></li>
 
 </ul>
 
