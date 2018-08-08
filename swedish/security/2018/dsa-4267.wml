@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="0be031a7376165f1792742c757752f497e2125e3" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Henning Westerholt upptäckte en brist relaterad till behandlingen av
+To-huvudet i kamailio, en väldigt snabb, dynamisk och konfigurerbar SIP-server.
+Sakanad validering av indata i functionen build_res_buf_from_sip_req kunde
+resultera i överbelastning och potentiellt exekvering av godtycklig kod.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 4.4.4-2+deb9u2.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era kamailio-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om kamailio vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/kamailio">https://security-tracker.debian.org/tracker/kamailio</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4267.data"
