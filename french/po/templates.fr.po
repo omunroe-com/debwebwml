@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: debian webwml templates 0.1\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-06-25 21:01+0100\n"
+"PO-Revision-Date: 2018-08-10 12:01+0200\n"
 "Last-Translator: Baptiste Jammet <baptiste@mailoo.org>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
 "Language: fr\n"
@@ -95,14 +95,12 @@ msgid "Contact Us"
 msgstr "Nous contacter"
 
 #: ../../english/template/debian/common_translation.wml:37
-#, fuzzy
-#| msgid "Release Info"
 msgid "Legal Info"
-msgstr "Dernière version"
+msgstr "Informations juridiques"
 
 #: ../../english/template/debian/common_translation.wml:40
 msgid "Data Privacy"
-msgstr ""
+msgstr "Protection de la vie privée"
 
 #: ../../english/template/debian/common_translation.wml:43
 msgid "Donations"
