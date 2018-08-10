@@ -95,72 +95,82 @@ msgid "Contact Us"
 msgstr "Nous contacter"
 
 #: ../../english/template/debian/common_translation.wml:37
+#, fuzzy
+#| msgid "Release Info"
+msgid "Legal Info"
+msgstr "Dernière version"
+
+#: ../../english/template/debian/common_translation.wml:40
+msgid "Data Privacy"
+msgstr ""
+
+#: ../../english/template/debian/common_translation.wml:43
 msgid "Donations"
 msgstr "Dons"
 
-#: ../../english/template/debian/common_translation.wml:40
+#: ../../english/template/debian/common_translation.wml:46
 msgid "Events"
 msgstr "Événements"
 
-#: ../../english/template/debian/common_translation.wml:43
+#: ../../english/template/debian/common_translation.wml:49
 msgid "News"
 msgstr "Actualités"
 
-#: ../../english/template/debian/common_translation.wml:46
+#: ../../english/template/debian/common_translation.wml:52
 msgid "Distribution"
 msgstr "Distribution"
 
-#: ../../english/template/debian/common_translation.wml:49
+#: ../../english/template/debian/common_translation.wml:55
 msgid "Support"
 msgstr "Assistance"
 
-#: ../../english/template/debian/common_translation.wml:52
+#: ../../english/template/debian/common_translation.wml:58
 msgid "Pure Blends"
 msgstr "Mélanges exclusifs"
 
-#: ../../english/template/debian/common_translation.wml:55
+#: ../../english/template/debian/common_translation.wml:61
 #: ../../english/template/debian/links.tags.wml:46
 msgid "Developers' Corner"
 msgstr "Le coin du développeur"
 
-#: ../../english/template/debian/common_translation.wml:58
+#: ../../english/template/debian/common_translation.wml:64
 msgid "Documentation"
 msgstr "Documentation"
 
-#: ../../english/template/debian/common_translation.wml:61
+#: ../../english/template/debian/common_translation.wml:67
 msgid "Security Information"
 msgstr "Informations sur la sécurité"
 
-#: ../../english/template/debian/common_translation.wml:64
+#: ../../english/template/debian/common_translation.wml:70
 msgid "Search"
 msgstr "Recherche"
 
-#: ../../english/template/debian/common_translation.wml:67
+#: ../../english/template/debian/common_translation.wml:73
 msgid "none"
 msgstr "aucun"
 
-#: ../../english/template/debian/common_translation.wml:70
+#: ../../english/template/debian/common_translation.wml:76
 msgid "Go"
 msgstr "Lancer"
 
-#: ../../english/template/debian/common_translation.wml:73
+#: ../../english/template/debian/common_translation.wml:79
 msgid "worldwide"
 msgstr "partout dans le monde"
 
-#: ../../english/template/debian/common_translation.wml:76
+#: ../../english/template/debian/common_translation.wml:82
 msgid "Site map"
 msgstr "Plan du site"
 
-#: ../../english/template/debian/common_translation.wml:79
+#: ../../english/template/debian/common_translation.wml:85
 msgid "Miscellaneous"
 msgstr "Divers"
 
-#: ../../english/template/debian/common_translation.wml:82
+#: ../../english/template/debian/common_translation.wml:88
 #: ../../english/template/debian/links.tags.wml:104
 msgid "Getting Debian"
 msgstr "Obtenir Debian"
 
-#: ../../english/template/debian/common_translation.wml:85
+#: ../../english/template/debian/common_translation.wml:91
 msgid "The Debian Blog"
 msgstr "Le blog Debian"
 
@@ -210,13 +220,7 @@ msgstr "dans la version 2.2"
 #. you can add some information of your own translation mailing list
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
-#: ../../english/template/debian/footer.wml:105
-#| msgid ""
-#| "To report a problem with the web site, e-mail our publicly archived "
-#| "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-"
-#| "www@lists.debian.org</a>.  For other contact information, see the Debian "
-#| "<a href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a "
-#| "href=\"m4_HOME/devel/website/using_cvs\">available</a>."
+#: ../../english/template/debian/footer.wml:107
 msgid ""
 "To report a problem with the web site, please e-mail our publicly archived "
 "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists."
@@ -230,28 +234,28 @@ msgstr ""
 "français à <a href=\"mailto:debian-l10n-french@lists.debian.org\">debian-"
 "l10n-french@lists.debian.org</a>. Pour obtenir d'autres informations, "
 "référez-vous à la <a href=\"m4_HOME/contact\">page contact</a> de Debian. Le "
-"code source du site est <a href=\"https://salsa.debian.org/webmaster-team/webw"
-"ml\">disponible</a>."
+"code source du site est <a href=\"https://salsa.debian.org/webmaster-team/"
+"webwml\">disponible</a>."
 
-#: ../../english/template/debian/footer.wml:108
+#: ../../english/template/debian/footer.wml:110
 msgid "Last Modified"
 msgstr "Dernière modification&nbsp;"
 
-#: ../../english/template/debian/footer.wml:111
+#: ../../english/template/debian/footer.wml:113
 msgid "Copyright"
 msgstr "Copyright"
 
-#: ../../english/template/debian/footer.wml:114
+#: ../../english/template/debian/footer.wml:116
 msgid "<a href=\"https://www.spi-inc.org/\">SPI</a> and others;"
 msgstr "<a href=\"https://www.spi-inc.org/\">SPI</a> et autres ;"
 
-#: ../../english/template/debian/footer.wml:117
+#: ../../english/template/debian/footer.wml:119
 msgid "See <a href=\"m4_HOME/license\" rel=\"copyright\">license terms</a>"
 msgstr ""
 "voir <a href=\"m4_HOME/license\" rel=\"copyright\">les termes de la licence</"
 "a>."
 
-#: ../../english/template/debian/footer.wml:120
+#: ../../english/template/debian/footer.wml:122
 msgid ""
 "Debian is a registered <a href=\"m4_HOME/trademark\">trademark</a> of "
 "Software in the Public Interest, Inc."
@@ -537,30 +541,6 @@ msgstr "URL"
 msgid "Back to the <a href=\"../\">Who's using Debian? page</a>."
 msgstr "Retour à la <a href=\"../\">page des utilisateurs de Debian</a>."
 
-#~ msgid "Visit the site sponsor"
-#~ msgstr "Le site de notre sponsor"
-
-#~ msgid "More information:"
-#~ msgstr "Plus d'informations :"
-
-#~ msgid "Taken by:"
-#~ msgstr "Pris en charge par :"
-
-#~ msgid "Nobody"
-#~ msgstr "Personne"
-
-#~ msgid "Rating:"
-#~ msgstr "Classement&nbsp;"
-
-#~ msgid "Have you found a problem with the site layout?"
-#~ msgstr "Avez-vous découvert un problème dans la mise en page du site ?"
-
-#~ msgid "Report it!"
-#~ msgstr "Signalez-le !"
-
-#~ msgid "Select a server near you"
-#~ msgstr "Choisissez un serveur proche de vous"
-
 #~ msgid ""
 #~ "<a href=\"m4_HOME/devel/website/using_cvs\">Checkout repository</a> | <a "
 #~ "href=\"https://anonscm.debian.org/viewvc/webwml/webwml/\">Browse "
@@ -569,3 +549,27 @@ msgstr "Retour à la <a href=\"../\">page des utilisateurs de Debian</a>."
 #~ "<a href=\"m4_HOME/devel/website/using_cvs\">Récupérer les sources</a> | "
 #~ "<a href=\"https://anonscm.debian.org/viewvc/webwml/webwml/\">Naviguer "
 #~ "dans le dépôt</a>"
+
+#~ msgid "Select a server near you"
+#~ msgstr "Choisissez un serveur proche de vous"
+
+#~ msgid "Report it!"
+#~ msgstr "Signalez-le !"
+
+#~ msgid "Have you found a problem with the site layout?"
+#~ msgstr "Avez-vous découvert un problème dans la mise en page du site ?"
+
+#~ msgid "Rating:"
+#~ msgstr "Classement&nbsp;"
+
+#~ msgid "Nobody"
+#~ msgstr "Personne"
+
+#~ msgid "Taken by:"
+#~ msgstr "Pris en charge par :"
+
+#~ msgid "More information:"
+#~ msgstr "Plus d'informations :"
+
+#~ msgid "Visit the site sponsor"
+#~ msgstr "Le site de notre sponsor"
