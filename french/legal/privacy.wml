@@ -1,4 +1,4 @@
-#use wml::debian::template title="Politique de confidentialité" NOCOMMENTS="yes"
+#use wml::debian::template title="Politique de protection de la vie privée" NOCOMMENTS="yes"
 #use wml::debian::translation-check translation="24530ab655ae1d79220d21c5aa92ff41f8353699" maintainer="Jean-Paul Guillonneau"
 
 ## Translators may want to add a note stating that the translation
@@ -15,13 +15,13 @@ avoir une portée légale.</p>
 de bénévoles qui font cause commune pour créer un système d’exploitation libre,
 connu sous le nom de Debian. </p>
 
-<p>Il n’est pas exigé de quiconque désirant utiliser Debian de fournir au
-Projet une quelconque information personnelle. Il est téléchargeable librement
-sans aucun enregistrement ou autre forme d’identification, à la fois à partir de
+<p>Il n’est exigé de quiconque désirant utiliser Debian de fournir au
+Projet une quelconque information personnelle. Debian est téléchargeable librement
+sans aucun enregistrement ou autre forme d’identification, à la fois à partir des
 miroirs officiels utilisés par le Projet et à partir de tierces parties.</p>
 
-<p>D’autres aspects d’interaction avec le Projet Debian impliquent cependant la
-collecte d’informations personnelles. Il s’agit principalement des noms et
+<p>D’autres aspects d’interaction avec le Projet Debian impliquent, cependant,
+la collecte d’informations personnelles. Il s’agit principalement des noms et
 adresses dans les courriels reçus par le Projet. Toutes les listes de diffusion
 sont archivées de manière publique, comme le sont tous les échanges avec le
 système de suivi de bogues. C’est en conformité avec notre
@@ -39,7 +39,7 @@ nécessité.</p>
 
 <p>Veuillez noter que les hôtes et services du domaine
 <strong>debian.net</strong> ne font pas partie du Projet Debian officiel. Ils
-sont entretenus par des particuliers associés au Projet plutôt que par
+sont entretenus par des individus associés au Projet plutôt que par
 celui-ci. Les questions sur les données conservées par ces services
 devront être adressées aux exploitants des services plutôt qu’au
 Projet Debian lui-même.</p>
@@ -47,13 +47,13 @@ Projet Debian lui-même.</p>
 <h2>Contributeurs (<a href="https://contributors.debian.org/">contributors.debian.org</a>)</h2>
 
 <p>Le site des contributeurs à Debian fournit une agrégation des données sur la
-participation de quelqu’un au Projet Debian, si c’est en remplissant
+participation de quelqu’un au Projet Debian, que ce soit en remplissant
 un rapport de bogue, en téléversant dans l’archive, en publiant sur une liste
-de diffusion ou par d’autres interactions variées avec le Projet. Il reçoit ses
-informations des services concernés (les détails sur un identifiant comme le
-nom d’utilisateur et la date de dernière contribution) et fournit un point
-unique de référence pour consulter où le Projet enregistre les
-informations à propos d’une personne.</p>
+de diffusion ou par diverses autres interactions variées avec le Projet. Il
+reçoit ses informations des services concernés (les détails sur un identifiant
+comme le nom d’utilisateur et la date de dernière contribution) et fournit un
+point unique de référence pour savoir où le Projet enregistre les informations
+sur une personne.</p>
 
 <h2>Archives (<a href="https://ftp.debian.org/debian/">ftp.debian.org</a>)</h2>
 
@@ -70,11 +70,11 @@ y adhèrent.</p>
 
 <h2>Système de suivi des bogues (<a href="https://bugs.debian.org/">bugs.debian.org</a>)</h2>
 
-<p>Interférer avec le système de suivi de bogues (BTS) se fait par courriel et
+<p>L’interaction avec le système de suivi de bogues (BTS) se fait par courriel et
 celui-ci stocke tous les courriels reçus relatifs à un bogue dans son
-historique. Afin que le Projet puisse effectivement gérer les problèmes trouvés
-dans la distribution et pour permettre aux utilisateurs de consulter les
-détails à propos de ces problèmes et si un correctif ou un palliatif est
+historique. Afin que le Projet puisse effectivement gérer les problèmes
+découverts dans la distribution et pour permettre aux utilisateurs de consulter
+les détails à propos de ces problèmes et si un correctif ou un palliatif est
 disponible, l’intégralité du système de suivi de bogues est librement
 accessible. Par conséquent, toute information, y compris les noms et adresses
 de courriel composants les en-têtes de courriel, envoyée au BTS, est archivée
@@ -84,32 +84,32 @@ et librement disponible.</p>
 
 <p>La structure d’inscription de DebConf enregistre les renseignements sur les
 participants aux conférences. Cela est nécessaire pour déterminer
-l’admissibilité aux bourses, le rapport au Projet et pour contacter les
+l’admissibilité aux bourses, les relations avec le Projet et pour contacter les
 participants avec les renseignements adéquats. Ils peuvent être aussi partagés
-avec les fournisseurs des conférences, par exemple, l’hébergement fourni aux
-participants séjournant à la conférence ont leur nom et leur date de présence
+avec les fournisseurs des conférences, par exemple, les participants utilisant
+les hébergements fournis par la conférence ont leur nom et leur date de présence
 partagés avec le fournisseur d’hébergement.</p>
 
 <h2>Annuaire LDAP des développeurs (<a href="https://db.debian.org">db.debian.org</a>)</h2>
 
-<p>Les contributeurs au Project (développeurs et autres avec des accréditations
-comme invité [guest]) possédant un accès aux machines à l’intérieur de
-l’infrastructure ont leurs renseignements enregistrés dans l’infrastructure
-LDAP du Projet. Cela enregistre principalement le nom, le nom d’utilisateur et
-les informations d’authentification. Cependant, c’est aussi un dispositif
-facultatif pour les contributeurs pour fournir des informations supplémentaires
-telles que le sexe, la messagerie instantanée, le pays, l’adresse ou le
-téléphone et un message s’ils sont en vacances.</p>
+<p>Les contributeurs au Projet (développeurs et autres bénéficiant
+d’accréditations comme invité [guest]) possédant un accès aux machines à
+l’intérieur de l’infrastructure de Debian ont leurs renseignements enregistrés
+dans l’infrastructure LDAP du Projet. Principalement sont enregistrés le nom,
+le nom d’utilisateur et les informations d’authentification. Cependant, c’est
+aussi un dispositif facultatif offert aux contributeurs pour fournir des
+informations supplémentaires telles que le sexe, la messagerie instantanée, le
+pays, l’adresse ou le téléphone et un message s’ils sont en vacances.</p>
 
 <p>
 Les nom, nom d’utilisateur et quelques renseignements fournis volontairement
-sont disponibles librement à l’aide d’une recherche avec l’interface web ou
+sont accessibles librement à l’aide d’une recherche avec l’interface web ou
 LDAP. Des précisions supplémentaires sont partagées seulement avec d’autres
 personnes ayant un accès à un compte dans l’infrastructure de Debian, prévu
 pour fournir un emplacement centralisé d’échange de telles informations de
 contact pour les membres de Projet. Ces renseignements ne sont formellement
 recueillis à aucun moment et peuvent être toujours supprimés en se connectant
-dans l’interface web de db.debian.org ou en envoyant un courriel signé à
+à l’interface web de db.debian.org ou en envoyant un courriel signé à
 l’interface de courriels. Consultez <a href="https://db.debian.org/">
 https://db.debian.org/</a> et <a href="https://db.debian.org/doc-general.html">
 https://db.debian.org/doc-general.html</a> pour plus de détails.
@@ -117,11 +117,11 @@ https://db.debian.org/doc-general.html</a> pour plus de détails.
 
 <h2>Gitlab (<a href="https://salsa.debian.org/">salsa.debian.org</a>)</h2>
 
-<p>Salsa.debian.org fournit un déploiement de l’outil de gestion du cycle DevOps de <a
-href="https://about.gitlab.com/">GitLab</a>. Il est principalement utilisé par
-le Projet pour permettre à ses contributeurs d’héberger des dépôts logiciels
-utilisant Git et encourager la collaboration entre contributeurs. Par
-conséquent il a besoin de divers renseignements personnels pour la gestion des
+<p>Salsa.debian.org fournit un déploiement de l’outil de gestion du cycle
+DevOps de <a href="https://about.gitlab.com/">GitLab</a>. Il est principalement
+utilisé par le Projet pour permettre à ses contributeurs d’héberger des dépôts
+logiciels utilisant Git et encourager la collaboration entre contributeurs. Par
+conséquent, il a besoin de divers renseignements personnels pour la gestion des
 comptes. Pour les membres du Projet, cela est rattaché au système central LDAP
 de Debian, mais des invités (guest) peuvent demander un compte et doivent
 fournir leurs coordonnées nominatives et de courriel pour simplifier la
@@ -151,11 +151,11 @@ l’intérieur du système.</p>
 <p>Les listes de diffusion sont le premier mécanisme de communication pour le
 Projet Debian. Presque toutes les listes de diffusion concernant le Projet sont
 ouvertes, et donc accessibles à n’importe qui pour y lire ou écrire. Toutes les
-listes sont archivées. Pour les listes publiques, cela signifie au moyen du
-web. Cela satisfait l’engagement de transparence du Projet, et aide nos
-utilisateurs et développeurs à comprendre ce qui se passe dans le Projet ou à
-comprendre les raisons historiques de certains aspects du Projet. En raison de
-la nature du courriel, ces archives contiennent donc potentiellement des
+listes sont archivées. Pour les listes publiques, cela signifie accessibles au
+moyen du web. Cela satisfait l’engagement de transparence du Projet, et aide
+nos utilisateurs et développeurs à comprendre ce qui se passe dans le Projet ou
+à comprendre les raisons historiques de certains aspects du Projet. En raison
+de la nature du courriel, ces archives contiennent donc potentiellement des
 informations personnelles telles que les noms et adresses de courriel.</p>
 
 <h2>Site des nouveaux membres (<a href="https://nm.debian.org/">nm.debian.org</a>)</h2>
@@ -164,13 +164,13 @@ informations personnelles telles que les noms et adresses de courriel.</p>
 peuvent opter de postuler au processus de nouveau membre. Cela leur permet
 d’obtenir la possibilité de téléverser leurs propres paquets (à l’aide de
 Debian Maintainership) ou de devenir un membre avec les pleins droits de vote
-du Projet et avec droits d’accréditation (développeurs Debian, avec ou sans droits
-de téléversement). Dans le cadre de ce processus, divers renseignements
+du Projet et avec droits d’accréditation (développeurs Debian, avec ou sans
+droits de téléversement). Dans le cadre de ce processus, divers renseignements
 personnels sont collectés, en commençant par le nom, l’adresse de courriel et
 la clef de chiffrement et signature. Une demande complète pour le Projet
-implique aussi au postulant de s’engager avec un responsable de candidature
-d’entreprendre une conversation par courriels pour s’assurer que le nouveau
-membre comprennent bien les principes derrière Debian et possède les
+implique aussi que le postulant s’engage à entreprendre avec un responsable de
+candidature une conversation par courriels pour s’assurer que le nouveau
+membre comprend bien les principes qui sous-tendent Debian et possède les
 compétences nécessaires pour interagir avec l’infrastructure du Projet. Cette
 conversation par courriels est archivée et accessible au postulant et aux
 responsables de candidature à l’aide de l’interface nm.debian.org. De plus, les
@@ -183,27 +183,28 @@ approprié.</p>
 
 <p>« Popcon » repère quels paquets sont installés sur un système Debian, afin
 de collecter des statistiques sur les paquets souvent utilisés et quels
-sont ceux qui ne le sont plus. Il utilise le paquet « popularity-contest »
-facultatif pour rassembler cette information, requérant un accord explicite
-pour ce faire. Cela procure une indication utile pour savoir où consacrer des
-ressources de développement, par exemple, lors de la migration vers de
-nouvelles versions de bibliothèque et devant faire des efforts pour le portage
-d’anciennes applications. Chaque installation de popcon génère un identifiant
-aléatoire unique de 128 bits utilisé pour suivre les soumissions d’un même
-hôte. Aucune tentative n’est faite pour faire correspondre cela avec des individus. Les
-soumissions sont faites par courriel ou HTTP, et il est donc possible que des
-informations personnelles fuient sous la forme d’adresse IP utilisée pour se
-connecter ou d’en-tête de courriel. Ces informations sont seulement disponibles
-pour les administrateurs système de Debian et les administrateurs de popcon. De
-telles métadonnées sont toutes supprimées avant que les soumissions soient
-accessibles au Projet dans son ensemble. Cependant, les utilisateurs doivent
-être conscients que les signatures uniques de paquets (tels ceux créés
-localement ou ceux avec un compte d’installation très bas) peuvent faire que
-des machines soient déduites comme appartenant à des individus donnés.</p>
+sont ceux qui ne le sont plus. Il utilise le paquet facultatif
+« popularity-contest » pour rassembler cette information, requérant un accord
+explicite pour ce faire. Cela procure une indication utile pour savoir où
+consacrer des ressources de développement, par exemple, lors de la migration
+vers de nouvelles versions de bibliothèques et nécessitant des efforts pour le
+portage d’anciennes applications. Chaque installation de popcon génère un
+identifiant aléatoire unique de 128 bits utilisé pour suivre les soumissions
+d’un même hôte. Aucune tentative n’est faite pour faire correspondre cela avec
+des individus. Les soumissions sont faites par courriel ou HTTP, et il est donc
+possible que des informations personnelles fuient sous la forme d’adresse IP
+utilisée pour se connecter ou d’en-tête de courriel. Ces informations sont
+seulement disponibles pour les administrateurs système de Debian et les
+administrateurs de popcon. De telles métadonnées sont toutes supprimées avant
+que les soumissions soient accessibles au Projet dans son ensemble. Cependant,
+les utilisateurs doivent être conscients que les signatures uniques de paquets
+(tels ceux créés localement ou ceux avec un compte d’installation très bas)
+peuvent faire qu'il soit possible de déduire l'appartenance de machines à des
+individus donnés.</p>
 
 <p>Les soumissions brutes sont stockées pendant 24 heures, pour permettre une
 répétition en cas de problèmes avec les mécanismes de traitement. Les
-soumissions rendues anonymes sont conservées au plus pendant 20 jours. Les
+soumissions rendues anonymes sont conservées pendant 20 jours au plus. Les
 rapports de synthèse, ne contenant aucune information personnelle identifiable,
 sont conservés indéfiniment.</p>
 
@@ -226,10 +227,10 @@ application particulière.</p>
 <p>Le système de suivi de votes (devotee) suit l’état des résolutions générales
 en cours et les résultats des scrutins précédents. Dans la majorité des cas,
 cela signifie que lorsque la période de scrutin est terminée, les
-renseignements sur ceux qui ont votés (noms d’utilisateur et correspondance avec les
-noms) et la façon dont ils ont votés deviennent visibles publiquement. Seuls
-les membres du Projet sont des électeurs légitimes pour les besoins de devotee,
-et seulement les votes valables sont suivis par le système.</p>
+renseignements sur ceux qui ont votés (noms d’utilisateur et correspondance
+avec les noms) et la façon dont ils ont voté deviennent visibles publiquement.
+Seuls les membres du Projet sont des électeurs légitimes pour les besoins de
+devotee, et seulement les votes valables sont suivis par le système.</p>
 
 <h2>Wiki (<a href="https://wiki.debian.org/">wiki.debian.org</a>)</h2>
 
@@ -239,15 +240,16 @@ sont suivies au fil du temps et associées aux comptes d’utilisateur. Chaque
 modification de page est suivie pour permettre aux éditions fautives d’être
 revues et les informations mises à jour aisément examinées. Ce suivi fournit
 des renseignements sur l’utilisateur responsable de la modification qui peuvent
-être utilisés pour éviter des abus en bloquant les éditions en provenance de certaines adresses IP ou
-d’utilisateurs abusifs. Les comptes permettent aussi aux utilisateurs de
-s’abonner à des pages pour surveiller les changements, ou pour voir les détails
-de modification dans tout le wiki depuis leurs dernières vérifications. En
-général les comptes d’utilisateur sont nommés d’après le nom de l’utilisateur
-mais aucune validation n’est réalisée et un utilisateur peut choisir n’importe
-quel nom d’utilisateur disponible. Une adresse de courriel est nécessaire pour
-fournir un mécanisme de réinitialisation de mot de passe du compte et pour
-notifier à l’utilisateur tout changement des pages auxquelles il est abonné.
+être utilisés pour éviter des abus en bloquant les éditions en provenance de
+certaines adresses IP ou d’utilisateurs abusifs. Les comptes permettent aussi
+aux utilisateurs de s’abonner à des pages pour surveiller les changements, ou
+pour voir les détails de modification dans tout le wiki depuis leurs dernières
+vérifications. En général, les comptes d’utilisateur sont nommés d’après le nom
+de l’utilisateur mais aucune validation n’est réalisée et un utilisateur peut
+choisir n’importe quel nom d’utilisateur disponible. Une adresse de courriel
+est nécessaire pour fournir un mécanisme de réinitialisation de mot de passe du
+compte et pour notifier à l’utilisateur tout changement des pages auxquelles il
+est abonné.
 </p>
 
 <h2>Echelon</h2>
@@ -259,9 +261,9 @@ pour enregistrer si un membre de Debian est actif. Seule l’activité la plus
 récente est enregistrée dans le dossier LDAP des membres. Il est donc limité au
 suivi de renseignements sur les personnes ayant un compte dans l’infrastructure
 de Debian. Ces informations sont utilisées pour déterminer si un membre du
-Projet est inactif ou disparu, et donc qu’un impératif d’exploitation bloque
-ses comptes ou réduise ses permissions d’accès pour garantir que les
-systèmes de Debian soient toujours sécurisés.</p>
+Projet est inactif ou disparu, et donc qu'il faille qu’un impératif
+d’exploitation bloque ses comptes ou réduise ses permissions d’accès pour
+garantir que les systèmes de Debian soient toujours sécurisés.</p>
 
 <h2>Service relatif aux journaux</h2>
 
