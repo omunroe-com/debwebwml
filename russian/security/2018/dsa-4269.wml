@@ -1,0 +1,35 @@
+#use wml::debian::translation-check translation="18b8804feb5d3da3be18b5fb9a764a50b651179f" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В системе баз данных PostgreSQL были обнаружены две уязвимости:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10915">CVE-2018-10915</a>
+
+    <p>Андрей Красичков обнаружил, что libpq не сбрасывает все свои состояния
+    соединений во время установки повторных соединений.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10925">CVE-2018-10925</a>
+
+    <p>Было обнаружено, что некоторые утверждения <q>CREATE TABLE</q> могут
+    раскрывать содержимое памяти сервера.</p></li>
+
+</ul>
+
+<p>За дополнительной информацией обращайтесь к анонсу основной ветки разработки по адресу
+<a href="https://www.postgresql.org/about/news/1878/">https://www.postgresql.org/about/news/1878/</a></p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 9.6.10-0+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты postgresql-9.6.</p>
+
+<p>С подробным статусом поддержки безопасности postgresql-9.6 можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/postgresql-9.6">\
+https://security-tracker.debian.org/tracker/postgresql-9.6</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4269.data"
