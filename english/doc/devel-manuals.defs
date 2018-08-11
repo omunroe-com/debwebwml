@@ -42,7 +42,7 @@
 
 <define-tag inddpsvn-debmake-doc whitespace=delete>
   <inddpcvs name="debmake-doc"
-            langs="en"
+            langs="en ru zh-cn de"
             formats="html txt pdf"
             srctype="XML"
             vcstype="git"
