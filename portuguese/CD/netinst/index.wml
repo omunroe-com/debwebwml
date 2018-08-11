@@ -1,51 +1,51 @@
-#use wml::debian::cdimage title="Instalação via rede a partir de um CD mínimo"
+#use wml::debian::cdimage title="InstalaÃ§Ã£o via rede a partir de um CD mÃ­nimo"
 #use wml::debian::release_info
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #use wml::debian::translation-check translation="40eeef5c10b97819abf8467d7f2a8038a8729ff8" maintainer="Felipe Augusto van de Wiel (faw)"
 
-<p>Um CD de <q>instalação via rede</q> ou <q>netinst</q> é um único CD que
-permite-lhe instalar todo o sistema operacional. Este único CD
-contém apenas a quantidade mínima de software para começar a
-instalação e obter os outros pacotes através da Internet.</p>
+<p>Um CD de <q>instalaÃ§Ã£o via rede</q> ou <q>netinst</q> Ã© um Ãºnico CD que
+permite-lhe instalar todo o sistema operacional. Este Ãºnico CD
+contÃ©m apenas a quantidade mÃ­nima de software para comeÃ§ar a
+instalaÃ§Ã£o e obter os outros pacotes atravÃ©s da Internet.</p>
 
-<p><strong>O que é melhor para mim &mdash; o CD-ROM inicializável mínimo
+<p><strong>O que Ã© melhor para mim &mdash; o CD-ROM inicializÃ¡vel mÃ­nimo
 ou os CDs completos?</strong> Depende, mas achamos que em muitos casos
-a imagem do CD mínimo é melhor &mdash; antes de mais nada, você só vai baixar
-os pacotes que selecionar para a instalação na sua máquina, o que 
-economiza tempo e banda. Por outro lado, os CDs completos são mais
-úteis quando for instalar em mais de uma máquina, ou máquinas sem
-acesso livre à Internet.</p>
+a imagem do CD mÃ­nimo Ã© melhor &mdash; antes de mais nada, vocÃª sÃ³ vai baixar
+os pacotes que selecionar para a instalaÃ§Ã£o na sua mÃ¡quina, o que 
+economiza tempo e banda. Por outro lado, os CDs completos sÃ£o mais
+Ãºteis quando for instalar em mais de uma mÃ¡quina, ou mÃ¡quinas sem
+acesso livre Ã  Internet.</p>
 
-<p><strong>Quais tipos de conexões de rede são suportadas
-durante a instalação?</strong>
-A instalação via rede assume que você tenha acesso à Internet. Várias formas
-diferentes são suportadas para isso, como uma conexão discada analógica PPP,
-ethernet, WLAN (com algumas restrições), mas ISDN não é suportada &mdash;
+<p><strong>Quais tipos de conexÃµes de rede sÃ£o suportadas
+durante a instalaÃ§Ã£o?</strong>
+A instalaÃ§Ã£o via rede assume que vocÃª tenha acesso Ã  Internet. VÃ¡rias formas
+diferentes sÃ£o suportadas para isso, como uma conexÃ£o discada analÃ³gica PPP,
+ethernet, WLAN (com algumas restriÃ§Ãµes), mas ISDN nÃ£o Ã© suportada &mdash;
 desculpe!</p>
 
-<p>As seguintes imagens inicializáveis do CD mínimo estão disponíveis para
+<p>As seguintes imagens inicializÃ¡veis do CD mÃ­nimo estÃ£o disponÃ­veis para
 baixar:</p>
 
 <ul>
 
-  <li>Imagens <q>netinst</q> oficiais para a distribuição estável
+  <li>Imagens <q>netinst</q> oficiais para a distribuiÃ§Ã£o estÃ¡vel
   (<q>stable</q>) &mdash; <a href="#netinst-stable">veja abaixo</a></li>
 
-  <li>Imagens para a distribuição teste (<q>testing</q>), tanto as
-  construções diárias como os snapshots que estão funcionando, veja a
-  <a href="$(DEVEL)/debian-installer/">página do
+  <li>Imagens para a distribuiÃ§Ã£o teste (<q>testing</q>), tanto as
+  construÃ§Ãµes diÃ¡rias como os snapshots que estÃ£o funcionando, veja a
+  <a href="$(DEVEL)/debian-installer/">pÃ¡gina do
   Debian-Installer</a>.</li>
 
 </ul>
 
 
-<h2 id="netinst-stable">Imagens netinst oficiais para a distribuição
-estável (<q>stable</q>)</h2>
+<h2 id="netinst-stable">Imagens netinst oficiais para a distribuiÃ§Ã£o
+estÃ¡vel (<q>stable</q>)</h2>
 
-<p>Com até 300&nbsp;MB de tamanho, essa imagem contém o instalador e
-um conjunto reduzido de pacotes, o que possibilita a instalação de um sistema
-(muito) básico.</p>
+<p>Com atÃ© 300&nbsp;MB de tamanho, essa imagem contÃ©m o instalador e
+um conjunto reduzido de pacotes, o que possibilita a instalaÃ§Ã£o de um sistema
+(muito) bÃ¡sico.</p>
 
 <div class="line">
 <div class="item col50">
@@ -59,9 +59,9 @@ um conjunto reduzido de pacotes, o que possibilita a instalação de um sistema
 <div class="clear"></div>
 </div>
 
-<p>Para informações sobre o que são estes arquivos e como utilizá-los, por favor
+<p>Para informaÃ§Ãµes sobre o que sÃ£o estes arquivos e como utilizÃ¡-los, por favor
 consulte o <a href="../faq/">FAQ</a>.</p>
 
-<p>Uma vez que tenha baixado uma dessas imagens, não esqueça de dar uma olhada
-nas <a href="$(HOME)/releases/stable/installmanual">informações detalhadas
-sobre o processo de instalação</a>.</p>
+<p>Uma vez que tenha baixado uma dessas imagens, nÃ£o esqueÃ§a de dar uma olhada
+nas <a href="$(HOME)/releases/stable/installmanual">informaÃ§Ãµes detalhadas
+sobre o processo de instalaÃ§Ã£o</a>.</p>
