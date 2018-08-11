@@ -1,0 +1,21 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>It was discovered that the PatternSyntaxException class in the
+Concurrency component of OpenJDK, an implementation of the Oracle Java
+platform could result in denial of service via excessive memory
+consumption.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 8u181-b13-1~deb9u1.</p>
+
+<p>We recommend that you upgrade your openjdk-8 packages.</p>
+
+<p>For the detailed security status of openjdk-8 please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/openjdk-8">\
+https://security-tracker.debian.org/tracker/openjdk-8</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4268.data"
+# $Id: $
