@@ -1,129 +1,133 @@
 #use wml::debian::template title="翻譯 Debian 網頁" BARETITLE=true
 #use wml::fmt::verbatim
-#use wml::debian::translation-check translation="ad3c7be7ae8789593d1c18116e078f35ebd9f2f7"
+#use wml::debian::translation-check translation="55b6f42c8b91b52404cf09a178e66550253b8417"
 
-<p>為了讓翻譯人員的工作更加容易，在這些頁面的生成方式和您過去所熟知的之間存在
-一些差異。實際上這些網頁是通過由 <a
-href="http://www.engelschall.com/sw/wml/"><tt>wml</tt></a> 標記的源代碼自動生
-成的。每一門語種都有各自對應的目錄。
+<p>為了讓翻譯人員的工作更加容易，在這些頁面的生成方式和您過去所熟知的之間存在一些差異。
+實際上這些網頁是通過由 <a> href="http://www.engelschall.com/sw/wml/"><tt>wml</tt></a> 標記的源代碼自動生成的。
+每一門語種都有各自對應的目錄。
 </p>
 
-<p>如果您計劃為 Debian 網頁開創一個新的語種的翻譯工作，請查閱 <a
-href="#completenew">開創一個新語種</a> 一節。
+<p>如果您計劃為 Debian 網頁開創一個新的語種的翻譯工作，請查閱 <a href="#completenew">開創一個新語種</a> 一節。
 </p>
 
 <h2><a name="singlepages">翻譯單獨的頁面</a></h2>
 
-<p>我們使用 WML 區分一個頁面關鍵的內容和多個頁面共通的元素。意思就是唯一需要編輯
-的是 WML 源代碼，而不是 HTML 文件。請 <a href="using_git">使用 Git</a> 獲取當前的
-源代碼。您將需要簽出 (check out) 至少兩個目錄: <tt>webwml/english/</tt> 和
-<tt>webwml/<var>&lt;language&gt;</var>/</tt>.</p> 
+<p>我們使用 WML 區分一個頁面關鍵的內容和多個頁面共通的元素。
+意思就是唯一需要編輯的是 WML 源代碼，而不是 HTML 文件。
+請 <a href="using_git">使用 Git</a> 獲取當前的源代碼。
+您將需要簽出 (check out) 至少兩個目錄：<tt>webwml/english/</tt> 和 <tt>webwml/<var>&lt;language&gt;</var>/</tt>。</p>
 
-<p>要將一個單獨的頁面從英語翻譯成您所用的語言，原始的 .wml 文件需要被翻譯
-並放置在那個語言對應的目錄。文件的相對路徑以及名稱需要和英語目錄中的保持一致，
-以便鏈接能夠正常工作。</p>
+<p>要將一個單獨的頁面從英語翻譯成您所用的語種，原始的 .wml 文件需要被翻譯並放置在那個語種對應的目錄。
+文件的相對路徑以及名稱需要和英語目錄中的保持一致，以便鏈接能夠正常工作。</p>
 
-<h3>翻譯頁頭</h3>
-<p>強烈建議翻譯人員在頁頭的最後一個 <code>#usr</code> 語句之後追加一行，
-用於記錄該被翻譯的原始文件的准确提交信息，从而 <a href="uptodate">便於更新</a>。
-這一行看上去應該像這樣:
+<h3>翻譯頁首</h3>
+<p>強烈建議翻譯人員在頁首的最後一個 <code>#usr</code> 敘述句之後追加一行，用於記錄該被翻譯的原始文件的版本，來 <a href="uptodate">方便更新</a>。
+這一行看上去應該像這樣：
 <kbd>#use wml::debian::translation-check translation="<var>&lt;git_commit_hash&gt;</var>"</kbd>
-请注意如果您使用 <tt>copypage.pl</tt> 工具生成可翻译文件（我们非常推荐您采用\
-这种做法），该工具会自动生成对应的 git 提交散列字符串。<tt>copypage.pl</tt>
-工具的详细用法会在接下来的文字中予以解释。
+請注意如果您使用 <tt>copypage.pl</tt> 工具產生翻譯用檔案（推薦使用此方式），將會自動填入 git 版本。
+<tt>copypage.pl</tt> 工具的用法將後述。
 </p>
 
-<p><strong>请注意：</strong>下面的某些信息目前已过时，尤其是所有涉及 CVS
-的信息均已过时。请暂时丢弃相关的信息，如果可能的话，请帮助我们更新相关\
-的内容。</p>
-
-<p>另外某些翻譯小組還會用這一行給每個網頁標記一位官方的翻譯人員。這樣，當您所
-維護的這個頁面在英語目錄中相應位置發生更新時，您將會自動收到郵件通知，提醒您
-更新這個翻譯工作。為此，只要在剛才 <code>#use</code> 一行的最後簡單的加上您的
-名字作為維護者使它看起來像這樣:
-<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>" maintainer="<var>your name</var>"</kbd>
+<p><strong>注意：</strong>部分資訊可能已過時，尤其是所有提到 CVS 的資訊。
+請忽略這些資訊，並請協助更新相關步驟資訊。
 </p>
 
-<p>您還需要向機器人說明您的身份，以及自動接收郵件通知的週期。為此，編輯 (或者
-乾脆讓您的協調人編輯) CVS 中的這個文件
-webwml/<var>language</var>/international/<var>language</var>/translator.db.pl
-。它的語法是十分簡明的，而且如果在您所用的語言中還不存在該文件的話，你可以使用
-法語小組的文件作為模板。所謂的機器人能夠傳遞幾種信息，對於其中的任何一種，
-您可以選擇接收它們的週期。這些不同種類的信息有:
+<p>另外某些翻譯小組還會用這一行給每個網頁標記一位官方翻譯人員。
+如此一來，當您所維護的這個頁面在英語目錄中相應位置有更新時，您將會自動收到郵件通知，提醒您更新這個翻譯工作。
+為此，只要在剛才 <code>#use</code> 一行的最後簡單的加上您的名字作為維護者使它看起來像這樣：
+<kbd>#use wml::debian::translation-check translation="<var>git_commit_hash</var>" maintainer="<var>your name</var>"</kbd>。
+如果您設定了 <tt>DWWW_MAINT</tt> 環境變數，或是使用 <tt>-m</tt> 命令列參數，<tt>copypage.pl</tt> 將能自動填入。
 </p>
 
-<ul>
- <li><b>summary</b>: 過期了的文件一覽</li>
- <li><b>log</b>: the "cvs log" between the translated and current versions</li>
- <li><b>diff</b>: "cvs diff"</li>
- <li><b>tdiff</b>: the script will try to find the part of the translated text modified by the English patch</li>
- <li><b>file</b>: add the current version of the file to translate</li>
-</ul>
+# I Removed cvs specific descriptions from here because of cvs to git transition.
+# Help to update instruction if possible.
+#
+#<p>You also need to explain to the robot who you are, how often you
+#want to get automatic mails and their content. For that, edit (or let
+#your coordinator edit) the file
+#webwml/<var>language</var>/international/<var>language</var>/translator.db.pl
+#in the repository.  The syntax should be quite understandable, and you can
+##use the file of the French team as template if it does not exist for
+#your language yet. The robot can send several kinds of information, and
+#for each of them, you can choose the frequency at which it will be
+#sent to you. The different kinds of information are:
+#</p>
 
-<p>然後它們每一項的取值應該是: 0 (從不)，1 (每月)，2 (每週)，3 (每日) 其中的一個。</p>
+#<ul>
+# <li><b>summary</b>:  a summary of which documents are outdated</li>
+# <li><b>logs</b>: the "cvs log" between the translated and current versions</li>
+# <li><b>diff</b>: "cvs diff"</li>
+# <li><b>tdiff</b>: the script will try to find the part of the translated text modified by the English patch</li>
+# <li><b>file</b>: add the current version of the file to translate</li>
+#</ul>
 
-<p>例如:
+#<p>Then, for each of them, the value should be one of: 0 (never), 1 (monthly), 2 (weekly) or 3 (daily).</p>
+
+#<p>An example could be:
+#</p>
+
+#<verbatim>
+#                'Martin Quinson' => {
+#                        email       => 'martin.quinson@tuxfamily.org',
+#                        summary     => 3,
+#                        logs        => 3,
+#                        diff        => 3,
+#                        tdiff       => 0,
+#                        file        => 0
+#                },
+#</verbatim>
+
+<p>通過使用 webwml 根目錄中的 <tt>copypage.pl</tt> 腳本可以很容易的產生一個網頁的頁首資訊。
+這個腳本將複製頁面到正確的位置，在必要時建立目錄以及產生 makefile，並且自動添加所需的頁首資訊。
+您可能會收到警告該頁面已經存在倉庫中，表示該頁面可能曾經翻譯過但過期太久而被移除，或是因為已經有人在您之前提交新的翻譯。
 </p>
 
-<verbatim>
-                'Martin Quinson' => {
-                        email       => 'martin.quinson@tuxfamily.org',
-                        summary     => 3,
-                        logs        => 3,
-                        diff        => 3,
-                        tdiff       => 0,
-                        file        => 0
-                },
-</verbatim>
+<p>在開始使用 <tt>copypage.pl</tt> 之前，您需要先設定 <tt>language.conf</tt> 檔案來指定您要翻譯的語種。
+這個檔案只需要一行語種名稱。
+您也可以透過使用 <tt>DWWW_LANG</tt> 環境變數來設定語種，與 <tt>DWWW_MAINT</tt> 環境變數來設定產生的 wml 檔案中的頁首資訊內的官方翻譯名單。
+這個腳本還提供其他功能，只要不帶參數執行即可得到說明資訊。
+</p>
 
-<p>通過使用 webwml 根目錄中的 <tt>copypage.pl</tt> 腳本可以很容易的產生一個
-網頁的頁頭信息。這個腳本將複製頁面到合適的位置，在必要時創建目錄以及生成
-makefile，並且自動添加所需的頁頭信息。
-您可能會收到警告該頁面已經存在倉庫中，表示該頁面可能曾經翻譯過但過期太久而被移除，
-或是因為已經有人在您之前提交新的翻譯。</p>
-
-<p>當您執行過 <kbd>./copypage.pl <var>file</var>.wml</kbd> 之後，便可以對這個
-文件中的原始內容進行翻譯了。文件中的注釋用於標示一些不需要被翻譯的條目，請保留
-它們。不要作任何有關格式方面的多餘改動，如果真有需要的話，改動或許應該在
-原始文件中完成。</p>
+<p>當您執行過 <kbd>./copypage.pl <var>file</var>.wml</kbd> 之後，便可以對這個文件中的原始內容進行翻譯了。
+文件中的注釋用於標示一些不需要被翻譯的條目，請保留它們。
+不要作任何有關格式方面的多餘改動，如果真有需要的話，改動或許應該在原始文件中完成。</p>
 
 <h3>頁面的編譯和發佈</h3>
 
-<p>自從我們使用 <a href="content_negotiation">內容協商</a> 以來，HTML 文件的命
-名規則就不是 <tt><var>file</var>.html</tt> 而是
-<tt><var>file</var>.<var>&lt;lang&gt;</var>.html</tt>，這裡
-<var>&lt;lang&gt;</var> 指的是由兩個字符代表的語種，遵循 <a
-href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639</a> (例
+<p>自從我們使用 <a href="content_negotiation">內容協商</a> 以來，HTML 文件的命名規則就不是
+<tt><var>file</var>.html</tt> 而是 <tt><var>file</var>.<var>&lt;lang&gt;</var>.html</tt>，這裡
+<var>&lt;lang&gt;</var> 指的是由兩個字符代表的語種，遵循
+<a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639</a> (例
 如 <tt>zh</tt> 代表中文)。</p>
 
 <p>您通過執行 <kbd>make <var>file</var>.<var>&lt;lang&gt;</var>.html</kbd>
-可以從 WML 編譯得到 HTML。成功的話，使用 <kbd>weblint
+可以從 WML 編譯得到 HTML。成功的話，請使用 <kbd>weblint
 <var>file</var>.<var>&lt;lang&gt;</var>.html</kbd> 檢查語法是否完全正確。</p>
 
-<p>網頁將會從 www-master 服務器上的 CVS 中重新編譯得到，大多數零散的錯誤在這個
-過程中都將被屏蔽。但是，如果您提交了一個有問題的文件到您翻譯工作的頂級目錄中
-(例如頂級目錄中的 index.wml 文件)，那麼不僅編譯過程將被中斷，還將連累整個網站
+<p>注意：網頁將會定期於 www-master 服務器根據 git 內的原代碼重新編譯。
+大多數零散的錯誤在這個過程中都將被忽略。
+但是，如果您提交了一個有問題的文件到您翻譯工作的頂級目錄中
+（例如頂級目錄中的 index.wml 文件），那麼不僅編譯過程將被中斷，還將連累整個網站
 的更新。請密切留意這些文件。</p>
 
-<p>一旦一個頁面準備好，您就可以將它提交到 CVS。如果您自己有這個權限的話，運行
-<kbd>cvs commit</kbd>。否則，請把這個頁面發送給
-<a href="translation_coordinators">有權限寫入軟件倉庫的人</a>。</p>
+<p>一旦一個頁面準備好，您就可以將它提交到 Git。
+如果您自己有權限的話，請提交至 <a href="https://salsa.debian.org/webmaster-team/webwml">webwml git 版本庫</a>。
+否則，請把這個頁面發送給 <a href="translation_coordinators">有權限寫入版本庫的人</a>。</p>
 
 <h2><a name="completenew">開創一個新的語種</a></h2>
 
 <p>如果您希望為 Debian 網頁開創一個新的語種，請發送電子郵件 (請用英語) 給我們 <a
 href="mailto:webmaster@debian.org">webmaster@debian.org</a>。
 
-<p>首先，確認您已經適宜的簽出了我們的源碼樹，請參考 <a href="using_cvs">我們
-介紹 CVS 的頁面</a>。</p>
+<p>首先，確認您已經適宜的簽出了我們的源碼樹，請參考 <a href="using_git">我們
+介紹 Git 的頁面</a>。</p>
 
-<p>當您簽出了 webwml/ 和 webwml/english/ 目錄(至少)之後，一切都從為您的語種
-創建一個目錄開始，然後進入 english/ 或其他目錄。為新語種所創建的目錄的名稱，
-必須完全使用小寫英文(例如用 "chinese" 而不是 "中文")。</p>
+<p>當您簽出了原代碼之後，先在 english/ 目錄旁邊為您的語種建立一個目錄。
+該目錄名稱必須完全使用小寫英文(例如用 "chinese" 而不是 "中文")。</p>
 
-<p>從 english/ 目錄複製 <tt>Make.lang</tt> 和 <tt>.wmlrc</tt> 這兩個文件到
-新語種的目錄。這些文件對於從 WML 文件中編譯出您的翻譯工作發揮著重要作用。
-當您複製它們到新語種目錄之後，您只需要修改這些東西:</p>
+<p>從 english/ 目錄複製 <tt>Make.lang</tt> 和 <tt>.wmlrc</tt> 這兩個文件到新語種的目錄。
+這些文件對於從 WML 文件中編譯出您的翻譯工作發揮著重要作用。
+當您複製它們到新語種目錄之後，您只需要修改這些東西：</p>
 
 <ol>
   <li><tt>Make.lang</tt> 文件中的 LANGUAGE 變量必須作修改。
@@ -155,32 +159,29 @@ href="mailto:webmaster@debian.org">webmaster@debian.org</a>。
 <p>在 po/ 目錄中，運行 <kbd>make init-po</kbd> 產生初始的一系列 *.po 文件。</p>
 
 <p>現在您已經搭建好了框架，通過使用公用的 WML 模板您可以開始添加您的翻譯了。
-您最先翻譯的模板應該是那些在所有網頁中都出現的內容，比如頁頭關鍵字，導航條上的
-條目，還有頁腳。</p>
+您最先翻譯的模板應該是那些在所有網頁中都出現的內容，比如頁首關鍵字，導航條上的條目，還有頁腳。</p>
 
 # The page on <a href="using_wml">using WML</a> has more information on this.
 
-<p>開始在 <code>po/templates.<var>xy</var>.po</code> 文件 (這裡 <var>xy</var> 
-指的是由兩個字符代表的您的語種) 中進行翻譯吧。每一個 <code>msgid
-"<var>something</var>"</code> 都原配一個 <code>msgstr ""</code>，您應該在
+<p>開始在 <code>po/templates.<var>xy</var>.po</code> 文件 (這裡 <var>xy</var>
+指代表的您的語種的兩個字符) 中進行翻譯吧。
+每一個 <code>msgid "<var>something</var>"</code> 都對應一個 <code>msgstr ""</code>，您應該在
 <code>msgstr</code> 後面的雙引號內填入翻譯條目。</p>
 
 <p>您不必翻譯所有 .po 文件中的每個條目，除了那些你當前翻譯的頁面確實需要的。
-判斷一個條目是否需要被翻譯，請留意 .po 文件中在每個 <code>msgid</code> 條目
-上方的注釋。如果該注釋中提及了 <tt>english/template/debian</tt> 文件，那麼您多半
-需要翻譯它。否則，您可以延緩翻譯直到您實際翻譯的頁面需要該條目為止。</p>
+判斷一個條目是否需要被翻譯，請留意 .po 文件中在每個 <code>msgid</code> 條目上方的注釋。
+如果該注釋中提及了 <tt>english/template/debian</tt> 文件，那麼您多半需要翻譯它。
+否則，您可以延緩翻譯直到您實際翻譯的頁面需要該條目為止。</p>
 
 <p>這些在 po/ 目錄底下的檔案的用意是讓翻譯人員方便工作，讓他們幾乎不需要自己編輯 <tt>english/template/debian</tt> 目錄底下的東西。
 如果你發現任何模板目錄內的錯誤，請確定該問題的修正是一般化的 (您也可以請別人幫你作這件事)，而不是把真正的翻譯提交到模板中，這會通常帶來更嚴重的問題。</p>
 
-<p>如果您不能確定您的某些操作是否合適，在簽入代碼之前請先在 debian-www 郵件列表上
-進行詢問。</p>
+<p>如果您不能確定您的某些操作是否合適，在簽入代碼之前請先在 debian-www 郵件列表上進行詢問。</p>
 
-<p>備註: 如果您發現您需要作任何其它改動，請發送電子郵件至 debian-www 說明您要
-改動的內容以及原因，這個問題便會得到解決。
+<p>備註: 如果您發現您需要作任何其它改動，請發送電子郵件至 debian-www 說明您要改動的內容以及原因，這個問題便會得到解決。
 
-<p>當模板框架完成之後，您就可以開始前端頁面和其它 *.wml 文件的翻譯工作了。那些
-應當被優先翻譯的文件列表，請看 <a href="translation_hints">指點頁面</a>。*.wml
+<p>當模板框架完成之後，您就可以開始前端頁面和其它 *.wml 文件的翻譯工作了。
+那些應當被優先翻譯的文件列表，請看 <a href="translation_hints">指點頁面</a>。*.wml
 頁面的翻譯事項就像 <a href="#singlepages">本頁面開頭</a> 描述過的那樣。
 
 <h3>重建過期的翻譯</h3>
@@ -188,32 +189,38 @@ href="mailto:webmaster@debian.org">webmaster@debian.org</a>。
 <p>如前面<a href="uptodate">保持翻譯的時效性</a>所說，過期的翻譯可能在很長一段時間
 沒有更新之後，自動被系統回收。</p>
 
-<p>如果您使用 <tt>copypage.pl</tt> 腳本來開始某個曾經被移除過的頁面，它會提示您
-使用舊有的資料來開始。您可以檢查為何該頁會被移除，如透過對此檔案下 <tt>cvs log</tt>
-命令或是使用網頁介面，曾被刪除的檔案存放在 "Attic" 子目錄下。
-</p>
+<p>如果您發現有些檔案已被移除，而且您想要簽出檔案來編輯，您可以使用 git 標準命令來在版本歷史中搜尋。</p>
 
-<p>為了取回這個過期的翻譯，先使用 <tt>cvs status</tt>
-(或是 <tt>cvs log</tt>) 來取得被刪除檔案的修訂號碼，然後進行<q>反方向的合併</q>。</p>
-
-<p>例如，如果被刪除的檔案名為 "deleted.wml"，而被刪除時的修訂號碼是 1.7，則被刪除前的
-修訂號碼則是 1.6 (減一)。您可以用以下命令來取回：
+<p>例如，如果被刪除的檔案是 "deleted.wml"，您可以執行以下命令來搜尋歷史紀錄：</p>
 
 <verbatim>
-   cvs update -j 1.7 -j 1.6 deleted.wml
+   git log --all --full-history -- <path/to/file/deleted.wml>
 </verbatim>
 
-<p>在這之後，您就必須先更新這個頁面才能提交了。否則它還是會被系統移除的。</p>
+<p>您可以找到移除該檔案的正確版本，與該版本的雜湊字串。
+要顯示該版本的詳細修改內容，您可以執行 <code>git show</code> 子命令：</p>
+
+<verbatim>
+  git show <COMMIT_HASH_STRING> -- <path/to/file/deleted.wml>
+</verbatim>
+
+<p>如果該版本只刪除了該檔案，您可以使用 <code>git checkout</code> 來復原該檔案：</p>
+
+<verbatim>
+  git checkout <COMMIT_HASH_STRING>^ -- <path/to/file/deleted.wml>
+</verbatim>
+
+<p>當您完成了這些步驟，您當然必須在提交之前更新該文件。否則該文件還是會再度被移除。</p>
 
 
 <h3>剩下來的故事</h3>
 
-<p>上述內容或許已經足夠讓您躍躍欲試了。
-之後，您可能想參考下列這些提供了更多詳盡說明和附加信息的文檔。</p>
+<p>上述內容或許已經足夠讓您開始嘗試了。
+之後，您可能想參考下列這些提供了更多詳盡說明和附加資訊的文件。</p>
 
 <ul>
-<li>若干 <a href="examples">示例</a> 向您清楚的展示怎樣開始。
-<li>若干常見問答和指點迷津可以在 <a href="translation_hints">指點頁面</a> 中找到。
+<li>一些 <a href="examples">範例</a> 向您清楚的展示如何開始。
+<li>一些常見問答和指點迷津可以在 <a href="translation_hints">指點頁面</a> 中找到。
 <li>我們有一套機制幫助 <a href="uptodate">保持翻譯的時效性</a>。
 <li>您與其它語種在已翻譯文件總數方面的對比，請看 <a href="stats/">統計報表</a>。
 </ul>
