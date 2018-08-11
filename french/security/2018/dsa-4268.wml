@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="a558fec395a958036c3b56cc58d68409e3ef2e17" maintainer="Jean-Pierre Giraud"
+<define-tag description>Mise à jour de sécurité</define-tag>
+<define-tag moreinfo>
+<p>La classe PatternSyntaxException dans le composant Concurrency
+d'OpenJDK, une implémentation de la plateforme Java d'Oracle, pourrait
+avoir pour conséquence un déni de service par consommation excessive de
+mémoire.</p>
+
+<p>Pour la distribution stable (Stretch), ce problème a été corrigé dans la
+version 8u181-b13-1~deb9u1.</p>
+
+<p>Nous vous recommandons de mettre à jour vos paquets openjdk-8.</p>
+
+<p>Pour disposer d'un état détaillé sur la sécurité de openjdk-8, veuillez
+consulter sa page de suivi de sécurité à l'adresse :
+<a href="https://security-tracker.debian.org/tracker/openjdk-8">\
+https://security-tracker.debian.org/tracker/openjdk-8</a>.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4268.data"
+# $Id: $
