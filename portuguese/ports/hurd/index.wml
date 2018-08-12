@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian GNU/Hurd" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/hurd/menu.inc"
-#use wml::debian::translation-check translation="55d53777c5a70ec40ff879adb0d31f5bd4341da7" translator="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="4abe289b056cdad46d8b22fd698d8652bc84b758" translator="Felipe Augusto van de Wiel (faw)"
 
 <h1>
 Debian GNU/Hurd</h1>
@@ -11,33 +11,40 @@ O <a href="http://www.gnu.org/software/hurd/">Hurd</a> é um conjunto de
 servidores que funcionam sobre o microkernel GNU Mach. Juntos eles formam
 a base para o sistema operacional <a href="http://www.gnu.org/">GNU</a>.</p>
 <p>
-Atualmente, o Debian só está disponível para Linux, mas com Debian GNU/Hurd
-nós começamos a oferecer o GNU/Hurd como um plataforma de desenvolvimento,
-servidor e área de trabalho. Entretanto, o Debian GNU/Hurd ainda não foi
-oficialmente lançado, e não será por algum tempo.</p>
+Atualmente, o Debian só está disponível para Linux e kFreeBSD, mas com Debian
+GNU/Hurd nós começamos a oferecer o GNU/Hurd como um plataforma de
+desenvolvimento, servidor e também área de trabalho.</p>
 <h2>
 Desenvolvimento</h2>
 <p>
-O Hurd está sob <a href="hurd-devel">desenvolvido ativo</a>, mas não
+O Hurd está sob <a href="hurd-devel">desenvolvimento ativo</a>, mas não
 fornece o desempenho e a estabilidade que você esperaria de um sistema
-em produção. Além disso, somente cerca um de cada dois pacotes Debian
-foram portados para o GNU/Hurd. Há muito trabalho a ser feito antes de 
-fazer um lançamento.</p>
+em produção. Além disso, apenas três quartos dos pacotes Debian foram
+portados para o GNU/Hurd. Algumas poucas coisas ainda precisam ser feitas antes
+que possamos fazer o lançamento, veja <a href=https://wiki.debian.org/Debian_GNU/Hurd>a lista de afazeres</a>.</p>
 <p>
 Até lá, você pode participar no desenvolvimento se quiser. Dependendo
 da sua experiência e disponibilidade de tempo, você pode nos ajudar
-de muitas maneiras diferentes. Por exemplo, nós necessitamos de hackers C
-experientes para desenvolver e implementar novos recursos e para corrigir
-bugs e depurar o sistema. Se você não é muito experiente em programação C,
-você ainda pode ajudar: seja testando os sistemas existentes e relatando
-bugs, ou tentando compilar algum software que você conheça e que ainda não
-esteja portado. Escrever documentações é importante, assim como manter as
-páginas web.</p>
+de muitas maneiras diferentes. Por exemplo, nós necessitamos de hackers
+experientes em C para desenvolver e implementar novas funcionalidades e para
+corrigir problemas e depurar o sistema. A
+<a href=https://people.debian.org/~sthibault/failed_packages.txt>Página de
+Falhas</a> mostra uma lista de pacotes com falhas e um sumário do porquê. Se
+você não é muito experiente em programação C, você ainda pode ajudar: seja
+testando os sistemas existentes e relatando problemas, ou tentando compilar
+algum software que você conheça e que ainda não esteja portado. Escrever
+documentação também é importante, assim como manter as páginas web.</p>
+<h2>
+Portar</h2>
+<p>
+Portar pacotes é trivial na maioria das vezes, há apenas algumas armadilhas que
+pode-se cair, uma <a href="hurd-devel-debian#porting_issues">lista de problemas
+comuns</a> está disponível.</p>
 <h2>
 Como posso participar?</h2>
 <p>
-Para começar no desenvolvimento do HURD, você deveria <a
-href="hurd-install">instalar o Debian GNU/Hurd</a> e se acostumar a ele.
+Para começar no desenvolvimento do HURD, você deve <a
+href="hurd-install">instalar o Debian GNU/Hurd</a> e se acostumar com o sistema.
 Além disso, inscreva-se nas <a href="hurd-contact">listas de discussão</a>
-e tente reconhecer o estado atual de desenvolvimento. Ofereça sua ajuda, e
-nós te diremos o que precisa ser feito.
+e tente acompanhar o estado atual do desenvolvimento. Ofereça sua ajuda, e
+nós te diremos o que precisa ser feito.</p>
