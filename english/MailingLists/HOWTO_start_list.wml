@@ -77,17 +77,11 @@ pseudo-package.</p>
    <dt><strong>Category</strong></dt>
    <dd>
       	<P>This is needed to classify the list and to properly sort it on
-    	<a href="subscribe">the subscription page</a> and elsewhere.
-	The available categories are:
-
-		<UL>
-			<LI>Users
-			<LI>Developers
-			<LI>Internationalization and Translations
-			<LI>Ports
-			<LI>Miscellaneous Debian
-			<LI>Other
-		</UL>
+    	<a href="subscribe">the subscription page</a> and elsewhere.</p>
+    <p>
+	The available categories can be found on <a
+    href="https://lists.debian.org">the homepage of lists.debian.org</a>.
+    </p>
    </dd>
 
    <dt><strong>Subscription Policy</strong></dt>
