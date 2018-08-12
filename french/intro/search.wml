@@ -23,27 +23,27 @@ vous avez tapés.
 
 <P>Si une recherche simple n'est pas suffisante, alors l'utilisation d'un
 <a href="http://foldoc.org/boolean">booléen</a>
-peut vous satisfaire. Vous avez le choix entre <em>ET</em>, <em>OU</em>,
-<em>NON</em> et toute combinaison de ces trois opérateurs. Attention, ils
-doivent être complétement écrits en capitales pour être reconnus.
+peut vous satisfaire. Vous avez le choix entre <em>AND</em>, <em>OR</em>,
+<em>NO</em> et toute combinaison de ces trois opérateurs. Attention, ils
+doivent être complètement écrits en capitales pour être reconnus.
 
-<P><B>ET</B> donnera les résultats pour lesquels les deux mots sont dans
-la page. Par exemple, « gcc ET patch » trouvera toutes les pages qui
+<P><B>AND</B> donnera les résultats pour lesquels les deux mots sont dans
+la page. Par exemple, « gcc AND patch » trouvera toutes les pages qui
 contiennent à la fois « gcc » et « patch ». Cet exemple donne les mêmes
-résultats que « gcc patch », mais le ET explicite peut être utile en
+résultats que « gcc patch », mais le AND explicite peut être utile en
 combinaison avec d'autres opérateurs.
 
-<P><B>OU</B> donnera les résultats pour lesquels l'un des mots est dans
-la page. Par exemple « gcc OU patch » trouvera toutes les pages qui
+<P><B>OR</B> donnera les résultats pour lesquels l'un des mots est dans
+la page. Par exemple « gcc OR patch » trouvera toutes les pages qui
 contiennent « gcc » ou « patch ».
 
-<P><B>NON</B> exclut un mot des résultats.
-Par exemple « gcc NON patch » trouvera toutes les pages qui contiennent
+<P><B>NO</B> exclut un mot des résultats.
+Par exemple « gcc NO patch » trouvera toutes les pages qui contiennent
 « gcc » mais qui ne contiennent pas aussi « patch ». Vous pouvez aussi
-écrire « gcc ET NON patch » pour le même résultat, mais une recherche
-avec uniquement « NON patch » n'est pas admise.
+écrire « gcc AND NO patch » pour le même résultat, mais une recherche
+avec uniquement « NO patch » n'est pas admise.
 
 <P><B>(</B>...<B>)</B> peut être utiliser pour regrouper des
-sous-expressions. Par exemple « (gcc OU make) NON patch » trouvera toutes
+sous-expressions. Par exemple « (gcc OR make) NO patch » trouvera toutes
 les pages qui contiennent « gcc » ou « make » mais qui ne contiennent pas
 « patch ».
