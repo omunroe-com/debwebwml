@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="d9cc9d183be355509538ed8970f3aa32a72aab52" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Enrico Zini opdagede en sårbarhed i Syntastic, en tilføjelsesmodul til 
+editoren Vim, som kører en fil gennem eksterne checkere og viser eventuelle 
+fejlbeskeder.  Opsætningsfiler blev eftersøgt i den aktuelle arbejdsmappe, 
+hvilket kunne medføre udførelse af vilkårlige shell-kommandoer, hvis en 
+misdannet kildekodefil blev åbnet.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 3.7.0-1+deb9u2.</p>
+
+<p>Vi anbefaler at du opgraderer dine vim-syntastic-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende vim-syntastic, 
+se dens sikkerhedssporingsside på: 
+<a href="https://security-tracker.debian.org/tracker/vim-syntastic">\
+https://security-tracker.debian.org/tracker/vim-syntastic</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4261.data"

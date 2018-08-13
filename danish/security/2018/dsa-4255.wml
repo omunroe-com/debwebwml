@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="4d0db63a06dc64eeed382ca15efaf593ffa07d08" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Danny Grander rapporterede at taskene unzip og untar i ant, et Java-baseret 
+opbygningsværktør svarende til make, tillod udpakning af filer udenfor en 
+målmappe.  En angriber kunne drage nytte af fejlen ved at levere særligt 
+fabrikerede Zip- eller Tar-arkiver til en ant-opbygning, til at overskrive 
+enhver fil, der er skrivbar for brugeren, der kører ant.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 1.9.9-1+deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine ant-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende ant, 
+se dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/ant">\
+https://security-tracker.debian.org/tracker/ant</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4255.data"
