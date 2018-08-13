@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="fc1667800a12b2282f2d43da67b4d9158f8ee83e" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Jann Horn upptäckte att FUSE, ett filsystem i användarrymden
+(FileSystem in USErspace), tillåter förbigång av restriktionen
+<q>user_allow_other</q> när SELinux är aktivt (inklusive i tillåtande
+läge). En lokal användare kan dra fördel av denna brist i verktyget
+fusermount för att förbigå systemkonfigurationen och montera
+FUSE-filsystemet med monteringsalternativet <q>allow_other</q>.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 2.9.7-1+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era fuse-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om fuse vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/fuse">https://security-tracker.debian.org/tracker/fuse</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4257.data"
