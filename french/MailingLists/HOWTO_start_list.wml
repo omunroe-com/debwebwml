@@ -1,5 +1,5 @@
 #use wml::debian::template title="Comment demander une liste de diffusion"
-#use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="881ca15fb120b2f30d9ab1613754ba77b339037e" maintainer="Jean-Paul Guillonneau"
 
 #traduction initiale : Pierre Machard
 #traducteurs : voir journal
@@ -96,18 +96,12 @@ de bogue&nbsp;:</p>
 
    <dt><strong>La catégorie</strong></dt>
    <dd>
-   	<p>Cet élément est utilisé pour classer la liste et la trier selon le
-        bon ordre sur <A HREF="subscribe">la page d'abonnement</A>.
-        Les catégories existantes sont&nbsp;:
+      <p>Cet élément est utilisé pour classer la liste et la trier selon le bon
+      ordre sur <a href="subscribe">la page d'abonnement</a> et ailleurs.</p>
 
-                <UL>
-                        <LI>Utilisateurs (<i>Users</i>)&nbsp;;
-                        <LI>Développeurs (<i>Developers</i>)&nbsp;;
-                        <LI>Internationalisation et traductions (<i>Internationalization and Translations</i>)&nbsp;;
-                        <LI>Portage (<i>Ports</i>)&nbsp;;
-                        <LI>Divers thèmes spécifiques à Debian (<i>Miscellaneous Debian</i>)&nbsp;;
-                        <LI>Autre (<i>Other</i>).
-                </UL>
+      <p>Les catégories disponibles sont consultables sur la <a
+      href="https://lists.debian.org">page d’accueil de lists.debian.org</a>.
+      </p>
    </dd>
 
    <dt><strong>Les conditions d'abonnement</strong></dt>

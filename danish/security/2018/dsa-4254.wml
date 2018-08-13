@@ -1,0 +1,35 @@
+#use wml::debian::translation-check translation="d35310fd10413405f3f75514ca57e7d4cc6b8085" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder blev opdaget i Simple Linux Utility for Resource Management 
+(SLURM), et system til håndtering af klyngeressourcer og jobplanlægning.  
+Projektet Common Vulnerabilities and Exposures har registreret følgende 
+problemer:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7033">CVE-2018-7033</a>
+
+    <p>Ufuldstændig fornuftighedskontrol af brugerleverede tekststrenge, kunne 
+    føre til SQL-indsprøjtningsangreb mod slurmdbd.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10995">CVE-2018-10995</a>
+
+    <p>Usikker håndtering af user_name- og gid-felter førende til ukorrekt 
+    autentifikationshåndtering.</p></li>
+
+</ul>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 16.05.9-1+deb9u2.</p>
+
+<p>Vi anbefaler at du opgraderer dine slurm-llnl-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende slurm-llnl, 
+se dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/slurm-llnl">\
+https://security-tracker.debian.org/tracker/slurm-llnl</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4254.data"

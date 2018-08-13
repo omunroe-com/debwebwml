@@ -1,5 +1,5 @@
 #use wml::debian::template title="HOWTO: efterfråga en ny sändlista"
-#use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda"
+#use wml::debian::translation-check translation="881ca15fb120b2f30d9ab1613754ba77b339037e"
 
 <P>Det här dokumentet är avsett att hjälpa till vid skapandet av
 sändlistor på <a href="https://lists.debian.org/">lists.debian.org</a>.
@@ -97,18 +97,12 @@ Följande information krävs i felrapporten:
  <dd>
   <p>
    Listan måste kategoriseras för att kunna sorteras in på rätt ställe på
-   <a href="subscribe">prenumerationssidan</a> med mera.
-   Tillgängliga kategorier är:
-   <ul>
-    <li>Användarlistor (<span lang="en">Users</span>)
-    <li>Utvecklarlistor (<span lang="en">Developers</span>)
-    <li>Landsanpassning och översättning
-        (<span lang="en">Internationalization and Translations</span>)
-    <li>Anpassningar (<span lang="en">Ports</span>)
-    <li>Blandade Debian (<span lang="en">Miscellaneous Debian</span>)
-    <li>Övriga (<span lang="en">Other</span>)
-   </ul>
-
+   <a href="subscribe">prenumerationssidan</a> med mera.</p>
+   <p>
+    De tillgängliga kategorierna kan hittas på <a
+    href="https://lists.debian.org">hemsidan för lists.debian.org</a>.
+   </p>
+ </dd>
  <dt><strong>Policy för prenumeration</strong></dt>
  <dd>
   <p>Öppen eller stängd
