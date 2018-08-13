@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="ab09df8b90b45bcc1a2c4e1e9c3c374b37c7dcd9" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Man opdagede at biblioteket Apache XML Security for C++ udførte 
+utilstrækkelig validering af KeyInfo-hints, hvilket kunne medføre 
+lammelsesangreb gennem en NULL-pointerdereferences, når misdannede XML-data blev 
+behandlet.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 1.7.3-4+deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine xml-security-c-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende xml-security-c, 
+se dens sikkerhedssporingsside på: 
+<a href="https://security-tracker.debian.org/tracker/xml-security-c">\
+https://security-tracker.debian.org/tracker/xml-security-c</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4265.data"
