@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="228062a1d25326e13441342a92ea0ff1deecd777"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Chris Coulson descubrió un defecto de «uso tras liberar» en el GNOME Display
+Manager que puede ser desencadenado por un usuario sin privilegios mediante una secuencia, preparada de una manera
+determinada, de llamadas a métodos de D-Bus. Esto da lugar a denegación de servicio o,
+potencialmente, a ejecución de código arbitrario.</p>
+
+<p>Para la distribución «estable» (stretch), este problema se ha corregido en
+la versión 3.22.3-3+deb9u2.</p>
+
+<p>Le recomendamos que actualice los paquetes de gdm3.</p>
+
+<p>Para información detallada sobre el estado de seguridad de gdm3 consulte su página
+en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/gdm3">https://security-tracker.debian.org/tracker/gdm3</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4270.data"
