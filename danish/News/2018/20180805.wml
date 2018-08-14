@@ -1,0 +1,98 @@
+#use wml::debian::translation-check translation="dded51c1e8b9c3bb765ff6b90a7689d19fa1942b"
+<define-tag pagetitle>DebConf18 afsluttet i Hsinchu, og datoer for DebConf19 offentliggjort</define-tag>
+<define-tag release_date>2018-08-05</define-tag>
+#use wml::debian::news
+
+<p>I dag, søndag den 5. august 2018, sluttede den årlige Debian Developers and 
+Contributors Conference.  Med over 306 deltagere fra hele verden, og 137 
+begivenheder, herunder 100 foredrag, 25 diskussionsseancer og BoF'er, 5 
+workshops og 7 andre aktiviteter, blev <a href="https://debconf18.debconf.org">\
+DebConf18</a> en succes.</p>
+
+<p>Blandt højdepunkterne er DebCamp, med flere end 90 deltagere, 
+<a href="https://debconf18.debconf.org/schedule/?day=2018-07-28">Open Day</a>, 
+hvor begivenheder af interesse for et bredere publikum blev tilbudt, plenarmøder 
+så som den traditionelle Bits fra DPL'en, en spørgsmål og svar-seance med 
+minister Audrey Tang, en paneldiskussion om at ignorere negativtet med Bdale 
+Garbee, Chris Lamb, Enrico Zini og Steve McIntyre, foredraget <q>Det er et 
+fri software-problem!!</q> ved Molly de Blanc og Karen Sandler, lynhurtige 
+foredrag og livedemonstrationer, samt annonceringen af næste års DebConf 
+(<a href="https://wiki.debian.org/DebConf/19">DebConf19</a> i Curitiba, 
+Brasilien).</p>
+
+<p><a href="https://debconf18.debconf.org/schedule/">Programmet</a> blev 
+opdateret dagligt, med 27 nye ad-hoc-aktiviter, planlagt af deltagere under hele 
+konferencen.</p>
+
+<p>For dem, der ikke var i stand til at deltage, blev de fleste foredrag optaget 
+og livestreamet, og videoer gøres tilgængelige på 
+<a href="https://meetings-archive.debian.net/pub/debian-meetings/2018/DebConf18/">\
+Debians arkivwebsted for møder</a>.  I mange seancer var der også 
+fjerndeltagelse over IRC eller et samarbejstekstdokument.</p>
+
+<p>Webstedet <a href="https://debconf18.debconf.org/">DebConf18</a> vil af 
+arkiveringshensyn for blive aktivt, og vil fortsat indeholde links til 
+præsentationer og videooptagelser af foredrag og begivenheder.</p>
+
+<p>Næste år finder <a href="https://wiki.debian.org/DebConf/19">DebConf19</a> 
+sted i Curitiba, Brasilien, fra 21. til 28. juli 2019.  Det bliver den anden 
+DebConf, som afholdes i Brasilien (den første var DebConf4 i Porto Alegre). 
+I dagene før DebConf, holder de lokale organisatorer igen DebCamp (13.-19. 
+juli), en seance beregnet til intenst arbejde på forbedring af distributionne, 
+samt organisering af Open Day den 20. juli 2019, åben for offentligheden.</p>
+
+<p>DebConf har forpligtet sig til at være et sikkert og imødekommende miljø for 
+alle deltagere.  Se <a href="https://debconf.org/codeofconduct.shtml">DebConfs 
+etiske regler</a> og <a href="https://www.debian.org/code_of_conduct">Debians 
+etiske regler</a>, for flere oplysninger herom.</p>
+
+<p>Debian takker de talrige 
+<a href="https://debconf18.debconf.org/sponsors/">sponsorer</a> for støtten 
+til DebConf18, i særdeleshed vores platinsponsor 
+<a href="http://www.hpe.com/engage/opensource">Hewlett Packard 
+Enterprise</a>.</p>
+
+
+<h2>Om Debian</h2>
+
+<p>Debian-projektet blev grundlagt i 1993 af Ian Murdock, som et helt frit 
+fællesskabsprojekt.  Siden den gang, er projektet vokset til at være et af de 
+største og mest indflydelsesrige open source-projekter.  Tusindvis af
+frivillige fra hele verden samarbejder om at fremstille og vedligeholde 
+Debian-software.  Med oversættelser til 70 sprog, og med understøttelse af et 
+enormt antal computertyper, kalder Debian sig det <q>universelle 
+styresystem</q>.</p>
+
+
+<h2>Om DebConf</h2>
+
+<p>DebConf er Debian-projektets udviklerkonference.  Ud over et fuldt program 
+med tekniske, sociale og retningslinjeforedrag, gør DebConf det også muligt 
+at udviklere, bidragydere og andre interesserede kan mødes personligt og 
+arbejde tættere sammen.  Konferencen har fundet sted siden år 2000 i så 
+forskellige steder som Skotland, Argentina og Bosien-Hercegovina.  Flere 
+oplysninger er tilgængelige på <a href="http://debconf.org/">\
+DebConf-webstedet</a>.</p>
+
+
+<h2>Om Hewlett Packard Enterprise</h2>
+
+<p><a href="http://www.hpe.com/engage/opensource">Hewlett Packard 
+Enterprise (HPE)</a> er en industriledende teknologivirksomhed, som leverer 
+et bredt udvalg af produkter så som integrerede systemer, servere, storage, 
+netværk og software.  Virksomheden tilbyder konsultydelser, driftssupport, 
+finansielle tjenester og komplette løsninger til mange forskellige industrier: 
+mobil og IoT, data &amp; analytik, samt blandt andre produktionsektoren og den 
+offentlige sektor.</p>
+
+<p>HPE er også en Debians udviklingspartnere, og stiller hardware til rådighed 
+for tilpasningsudvikling, Debian-filspejle, samt andre Debian-tjenster 
+(hardwaredonationer kan man se på siden med 
+<a href="https://db.debian.org/machines.cgi">Debian-maskiner</a>).</p>
+
+
+<h2>Kontaktoplysninger</h2>
+
+<p>For flere oplysninger, besøg DebConf18's websider på
+<a href="https://debconf18.debconf.org/">https://debconf18.debconf.org/</a>
+eller send en engelsksproget mail til &lt;press@debian.org&gt;.</p>

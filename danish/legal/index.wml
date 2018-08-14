@@ -1,23 +1,24 @@
 #use wml::debian::template title="Retslige problemstillinger"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="3982afa259f29366b3b5b16b6bb0fcddbff7260e"
 
 <p>Denne del af Debians websted vedrører retslige problemstillinger.</p>
 
-<h2>Aktuelle emner</h2>
+<h2>Juridiske oplysninger</h2>
 
 <ul>
     <li><a href="licenses/">Licensresuméer</a></li>
     <li><a href="$(HOME)/trademark">Varemærker</a></li>
+    <li><a href="privacy">Privacypolicy</a></li>
+    <li><a href="patent">Patentpolicy</a></li>
     <li><a href="cryptoinmain">Kryptografi i 'main'</a>
 	<ul>
     	    <li><a href="notificationforarchive">Indledende bekendtgørelse 
     		til arkivet</a></li>
-    	    <li><a href="notificationfornewpackages">Bekendtgørelse vedr. nye 
-    		pakker</a></li>
+    	    <li><a href="notificationfornewpackages">Bekendtgørelse vedrørende 
+		nye pakker</a></li>
 	</ul>
     </li>
     <li><a href="anssi">Kryptografisk eksport-/import-attest</a></li>
-    <li><a href="patent">Patentpolicy</a></li>
 </ul>
 
 <h2>Postliste</h2>

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians udviklerhjørne" BARETITLE="true"
-#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a"
+#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991"
 
 <p>Oplysningerne på denne side er offentligt tilgængelige, men primært af 
 interesse for Debian-udviklere.</p>
@@ -167,7 +167,7 @@ interesse for Debian-udviklere.</p>
 	<br />Forslag til under-retningslinier som dækker alt vedr. Python-pakning.</li>
 #       <li><a href="https://pkg-mono.alioth.debian.org/cli-policy/">Debians CLI-regler</a>
 #	<br />Grundlæggende regler vedrørende pakning af Mono, andre CLR'er og 
-#	    CLI-baserede applikationer og bibliotekters</li>	
+#	    CLI-baserede applikationer og bibliotekters</li>
 	<li><a href="$(DOC)/packaging-manuals/debconf_specification.html">Debconf-specifikation</a>
 	<br />Specifikation af delsystemet til konfigurationshåndtering,
 	    "debconf".</li>
@@ -257,11 +257,11 @@ interesse for Debian-udviklere.</p>
 	<a href="https://tracker.debian.org/">pakkesporing</a> stiller 
 	samlinger af værdifulde oplysninger til rådighed for vedligeholderne.
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">\
-        Pakkesporingssystemet</a></dt>
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">\
+        Debian Package Tracker</a></dt>
         <dd>
-        Pakkesporingssystemet giver udviklere, som ønsker at være ajour med 
-	andre pakker, mulighed for at tegne abonnement (via e-mail) til en
+        Pakkesporingen giver udviklere, som ønsker at være ajour med 
+	andre pakker, mulighed for at tegne abonnement (via e-mail) på en
 	service, der sender dem kopier af fejlrapporter og beskeder om uploads
 	og installationer vedrørende de pakker, som der er tegnet abonnement på.
         </dd>
@@ -302,7 +302,7 @@ interesse for Debian-udviklere.</p>
 	På Debians wiki opsamles råd til udviklere og andre bidragydere.
 	</dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#s4.6.4">\
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">\
         Distributionen experimental</a></dt>
 	<dd>Den <em>eksperimentelle</em> (experimental) distribution anvendes 
 	som et midlertidigt opbevaringsområde til meget eksperimentelle 
@@ -337,7 +337,7 @@ interesse for Debian-udviklere.</p>
 	<li><a href="https://buildd.debian.org/">Logfiler fra 
 	    autobuilder-netværkets opbygning af officielt understøttede 
 	    arkitekturer</a></li>
-        <li><a href="tech-ctte">Teknisk komité</a></li>	  
+        <li><a href="tech-ctte">Teknisk komité</a></li>
 	<li><a href="$(HOME)/international/l10n/ddtp">Debians projekt til oversættelse 
 	    af beskrivelser (DDTP)</a></li>
 #	<li><a href="https://alioth.debian.org/">Alioth: Debian GForge</a></li>
@@ -346,7 +346,7 @@ interesse for Debian-udviklere.</p>
 	<li><a href="debian-installer/">Debian Installer</a></li>
 	<li><a href="debian-live/">Debian Live</a></li>
         <li><a href="http://www.emdebian.org/">emdebian - Embedded Debian</a></li>
-	<li><a href="https://wiki.debian.org/Utnubu">Utnubu</a></li>	
+	<li><a href="https://wiki.debian.org/Utnubu">Utnubu</a></li>
 	<li><a href="$(HOME)/security/audit/">Debians sikkerhedsaudit</a></li>
 	<li><a href="$(HOME)/women/">Debian Women</a> (Debian-kvinder)</li>
 
@@ -377,9 +377,9 @@ interesse for Debian-udviklere.</p>
         <dt>Konverting af PGP-nøgler til GPG:</dt>
         <dd>
 	Oplysninger om dette findes i 
-        <a href="$(DOC)/manuals/developers-reference/developer-duties#key-maint">\
+        <a href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">\
         udviklernes opslagsbog</a>. Der er flere nyttige oplysninger vedrørende 
-	signering af en GPG-nøgle med en PGP-nøgle i filen  
+	signering af en GPG-nøgle med en PGP-nøgle i filen 
         <em>/usr/share/doc/debian-keyring/README.gz</em>, i pakken
         <code>debian-keyring</code>.
         </dd>
@@ -387,7 +387,7 @@ interesse for Debian-udviklere.</p>
 
       <p>Blandede links:</p>
       <ul>
-        <li><a href="passwordlessssh">Opsættelse af ssh så programmet  
+        <li><a href="passwordlessssh">Opsættelse af ssh så programmet 
 	    ikke beder om en adgangskode</a>.</li>
         <li>Hvordan man <a href="$(HOME)/MailingLists/HOWTO_start_list">\
 	    ansøger om en ny postliste</a>.</li>

@@ -1,0 +1,20 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Chris Coulson discovered a use-after-free flaw in the GNOME Display
+Manager, triggerable by an unprivileged user via a specially crafted
+sequence of D-Bus method calls, leading to denial of service or
+potentially the execution of arbitrary code.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 3.22.3-3+deb9u2.</p>
+
+<p>We recommend that you upgrade your gdm3 packages.</p>
+
+<p>For the detailed security status of gdm3 please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/gdm3">https://security-tracker.debian.org/tracker/gdm3</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4270.data"
+# $Id: $
