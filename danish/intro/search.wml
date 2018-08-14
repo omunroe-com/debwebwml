@@ -1,46 +1,44 @@
 #use wml::debian::template title="Oplysninger om hvordan man anvender Debians søgemaskine"
-#use wml::debian::translation-check translation="faac753e853745f84b366bfd32a4cd60e721616f"
+#use wml::debian::translation-check translation="c3b565ac6b9deb00572865c557a9c7094047163a"
 
-<p>Debians søgemaskine på adressen <a href="https://search.debian.org/">https://search.debian.org/</a> 
-giver mulighed for flere forskellige søgemetoder, afhængigt af hvad du ønsker at gøre.</p>
+<p>Debians søgemaskine på adressen <a href="https://search.debian.org/">\
+https://search.debian.org/</a> giver mulighed for flere forskellige søgemetoder, 
+afhængigt af hvad du ønsker at gøre.</p>
+
 
 <h3>Simpel søgning</h3>
-<p>Den simpleste måde af alle er at indtaste ét enkelt ord og trykke på return 
-(eller vælge knappen <em>Søg</em>). Søgemaskinen vil da returnere alle sider på 
-webstedet som indeholder det pågældende ord. I de fleste tilfælde vil det 
-fungere fint.</p>
 
-<p>En lidt mere kompliceret søgning er efter mere end et ord. Du har disse 
-muligheder:
-<dl>
-<dt><em>søg efter alle ord</em>
- <dd>dette vil returnere sider der indeholder alle ordene du indtastede
-<dt><em>søg efter et af ordene</em>
- <dd>dette vil returnere sider der indeholder mindst et af ordene du indtastede
-</dl>
+<p>Den simpleste måde af dem alle, er at skrive et enkelt ord i søgeboksen, og 
+trykke på entertasten (eller klikke på knappen <em>Søg</em>).  Søgemaskinen 
+leveer dernæst alle sider på webstedet, som indeholde dette ord.  Det vil ofte 
+give gode resultater.</p>
+
+<p>Næste niveau er at søge efter mere end et ord, hvilket giver en liste over 
+sider, som indeholder alle ordene, du skrev.</p>
+
 
 <h3>Boolsk søgning</h3>
-<p>Hvis en simpel søgning ikke er præcis nok, så vil den 
-<a href="http://foldoc.org/boolean">booleske</a>
-søgning måske være løsningen. Du kan vælge mellem <em>og</em>, <em>eller</em>, 
-<em>ikke</em>, eller en kombination af disse.</p>
 
-<p><b>&amp; - logisk OG</b> (and) returnerer resultater hvor begge ord findes 
-på siden.  For eksempel vil "gcc &amp; patch" finde alle sider der indeholder 
-både "gcc" and "patch".</p>
+<p>Hvis en simpel søgning ikke er tilstrækkelig, kan en 
+<a href="http://foldoc.org/boolean">boolsk</a> søgning måske klare det for dig. 
+Du har valget mellem <em>AND</em> (og), <em>OR</em> (eller), <em>NOT</em> (ikke)
+og en kombination af disse tre.  Bemærk at disse operatorer alle skal skrives 
+med store bogstaver, for at blive genkendt.</p>
 
-<p><b>| - logisk ELLER</b> (or) returnerer resultater hvor et af ordene findes 
-på siden. For eksempel vil "gcc | patch" finde alle sider der indeholder enten 
-"gcc" eller "patch".</p>
+<p><b>AND</b> giver resultater hvor begge ord er på siden.  For eksempel finder 
+<q>gcc AND patch</q> enhver side, der indeholder både <q>gcc</q> og 
+<q>patch</q>.  Eksemplet giver de samme resultater som <q>gcc patch</q>, men et 
+eksplicit AND kan være nyttigt i kombination med andre operatorer.</p>
 
-<p><b>~ - logisk IKKE</b> (not) fravælger et ord fra resultaterne. Du vil 
-normalt benytte dette med logisk OG ( &amp; ) da det fjerner resultater fra 
-listen. For eksempel vil "gcc &amp; ~patch" finde alle sider der indeholder "gcc" 
-og som ikke også indeholder "patch". En søgning efter "~patch" alene returnerer 
-ingenting, da du bad om ingenting, som returnerer ingenting, og dernæst 
-fravælger sider der indeholder ordet "patch" i den tomme liste, der 
-selvfølgelig stadig returnerer ingenting.</p>
+<p><b>OR</b> giver resultater hvor et af ordene er på siden.  For eksempel 
+finder <q>gcc OR patch</q> enhver side, der indeholder enten <q>gcc</q> eller
+<q>patch</q>.</p>
 
-<p><b>() - gruppering</b> giver yderligere kompleksitet da du kan gruppere
-logiske blokke.  For eksempel vil "(gcc | make) &amp; ~patch" finde alle sider
-som indeholder enten "gcc" eller "make", men ikke indeholder "patch".</p>
+<p><b>NOT</b> fravælger et ord fra resultaterne.  For eksempel finder <q>gcc NOT 
+patch</q> alle sider, der indeholder <q>gcc</q>, men som ikke også indeholder 
+<q>patch</q>.  Du kan også skrive <q>gcc AND NOT patch</q> for at få samme 
+resultat, mens søgning efter blot <q>NOT patch</q> ikke er understøttet.</p>
+
+<p><b>(</b>...<b>)</b> kan anvendes til at gruppere underudtryk.  For eksempel 
+finder <q>(gcc OR make) NOT patch</q> alle sider, der indeholder enten 
+<q>gcc</q> eller <q>make</q>, men som ikke indeholder <q>patch</q>.
