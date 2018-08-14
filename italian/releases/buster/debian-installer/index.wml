@@ -1,0 +1,208 @@
+#use wml::debian::template title="Installazione di Debian &ldquo;buster&rdquo;" NOHEADER="true"
+#include "$(ENGLISHDIR)/releases/info"
+#include "$(ENGLISHDIR)/releases/buster/release.data"
+#use wml::debian::translation-check translation="f36546f515e33fb0e590b3db17a516bf3d605f5f" maintainer="Luca Monducci"
+
+<h1>Installazione di Debian <current_release_buster></h1>
+
+<if-stable-release release="bullseye">
+<p><strong>Debian 10 è stata sostituita da
+<a href="../../bullseye/">Debian 11 (<q>bullseye</q>)</a>.
+Alcune delle immagini per l'installazione potrebbero non essere più
+disponibili o non più funzionanti; si raccomanda di installare
+bullseye.</strong></p>
+</if-stable-release>
+
+<if-stable-release release="stretch">
+<p>
+Per le immagini per l'installazione e la documentazione su come installare
+<q>buster</q> (l'attuale distribuzione Testing) consultare la
+<a href="$(HOME)/devel/debian-installer/">pagina Debian-Installer</a>.
+</p>
+</if-stable-release>
+
+<if-stable-release release="buster">
+<p>
+<strong>Per installare Debian</strong> <current_release_buster>
+(<em>buster</em>), scaricare una delle seguenti immagini (tutte le
+immagini dei CD/DVD per i386 e amd64 possono essere usate anche su
+chiavette USB):
+</p>
+
+<div class="line">
+<div class="item col50">
+	<p><strong>Immagine del CD <q>netinst</q> (circa 150-280&nbsp;MB)</strong></p>
+		<netinst-images />
+</div>
+
+
+</div>
+
+<div class="line">
+<div class="item col50">
+	<p><strong>Set completo di CD</strong></p>
+		<full-cd-images />
+</div>
+
+<div class="item col50 lastcol">
+	<p><strong>Set completo di DVD</strong></p>
+		<full-dvd-images />
+</div>
+
+</div>
+
+<div class="line">
+<div class="item col50">
+<p><strong>CD (via <a href="$(HOME)/CD/torrent-cd">BitTorrent</a>)</strong></p>
+<full-cd-torrent />
+</div>
+
+<div class="item col50 lastcol">
+<p><strong>DVD (via <a href="$(HOME)/CD/torrent-cd">BitTorrent</a>)</strong></p>
+<full-dvd-torrent />
+</div>
+
+</div>
+
+<div class="line">
+<div class="item col50">
+<p><strong>CD (via <a href="$(HOME)/CD/jigdo-cd">jigdo</a>)</strong></p>
+<full-cd-jigdo />
+</div>
+
+<div class="item col50 lastcol">
+<p><strong>DVD (via <a href="$(HOME)/CD/jigdo-cd">jigdo</a>)</strong></p>
+<full-dvd-jigdo />
+</div>
+
+
+</div>
+
+<div class="line">
+<div class="item col50">
+<p><strong>Blu-ray  (via <a href="$(HOME)/CD/jigdo-cd">jigdo</a>)</strong></p>
+<full-bluray-jigdo />
+</div>
+
+<div class="item col50 lastcol">
+<p><strong>Altre immagini (netboot, chiavetta USB, ecc.)</strong></p>
+<other-images />
+</div>
+</div>
+
+<div id="firmware_nonfree" class="warning">
+<p>
+Se sul proprio sistema è presente un qualsiasi hardware che
+<strong>richiede il caricamento di firmware non-free</strong> insieme ai
+driver del dispositivo, è possibile usare uno dei <a
+href="https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/buster/current/">tarball
+con i pacchetti firmware più comuni</a> oppure scaricare
+un'immagine <strong>non ufficiale</strong> che contiene i firmware
+<strong>non-free</strong>. Le istruzioni su come usare questi tarball e
+le informazioni su come caricare il firmware durante l'installazione
+possono essere trovate nella guida all'installazione (si veda la sezione
+Documentazione).
+</p>
+<div class="line">
+<div class="item col50">
+<p>CD <strong>netinst (circa 240-290&nbsp;MB) con <strong>non-free
+firmware</strong></strong></p>
+<small-non-free-cd-images />
+</div>
+</div>
+</div>
+
+
+
+<p>
+<strong>Note</strong>
+</p>
+
+<ul>
+<li>
+	Per scaricare le immagini complete di CD e DVD si raccomanda l'uso
+	di BitTorrent o di jigdo.
+</li><li>
+	Per le architetture meno diffuse è disponibile un numero limitato di
+	immagini di CD e DVD come file ISO o via BitTorrent. I set completi
+	sono disponibili solo tramite jigdo.
+</li><li>
+	Le immagini dei CD <q>multi-arch</q> supportano le architetture
+	i386/amd64; l'installazione con questi CD è molto simile a quella
+	con il CD <q>netinst</q> per una singola architettura.
+</li><li>
+	L'immagine del DVD <q>multi-arch</q> supporta le architetture
+	i386/amd64; l'installazione con questo DVD è molto simile a quella
+	con un CD completo per una singola architettura. Inoltre il DVD
+	contiene i sorgenti di tutti i pacchetti inclusi.
+</li><li>
+	I file per verificare le immagini (<tt>SHA256SUMS</tt>,
+	<tt>SHA512SUMS</tt>, ecc.) sono disponibili nella stessa directory
+	delle immagini.
+</li>
+</ul>
+
+
+<h1>Documentazione</h1>
+
+<p>
+<strong>A chi vuole leggere un solo documento</strong> prima di procedere
+con l'installazione, si consiglia l'<a href="../i386/apa">Installation
+Howto</a>, una rapida guida passo-passo al processo d'installazione.
+Altri documenti utili sono:
+</p>
+
+<ul>
+<li><a href="../installmanual">Guida all'installazione di Buster</a><br />
+istruzioni dettagliate per l'installazione.</li>
+
+<li><a href="https://wiki.debian.org/DebianInstaller/FAQ">FAQ su
+Installatore Debian</a> e <a href="$(HOME)/CD/faq/">FAQ su
+Debian-CD</a><br />, le risposte alle domande più frequenti.</li>
+
+<li><a href="https://wiki.debian.org/DebianInstaller">Wiki
+dell'Installatore Debian</a><br />
+documentazione gestita dalla comunità.
+</li>
+</ul>
+
+
+<h1 id="errata">Errata</h1>
+
+<p>
+Questo è l'elenco dei problemi conosciuti dell'installatore rilasciato
+insieme a Debian <current_release_buster/>. Chi riscontrasse un problema
+con l'installazione di Debian che non è presente in questa pagina è
+invitato a segnalare il problema inviando un <a
+href="$(HOME)/releases/stable/i386/ch05s04.html#submit-bug">resoconto
+d'installazione</a> oppure a verificare <a
+href="https://wiki.debian.org/DebianInstaller/BrokenThings">sul
+wiki</a> che il problema non sia già presente tra i problemi noti.
+</p>
+
+## Translators: copy/paste from devel/debian-installer/errata
+<h3 id="errata-r0">Errata del rilascio  9.0</h3>
+
+<dl class="gloss">
+
+<!--
+     <dt>Desktop installations may not work using CD#1 alone</dt>
+
+     <dd>Due to space constraints on the first CD, not all of the
+     expected GNOME desktop packages fit on CD#1. For a successful
+     installation, use extra package sources (e.g. a second CD or a
+     network mirror) or use a DVD instead.
+
+     <br /> <b>Status:</b> It is unlikely more efforts can be made to
+     fit more packages on CD#1. </dd>
+-->
+</dl>
+
+<p>
+Delle versioni migliorate del sistema di installazione sono in sviluppo
+per il prossimo rilascio di Debian; tali versioni possono essere usate
+anche per installare buster. Per i dettagli consultare la
+<a href="$(HOME)/devel/debian-installer/">pagina dell'Installatore
+Debian</a>.
+</p>
+</if-stable-release>
