@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hvordan man beder om at få oprettet en postliste"
-#use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda"
+#use wml::debian::translation-check translation="881ca15fb120b2f30d9ab1613754ba77b339037e"
 
 <p>Formålet med dette dokument, er at hjælpe med oprettelsen af en postliste på
 <a href="https://lists.debian.org/">lists.debian.org</a>.</p>
@@ -45,7 +45,7 @@ engelsk:</p>
 	<p>Eksterne projekters lister behøver ikke en foranstillet streng, da de
 	vil blive oprettet som <code><var>listname</var>@other.debian.org</code>.</p>
 
-	<p>Ord adskilles med et streng, "-", så eksempelvis en liste om	"Foo 
+	<p>Ord adskilles med et streng, "-", så eksempelvis en liste om "Foo 
 	bar" i forbindelse med Debian, ville få navnet debian-foo-bar.</p>
    </dd>
 
@@ -78,18 +78,12 @@ engelsk:</p>
 
    <dt><strong>Kategori</strong></dt>
    <dd>
-      	<p>Dette er nødvendigt for at klassificere listen og placere den det
+	<p>Dette er nødvendigt for at klassificere listen og placere den det
 	rigtige sted på <a href="subscribe">abonnementssiden</a> og andre 
-	steder.  De tilgængelige kategorier er:</p>
+	steder.</p>
 
-		<ul>
-			<li>Users (brugere)</li>
-			<li>Developers (udviklere)</li>
-			<li>Internationalization and Translations (internationalisering og oversættelser)</li>
-			<li>Ports (tilpasninger)</li>
-			<li>Miscellaneous Debian (forskelligt om Debian)</li>
-			<li>Other (andet)</li>
-		</UL>
+	<p>De tilgængelige katogorier finder man på 
+	<a href="https://lists.debian.org">webstedet lists.debian.org</a>.</p>
    </dd>
 
    <dt><strong>Abonnementsregler</strong></dt>
