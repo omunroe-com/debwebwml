@@ -128,7 +128,7 @@ Documentazione).
 </li>
 
 <li>I file per verificare le immagini (<tt>SHA256SUMS</tt> e
-<tt>SHA512SUMS</tt> sono disponibili nella stessa directory delle
+<tt>SHA512SUMS</tt>) sono disponibili nella stessa directory delle
 immagini.
 </li>
 </ul>
@@ -171,7 +171,7 @@ wiki</a> che il problema non sia già presente tra i problemi noti.
 </p>
 
 ## Translators: copy/paste from devel/debian-installer/errata
-<h3 id="errata-r0">Errata del rilascio release 7.0</h3>
+<h3 id="errata-r0">Errata del rilascio 7.0</h3>
 
 <dl class="gloss">
 
