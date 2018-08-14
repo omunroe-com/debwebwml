@@ -1,0 +1,34 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities have been discovered in Samba, a SMB/CIFS file,
+print, and login server for Unix. The Common Vulnerabilities and
+Exposures project identifies the following issues:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10858">CVE-2018-10858</a>
+
+    <p>Svyatoslav Phirsov discovered that insufficient input validation in
+    libsmbclient allowed a malicious Samba server to write to the
+    client's heap memory.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10919">CVE-2018-10919</a>
+
+    <p>Phillip Kuhrt discovered that Samba when acting as an Active Domain
+    controller disclosed some sensitive attributes.</p></li>
+
+</ul>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 2:4.5.12+dfsg-2+deb9u3.</p>
+
+<p>We recommend that you upgrade your samba packages.</p>
+
+<p>For the detailed security status of samba please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/samba">https://security-tracker.debian.org/tracker/samba</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4271.data"
+# $Id: $
