@@ -1,5 +1,5 @@
 #use wml::debian::template title="HOWTO: как создать список рассылки"
-#use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="881ca15fb120b2f30d9ab1613754ba77b339037e" maintainer="Lev Lamberov"
 
 <P>Целью этого документа является помощь людям, желающим создать
 список рассылки на <a href="https://lists.debian.org/">lists.debian.org</a>.</p>
@@ -80,18 +80,12 @@
 
    <dt><strong>Категория</strong></dt>
    <dd>
-      	<P>Это нужно для классификации списков и их правильной
-	сортировки на <a href="subscribe">странице подписки</a> и
-	в других местах. Возможные категории:
-
-		<UL>
-			<LI>Users (пользователи)
-			<LI>Developers (разработчики)
-			<LI>Internationalization and Translations (интернационализация и переводы)
-			<LI>Ports (переносы)
-			<LI>Miscellaneous Debian (для различных людей, связанных с Debian)
-			<LI>Other (другое)
-		</UL>
+       <p>Это требуется для классификации списока, а также его корректного указания на
+       <a href="subscribe">странице подписки</a> и в других местах.</p>
+    <p>
+    Доступные категории можно найти на <a
+    href="https://lists.debian.org">домашней странице lists.debian.org</a>.
+    </p>
    </dd>
 
    <dt><strong>Политика подписки</strong></dt>
