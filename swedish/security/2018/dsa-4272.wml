@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="9cb3bd8506c3999b0d46e014b126e07f7fe0d785" mindelta="1"
+#use wml::debian::translation-check translation="8d8451f31c4bbd9c2214e66c0fc95354998f4375" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo></p>
 
@@ -16,12 +16,12 @@
 	minnesanvändning för ofullständiga fragmenterade paket. Samma lindringar
 	kan nås utan behovat att starta om, genom att via sysctls sätta:</p>
 
-    <code>
-    net.ipv4.ipfrag_low_thresh = 196608
-    net.ipv6.ip6frag_low_thresh = 196608
-    net.ipv4.ipfrag_high_thresh = 262144
-    net.ipv6.ip6frag_high_thresh = 262144
-    </code>
+	<code>
+	net.ipv4.ipfrag_low_thresh = 196608<br/>
+	net.ipv6.ip6frag_low_thresh = 196608<br/>
+	net.ipv4.ipfrag_high_thresh = 262144<br/>
+	net.ipv6.ip6frag_high_thresh = 262144<br/>
+	</code>
 
 	<p>Standardvärdena kan fortfarande ökas genom lokal konfiguration
 	om nödvändigt.</p></li>
