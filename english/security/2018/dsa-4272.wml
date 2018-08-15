@@ -16,10 +16,10 @@
     achieved without the need to reboot, by setting the sysctls:</p>
 
     <code>
-    net.ipv4.ipfrag_low_thresh = 196608
-    net.ipv6.ip6frag_low_thresh = 196608
-    net.ipv4.ipfrag_high_thresh = 262144
-    net.ipv6.ip6frag_high_thresh = 262144
+    net.ipv4.ipfrag_low_thresh = 196608<br/>
+    net.ipv6.ip6frag_low_thresh = 196608<br/>
+    net.ipv4.ipfrag_high_thresh = 262144<br/>
+    net.ipv6.ip6frag_high_thresh = 262144<br/>
     </code>
 
     <p>The default values may still be increased by local configuration
