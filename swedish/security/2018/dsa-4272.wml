@@ -12,9 +12,9 @@
 	tids- och kalkuleringsdyra fragmentåtermonteringsalgoritmer genom att
 	skicka speciellt skapade paket, vilket leder till fjärröverbelastning.</p>
 
-	<p>Detta lidras genom att reducera standardbegränsningarna för
+	<p>Detta lindras genom att reducera standardbegränsningarna för
 	minnesanvändning för ofullständiga fragmenterade paket. Samma lindringar
-	kan nås utan behovat att starta om, genom att via sysctls sätta:</p>
+	kan nås utan behovet att starta om, genom att via sysctls sätta:</p>
 
 	<code>
 	net.ipv4.ipfrag_low_thresh = 196608<br/>
