@@ -163,8 +163,12 @@ while (<SRC>)
 	s/\(stretch\)/(stretch)/;
 	s/\(sid\)/(sid)/;
 	s/Refer to Debian (<.*>)?bug #([0-9]+)</Se Debians $1fejl nummer $2</;
-	s/\<p\>For the detailed security status of (.*) please refer to/<p>For detaljeret sikkerhedsstatus vedrørende $1, /;
-	s/its security tracker page at\:/se dens sikkerhedssporingsside på\: /;
+	s/\<p\>For the detailed security status of (.*) please refer to its security/<p>For detaljeret sikkerhedsstatus vedrørende $1, se/;
+	s/\<p\>For the detailed security status of (.*) please refer to its/<p>For detaljeret sikkerhedsstatus vedrørende $1, se/;
+	s/\<p\>For the detailed security status of (.*) please refer to/<p>For detaljeret sikkerhedsstatus vedrørende $1, se/;
+	s/its security tracker page at\:/dens sikkerhedssporingsside på\:/;
+	s/security tracker page at\:/dens sikkerhedssporingsside på\:/;
+	s/tracker page at\:/dens sikkerhedssporingssidede på\:/;
 
 	print DST $_;
 }
