@@ -1,0 +1,34 @@
+#use wml::debian::translation-check translation="afc2995f5b6da41047c4e4d8a609a13fb6b0bf88" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i Samba, en SMB/CIFS fil-,
+utskrifts-, och loginserver för Unix. Projektet Common Vulnerabilities and
+Exposures identifierar följande problem:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10858">CVE-2018-10858</a>
+
+	<p>Svyatoslav Phirsov upptäckte att otillräcklig validering av
+	indata i libsmbclient tillät en illasinnad Sambaserver att skriva
+	till klientens heapminne.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10919">CVE-2018-10919</a>
+
+	<p>Phillip Kuhrt upptäckte att Samba avslöjar några känsliga attributes
+	när den agerar som Active Domain-kontrollerare.</p></li>
+
+</ul>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 2:4.5.12+dfsg-2+deb9u3.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era samba-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om samba vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/samba">https://security-tracker.debian.org/tracker/samba</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4271.data"
