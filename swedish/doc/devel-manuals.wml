@@ -20,7 +20,7 @@
   </status>
   <availability>
   <inpackage "debian-policy">
-
+  <inddpsvn-debian-policy>
   <p><a href="https://bugs.debian.org/debian-policy">Föreslagna tillägg</a> till Policyn</p>
 
   <p>Ytterligare policydokumentation:</p>
