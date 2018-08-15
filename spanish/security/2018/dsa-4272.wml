@@ -1,0 +1,43 @@
+#use wml::debian::translation-check translation="8d8451f31c4bbd9c2214e66c0fc95354998f4375"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo></p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5391">CVE-2018-5391</a> (FragmentSmack)
+
+    <p>Juha-Matti Tilli descubrió un defecto en la manera en la que el kernel Linux
+    gestionaba el reensamblado de paquetes fragmentados IPv4 e IPv6. Un atacante
+    remoto puede aprovechar este defecto para desencadenar el uso de
+    algoritmos de reensamblado de fragmentos que resultan costosos en términos de tiempo y de cálculo, mediante el envío de
+    paquetes preparados de una manera determinada, dando lugar a denegación de servicio remota.</p>
+
+    <p>Esto se mitiga reduciendo los límites por omisión de uso de memoria
+    para paquetes fragmentados incompletos. Se puede conseguir la misma
+    mitigación sin necesidad de reiniciar, estableciendo los sysctls:</p>
+
+    <code>
+    net.ipv4.ipfrag_low_thresh = 196608<br/>
+    net.ipv6.ip6frag_low_thresh = 196608<br/>
+    net.ipv4.ipfrag_high_thresh = 262144<br/>
+    net.ipv6.ip6frag_high_thresh = 262144<br/>
+    </code>
+
+    <p>De todas formas, los valores por omisión se pueden aumentar en la configuración local
+    si es necesario.</p></li>
+
+</ul>
+
+<p>Para la distribución «estable» (stretch), este problema se ha corregido en
+la versión 4.9.110-3+deb9u2.</p>
+
+<p>Le recomendamos que actualice los paquetes de linux.</p>
+
+<p>Para información detallada sobre el estado de seguridad de linux consulte su
+página en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4272.data"
