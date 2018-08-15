@@ -15,10 +15,12 @@
     for incomplete fragmented packets.  The same mitigation can be
     achieved without the need to reboot, by setting the sysctls:</p>
 
-    <code>net.ipv4.ipfrag_high_thresh = 262144
-    net.ipv6.ip6frag_high_thresh = 262144
+    <code>
     net.ipv4.ipfrag_low_thresh = 196608
-    net.ipv6.ip6frag_low_thresh = 196608</code>
+    net.ipv6.ip6frag_low_thresh = 196608
+    net.ipv4.ipfrag_high_thresh = 262144
+    net.ipv6.ip6frag_high_thresh = 262144
+    </code>
 
     <p>The default values may still be increased by local configuration
     if necessary.</p></li>
