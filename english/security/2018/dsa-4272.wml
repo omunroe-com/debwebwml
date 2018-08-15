@@ -3,9 +3,7 @@
 
 <ul>
 
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5391">CVE-2018-5391</a>
-
-<p>(FragmentSmack)</p>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5391">CVE-2018-5391</a> (FragmentSmack)
 
     <p>Juha-Matti Tilli discovered a flaw in the way the Linux kernel
     handled reassembly of fragmented IPv4 and IPv6 packets. A remote
@@ -17,10 +15,10 @@
     for incomplete fragmented packets.  The same mitigation can be
     achieved without the need to reboot, by setting the sysctls:</p>
 
-    <p>net.ipv4.ipfrag_high_thresh = 262144
+    <code>net.ipv4.ipfrag_high_thresh = 262144
     net.ipv6.ip6frag_high_thresh = 262144
     net.ipv4.ipfrag_low_thresh = 196608
-    net.ipv6.ip6frag_low_thresh = 196608</p>
+    net.ipv6.ip6frag_low_thresh = 196608</code>
 
     <p>The default values may still be increased by local configuration
     if necessary.</p></li>
