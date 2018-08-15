@@ -1,0 +1,41 @@
+#use wml::debian::translation-check translation="56c2ba44ab86ed7d0ab474166b006265c4b70919" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo></p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5391">CVE-2018-5391</a> (FragmentSmack)
+
+    <p>Юха-Матти Тилли обнаружил уязвимость в способе, используемом ядром Linux
+    для обработка восстановления фрагментированных пакетов IPv4 и IPv6. Удалённый
+    злоумышленник может использовать эту уязвимость для вызова алгоритмов восстановления,
+    требующих много временных и вычислительных ресурсов, путём отправки
+    специально сформированных пакетов, что приводит к удалённому отказу в обслуживании.</p>
+
+    <p>Вред от этой проблемы может быть снижен путём уменьшения ограничений по умолчанию
+    на использование памяти для неполных фрагментированных пакетов. Тот же эффект можно
+    достичь и без перезагрузки, установив следующие настройки sysctl:</p>
+
+    <code>net.ipv4.ipfrag_high_thresh = 262144
+    net.ipv6.ip6frag_high_thresh = 262144
+    net.ipv4.ipfrag_low_thresh = 196608
+    net.ipv6.ip6frag_low_thresh = 196608</code>
+
+    <p>Значения по умолчанию можно увеличить в случае необходимости в локальных
+    настройках.</p></li>
+
+</ul>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 4.9.110-3+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты linux.</p>
+
+<p>С подробным статусом поддержки безопасности linux можно ознакомиться на its
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4272.data"
