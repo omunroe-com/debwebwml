@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4275-1 keystone</define-tag>
+<define-tag report_date>2018-8-16</define-tag>
+<define-tag secrefs>CVE-2018-14432 Bug#904616</define-tag>
+<define-tag packages>keystone</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>

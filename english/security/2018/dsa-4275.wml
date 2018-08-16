@@ -1,0 +1,18 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Kristi Nikolla discovered an information leak in Keystone, the OpenStack
+identity service, if running in a federated setup.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 2:10.0.0-9+deb9u1.</p>
+
+<p>We recommend that you upgrade your keystone packages.</p>
+
+<p>For the detailed security status of keystone please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/keystone">https://security-tracker.debian.org/tracker/keystone</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4275.data"
+# $Id: $
