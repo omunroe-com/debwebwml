@@ -1,0 +1,19 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>This update ships updated CPU microcode for some types of Intel CPUs and
+provides SSBD support (needed to address <q>Spectre v4</q>) and fixes for
+<q>Spectre v3a</q>.</p>
+    
+</p>For the stable distribution (stretch), these problems have been fixed in
+version 3.20180703.2~deb9u1.</p>
+
+<p>We recommend that you upgrade your intel-microcode packages.</p>
+
+<p>For the detailed security status of intel-microcode please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/intel-microcode">https://security-tracker.debian.org/tracker/intel-microcode</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4273.data"
+# $Id: $
