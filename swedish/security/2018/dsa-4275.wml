@@ -1,0 +1,18 @@
+#use wml::debian::translation-check translation="8908e7de87e09475e12f6a80de8679af5404602f" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Kristi Nikolla upptäckte ett informationsläckage i Keystone, OpenStack
+identitetstjänst, om man kör en federerad uppsättning.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 2:10.0.0-9+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era keystone-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om keystone vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/keystone">https://security-tracker.debian.org/tracker/keystone</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4275.data"
