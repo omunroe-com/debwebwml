@@ -1,19 +1,19 @@
 #use wml::debian::translation-check translation="8d8451f31c4bbd9c2214e66c0fc95354998f4375" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
-<define-tag moreinfo></p>
+<define-tag moreinfo>
 
 <ul>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5391">CVE-2018-5391</a> (FragmentSmack)
 
-    <p>Juha-Matti Tilli opdagede en fejl i den måde Linux-kernen håndterede 
-    gensamling af fragmenterede IPv4- og IPv6-pakker.  En fjernangriber kunne 
-    drage nytte af fejlen til at udløse tids- og beregningsmæssigt dyre 
-    beregningsalgoritmer til gensamling af fragmenter, ved at sende særligt 
+    <p>Juha-Matti Tilli opdagede en fejl i den måde Linux-kernen håndterede
+    gensamling af fragmenterede IPv4- og IPv6-pakker.  En fjernangriber kunne
+    drage nytte af fejlen til at udløse tids- og beregningsmæssigt dyre
+    beregningsalgoritmer til gensamling af fragmenter, ved at sende særligt
     fremstillede pakker, førende til fjernudført lammelsesangreb.</p>
 
-    <p>Det er afhjulpet ved at reducere standardbegrænsningerne på 
-    hukommelsesforbrug ved ufuldstændige, fragmenterede pakker.  Den afhjælpelse 
+    <p>Det er afhjulpet ved at reducere standardbegrænsningerne på
+    hukommelsesforbrug ved ufuldstændige, fragmenterede pakker.  Den afhjælpelse
     kan opnås uden behov for genstart, ved at opsætte sysctl'erne:</p>
 
     <code>
@@ -23,7 +23,7 @@
     net.ipv6.ip6frag_high_thresh = 262144<br/>
     </code>
 
-    <p>Det er fortsat muligt at forøge standardværdierne den lokale opsætning, 
+    <p>Det er fortsat muligt at forøge standardværdierne den lokale opsætning,
     om nødvendigt.</p></li>
 
 </ul>
