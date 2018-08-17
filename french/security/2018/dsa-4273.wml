@@ -1,10 +1,9 @@
 #use wml::debian::translation-check translation="ce27a5d8e4f179a865686c47a210aabd9c46b944" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
-<p>Cette mise à jour fournit le microcode mis à jour du processeur pour
-certains types de processeurs Intel et fournit la prise en charge de SSBD
-(nécessaire pour corriger <q>Spectre v4</q>) et des correctifs pour
-<q>Spectre v3a</q>.</p>
+<p>Cette mise à jour fournit le microcode mis à jour pour certains types de
+processeurs Intel, la prise en charge de SSBD (nécessaire pour corriger
+<q>Spectre v4</q>) et des correctifs pour <q>Spectre v3a</q>.</p>
 
 <p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
 dans la version 3.20180703.2~deb9u1.</p>
