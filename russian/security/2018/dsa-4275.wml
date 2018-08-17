@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="8908e7de87e09475e12f6a80de8679af5404602f" mindelta="1"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Кристи Николла обнаружил утечку информации в Keystone, службе идентификации
+OpenStack, проявляющуюся при работе в федеративном режиме.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 2:10.0.0-9+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты keystone.</p>
+
+<p>С подробным статусом поддержки безопасности keystone можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/keystone">\
+https://security-tracker.debian.org/tracker/keystone</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4275.data"

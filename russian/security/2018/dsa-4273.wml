@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="ce27a5d8e4f179a865686c47a210aabd9c46b944" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Данное обновление содержит обновлённый микрокод ЦП для некоторых типов ЦП Intel
+и предоставляет поддержку SSBD (требуется для исправления <q>Spectre v4</q>), а также исправления
+для <q>Spectre v3a</q>.</p>
+
+</p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 3.20180703.2~deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты intel-microcode.</p>
+
+<p>С подробным статусом поддержки безопасности intel-microcode можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/intel-microcode">\
+https://security-tracker.debian.org/tracker/intel-microcode</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4273.data"

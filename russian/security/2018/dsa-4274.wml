@@ -1,0 +1,26 @@
+#use wml::debian::translation-check translation="e35eb2fbc3e4127fa57a83ff514e87e74b966400" mindelta="1"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Данное обновление предоставляет средстав для снижения рисков от уязвимости
+<q>L1 Terminal Fault</q>, касающейся ряда ЦП Intel.</p>
+
+<p>За дополнительной информацией обращайтесь по адресу
+<a href="https://xenbits.xen.org/xsa/advisory-273.html">https://xenbits.xen.org/xsa/advisory-273.html</a>. Обновления микрокода,
+указанные там, пока не доступны в таком виде, в каком они могут распространяться Debian.</p>
+
+<p>Кроме того, были исправлены два отказа в обслуживании
+(XSA-268 и XSA-269).</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 4.8.4+xsa273+shim4.10.1+xsa273-1+deb9u10.</p>
+
+<p>Рекомендуется обновить пакеты xen.</p>
+
+<p>С подробным статусом поддержки безопасности xen можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/xen">\
+https://security-tracker.debian.org/tracker/xen</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4274.data"
