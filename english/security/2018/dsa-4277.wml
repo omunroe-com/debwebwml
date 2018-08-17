@@ -1,0 +1,20 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities were discovered in Mutt, a text-based mailreader
+supporting MIME, GPG, PGP and threading, potentially leading to code
+execution, denial of service or information disclosure when connecting
+to a malicious mail/NNTP server.</p>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 1.7.2-1+deb9u1.</p>
+
+<p>We recommend that you upgrade your mutt packages.</p>
+
+<p>For the detailed security status of mutt please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/mutt">https://security-tracker.debian.org/tracker/mutt</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4277.data"
+# $Id: $
