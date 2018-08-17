@@ -1,0 +1,27 @@
+#use wml::debian::translation-check translation="e35eb2fbc3e4127fa57a83ff514e87e74b966400" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Denne opdatering leverer afhjælpning af sårbarheden <q>L1 Terminal Fault</q>, 
+som påvirker en række af Intels CPU'er.</p>
+
+<p>For yderligere oplysninger, se 
+<a href="https://xenbits.xen.org/xsa/advisory-273.html">\
+https://xenbits.xen.org/xsa/advisory-273.html</a>.  Opdateringerne til 
+mikrokoden, som er nævnt her, er endnu ikke tilgængelige på en måde, som Debian 
+kan videredistribuere.</p>
+
+<p>Desuden er to lammelsesangrebssårbarheder rettet (XSA-268 and XSA-269).</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 4.8.4+xsa273+shim4.10.1+xsa273-1+deb9u10.</p>
+
+<p>Vi anbefaler at du opgraderer dine xen-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende xen, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/xen">\
+https://security-tracker.debian.org/tracker/xen</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4274.data"
