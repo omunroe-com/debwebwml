@@ -1,13 +1,13 @@
-#use wml::debian::translation-check translation="56c2ba44ab86ed7d0ab474166b006265c4b70919" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="a26fc1a0cf33422e27cb70072ecad746749afe71" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
-<define-tag moreinfo></p>
+<define-tag moreinfo>
 
 <ul>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5391">CVE-2018-5391</a> (FragmentSmack)
 
     <p>Юха-Матти Тилли обнаружил уязвимость в способе, используемом ядром Linux
-    для обработка восстановления фрагментированных пакетов IPv4 и IPv6. Удалённый
+    для обработки восстановления фрагментированных пакетов IPv4 и IPv6. Удалённый
     злоумышленник может использовать эту уязвимость для вызова алгоритмов восстановления,
     требующих много временных и вычислительных ресурсов, путём отправки
     специально сформированных пакетов, что приводит к удалённому отказу в обслуживании.</p>
@@ -16,10 +16,12 @@
     на использование памяти для неполных фрагментированных пакетов. Тот же эффект можно
     достичь и без перезагрузки, установив следующие настройки sysctl:</p>
 
-    <code>net.ipv4.ipfrag_high_thresh = 262144
-    net.ipv6.ip6frag_high_thresh = 262144
-    net.ipv4.ipfrag_low_thresh = 196608
-    net.ipv6.ip6frag_low_thresh = 196608</code>
+    <code>
+    net.ipv4.ipfrag_low_thresh = 196608<br/>
+    net.ipv6.ip6frag_low_thresh = 196608<br/>
+    net.ipv4.ipfrag_high_thresh = 262144<br/>
+    net.ipv6.ip6frag_high_thresh = 262144<br/>
+    </code>
 
     <p>Значения по умолчанию можно увеличить в случае необходимости в локальных
     настройках.</p></li>
@@ -31,7 +33,7 @@
 
 <p>Рекомендуется обновить пакеты linux.</p>
 
-<p>С подробным статусом поддержки безопасности linux можно ознакомиться на its
+<p>С подробным статусом поддержки безопасности linux можно ознакомиться на
 соответствующей странице отслеживания безопасности по адресу
 <a href="https://security-tracker.debian.org/tracker/linux">\
 https://security-tracker.debian.org/tracker/linux</a></p>

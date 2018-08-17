@@ -1,0 +1,43 @@
+#use wml::debian::translation-check translation="a26fc1a0cf33422e27cb70072ecad746749afe71" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5391">CVE-2018-5391</a> (FragmentSmack)
+
+	<p>Juha-Matti Tilli upptäckte en brist i sättet som Linuxkärnan
+	hanterar återmontering av fragmenterade IPv4 och IPv6-paket. En
+	fjärrangripare kan dra fördel av denna brist för att trigga
+	tids- och kalkuleringsdyra fragmentåtermonteringsalgoritmer genom att
+	skicka speciellt skapade paket, vilket leder till fjärröverbelastning.</p>
+
+	<p>Detta lindras genom att reducera standardbegränsningarna för
+	minnesanvändning för ofullständiga fragmenterade paket. Samma lindringar
+	kan nås utan behovet att starta om, genom att via sysctls sätta:</p>
+
+	<code>
+	net.ipv4.ipfrag_low_thresh = 196608<br/>
+	net.ipv6.ip6frag_low_thresh = 196608<br/>
+	net.ipv4.ipfrag_high_thresh = 262144<br/>
+	net.ipv6.ip6frag_high_thresh = 262144<br/>
+	</code>
+
+	<p>Standardvärdena kan fortfarande ökas genom lokal konfiguration
+	om nödvändigt.</p></li>
+
+</ul>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 4.9.110-3+deb9u2.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era linux-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om linux vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4272.data"
