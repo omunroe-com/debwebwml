@@ -4,7 +4,7 @@
 vulnerability affecting a range of Intel CPUs.</p>
 
 <p>For additional information please refer to
-<a href="https://xenbits.xen.org/xsa/advisory-273.html.">https://xenbits.xen.org/xsa/advisory-273.html.</a> The microcode updates
+<a href="https://xenbits.xen.org/xsa/advisory-273.html">https://xenbits.xen.org/xsa/advisory-273.html</a>. The microcode updates
 mentioned there are not yet available in a form distributable by Debian.</p>
 
 <p>In addition two denial of service vulnerabilities have been fixed
