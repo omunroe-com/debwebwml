@@ -4,7 +4,7 @@
 provides SSBD support (needed to address <q>Spectre v4</q>) and fixes for
 <q>Spectre v3a</q>.</p>
     
-</p>For the stable distribution (stretch), these problems have been fixed in
+<p>For the stable distribution (stretch), these problems have been fixed in
 version 3.20180703.2~deb9u1.</p>
 
 <p>We recommend that you upgrade your intel-microcode packages.</p>

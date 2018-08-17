@@ -6,7 +6,7 @@ certains types de processeurs Intel et fournit la prise en charge de SSBD
 (nécessaire pour corriger <q>Spectre v4</q>) et des correctifs pour
 <q>Spectre v3a</q>.</p>
 
-</p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
+<p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
 dans la version 3.20180703.2~deb9u1.</p>
 
 <p>Nous vous recommandons de mettre à jour vos paquets intel-microcode.</p>
