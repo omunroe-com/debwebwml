@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="56c2ba44ab86ed7d0ab474166b006265c4b70919" mindelta="1"
+#use wml::debian::translation-check translation="9cb3bd8506c3999b0d46e014b126e07f7fe0d785" mindelta="1"
 <define-tag description>sikkerhedsopdatering</define-tag>
 <define-tag moreinfo></p>
 
@@ -16,10 +16,12 @@
     hukommelsesforbrug ved ufuldstændige, fragmenterede pakker.  Den afhjælpelse 
     kan opnås uden behov for genstart, ved at opsætte sysctl'erne:</p>
 
-    <code>net.ipv4.ipfrag_high_thresh = 262144
-    net.ipv6.ip6frag_high_thresh = 262144
+    <code>
     net.ipv4.ipfrag_low_thresh = 196608
-    net.ipv6.ip6frag_low_thresh = 196608</code>
+    net.ipv6.ip6frag_low_thresh = 196608
+    net.ipv4.ipfrag_high_thresh = 262144
+    net.ipv6.ip6frag_high_thresh = 262144
+    </code>
 
     <p>Det er fortsat muligt at forøge standardværdierne den lokale opsætning, 
     om nødvendigt.</p></li>
