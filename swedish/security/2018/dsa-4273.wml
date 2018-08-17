@@ -5,7 +5,7 @@
 Intel-CPUer och tillhandahåller SSBD-stöd (vilket behövs för att adressera
 <q>Spectre v4</q>) och rättningar för <q>Spectre v3a</q>.</p>
     
-</p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
 version 3.20180703.2~deb9u1.</p>
 
 <p>Vi rekommenderar att ni uppgraderar era intel-microcode-paket.</p>
