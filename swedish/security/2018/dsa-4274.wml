@@ -1,11 +1,11 @@
-#use wml::debian::translation-check translation="307ad500c2d074cc87e544dfe14ace507c6eb5bd" mindelta="1"
+#use wml::debian::translation-check translation="e35eb2fbc3e4127fa57a83ff514e87e74b966400" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Denna uppdatering tillhandahåller lindringar för sårbarheten
 <q>L1 Terminal Fault</q> som påverkar en rad Intel-CPUer.</p>
 
 <p>För ytterligare information vänligen se
-<a href="https://xenbits.xen.org/xsa/advisory-273.html.">https://xenbits.xen.org/xsa/advisory-273.html</a> .
+<a href="https://xenbits.xen.org/xsa/advisory-273.html">https://xenbits.xen.org/xsa/advisory-273.html</a>.
 Mikrokodsuppdateringarna som nämns där är ännu inte tillgängliga
 i en form som är distribuerbar av Debian.</p>
 
