@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="ce27a5d8e4f179a865686c47a210aabd9c46b944" mindelta="1" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="008ec66544857c10f643f47f6f1c6afeb30ac63d" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
 <p>Данное обновление содержит обновлённый микрокод ЦП для некоторых типов ЦП Intel
