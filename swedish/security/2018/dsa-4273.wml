@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="ce27a5d8e4f179a865686c47a210aabd9c46b944" mindelta="1"
+#use wml::debian::translation-check translation="008ec66544857c10f643f47f6f1c6afeb30ac63d" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Denna uppdatering skeppar uppdaterad CPU-mikrokod för vissa typer av

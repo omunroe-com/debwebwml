@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="ce27a5d8e4f179a865686c47a210aabd9c46b944" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="008ec66544857c10f643f47f6f1c6afeb30ac63d" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Cette mise à jour fournit le microcode mis à jour pour certains types de
