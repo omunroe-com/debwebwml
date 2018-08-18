@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="001dd82ddaf00bf65009a4bca4223fe2a9ce7f5e" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В Mutt, текстовой программе для чтения почты с поддержкой MIME, GPG, PGP и
+представления сообщений в виде деревьев, было обнаружено несколько уязвимостей,
+потенциально приводящих к выполнению кода, отказу в обслуживании или раскрытию
+информации при подключении к вредоносному почтовому серверу или NNTP-серверу.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1.7.2-1+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты mutt.</p>
+
+<p>С подробным статусом поддержки безопасности mutt можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/mutt">\
+https://security-tracker.debian.org/tracker/mutt</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4277.data"
