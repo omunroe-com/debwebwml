@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4278-1 jetty9</define-tag>
+<define-tag report_date>2018-8-19</define-tag>
+<define-tag secrefs>CVE-2017-7656 CVE-2017-7657 CVE-2017-7658</define-tag>
+<define-tag packages>jetty9</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
