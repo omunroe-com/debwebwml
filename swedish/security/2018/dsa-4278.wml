@@ -1,0 +1,18 @@
+#use wml::debian::translation-check translation="db0f3efe55e440e0f697a377f54696fa033f93fc" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i Jetty, en Java servletmotor
+och webbserver som kunde resultera i smuggling av HTTP-förfrågningar.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 9.2.21-1+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era jetty9-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om jetty9 vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/jetty9">https://security-tracker.debian.org/tracker/jetty9</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4278.data"
