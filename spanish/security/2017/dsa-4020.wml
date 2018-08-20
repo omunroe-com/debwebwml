@@ -1,0 +1,118 @@
+#use wml::debian::translation-check translation="c95dc438808be3041c014db1493262a7ad9797c3"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se han descubierto varias vulnerabilidades en el navegador web Chromium.</p>
+
+<p>Adicionalmente, este mensaje sirve para anunciar que el soporte de seguridad para
+Chromium en la distribución «antigua estable» (jessie), Debian 8, se ha discontinuado.</p>
+
+<p>Recomendamos encarecidamente a los usuarios de Chromium en Debian 8 que deseen seguir disponiendo de actualizaciones de
+seguridad, el paso a la actual distribución «estable» (stretch), Debian 9.</p>
+
+<p>Otra alternativa sería el cambio al navegador Firefox, que seguirá
+recibiendo actualizaciones de seguridad en jessie durante algún tiempo.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5124">CVE-2017-5124</a>
+
+    <p>Se descubrió un problema de cross site scripting en MHTML.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5125">CVE-2017-5125</a>
+
+    <p>Se descubrió un problema de desbordamiento de memoria dinámica («heap») en la biblioteca skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5126">CVE-2017-5126</a>
+
+    <p>Luat Nguyen descubrió un problema de «uso tras liberar» en la biblioteca pdfium.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5127">CVE-2017-5127</a>
+
+    <p>Luat Nguyen descubrió otro problema de «uso tras liberar» en la biblioteca
+    pdfium.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5128">CVE-2017-5128</a>
+
+    <p>Omair descubrió un problema de desbordamiento de memoria dinámica («heap») en la implementación de WebGL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5129">CVE-2017-5129</a>
+
+    <p>Omair descubrió un problema de «uso tras liberar» en la implementación de WebAudio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5131">CVE-2017-5131</a>
+
+    <p>Se descubrió un problema de escritura fuera de límites en la biblioteca skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5132">CVE-2017-5132</a>
+
+    <p>Guarav Dewan descubrió un error en la implementación de WebAssembly.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5133">CVE-2017-5133</a>
+
+    <p>Aleksandar Nikolic descubrió un problema de escritura fuera de límites en la biblioteca
+    skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15386">CVE-2017-15386</a>
+
+    <p>WenXu Wu descubrió un problema de suplantación de la interfaz de usuario.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15387">CVE-2017-15387</a>
+
+    <p>Jun Kokatsu descubrió una manera de sortear la política de seguridad del contenido.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15388">CVE-2017-15388</a>
+
+    <p>Kushal Arvind Shah descubrió un problema de lectura fuera de límites en la biblioteca
+    skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15389">CVE-2017-15389</a>
+
+    <p>xisigr descubrió un problema de suplantación de URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15390">CVE-2017-15390</a>
+
+    <p>Haosheng Wang descubrió un problema de suplantación de URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15391">CVE-2017-15391</a>
+
+    <p>Joao Lucas Melo Brasio descubrió una manera de hacer que una extensión eluda sus
+    restricciones.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15392">CVE-2017-15392</a>
+
+    <p>Xiaoyin Liu descubrió un error en la implementación de las claves de registro.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15393">CVE-2017-15393</a>
+
+    <p>Svyat Mitin descubrió un problema en las herramientas para el programador.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15394">CVE-2017-15394</a>
+
+    <p>Sam descubrió un problema de suplantación de URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15395">CVE-2017-15395</a>
+
+    <p>Johannes Bergman descubrió un problema de desreferencia de puntero nulo.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15396">CVE-2017-15396</a>
+
+    <p>Yuan Deng descubrió un problema de desbordamiento de pila en la biblioteca javascript v8.</p></li>
+
+</ul>
+
+<p>Para la distribución «antigua estable» (jessie), el soporte de seguridad de Chromium
+está discontinuado.</p>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 62.0.3202.75-1~deb9u1.</p>
+
+<p>Para la distribución «en pruebas» (buster), estos problemas se corregirán pronto.</p>
+
+<p>Para la distribución «inestable» (sid), estos problemas se han corregido en
+la versión 62.0.3202.75-1.</p>
+
+<p>Le recomendamos que actualice los paquetes de chromium-browser.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2017/dsa-4020.data"
