@@ -1,0 +1,27 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Multiple researchers have discovered a vulnerability in the way the
+Intel processor designs have implemented speculative execution of
+instructions in combination with handling of page-faults. This flaw
+could allow an attacker controlling an unprivileged process to read
+memory from arbitrary (non-user controlled) addresses, including from
+the kernel and all other processes running on the system or cross
+guest/host boundaries to read host memory.</p>
+
+<p>To fully resolve these vulnerabilities it is also necessary to install
+updated CPU microcode (only available in Debian non-free). Common server
+class CPUs are covered in the update released as DSA 4273-1.</p>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 4.9.110-3+deb9u3.</p>
+
+<p>We recommend that you upgrade your linux packages.</p>
+
+<p>For the detailed security status of linux please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/linux">https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4279.data"
+# $Id: $
