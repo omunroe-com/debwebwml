@@ -1,0 +1,31 @@
+#use wml::debian::translation-check translation="65d1db6c065886054ac41ae413ad911f80019afe" maintainer="Jean-Pierre Giraud"
+<define-tag description>Mise à jour de sécurité</define-tag>
+<define-tag moreinfo>
+<p>Plusieurs chercheurs ont découvert une vulnérabilité dans la manière
+dont la conception des processeurs Intel a implémenté l'exécution
+spéculative des instructions en combinaison avec le traitement des erreurs
+de page. Ce défaut pourrait permettre à un attaquant contrôlant un
+processus non privilégié de lire la mémoire à partir d'adresses arbitraires
+(non contrôlées par l'utilisateur), y compris à partir du noyau et de tous
+les autres processus exécutés sur le système ou à travers les limites
+clients/hôtes pour lire la mémoire de l'hôte.</p>
+
+<p>Pour résoudre complètement ces vulnérabilités, il est aussi nécessaire
+d'installer le microcode du processeur (seulement disponible dans Debian
+non-free). Les processeurs courants de classe serveur ont couverts dans la
+version mise à jour avec DSA 4273-1.</p>
+
+<p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
+dans la version 4.9.110-3+deb9u3.</p>
+
+<p>Nous vous recommandons de mettre à jour vos paquets linux.</p>
+
+<p>Pour disposer d'un état détaillé sur la sécurité de linux, veuillez
+consulter sa page de suivi de sécurité à l'adresse :
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a>.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4279.data"
+# $Id: $
