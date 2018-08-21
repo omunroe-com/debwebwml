@@ -12,8 +12,8 @@ clients/hôtes pour lire la mémoire de l'hôte.</p>
 
 <p>Pour résoudre complètement ces vulnérabilités, il est aussi nécessaire
 d'installer le microcode du processeur (seulement disponible dans Debian
-non-free). Les processeurs courants de classe serveur ont couverts dans la
-version mise à jour avec DSA 4273-1.</p>
+non-free). Les processeurs courants de classe serveur sont couverts avec la
+version mise à jour dans DSA 4273-1.</p>
 
 <p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
 dans la version 4.9.110-3+deb9u3.</p>
