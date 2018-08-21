@@ -1,0 +1,36 @@
+#use wml::debian::translation-check translation="f8f2f9257e00f87b05dddb078027f5189f09138f"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se han descubierto varias vulnerabilidades en el kernel Linux que
+pueden dar lugar a elevación de privilegios o a denegación de servicio.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5390">CVE-2018-5390</a>
+
+    <p>Juha-Matti Tilli descubrió que un atacante remoto puede provocar el uso de las
+    rutas de código de peor caso para el reensamblado de flujos TCP con ritmos bajos de
+    paquetes preparados de una manera determinada, dando lugar a denegación de servicio remota.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-13405">CVE-2018-13405</a>
+
+    <p>Jann Horn descubrió que la función inode_init_owner de
+    fs/inode.c en el kernel Linux permite que usuarios locales creen ficheros
+    con valores de grupo propietario no previstos, lo que permite a los atacantes elevar
+    privilegios haciendo que un ficheros sea ejecutable y SGID.</p></li>
+
+</ul>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 4.9.110-3+deb9u1. Esta actualización corrige varias
+regresiones presentes en la última versión de Debian publicada.</p>
+
+<p>Le recomendamos que actualice los paquetes de linux.</p>
+
+<p>Para información detallada sobre el estado de seguridad de linux consulte su página
+en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/linux">https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4266.data"
