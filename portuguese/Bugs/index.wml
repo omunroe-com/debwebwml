@@ -1,7 +1,7 @@
 #use wml::debian::template title="Sistema de Acompanhamento de Bugs Debian" BARETITLE=true NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
 #{#style#:<link rel="stylesheet" href="https://bugs.debian.org/css/bugs.css" type="text/css">:##}
-#use wml::debian::translation-check translation="7da2d70ffabbcb0357ece269fc2ae3a2963477d8" translation_maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="1c8ed02adde60123610a2e8083c5f2785a7f4351" translation_maintainer="Felipe Augusto van de Wiel (faw)"
 {#meta#:
 <script type="text/javascript" src="hashbug_redirect.js"></script>
 :#meta#}
@@ -29,7 +29,7 @@ relatar um bug</a> se você encontrar problemas na distribuição Debian.</p>
 <h2>Visualizando relatórios de bugs na WWW</h2>
 
 <p style="text-align:center">
-<img src="https://qa.debian.org/data/bts/graphs/all.png?m=0.8&amp;h=250&amp;w=600"
+<img src="https://qa.debian.org/data/bts/graphs/all.png?m=0.8&amp;h=250&amp;w=600" alt="Bug count for all"
 />
 </p>
 
@@ -168,5 +168,11 @@ reconhecidos pelo sistema Sistema de Acompanhamento de Bugs do Debian.</p>
 <p><strong>Nota:</strong> alguns dos índices de relatórios de bugs
 previamente disponíveis não estão disponíveis devido a problemas internos
 com o programa que os gera. Nós nos desculpamos pela inconveniência.</p>
+
+<h2>Relatórios de Spam</h2>
+<p>O sistema de Acompanhamento de Bugs recebe spam frequentemente. Para relatar
+ um spam no Sistema de Acompanhamento, encontre o relatório 
+<a href="#bugreport">pelo número</a> e clique em "este histórico de bug contém 
+spam" próximo à parte inferior.</p>
 
 #include "$(ENGLISHDIR)/Bugs/footer.inc"
