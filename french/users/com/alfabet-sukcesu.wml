@@ -1,0 +1,17 @@
+# From: Alfabet-Sukcesu <alfabet.sukcesu@gmail.com> 
+#use wml::debian::translation-check translation="6a2f6c8f636d5c991fddc54c9730356f9bc17d09" maintainer="Jean-Pierre Giraud"
+
+<define-tag pagetitle>Alfabet Sukcesu, Lubliniec, Pologne</define-tag>
+<define-tag webpage>http://alfabet-sukcesu.pl/</define-tag>
+
+#use wml::debian::users
+
+<p>
+    Nous utilisons Debian sur huit de nos serveurs (versions 64 bits). Sur
+    nos serveurs fonctionnent des applications écrites en PHP ou Ruby.
+</p>
+
+<p>
+    Nous avons choisi Debian parce que c'est une communauté et qu'elle est
+    simple à utiliser.
+</p>
