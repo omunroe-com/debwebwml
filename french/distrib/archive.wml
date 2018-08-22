@@ -1,5 +1,5 @@
 #use wml::debian::template title="Archive de la distribution"
-#use wml::debian::translation-check translation="df43bb6e84c97a996c3bc2e6f21a87bd08c18b92" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="adf86939b926d1434cbac41f9d6ad4ca2df51930" maintainer="Simon Paillard"
 #use wml::debian::toc
 
 <toc-display />
@@ -13,7 +13,7 @@ href="http://archive.debian.org/debian/">archives Debian</a>,
 
 <p>
 Les paquets peuvent être recherchés dans les anciennes
-distributions en <url https://archive.debian.net>.
+distributions sur la page <url https://historical.packages.debian.org/>.
 </p>
 
 <p>Les versions sont stockées sous leur nom de code dans le
