@@ -1,5 +1,5 @@
 #use wml::debian::template title="Información de cómo usar el motor de búsquedas de Debian"
-#use wml::debian::translation-check translation="faac753e853745f84b366bfd32a4cd60e721616f"
+#use wml::debian::translation-check translation="c3b565ac6b9deb00572865c557a9c7094047163a"
 
 <P>El motor de búsquedas de Debian <a
 href="https://search.debian.org/">https://search.debian.org/</a>
@@ -9,46 +9,35 @@ desee hacer.
 <H3>Búsqueda simple</H3>
 
 <P>La forma más simple de todas es escribir una sola palabra en el
-campo de búsqueda, y pulsar "enter" (o pinchar en el botón
+campo de búsqueda y pulsar «enter» (o pinchar en el botón
 <em>Buscar</em>). El motor de búsqueda devolverá entonces todas las
 páginas del sitio web que tengan esa palabra en su contenido. Esto le
 devolverá buenos resultados la mayoría de las veces.
 
-<P>El siguiente nivel es buscar más de una palabra. Puede escoger
-entre:
-<dl>
-<dt><em>buscar todas las palabras</em>
-  <dd>que devolverá las páginas que contengan todas las palabras que
-  escribió
-<dt><em>buscar cualquiera de las palabras</em>
-  <dd>que devolverá las páginas que contengan cualquiera de las
-  palabras que escribió.
-</dl>
+<P>El siguiente nivel es buscar más de una palabra, que le devolverá
+una lista de páginas del sitio web que contienen todas las palabras que ha escrito.
 
 <H3>Búsqueda booleana</H3>
 <P>Si una búsqueda simple no es suficiente, entonces la búsqueda
 <a href="http://foldoc.org/boolean">booleana</a>
-puede hacer el trabajo para usted. Tiene las opciones <em>and</em>,
-<em>o</em>, <em>no</em> y la combinación de estas tres.
+puede hacer el trabajo para usted. Tiene las opciones <em>AND</em>, <em>OR</em>,
+<em>NOT</em> y una combinación de estas tres. Tenga en cuenta que debe escribir
+estos operadores con todas sus letras mayúsculas para que sean reconocidos.
 
-<P><B>&amp; - Y lógico</B> devolverá resultados en los que ambas
-palabras estén contenidas en la página. Por ejemplo, "gcc &amp; patch"
-encontrará todas las páginas que contengan ambas palabras: "gcc" y
-"patch".
+<P><B>AND</B> devolverá resultados en los que ambas palabras estén contenidas en
+la página. Por ejemplo, «gcc AND patch» encontrará todas las páginas que contengan ambas palabras:
+«gcc» y «patch». Con este ejemplo se obtiene el mismo resultado que con «gcc patch», pero
+el AND explícito puede ser útil en combinación con otros operadores.
 
-<P><B>| - O lógico</B> devolverá resultados en los que cualquiera de
-las palabras estén contenidas en la página. Por ejemplo, "gcc | patch"
-encontrará todas las páginas que contengan bien "gcc" o bien "patch".
+<P><B>OR</B> devolverá resultados en los que cualquiera de las palabras estén contenidas en la
+página. Por ejemplo, «gcc OR patch» encontrará todas las páginas que contengan «gcc»
+o «patch» (o ambas).
 
-<P><B>~ - NO lógico</B> excluye la palabra de los resultados. Usted lo
-utilizará usualmente con el Y lógico ( &amp; ), ya que quita
-resultados de una lista. Por ejemplo, "gcc &amp; ~patch" encontrará todas
-las páginas que contengan "gcc" y que no contengan "patch". Escribir
-solamente "~patch" no devolverá nada, ya que estará pidiendo "nada",
-lo cual no devolverá nada, y después se retirarán las páginas que
-contengan "patch", lo cual por supuesto no devolverá nada.
+<P><B>NOT</B> excluye una palabra de los resultados.
+Por ejemplo, «gcc NOT patch» encontrará todas las páginas que contengan «gcc» pero que
+no contengan «patch». Tampién puede escribir «gcc AND NOT patch» para obtener el
+mismo resultado, pero buscar solamente «NOT patch» no está soportado.
 
-<P><B>() - agrupamiento</B> añade más complejidad, ya que usted puede
-ahora agrupar bloques lógicos. Por ejemplo, "(gcc | make) &amp;
-~patch" encontrará todas las páginas que contengan bien "gcc" o bien
-"make", pero que no contengan "patch".
+<P><B>(</B>...<B>)</B> se puede usar para agrupar subexpresiones.
+Por ejemplo, «(gcc OR make) NOT patch» encontrará
+todas las páginas que contengan «gcc» o «make» (a ambas), pero que no contengan «patch».
