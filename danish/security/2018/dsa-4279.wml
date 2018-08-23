@@ -1,0 +1,29 @@
+#use wml::debian::translation-check translation="65d1db6c065886054ac41ae413ad911f80019afe" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Adskillige efterforskere har opdaget en sårbarhed i den måde Intels 
+processordesign har implementeret spekulativ udførelse af instruktioner i 
+kombination med håndtering af sidefejl.  Fejlen kunne gøre det muligt for en 
+angriber, med kontrol over en upriviligeret proces, at læse hukommelse fra 
+vilkårlige (ikke-brugerkontrollerede) adresser, herunder fra kernen og alle 
+andre processer, der kører på systemet eller passerer gæst-/vært-grænser til 
+læsning af værtens hukommelse.</p>
+
+<p>For fuldstændigt at løse disse sårbarheder, er det også nødvendigt at 
+installere opdateret CPU-mikrokode (kun tilgængelig i Debian non-free).  
+Fælles serverklasse-CPU'er er dækket af opdateringen, der er udgivet som 
+DSA 4273-1.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 4.9.110-3+deb9u3.</p>
+
+<p>Vi anbefaler at du opgraderer dine linux-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende linux, se
+dens sikkerhedssporingssidede på:
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4279.data"
