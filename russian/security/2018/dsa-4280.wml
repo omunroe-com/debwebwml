@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="86a854872ca9a3a53419e11273af562b726ec1b9" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Дариуш Титко, Михал Сайдак и сотрудники Qualys Security обнаружили, что
+OpenSSH, реализация набора протоколов SSH, уязвима к последовательному
+перебору пользователей. Это может позволить удалённому злоумышленнику
+проверить существует ли на целевом сервере учётная запись определённого пользователя.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 1:7.4p1-10+deb9u4.</p>
+
+<p>Рекомендуется обновить пакеты openssh.</p>
+
+<p>С подробным статусом поддержки безопасности openssh можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/openssh">\
+https://security-tracker.debian.org/tracker/openssh</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4280.data"
