@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="86a854872ca9a3a53419e11273af562b726ec1b9" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Dariusz Tytko, Michal Sajdak og Qualys Security opdagede at OpenSSH, en 
+implementering af SSH-protokolsuiten, var ramt af en sårbarhed i forbindelse med 
+brugeropgørelse.  Det kunne gøre det muligt for en fjernangriber at kontrollere 
+hvorvidt en specifik brugerkonto findes på målserveren.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 1:7.4p1-10+deb9u4.</p>
+
+<p>Vi anbefaler at du opgraderer dine openssh-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende openssh, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/openssh">\
+https://security-tracker.debian.org/tracker/openssh</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4280.data"
