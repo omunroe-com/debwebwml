@@ -1,7 +1,7 @@
 #use wml::debian::translation-check translation="7c62356728d14a8a175af8c0b5dede88707e54fd" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
-<p>В Symfony, PHP-инфраструктуре, были обнаружены многочисленные уязвимости,
+<p>В Symfony, PHP-фреймворке, были обнаружены многочисленные уязвимости,
 которые могут приводить к открытым перенаправлениям, подделке межсайтовых
 запросов, раскрытию информации, фиксации сессии или отказу в обслуживании.</p>
 

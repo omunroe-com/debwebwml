@@ -1,7 +1,7 @@
 #use wml::debian::translation-check translation="71f4676dc29d7a59150eb7c09c6c20b8a0d257c6" mindelta="1" maintainer="Lev Lamberov"
 <define-tag description>обновление безопасности</define-tag>
 <define-tag moreinfo>
-<p>Андреас Хуг обнаружил открытое перенаправление в Django, инфраструктуре
+<p>Андреас Хуг обнаружил открытое перенаправление в Django, фреймворке
 веб-разработки на Python, которое может использоваться в случае, если
 используется <code>django.middleware.common.CommonMiddleware</code> и включена
 опция APPEND_SLASH.</p>
