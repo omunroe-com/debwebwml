@@ -1,6 +1,6 @@
 #use wml::debian::template title="데비안 웹 페이지 작업 방법" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="648de6ad5bea60540e41a5733da0b761a34c7927" maintainer="Sebul"
+#use wml::debian::translation-check translation="bc66db8592a5b03cf67480ae2e3df889eb158f0c" maintainer="Sebul"
 
 <toc-display/>
 
@@ -226,10 +226,10 @@ the task of keeping translations up to date.</p>
 <toc-add-entry name="newdir">새 디렉토리 더하기</toc-add-entry>
 
 <p>주의: <code>install</code>이름의 디렉토리를 만들지 <strong>마세요</strong>. 
-그것은 혼동을 만들고 디렉토리 안의 페이지는 자동 업데이트가 안 될 겁니다.
+그것은 make를 헷갈리게 하고 디렉토리 안의 페이지는 자동 업데이트가 안 될 겁니다.
 </p>
 
-<p>아래는 웹 사이트에 디렉토리를 더하는 예를 설명합니다.
+<p>아래는 웹 사이트에 디렉토리를 더하는 예를 설명입니다.
 </p>
 <pre>
    mkdir foo
@@ -239,7 +239,7 @@ the task of keeping translations up to date.</p>
    git add Makefile
 </pre>
 
-<p>상위 디렉토리 안의 Makefile 을 편집하고 방금 만든 디렉토리를 <code>SUBS</code>에 더하세요.
+<p>상위 디렉토리 안의 Makefile 을 편집하고 방금 만든 디렉토리를 <code>SUBS</code> 변수에 더하세요.
 이러면 make가 돌 때 디렉토리가 빌드에 더해집니다.</p>
 
 <p>마지막으로, 저장소에 만들어진 모든 변화를 커밋하세요</p>
