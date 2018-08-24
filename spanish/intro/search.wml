@@ -40,4 +40,4 @@ mismo resultado, pero buscar solamente «NOT patch» no está soportado.
 
 <P><B>(</B>...<B>)</B> se puede usar para agrupar subexpresiones.
 Por ejemplo, «(gcc OR make) NOT patch» encontrará
-todas las páginas que contengan «gcc» o «make» (a ambas), pero que no contengan «patch».
+todas las páginas que contengan «gcc» o «make» (o ambas), pero que no contengan «patch».
