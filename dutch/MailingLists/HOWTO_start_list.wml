@@ -1,5 +1,5 @@
 #use wml::debian::template title="Mailinglijstaanvraag-HOWTO"
-#use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda"
+#use wml::debian::translation-check translation="881ca15fb120b2f30d9ab1613754ba77b339037e"
 
 # Last Translation Update by $Author$
 # Last Translation Update at $Date$
@@ -82,19 +82,13 @@ worden in een <em>wishlist</em>
 
    <dt><strong>Categorie</strong></dt>
    <dd>
-      	<P>Dit is nodig om de lijst te classifiëren en om ze correct te
+      	<p>Dit is nodig om de lijst te classifiëren en om ze correct te
 	sorteren op 
-    	<a href="subscribe">de inschrijfpagina</a> en elders.
-	De mogelijke categorieën zijn:
+    	<a href="subscribe">de inschrijfpagina</a> en elders.</p>
+	<p>De mogelijke categorieën zijn te vinden op <a
+    href="https://lists.debian.org">de thuispagina van lists.debian.org</a>.
+    </p>
 
-		<UL>
-			<LI>Gebruikers
-			<LI>Ontwikkelaars
-			<LI>i18n en Vertalingen
-			<LI>Ports
-			<LI>Andere over Debian
-			<LI>Andere
-		</UL>
    </dd>
 
    <dt><strong>Inschrijfbeleid</strong></dt>
