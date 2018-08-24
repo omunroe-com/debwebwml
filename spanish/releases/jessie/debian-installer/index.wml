@@ -7,7 +7,7 @@
 
 <if-stable-release release="stretch">
 <p><strong>Debian 8 se ha sustituido por
-<a href="../../stretc/">Debian 9 (<q>stretch</q>)</a>. Algunas de estas 
+<a href="../../stretch/">Debian 9 (<q>stretch</q>)</a>. Algunas de estas 
 imágenes de instalación puede que ya no estén disponibles, o puede que no funcionen, y 
 le recomendamos que instale stretch en su lugar. 
 </strong></p> 
