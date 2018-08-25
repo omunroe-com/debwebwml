@@ -1,5 +1,5 @@
 #use wml::debian::template title="Archivi delle distribuzioni"
-#use wml::debian::translation-check translation="df43bb6e84c97a996c3bc2e6f21a87bd08c18b92" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="adf86939b926d1434cbac41f9d6ad4ca2df51930" maintainer="Luca Monducci"
 #first translator and maintainer Johan Haggi
 #use wml::debian::toc
 <toc-display />
@@ -11,7 +11,7 @@ Debian, la si può trovare negli <a href="http://archive.debian.org/debian/">Arc
 Debian</a>, <tt>http://archive.debian.org/debian/</tt>.</p>
 
 <p>È possibile cercare i pacchetti delle vecchie distribuzioni all'indirizzo
-<url https://archive.debian.net>.</p>
+<url https://historical.packages.debian.org/>.</p>
 
 <p>Le release sono archiviate secondo i loro nomi in codice sotto la directory dists/</p>
 <ul>
