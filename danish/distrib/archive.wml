@@ -1,5 +1,5 @@
 #use wml::debian::template title="Distributionsarkiver"
-#use wml::debian::translation-check translation="df43bb6e84c97a996c3bc2e6f21a87bd08c18b92"
+#use wml::debian::translation-check translation="adf86939b926d1434cbac41f9d6ad4ca2df51930"
 #use wml::debian::toc
 
 <toc-display />
@@ -10,7 +10,8 @@
 finde den i <a href="http://archive.debian.org/debian/">\
 Debian-arkiverne</a>, <tt>http://archive.debian.org/debian/</tt>.</p>
 
-<p>Du kan søge i pakker i de gamle distributioner på <url https://archive.debian.net>.</p>
+<p>Du kan søge i pakker i de gamle distributioner på 
+<url https://historical.packages.debian.org/>.</p>
 
 <p>Udgivelser er gemt under deres kodenavne i mappen dists/:</p>
 <ul>
