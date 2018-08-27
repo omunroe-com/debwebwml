@@ -1,0 +1,439 @@
+#use wml::debian::projectnews::header PUBDATE="2018-02-28" SUMMARY="Bienvenido a las DPN, Debian 9.3 y 8.10 publicados, Servicio de compilación FAI.me, Debsources ahora en sources.debian.org, Outreachy y GSoC, Noticias varias de desarrolladores, Paquetes nuevos y de interés, Eventos (incluidas DebConf18 en Hsinchu, DebConf19 en Curitiba), Informes, Se necesita ayuda, No solo código, Enlaces rápidos de los medios sociales de Debian"
+#use wml::debian::translation-check translation="0c718c51c08c685bb7c3ffbd1bf004028b5c2567"
+
+# $Rev$
+# Status: [content-frozen]
+
+
+## substitute XXX with the number (expressed in letter) of the issue.
+## please note that the var issue is not automagically localized, so
+## translators need to put it directly in their language!
+## example: <intro issue="fifth" />
+
+## Use &#35; to escape # for IRC channels
+## Use &#39 for single quotes
+
+<intro issue="primera" />
+<toc-display/>
+
+<toc-add-entry name="newdpn">¡Bienvenido a las noticias del proyecto Debian!</toc-add-entry>
+
+<p>Esperamos que le agrade este formato de las noticias del proyecto Debian (DPN, por sus siglas en inglés).</p>
+
+<p>Para otras noticias, consulte el blog oficial de Debian
+<a href="https://bits.debian.org">Bits from Debian</a> y siga
+<a href="https://micronews.debian.org">https://micronews.debian.org</a>, que
+es también la fuente RSS del perfil @debian en varias redes sociales.</p>
+
+
+<p> El equipo de seguridad de Debian publica diariamente avisos
+(<a href="$(HOME)/security/2017/">Avisos de seguridad de 2017</a> y
+<a href="$(HOME)/security/2018/">Avisos de seguridad de 2018</a>).
+Léalos con atención y suscríbase a la <a href="https://lists.debian.org/debian-security-announce/">lista de correo
+ de seguridad</a>.</p>
+
+<p> Al final de estas Noticias del proyecto hemos añadido una sección <b>Enlaces rápidos</b> con
+enlaces a una selección de las noticias publicadas a través de nuestros otros medios.</p>
+
+<toc-add-entry name="internal">Noticias internas/Acontecimientos</toc-add-entry>
+
+<p><b>Debian 9 y Debian 8 actualizados: publicadas las versiones 9.3 y 8.10</b></p>
+<p>El proyecto Debian <a href="https://www.debian.org/News/2017/2017120902">anunció</a> 
+la tercera actualización de su distribución «estable» Debian 9 (nombre en clave <q>Stretch</q>) a la versión 9.3
+el 9 de diciembre de 2017.</p>
+
+<p>El proyecto Debian también <a href="https://www.debian.org/News/2017/20171209">anunció</a>
+la décima actualización de su distribución «antigua estable» Debian 8 (nombre en clave <q>Jessie</q>) a la versión 8.10
+el 9 de diciembre de 2017.</p>
+
+<p>Estas nuevas versiones añaden correcciones de problemas de seguridad,
+junto con unos pocos ajustes para problemas graves.
+Los avisos de seguridad se han publicado ya de forma independiente, y aquí hacemos referencia a ellos donde corresponde.
+
+Puede actualizar una instalación existente a una de estas nuevas versiones
+haciendo que el sistema de gestión de paquetes apunte a una de las muchas réplicas HTTP de Debian.
+En la dirección siguiente puede encontrar el listado completo de réplicas: <a href="https://www.debian.org/mirror/list">https://www.debian.org/mirror/list</a>
+</p>
+
+
+<p><b>Servicio de compilación para imágenes de instalación FAI.me</b></p>
+
+<p>Thomas Lange ha
+<a href="https://lists.uni-koeln.de/pipermail/linux-fai/2017-November/011869.html">
+anunciado</a> el <a href="https://fai-project.org/FAIme">servicio de compilación
+FAI.me</a> para imágenes de instalación personalizadas. En esa página web
+puede crear imágenes personalizadas con unos pocos clicks. Soporta
+varias distribuciones de Debian, todos los entornos de escritorio habituales,
+varias configuraciones regionales, núcleos con backports y la opción de especificar una lista
+de paquetes. Transcurrido un tiempo puede descargar su propia imagen
+ISO, que lleva a cabo una instalación completamente automática utilizando <a
+href="https://fai-project.org">FAI</a>.
+</p>
+
+<p><b>Debsources ahora en sources.debian.org</b></p>
+
+<p>
+El equipo de Debsources se alegra de
+<a href="https://lists.debian.org/debian-devel-announce/2017/12/msg00000.html">anunciar</a>
+que <a href="https://salsa.debian.org/qa/debsources/">Debsources</a>,
+que proporciona acceso web al código fuente del sistema operativo Debian,
+ha sido trasladado a la infraestructura oficial de Debian en 
+<a href="https://sources.debian.org">https://sources.debian.org</a>. 
+Debsources permite que los usuarios exploren directamente los paquetes fuente disponibles
+y que estudien y resalten fragmentos de los ficheros de código fuente de
+cada versión de Debian. Proporciona enlaces <a href="https://sources.debian.org,">HTML</a>
+y una <a href="https://sources.debian.org/doc/api/">API</a> para su uso en programas.
+</p>
+
+<p><b>Debian participa en Outreachy y en GSoC</b></p>
+
+<p>Debian da la bienvenida a tres estudiantes en prácticas para Outreachy:
+<a href="https://medium.com/@jwnx">Juliana Oliveira</a>, que trabajará en
+<a href="https://wiki.debian.org/Outreachy/Round15/Projects#Outreachy.2FRound15.2FProjects.2FReproducibleBuildsOfDebian.Reproducible_builds_for_Debian_and_free_software">compilaciones reproducibles</a>,
+<a href="https://kira385881773.wordpress.com/">Kira Obrezkova</a>, que trabajará en
+<a href="https://wiki.debian.org/Outreachy/Round15/Projects#Outreachy.2FRound15.2FProjects.2FDebianOsmoCom.Debian_MobCom">tecnologías móviles de código abierto</a>,
+y <a href="https://rsip22.github.io/blog/">Renata D'Avila</a>, que trabajará en una
+<a href="https://wiki.debian.org/Outreachy/Round15/Projects#Outreachy.2FRound15.2FProjects.2FSocialEventAndConferenceCalendars.A_calendar_database_of_social_events_and_conferences">base de datos calendario de eventos sociales y conferencias para programadores de software libre</a>.</p>
+ 
+<p>El programa <a href="https://www.outreachy.org/">Outreachy</a> está disponible gracias al
+esfuerzo de los desarrolladores de Debian y de donantes, y proporciona un periodo de prácticas de tres meses para grupos
+tradicionalmente infrarrepresentados en la tecnología.</p>
+
+<p>Google, por medio de su programa <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a>,
+proporciona una remuneración a los estudiantes por trabajar durante los meses de verano desarrollando código
+abierto. Debian se complace en
+<a href="https://bits.debian.org/2018/01/gsoc-2018-mentors-and-co-mentors.html">anunciar</a>
+que participará como organización mentora este año.</p>
+
+<p>Buscamos mentores y estudiantes que quieran participar. En nuestra
+<a href="https://wiki.debian.org/SummerOfCode2018">página wiki Summer of Code 2018</a> hay información adicional disponible;
+si puede ejercer como mentor póngase en contacto con el equipo de Debian Outreach a través de su
+<a href="https://lists.debian.org/debian-outreach/">lista de correo</a> para unirse como mentor.</p>
+
+<p><b>Nuevo canal IRC &#35;debian-til</b></p>
+
+<p>Hay un nuevo canal IRC: <b>&#35;debian-til</b> en el que puede compartir cosas sobre Debian que haya aprendido recientemente.
+Citando el tema del canal: <q>Comparta algo que haya aprendido hoy
+(o en cualquier momento) prefijándolo con «TIL» (sí, aún cuando YIL sería lo «correcto») (N. del T.: TIL y YIL son las iniciales en inglés, respectivamente, de «Hoy he aprendido» y de «Ayer aprendí»). 
+Puede ser algo técnico, social o de cualquier otro tipo siempre que tenga alguna relevancia para Debian - ¡Zona libre de
+juicios! ¡Publique cualquier cosa, por muy «obvia» que pueda ser!</q>.
+En <a href="https://wiki.debian.org/IRC">https://wiki.debian.org/IRC</a> puede encontrar más información sobre los canales IRC de Debian.</p>
+
+
+<p><b>Noticias varias para desarrolladores</b></p>
+
+<p>Paul Wise ha publicado <a 
+href="https://lists.debian.org/debian-devel-announce/2018/02/msg00005.html">
+Noticias varias para desarrolladores &#35;45</a>. Los titulares incluyen: debhelper compat 11,
+KGB ahora soporta webhooks de GitLab (para salsa),
+el cambio de la cola de subidas FTP en mentors.debian.net,
+un llamamiento a la revisión de los debtags y descuentos en hardware Purism para desarrolladores de Debian.</p>
+
+<p><b>Paquetes nuevos y de interés</b></p>
+
+<p>
+<a href="https://packages.debian.org/unstable/main/newpkg">Entre
+otros muchos paquetes añadidos al archivo «inestable» de Debian</a> en las últimas semanas,
+podemos encontrar:</p>
+<ul>
+<li><a href="https://packages.debian.org/unstable/main/gazebo9">Gazebo 9
+— nueva versión de Gazebo, a simulador multi-robot para ambientes de exterior.</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ganeti-2.16">Ganeti 2.16
+— nueva versión de Ganeti, una herramienta de gestión para servidores virtuales en cluster.</a></li>
+<li><a href="https://packages.debian.org/unstable/main/r-cran-factominer">R-cran-factominer
+— análisis multivariante exploratorio de datos y minería de datos.</a></li>
+<li><a href="https://packages.debian.org/unstable/main/undertime">Undertime
+— escoja la hora para una reunión utilizando una tabla de relojes del mundo.</a></li>
+</ul>
+
+
+<toc-add-entry name="events">Próximos eventos y crónicas</toc-add-entry>
+
+<p><b>Próximos eventos</b></p>
+
+<p><b>Debian Bug Squashing Party en Tirana, Albania</b></p>
+<p>
+El 3 y 4 de marzo de 2018 se celebrará una <a href="https://wiki.debian.org/BSP/2018/03/al/Tirana">Bug
+Squashing Party («fiesta caza-errores»)</a> en el Open Labs Hackerspace,
+en Tirana, Albania.
+</p>
+
+<p><b>MiniDebConf Curitiba 2018</b></p>
+<p>Miembros de la comunidad Debian en Curitiba se reunieron en la Universidad Positivo para
+<a href="http://debianbrasil.org.br/blog/meeting-was-held-in-curitiba-to-organize-minidebconf-2018-and-bid-2019">discutir</a>
+la organización de la <a href="https://minidebconf.curitiba.br/en">MiniDebConf Curitiba 2018</a>
+que tendrá lugar del 11 al 14 de abril en el campus central de la Universidad
+Tecnológica Federal de Paraná (UTFPR). La inscripción es gratuita y se
+realizará una campaña de financiación colectiva para ayudar a financiar el evento.
+</p> 
+
+
+<p><b>MiniDebConf Hamburgo 2018</b></p>
+
+<p>
+Del 16 al 20 de mayo tendrá lugar una miniDebConf en Hamburgo, Alemania, con
+tres días de hacking estilo Debcamp, seguidos de dos días de charlas, talleres
+y más hacking.
+Lea el <a href="https://lists.debian.org/debian-devel-announce/2018/02/msg00003.html">anuncio</a>
+y visite la <a href="https://wiki.debian.org/DebianEvents/de/2018/MiniDebConfHamburg">página wiki del evento</a>, 
+en la que puede conocer todos los detalles, registrarse para el evento y ayudar en la
+organización.</p>
+
+
+<p><b>Presencia de Debian en eventos</b></p>
+<p>
+En el <a href="https://chemnitzer.linux-tage.de/2018/en">Chemnitzer Linux-Tage 2018</a>, que tendrá lugar en el
+<q>Zentrales Hörsaal- und Seminar-Gebäude</q> de la Universidad de Tecnología
+de Chemnitz entre el sábado 10 y el domingo 11 de marzo de 2018, habrá un stand de
+Debian. El primer CLT se celebró en 1999 y Debian toma parte en él desde
+2002. Si alguien tiene interés en ayudar con el stand, puede echar un vistazo
+a la página wiki:
+<a href="https://wiki.debian.org/DebianEvents/de/2018/ChemnitzerLinuxTage">https://wiki.debian.org/DebianEvents/de/2018/ChemnitzerLinuxTage</a>.
+</p>
+
+<p>La <a href="http://fossasia.com/">FOSSASIA Summit</a> tendrá lugar en Singapur
+entre el 22 y el 25 de marzo de 2018; asistirán varios desarrolladores y contribuidores de
+Debian y quizá organicen un stand de Debian. Póngase en contacto a través de la
+lista de correo <a href="debian-events-apac@lists.debian.org">debian-events-apac</a>
+para más detalles, ayuda o coordinación.
+</p>
+
+<p><b>DebConf18 en Hsinshu</b></p>
+<p>
+La organización de DebConf18 (Hsinshu, Taiwán, del 29 de julio al 5 de agosto de 2018)
+avanza. Estará precedida por una semana de DebCamp, entre el
+sábado 21 y el viernes 27 de julio. El <a href="https://bits.debian.org/2018/02/debconf18-cfp.html">llamamiento para propuestas</a>
+se publicó el 7 de febrero de 2018. Ya puede identificarse en el <a href="https://debconf18.debconf.org/">sitio web</a> y
+proponer un evento, o escribir al equipo de contenido a <a href="mailto:content@debconf.org">content@debconf.org</a> para sugerir
+un orador invitado. Las propuestas de charlas deben enviarse, como muy tarde, el domingo 17 de
+junio de 2018. La inscripción se abrirá en breve. Puede suscribirse a
+<a href="https://debconf18.debconf.org/about/registration/">debconf-announce</a>
+para recibir una notificación cuando se abra. Las solicitudes de becas estarán disponibles junto
+con la inscripción y deben enviarse, como muy tarde, el 13 de abril. Hasta la fecha, once empresas u
+organizaciones han decidido apoyar el evento, y DebConf18 todavía
+<a href="https://bits.debian.org/tag/debconf18.html">acepta</a> patrocinadores; visite
+<a href="https://debconf18.debconf.org">su sitio web</a> para más detalles.
+</p>
+
+<p><b>DebConf19 en Curitiba</b></p>
+<p>DebConf19 se celebrará en Curitiba, Brasil. Consulte la <a href="https://wiki.debconf.org/wiki/DebConf19/Bids/Curitiba">oferta de Debian Curitiba</a> para conocer los detalles.</p>
+
+<p><b>Crónicas de eventos</b></p>
+
+<p><b>MiniDebConf Toulouse 2017</b></p>
+
+<p>
+Del 18 al 19 de noviembre de 2017 tuvo lugar una miniDebConf en Toulouse, Francia,
+organizada por la <a href="https://france.debian.net/posts/2017/mini-debconf_2017_retour/">asociación Debian France</a> junto con el
+<a href="https://2017.capitoledulibre.org">Capitole du libre</a>, con la ayuda de la
+<a href="https://www.toulibre.org">asociación Toulibre</a>, y el soporte de
+<a href="http://evolix.com">Evolix</a>. El evento fue todo un éxito
+con más de veinticinco asistentes a cada sesión. En la <a href="https://wiki.debian.org/DebianEvents/fr/2017/Toulouse">página wiki</a>
+hay detalles del evento.
+</p>
+
+
+<p><b>MiniDebConf Cambridge 2017</b></p>
+
+<p>
+Entre el 23 y el 26 de noviembre de 2017 tuvo lugar otra miniDebConf, esta vez en Cambridge, Reino Unido.
+En su <a href="https://wiki.debian.org/DebianEvents/gb/2017/MiniDebConfCambridge">
+página wiki</a> hay fotos y detalles del evento y
+del programa. Hubo transmisiones de video en directo, y las grabaciones ya
+<a href="https://meetings-archive.debian.net/pub/debian-meetings/2017/mini-debconf-cambridge/">están disponibles</a>.
+</p>
+
+
+<p><b>Presencia de Debian en eventos</b></p>
+<p>
+Debian estuvo presente en el XIV Fórum Goiano de software libre (FGSL)
+en Goiânia (Brasil) el pasado mes de noviembre
+(<a href="http://debianbrasil.org.br/blog/how-were-the-debian-activities-at-fgsl-2017-in-goiania">charlas y stand</a>),
+en el <a href="https://www.linuxday.at/">LinuxDay</a> en Dornbirn (Austria) en diciembre (stand de Debian),
+en la <a href="http://debianbrasil.org.br/blog/how-were-the-debian-activities-at-cpbr11-in-sao-paulo">Campus Party Brasil 2018</a> en São Paulo (Brasil)
+y en FOSDEM 2018 en Bruselas (Bélgica) en febrero (<a href="https://lists.debian.org/debian-events-eu/2018/02/msg00002.html">stand de Debian</a>).
+</p>
+
+
+<toc-add-entry name="reports">Informes</toc-add-entry>
+## It's easier to link to the monthly reports for the LTS section and the RB links rather than
+# summarize each report or number of packages. Feel free to input this information if you need to fill
+# the issue out
+#
+<p><b>Informes mensuales de Freexian sobre LTS</b></p>
+
+<p>Freexian publica <a href="https://raphaelhertzog.com/tag/Freexian+LTS/">informes mensuales</a>
+sobre el trabajo de los contribuidores remunerados para el soporte a largo plazo de Debian.
+</p>
+
+<p><b>Estado actual de Compilaciones reproducibles</b></p>
+
+<p>Siga en el <a
+href="https://reproducible.alioth.debian.org/blog/">blog de
+Compilaciones reproducibles</a> los informes mensuales de su trabajo en el ciclo de vida de <q>Stretch</q>.
+</p>
+
+
+<toc-add-entry name="help">Se necesita ayuda</toc-add-entry>
+
+<p><b>Paquetes que necesitan ayuda</b></p>
+
+## link= link to the mail report from wnpp@debian.org to debian-devel ML
+## orphaned= number of packages orphaned according to $link
+## rfa= number of packages up for adoption according to $link
+
+<wnpp link="https://lists.debian.org/debian-devel/2018/02/msg00287.html"
+	orphaned="1262"
+	rfa="164" />
+
+<p><b>Errores para principiantes</b></p>
+
+## check https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=newcomer and add outstanding + forwarded + pending upload
+<p>
+Debian tiene una etiqueta de clasificación de errores llamada <q>newcomer</q> («principiante»), usada para marcar errores adecuados para que los nuevos
+contribuidores los utilicen como punto de entrada para trabajar en paquetes específicos.
+
+Hay <a href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=newcomer">226</a>
+errores disponibles marcados <q>newcomer</q>.
+</p>
+
+<toc-add-entry name="morethancode">No solo código</toc-add-entry>
+
+<p><b>Contribuidores</b></p>
+
+## Visit the link below and pull the information manually.
+
+<p>
+En la página de <a href="https://contributors.debian.org/">contribuidores a Debian</a> de
+2018 hay 941 personas y 16 equipos listados.
+</p>
+
+<p><b>Debates</b></p>
+
+<p>El usuario de Debian Jason preguntó en la lista de correo Debian-user
+<a href="https://lists.debian.org/debian-user/2018/01/msg00212.html">cómo
+crear una impresora PDF desde la línea de órdenes</a>.
+
+Un largo debate que cubrió muchas cuestiones: si (La)TeX es texto o no,
+qué es exactamente un tipo mime, por qué no a2ps o lp, y ficheros inflados al convertirlos a PDF.
+Hay muchos consejos y trucos a lo largo del hilo para quienes se hagan
+la misma pregunta.
+</p>
+
+<p>El usuario de Debian Richard Hector preguntó sobre la <a
+href="https://lists.debian.org/debian-user/2018/02/msg00073.html">normativa
+en relación con la etiqueta de errores <q>wontfix</q> utilizada por los mantenedores</a>.
+El hilo cubrió muchos temas y debates sobre la salida producida por la
+orden date, intérpretes de línea de órdenes («shells») interactivos, la cuestión de <q>¿qué día es
+realmente?</q>, la confusa gramática de la cadena de caracteres para especificar una fecha, analizadores sintácticos, LDOSUBSCRIBER en correos, y el componente
+formail de procmail. ¡Una lectura muy interesante!</p>
+
+
+<p><b>Érase una vez en Debian</b></p>
+
+## Items pulled from the Timeline https://timeline.debian.net
+## Jump to any random year/ same month/ same week.
+## Provide link and link description.
+## This may work better with a script at some point, but for now let us see
+## what the ease of work is.
+
+## Format - YYYY-MM-DD text
+
+<ul>
+
+<li>2014-02-28 <a href="https://wiki.debian.org/DebianCambodia/MiniDebConf2014">MiniDebConf en Nom Pen, Camboya, 2014</a></li>
+<li>2012-03-01 <a href="https://lists.debian.org/debian-devel-announce/2012/03/msg00000.html">Disponible servicio de parches de distribuciones derivadas de Debian</a></li>
+<li>2007-03-05 <a href="https://wayback.archive.org/web/20071104032015/http://times.debian.net:80/1084-debfr-debconf-100percent#1084">Traducidas al francés todas las peticiones al usuario («prompts») durante la instalación de paquetes Debian</a></li>
+<li>2008-03-08 <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=470000">madcoder@debian.org informó del error Debian #470000</a></li>
+<li>1999-03-09 <a href="https://lists.debian.org/debian-announce/1999/msg00005.html">Publicado Debian GNU/Linux 2.1 'Slink'</a></li>
+
+</ul>
+
+
+<toc-add-entry name="quicklinks">Enlaces rápidos de los medios sociales de Debian</toc-add-entry>
+
+<p>
+Este es un extracto de
+<a href="https://micronews.debian.org">micronews.debian.org</a>, del
+que hemos eliminado los temas ya comentados en esta edición de las DPN.
+Si suele seguir <b>micronews.debian.org</b> o el perfil <b>@debian</b> en
+alguna red social (Pump.io, GNU Social, Mastodon o Twitter), puede
+saltarse esta sección. Los temas se muestran sin formatear y en orden de fecha decreciente 
+(las noticias más recientes, primero).
+</p>
+
+<p>
+<b>Febrero</b></p>
+
+<ul>
+<li>¡Debian ha ganado el Linux Journal's Readers' Choice Award for Best Linux Distribution! (premio «Elección de los lectores del Linux Journal a la mejor distribución de Linux») <a href="https://bits.debian.org/2018/02/debian-linuxjournal-readers-choice-award.html">https://bits.debian.org/2018/02/debian-linuxjournal-readers-choice-award.html</a>
+</li>
+
+<li>Debian ama el software libre, ¡hoy y siempre! Muestre su amor
+<a href="https://fsfe.org/campaigns/ilovefs/">https://fsfe.org/campaigns/ilovefs/</a> #ILoveFS
+</li>
+
+<li>¡Vote a Debian como «Mejor distribución de Linux» de 2018 en el Linux Journal!<a href="http://www.linuxjournal.com/content/best-linux-distribution-2018">http://www.linuxjournal.com/content/best-linux-distribution-2018</a>
+</li>
+
+<li>Cómo fueron las actividades de Debian en la #CPBR11 en São Paulo
+<a href="http://debianbrasil.org.br/blog/how-were-the-debian-activities-at-cpbr11-in-sao-paulo">http://debianbrasil.org.br/blog/how-were-the-debian-activities-at-cpbr11-in-sao-paulo</a>
+</li>
+
+</ul>
+
+<p>
+<b>Enero</b></p>
+
+<ul>
+<li>Reúnase con @Debian en @fosdem la próxima semana. Estaremos en el edificio K, planta 1.
+<a href="https://wiki.debian.org/DebianEvents/be/2018/FOSDEM">https://wiki.debian.org/DebianEvents/be/2018/FOSDEM</a>
+</li>
+
+<li>Verificador de vulnerabilidad/mitigación Spectre &amp; Meltdown disponible en stretch-backports
+<a href="https://packages.debian.org/stretch-backports/spectre-meltdown-checker">https://packages.debian.org/stretch-backports/spectre-meltdown-checker</a>
+</li>
+
+<li>Informe de progreso 2017 de Freedombox:
+<a href="https://lists.alioth.debian.org/pipermail/freedombox-discuss/2018-January/008242.html">https://lists.alioth.debian.org/pipermail/freedombox-discuss/2018-January/008242.html</a>
+</li>
+
+</ul>
+
+<p>
+<b>Diciembre</b></p>
+
+<ul>
+
+<li>Disponibles los videos de la reciente MiniDebConf Cambridge, ¡gracias, equipo de video de las DebConf! Detalles y enlaces en
+<a href="https://wiki.debian.org/DebianEvents/gb/2017/MiniDebConfCambridge">https://wiki.debian.org/DebianEvents/gb/2017/MiniDebConfCambridge</a>
+</li>
+</ul>
+
+<p>
+<b>Noviembre</b></p>
+<ul>
+
+<li>Habrá un stand de Debian en el LinuxDay de Dornbirn (Austria) el próximo 2 de diciembre
+<a href="https://www.linuxday.at">https://www.linuxday.at</a>
+</li>
+
+<li>¡Este fin de semana es la MiniDebConf Cambridge 2017! Obtenga la información sobre el programa y las transmisiones en directo en
+<a href="https://wiki.debian.org/DebianEvents/gb/2017/MiniDebConfCambridge">https://wiki.debian.org/DebianEvents/gb/2017/MiniDebConfCambridge</a>
+</li>
+
+<li>Cómo fueron las actividades de Debian en el FGSL 2017 en Goiânia
+<a href="http://debianbrasil.org.br/blog/how-were-the-debian-activities-at-fgsl-2017-in-goiania">http://debianbrasil.org.br/blog/how-were-the-debian-activities-at-fgsl-2017-in-goiania</a>
+</li>
+</ul>
+
+
+
+<toc-add-entry name="continuedpn">¿Quiere seguir leyendo DPN?</toc-add-entry>
+<continue-dpn />
+
+<p><a href="https://lists.debian.org/debian-news/">Suscríbase o cancele su suscripción</a> a la lista de correo de Noticias Debian.</p>
+
+#use wml::debian::projectnews::footer editor="el equipo de publicidad («Publicity Team») con contribuciones de Thomas Lange, Paulo Henrique de Lima Santana, y Jean-Pierre Giraud"
+# Please add the contributors to the /dpn/CREDITS file
+# Translators may also add a translator="foo, bar, baz" to the previous line
