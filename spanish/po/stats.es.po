@@ -260,14 +260,14 @@ msgstr "Páginas web traducidas (por tamaño)"
 msgid "Translation Statistics by Page Size"
 msgstr "Estadísticas de traducción por tamaño de las páginas"
 
-#~ msgid "Created with"
-#~ msgstr "Creado por"
-
-#~ msgid "Commit diff"
-#~ msgstr "Diff de los cambios"
+#~ msgid "Unified diff"
+#~ msgstr "Diff unificado"
 
 #~ msgid "Colored diff"
 #~ msgstr "Diff coloreado"
 
-#~ msgid "Unified diff"
-#~ msgstr "Diff unificado"
+#~ msgid "Commit diff"
+#~ msgstr "Diff de los cambios"
+
+#~ msgid "Created with"
+#~ msgstr "Creado por"
