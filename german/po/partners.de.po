@@ -4,15 +4,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml partners\n"
-"PO-Revision-Date: 2018-04-27 13:59+0100\n"
-"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
+"PO-Revision-Date: 2018-08-27 12:05+0200\n"
+"Last-Translator: Laura Arjona Reina <larjona@debian.org>\n"
 "Language-Team: German <debian-l10n-german@lists.debian.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 1.8.11\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
 
 #: ../../english/partners/partners.def:8
 msgid "Partner of the Month"
@@ -113,31 +114,32 @@ msgstr ""
 
 #: ../../english/partners/partners.def:63
 msgid ""
-"credativ is an independent consulting and services company and since 1999 "
-"been offering comprehensive services and technical support for the "
-"implementation and operation of open source software in business "
-"applications. Our <q>Open Source Support Center</q> is always available, 365 "
-"days a year, around the clock."
+"<a href=\"https://www.credativ.com/\">credativ</a> is an independent "
+"consulting and services company and since 1999 been offering comprehensive "
+"services and technical support for the implementation and operation of open "
+"source software in business applications. Our <q>Open Source Support Center</"
+"q> is always available, 365 days a year, around the clock."
 msgstr ""
-"credativ ist ein herstellerunabhängiges Beratungs- und "
-"Dienstleistungsunternehmen, und bietet bereits seit 1999 umfassende Services "
-"und technischen Support für die Einführung und den Betrieb von Open Source "
-"Software im Unternehmenseinsatz. Unser <q>Open Source Support Center</q> ist "
-"immer für Sie da, an 365 Tagen im Jahr rund um die Uhr."
+"<a href=\"https://www.credativ.de\">credativ</a> ist ein "
+"herstellerunabhängiges Beratungs- und Dienstleistungsunternehmen, und bietet "
+"bereits seit 1999 umfassende Services und technischen Support für die "
+"Einführung und den Betrieb von <q>Open Source Software</q> im "
+"Unternehmenseinsatz. Unser Open Source Support Center ist immer für Sie da, "
+"an 365 Tagen im Jahr rund um die Uhr."
 
 #: ../../english/partners/partners.def:66
 msgid ""
 "From the very beginning credativ has actively supported the Debian project "
 "and will continue to do so in the future. Furthermore many of our "
 "consultants are also Debian developers and actively involved in contributing "
-"to free software projects worldwide. Further information can be found at "
-"<url \"http://www.credativ.com/\">."
+"to free software projects worldwide. Further information can be found at <a "
+"href=\"https://www.credativ.com/\">https://www.credativ.com/</a>."
 msgstr ""
 "Von Anfang an hat credativ das Debian-Projekt aktiv unterstützt und wird "
 "auch in Zukunft diese Unterstützung beibehalten. Weiterhin sind viele "
 "unserer Berater auch gleichzeitig Debian-Entwickler und bringen sich aktiv "
 "in Freie-Software-Projekte weltweit ein. Weitere Informationen finden Sie "
-"auf <url \"http://www.credativ.de/\">."
+"auf <a href=\"https://www.credativ.de\">https://www.credativ.de/</a>."
 
 #: ../../english/partners/partners.def:72
 msgid ""
@@ -407,7 +409,24 @@ msgstr ""
 "Netzwerkwissens  bedarf. Dies umfasst 15 vorkonfigurierte Dienste und eine "
 "lokalisierte  Umgebung."
 
-#: ../../english/partners/partners.def:172
+#: ../../english/partners/partners.def:173
+msgid ""
+"<a href=\"https://www.stackpath.com/?utm_campaign=Partner%20Display&amp;"
+"utm_source=Partner%20Display&amp;utm_medium=Debian\">StackPath</a> provides "
+"Debian with content delivery network (CDN) services, allowing high "
+"availability of services like <a href=\"https://security-tracker.debian.org/"
+"\">the Security Bug Tracker</a> and <a href=\"https://planet.debian.org/"
+"\">Planet Debian</a>."
+msgstr ""
+
+#: ../../english/partners/partners.def:176
+msgid ""
+"StackPath is a platform of secure edge services that enables developers to "
+"protect, accelerate, and innovate cloud properties ranging from websites to "
+"media delivery and IoT services."
+msgstr ""
+
+#: ../../english/partners/partners.def:182
 msgid ""
 "<a href=\"http://www.telegraaf.nl/\">Telegraaf Media ICT BV</a> is "
 "supporting the Debian community by donating hardware, rackspace and "
@@ -417,7 +436,7 @@ msgstr ""
 "die Debian-Gemeinschaft durch die Spende von Hardware, Rackspace und "
 "Bandbreite für die Debian-Server, welche alioth, arch und svn beherbergen."
 
-#: ../../english/partners/partners.def:175
+#: ../../english/partners/partners.def:185
 msgid ""
 "Telegraaf Media ICT BV is running its internet infrastructure (appx. 200 "
 "Intel based servers) mainly based on Debian GNU/Linux servers; the sysadmins "
@@ -428,7 +447,7 @@ msgstr ""
 "Systemadministratoren sind hoch motivierte Debian-Benutzer, und einige von "
 "ihnen sind auch Debian-Betreuer."
 
-#: ../../english/partners/partners.def:178
+#: ../../english/partners/partners.def:188
 msgid ""
 "Telegraaf Media Group runs some of the most popular Dutch websites (http://"
 "www.telegraaf.nl, http://www.speurders.nl and http://www.dft.nl) as well as "
@@ -438,7 +457,7 @@ msgstr ""
 "Webseiten (http://www.telegraaf.nl, http://www.speurders.nl und http://www."
 "dft.nl) sowie die zwei größten Zeitungen der Niederlande."
 
-#: ../../english/partners/partners.def:184
+#: ../../english/partners/partners.def:194
 msgid ""
 "<a href=\"http://www.thomas-krenn.com\">Thomas Krenn</a> has provided a new "
 "high-end server for the Debian cdbuilder service. In addition, Thomas Krenn "
@@ -455,7 +474,7 @@ msgstr ""
 "Sie unter <a href=\"http://www.thomas-krenn.com/linux\">  http://www.thomas-"
 "krenn.com/linux</a>."
 
-#: ../../english/partners/partners.def:187
+#: ../../english/partners/partners.def:197
 msgid ""
 "<a href=\"http://www.thomas-krenn.com\">Thomas Krenn</a> is Europe's leading "
 "online shop for server systems and high-quality hosting. They offer rack-"
@@ -472,7 +491,7 @@ msgstr ""
 "24 Stunden in ganz Europa verschickt. Selbstverständlich wird auf all  "
 "diesen Servern Debian als Betriebssystem unterstützt."
 
-#: ../../english/partners/partners.def:193
+#: ../../english/partners/partners.def:203
 msgid ""
 "<a href=\"http://www.trustsec.de/\">trustsec</a> pays two Debian developers "
 "to work on the S/390 port of Debian and packages mainly related to Java. "
@@ -487,7 +506,7 @@ msgstr ""
 "S/390 und zSeries. Sie haben die kostenlosen Debian-CDs vom LinuxTag  2001 "
 "sowohl bezahlt als auch daran gearbeitet."
 
-#: ../../english/partners/partners.def:196
+#: ../../english/partners/partners.def:206
 msgid ""
 "trustsec offers customer support, consulting and training for Debian on the "
 "Intel PC architecture (i386), PowerPC and IBM S/390 and is specialized on "
@@ -500,7 +519,7 @@ msgstr ""
 "kontaktieren Sie <a  href=\"mailto:info@trustsec.de\">info@trustsec.de</a> "
 "für weitere  Informationen."
 
-#: ../../english/partners/partners.def:207
+#: ../../english/partners/partners.def:217
 msgid ""
 "<A HREF=\"http://www.brainfood.com/\">Brainfood</A> (previously called "
 "Novare) provides several machines to Debian, as well as hosting and server "
@@ -510,7 +529,7 @@ msgstr ""
 "stellt mehrere Maschinen für Debian zur Verfügung, sowie Hosting und "
 "Administration."
 
-#: ../../english/partners/partners.def:210
+#: ../../english/partners/partners.def:220
 msgid ""
 "Brainfood is a technology solutions company whose goal is to work to produce "
 "an ideal result for a specific need, whether it's a website or an ongoing, "
@@ -525,7 +544,7 @@ msgstr ""
 "kontaktieren Sie <a href=\"mailto:debian-contact@brainfood.com\">debian-"
 "contact@brainfood.com</a>."
 
-#: ../../english/partners/partners.def:217
+#: ../../english/partners/partners.def:227
 msgid ""
 "<a href=\"http://www.hp.com/\">Hewlett-Packard</a> has provided hardware for "
 "port development, Debian mirrors, and other Debian services (current HP "
@@ -542,7 +561,7 @@ msgstr ""
 "Open-Source-Gemeinschaft finden Sie auf <a href=\"http://www.hp.com/"
 "products1/linux/\">HP Linux</a>."
 
-#: ../../english/partners/partners.def:220
+#: ../../english/partners/partners.def:230
 msgid ""
 "Hewlett-Packard is one of the largest computer companies in the world, "
 "providing a wide range of products and services, such as servers, PCs, "
@@ -554,7 +573,7 @@ msgstr ""
 "PCs, Drucker, Speicher-Produkte, Netzwerk-Ausrüstung, Software, Cloud-"
 "Computing-Lösungen usw."
 
-#: ../../english/partners/partners.def:227
+#: ../../english/partners/partners.def:237
 msgid ""
 "<A HREF=\"http://www.linuxcentral.com/\">Linux Central</A> provides us with "
 "Debian GNU/Linux CD-ROM sets for trade show type events. These CD's help to "
@@ -566,7 +585,7 @@ msgstr ""
 "helfen uns bei der Promotion von Debian, indem wir das System direkt in die "
 "Hände der jetzigen und potenziellen Benutzer geben."
 
-#: ../../english/partners/partners.def:231
+#: ../../english/partners/partners.def:241
 msgid ""
 "Linux Central sells all the latest releases of Linux products such as "
 "commercial software, books, hardware, and versions of major Linux "
@@ -584,7 +603,7 @@ msgstr ""
 "kontaktieren Sie <a href=\"mailto:sales@linuxcentral.com"
 "\">sales@linuxcentral.com</a>."
 
-#: ../../english/partners/partners.def:238
+#: ../../english/partners/partners.def:248
 msgid ""
 "<a href=\"http://www.mythic-beasts.com\">Mythic Beasts Ltd.</a> supports "
 "Debian (and SPI Inc) by providing domain registration facilities.</p><p>They "
@@ -595,7 +614,7 @@ msgstr ""
 "dabei um eine in Großbritannien ansässige Firma, die Webhosting, "
 "Domainregistrierungen und Co-Location anbietet."
 
-#: ../../english/partners/partners.def:245
+#: ../../english/partners/partners.def:255
 msgid ""
 "San Francisco based <a href=\"http://www.nostarch.com/\">No Starch Press</"
 "a>, publisher of \"The Finest in Geek Entertainment,\" is co-publisher of "
@@ -614,7 +633,7 @@ msgstr ""
 "Von jedem verkauften Exemplar dieses Buches spendet No Starch Press 1 US$ an "
 "das Debian-Projekt."
 
-#: ../../english/partners/partners.def:252
+#: ../../english/partners/partners.def:262
 msgid ""
 "<a href=\"http://www.opensourcepress.de/\">Open Source Press</a> is the "
 "Munich-based publisher of the book <a href=\"http://debiansystem.info/\">The "
@@ -626,7 +645,7 @@ msgstr ""
 "\">The Debian System</a>. Von jedem verkauften Exemplar dieses Buches "
 "spenden der Verlag und der Autor zusammen 1 &euro; dem Debian-Projekt."
 
-#: ../../english/partners/partners.def:255
+#: ../../english/partners/partners.def:265
 msgid ""
 "Open Source Press specialises on books around Linux and Open Source "
 "Software, written by authors with considerable experience in the fields, and "
@@ -639,7 +658,7 @@ msgstr ""
 "geschrieben werden. Open Source Press ist bekannt für qualitativ und "
 "fachlich hochwertige Fachbücher."
 
-#: ../../english/partners/partners.def:263
+#: ../../english/partners/partners.def:273
 msgid ""
 "<a href=\"http://www.rapidswitch.com/\">RapidSwitch</a> (formely Black Cat "
 "Networks) is a UK ISP specialising in dedicated hosting. It provides "
@@ -651,7 +670,7 @@ msgstr ""
 "Dedicated Hosting. Es werden dedizierte Server, Managed-Server-Lösungen, Co-"
 "Location-Services und virtuelle VPS-Server zur Verfügung gestellt."
 
-#: ../../english/partners/partners.def:266
+#: ../../english/partners/partners.def:276
 msgid ""
 "It hosts a Debian development machine, <a href=\"https://db.debian.org/"
 "machines.cgi?host=caballero\">caballero</a>."
@@ -659,7 +678,7 @@ msgstr ""
 " RapidSwitch betreibt für Debian das Entwicklungssystem <a href=\"https://db."
 "debian.org/machines.cgi?host=caballero\">caballero</a>."
 
-#: ../../english/partners/partners.def:274
+#: ../../english/partners/partners.def:284
 msgid ""
 "<a href=\"http://www.simtec.co.uk\">Simtec</a> has provided several ARM "
 "machines which make up the bulk of the Debian ARM infrastructure. In "
@@ -671,7 +690,7 @@ msgstr ""
 "ausmachen. Zusätzlich beschäftigt Simtec mehrere Entwickler, die sich an der "
 "Debian ARM-Portierung beteiligen."
 
-#: ../../english/partners/partners.def:277
+#: ../../english/partners/partners.def:287
 msgid ""
 "Simtec is a leading provider of ARM based computing products. We have a "
 "range of <a href=\"http://www.simtec.co.uk/products/boards.html\">boards</a> "
