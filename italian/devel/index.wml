@@ -1,5 +1,5 @@
 #use wml::debian::template title="L'angolo degli sviluppatori" BARETITLE="true"
-#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Giuseppe Sacco"
+#use wml::debian::translation-check translation="b3ac1ee9b4da3869a094fbe8b2fac9bdef4ac0e1" maintainer="Giuseppe Sacco"
 
 # $Id$
 
@@ -369,7 +369,7 @@
 	<li><a href="https://wiki.debian.org/DebianGis">Debian GIS Project</a></li>
 	<li><a href="http://demudi.agnula.info/">Agnula DeMuDi</a></li>
 	<li><a href="https://wiki.debian.org/DebianScience">Scienza Debian</a></li>
-#	<li><a href="https://debichem.alioth.debian.org/">Progetto DebiChem</a></li>
+	<li><a href="https://salsa.debian.org/debichem-team/team/debichem/">Progetto DebiChem</a></li>
       </ul>
 
   </div>

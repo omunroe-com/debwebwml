@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 開發者天地" BARETITLE="true"
-#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Hsin-lin Cheng"
+#use wml::debian::translation-check translation="b3ac1ee9b4da3869a094fbe8b2fac9bdef4ac0e1" maintainer="Hsin-lin Cheng"
 
 <p>本網頁的公開資訊主要提供給有興趣成為 Debian 開發者的人。</p>
 
@@ -282,7 +282,7 @@
 	  <li><a href="debian-accessibility/">Debian 親和力計畫</a></li>
 	  <li><a href="https://wiki.debian.org/DebianGis">Debian GIS 計畫</a></li>
 	  <li><a href="https://wiki.debian.org/DebianScience">Debian 科學</a></li>
-	  <li><a href="https://debichem.alioth.debian.org/">DebiChem 計畫</a></li>
+	  <li><a href="https://salsa.debian.org/debichem-team/team/debichem/">DebiChem 計畫</a></li>
 	</ul>
 	</div>
 

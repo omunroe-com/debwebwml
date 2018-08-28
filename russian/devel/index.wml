@@ -1,5 +1,5 @@
 #use wml::debian::template title="Уголок разработчика Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b3ac1ee9b4da3869a094fbe8b2fac9bdef4ac0e1" maintainer="Lev Lamberov"
 
 <p>Информация на этой странице, хотя и является общедоступной, интересна,
 прежде всего, разработчикам Debian.</p>
@@ -367,7 +367,7 @@
                 Debian" (Debian Accessibility)</a></li>
           <li><a href="https://wiki.debian.org/DebianGis">Проект Debian GIS</a></li>
 	  <li><a href="https://wiki.debian.org/DebianScience">Debian в науке</a></li>
-#	  <li><a href="https://debichem.alioth.debian.org/">Проект DebiChem</a></li>
+	  <li><a href="https://salsa.debian.org/debichem-team/team/debichem/">Проект DebiChem</a></li>
         </ul>
   </div>
 

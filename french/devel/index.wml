@@ -1,5 +1,5 @@
 #use wml::debian::template title="Le coin du développeur Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="b3ac1ee9b4da3869a094fbe8b2fac9bdef4ac0e1" maintainer="Jean-Paul Guillonneau"
 
 # Original translation by Christian Couder
 # Previous translator Pierre Machard
@@ -425,7 +425,7 @@ parfaitement dans le système Debian. Cela inclut&nbsp;:
   <li><a href="debian-accessibility/">projet d'accessibilité pour Debian</a> ;</li>
   <li><a href="https://wiki.debian.org/DebianGis">projet Debian GIS</a> ;</li>
   <li><a href="https://wiki.debian.org/DebianScience">Debian Science</a> ;</li>
-#  <li><a href="https://debichem.alioth.debian.org/">DebiChem Project</a>.</li>
+  <li><a href="https://salsa.debian.org/debichem-team/team/debichem/">DebiChem Project</a>.</li>
 </ul>
 
 </div>

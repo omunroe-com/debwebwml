@@ -387,7 +387,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
           <li><a href="debian-accessibility/">Proyecto Debian Accesible</a></li>
           <li><a href="https://wiki.debian.org/DebianGis">Proyecto Debian GIS</a></li>
           <li><a href="https://wiki.debian.org/DebianScience">Debian Científica</a></li>
-#          <li><a href="https://debichem.alioth.debian.org/">Proyecto DebiChem</a></li>
+          <li><a href="https://salsa.debian.org/debichem-team/team/debichem/">Proyecto DebiChem</a></li>
 	</ul>
 
   </div>

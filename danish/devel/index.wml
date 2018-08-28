@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians udviklerhjørne" BARETITLE="true"
-#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991"
+#use wml::debian::translation-check translation="b3ac1ee9b4da3869a094fbe8b2fac9bdef4ac0e1"
 
 <p>Oplysningerne på denne side er offentligt tilgængelige, men primært af 
 interesse for Debian-udviklere.</p>
@@ -364,7 +364,7 @@ interesse for Debian-udviklere.</p>
 	<li><a href="debian-accessibility/">Debian Accessibility-projektet</a></li>
 	<li><a href="https://wiki.debian.org/DebianGis">Debians GIS-projekt</a></li>
 	<li><a href="https://wiki.debian.org/DebianScience">Debian Science</a></li>
-#	<li><a href="https://debichem.alioth.debian.org/">DebiChem-projektet</a></li>
+	<li><a href="https://salsa.debian.org/debichem-team/team/debichem/">DebiChem-projektet</a></li>
       </ul>
     </div>
   </div>
