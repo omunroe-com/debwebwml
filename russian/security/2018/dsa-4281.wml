@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="f1d5ad4b409bf9a95786d639542fc79d8232a243" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В Tomcat, движке сервлетов и JSP, было обнаружено несколько уязвимостей.
+Они могут приводить к неавторизованному доступу к защищённым ресурсам,
+отказу в обслуживании или утечке информации.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 8.5.14-1+deb9u3.</p>
+
+<p>Рекомендуется обновить пакеты tomcat8.</p>
+
+<p>С подробным статусом поддержки безопасности tomcat8 можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/tomcat8">\
+https://security-tracker.debian.org/tracker/tomcat8</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4281.data"
