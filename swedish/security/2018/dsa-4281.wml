@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="f1d5ad4b409bf9a95786d639542fc79d8232a243" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera problem har upptäckts i servlet- och JSP-motorn Tomcat.
+Dessa kunde leda till icke auktoriserad åtkomst till skyddade
+resurser, överbelastning eller informationsläckage.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 8.5.14-1+deb9u3.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era tomcat8-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om tomcat8 vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/tomcat8">\
+https://security-tracker.debian.org/tracker/tomcat8</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4281.data"
