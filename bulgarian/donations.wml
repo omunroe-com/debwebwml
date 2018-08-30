@@ -1,5 +1,5 @@
 #use wml::debian::template title="Дарения"
-#use wml::debian::translation-check translation="606b5551dc4db7b8107079f0d86258020fb6c718"
+#use wml::debian::translation-check translation="ba01cfdc529712e3626bdf15fd37d39e94126794"
 
 <p>
 Даренията се управляват от
@@ -15,24 +15,40 @@
 Благодарим на всички наши <a href="#donors">дарители</a> за това, че ни подкрепят!
 </p>
 
-<p id="spi-usa-epay">
-Най-лесният начин да направите дарение е да с кредитна или дебитна карта чрез
-USA ePay до <a href="https://www.spi-inc.org/" title="SPI">Software in the
+<p id="default">
+Най-лесният начин да направите дарение е чрез
+PayPal до <a href="https://www.spi-inc.org/" title="SPI">Software in the
 Public Interest</a>, организация с идеална цел, която държи активи на проекта
 Дебиан.
+<!--
 <a href="#other">По-долу</a> са описани и останалите начини да направите
-дарение.</p>
+дарение.
+-->
+</p>
 
-<form method="post" action="https://www.usaepay.com/interface/epayform/">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <div>
- <span>$<input type="text" name="UMamount" size="6"> USD, еднократно дарение</span>
-  <input name="UMdescription" value="Debian general contribution" type="hidden">  <input name="UMkey" value="ijWB0O98meGpX0LrCP0eb1Y94sI1Dl67" type="hidden">
-  <input name="UMcommand" value="sale" type="hidden" />
-  <input type="submit" tabindex="2" value="Даряване" />
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="86AHSZNRR29UU">
+<input type="submit" value="Дарение чрез PayPal" />
 </div>
 </form>
 
-<h2 id="other">Други организации</h2>
+<!--
+Hidden due to an issue with USAePay/Paysimple
+https://lists.debian.org/msgid-search/CABJgS1ZtpcfM3uzA+j9_mp6ocR2H=p4cOcWWs2rjSNwhWYWepw@mail.gmail.com
+<form method="post" action="https://www.usaepay.com/interface/epayform/">
+<div>
+  <span>$<input type="text" name="UMamount" size="6"> USD, paid once only</span>
+  <input name="UMdescription" value="Debian general contribution" type="hidden">
+  <input name="UMkey" value="ijWB0O98meGpX0LrCP0eb1Y94sI1Dl67" type="hidden">
+  <input name="UMcommand" value="sale" type="hidden" />
+  <input type="submit" tabindex="2" value="Donate" />
+</div>
+</form>
+-->
+
+<h2 id="methods">Други начини за изпращане на дарение</h2>
 
 <p>
 Няколко <a href="https://wiki.debian.org/Teams/Treasurer/Organizations">организации</a>
@@ -48,19 +64,24 @@ Public Interest</a>, организация с идеална цел, която
 <tr>
 <td><a href="#spi"><acronym title="Software in the Public Interest">SPI</acronym></a></td>
 <td>
+<a href="#spi-paypal">PayPal</a>,
+<!--
+Hidden due to an issue with USAePay/Paysimple
+https://lists.debian.org/msgid-search/CABJgS1ZtpcfM3uzA+j9_mp6ocR2H=p4cOcWWs2rjSNwhWYWepw@mail.gmail.com
  <a href="#spi-usa-epay">USA ePay</a>,
+-->
  <a href="#spi-click-n-pledge">Click &amp; Pledge</a> (регулярни дарения),
  <a href="#spi-cheque">чек</a> (USD/CAD),
  <a href="#spi-other">други</a>
 </td>
-<td>САЩ, организация с идеална цел и приспадане на данъци</td>
+<td>САЩ, организация с идеална цел, позволява приспадане на данъци</td>
 </tr>
 <tr>
 <td><a href="#ffis"><acronym title="Verein zur Förderung Freier Informationen &amp; Software">FFIS</acronym></a></td>
 <td>
  <a href="#ffis-bank">банков превод</a>
 </td>
-<td>Германия, организация с идеална цел и приспадане на данъци</td>
+<td>Германия, организация с идеална цел, позволява приспадане на данъци</td>
 </tr>
 <tr>
 <td><a href="#debianfrance">Debian France</a></td>
@@ -68,7 +89,7 @@ Public Interest</a>, организация с идеална цел, която
  <a href="#debianfrance-bank">банков превод</a>,
  <a href="#debianfrance-paypal">PayPal</a>
 </td>
-<td>Франция, организация с идеална цел и приспадане на данъци</td>
+<td>Франция, организация с идеална цел, позволява приспадане на данъци</td>
 </tr>
 <tr>
 <td><a href="#debianch">debian.ch</a></td>
@@ -88,7 +109,6 @@ Public Interest</a>, организация с идеална цел, която
 <td></td>
 </tr>
 
-
 # Template:
 #<tr>
 #<td><a href="#"><acronym title=""></acronym></a></td>
@@ -105,21 +125,30 @@ Public Interest</a>, организация с идеална цел, която
  <h3 id="spi">Software in the Public Interest</h3>
 
 <p>
-<a href="https://www.spi-inc.org/" title="SPI">Software in the Public Interest,
-Inc.</a> е организация с идеална цел и приспадане на данъци базирана в
+<a href="https://www.spi-inc.org/" title="SPI">Software in the Public Interest, Inc.</a>
+е организация с идеална цел, базирана в
 Съединените американски щати. Основана е през 1997 от членове на проекта Дебиан
 в помощ на организациите, занимаващи се със свободен софтуер/хардуер.
+</p>
+
+<h4 id="spi-paypal">PayPal</h4>
+<p>
+През
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=86AHSZNRR29UU">страницата на SPI</a>
+в PayPal можете да правите единични или периодични дарения.
+За периодично дарение поставете отметка в полето,
+<q>Make This Recurring (Monthly)</q>.
 </p>
 
 <h4 id="spi-click-n-pledge">Click &amp; Pledge</h4>
 
 <p>
-Единични или регулярни дарения могат да бъдат правени чрез
+Единични или периодични дарения могат да бъдат правени чрез
 <a href="https://co.clickandpledge.com/advanced/default.aspx?wid=34115">страницата на SPI</a>
 на сайта на Click &amp; Pledge.
-За да направите регулярно дарение изберете колко често искате да дарявате
-отдясно, превъртете надолу до „Debian Project Donation“, въведете желаната
-сума, натиснете „Add to cart“ и следвайте инструкциите.
+За да направите периодично дарение изберете колко често искате да дарявате
+отдясно, превъртете надолу до <q>Debian Project Donation</q>, въведете желаната
+сума, натиснете <q>Add to cart</q> и следвайте инструкциите.
 </p>
 
 <!--
@@ -145,7 +174,7 @@ $<input name="DAmount_33979" size="6" id="DAmount_33979" type="text"> USD, paid
 
 <p>
 Възможни са дарения с чек или паричен превод в
-<abbr title="американски долари">USD</abbr> and
+<abbr title="американски долари">USD</abbr> и
 <abbr title="канадски долари">CAD</abbr>.
 Запишете „Debian“ в полето за забележки и изпратете до SPI на адреса указан на
 <a href="https://www.spi-inc.org/donations/">страницата за дарения на SPI</a>.
