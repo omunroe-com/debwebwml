@@ -1,5 +1,5 @@
 #use wml::debian::template title="Autobuilder-netwerk"
-#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
+#use wml::debian::translation-check translation="02de9b22925eb870281ba93d29a61e75d5330383"
 
 <p>Het autobuilder-netwerk is een door Debian ontwikkeld systeem dat zorg
 draagt voor het compileren van pakketten voor alle architecturen die <a
@@ -150,7 +150,7 @@ als een workaround voor pakketten die <tt>dpatch</tt> gebruiken.</li>
 </ul>
 
 <p>U kan meer informatie vinden over hoe u <a
-href="https://buildd.debian.org/docs/buildd-setup.txt">een autobuilder kunt
+href="https://wiki.debian.org/BuilddSetup">een autobuilder kunt
 opzetten</a>.</p>
 
 <h2>Contact opnemen met de autobuilder-beheerders</h2>

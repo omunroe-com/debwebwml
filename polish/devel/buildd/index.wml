@@ -1,5 +1,5 @@
 #use wml::debian::template title="Sieć Autobuilder"
-#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
+#use wml::debian::translation-check translation="02de9b22925eb870281ba93d29a61e75d5330383"
 
 <p>Sieć autobuilder to narzędzie Debiana, które zarządza kompilacją 
 pakietów dla wszystkich architektur 
@@ -147,7 +147,7 @@ pakietów używających <tt>dpatch</tt>.</li>
 </ul>
 
 <p>Więcej informacji jak ustawić autobuilder znajduje się na 
-<a href="https://buildd.debian.org/docs/buildd-setup.txt">tej stronie</a>.</p>
+<a href="https://wiki.debian.org/BuilddSetup">tej stronie</a>.</p>
 
 <h2>Kontakt z administratorami buildd</h2>
 

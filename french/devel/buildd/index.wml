@@ -1,5 +1,5 @@
 #use wml::debian::template title="Réseau de serveurs d'empaquetage automatique" BARETITLE="true"
-#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="David Prévot"
+#use wml::debian::translation-check translation="02de9b22925eb870281ba93d29a61e75d5330383" maintainer="David Prévot"
 
 # Translators:
 # Mohammed Adnène Trojette, 2005-2007.
@@ -187,7 +187,7 @@ de contournement («&nbsp;work-around&nbsp;»).</li>
 </ul>
 
 <p>Vous pouvez lire plus d'informations sur la méthode de mise en place
-d'un <a href="https://buildd.debian.org/docs/buildd-setup.txt">serveur
+d'un <a href="https://wiki.debian.org/BuilddSetup">serveur
 d'empaquetage automatique</a>.</p>
 
 <h2>Contacter les administrateurs «&nbsp;buildd&nbsp;»</h2>

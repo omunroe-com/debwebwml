@@ -155,7 +155,7 @@ che usano <tt>dpatch</tt>.</li>
 </ul>
 
 <p>Qui puoi trovare ulteriori informazioni su come
-<a href="https://buildd.debian.org/docs/buildd-setup.txt">installare un nodo buildd</a>.</p>
+<a href="https://wiki.debian.org/BuilddSetup">installare un nodo buildd</a>.</p>
 
 <h2>Contattare gli amministratori dei nodi buildd</h2>
 
