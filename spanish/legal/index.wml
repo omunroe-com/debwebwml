@@ -1,5 +1,5 @@
 #use wml::debian::template title="Aspectos legales"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="3982afa259f29366b3b5b16b6bb0fcddbff7260e"
 
 # TODO: a better introduction!
 <p>Esta sección de la web de Debian es para aspectos legales. (Nota
@@ -7,12 +7,13 @@ del traductor: Debe tomarse en cuenta que cada país tiene sus propias
 normas jurídicas. La traducción corresponde a los aspectos legales
 vigentes en los EE.UU.)</p>
 
-<h2>Cuestiones actuales</h2>
+<h2>Información legal</h2>
 
 <ul>
  <li><a href="licenses/">Resúmenes de licencias</a></li>
  <li><a href="$(HOME)/trademark">Marcas registradas</a></li>
-
+ <li><a href="privacy">Privacidad de los datos</a></li>
+ <li><a href="patent">Normativa de patentes</a></li>
   <li><a href="cryptoinmain">Criptografía en <em>main</em></a>
     <ul>
       <li><a href="notificationforarchive">Notificación inicial del archivo</a></li>
@@ -20,7 +21,6 @@ vigentes en los EE.UU.)</p>
     </ul>
   </li>
   <li><a href="anssi">Atestado de importación/exportación de Criptografía</a></li>
-  <li><a href="patent">Política de patentes</a></li>
 
 </ul>
 
