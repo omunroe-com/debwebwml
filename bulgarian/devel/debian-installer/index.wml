@@ -14,7 +14,6 @@
 <h1>Инсталиране на Дебиан с инсталатора</h1>
 
 <p>
-</if-stable-release>
 <if-stable-release release="stretch">
 <strong>За официалните носители и информация за инсталиране на Дебиан
 <current_release_stretch></strong> вижте
@@ -24,6 +23,7 @@
 <strong>За официалните носители и информация за инсталиране на Дебиан
 <current_release_buster></strong> вижте
 <a href="$(HOME)/releases/buster/debian-installer">страницата за buster</a>.
+</if-stable-release>
 </p>
 
 <div class="tip">
