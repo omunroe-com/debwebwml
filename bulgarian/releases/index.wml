@@ -1,5 +1,5 @@
 #use wml::debian::template title="Издания на Дебиан"
-#use wml::debian::translation-check translation="7262abedfc4a245b571f417836f9c93d140f8134"
+#use wml::debian::translation-check translation="5182e9999d26541c0f07c58dc26b6e27996fd193"
 #include "$(ENGLISHDIR)/releases/info"
 
 <p>Във всеки момент Дебиан има поне три различни, активно поддържани издания:
