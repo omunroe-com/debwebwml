@@ -1,6 +1,6 @@
 #use wml::debian::template title="Сайта на Дебиан на различни езици" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="5503938e18f6554298cec23bac0d12bcbec75849"
+#use wml::debian::translation-check translation="1ca12fe9834fe5c9cf51372a9682c92e7b333cc7"
 
 <protect pass=2>
 <:
@@ -31,6 +31,9 @@ href="$(HOME)/devel/website/content_negotiation">договаряне на
 бъде показана отново в оригиналния език. За да промените езика <em>по
 подразбиране</em> трябва да промените настройките на браузъра, както е описано
 по-долу.</p>
+
+<p>Допълнителна информация за указване на предпочитания език има на следната
+<a href="http://www.w3.org/International/questions/qa-lang-priorities">страница на W3C</a>.</p>
 
 <ul>
 <li><a href="#fix">Какво да направя ако страница в сайта на Дебиан е на грешен език?</a></li>
@@ -141,44 +144,53 @@ href="http://httpd.apache.org/docs/2.2/content-negotiation.html">докумен�
 
 <h3><a name="setting">Настройване на предпочитания език в браузъра</a></h3>
 
-<p>За да укажете предпочитан език в браузъра е необходимо да настроите
-променлива, която да се изпраща до уеб сървъра. Как става това зависи от
-използвания браузър.</p>
+<p>За да укажете предпочитан език в браузъра е необходимо да промените
+настройките. Как става това зависи от използвания браузър.</p>
 
 <dl>
 
-  <dt><strong><toc-add-entry name="mozilla">Mozilla</toc-add-entry> /
-  <toc-add-entry name="netscape">Netscape 4.x</toc-add-entry> и по-нови
-  версии</strong></dt>
+  <dt><strong><toc-add-entry name="chromium">Chrome и Chromium</toc-add-entry></strong></dt>
   <dd>
-  <pre>
-     Edit -&gt; Preferences -&gt; Navigator -&gt; Languages
-  </pre>
-  Забележка: за Netscape 4.x трябва да проверите дали езика от предложения
-  списък. Доста хора съобщават за проблеми при въвеждане на ръка.
+  <pre>Customize and control Chromium -&gt; Settings -&gt; Show advanced settings -&gt; Languages -&gt; Language and input settings</pre>
   </dd>
 
-  <dt><strong><toc-add-entry name="mozillafirefox">Mozilla
-  Firefox</toc-add-entry></strong></dt>
+  <dt><strong><toc-add-entry name="elinks">ELinks</toc-add-entry></strong></dt>
+  <dd>Можете да зададете езика по подразбиране за интерфейса:
+  <pre>
+    Setup -&gt; Language
+  </pre>
+  Това ще промени и искания език от уеб сайтовете. Можете да промените тази
+  функционалност и други фини настройки в:
+  <pre>
+    Setup -&gt; Options manager -&gt; Protocols -&gt; HTTP
+  </pre>
+  </dd>
+
+  <dt><strong><toc-add-entry name="epiphany">Epiphany</toc-add-entry></strong></dt>
+  <dd>
+  <pre>
+     Edit -&gt; Preferences -&gt; Language -&gt; Languages
+  </pre>
+  </dd>
+
+  <dt><strong><toc-add-entry name="mozillafirefox">Firefox</toc-add-entry></strong></dt>
   <dd>
   Версия 3.0 и по-нова:<br/>
   Linux:
   <pre>
-     Редактиране -&gt; Настройки -&gt; Съдържание -&gt; Езици -&gt; Избиране...
-     (Edit -&gt; Preferences -&gt; Content -&gt; Languages -&gt; Choose...)
+     Edit -&gt; Preferences -&gt; Content -&gt; Languages -&gt; Choose...
   </pre>
   Windows:
   <pre>
-     Инструменти -&gt; Настройки -&gt; Общи -&gt; Езици -&gt; Избор
-     (Tools -&gt; Options -&gt; General -&gt; Languages -&gt; Choose)
+     Tools -&gt; Options -&gt; Content -&gt; Languages -&gt; Choose...
   </pre>
   Mac OS:
   <pre>
-    Firefox -&gt; Preferences -&gt; Content -&gt; Languages -&gt; Choose...
+     Firefox -&gt; Preferences -&gt; Content -&gt; Languages -&gt; Choose...
   </pre>
 
-  <br/>
-  Версия 1.5 и по-нова:<br/>
+  <br />
+  Версия 1.5 и по-нова:<br />
   Linux:
   <pre>
      Edit -&gt; Preferences -&gt; Advanced -&gt; General -&gt; Edit Languages
@@ -203,16 +215,35 @@ href="http://httpd.apache.org/docs/2.2/content-negotiation.html">докумен�
   промените стойността на <kbd>intl.accept_languages</kbd>.
   </dd>
 
-  <dt><strong><toc-add-entry name="iceweasel">Iceweasel</toc-add-entry></strong></dt>
+  <dt><strong><toc-add-entry name="galeon">Galeon</toc-add-entry></strong></dt>
   <dd>
   <pre>
-     Редактиране -&gt; Настройки -&gt; Съдържание -&gt; Езици -&gt; Избиране
-     (Edit -&gt; Preferences -&gt; Content -&gt; Languages -&gt; Choose)
+     Settings -&gt; Preferences -&gt; Rendering -&gt; Languages
   </pre>
   </dd>
 
-  <dt><strong><toc-add-entry name="ie">Internet
-  Explorer</toc-add-entry></strong></DT>
+  <dt><strong><toc-add-entry name="ibrowse">IBrowse</toc-add-entry></strong></dt>
+  <dd>Изберете меню Preferences, след това Settings и накрая Network.
+  Под „Accept language“ вероятно ще е изписано „*“.  Ако натиснете бутона
+  „Locale“ ще можете да добавите желания език. Друга възможност е да го
+  въведете ръчно. След това натиснете „OK“.
+  </dd>
+
+  <dt><strong><toc-add-entry name="icab">iCab</toc-add-entry></strong></dt>
+  <dd>
+  <pre>
+     Edit -&gt; Preferences -&gt; Browser -&gt; Fonts, Languages
+  </pre>
+  </dd>
+
+  <dt><strong><toc-add-entry name="iceweasel">Iceweasel</toc-add-entry></strong></dt>
+  <dd>
+  <pre>
+     Edit -&gt; Preferences -&gt; Content -&gt; Languages -&gt; Choose
+  </pre>
+  </dd>
+
+  <dt><strong><toc-add-entry name="ie">Internet Explorer</toc-add-entry></strong></dt>
   <dd>Windows:
   <pre>
      Tools или View или Extras -&gt; Internet Options -&gt; (General) Languages
@@ -225,61 +256,9 @@ href="http://httpd.apache.org/docs/2.2/content-negotiation.html">докумен�
   </pre>
   </dd>
 
-  <dt><strong><toc-add-entry name="pie">Pocket Internet
-  Explorer</toc-add-entry></strong></dt>
-  <dd>
-  # Windows Mobile 2003/2003SE/5.0
-  <pre>
-     В регистъра създайте ключ от тип текстов низ и име <q>AcceptLanguage</q>
-     в HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\International\\
-     и стойност <q>bg; q=1.0, en; q=0.5</q> (без кавичките).
-  </pre>
-  </dd>
-
-  <dt><strong><toc-add-entry name="opera">Opera</toc-add-entry></strong></DT>
-  <dd>Повечето версии:
-  <pre>
-     File -&gt; Preferences -&gt; Languages
-  </pre>
-  </dd>
-
-  <dd>Linux/*BSD версии 5.x и 6.x:
-  <pre>
-     File -&gt; Preferences -&gt; Document -&gt; Languages
-  </pre>
-  </dd>
-
-  <dd>Уеб браузъра на Nokia 770:
-     Редактирайте файла /home/user/.opera/opera.ini и добавете следния ред
-     в секцията [Adv User Prefs]:
-  <pre>
-     HTTP Accept Language=bg;q=1.0,en;q=0.5
-  </pre>
-  </dd>
-
-  <dt><strong><toc-add-entry name="galeon">Galeon</toc-add-entry></strong></dt>
-  <dd>
-  <pre>
-     Settings -&gt; Preferences -&gt; Rendering -&gt; Languages
-  </pre>
-  </dd>
-
-  <dt><strong><toc-add-entry name="epiphany">Epiphany</toc-add-entry></strong></dt>
-  <dd>
-  <pre>
-     Edit -&gt; Preferences -&gt; Language -&gt; Languages
-  </pre>
-  </dd>
-
   <dt><strong><toc-add-entry name="konqueror">Konqueror</toc-add-entry></strong></dt>
   <dd>
-  Указването на един предпочитан език би трябвало да е много лесно след
-  поправянето на грешка <a href="https://bugs.debian.org/358459">№358459</a> –
-  просто го изберете в контролния център на КДЕ и рестартирайте сесията, за да
-  приложите промените.
-  <br />
-  Ако искате да зададете повече от един език или желаете да заобиколите
-  горната грешка, ще трябва да редактирате файла
+  Редактирайте файла
   <kbd>~/.kde/share/config/kio_httprc</kbd> и да добавите следния
   примерен текст:
   <pre>
@@ -299,25 +278,51 @@ href="http://httpd.apache.org/docs/2.2/content-negotiation.html">докумен�
   </pre>
   </dd>
 
-  <dt><strong><toc-add-entry name="w3">W3</toc-add-entry></strong> (уеб
-  браузър, базиран ма emacs)</dt>
-  <dd>
-  <pre>(setq url-mime-language-string  "preferred_language=bg; q=1.0, en; q=0.5")</pre>
-  или със специализирания пакет (със URL версия p4.0pre.14):
-  <pre>Hypermedia -&gt; URL -&gt; Mime -&gt; Mime Language String...</pre>
-  </dd>
-
-  <dt><strong><toc-add-entry name="icab">iCab</toc-add-entry></strong></dt>
+  <dt><strong><toc-add-entry name="mozilla">Mozilla</toc-add-entry> /
+  <toc-add-entry name="netscape">Netscape 4.x</toc-add-entry> и по-нови
+  версии</strong></dt>
   <dd>
   <pre>
-     Edit -&gt; Preferences -&gt; Browser -&gt; Fonts,Languages
+     Edit -&gt; Preferences -&gt; Navigator -&gt; Languages
+  </pre>
+  Забележка: за Netscape 4.x трябва да проверите дали езика от предложения
+  списък. Доста хора съобщават за проблеми при въвеждане на ръка.
+  </dd>
+
+  <dt><strong><toc-add-entry name="netscape3">Netscape 3.x</toc-add-entry></strong></dt>
+  <dd>Добавете
+  <pre>
+     *httpAcceptLanguage: [preferred_language string]
+  </pre>
+  във файла app-defaults на Netscape или <kbd>~/.Xresources</kbd>
+  </dd>
+
+  <dt><strong><toc-add-entry name="opera">Opera</toc-add-entry></strong></DT>
+  <dd>Повечето версии:
+  <pre>
+     File -&gt; Preferences -&gt; Languages
+  </pre>
+  </dd>
+  <dd>Linux/*BSD версии 5.x и 6.x:
+  <pre>
+     File -&gt; Preferences -&gt; Document -&gt; Languages
+  </pre>
+  </dd>
+  <dd>Уеб браузъра на Nokia 770:
+     Редактирайте файла /home/user/.opera/opera.ini и добавете следния ред
+     в секцията [Adv User Prefs]:
+  <pre>
+     HTTP Accept Language=bg;q=1.0,en;q=0.5
   </pre>
   </dd>
 
-  <dt><strong><toc-add-entry name="w3m">W3M</toc-add-entry></strong></dt>
+  <dt><strong><toc-add-entry name="pie">Pocket Internet Explorer</toc-add-entry></strong></dt>
   <dd>
+  # Windows Mobile 2003/2003SE/5.0
   <pre>
-     Options (o) -&gt; Other Behavior -&gt; Accept-Language
+     В регистъра създайте ключ от тип текстов низ и име <q>AcceptLanguage</q>
+     в HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\International\\
+     и стойност <q>bg; q=1.0, en; q=0.5</q> (без кавичките).
   </pre>
   </dd>
 
@@ -329,40 +334,23 @@ href="http://httpd.apache.org/docs/2.2/content-negotiation.html">докумен�
   </pre>
   </dd>
 
-  <dt><strong><toc-add-entry name="elinks">ELinks</toc-add-entry></strong></dt>
-  <dd>Можете да зададете езика по подразбиране за интерфейса:
-  <pre>
-    Setup -&gt; Language
-  </pre>
-  Това ще промени и искания език от уеб сайтовете. Можете да промените тази
-  функционалност и други фини настройки в:
-  <pre>
-    Setup -&gt; Options manager -&gt; Protocols -&gt; HTTP
-  </pre>
-  </dd>
-
-  <dt><strong><toc-add-entry name="netscape3">Netscape 3.x</toc-add-entry></strong></dt>
-  <dd>Добавете
-  <pre>
-     *httpAcceptLanguage: [preferred_language string]
-  </pre>
-  във файла app-defaults на Netscape или <kbd>~/.Xresources</kbd>
-  </dd>
-
-  <dt><strong><toc-add-entry name="ibrowse">IBrowse</toc-add-entry></strong></dt>
-  <dd>Изберете меню Preferences, след това Settings и накрая Network.
-  Под „Accept language“ вероятно ще е изписано „*“.  Ако натиснете бутона
-  „Locale“ ще можете да добавите желания език. Друга възможност е да ги
-  въведете ръчно. След това натиснете „OK“.
-  </dd>
-
   <dt><strong><toc-add-entry name="voyager">Voyager</toc-add-entry></strong></dt>
-  <dd>Изберете меню Settings, след това Languages.  Можете да въведете език
+  <dd>Изберете меню Settings, след това Languages. Можете да въведете език
   ръчно или да натиснете „Get from locale“.  Изберете „OK“ за да потвърдите.
   </dd>
 
-  <dt><strong><toc-add-entry name="chromium">Chromium</toc-add-entry></strong></dt>
-  <dd><pre>Customize and control Chromium -&gt; Settings -&gt; Show advanced settings -&gt; Languages -&gt; Language and input settings</pre>
+  <dt><strong><toc-add-entry name="w3">W3</toc-add-entry></strong> (уеб браузър, базиран ма emacs)</dt>
+  <dd>
+  <pre>(setq url-mime-language-string  "preferred_language=bg; q=1.0, en; q=0.5")</pre>
+  или със специализирания пакет (с URL версия p4.0pre.14):
+  <pre>Hypermedia -&gt; URL -&gt; Mime -&gt; Mime Language String...</pre>
+  </dd>
+
+  <dt><strong><toc-add-entry name="w3m">W3M</toc-add-entry></strong></dt>
+  <dd>
+  <pre>
+     Options (o) -&gt; Other Behavior -&gt; Accept-Language
+  </pre>
   </dd>
 
 </dl>
