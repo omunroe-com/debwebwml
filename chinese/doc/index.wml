@@ -1,11 +1,11 @@
-#use wml::debian::template title="說明[CN:文檔:][HKTW:文件:]"
-#use wml::debian::translation-check translation="755893e6e0cd2bdf43a98ad6c7d58a4d54b496a6"
+#use wml::debian::template title="說明[CN:文档:][HKTW:文件:]"
+#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618"
 
-<p>說明[CN:文檔:][HKTW:文件:][CN:与:][HKTW:與:]使用手冊在每一個[CN:操作系統:][HKTW:作業系統:]中都是很重要的一部份，是描述\
-程序操作和使用的技术手册。正由[CN:于:][HKTW:於:]說明[CN:文檔:][HKTW:文件:]\
+<p>說明[CN:文档:][HKTW:文件:][CN:与:][HKTW:與:]使用手冊在每一個[CN:操作系統:][HKTW:作業系統:]中都是很重要的一部份，是描述\
+程序操作和使用的[CN:技术:][HKTW:技術:]手册。正由[CN:于:][HKTW:於:]說明[CN:文档:][HKTW:文件:]\
 是[CN:創建:][HKTW:建立:]一個高品質而自由的[CN:操作系統:][HKTW:作業系統:]的重要部份，Debian 計畫花了很大的心血\
-為它的[CN:用戶:][HKTW:使用者:]們提供好讀而[CN:适:][HKTW:適:]當的\
-說明[CN:文檔:][HKTW:文件:]。</p>
+為它的[CN:用户:][HKTW:使用者:]們提供好讀而[CN:适:][HKTW:適:]當的\
+說明[CN:文档:][HKTW:文件:]。</p>
 
 <h2>快速入門</h2>
 
@@ -17,18 +17,18 @@
   <li><a href="manuals/debian-faq/">Debian GNU/Linux 常見問題</a></li>
 </ul>
 
-<p>在您第一次安裝 Debian 時先準備好以上文件，它們\
+<p>在您第一次安裝 Debian 時先準備好以上[CN:文档:][HKTW:文件:]，它們\
 可以回答許多問題並幫助您使用您新裝好的 Debian
-系統。之後您可能想繼續閱讀以下文件：</p>
+系統。之後您可能想繼續閱讀以下[CN:文档:][HKTW:文件:]：</p>
 
 <ul>
-  <li><a href="manuals/debian-handbook/">Debian 管理员手册</a>，综合性的用户手册</li>
+  <li><a href="manuals/debian-handbook/">Debian [CN:管理员:][HKTW:管理員:]手册</a>，综合性的[CN:用户:][HKTW:使用者:]手册</li>
   <li><a href="manuals/debian-reference/">Debian 參考手冊</a>，\
-一个简洁的用户指南，重点是shell命令行</li>
+[CN:一个简洁的命令行用户指南，:][HKTW:一個簡潔的命令列指令使用導覽:]</li>
   <li><a href="$(HOME)/releases/stable/releasenotes">發行說明</a>，\
-正在升級系統的人可以參考</li>
+給正在升級系統的人</li>
   <li><a href="https://wiki.debian.org/">Debian Wiki</a>，\
-很好的資訊來源</li>
+給新手的資訊來源</li>
 </ul>
 
 
@@ -36,25 +36,24 @@
 href="https://www.debian.org/doc/manuals/refcard/refcard">Debian GNU/Linux 參考\
 卡</a>在手上，此卡列出了 Debian 系統上最重要的幾個指令。</p>
 
-<p>底下還列出一些其他的參考文件。</p>
+<p>底下還列出一些其他的參考[CN:文档:][HKTW:文件:]。</p>
 
 <h2>文件類型</h2>
 
-<p>大部份 Debian 所含的說明[CN:文檔:][HKTW:文件:]都是為[CN:常規:][HKTW:一般:] GNU/Linux
-所寫的。另外也有專為 Debian 寫的一些[CN:文檔:][HKTW:文件:]。\
-這些[CN:文檔:][HKTW:文件:]大致分為以下[CN:几:][HKTW:幾:][CN:种:][HKTW:種:]：</p>
+<p>大部份 Debian 所含的說明[CN:文档:][HKTW:文件:]都是為[CN:常規:][HKTW:一般:] GNU/Linux
+所寫的。另外也有專為 Debian 寫的一些[CN:文档:][HKTW:文件:]。\
+這些[CN:文档:][HKTW:文件:]大致分為以下[CN:几种:][HKTW:幾種:]：</p>
 
 <ul>
   <li><a href="#manuals">使用手冊（Manuals）</a></li>
   <li><a href="#howtos">HOWTOs</a></li>
   <li><a href="#faqs">常見問題集（FAQs）</a></li>
-  <li><a href="#other">其他說明[CN:文檔:][HKTW:文件:]</a></li>
+  <li><a href="#other">其他說明[CN:文档:][HKTW:文件:]</a></li>
 </ul>
 
 <h3 id="manuals">使用手冊（Manuals）</h3>
 
-<p>使用手冊就有點像是書，廣泛地描述一些主要
-话题。</p>
+<p>使用手冊照著書編排，廣泛地描述一些[CN:主要话题:][HKTW:主題:]。</p>
 
 <h3>專為 Debian 撰寫的使用手冊</h3>
 
@@ -67,10 +66,10 @@ href="https://www.debian.org/doc/manuals/refcard/refcard">Debian GNU/Linux 參�
       <li><a href="user-manuals#install">Debian 安裝手冊</a></li>
       <li><a href="user-manuals#relnotes">Debian 發行說明</a></li>
       <li><a href="user-manuals#refcard">Debian 參考卡</a></li>
-      <li><a href="user-manuals#debian-handbook">Debian 管理员手册</a></li>
+      <li><a href="user-manuals#debian-handbook">Debian [CN:管理员:][HKTW:管理員:]手册</a></li>
       <li><a href="user-manuals#quick-reference">Debian 參考手冊</a></li>
       <li><a href="user-manuals#securing">Debian 安全手冊</a></li>
-      <li><a href="user-manuals#aptitude">aptitude 用户手册</a></li>
+      <li><a href="user-manuals#aptitude">aptitude [CN:用户:][HKTW:使用者:]手册</a></li>
       <li><a href="user-manuals#java-faq">Debian GNU/Linux [CN:与:][HKTW:與:] Java 常見問題</a></li>
     </ul>
 
@@ -80,22 +79,22 @@ href="https://www.debian.org/doc/manuals/refcard/refcard">Debian GNU/Linux 參�
 
     <h4><a href="devel-manuals">開發者手冊</a></h4>
     <ul>
-      <li><a href="devel-manuals#policy">Debian 政策[CN:文檔:][HKTW:文件:]</a></li>
-      <li><a href="devel-manuals#devref">Debian 開發者參考[CN:文檔:][HKTW:文件:]</a></li>
-      <li><a href="devel-manuals#maint-guide">Debian 新維護者指南</a></li>
-      <li><a href="devel-manuals#debmake-doc">Debian 维护者指南</a></li>
-      <li><a href="devel-manuals#packaging-tutorial">Debian 软件包介绍</a></li>
+      <li><a href="devel-manuals#policy">Debian 政策[CN:文档:][HKTW:文件:]</a></li>
+      <li><a href="devel-manuals#devref">Debian 開發者參考[CN:文档:][HKTW:文件:]</a></li>
+      <li><a href="devel-manuals#debmake-doc">Debian [CN:维护者:][HKTW:維護者:]指南</a></li>
+      <li><a href="devel-manuals#maint-guide">Debian 新[CN:维护者:][HKTW:維護者:]指南</a></li>
+      <li><a href="devel-manuals#packaging-tutorial">Debian [CN:软件包:][HKTW:套件:][CN:制:][HKTW:製:]作介绍</a></li>
       <li><a href="devel-manuals#menu">Debian 目錄系統</a></li>
       <li><a href="devel-manuals#i18n">[CN:軟件:][HKTW:軟體:]國際化（i18n）介紹</a></li>
-      <li><a href="devel-manuals#d-i-internals">Debian 安装程序内部</a></li>
-      <li><a href="devel-manuals#dbconfig-common">使用数据库的软件包维护者指南</a></li>
-      <li><a href="devel-manuals#dbapp-policy">使用数据库的软件包政策</a></li>
+      <li><a href="devel-manuals#d-i-internals">Debian [CN:安装程序:][HKTW:安裝程式:]内部</a></li>
+      <li><a href="devel-manuals#dbconfig-common">使用[CN:数据库:][HKTW:資料庫:]的[CN:软件包:][HKTW:套件:][CN:维护者:][HKTW:維護者:]指南</a></li>
+      <li><a href="devel-manuals#dbapp-policy">使用[CN:数据库:][HKTW:資料庫:]的[CN:软件包:][HKTW:套件:]的政策</a></li>
     </ul>
 
     <h4><a href="misc-manuals">其他手冊</a></h4>
     <ul>
       <li><a href="misc-manuals#history">Debian [CN:项目:][HKTW:專案:]歷史</a></li>
-      <li><a href="misc-manuals#markup">Debiandoc-SGML 标记语言手册</a></li>
+      <li><a href="misc-manuals#markup">Debiandoc-SGML [CN:标记语言:][HKTW:標記語言:]手册</a></li>
       <li><a href="misc-manuals#sgml-howto">Debian SGML/XML HOWTO</a></li>
     </ul>
 
@@ -104,36 +103,36 @@ href="https://www.debian.org/doc/manuals/refcard/refcard">Debian GNU/Linux 參�
 
 </div>
 
-<p class="clr">Debian 的使用手冊及其他說明[CN:文檔:][HKTW:文件:]的完整列表放\
-在 <a href="ddp">Debian 文档计划</a> [CN:网:][HKTW:網:]頁裡。</p>
+<p class="clr">Debian 的使用手冊及其他說明[CN:文档:][HKTW:文件:]的完整[CN:列表:][HKTW:清單:]放\
+在 <a href="ddp">Debian [CN:文档计划:][HKTW:文件計畫:]</a> [CN:网:][HKTW:網:]頁裡。</p>
 
-<p>另外也有一些為 Debian GNU/Linux，以[CN:用戶:][HKTW:使用者:]觀點寫成的說明[CN:文檔:][HKTW:文件:]，\
-已印[CN:制:][HKTW:製:]成<a href="books">纸质書籍</a>。</p>
+<p>另外也有一些為 Debian GNU/Linux，以[CN:用户:][HKTW:使用者:]觀點寫成的說明[CN:文档:][HKTW:文件:]，\
+已印[CN:制:][HKTW:製:]成<a href="books">[CN:纸质:][HKTW:紙本:]書籍</a>。</p>
 
 <h3>通用 GNU/Linux 使用手冊</h3>
 
-<p>有些最常見的 Linux 說明[CN:文檔:][HKTW:文件:][CN:与:][HKTW:與:]手冊在：\
+<p>有些最常見的 Linux 說明[CN:文档:][HKTW:文件:][CN:与:][HKTW:與:]手冊在：\
 <a href="http://www.tldp.org/LDP/gs/gs.html">Linux 安裝[CN:与:][HKTW:與:]\
 開始使用 Linux</a>、\
 <a href="http://www.ibiblio.org/pub/Linux/docs/linux-doc-project/users-guide/">\
-Linux [CN:用戶:][HKTW:使用者:]指南</a>、\
+Linux [CN:用户:][HKTW:使用者:]指南</a>、\
 <a href="http://www.tldp.org/LDP/nag/nag.html">[CN:網絡:][HKTW:網路:]管理者\
 指南</a>、\
 <a href="http://www.tldp.org/LDP/sag/">系統管理者\
 指南</a>，以及其他。</p>
 
-<p>Linux 說明[CN:文檔:][HKTW:文件:]有個專門的計劃：\
-<a href="http://www.tldp.org/">Linux 說明[CN:文檔:][HKTW:文件:]計劃</a>（LDP）。\
+<p>Linux 說明[CN:文档:][HKTW:文件:]有個專門的計劃：\
+<a href="http://www.tldp.org/">Linux 說明[CN:文档:][HKTW:文件:]計劃</a>（LDP）。\
 您可以在\
-<a href="http://www.tldp.org/guides.html">他們的[CN:站點:][HKTW:網站:]</a>找到完整的 LDP 說明[CN:文檔:][HKTW:文件:]，還有\
-很多其他的說明[CN:文檔:][HKTW:文件:]，電子[CN:文件:][HKTW:檔:][CN:与:][HKTW:與:]書籍都有。</p>
+<a href="http://www.tldp.org/guides.html">他們的[CN:站點:][HKTW:網站:]</a>找到完整的 LDP 說明[CN:文档:][HKTW:文件:]，還有\
+很多其他的說明[CN:文档:][HKTW:文件:]，電子[CN:文件:][HKTW:檔:][CN:与:][HKTW:與:]書籍都有。</p>
 
 
 <h3 id="howtos">HOWTOs</h3>
 
 <p><a href="http://www.tldp.org/docs.html#howto">HOWTO
-[CN:文檔:][HKTW:文件:]</a>，就如其名，是告訴您<em>如何（how to）</em>做\
-某些事情的[CN:文檔:][HKTW:文件:]。通常它們都是針對某個主題而寫的[CN:文檔:][HKTW:文件:]。</p>
+[CN:文档:][HKTW:文件:]</a>，就如其名，是告訴您<em>如何（how to）</em>做\
+某些事情的[CN:文档:][HKTW:文件:]。通常它們都是針對某個主題而寫的[CN:文档:][HKTW:文件:]。</p>
 
 <p>一些最重要的 Linux HOWTO 有：</p>
 
@@ -159,44 +158,44 @@ Linux [CN:用戶:][HKTW:使用者:]指南</a>、\
 <h3 id="faqs">常見問題集（FAQ）</h3>
 
 <p>FAQ 是指 <em>常見問題集（Frequently Asked Questions）</em>，也就是\
-包含一些問題[CN:与:][HKTW:與:]其解答的[CN:文檔:][HKTW:文件:]。</p>
+包含一些問題[CN:与:][HKTW:與:]其解答的[CN:文档:][HKTW:文件:]。</p>
 
 <p>特別針對 Debian 的問答集在
 <a href="manuals/debian-faq/">Debian FAQ</a>中。\
-此外還有<a href="../CD/faq/">关于 Debian CD/DVD 映像的
+此外還有<a href="../CD/faq/">[CN:关于:][HKTW:關於:] Debian CD/DVD 映像檔的
 FAQ</a>。</p>
 
 
-<h3 id="other">其他較短的說明[CN:文檔:][HKTW:文件:]</h3>
+<h3 id="other">其他較短的說明[CN:文档:][HKTW:文件:]</h3>
 
-<p>以下[CN:文檔:][HKTW:文件:]包含一些較快速、較短的說明：</p>
+<p>以下[CN:文档:][HKTW:文件:]包含一些較快速、較短的說明：</p>
 
 <dl>
 
   <dt><strong><a href="http://www.tldp.org/docs.html#man">[CN:程序:][HKTW:程式:]使用指南（manual pages）</a></strong></dt>
     <dd>在過去，所有的 Unix [CN:程序:][HKTW:程式:]都有相關的<em>使用\
 指南（manual pages）</em>，可以透過 <tt>man</tt>
-        [CN:命令:][HKTW:指令:]來觀看相關的參考說明。不過通常對新[CN:用戶:][HKTW:使用者:]來說，閱讀這類使用指南較為困難。您可以\
+        [CN:命令:][HKTW:指令:]來觀看相關的參考說明。不過通常對新[CN:用户:][HKTW:使用者:]來說，閱讀這類使用指南較為困難。您可以\
 在 <a href="https://manpages.debian.org/cgi-bin/man.cgi">https://manpages.debian.org/</a> 閱讀和搜尋\
-所有 Debian 包含的手冊文件。
+所有 Debian 包含的手冊[CN:文档:][HKTW:文件:]。
     </dd>
 
-  <dt><strong><a href="http://www.gnu.org/software/texinfo/manual/texinfo/html_node/index.html">[CN:程序:][HKTW:程式:]詳細文檔（info files）</a></strong></dt>
+  <dt><strong><a href="http://www.gnu.org/software/texinfo/manual/texinfo/html_node/index.html">[CN:程序:][HKTW:程式:]詳細[CN:文档:][HKTW:文件:]（info files）</a></strong></dt>
     <dd>許多 GNU 軟體都透過<em>[CN:程序:][HKTW:程式:]詳細\
-文檔（info files）</em>而不是使用指南提供參考文件。這些檔案包含了[CN:程序:][HKTW:程式:]的詳細\
+[CN:文档:][HKTW:文件:]（info files）</em>而不是使用指南提供參考文件。這些檔案包含了[CN:程序:][HKTW:程式:]的詳細\
 資訊，包括了[CN:程序:][HKTW:程式:]本身，參數以及範例等，\
-可以透過 <tt>man</tt>
+可以透過 <tt>info</tt>
     [CN:命令:][HKTW:指令:]來觀看。
     </dd>
 
   <dt><strong>各[CN:种:][HKTW:種:]讀我（README）[CN:文件:][HKTW:檔案:]</strong></dt>
     <dd><em>讀我（read me）</em>[CN:文件:][HKTW:檔案:]也是很常見的，通常是簡單的\
-[CN:文本文件:][HKTW:文字檔:]，描述一些簡單的事情，例如套件的相關[CN:信息:][HKTW:資訊:]。您可以\
+[CN:文本文件:][HKTW:文字檔:]，描述一些簡單的事情，例如[CN:软件包:][HKTW:套件:]的相關[CN:信息:][HKTW:資訊:]。您可以\
 在您 Debian 系统的 <tt>/usr/share/doc/</tt> 底下很多子目錄中找到一大堆\
-讀我[CN:文件:][HKTW:檔案:]。每個套件都有一個自己的子目錄\
+讀我[CN:文件:][HKTW:檔案:]。每個[CN:软件包:][HKTW:套件:]都有一個自己的子目錄\
 包含讀我[CN:文件:][HKTW:檔案:]，有的還有\
 設定範例檔。注意，通常大型程式的文件\
-都是在獨立的套件內（與原套件同名，\
+都是在獨立的[CN:软件包:][HKTW:套件:]內（與原[CN:软件包:][HKTW:套件:]同名，\
 <em>-doc</em> 結尾）。
     </dd>
 

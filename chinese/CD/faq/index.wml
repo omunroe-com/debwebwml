@@ -1,8 +1,9 @@
 #use wml::debian::cdimage title="關於 Debian CDs 的常見問答集" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="e78f7168a9ae444c57a5c4a99517aff9369dd28c" maintainer="Kanru Chen"
+#use wml::debian::translation-check translation="82597f0ab0bfe72d63387dda56fe038a99d7bea9" maintainer="Kanru Chen"
 #include "$(ENGLISHDIR)/releases/info"
 # Translator: Allen Huang <allen.huang@seed.net.tw>, Wed, 26 Mar 2003 13:11:59 +0800
+# Translator: Shen-Ta Hsieh <ibmibmibm.tw@gmail.com>, Fri, 31 Aug 2018 17:35:40 +0800
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <p><strong>%body</strong></p>
@@ -10,15 +11,11 @@
 
 <h1><a name="top">常見問答集</a></h1>
 
-<define-tag gototop whitespace=delete>
-<p class="right"><a href="#top"><img src="top.png" alt="Top of page" width="11" height="11"></a></p>
-</define-tag>
-
 <toc-display/>
 
 
 
-<toc-add-entry name="what-is">到底什麼是 "光碟映像檔"？</toc-add-entry>
+<toc-add-entry name="what-is">到底什麼是 <q>光碟映像檔</q>？</toc-add-entry>
 
 <p>一個光碟映像檔代表的正是在一片光碟裏的電腦檔案資料，
 其可利用在網際網路上進行傳輸。光碟燒錄程式也可利用映像檔來製作成一般的光碟。</p>
@@ -35,7 +32,6 @@
 <a href="#record-unix">Linux</a>, <a href="#record-windows">Windows</a>
 或<a href="#record-mac">MacOS</a> 上製作正確光碟映像檔的說明。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="mailing-list">我的問題在常見問答集中找不到解答！</toc-add-entry>
@@ -59,38 +55,37 @@
   在這裏詢問會比在 debian-cd 詢問，來得恰當。</li>
 
   <li><a href="https://lists.debian.org/debian-live/">debian-live</a>：
-  Debian Live 计划的列表，专注于开发用于构建 Debian Live（Debian 实况）镜像所使用的软件，
-  但也可以用来讨论使用这些镜像时的问题。
+  Debian Live [CN:计划:][HKTW:計畫:]的[CN:列表:][HKTW:清單:]，[CN:专注于开发用于构建:][HKTW:專注於開發用於建立:] Debian Live（Debian [CN:实况:][HKTW:實況:]）[CN:镜像:][HKTW:鏡像:]所使用的[CN:软件:][HKTW:軟體:]，
+  但也可以[CN:用来讨论:][HKTW:用來討論:]使用[CN:这些镜像时的问题:][HKTW:這些鏡像時的問題:]。
 
   <li><a href="https://lists.debian.org/debian-user/">debian-user</a>：
   提供給 Debian 使用者的通用支援論壇。著重在成功安裝後，在使用系統上所遭遇的問題。
   另外，也有很多提供給非英語系使用者的論壇：
-  <a href="https://lists.debian.org/debian-user-catalan/">卡達隆尼亞語</a>,
-  <a href="https://lists.debian.org/debian-chinese-gb/">中文</a>,
-  <a href="https://lists.debian.org/debian-user-danish/">丹麥語</a>,
-  <a href="https://lists.debian.org/debian-esperanto/">世界語</a>,
-  <a href="https://lists.debian.org/debian-user-french/">法語</a>,
-  <a href="https://lists.debian.org/debian-user-german/">德語</a>,
-  <a href="https://lists.debian.org/debian-user-hungarian/">匈牙利語</a>,
-  <a href="https://lists.debian.org/debian-user-indonesian/">印尼語</a>,
-  <a href="https://lists.debian.org/debian-italian/">意大利語</a>,
-  <a href="https://lists.debian.org/debian-japanese/">&#26085;&#26412;&#35486;&nbsp;(日本語)</a>,
-  <a href="https://lists.debian.org/debian-user-polish/">波蘭語</a>,
-  <a href="https://lists.debian.org/debian-user-portuguese/">葡萄牙語</a>,
+  <a href="https://lists.debian.org/debian-user-catalan/">Catal&agrave;(加泰隆尼亞語)</a>,
+  <a href="https://lists.debian.org/debian-chinese-big5/">傳統漢語</a>,
+  <a href="https://lists.debian.org/debian-chinese-gb/">簡化漢語</a>,
+  <a href="https://lists.debian.org/debian-user-danish/">Dansk(丹麥語)</a>,
+  <a href="https://lists.debian.org/debian-esperanto/">Esperanto(世界語)</a>,
+  <a href="https://lists.debian.org/debian-user-french/">Français(法語)</a>,
+  <a href="https://lists.debian.org/debian-user-german/">Deutsch(德語)</a>,
+  <a href="https://lists.debian.org/debian-user-hungarian/">Magyar(匈牙利語)</a>,
+  <a href="https://lists.debian.org/debian-user-indonesian/">Indonesian(印尼語)</a>,
+  <a href="https://lists.debian.org/debian-italian/">Italiano(意大利語)</a>,
+  <a href="https://lists.debian.org/debian-japanese/">&#26085;&#26412;&#35486;(日語)</a>,
+  <a href="https://lists.debian.org/debian-user-polish/">Polski(波蘭語)</a>,
+  <a href="https://lists.debian.org/debian-user-portuguese/">Português(葡萄牙語)</a>,
   <a href="https://lists.debian.org/debian-russian/">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(俄語)</a>,
-  <a href="https://lists.debian.org/debian-user-spanish/">西班牙語</a>,
-  <a href="https://lists.debian.org/debian-user-swedish/">瑞典語</a>,
-  <a href="https://lists.debian.org/debian-user-turkish/">土耳其語</a>
-  以及 <a href="https://lists.debian.org/debian-user-ukrainian/">烏克蘭語</a>
-  。
+  <a href="https://lists.debian.org/debian-user-spanish/">Español(西班牙語)</a>,
+  <a href="https://lists.debian.org/debian-user-swedish/">Svenska(瑞典語)</a>,
+  <a href="https://lists.debian.org/debian-user-turkish/">T&uuml;rk&ccedil;e(土耳其語)</a>
+  以及 <a href="https://lists.debian.org/debian-user-ukrainian/">ukrainian(烏克蘭語)</a>。
   </li>
 
 </ul>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="why-jigdo">為什麼我應該使用 "jigdo" 這個程式？
+<toc-add-entry name="why-jigdo">為什麼我應該使用 <q>jigdo</q> 這個程式？
 我比較喜歡簡單的 HTTP 下載方式耶！</toc-add-entry>
 
 <p>截至今日，已經有將近 <a href="$(HOME)/mirror/list">300 個 Debian
@@ -103,8 +98,8 @@
 （當下載檔案失敗時，有些人會一直嘗試 <em>重新下載</em> 檔案，
 而不是利用<em>續傳</em> 的功能來從上次斷線的地方繼續下載）。
 而且部份也因為一般的映射站台比較吸引人（它允許
-持續地更新 Debian，或使用 "測試中"/"不穩定" 的版本，
-而不是只有 "穩定" 的版本）。</p>
+持續地更新 Debian，或使用 <q>測試中</q>/<q>不穩定</q> 的版本，
+而不是只有 <q>穩定</q> 的版本）。</p>
 
 <p>jigdo 試著要解決這些問題，利用從 300 多個映射站台中的一個
 來下載供光碟映像檔使用的資料。然而，這些映射站台只有 .deb 格式的
@@ -116,7 +111,6 @@
 - 相反地，你會因為使用到比任何光碟映像檔伺服器
 更接近及速度快的 300 多個映射站台中的其中一個，而收益。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="which-cd">在眾多的映像檔中，我應該下載哪一個呢？我需要全部嗎？</toc-add-entry>
@@ -127,10 +121,10 @@
 <p>而且，你只需要符合你的電腦架構的光碟映像檔。
 所謂架構就是你的電腦使用的硬體類型。
 目前為止，最常見的就是 Intel/AMD 的架構，所以大部份的人只需要
-下載 "i386" 的映像檔。如果您的電腦使用 64 位元的 AMD 或 Intel 處理器，
+下載 <q>i386</q> 的映像檔。如果您的電腦使用 64 位元的 AMD 或 Intel 處理器，
 您會需要使用<q><a href="../../ports/amd64/">amd64</a></q>映像檔
-(當然<q>i386</q>也是可以正常工作)，<q><a href="../../ports/ia64/">ia64</a></q>
-映像檔還<em>不能</em>用。</p>
+(當然<q>i386</q>也是可以正常工作)，而<q><a href="../../ports/ia64/">ia64</a></q>
+映像檔將<em>無法</em>正常工作。</p>
 
 <p>此外，在大部份的情況下，你並不需要下載架構中的全部映像檔。
 映像檔中的套件是依照流行的程度來排序的：
@@ -143,12 +137,11 @@
 <p>請繼續閱讀下一節來決定您是否需要下載網路安裝光碟，升級光碟或是
 原始碼光碟。</p>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="netinst">什麼是 "netinst" 或 "網路安裝光碟"？</toc-add-entry>
+<toc-add-entry name="netinst">什麼是 <q>netinst</q> 或 <q>網路安裝光碟</q>？</toc-add-entry>
 
-<p>引用<a href="../netinst/">網路安裝說明</a>："網路安裝" 或 "netinst" 光碟
+<p>引用<a href="../netinst/">網路安裝說明</a>：<q>網路安裝</q> 或 <q>netinst</q> 光碟
 是單一片光碟，讓您可以安裝整個作業系統。這片光碟只包含了安裝過程所需最少的
 軟體，剩下的套件都由網路取得。</p>
 
@@ -156,15 +149,14 @@
 可能是最快速簡單的方法：您只需要下載您所需要的套件，這同時可以節省時間與
 頻寬。</p>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="update-cd">什麼是 "update"（更新）的光碟？</toc-add-entry>
+<toc-add-entry name="update-cd">什麼是 <q>update</q>（更新）的光碟？</toc-add-entry>
 
-<p>更新光碟指的是包含所有從某个大版本初始发行版本（例如 7.<strong>0</strong>、
-8.<strong>0</strong> 等）到稍后的某个稳定版小版本更新之间所有变更的软件包的光盘。
-例如，如果您已经拥有一套完整的<q>debian-8.0.0</q>光盘，您可以增加一份
-<q>debian-update-8.2.0</q>光盘以使得<q>debian-8.0.0</q>套件变成<q>debian-8.2.0</q>
+<p>更新光碟指的是包含所有從[CN:某个:][HKTW:某個:]大版本初始[CN:发行:][HKTW:發行:]版本（例如 7.<strong>0</strong>、
+8.<strong>0</strong> 等）到[CN:稍后:][HKTW:稍後:]的[CN:某个稳定:][HKTW:某個穩定:]版小版本更新之[CN:间:][HKTW:間:]所有[CN:变更:][HKTW:變更:]的[CN:软件包:][HKTW:套件:]的[CN:光盘:][HKTW:光碟:]。
+例如，如果您[CN:已经拥有:][HKTW:已經擁有:]一套完整的<q>debian-8.0.0</q>[CN:光盘:][HKTW:光碟:]，您可以增加一份
+<q>debian-update-8.2.0</q>[CN:光盘:][HKTW:光碟:]以使得<q>debian-8.0.0</q>套件[CN:变成:][HKTW:變成:]<q>debian-8.2.0</q>
 套件。</p>
 
 <p>這種光碟是給供應商需要供應大量的正式版光碟用 (會比
@@ -176,42 +168,41 @@
 <p>當然這種光碟對一般使用者來說也很有用；您不需要每次改版時
 都下載完整的安裝光碟，您只需要下載並燒錄一兩片適合您硬體的更新光碟。</p>
 
-<p>你只需要下載更新光碟<strong>或</strong>一般光碟，其中之一即可！</p>
+<p>請注意更新光碟無法用來開機，它們只包含已安裝環境內需要更新的套件。
+如果您還沒有已安裝環境，您還是需要一般光碟。
+在新系統開機後，可以透過 <code>apt-cdrom add</code> 來新增更新光碟。</p>
 
 <p>那麼，萬一由於某種原因，即使你已經有前一個修訂版本的全套光碟，
 且你不想要下載更新光碟時，該怎麼辦呢？
 在這種情況下，你可以考慮使用
-<a href="../jigdo-cd/">jigdo</a>' 的 "更新" 功能： jigdo 可以讀出舊版光碟的內容，
+<a href="../jigdo-cd/">jigdo</a>' 的 <q>更新</q> 功能： jigdo 可以讀出舊版光碟的內容，
 然後只下載新版光碟中有異動的檔案，並且製作出全套的新版光碟。
 同樣地，它也是藉著下載和更新光碟相同的資料來完成的。</p>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="source-cd">什麼是 "source"（原始碼）光碟？</toc-add-entry>
+<toc-add-entry name="source-cd">什麼是 <q>source</q>（原始碼）光碟？</toc-add-entry>
 
-<p>有兩種類型的映像檔， "binary"（二進位）的光碟包含
-事先編譯的、可馬上執行的程式，以及 "source"（原始碼）的光碟包含
+<p>有兩種類型的映像檔， <q>binary</q>（二進位）的光碟包含
+事先編譯的、可馬上執行的程式，以及 <q>source</q>（原始碼）的光碟包含
 程式的原始碼。絕大多數的人都不需原始碼的光碟；除非你真得有需要否則是不需要下載的。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="nonfree">在哪裏可以找到 non-free （非自由的）光碟映像檔？</toc-add-entry>
 
 <p>關於軟體的授權，Debian 有相當嚴格地看法：
 只有軟體的自由定義是符合<a href="$(HOME)/social_contract#guidelines">Debian 自由軟體指導方針</a> 的軟體
-才允許納入真正的發行。所有其他 "non-free" （非自由的）軟體（例如，不提供原始碼的軟體）是不會被正式的支援的。</p>
+才允許納入真正的發行。所有其他 <q>non-free</q> （非自由的）軟體（例如，不提供原始碼的軟體）是不會被正式的支援的。</p>
 
 <p>正式的光碟可以自由地被世界上任何人使用、複製及販賣。
- "non-free" 類別的套件因為有與此規範衝突的限制，
- 所以這些套件不能放在正式版的光碟中。</p>
+<q>non-free</q> 類別的套件因為有與此規範衝突的限制，
+所以這些套件不能放在正式版的光碟中。</p>
 
 <p>有時候，有些人會很好心地製作一些非正式的 non-free 光碟。
 如果你在這個網站找不到任何連結，你可以試試
 <a href="#mailing-list">在 debian-cd 這個通信論壇詢問</a>。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="dvd">請問有 DVD 格式的 Debian 映像檔嗎？</toc-add-entry>
@@ -220,7 +211,6 @@
 此外，Debian 是目前唯一提供每週更新的整個 DVD 映像檔下載的 Linux 發行版本！
 由於它的檔案很大，這些映像檔只會以 <a href="../jigdo-cd/">jigdo 的方式來發行</a>。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="official">官方的映像檔和非官方的有何不同？</toc-add-entry>
@@ -232,19 +222,17 @@
 進階的 Debian 使用者。一般來說，它們的內容比較新，但是經過較少測試。
 一些可能會包含了新的功能 (例如支援安裝新的硬體)，或是包含額外的軟體套件。</p>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="live-cd">Debian 有提供 "live CD"（實況光碟）嗎？</toc-add-entry>
+<toc-add-entry name="live-cd">Debian 有提供 <q>live CD</q>（實況光碟）嗎？</toc-add-entry>
 
-<p>所謂的 "live CD" （實況光碟）指的是包含有已預先安裝的完整系統光碟。
+<p>是。所謂的 <q>live CD</q>（實況光碟），或是更精確地稱為 <q>live system</q>（實況系統），指的是包含有已預先安裝的完整系統光碟。
 你不需要安裝任何東西到硬碟上，相反地你可以光碟開機而且可馬上開始作業。
 所有的程式都直接從光碟上執行。</p>
 
-<p><a href="http://live.debian.net/">Debian Live Project</a>
-製作了各種 live CD，只使用官方的 Debian 套件。</p>
+<p><a href="$(HOME)/devel/debian-live/">Debian Live Project</a>
+製作了為各種平台與媒體使用的 <a href="../live/">live CD 映像檔</a>。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="bootable">光碟開機失敗了！ / 我應該從哪一片光碟開機呢？</toc-add-entry>
@@ -257,7 +245,6 @@ href="#what-is">上面的解釋</a>。此外，請確定您有設定 BIOS 從光
 <p>如果您的系統無法從光碟開機，仍然可能可以從
 <a href="$(HOME)/distrib/floppyinst">軟碟</a>開機。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="arch">M68K, Hurd 或其它架構的映像檔在哪裏？</toc-add-entry>
@@ -268,11 +255,11 @@ href="#what-is">上面的解釋</a>。此外，請確定您有設定 BIOS 從光
 <ul>
 
   <li>如果你要尋找的架構是目前 <a href="$(HOME)/releases/stable/">穩定版本</a> 所正式支援的，
-  請參考 <a href="../">"Debian 光碟"</a> 網頁，看看有哪些可供下載的選擇。</li>
+  請參考 <a href="../"><q>Debian 光碟</q></a> 網頁，看看有哪些可供下載的選擇。</li>
 
-  <li>如果 Debian 已被移植到新的架構，但尚未正式地發佈，
-  光碟映像檔可能存在，也可能不存在。
-  請參考 <a href="../">Debian 光碟</a>網頁中的說明：這些架構的光碟映像檔可能只提供單一的下載方式，所以請閱讀 "jigdo" 和 "HTTP/FTP" 下載的相關說明。</li>
+  <li>如果 Debian 已被移植到新的架構，但尚未正式地發佈，光碟映像檔可能存在，也可能不存在。
+  請參考 <a href="../"><q>Debian 光碟</q></a>網頁中的說明：這些架構的光碟映像檔可能只提供單一的下載方式，所以請閱讀
+  <q>jigdo</q> 和 <q>HTTP</q> 下載的相關說明。</li>
 
   <li>關於移植到 GNU/Hurd 的 Debian，請參考
   <a href="$(HOME)/ports/hurd/hurd-cd">關於非正式 Hurd 光碟網頁</a>。
@@ -282,76 +269,78 @@ href="#what-is">上面的解釋</a>。此外，請確定您有設定 BIOS 從光
 
 </ul>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="unstable-images">有 "unstable" 發行版的映像檔嗎？</toc-add-entry>
+<toc-add-entry name="unstable-images">有 <q>unstable</q> 發行版的映像檔嗎？</toc-add-entry>
 
-<p>我們沒有替 "unstable" 發行版準備完整的光碟映像檔。因為 "unstable" 改變的如此迅速的特性，
-使用者直接從 FTP 鏡像站下載並安裝 "unstable" 發行版會比較適合。</p>
+<p>我們沒有替 <q>unstable</q> 發行版準備完整的光碟映像檔。因為 <q>unstable</q> 改變的如此迅速的特性，
+使用者直接從 FTP 鏡像站下載並安裝 <q>unstable</q> 發行版會比較適合。</p>
 
 <p>如果您已經了解<a href="../../releases/unstable/">使用 unstable 的風險</a>，但仍然要安裝
 的話，您有兩個選擇：</p>
 
 <ul>
-    
-    <li>先用 <a href="../netinst/">netinst</a> 映像檔安裝 "testing"，然後修改
-    <tt>/etc/apt/sources.list</tt> 更新到 "unstable"。避免更新的過程中下載多餘的套件
-    建議您安裝 "testing" 系統時僅使用最小安裝，等到更新到 "unstable" 後，才安裝其他
-    大部分軟體 (如桌面環境)。</li>
 
-    <li>使用 <a href="../netinst/">business card</a> 映像檔。開機後選擇專家模式或是
-    參數 <tt>priority=medium</tt>。然後您就可以在選擇鏡像站時選擇要安裝的發行版
-    (stable/testing/unstable)。</li>
+  <li>先用 <a href="../netinst/">netinst</a> 映像檔安裝 <q>testing</q>，然後修改
+  <tt>/etc/apt/sources.list</tt> 更新到 <q>unstable</q>。為了避免更新的過程中下載多餘的套件
+  建議您安裝 <q>testing</q> 系統時僅使用最小安裝，等到更新到 <q>unstable</q> 後，才安裝其他
+  大部分軟體 (如桌面環境)。</li>
+
+  <li>使用 stable 安裝程式安裝 <q>stable</q>，然後修改 <tt>/etc/apt/sources.list</tt>
+      更新到 <q>testing</q>， 執行 <tt>apt-get update</tt>，執行 <tt>apt-get dist-upgrade</tt>。
+      最後，安裝您想要的軟體。 這個方式在這清單中是最可靠的。</li>
+
+  <li>成為 <q>testing</q> 安裝程式的測試者，使用 netinst 映像檔安裝 <q>testing</q>，然後修改
+      <tt>/etc/apt/sources.list</tt> 更新到 <q>unstable</q>。為了避免更新的過程中下載多餘的套件
+      建議您安裝 <q>testing</q> 系統時僅使用最小安裝，等到更新到 <q>unstable</q> 後，才安裝其他
+      大部分軟體 (如桌面環境)。然後執行 <tt>apt-get update</tt>，執行 <tt>apt-get -u dist-upgrade</tt>
+      －如此一來您就有了 sid 發行版。</li>
+
+  <li>使用 netboot <q>mini.iso</q> 映像檔。 您只會在 Debian 鏡像站內的
+      debian/dists/unstable/main/installer-*/current/images/netboot/mini.iso 找到。
+      開機後選擇<q>進階</q> -> <q>專家模式</q>。 在<q>選擇 Debian 鏡像站</q>時選擇要安裝的發行版為
+      <q>sid - unstable</q>。</li>
 
 </ul>
 
-<gototop>
-# =============================================================
+# ============================================================
 
 <toc-add-entry name="search-for-package">哪一片光碟映像檔包含這個 XYZ 套件？</toc-add-entry>
 
-<p>要找出特定檔案是在哪一張映像檔中，使用 <a href="../jigdo-cd/#search">Debian <tt>.jigdo</tt>
-的搜尋功能</a>。因為 jigdo 的運作方式使然，<tt>.jigdo</tt> 檔案中包含了映像擋上所有 <tt>.deb</tt>
-套件的清單，還包括一些其他檔案。您可以使用搜尋腳本來找出您需要的映像檔。</p>
+<p>要找出特定檔案是在哪一張映像檔中，使用 <a href="https://cdimage-search.debian.org">光碟映像檔搜尋工具</a>。
+它包含了從 Woody 發行版以來所有 Debian 製作的 CD/DVD/BD 光碟資訊，涵蓋所有正式發行版（過舊發行版與目前的穩定發行版）
+與每日每周自動產生的最新測試用光碟映像檔。</p>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="list-image-contents">我能列出一張光盘中包含的套件清單嗎？</toc-add-entry>
+<toc-add-entry name="list-image-contents">我能列出一張[CN:光盘:][HKTW:光碟:]中包含的套件清單嗎？</toc-add-entry>
 
-<p>可以。请浏览 <a href="https://cdimage.debian.org/cdimage/">cdimage.debian.org</a>
-并获取对应的 <tt>.list.gz</tt> 文件——它将会列出镜像中的所有软件包和源码文件。
-对于 Debian Live 镜像，您可以在镜像文件的相同目录下找到某些类似的文件，其后缀名
-可能为 <tt>.packages</tt>。下载文件后，您可以在其中搜索需要的软件包名称。
+<p>可以。[CN:请浏览:][HKTW:請瀏覽:] <a href="https://cdimage.debian.org/cdimage/">cdimage.debian.org</a>
+[CN:并获取对应:][HKTW:來取得對應:]的 <tt>.list.gz</tt> 文件－它[CN:将会:][HKTW:將會:]列出[CN:镜像:][HKTW:鏡像:]中的所有[CN:软件包:][HKTW:套件:]和[CN:源码文件:][HKTW:原始碼檔案:]。
+[CN:对于:][HKTW:對於:] Debian Live [CN:镜像:][HKTW:映像檔:]，您可以在[CN:镜像文件:][HKTW:映像檔:]的相同[CN:目录:][HKTW:資料夾:]下找到某些[CN:类似:][HKTW:相似:]的[CN:文件:][HKTW:檔案:]，其[CN:后缀:][HKTW:後綴:]名
+可能为 <tt>.packages</tt>。[CN:下载文件后:][HKTW:下載檔案後:]，您可以在其中[CN:搜索:][HKTW:搜尋:]需要的[CN:软件包名称:][HKTW:套件名稱:]。
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="outdated">正式版光碟上的軟體已經過期了 - 為什麼你們不釋出新的版本呢？</toc-add-entry>
 
-<p>當我們認為軟體真的穩定，我們才會製作正式版的 "穩定" 發行套件。
-不幸地是，穩定版本大約每 2 年才會發行一次…</p>
+<p>當我們認為軟體真的穩定，我們才會製作正式版的 <q>穩定</q> 發行套件。
+不幸地是，穩定發行版大約每 2 年才會發行一次…</p>
 
 <p>在 Debian 中，如果你需要更多較新版本的軟體，
-你可以先安裝 "穩定"版，然後再升級（經由網路）你想要的軟體
-到 "測試" 版 - 混合不同版本的軟體來運行是可行。</p>
+你可以先安裝 <q>stable</q>版，然後再升級（經由網路）你想要的軟體
+到 <q>testing</q> 版 - 混合不同版本的軟體來運行是可行。</p>
 
-<p>另一種選擇，試試每週自動產生的 "測試" 版的光碟映像檔。
-然而，請設定您的電腦正確接收 <a
-href="http://secure-testing-master.debian.net/">"testing" 安全更新</a>，
-特別是如果您使用 "testing" 當作伺服器。更多關於 <a
-href="../../security/faq#testing">"testing" 安全支援</a>的資訊可以參考
+<p>另一種選擇，試試每週自動產生的 <q>testing</q> 版的光碟映像檔。
+更多關於 <a href="../../security/faq#testing"><q>testing</q> 安全支援</a>的資訊可以參考
 安全性 FAQ。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="newest">如何得知我下載的是最新的光碟映像檔？</toc-add-entry>
 
-<p> <a href="../">光碟映像檔網頁</a> 底下的附註顯示的就是最新版本的編號。</p>
+<p> <a href="../">Debian 光碟映像檔</a>網頁底下的附註顯示的就是最新版本的編號。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="verify">我如何確認下載和刻录的的光碟映像檔是正確的呢？</toc-add-entry>
@@ -360,11 +349,11 @@ href="../../security/faq#testing">"testing" 安全支援</a>的資訊可以參�
 <a href="../verify">真实性验证页面</a>中找到。在密码学上验证了校验和文件后，我们可以检查：
 
 <ul>
- <li><strong>下载的 ISO 镜像文件</strong>和找到的校验和文件相匹配。
+ <li><em>下载的 ISO 镜像文件</em>和找到的校验和文件相匹配。
  计算 ISO 文件的校验和可以使用诸如<q>sha512sum</q>或<q>sha256sum</q>
  这样的工具。
  </li>
- <li>已<strong>写入光学媒体</strong>的数据校验和和找到的校验和文件相匹配。
+ <li>已<em>写入光学媒体</em>的数据校验和和找到的校验和文件相匹配。
  这个操作描述起来会稍微麻烦一些。
  </li>
 </ul>
@@ -401,12 +390,12 @@ check_debian_iso</a>，它可以验证 <em>ISO 镜像文件</em>和
 进行对比。</p>
 
 <ul>
- <li><strong>ISO 镜像文件校验。</strong>
+ <li><em>ISO 镜像文件校验。</em>
   下列命令将把 debian-6.0.3-amd64-netinst.iso
   文件使用 SHA512SUMS 文件中提供的校验和数值进行对比校验。
   <br/><tt>$ ./check_debian_iso  SHA512SUMS  debian-6.0.3-amd64-netinst.iso</tt>
  </li>
- <li><strong>光学媒体校验。</strong>
+ <li><em>光学媒体校验。</em>
   下列命令将把以 /dev/dvd 文件访问的媒体和 debian-6.0.3-amd64-DVD-1.iso
   文件以及提供的 SHA512SUMS 校验和文件一起进行对比校验。
   注意 ISO 镜像文件本身并不是必要的，其名称仅仅用来定位对应的校验和文件。
@@ -414,8 +403,6 @@ check_debian_iso</a>，它可以验证 <em>ISO 镜像文件</em>和
  </li>
 </ul>
 
-
-<gototop>
 # ============================================================
 
 <toc-add-entry name="small-dvd">為何我下載的 DVD 映像檔不到 1&nbsp;GB？它應該要超過 4&nbsp;GB 才對</toc-add-entry>
@@ -426,7 +413,6 @@ check_debian_iso</a>，它可以验证 <em>ISO 镜像文件</em>和
 <p>一些版本的 <tt>wget</tt> 也存在此問題 - 請更新 <tt>wget</tt> 或是使用 <tt>curl</tt> 命另來下載：
 "<tt>curl -C - </tt><i>[URL]</i>"</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="record-unix">如何在 Linux/Unix 環境下燒錄可錄式光碟？</toc-add-entry>
@@ -446,34 +432,42 @@ Debian 為 etch 維護了一個 cdrecord 的分支。在 Debian 系統上請使�
 注意：它們全都是 cdrecord 的前端介面。</p>
 
 <dl>
-    <dt><strong><a id="k3b"
-    href="http://k3b.plainblack.com/">K3b</a></strong></dt>
+  <dt><strong><a id="brasero"
+  href="https://www.gnome.org/projects/brasero/">Brasero</a></strong></dt>
 
-    <dd>選擇選單<i>工具 - CD - 燒錄 CD 映像檔</i>。在開啟的對話窗
-    輸入映像檔的路徑到<i>要燒錄的映像檔</i>欄位，檢查其他欄位的資訊
-    是否正確，然後點選<i>開始</i>。</dd>
+  <dd>選擇<i>燒錄映像檔</i>按鈕。 按下
+  <i>按這裡選擇碟片映像檔</i>，瀏覽並選擇您下載的 ISO 檔案，檢查
+  <i>屬性</i> 內的設定都正確，並選擇 <i>建立映像檔</i>。</dd>
 
-    <dt><strong><a id="xcdroast"
-    href="http://www.xcdroast.org/">X-CD-Roast</a></strong></dt>
+  <dt><strong><a id="k3b"
+  href="http://k3b.plainblack.com/">K3b</a></strong></dt>
 
-    <dd>啟動之後，點擊
-    <i>Setup</i> 並選擇 <i>HD settings</i> 標簽頁。複製 Debian 光碟
-    映像檔到表格顯示的其中一個目錄。（如果表格是空的，
-    請輸入你想要用來暫時儲存的目錄路徑，並點擊 <i>Add</i>。）
-    點擊 <i>OK</i> 來離開設定畫面。下一步，選擇 <i>Create CD</i> 然後是 <i>Write Tracks</i>。
-    選擇 <i>Layout tracks</i> 標簽頁及顯示映像檔名稱那一列，並點擊 <i>Add</i>，然後再點擊
-    <i>Accept track layout</i>。最後，點擊 <i>Write tracks</i>。</dd>
+  <dd>選擇選單<i>工具 - CD - 燒錄 CD 映像檔</i>。在開啟的對話窗
+  輸入映像檔的路徑到<i>要燒錄的映像檔</i>欄位，檢查其他欄位的資訊
+  是否正確，然後點選<i>開始</i>。</dd>
+
+  <dt><strong><a id="xcdroast"
+  href="http://www.xcdroast.org/">X-CD-Roast</a></strong></dt>
+
+  <dd>啟動之後，點擊
+<i>Setup</i> 並選擇 <i>HD settings</i> 標簽頁。複製 Debian 光碟
+映像檔到表格顯示的其中一個目錄。（如果表格是空的，
+請輸入你想要用來暫時儲存的目錄路徑，並點擊 <i>Add</i>。）
+點擊 <i>OK</i> 來離開設定畫面。下一步，選擇 <i>Create CD</i> 然後是 <i>Write Tracks</i>。
+選擇 <i>Layout tracks</i> 標簽頁及顯示映像檔名稱那一列，並點擊 <i>Add</i>，然後再點擊
+<i>Accept track layout</i>。最後，點擊 <i>Write tracks</i>。</dd>
 
 </dl>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="record-windows">如何在 Windows 環境下燒錄可錄式光碟？</toc-add-entry>
+<toc-add-entry name="record-windows">如何在 Windows 環境下燒錄 ISO 光碟映像檔？</toc-add-entry>
 
 <p>這可能會有一些小問題，因為很多 Windows 程式會使用它們專屬的光碟映像檔格式。
-為了燒錄 <tt>.iso</tt> 映像檔，你非常有可能必須使用 "特定" 的選單。找找像 "ISO9660 file"、 "Raw ISO image" 或是
- "2048 bytes/sector" 之類的選項。（附註：其他 bytes/sector 值是嚴重錯誤的！）有一些程式並不提供這些選項；
+為了燒錄 <tt>.iso</tt> 映像檔，你非常有可能必須使用 <q>特定</q> 的選單。
+找找像 <q>ISO9660 file</q>、"Raw ISO image" 或是
+ <q>2048 bytes/sector</q> 之類的選項。（附註：其他 bytes/sector 值是嚴重錯誤的！）
+有一些程式並不提供這些選項；
 請使用其它的燒錄程式（試試問問你的朋友或同事）。
 這裡有一些關於如何使用特定產品來燒錄光碟映像檔的資訊：</p>
 
@@ -497,13 +491,13 @@ Debian 為 etch 維護了一個 cdrecord 的分支。在 Debian 系統上請使�
   href="http://isorecorder.alexfeinman.com/isorecorder.htm">ISO
   Recorder</a></strong> (Freeware)</dt>
 
-  <dd>此體可以在 Windows 2003, XP, Vista 上燒錄 <tt>.iso</tt> 映像。</dd>
+  <dd>此軟體可以在 Windows 2003, XP, Vista 上燒錄 <tt>.iso</tt> 映像。</dd>
 
   <dt><strong><a NAME="fireburner" href="http://www.fireburner.com/">Fireburner</a></strong></dt>
 
   <dd>這是共享軟體，應該可以所有速度來燒錄 ISOs 檔（至少在最初的 15 天）。</dd>
 
-  <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>
+  <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
   /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>從 <i>File</i> 選單，選擇 <i>Create CD from image...</i>。
@@ -514,24 +508,25 @@ Debian 為 etch 維護了一個 cdrecord 的分支。在 Debian 系統上請使�
 
   <dt><strong>來自 <a href="http://www.ahead.de/">Ahead Software</a> 的 <a NAME="nero">Nero</a></strong></dt>
 
-  <dd>不要啟動設定精靈，然後從 "File" 或 "Recorder" 選單，如果有需要，
-  在檔案選擇視窗中選擇 <i>All Files</i> 。選擇 .iso 檔案，並在 "this is a foreign file" 對話框中，點擊 OK。
-  在選項方框中會開啟一些合適的預設選項： "<i>Data Mode 1</i>"， "<i>Block Size 2048</i>"，
-   "<i>Raw Data, Scrambled,  及<strong>不要</strong> 選擇 Swapped</i>" ，且 <i>Image Header</i> 及
+  <dd>不要啟動設定精靈，然後從 <q>File</q> 或 <q>Recorder</q> 選單，如果有需要，
+  在檔案選擇視窗中選擇 <i>All Files</i> 。選擇 .iso 檔案，並在 <q>this is a foreign file</q> 對話框中，點擊 OK。
+  在選項方框中會開啟一些合適的預設選項：<q><i>Data Mode 1</i></q>， <q><i>Block Size 2048</i></q>，
+   <strong>不要</strong>選擇 <q><i>Raw Data, Scrambled, 及 Swapped</i></q>，且 <i>Image Header</i> 及
     <i>Image Trailer</i> 保持為 0。點擊 OK。在 <i>Write CD</i> 方框中，使用預設選項，例如：<i>Write</i>
   及 <i>Determine maximum speed</i>，並核可 <i>Finalize CD</i> 選項。</dd>
 
-  <dt><strong>來自 <a href="http://www.storagebysony.com">Sony</a> 的 <a NAME="cdextreme">CD Extreme</a></strong></dt>
+  <dt><strong>來自 <a href="http://www.storagebysony.com">Sony</a> 的
+  <a NAME="cdextreme">CD Extreme</a></strong></dt>
 
   <dd>從 <i>File</i> 選單中選擇 <i>New Job...</i>。然後
   選擇 <i>Global-Image</i> 或是 <i>Other Image</i>。
   這將會開啟製作光碟的設定圖形界面，在此手動地輸入 .iso 映像檔的路徑或
-  使用檔案類型 "other" 來 <i>browse...</i> 。
+  使用檔案類型 <q>other</q> 來 <i>browse...</i> 。
   從 <i>Edit</i> 選單中，選擇 <i>Recoding Options</i>，並在
   <i>Disk Image Options</i> 的結果顯示對話框中，選擇：
   <br />&nbsp;&nbsp;&nbsp;<i>Recording Type: Disk at Once
   (DAO) Closed</i><br />&nbsp;&nbsp;&nbsp;<i>Mode and Blocking: CD
-  Mode1 (Blocking 2048)-DVD</i><br>不要不核可 "Post-gap..."。</dd>
+  Mode1 (Blocking 2048)-DVD</i><br>不要取消 <q>Post-gap...</q>。</dd>
 
   <dt><strong><a name="resource-kit-tools"
   href="http://www.microsoft.com/downloads/details.aspx?FamilyID=9d467a69-57ff-4ae7-96ee-b18c4790cffd">Microsoft
@@ -554,27 +549,68 @@ Debian 為 etch 維護了一個 cdrecord 的分支。在 Debian 系統上請使�
 <p>如果你可以提供更新的資訊或是其它軟體的詳細內容，
 請<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;debian-cd&#64;lists.debian.org">讓我們知道</a>。
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="record-mac">如何在 Mac OS 環境下燒錄可錄式光碟？</toc-add-entry>
+<toc-add-entry name="record-mac">如何在 Mac OS 環境下燒錄 ISO 光碟映像檔？</toc-add-entry>
 
 <p>在 Mac OS 環境下的 <strong>Toast</strong> 程式已被回報可對 <tt>.iso</tt> 檔案正常運作。
 利用指定製作碼為 <i>CDr3</i> （或也許是 <i>CDr4</i>）且使用如 FileTyper 來輸入編碼為 <i>iImg</i>
 ，你可以更安全地製作。雙擊檔案就會直接開啟 Toast ，你不需要用拖曳的方式或是經由 File-Open 的選單來開啟。</p>
 
+<p>另一個選項是 <strong>Disk Utility</strong> （包含在 Mac OS X&nbsp;10.3 或以上的版本）：
+在開啟 Disk Utility 應用程式之後（在 <tt>/Applications/Utilities</tt> 資料夾內），在
+<i>Image</i> 選單中選擇 <i>Burn...</i> 然後選擇要燒錄的光碟映像檔。
+確認設定是正確的，然後點擊 <i>Burn</i>。</p>
+
 <p>另一個選項是 <strong>Disk Copy</strong> （包含在 Mac OS X&nbsp;10.1 或以上的版本）：
-在開啟 Disk Copy 應用程式之後（在 <tt>/Applications/Utilities</tt> 資料匣內），在
+在開啟 Disk Copy 應用程式之後（在 <tt>/Applications/Utilities</tt> 資料夾內），在
 <i>Image</i> 選單中選擇 <i>Burn&nbsp;Image...</i> 然後選擇要燒錄的光碟映像檔。
 確認設定是正確的，然後點擊 <i>Burn</i>。</p>
 
-<p>除此之外，
-<a href="http://www.fokus.gmd.de/research/cc/glone/employees/joerg.schilling/private/cdrecord.html">cdrecord</a>
-程式也有
-<a href="ftp://ftp.fokus.gmd.de/pub/unix/cdrecord/alpha/macos-x/">
-Mac OS X</a> 版本。
 
-<gototop>
+# ============================================================
+
+<toc-add-entry name="write-usb">如何將光碟映像檔寫入 USB 快閃隨身碟？</toc-add-entry>
+
+<p>部分 Debian 與 Debian Live 映像檔，尤其是所有 i386、amd64 與 arm64
+映像檔，都使用了 <i>isohybrid</i> 技術來建立，確保可以在兩種不同情形下使用：</p>
+
+<ul>
+  <li>可燒錄到光碟，並使用該光碟開機。</li>
+  <li>可存入 USB 快閃隨身碟，從多數個人電腦中的 BIOS 或 EFI 韌體直接開機。</li>
+</ul>
+
+<p>在 Linux 機器中，只要使用 <q>cp</q> 指令就可以複製到 USB 快閃隨身碟：</p>
+
+<p><code>cp &lt;檔案名稱&gt; &lt;裝置檔案名稱&gt;</code></p>
+
+<p>或是您也可以使用 <q>dd</q>：</p>
+
+<p><code>dd if=&lt;檔案名稱&gt; of=&lt;裝置檔案名稱&gt; bs=4M; sync</code></p>
+
+<p>其中：</p>
+<ul>
+  <li>&lt;檔案名稱&gt; 是映像檔的名稱，例如 <q>netinst.iso</q>
+  <li>&lt;裝置檔案名稱&gt; 是 USB 快閃隨身碟對應的裝置檔案名稱，例如
+  /dev/sda，/dev/sdb。<em>請小心確認您輸入了正確的裝置檔案名稱</em>，
+  因為如果填寫錯誤，該指令同時也能輕易寫入您的硬碟！</li>
+  <li><q>bs=4M</q> 告訴 dd 每次讀寫 4 MiB 區塊來增加效能；
+  原來的預設值是 512 位元組，相較之下會很慢
+  <li><q>sync</q> 是用來確定指令結束之前所有的寫入都已完成。
+</ul>
+
+<p>除了上述給 Linux 系統的步驟以外，也有 <a NAME="win32diskimager"
+   href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
+   程式可以在 Windows 中建立可開機的 USB 快閃隨身碟。
+   <b>提示：</b> win32diskimager 預設只會顯示輸入檔名為 <i>*.img</i> 的檔案，而
+   Debian 映像檔的檔名為 <i>*.iso</i>。
+   如果要使用此工具，請記得更改過濾器為 <i>*.*</i>。
+</p>
+
+<p>請注意，Debian 不建議在此步驟使用 <q>unetbootin</q>。
+   它會在開機與安裝時產生難以診斷的問題，所以不推薦。
+</p>
+
 # ============================================================
 
 <toc-add-entry name="whatlabel">如何製作光碟的標籤呢？</toc-add-entry>
@@ -611,30 +647,30 @@ Mac OS X</a> 版本。
 </div>
 
 <p>如果還有空間，你也可以把代號加到第一行，
-例如： <i>Debian GNU/Linux 6.0.3 "Squeeze"</i>。</p>
+例如： <i>Debian GNU/Linux 6.0.3 <q>Squeeze</q></i>。</p>
 
 <p>請注意你<strong>只能</strong>在光碟中其映像檔的總合檢查碼是符合
-<a href="https://www.debian.org/CD/jigdo-cd/#which">正式版本的 jigdo 檔案</a>的其中一個。
+<a href="../jigdo-cd/#which">正式版本的 jigdo 檔案</a>的其中一個。
 才被允許在標籤上指名為<em>正式版</em>。
 任何不符合總合檢查碼的光碟（例如：你自己製作的）必須被清楚地標示為
 <em>非正式版</em>，例如：</p>
 
 <div class="cdflash">
-      <p>Debian GNU/Linux 6.0.3<br>Unofficial
+      <p>Debian GNU/Linux 6.0.3<br />Unofficial
       Non-free</p>
 </div>
 
 <p>在每週官方快照版中，像
-"6.0.3" 這樣的版本號不該被使用以免與正式發行的版本混淆。使用類似 "etch" 的代碼
-或是發行版名稱 "testing"。並且在後面加入 "Snapshot" 與日期：</p>
+<q>6.0.3</q> 這樣的版本號不該被使用以免與正式發行的版本混淆。
+使用類似 <q>etch</q> 的代碼
+或是發行版名稱 <q>testing</q>。並且在後面加入 <q>Snapshot</q> 與日期：</p>
 
 <div class="cdflash">
-      <p>Debian GNU/Linux "etch"<br />
+      <p>Debian GNU/Linux <q>etch</q><br />
       Official Snapshot alpha Binary-2<br />
       2005-06-17</p>
 </div>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="artwork">有任何供光碟及封面使用的原圖嗎？</toc-add-entry>
@@ -643,7 +679,6 @@ Mac OS X</a> 版本。
 但是有很多人已經製作了很美觀的圖片。
 請參照另外的 <a href="../artwork/">原圖網頁</a>。
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="old">舊的光碟映像檔還抓得到嗎？</toc-add-entry>
@@ -654,10 +689,8 @@ href="https://cdimage.debian.org/cdimage/archive/">cdimage.debian.org
 您可能會想要試試舊的映像檔。</p>
 
 <p>注意當您使用舊的光碟時，<tt>/etc/apt/sources.list</tt> 的內容會預設會指到
-<em>目前</em>的 Debian 穩定發行版。這表示如果透過網路升級的話會升級到目前的版本。
-要避免升級但仍要收到安全性更新的話，您需要把 "stable" 替換為 "oldstable"。</p>
+<em>目前</em>的 Debian 穩定發行版。這表示如果透過網路升級的話會升級到目前的版本。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="lan-install">要安裝 Debian 在許多互連電腦的最佳方式是什麼？</toc-add-entry>
@@ -699,7 +732,6 @@ href="https://cdimage.debian.org/cdimage/archive/">cdimage.debian.org
 <a href="http://fai-project.org/">完全自動化安裝</a> (FAI)，
 它也是屬於 Debian 的一個套件，應該可以幫你來處理這樣的工作。</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="diy">我有一個本地端的 Debian 镜像站，而且想要
@@ -724,7 +756,6 @@ href="https://cdimage.debian.org/cdimage/archive/">cdimage.debian.org
 <a href="https://lists.debian.org/debian-cd/">debian-cd 郵遞論壇的檔案庫</a>
  來找尋不可避免的問題的解決方式。 :-)</p>
 
-<gototop>
 # ============================================================
 
 <toc-add-entry name="become-cd-mirror">如何成為 Debian 光碟影像檔的映射站台？</toc-add-entry>
@@ -732,14 +763,12 @@ href="https://cdimage.debian.org/cdimage/archive/">cdimage.debian.org
 <p>設定及同步更新光碟影像檔映射站台的必要步驟
 <a href="../mirroring/">在各別的網頁另有說明</a>。</p>
 
-<gototop>
 # ============================================================
 
-<toc-add-entry name="not-all-images">有些影像檔不見了！
-只有前幾個影像檔存在！其他的哪裡去了？</toc-add-entry>
+<toc-add-entry name="not-all-images">有些映像檔不見了！
+只有前幾個映像檔存在！其他的哪裡去了？</toc-add-entry>
 
 <p>我們沒有保存所有硬體架構使用的完整 ISO 映像檔，這是為了減少映像站所需負擔的儲存空間。
-你可以<a href="#why-jigdo">使用 jigdo 工具</a>來重新產生出遺失的映像檔。</p>
+你可以<a href="#why-jigdo">使用 jigdo 工具</a>來重新產生出遺失的 ISO 映像檔。</p>
 
-<gototop>
 # ============================================================
