@@ -4,7 +4,7 @@
 #use wml::debian::installer
 #include "$(ENGLISHDIR)/releases/images.data"
 #include "$(ENGLISHDIR)/devel/debian-installer/images.data"
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
+#use wml::debian::translation-check translation="134c799c2f934b5ca7ed7cfb8842c0471814d549"
 
 <p>Jigsaw Download или съкратено <a href="http://atterer.org/jigdo/">jigdo</a>
 (джигдо) е замислен да стане главен инструмент за разпространение на образи на
@@ -55,6 +55,7 @@ jigdo</a>. Доброволци, които имат желание да пом�
   scan“ (Файлове, които ще бъдат сканирани).</li>
 
   <li>На въпроса „Debian mirror“ (огледален сървър на Дебиан), въведете
+  <kbd>http://httpredir.debian.org/debian/</kbd> или
   <kbd>http://ftp.<strong><var>XY</var></strong>.debian.org/debian/</kbd>,
   където <strong><var>XY</var></strong> е двубуквения код на вашата страна
   (например, <tt>bg</tt>, <tt>us</tt>, <tt>de</tt>, <tt>uk</tt>.
