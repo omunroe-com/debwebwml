@@ -1,14 +1,16 @@
 #use wml::debian::template title="Правни въпроси"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="3982afa259f29366b3b5b16b6bb0fcddbff7260e"
 
 # TODO: a better introduction!
 <p>Тази част от сайта се занимава с правни проблеми.</p>
 
-<h2>Текущи</h2>
+<h2>Правна информация</h2>
 
 <ul>
   <li><a href="licenses/">Становища за някои лицензи</a></li>
   <li><a href="$(HOME)/trademark">Търговски марки</a></li>
+  <li><a href="privacy">Политика за поверителност</a></li>
+  <li><a href="patent">Патентна политика</a></li>
   <li><a href="cryptoinmain">Криптографски софтуер в основната дистрибуция</a>
     <ul>
       <li><a href="notificationforarchive">Първоначално известие за архива</a></li>
@@ -16,7 +18,6 @@
     </ul>
   </li>
   <li><a href="anssi">Атестация за внос/износ на криптографски технологии</a></li>
-  <li><a href="patent">Политика за патентите</a></li>
 </ul>
 
 <h2>Пощенски списък</h2>
