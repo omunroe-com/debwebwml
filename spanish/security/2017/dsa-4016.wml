@@ -1,0 +1,72 @@
+#use wml::debian::translation-check translation="c9fb9a40967be4b5a85e87cbd5ca8062f3bc38a0"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se han descubierto múltiples vulnerabilidades en Irssi, un cliente IRC
+basado en terminal. El proyecto «Vulnerabilidades y exposiciones comunes» («Common Vulnerabilities and Exposures») identifica 
+los problemas siguientes:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-10965">CVE-2017-10965</a>
+
+    <p>Brian <q>geeknik</q> Carpenter, de Geeknik Labs, descubrió que Irssi
+    no gestiona correctamente los mensajes recibidos que contienen sellos de tiempo inválidos. Un
+    servidor IRC malicioso puede aprovechar este defecto para provocar la caída
+    de Irssi, dando lugar a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-10966">CVE-2017-10966</a>
+
+    <p>Brian <q>geeknik</q> Carpenter, de Geeknik Labs, descubrió que Irssi es
+    vulnerable a un defecto de «uso tras liberar» desencadenado al actualizar la
+    lista interna de apodos. Un servidor IRC malicioso puede aprovechar
+    este defecto para provocar la caída de Irssi, dando lugar a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15227">CVE-2017-15227</a>
+
+    <p>Joseph Bisch descubrió que, durante la espera de la sincronización
+    del canal, Irssi puede dejar sin eliminar de la lista de consultas («query list»)
+    los canales destruidos, lo cual es incorrecto y da lugar a situaciones de «uso tras liberar»
+    al actualizar posteriormente el estado. Un servidor IRC malicioso puede
+    aprovechar este defecto para provocar la caída de Irssi, teniendo como consecuencia una
+    denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15228">CVE-2017-15228</a>
+
+    <p>Hanno Boeck informó de que Irssi no gestiona correctamente la instalación de
+    temas con secuencias de formateo de color incompletas, dando lugar a
+    denegación de servicio si se engaña a un usuario de forma que instale un tema
+    preparado de una manera determinada.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15721">CVE-2017-15721</a>
+
+    <p>Joseph Bisch descubrió que Irssi no gestiona correctamente
+    mensajes DCC CTCP mal formateados. Un atacante remoto puede
+    aprovechar este defecto para provocar la caída de Irssi, dando lugar a
+    denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15722">CVE-2017-15722</a>
+
+    <p>Joseph Bisch descubrió que Irssi no verifica correctamente los IDs de
+    canales seguros. Un servidor IRC malicioso puede aprovechar este defecto
+    para provocar la caída de Irssi, dando lugar a denegación de servicio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-15723">CVE-2017-15723</a>
+
+    <p>Joseph Bisch informó de que Irssi no gestiona correctamente apodos
+    o destinos demasiado largos, dando lugar a desreferencias de puntero NULL al
+    fragmentar el mensaje, lo que provoca denegación de servicio.</p></li>
+
+</ul>
+
+<p>Para la distribución «antigua estable» (jessie), estos problemas se han corregido
+en la versión 0.8.17-1+deb8u5.</p>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 1.0.2-1+deb9u3. <a href="https://security-tracker.debian.org/tracker/CVE-2017-10965">CVE-2017-10965</a> y <a href="https://security-tracker.debian.org/tracker/CVE-2017-10966">CVE-2017-10966</a> ya se
+corrigieron en una versión anterior.</p>
+
+<p>Le recomendamos que actualice los paquetes de irssi.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2017/dsa-4016.data"
