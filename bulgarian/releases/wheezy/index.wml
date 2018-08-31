@@ -1,5 +1,5 @@
 #use wml::debian::template title="Информация за Дебиан &ldquo;wheezy&rdquo;"
-#use wml::debian::translation-check translation="ac2257a383b70fa1d7f6b59b6ccad9e3adf9ba97"
+#use wml::debian::translation-check translation="a4158e0a1fed94e1ffcdb299e61ace2cbbcecc61"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/wheezy/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
@@ -12,6 +12,17 @@
 Описание на множеството промени в това издание
 има в <a href="$(HOME)/News/2013/20130504">съобщението до пресата</a> и 
 <a href="releasenotes">бележките по изданието</a>.</p>
+
+<p><strong>Дебиан 7 е заменена
+<a href="../jessie/">Дебиан 8 (<q>jessie</q>)</a>.
+# Security updates have been discontinued as of <:=spokendate('XXXXXXXXXXX'):>.
+</strong></p>
+
+<p><strong>Потребителите на wheezy могат да се възползват от проекта за
+дългосрочна поддръжка (LTS) до края на месец май 2018. Дългосрочната поддръжка
+се предлага само за архитектури i386, amd64, armel и armhf. Повече информация
+има на <a href="https://wiki.debian.org/LTS">страниците на проекта за
+дългосрочна поддръжка</a> в уикито на Дебиан. </strong></p>
 
 <p>За информация относно сдобиването с Дебиан вижте страницата
 на <a href="debian-installer/">инсталатора</a> и
