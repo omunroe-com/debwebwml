@@ -1,0 +1,415 @@
+#use wml::debian::projectnews::header PUBDATE="2018-08-31" SUMMARY="Welcome to the DPN, Happy 25th Anniversary Debian!, Debian 9.5 and 8.11 released, Alioth Migration to Salsa, Debian Data Protection Team, New features of Debian Package Tracker, Debian Policy 4.2.0.0 released, Reports, Calls for Help, More than just code, Quick Links from Debian Social Media"
+#use wml::debian::acronyms
+
+# $Id$
+# $Rev$
+# Status: [content-frozen]
+
+
+## substitute XXX with the number (expressed in letter) of the issue.
+## please note that the var issue is not automagically localized, so
+## translators need to put it directly in their language!
+## example: <intro issue="fourth" />
+
+## Use &#35; to escape # for IRC channels
+## Use &#39 for single quotes
+
+<intro issue="third" />
+<toc-display/>
+
+<toc-add-entry name="newdpn">Welcome to the Debian Project News!</toc-add-entry>
+
+<p>We hope that you enjoy this edition of the DPN.</p>
+
+<p>For other news, please read the official Debian blog
+<a href="https://bits.debian.org">Bits from Debian</a>, and follow
+<a href="https://micronews.debian.org">https://micronews.debian.org</a> which
+feeds (via RSS) the @debian profile on several social networks too.</p>
+
+
+<p> Debian's Security Team releases current advisories on a daily basis
+(<a href="$(HOME)/security/2018/">Security Advisories 2018</a>). Please
+read them carefully and subscribe to the <a href="https://lists.debian.org/debian-security-announce/">security mailing
+ list</a>.</p>
+
+<p> At the end of this Project News we've added a <b>Quick Links</b> section which
+links to a selection of the posts made through our other media streams.</p>
+
+<toc-add-entry name="internal">Internal News/Happenings</toc-add-entry>
+
+<p><b>Happy 25th Anniversary Debian!</b></p>
+
+<p>This year's annual Debian birthday celebration, known as <a href="https://wiki.debian.org/DebianDay">DebianDay</a>, was an even
+more special occasion as it marked a <a href="https://bits.debian.org/2018/08/debian-is-25.html">quarter century</a> of excellence, development,
+contributions, translations, software creation, advocacy, and all things Debian.
+Celebrations were held all over the world and several Debian designers created 
+some amazing artwork, logos, posters, and images which we shared online.</p>
+
+<p><a href="https://micronews.debian.org/images/Debian25years-AngeloRosa.png">Debian 25 Years by Angelo Rosa</a></p>
+<p><a href="https://micronews.debian.org/images/Debian25years-MarkBillings.png">Anniversary Logo by Mark Billings</a></p>
+<p><a href="https://micronews.debian.org/images/Debian25years-Petrusko.png">Happy Birthday by Petrusko</a></p>
+<p><a href="https://micronews.debian.org/images/Debian25years-DanielLenharo.png">Artwork by Daniel Lenharo</a></p>
+<p><a href="https://micronews.debian.org/images/Debian25years-ValessioBrito.png">Posters by Valessio Brito</a></p>
+
+<p>Thank you Debian Developers and Contributors for all that you do!
+
+<p><b>Updated Debian 9 and Debian 8: 9.5 and 8.11 released</b></p>
+<p>The Debian project <a href="https://www.debian.org/News/2018/20180714">announced</a> 
+the fifth update of its stable distribution Debian 9 (codename <q>Stretch</q>) on 14 July 2018 
+to point release 9.5.</p>
+
+<p>The Debian project also <a href="https://www.debian.org/News/2018/20180623">announced</a>
+the eleventh and final update of its oldstable distribution Debian 8 (codename <q>Jessie</q>) on 23 June 2018
+to point release 8.11.</p>
+
+<p>These point releases added corrections for security issues
+along with a few adjustments for serious problems.
+Security advisories have already been published separately and are referenced where available.
+
+Upgrading an existing installation to either revision can be achieved
+by pointing the package management system at one of Debian's many HTTP mirrors.
+A comprehensive list of mirrors is available at: <a href="https://www.debian.org/mirror/list">https://www.debian.org/mirror/list</a>
+</p>
+
+
+<p><b>Alioth Migration to Salsa</b></p>
+Alexander Wirt <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00001.html">announced</a> that <q>Alioth is gone</q> after the archiving of the last remaining VCS repositories. Alioth, which ran on Fusionforge, served as the repository
+for collaborative maintenance of packages in Debian from 2003 through 2018. After some
+discussion and a dedicated <a href="https://lists.debian.org/debian-devel-announce/2017/06/msg00002.html">sprint</a> about future
+options, Alioth was replaced with a GitLab instance at <a href="https://salsa.debian.org">salsa.debian.org</a>
+which came out of beta testing in early 2018.</p>
+<p>
+Debian Developers and projects should have already migrated over to the new
+system; additional information on the migration is <a href="https://wiki.debian.org/Salsa/AliothMigration">available</a>.</p>
+
+<p><b>Debian Data Protection Team announced</p></b>
+<p>Chris Lamb <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00000.html">announced</a> the creation and delegation
+of the Debian Data Protection team. The team will serve as the centralized point for queries
+regarding Debian's use and care of personal information across the project and
+guidance on data protection principles.</p>
+
+<p><b>Latest team features of Debian Package Tracker</b></p>
+<p>Raphael Hertzog <a href="https://lists.debian.org/debian-devel-announce/2018/07/msg00001.html">shared</a> the latest team features of the Debian Package Tracker. New 
+to the tracker are helpful attributes for email address team identification,
+discussion subscriptions, and automatic maintainer and uploader fields along
+with many other features.</p>
+
+<p><b>vmdebootstrap to be removed September 2018</b></p>
+<p>Lars Wirzenius <a href="https://lists.debian.org/debian-devel-announce/2018/07/msg00002.html">encouraged</a> users of the vmdebootstrap package to switch to
+other available tools prior to its removal from the archive September 2018.
+The package, used for automatically building system images, is
+somewhat difficult to modify and test due to its architecture. As other
+tools are available users are advised to change now.</p>
+
+<p><b>Debian Policy 4.2.0.0 released</b></p>
+<p>Sean Whitton <a href="https://lists.debian.org/debian-devel-announce/2018/08/msg00000.html">announced<a/> Debian Policy 4.2.0.0 being released and uploaded to sid. The announcement details the changes from Policy 4.1.5.
+<a href="https://www.debian.org/doc/debian-policy/">The Debian Policy Manual</a> deals with the structure and contents
+of the Debian archive, technical requirements each package must satisfy to be included in
+the archive, and the package management system developers have to be conversant with.</p>
+
+<p><b>DebConf18 Videos are available</b></p>
+Video recordings from DebConf18 are <a href="https://meetings-archive.debian.net/pub/debian-meetings/2018/DebConf18/">available</a>; special thanks to the DebConf
+Video Team for their amazing work covering this event.
+Wouter Verhelst <a href="https://grep.be/blog//en/life/debian/DebConf18_video_work/">wrote</a> about the software used for the transcoding and the
+different formats available for download. The schedule page on the DebConf18
+<a href="https://debconf18.debconf.org/schedule/">website</a> now also includes the recordings in each talk page using HTML5 video.
+
+
+<p><b>New and noteworthy packages</b></p>
+
+<p>
+<a href="https://packages.debian.org/unstable/main/newpkg">Among
+many other packages that were added to the unstable Debian archive</a> in the past weeks,
+we can find:</p>
+
+<ul>
+<li><a href="https://packages.debian.org/unstable/main/astroid">astroid (0.13-3) - Graphical notmuch email client</a></li>
+<li><a href="https://packages.debian.org/unstable/main/webext-debianbuttons">webext-debianbuttons (2.1-2) - Buttons for querying Debian-related pages with Firefox</a></li>
+<li><a href="https://packages.debian.org/unstable/main/elpa-verbiste">elpa-verbiste (0.1.45-4) - French and Italian conjugator - emacs extension</a></li>
+</ul>
+
+<toc-add-entry name="events">Events: Upcoming and Reports</toc-add-entry>
+
+<p><b>Upcoming events</b></p>
+<p><b>Debian/Xen microsprint, Cambridge, 10 September</b></p>
+
+<p>There will be a <a href="https://lists.debian.org/debian-devel-announce/2018/08/msg00005.html">microsprint</a>
+held on 10 September in Cambridge, UK, to work on Debian Xen packages for <q>Buster</q>.</p>
+
+<p><b>Debian Bug Squashing Party, Chemnitz, Germany 28th-30th September</b></p>
+<p>
+There will be a <a href="https://wiki.debian.org/BSP/2018/09/de/Chemnitz">Bug
+Squashing Party</a> on 28&ndash;30 September 2018 in Chemnitz, Germany.
+</p>
+
+
+<p><b>DebConf18 in Hsinshu</b></p>
+<p>The annual Debian Project's Developer Conference, which includes technical, social
+and policy talks and is known as <a href="https://debconf.org/">DebConf</a>, was held this year in Hsinchu, Taiwan
+from 29 July through 5 August. <a href="https://debconf18.debconf.org/">DebConf18</a> was the very first Debian Conference
+held in Asia. We welcomed over 306 attendees from around the world, and held 137
+events, 100 talks, 25 Birds of a Feather discussion sessions, 5 workshops
+and many other activities.</p>
+
+<p>The <a href="https://debconf18.debconf.org/schedule/">schedule</a> of events and
+<a href="https://debconf18.debconf.org/talks/">talks</a> were continually updated and
+shared on <a href="https://micronews.debian.org">Debian micronews</a>, and are still available.</p>
+
+<p><b>DebConf19 in Curitiba</b></p>
+
+<p>DebConf19 will be held in Curitiba, Brazil, from 21 to 28 July, 2019, and 
+will be the second DebConf held in Brazil.</p>
+
+
+
+<toc-add-entry name="reports">Reports</toc-add-entry>
+## It's easier to link to the monthly reports for the LTS section and the RB links rather than
+# summarize each report or number of packages. Feel free to input this information if you need to fill
+# the issue out
+#
+<p><b>LTS Freexian Monthly Reports</b></p>
+
+<p>Freexian issues <a href="https://raphaelhertzog.com/tag/Freexian+LTS/">monthly reports</a>
+about the work of paid contributors to Debian Long Term Support.
+</p>
+
+<p><b>Reproducible Builds status update</b></p>
+
+<p>Follow the <a
+href="https://reproducible-builds.org/blog/">Reproducible
+Builds blog</a> to get the weekly reports on their work in the <q>Buster</q> cycle.
+</p>
+
+
+<toc-add-entry name="help">Help needed</toc-add-entry>
+
+<p>Teams needing help</p>
+## Teams needing help
+## $Link to the email from $Team requesting help
+
+The NM Front Desk has put out a call for <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00007.html">help with Application Managers</a>.
+Application Managers are responsible for starting a conversation with a
+prospective Debian Developer and recommending whether they should go forward
+to become Debian Developers.
+
+<p>Packages needing help:</p>
+
+## link= link to the mail report from wnpp@debian.org to debian-devel ML
+## orphaned= number of packages orphaned according to $link
+## rfa= number of packages up for adoption according to $link
+
+<wnpp link="https://lists.debian.org/debian-devel/2018/08/msg00369.html"
+	orphaned="1298"
+	rfa="173" />
+
+<p>Newcomer bugs</p>
+
+## check https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=newcomer and add outstanding + forwarded + pending upload
+<p>
+Debian has a <q>newcomer</q> bug tag, used to indicate bugs which are suitable for new
+contributors to use as an entry point to working on specific packages.
+
+There are currently <a href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=newcomer">203</a>
+bugs available tagged <q>newcomer</q>.
+</p>
+
+<toc-add-entry name="morethancode">More than just code</toc-add-entry>
+
+<p>Jonathan McDowell <a href="https://www.earth.li/~noodles/blog/2018/06/alexa-assistant.html">shared</a>
+a write-up entitled <q>Hooking up Home Assistant to Alexa and Google Assistant</q> which details how to set up home automation and required
+authentication, with a few critical security steps to avoid being another
+insecure device on the IoT.</p>
+
+<p>Benjamin Mako Hill <a href="https://mako.cc/copyrighteous/libreplanet-2018-keynote">blogged</a> on
+<q>How markets coopted free software's most powerful weapon</q>
+which highlights the methodology of current business development models which
+use the same tools that enabled the large scale development of free culture
+and free software. The talk was also the keynote at LibrePlanet 2018.</p>
+
+<p>Ana Guerrero Lopez <a href="https://ekaia.org/blog/2018/07/03/introducing-debos/">introduced</a> us to
+<a href="https://github.com/go-debos/debos">debos</a>, a versatile image generator. The tool,
+used to build software images, makes the task easy by using recipe files in YAML
+to create highly customized images. </p>
+
+
+<p><b>Contributors</b></p>
+
+## Visit the link below and pull the information manually.
+
+<p>
+1,484 people and 19 teams are currently listed on the
+<a href="https://contributors.debian.org/">Debian Contributors</a> page for 2018.
+</p>
+
+
+<p><b>Discussions</b></p>
+
+<p>From the Debian-user mailing list serveral interesting questions were asked:</p>
+
+<p>HP Garcia asked about <a href="https://lists.debian.org/debian-user/2018/06/msg00239.html"><q>Verifying Digital Signatures</q></a>.
+Fellow Debian users contributed to the discussion with pointers on how to check and keep keys
+and signatures current.</p>
+
+<p>Pierre Couderc asked <a href="https://lists.debian.org/debian-user/2018/07/msg00420.html"><q>How to apt update from an USB key?</q></a>
+Readers can learn about other tried and proven methods to update sources and packages for computer systems with limited access.</p>
+
+<p>Martin Drecher asked about <a href="https://lists.debian.org/debian-user/2018/08/msg00226.html"><q>use of su vs sudo?</q></a>
+Always a hot topic for administrators, this question introduces best practices and includes some of a history of how/when passwords are used during the initial Debian system installation and the effects on the system afterward.</p>
+
+<p>Richard Owlett asked about <a href="https://lists.debian.org/debian-user/2018/08/msg00595.html"><q>Installing package NOT in repository</q></a>. This longer discussion talks about the installation of .deb files,
+install pathname arguments, dependency checking, dpkg, apt, and cached personal
+survival notes.</p>
+
+
+<p><b>Tips and Tricks</b></p>
+<p>Petter Reinholdtsen shared a tip on doing a <a href="http://people.skolelinux.org/pere/blog/Debian_APT_upgrade_without_enough_free_space_on_the_disk___.html">Debian APT upgrade without enough free space</a>
+on the disk. The blog post includes a script and other methods for upgrades when
+storage space is limited.</p> 
+
+<p>Arturo Borrero González highlights <a href="http://ral-arturo.org/2018/07/19/multimedia.html">Things you can do with Debian, Multimedia editing.</a> 
+He covers many of the FLOSS software packages and tools available in Debian for
+multimedia editing and production.</p>
+
+<p><b>Once upon a time in Debian:</b></p>
+
+## Items pulled from the Timeline https://timeline.debian.net
+## Jump to any random year/ same month/ same week.
+## Provide link and link description.
+## This may work better with a script at some point, but for now let us see
+## what the ease of work is.
+
+## Format - YYYY-MM-DD text
+
+<ul>
+
+<li>2014-08-27 <a href="https://lists.debian.org/debian-devel-announce/2014/08/msg00012.html">Two new architectures (arm64 and ppc64el) bootstrapping in unstable</a></li>
+<li>2010-08-31 <a href="https://www.debian.org/News/2010/20100831">Debian Project mourns the loss of Frans Pop</a></li>
+<li>2007-09-02 <a href="https://lists.debian.org/debian-devel-announce/2007/09/msg00001.html">packages.debian.org updated</a></li>
+<li>2005-09-03 <a href="https://lists.debian.org/debian-devel-announce/2005/09/msg00002.html">bugs.d.o: usertags and user categories</a></li>
+<li>2009-09-04 <a href="https://lists.debian.org/debian-devel-announce/2009/09/msg00002.html">grub package now based on GRUB2</a></li>
+
+</ul>
+
+
+<toc-add-entry name="quicklinks">Quick Links from Debian Social Media</toc-add-entry>
+
+<p>
+This is an extract from the
+<a href="https://micronews.debian.org">micronews.debian.org</a> feed, in
+which we have removed the topics already commented on in this DPN issue.
+You can skip this section if you already follow <b>micronews.debian.org</b>
+or the <b>@debian</b> profile in a social network (Pump.io, GNU Social, 
+Mastodon or Twitter). The items are provided unformatted in descending order by date
+(recent news at the top).
+</p>
+
+<b>August</b></p>
+<ul>
+<li>Several Debian designers created artwork to celebrate #DebianDay #Debian25years
+</li>
+
+<li>The original announcement from Ian Murdock can be found here:
+<a href="https://deb.li/ikd3y">https://deb.li/ikd3y</a> #DebianDay #Debian25years
+</li>
+
+<li>25 years and counting
+<a href="https://bits.debian.org/2018/08/debian-is-25.html">https://bits.debian.org/2018/08/debian-is-25.html</a> #DebianDay #Debian25years
+</li>
+
+<li>If you want Debian Buster released in early 2019 (or like short Debian freezes in general...) help fix RC bugs today! 
+<a href="https://nthykier.wordpress.com/2018/08/06/buster-is-headed-for-a-long-hard-freeze/">https://nthykier.wordpress.com/2018/08/06/buster-is-headed-for-a-long-hard-freeze/</a>
+</li>
+
+<li>#DebConf18 closes in Hsinchu and #DebConf19 dates announced 
+<a href="https://bits.debian.org/2018/08/debconf18-closes.html">https://bits.debian.org/2018/08/debconf18-closes.html</a>
+</li>
+
+<li>#DebConf18 ended with the introduction of #DebConf19 in Curitiba and the Closing Ceremony. See you next year in Brazil!
+</li>
+</ul>
+
+
+<b>July</b></p>
+<ul>
+<li>Debian joins KDE's Advisory Board
+<a href="https://dot.kde.org/2018/07/12/debian-joins-kdes-advisory-board">https://dot.kde.org/2018/07/12/debian-joins-kdes-advisory-board</a>
+</li>
+
+<li>Report on Debian Edu sprint at MiniDebconf Hamburg, May 2018
+<a href="https://lists.debian.org/debian-project/2018/07/msg00004.html">https://lists.debian.org/debian-project/2018/07/msg00004.html</a>
+</li>
+
+<li>"Report on the Debian Bug Squashing Party" (New York) by Elana Hashman
+<a href="https://hashman.ca/nyc-bsp-report/">https://hashman.ca/nyc-bsp-report/</a>
+</li>
+
+<li>"Introducing debos, a versatile images generator" by Ana Beatriz Guerrero Lopez
+<a href="https://ekaia.org/blog/2018/07/03/introducing-debos/">https://ekaia.org/blog/2018/07/03/introducing-debos/</a>
+</li>
+</ul>
+
+<p>
+<b>June</b></p>
+<ul>
+<li>Bits from the Debian Project Leader (June 2018)
+<a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00006.html">https://lists.debian.org/debian-devel-announce/2018/06/msg00006.html</a>
+</li>
+
+<li>MiniDebConf Curitiba 2018 - a brief report
+<a href="http://debianbrasil.org.br/blog/minidebconf-curitiba-2018-a-brief-report">http://debianbrasil.org.br/blog/minidebconf-curitiba-2018-a-brief-report</a>
+</li>
+
+<li>Debian Perl Sprint 2018
+<a href="https://bits.debian.org/2018/06/debian-perl-sprint-2018.html">https://bits.debian.org/2018/06/debian-perl-sprint-2018.html</a>
+</li>
+
+<li>Report from the recent "cryptsetup" sprint
+<a href="https://blog.freesources.org//posts/2018/06/debian_cryptsetup_sprint_report/">https://blog.freesources.org//posts/2018/06/debian_cryptsetup_sprint_report/</a>
+</li>
+
+<li>Civil Infrastructure Platform Announces Collaboration with the Debian LTS Initiative
+<a href="https://www.cip-project.org/announcement/2018/06/19/civil-infrastructure-platform-announces-collaboration-with-the-debian-lts-initiative-and-welcomes-cybertrust-as-a-new-member">https://www.cip-project.org/announcement/2018/06/19/civil-infrastructure-platform-announces-collaboration-with-the-debian-lts-initiative-and-welcomes-cybertrust-as-a-new-member</a>
+</li>
+
+<li>Debian Installer Buster Alpha 3 release
+<a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00005.html">https://lists.debian.org/debian-devel-announce/2018/06/msg00005.html</a>
+</li>
+
+<li>Share your plans for DebCamp18
+<a href="https://lists.debian.org/debconf-announce/2018/06/msg00003.html">https://lists.debian.org/debconf-announce/2018/06/msg00003.html</a>
+</li>
+
+<li>Debian Artwork: Call for Proposals for Debian 10 (Buster)
+<a href="https://bits.debian.org/2018/06/buster-artwork-cfp.html">https://bits.debian.org/2018/06/buster-artwork-cfp.html</a>
+</li>
+
+
+<li>DebConf19 has a logo
+<a href="http://debianbrasil.org.br/blog/debconf19-has-a-logo">http://debianbrasil.org.br/blog/debconf19-has-a-logo</a>
+</li>
+
+<li>"Looking for a new Raspberry Pi image maintainer" by Michael Stapelberg
+<a href="https://people.debian.org/~stapelberg//2018/06/03/raspi3-looking-for-maintainer.html">https://people.debian.org/~stapelberg//2018/06/03/raspi3-looking-for-maintainer.html</a>
+</li>
+
+<li>Come join the #Debian #buster bug squashing party in Brooklyn, NYC on June 24th
+<a href="https://hashman.ca/nyc-bsp/">https://hashman.ca/nyc-bsp/</a>
+</li>
+</ul>
+
+<p>
+<b>May</b></p>
+<ul>
+<li>Bits from the Debian Project Leader (May 2018)
+<a href="https://lists.debian.org/debian-devel-announce/2018/05/msg00006.html">https://lists.debian.org/debian-devel-announce/2018/05/msg00006.html</a>
+</li>
+</ul>
+
+<toc-add-entry name="continuedpn">Want to continue reading DPN?</toc-add-entry>
+<continue-dpn />
+
+<p><a href="https://lists.debian.org/debian-news/">Subscribe or Unsubscribe</a> from the Debian News mailing list</p>
+
+#use wml::debian::projectnews::footer editor="The Publicity Team with contributions from Jean-Pierre Giraud, Chris Lamb, and Justin B Rye"
+# Please add the contributors to the /dpn/CREDITS file
+# Translators may also add a translator="foo, bar, baz" to the previous line
