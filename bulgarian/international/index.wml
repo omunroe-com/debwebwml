@@ -1,5 +1,5 @@
 #use wml::debian::template title="Дебиан Интернационал"
-#use wml::debian::translation-check translation="5011f532637dc7820b79b151eecfda4ab65aa22f"
+#use wml::debian::translation-check translation="c983d05b92b263f99491afdfdb7b5eb303d0cd2c"
 
 <p>В Интернет обществото на свободния софтуер комуникира главно на английски език.
 Повечето от работата, която сме свършили е описана на английски, но се надяваме, че един ден
@@ -30,9 +30,10 @@
 <dl>
   <dt><strong>Инсталационна система</strong></dt>
   <dd>Моля прочетете <a
-  href="https://anonscm.debian.org/viewvc/d-i/trunk/manual/doc/translations.txt?view=markup">\
+  href="https://salsa.debian.org/installer-team/installation-guide/blob/master/doc/translations.txt">\
         информацията за преводачи</a> в <a
-        href="$(DEVEL)/debian-installer/svn">хранилището на инсталатора</a>.
+        href="https://salsa.debian.org/installer-team/installation-guide">хранилището
+        на ръководството за инсталиране</a>.
         Информация, свързана с инсталацията на Дебиан можете да получите и от
         пощенския списък <a href="https://lists.debian.org/debian-boot/">\
                                   <tt>debian-boot</tt></a>.
