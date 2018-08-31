@@ -1,12 +1,12 @@
 #
-# Damyan Ivanov <dmn@debian.org>, 2010, 2011, 2012, 2014, 2015.
+# Damyan Ivanov <dmn@debian.org>, 2010, 2011, 2012, 2014, 2015, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: others\n"
 "Report-Msgid-Bugs-To: debian-www@lists.debian.org\n"
 "POT-Creation-Date: 2010-12-16 22:41+0300\n"
-"PO-Revision-Date: 2015-04-02 17:43+0300\n"
+"PO-Revision-Date: 2018-08-31 14:57+0300\n"
 "Last-Translator: Damyan Ivanov <dmn@debian.org>\n"
 "Language-Team: Bulgarian <dict@ludost.net>\n"
 "Language: bg\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 #: ../../english/banners/index.tags:7
 msgid "Download"
@@ -241,19 +241,21 @@ msgstr "Носители USB"
 
 #: ../../english/misc/merchandise.def:75
 msgid "lanyards"
-msgstr ""
+msgstr "ленти за прикрепване на бадж"
 
 #: ../../english/misc/merchandise.def:78
 msgid "others"
-msgstr ""
+msgstr "други"
 
 #: ../../english/misc/merchandise.def:98
 msgid "Donates money to Debian"
-msgstr ""
+msgstr "Дарител на парични средства"
 
 #: ../../english/misc/merchandise.def:102
 msgid "Money is used to organize local free software events"
 msgstr ""
+"Парични дарения, използвани за организиране на местни събития, свързани със "
+"свободен софтуер"
 
 #: ../../english/women/profiles/profiles.def:24
 msgid "How long have you been using Debian?"
