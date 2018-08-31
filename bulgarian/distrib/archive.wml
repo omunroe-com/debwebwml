@@ -1,5 +1,5 @@
 #use wml::debian::template title="Архиви на дистрибуцията"
-#use wml::debian::translation-check translation="3ce0c242e8672522fe0fa93c3e14ab4dd0dbcac0"
+#use wml::debian::translation-check translation="adf86939b926d1434cbac41f9d6ad4ca2df51930"
 #use wml::debian::toc
 
 <toc-display />
@@ -11,11 +11,12 @@
 Дебиан</a>, <tt>http://archive.debian.org/debian/</tt>.</p>
 
 <p>Търсенето на пакети в архивните издания на Дебиан е възможно на адрес <url
-https://archive.debian.net>.</p>
+https://historical.packages.debian.org/>.</p>
 
 <p>Изданията се съхраняват в поддиректория на dists/, именувана според
 кодовото име.</p>
 <ul>
+  <li><a href="../releases/squeeze/">squeeze</a> е Дебиан 6.0</li>
   <li><a href="../releases/lenny/">lenny</a> е Дебиан 5.0</li>
   <li><a href="../releases/etch/">etch</a> е Дебиан 4.0</li>
   <li><a href="../releases/sarge/">sarge</a> е Дебиан 3.1</li>
@@ -29,7 +30,9 @@ https://archive.debian.net>.</p>
 </ul>
 
 <p>С течение на времето премахваме компилираните пакети за старите издания.
-В момента има на разположение компилирани пакети за <i>lenny</i>, <i>etch</i>,
+В момента има на разположение компилирани пакети за
+<i>squeeze</i>,
+<i>lenny</i>, <i>etch</i>,
 <i>sarge</i>, <i>woody</i>, <i>potato</i>, <i>slink</i>, <i>hamm</i> и
 <i>bo</i>. За останалите издания се съхранява само изходния код.</p>
 
