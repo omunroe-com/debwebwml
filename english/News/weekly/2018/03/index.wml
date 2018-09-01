@@ -73,7 +73,7 @@ A comprehensive list of mirrors is available at: <a href="https://www.debian.org
 
 
 <p><b>Alioth Migration to Salsa</b></p>
-Alexander Wirt <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00001.html">announced</a> that <q>Alioth is gone</q> after the archiving of the last remaining VCS repositories. Alioth, which ran on Fusionforge, served as the repository
+<p>Alexander Wirt <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00001.html">announced</a> that <q>Alioth is gone</q> after the archiving of the last remaining VCS repositories. Alioth, which ran on Fusionforge, served as the repository
 for collaborative maintenance of packages in Debian from 2003 through 2018. After some
 discussion and a dedicated <a href="https://lists.debian.org/debian-devel-announce/2017/06/msg00002.html">sprint</a> about future
 options, Alioth was replaced with a GitLab instance at <a href="https://salsa.debian.org">salsa.debian.org</a>
@@ -108,11 +108,11 @@ of the Debian archive, technical requirements each package must satisfy to be in
 the archive, and the package management system developers have to be conversant with.</p>
 
 <p><b>DebConf18 Videos are available</b></p>
-Video recordings from DebConf18 are <a href="https://meetings-archive.debian.net/pub/debian-meetings/2018/DebConf18/">available</a>; special thanks to the DebConf
+<p>Video recordings from DebConf18 are <a href="https://meetings-archive.debian.net/pub/debian-meetings/2018/DebConf18/">available</a>; special thanks to the DebConf
 Video Team for their amazing work covering this event.
 Wouter Verhelst <a href="https://grep.be/blog//en/life/debian/DebConf18_video_work/">wrote</a> about the software used for the transcoding and the
 different formats available for download. The schedule page on the DebConf18
-<a href="https://debconf18.debconf.org/schedule/">website</a> now also includes the recordings in each talk page using HTML5 video.
+<a href="https://debconf18.debconf.org/schedule/">website</a> now also includes the recordings in each talk page using HTML5 video.</p>
 
 
 <p><b>New and noteworthy packages</b></p>
@@ -410,6 +410,6 @@ Mastodon or Twitter). The items are provided unformatted in descending order by 
 
 <p><a href="https://lists.debian.org/debian-news/">Subscribe or Unsubscribe</a> from the Debian News mailing list</p>
 
-#use wml::debian::projectnews::footer editor="The Publicity Team with contributions from Jean-Pierre Giraud, Chris Lamb, and Justin B Rye"
+#use wml::debian::projectnews::footer editor="The Publicity Team with contributions from Jean-Pierre Giraud, Chris Lamb, Justin B Rye"
 # Please add the contributors to the /dpn/CREDITS file
 # Translators may also add a translator="foo, bar, baz" to the previous line
