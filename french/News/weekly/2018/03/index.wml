@@ -92,7 +92,7 @@ d'une version bêta de test, début 2018.</p>
 Les développeurs et les projets Debian devraient déjà avoir migré sur le nouveau
 système ; des informations complémentaires sur la migration sont <a href="https://wiki.debian.org/Salsa/AliothMigration">disponibles</a>.</p>
 
-<p><b>Mise en place d'une équipe Debian de protection des données</p></b>
+<p><b>Mise en place d'une équipe Debian de protection des données</b></p>
 <p>Chris Lamb a <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00000.html">annoncé</a> la création et la délégation de l'équipe Debian de
 protection des données. Elle servira de point d'accès centralisé pour les
 requêtes concernant l'utilisation et la protection par Debian des données
@@ -115,7 +115,7 @@ tester du fait de son architecture. Comme il existe d'autres outils disponibles,
 il est conseillé aux utilisateurs de changer dès maintenant.</p>
 
 <p><b>Publication de la version 4.2.0.0 de la Charte Debian</b></p>
-<p>Sean Whitton a <a href="https://lists.debian.org/debian-devel-announce/2018/08/msg00000.html">annoncé<a/>
+<p>Sean Whitton a <a href="https://lists.debian.org/debian-devel-announce/2018/08/msg00000.html">annoncé</a>
 que la version 4.2.0.0 de la Charte Debian été publiée et chargée dans sid.
 L'annonce détaille les modification par rapport à la version 4.1.5.
 <a href="https://www.debian.org/doc/debian-policy/">Le manuel de la Charte Debian</a> 
@@ -281,7 +281,7 @@ meilleurs pratiques et comprend des éléments d'historique sur quand et comment
 mots de passe sont utilisés durant l'installation initiale du système Debian et les
 effets ultérieurs sur le système.</p>
 
-<p>Richard Owlett a posé le problème de <a href="https://lists.debian.org/debian-user/2018/08/msg00595.html"><q>l'installation d'un paquet ABSENT du dépôt</q></a>.
+<p>Richard Owlett a posé le problème de <a href="https://lists.debian.org/debian-user/2018/08/msg00595.html"></q>l'installation d'un paquet ABSENT du dépôt</q></a>.
 Cette longue discussion a abordé l'installation de fichiers .deb, les paramètres
 de chemin d'installation, la vérification des dépendances, dpkg, apt, et les notes
 de secours personnelles mise en cache.</p>
@@ -348,7 +348,6 @@ récent au plus ancien.
 <li>#DebConf18 s'est terminé avec la présentation de #DebConf19 à Curitiba et la cérémonie de clôture. À l'an prochain au Brésil !
 </li>
 </ul>
-
 
 <p>
 <b>Juillet</b></p>
