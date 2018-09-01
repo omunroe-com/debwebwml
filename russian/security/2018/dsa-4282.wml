@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="729334a59b6ae5c77ff48ecd210d12c01a3602f7" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В Apache Traffic Server, обратном прокси и прокси переадресации,
+было обнаружено несколько уязвимостей, которые могут приводить к отказу в
+обслуживании, порче кэша или раскрытию информации.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 7.0.0-6+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты trafficserver.</p>
+
+<p>С подробным статусом поддержки безопасности trafficserver можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/trafficserver">\
+https://security-tracker.debian.org/tracker/trafficserver</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4282.data"
