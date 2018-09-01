@@ -51,7 +51,7 @@ some amazing artwork, logos, posters, and images which we shared online.</p>
 <p><a href="https://micronews.debian.org/images/Debian25years-DanielLenharo.png">Artwork by Daniel Lenharo</a></p>
 <p><a href="https://micronews.debian.org/images/Debian25years-ValessioBrito.png">Posters by Valessio Brito</a></p>
 
-<p>Thank you Debian Developers and Contributors for all that you do!
+<p>Thank you Debian Developers and Contributors for all that you do!</p>
 
 <p><b>Updated Debian 9 and Debian 8: 9.5 and 8.11 released</b></p>
 <p>The Debian project <a href="https://www.debian.org/News/2018/20180714">announced</a> 
@@ -187,10 +187,10 @@ Builds blog</a> to get the weekly reports on their work in the <q>Buster</q> cyc
 ## Teams needing help
 ## $Link to the email from $Team requesting help
 
-The NM Front Desk has put out a call for <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00007.html">help with Application Managers</a>.
+<p>The NM Front Desk has put out a call for <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00007.html">help with Application Managers</a>.
 Application Managers are responsible for starting a conversation with a
 prospective Debian Developer and recommending whether they should go forward
-to become Debian Developers.
+to become Debian Developers.</p>
 
 <p>Packages needing help:</p>
 
@@ -303,6 +303,7 @@ Mastodon or Twitter). The items are provided unformatted in descending order by 
 (recent news at the top).
 </p>
 
+<p>
 <b>August</b></p>
 <ul>
 <li>Several Debian designers created artwork to celebrate #DebianDay #Debian25years
@@ -329,6 +330,7 @@ Mastodon or Twitter). The items are provided unformatted in descending order by 
 </ul>
 
 
+<p>
 <b>July</b></p>
 <ul>
 <li>Debian joins KDE's Advisory Board
