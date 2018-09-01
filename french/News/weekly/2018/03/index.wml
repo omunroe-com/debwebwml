@@ -4,7 +4,7 @@
 
 # $Id$
 # $Rev$
-# Status: [content-frozen]
+# Status: [published]
 
 
 ## substitute XXX with the number (expressed in letter) of the issue.
@@ -80,14 +80,14 @@ Une liste complète des miroirs est disponible à l'adresse :
 
 
 <p><b>Migration d'Alioth vers Salsa</b></p>
-Alexander Wirt a <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00001.html">annoncé</a>,
+<p>Alexander Wirt a <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00001.html">annoncé</a>,
 « Alioth, c'est fini » après l'archivage des derniers dépôts VCS restants. Alioth,
 qui fonctionnait avec Fusionforge, a servi de dépôt pour la maintenance coopérative
 des paquets dans Debian de 2003 à 2018. Après quelques discussions et une
 <a href="https://lists.debian.org/debian-devel-announce/2017/06/msg00002.html">réunion</a>
 dédiée aux options à venir, Alioth a été remplacé par une instance de GitLab, à
 l'adresse <a href="https://salsa.debian.org">salsa.debian.org</a>, qui est issue
-d'une version bêta de test, début 2018.
+d'une version bêta de test, début 2018.</p>
 <p>
 Les développeurs et les projets Debian devraient déjà avoir migré sur le nouveau
 système ; des informations complémentaires sur la migration sont <a href="https://wiki.debian.org/Salsa/AliothMigration">disponibles</a>.</p>
@@ -125,7 +125,7 @@ dont les développeurs du système de gestion de paquets doivent avoir une bonne
 connaissance.</p>
 
 <p><b>Les vidéos de DebConf18 disponibles</b></p>
-Les enregistrements vidéos de DebConf18 sont <a
+<p>Les enregistrements vidéos de DebConf18 sont <a
 href="https://meetings-archive.debian.net/pub/debian-meetings/2018/DebConf18/">disponibles</a> ;
 un remerciement particulier à l'équipe vidéo de DebConf pour leur travail
 extraordinaire de couverture de l'événement. Wouter Verhelst a <a
@@ -134,7 +134,7 @@ dans son blog sur le logiciel utilisé pour le transcodage et les différents
 formats disponibles pour le téléchargement. La page de programme du <a
 href="https://debconf18.debconf.org/schedule/">site web</a> de DebConf18 comprend
 également maintenant les enregistrements sur chaque page de communication avec
-des vidéos HTML5.
+des vidéos HTML5.</p>
 
 
 <p><b>Nouveaux paquets dignes d'intérêt</b></p>
