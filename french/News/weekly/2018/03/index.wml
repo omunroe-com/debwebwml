@@ -57,7 +57,7 @@ partageons en ligne :.</p>
 <p><a href="https://micronews.debian.org/images/Debian25years-DanielLenharo.png">Dessins de Daniel Lenharo</a></p>
 <p><a href="https://micronews.debian.org/images/Debian25years-ValessioBrito.png">Affiches par Valessio Brito</a></p>
 
-<p>Merci aux développeurs et contributeurs Debian pour tout ce qu'ils font !
+<p>Merci aux développeurs et contributeurs Debian pour tout ce qu'ils font !</p>
 
 <p><b>Mise à jour de Debian 9 et Debian 8 : 9.5 et 8.11 publiés</b></p>
 <p>Le projet Debian a <a href="https://www.debian.org/News/2018/20180714">annoncé</a>
@@ -68,7 +68,7 @@ la cinquième mise à jour de la distribution stable Debian 9 (nom de code
 la onzième et dernière mise à jour de la distribution oldstable Debian 8 (nom de
 code <q>Jessie</q>) le 23 juin 2018 vers la version intermédiaire 8.11.</p>
 
-<p>Cette version intermédiaire ajoute des corrections à des problèmes de sécurité,
+<p>Ces versions intermédiaires ajoutent des corrections à des problèmes de sécurité,
 tout en réglant quelques problèmes importants. Les annonces de sécurité ont déjà
 été publiées séparément.
 
@@ -80,7 +80,7 @@ Une liste complète des miroirs est disponible à l'adresse :
 
 
 <p><b>Migration d'Alioth vers Salsa</b></p>
-<p>Alexander Wirt a <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00001.html">annoncé</a>,
+<p>Alexander Wirt a <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00001.html">annoncé</a> que
 « Alioth, c'est fini » après l'archivage des derniers dépôts VCS restants. Alioth,
 qui fonctionnait avec Fusionforge, a servi de dépôt pour la maintenance coopérative
 des paquets dans Debian de 2003 à 2018. Après quelques discussions et une
@@ -127,7 +127,7 @@ connaissance.</p>
 <p><b>Les vidéos de DebConf18 disponibles</b></p>
 <p>Les enregistrements vidéos de DebConf18 sont <a
 href="https://meetings-archive.debian.net/pub/debian-meetings/2018/DebConf18/">disponibles</a> ;
-un remerciement particulier à l'équipe vidéo de DebConf pour leur travail
+un remerciement particulier à l'équipe vidéo de DebConf pour son travail
 extraordinaire de couverture de l'événement. Wouter Verhelst a <a
 href="https://grep.be/blog//en/life/debian/DebConf18_video_work/">écrit</a>
 dans son blog sur le logiciel utilisé pour le transcodage et les différents
@@ -160,7 +160,7 @@ ces dernières semaines voici une courte sélection :
 href="https://lists.debian.org/debian-devel-announce/2018/08/msg00005.html">microsprint</a>
 pour travailler sur les paquets Xen de Debian pour Buster.</p>
 
-<p><b>Chasse aux bogues à Chemnitz, Allemange, du 28 au 30 septembre</b></p>
+<p><b>Chasse aux bogues à Chemnitz, Allemagne, du 28 au 30 septembre</b></p>
 <p>
 Une <a href="https://wiki.debian.org/BSP/2018/09/de/Chemnitz">chasse aux bogues</a> aura
 lieu du 28 au 30 septembre 2018, à Chemnitz en Allemagne.
@@ -209,11 +209,11 @@ pour obtenir un compte-rendu de leur travail sur le cycle de <q>Buster</q>.
 
 <p>Équipe demandant de l'aide</p>
 
-Le secrétariat des nouveaux membres (NM Front Desk) a lancé un appel à <a
+<p>Le secrétariat des nouveaux membres (NM Front Desk) a lancé un appel à <a
 href="https://lists.debian.org/debian-devel-announce/2018/06/msg00007.html">l'aide pour les responsables de candidature</a>.
 Les responsables de candidature (Application Managers) ont la responsabilité
 d'entrer en contact avec les futurs développeurs Debian, recommandant ou non
-la poursuite de leur démarche pour devenir développeurs Debian.
+la poursuite de leur démarche pour devenir développeurs Debian.</p>
 
 <p>Paquets qui ont besoin de travail</p>
 
@@ -323,6 +323,7 @@ Ces sujets sont livrés non formatés par ordre chronologique du plus
 récent au plus ancien.
 </p>
 
+<p>
 <b>Août</b></p>
 <ul>
 <li>Plusieurs graphistes de Debian ont créé des illustrations pour fêter #DebianDay #Debian25years
@@ -349,6 +350,7 @@ récent au plus ancien.
 </ul>
 
 
+<p>
 <b>Juillet</b></p>
 <ul>
 <li>Debian rejoint le comité consultatif de KDE
@@ -430,4 +432,4 @@ récent au plus ancien.
 
 <p><a href="https://lists.debian.org/debian-news/">S'inscrire ou se désinscrire </a> de la liste de diffusion Debian News</p>
 
-#use wml::debian::projectnews::footer editor="L'équipe en charge de la publicité avec des contributions de Jean-Pierre Giraud, Chris Lamb et Justin B Rye" translator="Jean-Pierre Giraud, l\'équipe francophone de traduction"
+#use wml::debian::projectnews::footer editor="l'équipe en charge de la publicité avec des contributions de Jean-Pierre Giraud, Chris Lamb et Justin B Rye" translator="Jean-Pierre Giraud, l\'équipe francophone de traduction"
