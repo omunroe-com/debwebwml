@@ -1,0 +1,18 @@
+#use wml::debian::translation-check translation="bffeab6e983008304ac296a79ef20edd0f4767a9" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Man har upptäckt att ruby-json-jwt, en Ruby-implementation av JSON
+web-tokens, utförde otillräcklig validering av GCM auth-taggar.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 1.6.2-1+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era ruby-json-jwt-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om ruby-json-jwt vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/ruby-json-jwt">https://security-tracker.debian.org/tracker/ruby-json-jwt</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4283.data"
