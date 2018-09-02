@@ -1,5 +1,5 @@
 #use wml::debian::template title="Nous contacter" NOCOMMENTS="yes"
-#use wml::debian::translation-check translation="75b5b8a7cc43e45bfafa02d6bb2924f2f7201582" maintainer="David Prévot"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011" maintainer="Jean-Pierre Giraud"
 
 # Translators:
 # Christophe Le Bars, 1998-2000.
@@ -7,6 +7,7 @@
 # Frédéric Bothamy, 2006, 2007.
 # Simon Paillard, 2008.
 # David Prévot, 2011, 2013.
+# Jean-Pierre Giraud 2018
 
 <p>
 Debian est une vaste organisation, et il
@@ -63,7 +64,7 @@ avertissement</a> avant d'envoyer un message.
 </ul>
 <p>sur la liste de diffusion <em>debian-user.</em> <a href="https://lists.debian.org/debian-user/">Abonnez-vous</a> simplement à <em>debian-user (liste en anglais)</em> ou <em>debian-user-french</em> (liste en français) et envoyez votre question respectivement à <email debian-user@lists.debian.org> ou <email debian-user-french@lists.debian.org>.</p>
 
-<p>Vous pouvez également lire nos listes de diffusion comme des forums en utilisant une interface web comme celle de <a href="http://groups.google.com/">Google</a> ou de <a href="http://gmane.org/">Gmane</a>.
+<p>Vous pouvez également lire nos listes de diffusion comme des forums en utilisant une interface web comme celle de <a href="http://groups.google.com/">Google</a>.
 
 <p>De plus, il existe des listes de diffusion dans d'autres langues. Vous en trouverez un répertoire sur <a href="https://lists.debian.org/users.html#debian-user">la page d'abonnement</a>, ainsi que des informations sur la démarche à suivre pour vous y abonner.</p>
 
