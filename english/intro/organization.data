@@ -394,8 +394,9 @@
     <member>Joerg Jaspert<delegate_male>
     <member>Jonathan Wiltshire<delegate_male>
     <note <gettext domain="organization">To send a private message to all DAMs, use the GPG key 57731224A9762EA155AB2A530CA8D15BB24D96F2.</gettext>>
-  <job <a name="keyring" href="https://keyring.debian.org/"><gettext domain="organization">Keyring Maintainers (PGP and GPG)</gettext></a>> <genericemail keyring-maint@debian.org> <delegationmail 20131226104228.GD9708@xanadu.blop.info>
+  <job <a name="keyring" href="https://keyring.debian.org/"><gettext domain="organization">Keyring Maintainers (PGP and GPG)</gettext></a>> <genericemail keyring-maint@debian.org> <delegationmail 1535701657.2203656.1492256048.477439EA@webmail.messagingengine.com>
     <member>Gunnar Wolf<delegate_male>
+    <member>John Sullivan<delegate_male>
     <member>Jonathan McDowell<delegate_male>
   <job <a name="security" href="$(HOME)/security/"><gettext domain="organization">Security Team</gettext></a>> <genericemail team@security.debian.org>
     <member>Alessandro Ghedini
@@ -417,9 +418,7 @@
   <job <a name="vendors" href="$(HOME)/CD/vendors/"><gettext domain="organization">CD Vendors Page</gettext></a>> <genericemail cdvendors@debian.org>
     <member>Craig Small
     <member>Richard Atterer
-  <job <a name="policy" href="$(DOC)/debian-policy/"><gettext domain="organization">Policy</gettext></a>> <genericemail debian-policy@lists.debian.org> <delegationmail 1497752547.3756538.1012878224.4971BFFC@webmail.messagingengine.com>
-    <member>Andreas Barth<delegate_male>
-    <member>Bill Allombert<delegate_male>
+  <job <a name="policy" href="$(DOC)/debian-policy/"><gettext domain="organization">Policy</gettext></a>> <genericemail debian-policy@lists.debian.org> <delegationmail 1534924310.3924040.1482221768.47BABED0@webmail.messagingengine.com>
     <member>Russ Allbery<delegate_male>
     <member>Sean Whitton<delegate_male>
   <job <a name="dsa" href="https://dsa.debian.org/"><gettext domain="organization">System Administration</gettext></a>> <genericemail debian-admin@lists.debian.org> <delegationmail 1518118817.822954.1264430288.6415E1F1@webmail.messagingengine.com>
