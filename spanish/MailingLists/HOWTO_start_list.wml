@@ -1,5 +1,5 @@
 #use wml::debian::template title="CÓMO solicitar una lista de correo"
-#use wml::debian::translation-check translation="351021c6b35d943410c0745a968a42402c823fda"
+#use wml::debian::translation-check translation="881ca15fb120b2f30d9ab1613754ba77b339037e"
 
 <P>El ámbito de este documento es ayudar a que la gente establezca una
 lista de correo en
@@ -85,19 +85,13 @@ fallo</a> de tipo <em>wishlist</em> sobre el pseudo paquete
 
    <dt><strong>Categoría</strong></dt>
    <dd>
-       <P>Es necesaria para clasificar la lista y ordenarla
+       <p>Es necesaria para clasificar la lista y ordenarla
        apropiadamente en <A HREF="subscribe">la página de
-       suscripción</A> y en cualquier otro lado.
-       Las categorías disponibles son:
-
-		<UL>
-			<LI>Usuarios
-			<LI>Desarrolladores
-			<LI>Internacionalización y traducciones
-			<LI>Migraciones
-			<LI>Miscelánea de Debian
-			<LI>Otros
-		</UL>
+       suscripción</A> y en cualquier otro lado.</p>
+    <p>
+    Las categorías disponibles se pueden encontrar en <a
+    href="https://lists.debian.org">la página inicial de lists.debian.org</a>.
+    </p>
    </dd>
 
    <dt><strong>Política de suscripción</strong></dt>
