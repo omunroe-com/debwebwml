@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="729334a59b6ae5c77ff48ecd210d12c01a3602f7" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder blev opdaget i Apache Traffic Server, en reverse- og 
+forward-proxyserver, hvilke kunne medføre lammelsesangreb, cacheforgiftning 
+eller informationslækage.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 7.0.0-6+deb9u2.</p>
+
+<p>Vi anbefaler at du opgraderer dine trafficserver-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende trafficserver, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/trafficserver">\
+https://security-tracker.debian.org/tracker/trafficserver</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4282.data"
