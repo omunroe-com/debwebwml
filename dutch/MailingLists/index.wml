@@ -1,5 +1,5 @@
 #use wml::debian::template title="Mailinglijsten"
-#use wml::debian::translation-check translation="6e5008b51180c747355fc109df669e30a83b30c4"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 #use wml::debian::toc
 
 # $Author$
@@ -62,8 +62,7 @@ kunnen bekijken of <a href="https://lists.debian.org/search.html">doorzoeken</a>
 zonder dat zij daarvoor abonnee van de lijst hoeven te zijn.</p>
 
 <p>De lijsten zijn ook beschikbaar als newsgroepen op usenet.  U kunt deze ook
-bekijken via webinterfaces, zoals <a href="https://groups.google.com/forum/">Google</a> of 
-<a href="http://gmane.org/">Gmane</a>.</p>
+bekijken via webinterfaces, zoals <a href="https://groups.google.com/forum/">Google</a>.</p>
 
 <p>De mailinglijsten kunnen ook nog op andere plaatsen dan de hiervoor genoemde
 worden verspreid &mdash; stuur daarom nooit berichten met een vertrouwelijke of
