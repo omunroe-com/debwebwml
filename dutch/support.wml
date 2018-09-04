@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ondersteuning"
-#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 #use wml::debian::toc
 
 # Last Translation Update by $Author$
@@ -85,7 +85,7 @@ behoeften.</p>
 kan in de vorm van nieuwsgroepen worden gelezen, in de
 <kbd>linux.debian.*</kbd> hiërarchie.  Dit is ook mogelijk via
 een web-interface zoals <a href="http://groups.google.com">Google
-Discussiegroepen</a> en <a href="http://gmane.org/">Gmane</a>.</p>
+Discussiegroepen</a>.</p>
 
 <p>Er is ook een aantal "normale" nieuwsgroepen beschikbaar die
 op GNU/Linux betrekking hebben.  Ondanks het feit
