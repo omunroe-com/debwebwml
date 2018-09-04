@@ -1,10 +1,10 @@
 #use wml::debian::template title="Как с нами связаться" NOCOMMENTS="yes"
-#use wml::debian::translation-check translation="75b5b8a7cc43e45bfafa02d6bb2924f2f7201582" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011" maintainer="Lev Lamberov"
 
 <p>Debian&nbsp;&mdash; большая организация и есть много способов
 связаться с ней. Эта страница описывает те способы связи, которые
 нужны чаще всего, но эта информация ни в коем случае не является исчерпывающей. Об остальных способах
-вы можете узнать на других web-страницах.</p>
+вы можете узнать на других веб-страницах.</p>
 
 <p>
 Обратите внимание на то, что большинство адресов e-mail указанных ниже
@@ -35,10 +35,10 @@
 
 <h2 id="generalinfo">Общая информация</h2>
 
-<p>Большая часть информации о Debian собрана на нашем web-сайте,
-<a href="$(HOME)">https://www.debian.org/</a>. Так что, пожалуйста, 
+<p>Большая часть информации о Debian собрана на нашем веб-сайте,
+<a href="$(HOME)">https://www.debian.org/</a>. Так что, пожалуйста,
 прежде чем связываться с нами, посмотрите на сайте и <a
-href="$(SEARCH)">поищите</a> на нём нужную информацию. 
+href="$(SEARCH)">поищите</a> на нём нужную информацию.
 
 <p>Наш <a href="doc/manuals/debian-faq/">FAQ</a> ответит на многие ваши вопросы.
 Вы можете также загрузить версию на PostScript, текстовую и упакованную
@@ -46,7 +46,7 @@ HTML-версию этого документа с <a
 href="http://ftp.debian.org/debian/doc/FAQ/">ftp-сайта</a>.
 
 <p>Вопросы, касающиеся проекта Debian в целом, можно отправлять в список
-рассылки <em>debian-project</em> по адресу 
+рассылки <em>debian-project</em> по адресу
 <email debian-project@lists.debian.org>.
 Пожалуйста, не задавайте в этом списке вопросов по использованию Linux.
 Подробнее об этом будет написано ниже.
@@ -55,7 +55,7 @@ href="http://ftp.debian.org/debian/doc/FAQ/">ftp-сайта</a>.
 <h2 id="installuse">Установка и использование Debian</h2>
 
 <p>Если вы не нашли ответа на свой вопрос в документации, прилагаемой к
-носителям дистрибутива, и на нашем web-сайте, то можете обратиться к очень
+носителям дистрибутива, и на нашем веб-сайте, то можете обратиться к очень
 активному списку рассылки, где на ваши вопросы могут ответить пользователи
 и разработчики Debian, списку рассылки <em>debian-user</em>.
 Все вопросы о
@@ -77,10 +77,9 @@ href="https://lists.debian.org/users.html#debian-user">подписке на
 международные списки рассылки</a>.
 
 <p>Также вы можете просматривать архивы наших списков рассылки, используя
-web-интерфейс, как на <a href="http://groups.google.com/">Google</a> или
-<a href="http://gmane.org/">Gmane</a>.
+веб-интерфейс, такой как <a href="http://groups.google.com/">Google</a>.
 
-<p>Если вы считаете, что нашли ошибку в нашей системе установки, отправьте 
+<p>Если вы считаете, что нашли ошибку в нашей системе установки, отправьте
 информацию об этом по адресу <email debian-boot@lists.debian.org>
 или <a href="$(HOME)/releases/stable/i386/ch05s04.html#submit-bug">составьте сообщение об ошибке</a> в псевдопакете <a
 href="https://bugs.debian.org/debian-installer">debian-installer</a>.
@@ -155,24 +154,24 @@ href="https://lists.debian.org/devel.html">списков рассылки, по
 <define-tag btsurl>пакет: <a href="https://bugs.debian.org/%0">%0</a></define-tag>
 
 <dl>
-<dt>Редакторы web-страниц</dt>
+<dt>Редакторы веб-страниц</dt>
   <dd><btsurl www.debian.org><br />
       <email debian-www@lists.debian.org></dd>
 #include "$(ENGLISHDIR)/devel/website/tc.data"
 <ifneq "$(CUR_LANG)" "English" "
-<dt>Переводчики web-страниц</dt>
+<dt>Переводчики веб-страниц</dt>
   <dd><: &list_translators($CUR_LANG); :></dd>
 ">
 <dt>Администраторы списков рассылки и управляющие архивами списков</dt>
   <dd><btsurl lists.debian.org><br />
       <email listmaster@lists.debian.org></dd>
 <dt>Администраторы системы отслеживания ошибок</dt>
-  <dd><btsurl bugs.debian.org><br /> 
+  <dd><btsurl bugs.debian.org><br />
       <email owner@bugs.debian.org></dd>
 </dl>
 
 <h2 id="harassment">Harassment issues</h2>
-	 	 
+
 <p>Debian представляет собой сообщество людей, которые ценят уважение и диалог.  Если вы
 стали жертвой какого-либо поведения, которое причиняет вам вред, либо из-за которого вы чувствуете себя некомфортно,
 будь то на конференции или спринте, которые были организованы Проектом, либо в ходе

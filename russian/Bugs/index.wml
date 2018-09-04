@@ -1,7 +1,7 @@
 #use wml::debian::template title="Система отслеживания ошибок Debian" BARETITLE=true NOCOPYRIGHT=true
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
 #{#style#:<link rel="stylesheet" href="https://bugs.debian.org/css/bugs.css" type="text/css">:##}
-#use wml::debian::translation-check translation="1c8ed02adde60123610a2e8083c5f2785a7f4351" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011" maintainer="Lev Lamberov"
 {#meta#:
 <script type="text/javascript" src="hashbug_redirect.js"></script>
 :#meta#}
@@ -131,8 +131,7 @@ alt="Количество всех ошибок" />
 Период, за который будет производится поиск, может быть ограничен в параметрах
 <a href="https://groups.google.com/d/search/group%3Alinux.debian.bugs.dist">расширенного поиска</a>.</p>
 
-<p>Альтернативные сайты, которые позволяют искать сообщения об ошибках:
-<a href="http://dir.gmane.org/gmane.linux.debian.devel.bugs.general">Gmane</a> и
+<p>Список альтернативных сайтов, позволяющих искать сообщения, включает
 <a href="http://www.mail-archive.com/debian-bugs-dist%40lists.debian.org/">The
 Mail Archive</a>.</p>
 
