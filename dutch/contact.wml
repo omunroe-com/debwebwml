@@ -1,5 +1,5 @@
 #use wml::debian::template title="Neem contact met ons op" NOCOMMENTS="yes"
-#use wml::debian::translation-check translation="75b5b8a7cc43e45bfafa02d6bb2924f2f7201582"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 
 <p>Debian is een grote organisatie en er zijn veel verschillende
 manieren om met ons in contact te treden. Op deze pagina vindt u een
@@ -75,8 +75,7 @@ spreken van diverse talen. Zie de
 mailinglijsten</a> voor aanvullende informatie.
 
 <p>Bovendien kunt u onze mailinglijsten als nieuwsgroepen doorbladeren via een
-webinterface, zoals <a href="http://groups.google.com/">Google</a> of 
-<a href="http://gmane.org/">Gmane</a>.
+webinterface, zoals <a href="http://groups.google.com/">Google</a>.
 
 <p>Als u denkt een bug in ons installatiesysteem te hebben gevonden, kunt
 u informatie hierover opsturen naar <email debian-boot@lists.debian.org>
