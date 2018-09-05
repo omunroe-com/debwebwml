@@ -1,5 +1,5 @@
 #use wml::debian::template title="Sådan kontakter du os" NOCOMMENTS="yes"
-#use wml::debian::translation-check translation="75b5b8a7cc43e45bfafa02d6bb2924f2f7201582"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 
 <p>Debian er en stor organisation og der er mange måder at kontakte den på.
 Denne side giver et overblik over hyppigt efterspurgte kontaktmetoder; siden er
@@ -70,8 +70,7 @@ postlisten hedder <em>debian-user</em>.  Alle spørgsmål om</p>
 tegning af abonnement på internationale postlister</a>.
 
 <p>Desuden kan du kigge i vores postlister omformet til nyhedsgrupper ved hjælp 
-af en webgrænseflade som <a href="http://groups.google.com/">Google</a> eller
-<a href="http://gmane.org/">Gmane</a>.</p>
+af en webgrænseflade som <a href="http://groups.google.com/">Google</a>.</p>
 
 <p>Hvis du mener at have fundet en fejl i vores installeringssystem, så send 
 oplysninger om fejlen til <email debian-boot@lists.debian.org> eller 

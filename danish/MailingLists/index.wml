@@ -1,5 +1,5 @@
 #use wml::debian::template title="Postlister"
-#use wml::debian::translation-check translation="6e5008b51180c747355fc109df669e30a83b30c4"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 #use wml::debian::toc
 
 <toc-display/>
@@ -58,7 +58,7 @@ søge</a> i, uden at være tilmeldt.</p>
 
 <p>Desuden kan du kigge i vores postlister som Usenet-nyhedsgrupper.  Det kan 
 gøres ved hjælp af en webgrænseflade som <a href="https://groups.google.com/forum/">\
-Google</a> eller <a href="http://gmane.org/">Gmane</a>.</p>
+Google</a>.</p>
 
 <p>Listerne bliver måske også distribueret andre steder &ndash; bemærk, at du aldrig
 skal sende fortroligt eller ulicenseret materiale til listerne.  Deriblandt også

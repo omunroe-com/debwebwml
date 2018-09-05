@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hjælp/support"
-#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 #use wml::debian::toc
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
@@ -66,8 +66,7 @@ formål.</p>
 
 <p>Mange af vore <a href="#mail_lists">postlister</a> kan man kigge i som 
 nyhedsgrupper, i hierarkiet <kbd>linux.debian.*</kbd>.  Dette kan også gøres med
-en webgrænseflade som <a href="http://groups.google.com/">Google Groups</a> 
-eller <a href="http://gmane.org/">Gmane</a>.</p>
+en webgrænseflade som <a href="http://groups.google.com/">Google Groups</a>.</p>
 
 <p>Der er også et antal rigtige nyhedsgrupper, som har med GNU/Linux at gøre.
 Selvom de ikke specifikt handler om Debian, kan de alligevel give 
