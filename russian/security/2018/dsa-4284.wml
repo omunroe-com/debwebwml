@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="88076b5ad616173c29481afaca00a63ee4e7754e" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Цюан Нгуйен обнаружил переполнение целых чисел в Little CMS 2, библиотеке
+управления цветом, которое может приводить к отказу в обслуживании и потенциальному
+выполнению произвольного кода в случае обработки специально сформированных
+файлов калибрации IT8.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 2.8-4+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты lcms2.</p>
+
+<p>С подробным статусом поддержки безопасности lcms2 можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/lcms2">\
+https://security-tracker.debian.org/tracker/lcms2</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4284.data"
