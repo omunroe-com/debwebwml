@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="ddfc05ef7ae84596892833ef24477ee0bba548fe" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Michael Kaczmarczik upptäckte en sårbarhet i redigeringsfunktionaliteten
+för webbgränssnittsmallar i Sympa, en sändlistehanterare. Ägare och
+listmasters kunde använda denna brist för att skapa eller redigera
+godtyckliga filer på servern med samma rättigheter som sympaanvändaren eller
+ägarvylistkonfigurationsfiler även om edit_list.conf förhindrar det.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 6.2.16~dfsg-3+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era sympa-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om sympa vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/sympa">https://security-tracker.debian.org/tracker/sympa</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4285.data"
