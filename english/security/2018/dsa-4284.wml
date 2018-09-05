@@ -1,7 +1,7 @@
 <define-tag description>security update</define-tag>
 <define-tag moreinfo>
 <p>Quang Nguyen discovered an integer overflow in the Little CMS 2 colour
-management library, which could in denial of service and potentially the
+management library, which could result in denial of service and potentially the
 execution of arbitrary code if a malformed IT8 calibration file is
 processed.</p>
 
