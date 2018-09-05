@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4284-1 lcms2</define-tag>
+<define-tag report_date>2018-9-04</define-tag>
+<define-tag secrefs>CVE-2018-16435</define-tag>
+<define-tag packages>lcms2</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
