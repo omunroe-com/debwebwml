@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4286-1 curl</define-tag>
+<define-tag report_date>2018-9-05</define-tag>
+<define-tag secrefs>CVE-2018-14618</define-tag>
+<define-tag packages>curl</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
