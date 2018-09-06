@@ -31,16 +31,6 @@
 </p>
 
 
-<h2>News</h2>
-
-<p><:= get_recent_list('News/$(CUR_YEAR)', '6',
-'$(ENGLISHDIR)/devel/debian-med', '', '\d+\w*' ) :>
-</p>
-
-<p>For older news items see the <a href="$(HOME)/devel/debian-med/News/">\
-Debian Med News Page</a>.</p>
-
-
 <h2>Contact and developer information</h2>
 
 <p>
