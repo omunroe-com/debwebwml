@@ -1,5 +1,5 @@
 #use wml::debian::template title="Assistance"
-#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011" maintainer="Jean-Paul Guillonneau"
 #use wml::debian::toc
 
 # Translators:
@@ -81,7 +81,7 @@ conviendra le mieux à votre requête.</p>
 peuvent aussi se lire sous la forme de groupes de discussion, dans la hiérarchie
 <kbd>linux.debian.*</kbd>. Ces groupes peuvent également se lire via des
 interfaces web telles que celle de <a href="http://groups.google.com/">Google
-Groups</a> ou de <a href="http://gmane.org/">Gmane</a>.</p>
+Groups</a>.</p>
 <p>Plusieurs groupes de discussion dédiés à GNU/Linux sont disponibles.
 Même s'ils ne sont pas spécifiques à Debian, ils peuvent fournir beaucoup
 d'informations aux utilisateurs de Debian.</p>
