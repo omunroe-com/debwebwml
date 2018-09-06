@@ -1,5 +1,5 @@
 #use wml::debian::template title="Système de suivi des bogues Debian" BARETITLE=true NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1c8ed02adde60123610a2e8083c5f2785a7f4351" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011" maintainer="Jean-Paul Guillonneau"
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
 {#meta#:
 <script type="text/javascript" src="hashbug_redirect.js"></script>
@@ -162,8 +162,7 @@ recherche avancée</a>.
 </p>
 
 <p>
-Il existe d'autres sites pour chercher des rapports de bogue, par exemple <a
-href="http://dir.gmane.org/gmane.linux.debian.devel.bugs.general">Gmane</a> ou
+Il existe d'autres sites pour chercher des rapports de bogue, par exemple
 <a href="http://www.mail-archive.com/debian-bugs-dist%40lists.debian.org/">\
 The Mail Archive</a>.
 </p>
