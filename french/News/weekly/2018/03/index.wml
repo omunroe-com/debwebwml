@@ -275,13 +275,13 @@ la vérification et la conservation des clés et signatures courantes.</p>
 Les lecteurs peuvent apprendre sur d'autres méthodes éprouvées pour mettre à jour
 des sources et des paquets sur des systèmes informatiques à accès restreint.</p>
 
-<p>Martin Drecher a posé la question : <a href="https://lists.debian.org/debian-user/2018/08/msg00226.html"><q>utiliser su ou sudo ?<q></a>
+<p>Martin Drecher a posé la question : <a href="https://lists.debian.org/debian-user/2018/08/msg00226.html"><q>utiliser su ou sudo ?</q></a>
 Toujours sujet brûlant pour les administrateurs, cette question introduit aux
 meilleurs pratiques et comprend des éléments d'historique sur quand et comment les
 mots de passe sont utilisés durant l'installation initiale du système Debian et les
 effets ultérieurs sur le système.</p>
 
-<p>Richard Owlett a posé le problème de <a href="https://lists.debian.org/debian-user/2018/08/msg00595.html"></q>l'installation d'un paquet ABSENT du dépôt</q></a>.
+<p>Richard Owlett a posé le problème de <a href="https://lists.debian.org/debian-user/2018/08/msg00595.html"><q>l'installation d'un paquet ABSENT du dépôt</q></a>.
 Cette longue discussion a abordé l'installation de fichiers .deb, les paramètres
 de chemin d'installation, la vérification des dépendances, dpkg, apt, et les notes
 de secours personnelles mise en cache.</p>
