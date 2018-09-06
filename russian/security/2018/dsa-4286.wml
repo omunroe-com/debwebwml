@@ -1,0 +1,23 @@
+#use wml::debian::translation-check translation="01e18e585c9d65e0d5b837923322bf5ea211d8ed" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Чжаоян Ву обнаружил, что cURL, библиотека передачи URL, содержит переполнение
+буфера в коде NTLM-аутентификации, проявляющееся при использовании паролей, превышающих
+по длине 2ГБ на 32-битных системах.</p>
+
+<p>Дополнительную информацию см. по адресу <a href="https://curl.haxx.se/docs/CVE-2018-14618.html">\
+https://curl.haxx.se/docs/CVE-2018-14618.html</a>.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 7.52.1-5+deb9u7.</p>
+
+<p>Рекомендуется обновить пакеты curl.</p>
+
+<p>С подробным статусом поддержки безопасности curl можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/curl">\
+https://security-tracker.debian.org/tracker/curl</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4286.data"
