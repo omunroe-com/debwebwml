@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="06ce206f6fbe3f8dc891105a860d0216e654823a" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Тэвис Орманди обнаружил многочисленные уязвимости в Ghostscript,
+интерпретаторе языка PostScript, которые могут приводить к отказу в
+обслуживании, созданию файлов или выполнению произвольного кода в случае
+обработки специально сформированного файла Postscript (даже несмотря на
+включение песочницы dSAFER).</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 9.20~dfsg-3.2+deb9u4.</p>
+
+<p>Рекомендуется обновить пакеты ghostscript.</p>
+
+<p>С подробным статусом поддержки безопасности ghostscript можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/ghostscript">\
+https://security-tracker.debian.org/tracker/ghostscript</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4288.data"
