@@ -1,0 +1,36 @@
+#use wml::debian::translation-check translation="fd0f064a9e9005190b9d2761616dfa300fe6e73f" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera säkerhetsproblem har hittats i webbläsaren Mozilla Firefox:
+Flera minnessäkerhetsfel och användning efter frigörning kan leda till
+exekvering av godtycklig kod eller överbelastning.</p>
+
+<p>Debian följer utgåvorna med utökat stöd (extended support releases - ESR)
+av Firefox. Stöd för 52.x-serien har avslutats, så med början med den här
+utgåvan följer vi nu 60.x-utgåvorna.</p>
+
+<p>Mellan 52.x och 60.x har Firefox genomgått betydande interna
+uppdateringar, som gör det inkompatibel med ett antal tilläggsmoduler.
+För ytterligare information, vänligen se
+<a href="https://www.mozilla.org/en-US/firefox/60.0esr/releasenotes/">\
+https://www.mozilla.org/en-US/firefox/60.0esr/releasenotes/</a></p>
+
+<p>Utöver detta kräver de nya Firefox-paketen Rust för att byggas. En
+kompatibel Rust-toolchain har bakåtanpassats till Debian Stretch, men
+finns inte tillgänglig för alla arkitekturer som tidigare stödde de
+rent C++-baserade Firefox-paketen. Därför stöder inte Firefox-paketen
+arkitekturerna armel, armhf, mips, mips64el och mipsel vid denna
+tidpunkt.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 60.2.0esr-1~deb9u2.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era firefox-esr-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om firefox-esr vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/firefox-esr">https://security-tracker.debian.org/tracker/firefox-esr</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4287.data"
