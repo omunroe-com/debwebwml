@@ -1,0 +1,40 @@
+#use wml::debian::translation-check translation="fd0f064a9e9005190b9d2761616dfa300fe6e73f" maintainer="Jean-Pierre Giraud"
+<define-tag description>Mise à jour de sécurité</define-tag>
+<define-tag moreinfo>
+<p>Plusieurs problèmes de sécurité ont été découverts dans le navigateur
+web Firefox de Mozilla : plusieurs erreurs de sécurité de la mémoire et
+utilisations de mémoire après libération pourraient conduire à
+l'exécution de code arbitraire ou à un déni de service.</p>
+
+<p>Debian suit les éditions longue durée (ESR, « Extended Support
+Release ») de Firefox. Le suivi des séries 52.x est terminé, aussi, à
+partir de cette mise à jour, Debian suit les versions 60.x.</p>
+
+<p>Entre les versions 52.x et 60.x, Firefox a subi des mises à jour
+internes importantes qui le rendent incompatible avec une certain nombre
+d'extensions. Pour davantage d'informations, veuillez consulter la page
+<a href="https://www.mozilla.org/en-US/firefox/60.0esr/releasenotes/">\
+https://www.mozilla.org/en-US/firefox/60.0esr/releasenotes/</a></p>
+
+<p>De plus, les nouveaux paquets de Firefox ont besoin de Rust pour leur
+compilation. Une chaîne de compilation compatible avec Rust a été
+rétroportée pour Debian Stretch, mais elle n'est pas disponible pour toutes
+les architectures qui prenaient en charge les paquets de Firefox basés
+uniquement sur C++. Par conséquent, les architectures armel, armhf, mips,
+mips64el et mipsel ne prennent pas en charge les nouveaux paquets de
+Firefox pour l'instant.</p>
+
+<p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
+dans la version 60.2.0esr-1~deb9u2.</p>
+
+<p>Nous vous recommandons de mettre à jour vos paquets firefox-esr.</p>
+
+<p>Pour disposer d'un état détaillé sur la sécurité de firefox-esr,
+veuillez consulter sa page de suivi de sécurité à l'adresse :
+<a href="https://security-tracker.debian.org/tracker/firefox-esr">\
+https://security-tracker.debian.org/tracker/firefox-esr</a>.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4287.data"
+# $Id: $
