@@ -69,7 +69,7 @@ satisfies all of the following criteria:</p>
 <h2><a name="faq">Frequently Asked/Answered Questions</a></h2>
 
 # Note to translators: these two first items are almost the same as
-# https://www.debian.org/doc/manuals/developers-reference/pkgs#faq
+# https://www.debian.org/doc/manuals/developers-reference/pkgs.html#faq
 
 <h3><q>What are release-critical bugs, and how do they get counted?</q></h3>
 
@@ -144,7 +144,7 @@ textual output</a>
 [<a href="https://release.debian.org/britney/update_output.txt.gz">gzipped</a>]
 is useful: it gives hints (albeit very terse ones) as to which packages
 break when a valid candidate is added to <q>testing</q> (see the <a
-href="$(DOC)/manuals/developers-reference/pkgs#details">\
+href="$(DOC)/manuals/developers-reference/pkgs.html#details">\
 Developer's Reference for more details</a>).
 </p>
 
