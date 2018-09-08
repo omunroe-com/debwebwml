@@ -1,0 +1,114 @@
+#use wml::debian::translation-check translation="5f57b1d60948805f6760c4c3533ab3315b3c6b49" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В веб-браузере chromium было обнаружено несколько уязвимостей.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16065">CVE-2018-16065</a>
+
+    <p>Брэндон Тишка обнаружил запись за пределами выделенного буфера памяти в
+    javascript-библиотеке v8.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16066">CVE-2018-16066</a>
+
+    <p>cloudfuzzer обнаружил чтение за пределами выделенного буфера памяти в blink/webkit.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16067">CVE-2018-16067</a>
+
+    <p>Чжэ Цзинь обнаружил чтение за пределами выделенного буфера памяти в реализации
+    WebAudio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16068">CVE-2018-16068</a>
+
+    <p>Марк Брэнд обнаружил запись за пределами выделенного буфера памяти в библиотеке
+    передачи сообщений Mojo.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16069">CVE-2018-16069</a>
+
+    <p>Марк Брэнд обнаружил чтение за пределами выделенного буфера памяти в библиотеке
+    swiftshader.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16070">CVE-2018-16070</a>
+
+    <p>Айван Фратрик обнаружил переполнение целых чисел в библиотеке skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16071">CVE-2018-16071</a>
+
+    <p>Натали Сильванович обнаружила использование указателей после освобождения памяти
+    в реализации WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16073">CVE-2018-16073</a>
+
+    <p>Джун Кокатсу обнаружил ошибку в функционале изоляции сайтов, возникающую при
+    восстановлении вкладок.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16074">CVE-2018-16074</a>
+
+    <p>Джун Кокатсу обнаружил ошибку в функционале изоляции сайтов, возникающую при
+    использовании Blob URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16075">CVE-2018-16075</a>
+
+    <p>Пепе Вила обнаружил ошибку, которая может позволить удалённым сайтам получить доступ
+    к локальным файлам.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16076">CVE-2018-16076</a>
+
+    <p>Александар Николич обнаружил чтение за пределами выделенного буфера памяти в библиотеке
+    pdfium.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16077">CVE-2018-16077</a>
+
+    <p>Мануэль Кабаллеро обнаружил способ обхода правила безопасности содержимого.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16078">CVE-2018-16078</a>
+
+    <p>Каилан Сакс обнаружил, что функциональность автоматического заполнения форм может
+    раскрывать информацию о сохранённых кредитных картах.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16079">CVE-2018-16079</a>
+
+    <p>Маркус Вервиер и Михеле Орру обнаружили возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16080">CVE-2018-16080</a>
+
+    <p>Халил Жани обнаружил возможность подделки URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16081">CVE-2018-16081</a>
+
+    <p>Янн Хорн обнаружил, что доступ к локальным файлам можно получить через инструменты
+    разработчика.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16082">CVE-2018-16082</a>
+
+    <p>Omair обнаружил переполнение буфера в библиотеке swiftshader.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16083">CVE-2018-16083</a>
+
+    <p>Натали Сильванович обнаружила чтение за пределами выделенного буфера памяти в
+    реализации WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16084">CVE-2018-16084</a>
+
+    <p>Джун Кокатсу обнаружил возможность обойти пользовательский диалог подтверждения.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16085">CVE-2018-16085</a>
+
+    <p>Роман Куксин обнаружил использование указателей после освобождения памяти.</p></li>
+
+</ul>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 69.0.3497.81-1~deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты chromium-browser.</p>
+
+<p>С подробным статусом поддержки безопасности chromium-browser можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">\
+https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4289.data"
