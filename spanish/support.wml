@@ -1,6 +1,6 @@
 #use wml::debian::template title="Soporte"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <h2>%body</h2>
@@ -36,7 +36,7 @@ la distribución</a>.</p>
  documentación en el <a href="https://wiki.debian.org/">Wiki de Debian</a>. Como todos los
  wikis, cambia constantemente y sus aportes son bienvenidos.</p>
 
-<p>También puede visitar la <a href="http://exdebian.org/wiki">wiki de 
+<p>También puede visitar la <a href="http://exdebian.org/wiki/portada-de-la-wiki">wiki de 
 exDebian</a> que contiene documentación en español sobre Debian.</p>
 
 <toc-add-entry name="mail_lists" href="MailingLists/">Listas de Correo</toc-add-entry>
@@ -70,8 +70,7 @@ búsqueda favorito para encontrar la lista más adecuada a su propósito.</p>
 <p>Muchas de nuestras <a href="#mail_lists">listas de correo</a> las puede
 leer como grupos de noticias, en la jerarquía <kbd>linux.debian.*</kbd>.
 También lo puede hacer mediante una interfaz web como
-<a href="http://groups.google.com/">Google Groups</a> o
-<a href="http://gmane.org/">Gmane</a>.</p>
+<a href="http://groups.google.com/">Google Groups</a>.</p>
 
 <p>También hay disponibles un par de grupos de noticias relacionados con
 GNU/Linux. A pesar del hecho de que no son específicos de Debian, pueden
@@ -88,36 +87,36 @@ proporcionar a los usuarios de Debian mucha información.</p>
   <dd>Sobre Linux para los procesadores Motorola 680x0.</dd>
 
 <dt><a href="news:comp.os.linux.setup">comp.os.linux.setup</a></dt>
-  <dd>Puesta en marcha y configuración de sistemas Linux</dd>
+  <dd>Puesta en marcha y configuración de sistemas Linux.</dd>
 
 <dt><a href="news:comp.os.linux.networking">comp.os.linux.networking</a></dt>
-  <dd>Temas relacionados con redes</dd>
+  <dd>Temas relacionados con redes.</dd>
 
 <dt><a href="news:comp.os.linux.x">comp.os.linux.x</a></dt>
-  <dd>Uso de X Window System en computadores Linux</dd>
+  <dd>Uso de X Window System en computadores Linux.</dd>
 
 <dt><a href="news:comp.os.linux.misc">comp.os.linux.misc</a></dt>
-  <dd>Temas variados. Un grupo para todo</dd>
+  <dd>Temas variados. Un grupo para todo.</dd>
 
 <!-- añadido por rcardenes -->
 <dt><a href="news:es.comp.os.linux.instalacion">es.comp.os.linux.instalacion</a>
     (en castellano)</dt>
-  <dd>Instalación y administración de un sistema Linux</dd>
+  <dd>Instalación y administración de un sistema Linux.</dd>
 
 <dt><a href="news:es.comp.os.linux.misc">es.comp.os.linux.misc</a>
     (en castellano)</dt>
-  <dd>Preguntas, comentarios y charla en general sobre Linux</dd>
+  <dd>Preguntas, comentarios y charla en general sobre Linux.</dd>
 
 <dt><a href="news:es.comp.os.linux.programacion">es.comp.os.linux.programacion</a>
     (en castellano)</dt>
   <dd>Charla relacionada con la programación en Linux en cualquier
-      arquitectura</dd>
+      arquitectura.</dd>
 
 <dt><a href="news:es.comp.os.linux.redes">es.comp.os.linux.redes</a>
     (en castellano)</dt>
   <dd>Cualquier tema referente al acceso a redes de cualquier
       tipo y a la configuración de los distintos elementos de
-      administración de una red</dd>
+      administración de una red.</dd>
 </dl>
 
 <p>Por favor, consulte
@@ -162,7 +161,7 @@ proporciona consejos y recursos para los administradores de sistemas Debian.</p>
 <p>Hay dos formas de contactar con los desarrolladores de paquetes. Si
 necesita contactar con uno debido a un fallo, simplemente envíe un
 informe de fallo (consulte la sección del Sistema de seguimiento de fallos
-más abajo). El desarrollador recibirá una copia de éste.</p>
+más abajo). El desarrollador recibirá una copia de este.</p>
 
 <p>Si quiere simplemente comunicarse con el desarrollador, entonces
 puede usar los alias de correo especial instalados para cada paquete.
@@ -184,7 +183,7 @@ automáticamente un informe de fallo.</p>
 
 <p>Información sobre el envío de fallos, revisión de los fallos
 activos actualmente, y del sistema de seguimiento de fallos en
-general, se puedem obtener de <a href="Bugs/">las páginas del sistema de
+general, se puede obtener en <a href="Bugs/">las páginas del sistema de
 seguimiento de fallos</a>.</p>
 
 
