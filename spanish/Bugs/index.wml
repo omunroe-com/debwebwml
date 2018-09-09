@@ -1,5 +1,5 @@
 #use wml::debian::template title="Sistema de seguimiento de fallos de Debian" BARETITLE=true NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="1c8ed02adde60123610a2e8083c5f2785a7f4351" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011" maintainer="Laura Arjona Reina"
 #include "$(ENGLISHDIR)/Bugs/pkgreport-opts.inc"
 #{#style#:<link rel="stylesheet" href="https://bugs.debian.org/css/bugs.css" type="text/css">:##}
 {#meta#:
@@ -129,8 +129,7 @@ Se puede limitar el período en el que buscar utilizando la opción
 <a href="https://groups.google.com/d/search/group%3Alinux.debian.bugs.dist">\
 búsqueda avanzada</a>.</p>
 
-<p>Los sitios alternativos que permiten buscar informes de fallo son
-<a href="http://dir.gmane.org/gmane.linux.debian.devel.bugs.general">Gmane</a> y
+<p>Un sitio alternativo que permite buscar informes de fallo es
 <a href="http://www.mail-archive.com/debian-bugs-dist%40lists.debian.org/">«The
 Mail Archive»</a>.</p>
 
