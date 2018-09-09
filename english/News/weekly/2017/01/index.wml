@@ -23,7 +23,7 @@
 <p>For other news, please read the official Debian blog
 <a href="https://bits.debian.org">Bits from Debian</a>, and follow
 <a href="https://micronews.debian.org">https://micronews.debian.org</a> which
-RSS-feeds the @debian profile in several social networks too.</p>
+feeds (via-RSS) the @debian profile on several social networks.</p>
 
 <p> Debian's Security Team releases current advisories on a daily basis
 (<a href="$(HOME)/security/2017/">Security Advisories 2017</a>). Please
@@ -41,7 +41,7 @@ links to many of the posts made through our other media streams.</p>
 The seventh update of the stable distribution Debian 8 <q>Jessie</q> was
 <a href="https://www.debian.org/News/2017/20170114">published</a> on 14 January 2017.
 This update mainly adds corrections for security problems to the stable
-release, along with a few adjustments for serious problems.
+release along with a few adjustments for serious problems.
 </p>
 
 
@@ -206,7 +206,7 @@ bugs available tagged 'newcomer'.
 ## Visit the link below and pull the information manually.
 
 <p>
-945 people and 17 teams are listed on the
+945 people and 17 teams are currently listed on the
 <a href="https://contributors.debian.org/">Debian Contributors</a> page for 2017.
 </p>
 
@@ -238,7 +238,7 @@ This is an extract from the
 which we have removed the topics already commented on in this DPN issue.
 You can skip this section if you already follow <b>micronews.debian.org</b>
 or the <b>@debian</b> profile in a social network (Pump.io, GNU Social, or
-Twitter). The items are given unformatted, and in descending order by date
+Twitter). The items are given unformatted and in descending order by date
 (recent news at the top).
 </p>
 

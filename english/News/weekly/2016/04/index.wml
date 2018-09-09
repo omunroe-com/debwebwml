@@ -26,7 +26,7 @@
 <p>For other news, please read the official Debian Blog
 <a href="https://bits.debian.org">Bits from Debian</a>, and follow
 <a href="https://micronews.debian.org">https://micronews.debian.org</a> which
-RSS-feeds the @debian profile in several social networks too.</p>
+feeds (via-RSS) the @debian profile on several social networks.</p>
 
 <p> Debian's Security Team releases current advisories on a daily basis
 (<a href="$(HOME)/security/2016/">Security Advisories 2016</a>). Please
@@ -309,7 +309,7 @@ newcomer bugs available.
 
 ## Visit the link below and pull the information manually.
 <p>
-1,898 people and 19 teams are listed on the <a href="https://contributors.debian.org/">Debian Contributors</a> page for 2016.
+1,898 people and 19 teams are currently listed on the <a href="https://contributors.debian.org/">Debian Contributors</a> page for 2016.
 </p>
 
 <p>
@@ -353,7 +353,7 @@ This is an extract from the
 which we have removed the topics already commented on in this DPN issue.
 You can skip this section if you already follow <b>micronews.debian.org</b>
 or the <b>@debian</b> profile in a social network (Pump.io, GNU Social, or
-Twitter). The items are given unformatted, and in descending order by date
+Twitter). The items are given unformatted and in descending order by date
 (recent news at the top).
 
 Sorry for the long list, we expect to deliver these <q>digests</q> more

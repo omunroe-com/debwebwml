@@ -18,13 +18,12 @@
 
 <toc-add-entry name="newdpn">Welcome to the Debian Project News!</toc-add-entry>
 
-<p>We hope that you are enjoying this format of DPN.</p>
+<p>We hope that you are enjoying this edition of DPN.</p>
 
 <p>For other news, please read the official Debian blog
 <a href="https://bits.debian.org">Bits from Debian</a>, and follow
 <a href="https://micronews.debian.org">https://micronews.debian.org</a> which
-RSS-feeds the @debian profile in several social networks too.</p>
-
+feeds (via-RSS) the @debian profile on several social networks.</p>
 
 <p> Debian's Security Team releases current advisories on a daily basis
 (<a href="$(HOME)/security/2017/">Security Advisories 2017</a> and
@@ -46,7 +45,7 @@ to point release 9.3.</p>
 the tenth update of its oldstable distribution Debian 8 (codename <q>Jessie</q>) on 9 December 2017
 to point release 8.10.</p>
 
-<p>These point releases added corrections for security issues,
+<p>These point releases added corrections for security issues
 along with a few adjustments for serious problems.
 Security advisories have already been published separately and are referenced where available.
 
@@ -304,7 +303,7 @@ bugs available tagged <q>newcomer</q>.
 ## Visit the link below and pull the information manually.
 
 <p>
-941 people and 16 teams are listed on the
+941 people and 16 teams are currently listed on the
 <a href="https://contributors.debian.org/">Debian Contributors</a> page for 2018.
 </p>
 
@@ -358,7 +357,7 @@ This is an extract from the
 which we have removed the topics already commented on in this DPN issue.
 You can skip this section if you already follow <b>micronews.debian.org</b>
 or the <b>@debian</b> profile in a social network (Pump.io, GNU Social,
-Mastodon or Twitter). The items are given unformatted, and in descending order by date
+Mastodon or Twitter). The items are given unformatted and in descending order by date
 (recent news at the top).
 </p>
 
