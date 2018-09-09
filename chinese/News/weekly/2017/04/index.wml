@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2017-11-09" SUMMARY="Debian 9 更新：9.2 发布，Buster 中 OpenSSL 1.0 和 Qt4 的移除，FTP 服务关闭，DebConf 邮件列表移动至 lists.debian.org，在古巴举办的 MiniDebConf，外部新闻：可重现构建（Reproducible Builds）2017 峰会，GitLab 切换至 DCO，Debian 社交媒体上的快速链接"
-#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185" maintainer="Boyuan Yang"
+#use wml::debian::translation-check translation="44bc7dd74b0cc79f83d749306bd1421433a93279" maintainer="Boyuan Yang"
 
 # $Rev$
 # Status: [content-frozen]

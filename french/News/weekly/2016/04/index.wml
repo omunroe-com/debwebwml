@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2016-11-28" SUMMARY="Nouvelles de Debian Stretch, nouvelle version de FAI, événements à venir : chasses aux bogues, rencontre des constructions reproductibles, DebConf17, échéance des propositions pour DebConf18, comptes-rendus d'événements : journée Debian 2016 à Curitiba, MiniDebConf 2016 à Cambridge, rencontre de l'équipe Debian Video, rencontre de DebianEdu, enquête sur les contributeurs Debian, aide pour la migration vers les paquets elpa-*, liens rapides vers des médias sociaux de Debian"
-#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="44bc7dd74b0cc79f83d749306bd1421433a93279" maintainer="Jean-Pierre Giraud"
 
 # $Id$
 # $Rev: 1641 $
