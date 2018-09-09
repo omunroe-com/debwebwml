@@ -82,7 +82,7 @@ which came out of beta testing in early 2018.</p>
 Debian Developers and projects should have already migrated over to the new
 system; additional information on the migration is <a href="https://wiki.debian.org/Salsa/AliothMigration">available</a>.</p>
 
-<p><b>Debian Data Protection Team announced</p></b>
+<p><b>Debian Data Protection Team announced</b></p>
 <p>Chris Lamb <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00000.html">announced</a> the creation and delegation
 of the Debian Data Protection team. The team will serve as the centralized point for queries
 regarding Debian's use and care of personal information across the project and
@@ -102,7 +102,7 @@ somewhat difficult to modify and test due to its architecture. As other
 tools are available users are advised to change now.</p>
 
 <p><b>Debian Policy 4.2.0.0 released</b></p>
-<p>Sean Whitton <a href="https://lists.debian.org/debian-devel-announce/2018/08/msg00000.html">announced<a/> Debian Policy 4.2.0.0 being released and uploaded to sid. The announcement details the changes from Policy 4.1.5.
+<p>Sean Whitton <a href="https://lists.debian.org/debian-devel-announce/2018/08/msg00000.html">announced</a> Debian Policy 4.2.0.0 being released and uploaded to sid. The announcement details the changes from Policy 4.1.5.
 <a href="https://www.debian.org/doc/debian-policy/">The Debian Policy Manual</a> deals with the structure and contents
 of the Debian archive, technical requirements each package must satisfy to be included in
 the archive, and the package management system developers have to be conversant with.</p>
