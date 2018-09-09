@@ -1,5 +1,5 @@
 #use wml::debian::template title="Rincón de los desarrolladores de Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="859f960fa633147bac5504a51b2e29800627217a" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Fernando C. Estrada"
 
 <p>La información de esta página, a pesar de ser pública, es
 principalmente de interés para los desarrolladores de Debian.</p>
@@ -52,7 +52,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
         <dd>
         El Proyecto Debian está constituido por voluntarios y estamos
         normalmente buscando nuevos desarrolladores que tengan algunos
-        conocimientos técnicos, interés en el software libre, y algo
+        conocimientos técnicos, interés en el software libre y algo
         de tiempo libre. También puede ayudar a Debian, simplemente
         revise la página a la que se hace referencia arriba.
         </dd>
@@ -61,7 +61,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
 
         <dd>
         La base de datos contiene datos básicos accesibles por todo el
-        mundo, y los datos más privados que tan sólo son accesibles al
+        mundo y los datos más privados que tan sólo son accesibles al
         resto de desarrolladores. Utilice la
         <a href="https://db.debian.org/">versión sobre SSL</a> para
         acceder si va a registrarse en el sistema.
@@ -107,7 +107,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
         independientes.
 
         <p>También puede ir directamente a las páginas web de la
-        <a href="$(HOME)/releases/stable/">versión estable</a>,
+        <a href="$(HOME)/releases/stable/">versión estable</a>
         y la <a href="$(HOME)/releases/testing/">versión en
         pruebas</a> actuales.</p>
         </dd>
@@ -162,8 +162,8 @@ principalmente de interés para los desarrolladores de Debian.</p>
             o un grupo de paquetes que no tiene que incluir en la
             línea <code>Build-Depends</code> de su paquete.</li>
         <li><a href="$(DOC)/packaging-manuals/menu-policy/">Sistema de menús</a>
-        <br />Los programas que tengan interfaz que no necesiten que se
-            se les pase argumentos especiales desde la línea de
+        <br />Los programas que tengan una interfaz que no necesite que 
+            se le pasen argumentos especiales desde la línea de
             órdenes para su funcionamiento normal, deberían tener una
             entrada de menú registrada.
             Revise también la <a
@@ -209,7 +209,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
       <a href="https://bugs.debian.org/debian-policy">propuestas de
       actualización a la normativa de Debian</a>.</p>
 
-      <p>Ell antiguo Manual de empaquetamiento ha sido
+      <p>El antiguo Manual de empaquetamiento ha sido
       prácticamente integrado en las versiones recientes del manual
       de Normativa.</p>
 
@@ -225,7 +225,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
         <dt><a href="$(DOC)/manuals/maint-guide/">Guía del nuevo desarrollador de Debian</a></dt>
         <dd>
         Este documento describe la construcción de un paquete Debian en
-        un lenguaje claro y común, y con abundantes ejemplos. Si usted
+        un lenguaje claro y común y con abundantes ejemplos. Si usted
         es un desarrollador (empaquetador) primerizo, éste es sin duda un
         documento que querrá leer.
         </dd>
@@ -278,11 +278,11 @@ principalmente de interés para los desarrolladores de Debian.</p>
         valiosa.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#pkg-tracking-system">El
-         Sistema de seguimiento de paquetes</a></dt>
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">El
+         Rastreador de paquetes</a></dt>
         <dd>
          Para desarrolladores que desean mantenerse al día con otros
-         paquetes, el sistema de seguimiento de paquetes les permite
+         paquetes, el rastreador de paquetes les permite
          suscribirse (mediante correo) a un servicio que les enviará
          copias de mensajes del BTS y notificaciones de actualizaciones e
          instalaciones concernientes a los paquetes a los que se suscriba.
@@ -324,7 +324,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
         colaboradores.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#s4.6.4">
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">
         La distribución experimental</a></dt>
         <dd>
         La distribución <em>experimental</em> se usa como área temporal de
@@ -387,7 +387,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
           <li><a href="debian-accessibility/">Proyecto Debian Accesible</a></li>
           <li><a href="https://wiki.debian.org/DebianGis">Proyecto Debian GIS</a></li>
           <li><a href="https://wiki.debian.org/DebianScience">Debian Científica</a></li>
-          <li><a href="https://salsa.debian.org/debichem-team/team/debichem/">Proyecto DebiChem</a></li>
+#          <li><a href="https://debichem.alioth.debian.org/">Proyecto DebiChem</a></li>
 	</ul>
 
   </div>
@@ -401,7 +401,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
         <dt>Convertir claves PGP en claves GPG:</dt>
         <dd>
         Hay información sobre esto en la
-        <a href="$(DOC)/manuals/developers-reference/developer-duties#key-maint">referencia
+        <a href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">referencia
         del desarrollador</a>. También puede obtener más información
         útil sobre cómo firmar una clave GPG con una PGP en el fichero
         <em>/usr/share/doc/debian-keyring/README.gz</em> del paquete
