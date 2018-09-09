@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ny-medlemshörnan"
-#use wml::debian::translation-check translation="854b866cca446c10c793f389da230fdf2238e68a"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9"
 
 <p>Debians ny-medlemsprocess beskriver ett antal obligatoriska steg för
 att bli Debianutvecklare.
@@ -35,7 +35,7 @@ Utan att vara Debianutvecklare kan du:
 </ul>
 
 <p>
-<a href="$(DOC)/developers-reference/new-maintainer">Debians
+<a href="$(DOC)/developers-reference/new-maintainer.html">Debians
 utvecklarreferens</a> innehåller flera konkreta förslag på hur
 ett antal av dessa punkter kan genomföras (särskilt hur man hittar
 villiga sponsorer).
