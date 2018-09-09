@@ -1,6 +1,6 @@
 #use wml::debian::template title="La distribuzione Debian <q>testing</q>" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9" maintainer="Luca Monducci"
 
 <p>Per informazioni di base sulla distribuzione testing, destinate al semplice utente,
 si vedano le <a href="$(DOC)/manuals/debian-faq/ch-ftparchives#s-testing">FAQ Debian</a>.</p>
@@ -66,7 +66,7 @@ mosso da <q>unstable</q> a <q>testing</q>. L'output è doppio:</p>
 <h2><a name="faq">Domande/Risposte frequenti</a></h2>
 
 # Note to translators: these two first items are almost the same as
-# https://www.debian.org/doc/manuals/developers-reference/pkgs#faq
+# https://www.debian.org/doc/manuals/developers-reference/pkgs.html#faq
 
 <h3><q>Quali sono i bug critici per il rilascio e come vengono contati?</q></h3>
 
@@ -138,12 +138,15 @@ tutti gli altri pacchetti che dipendono da libltdl<var>Y</var> (dove
 tutti i bug critici per il rilascio non saranno stati corretti, nessuno
 di questi pacchetti entrerà in <q>testing</q>.</p>
 
-<p>Qui può venir utile <a href="https://release.debian.org/britney/update_output.txt">\
-l'output testuale</a> [<a href="https://release.debian.org/britney/update_output.txt.gz">\
-compresso con gzip:</a>]: esso offre informazioni (sebbene molto concise) su
+<p>Qui può venir utile <a 
+href="https://release.debian.org/britney/update_output.txt">l'output
+testuale</a> [<a
+href="https://release.debian.org/britney/update_output.txt.gz">compresso
+con gzip</a>]: esso offre informazioni (sebbene molto concise) su
 quali pacchetti vengono danneggiati quando un valido candidato è aggiunto in
-<q>testing</q> (vedere la <a href="$(DOC)/manuals/developers-reference/pkgs#details">\
-Developer's Reference per maggiori dettagli</a>).</p>
+<q>testing</q> (vedere la <a
+href="$(DOC)/manuals/developers-reference/pkgs.html#details">Developer's
+Reference per maggiori dettagli</a>).</p>
 
 <h3><q>Perché è spesso difficile inserire pacchetti <kbd>Architecture:
 all</kbd> in <q>testing</q>?</q></h3>
