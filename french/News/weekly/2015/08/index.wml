@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2015-10-22" SUMMARY="Bienvenue sur la nouvelle formule des Nouvelles du projet Debian, nouvelles internes et événements, demandes d'aide, au-delà du code, comptes-rendus, nouvelles de l'extérieur"
 
-#use wml::debian::translation-check translation="c1c66b7984840c5be08cc4527bebf482859e61fa" translation_maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185" translation_maintainer="Jean-Pierre Giraud"
 
 # $Id$
 # $Rev$

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2016-05-26" SUMMARY="Plus de 50 000 paquets, le gel de Stretch, un nouveau chef du projet, suivi de sécurité LTS, Firefox, Java, l'équipe de traduction en japonais de Debian et le Cahier de l'admin Debian, ZFS, événements à venir et comptes-rendus d'événements, appel à l'aide, discussions, nouvelles, comptes-rendus, liens rapides"
 
-#use wml::debian::translation-check translation="c577ca2e2d15f5266dbb03aff3aa2e2bbc3dcdfd" translation_maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185" translation_maintainer="Jean-Pierre Giraud"
 
 # $Id$
 # $Rev$

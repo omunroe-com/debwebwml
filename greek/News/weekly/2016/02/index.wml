@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2016-05-26" SUMMARY="Over 50k packages, Stretch freeze, New DPL, LTS Security, Firefox, Java, The Debian Japanese Translation team and The Debian Administrator's Handbook, ZFS, Upcoming events and event reports, Help needed, Discussions, News, Reports, Quick Links"
-#use wml::debian::translation-check translation="c577ca2e2d15f5266dbb03aff3aa2e2bbc3dcdfd" maintainer="Pavlos Ponos"
+#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185" maintainer="Pavlos Ponos"
 
 # $Id$
 # $Rev$

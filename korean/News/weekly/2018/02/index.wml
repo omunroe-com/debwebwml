@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2018-06-07" SUMMARY="데비안 9.4 나옴, EOL 데비안 8 EOL, 정책 4.1.4.0, Alioth 이주, 보고와 토론"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="552c7ad6ade848429ec98e22d74260fc56738d25" maintainer="Sebul"
+#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185" maintainer="Sebul"
 
 # $Rev$
 # Status: [frozen]

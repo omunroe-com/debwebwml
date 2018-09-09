@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2018-06-07" SUMMARY="Publication de la mise à jour de Debian 9.4, fin de vie pour Debian 8, charte Debian 4.1.4.0, migration d'Alioth, Comptes-rendus et discussions"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="552c7ad6ade848429ec98e22d74260fc56738d25" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185" maintainer="Jean-Pierre Giraud"
 
 # $Id$
 # $Rev$

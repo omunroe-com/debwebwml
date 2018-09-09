@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2016-05-26" SUMMARY="パッケージ数が 5 万を超える、Stretch のフリーズ、新しい DPL、LTS セキュリティ、Firefox、Java、Debian 日本語翻訳チームと The Debian Administrator's Handbook、ZFS、今後のイベントとイベントの報告、手助けが必要です、議論、ニュース、報告、クイックリンク"
-#use wml::debian::translation-check translation="c577ca2e2d15f5266dbb03aff3aa2e2bbc3dcdfd"
+#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185"
 
 # $Rev$
 # Status: [frozen]

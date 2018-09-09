@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2018-08-31" SUMMARY="Joyeux vingt-cinquième anniversaire Debian !, Debian 9.5 et 8.11 publiées, migration d'Alioth vers Salsa, une équipe Debian de protection des données, nouvelles fonctionnalités de Debian Package Tracker, charte Debian 4.2.0.0, comptes rendus, demandes d'aide, par-delà le code, liens rapides vers des médias sociaux de Debian"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="2b614126a286932df32e4017020b1ba4f55a80ce" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185" maintainer="Jean-Pierre Giraud"
 
 # $Id$
 # $Rev$
