@@ -1,6 +1,6 @@
 #use wml::debian::template title="Soporte"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
+#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <h2>%body</h2>
@@ -70,7 +70,8 @@ búsqueda favorito para encontrar la lista más adecuada a su propósito.</p>
 <p>Muchas de nuestras <a href="#mail_lists">listas de correo</a> las puede
 leer como grupos de noticias, en la jerarquía <kbd>linux.debian.*</kbd>.
 También lo puede hacer mediante una interfaz web como
-<a href="http://groups.google.com/">Google Groups</a>.</p>
+<a href="http://groups.google.com/">Google Groups</a> o
+<a href="http://gmane.org/">Gmane</a>.</p>
 
 <p>También hay disponibles un par de grupos de noticias relacionados con
 GNU/Linux. A pesar del hecho de que no son específicos de Debian, pueden
