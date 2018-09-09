@@ -1,5 +1,5 @@
 #use wml::debian::template title="Supporto"
-#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011" maintainer="Luca Monducci"
 #use wml::debian::toc
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
@@ -77,8 +77,7 @@ ricerca preferito per trovare la lista più adatta ai propri scopi.</p>
 <p>Molte delle nostre <a href="#mail_lists">liste di messaggi</a> sono
 consultabili come newsgroup all'interno della gerarchia <kbd>linux.debian.*</kbd>.
 La consultazione di questi newsgroup può essere fatta anche utilizzando una
-interfaccia web quale <a href="http://groups.google.com/">Google Groups</a>
-o <a href="http://gmane.org/">Gmane</a>.</p>
+interfaccia web quale <a href="http://groups.google.com/">Google Groups</a>.
 
 <p>Esistono anche altri newsgroup che si occupano di GNU/Linux. Nonostante
 non siano specifici per Debian, possono ugualmente fornire molte informazioni
