@@ -1,6 +1,6 @@
 #use wml::debian::template title="Пощенски списъци"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="6e5008b51180c747355fc109df669e30a83b30c4"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 
 <toc-display/>
 
@@ -56,8 +56,7 @@ href="#subunsub">както е описано по-долу</a>).</p>
 е необходимо абониране.</p>
 
 <p>Възможно е и разглеждането на пощенските списъци като новинарски групи,
-например през интерфейса на <a href="https://groups.google.com/forum/">Google</a> или
-<a href="https://gmane.org/">Gmane</a>.</p>
+например през интерфейса на <a href="https://groups.google.com/forum/">Google</a>.</p>
 
 <p>Възможно е списъците да се разпространяват и на други места. Никога не
 изпращайте поверителна информация или материали, които нямате право да
