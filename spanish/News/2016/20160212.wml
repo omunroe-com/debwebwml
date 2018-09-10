@@ -1,0 +1,45 @@
+#use wml::debian::translation-check translation="f8d1443ec5293fdf40616c8eec82c95972fc6cbf"
+<define-tag pagetitle>El soporte a largo plazo para Debian 6.0 llega al final de su ciclo de vida</define-tag>
+<define-tag release_date>2016-02-12</define-tag>
+#use wml::debian::news
+
+<p>El equipo de <a href="https://wiki.debian.org/LTS/">soporte a largo plazo («Long Term Support», LTS)</a> de
+Debian anuncia que el soporte a Debian
+6.0 (<q>squeeze</q>) alcanzará el final de su ciclo de vida el 29 de febrero de 2016,
+cinco años después de su publicación inicial el 6 de febrero de 2011.</p>
+
+<p>No habrá más soporte de seguridad para Debian 6.0.</p>
+
+<p>El equipo LTS preparará la transición a Debian 7 (<q>wheezy</q>), que
+es la actual versión antigua-estable. El equipo LTS pasará a encargarse de su soporte,
+relevando al equipo de seguridad, el 26 de abril de 2016.</p>
+
+<p>Debian 7 también recibirá soporte a largo plazo durante cinco años desde su
+publicación inicial, finalizando este soporte en mayo de 2018.</p>
+
+<p>Debian y su equipo LTS agradecen sus contribuciones a los usuarios,
+desarrolladores y patrocinadores que hacen posible extender la vida de 
+versiones estables antiguas, y que han hecho del LTS un éxito.</p>
+
+<p>Si depende de Debian LTS, por favor, considere
+<a href="https://wiki.debian.org/LTS/Development">unirse al equipo</a>,
+proporcionar parches, hacer pruebas o 
+<a href="https://wiki.debian.org/LTS/Funding">financiar estas actividades</a>.</p>
+
+<h2>Acerca de Debian</h2>
+
+<p>
+El proyecto Debian fue fundado en 1993 por Ian Murdock para ser un proyecto
+comunitario verdaderamente libre. Desde entonces el proyecto ha crecido hasta ser uno de 
+los proyectos más grandes e importantes de software libre. Miles de
+voluntarios de todo el mundo trabajan juntos para crear y
+mantener programas para Debian. Se encuentra traducido a 70 idiomas y
+soporta una gran cantidad de arquitecturas de ordenadores, por lo que el proyecto se refiere a sí mismo como el
+<q>sistema operativo universal</q>. 
+</p>
+
+<h2>Información de contacto</h2>
+
+<p>Para más información, visite las páginas web de Debian en
+<a href="$(HOME)/">https://www.debian.org/</a> o envíe un correo electrónico a
+&lt;press@debian.org&gt;.</p>
