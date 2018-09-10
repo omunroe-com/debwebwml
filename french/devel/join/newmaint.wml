@@ -1,11 +1,11 @@
 #use wml::debian::template title="Le coin des nouveaux membres Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="854b866cca446c10c793f389da230fdf2238e68a" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Nicolas Bertolissio, 2007.
 # Guillaume Delacour, 2009.
 # David Prévot, 2010-2014
-# Jean-Paul Guillonneau, 2015-2016
+# Jean-Paul Guillonneau, 2015-2018
 
 <p>
 Le processus du nouveau membre Debian est la manière de devenir un
@@ -43,7 +43,7 @@ distribution. En tant que non développeur vous pouvez&nbsp;:
   <li><a href="../website">aider à la maintenance du site</a>&nbsp;;</li>
   <li>aider à gérer les bogues (en fournissant des correctifs, en remplissant
     des rapports complets, en confirmant l'existence de bogues, en trouvant
-    des façons de reproduire les problèmes signalés...)&nbsp;;</li>
+    des façons de reproduire les problèmes signalés…)&nbsp;;</li>
   <li>être membre actif d'une équipe d'empaquetage (par exemple debian-qt-kde
     ou debian-gnome)&nbsp;;</li>
   <li>être membre actif d'un sous-projet (par exemple l'installateur Debian ou
@@ -51,7 +51,7 @@ distribution. En tant que non développeur vous pouvez&nbsp;:
   <li>etc.</li>
 </ul>
 
-<p>La <a href="$(DOC)/developers-reference/new-maintainer">référence du développeur Debian</a>
+<p>La <a href="$(DOC)/developers-reference/new-maintainer.html">référence du développeur Debian</a>
 contient quelques suggestions concrètes sur la manière d'effectuer certaines tâches (en particulier,
 comment trouver des parrains volontaires).</p>
 
