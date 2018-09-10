@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Med"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7" maintainer="Charles Plessy"
+#use wml::debian::translation-check translation="b9967d1f4d930716e9646a92bda776ced3c44cce" maintainer="Charles Plessy"
 
 # Premier traducteur : Christophe Riou
 # puis : Pierre Machard
@@ -21,8 +21,8 @@
 <p>Debian Med contient un ensemble de métapaquets qui déclarent des dépendances
    sur d'autres paquets Debian. Le système est ainsi conçu pour répondre à des
    besoins spécifiques.
-Le meilleur aperçu concernant Debian Med se trouve
-<a href="https://debian-med.alioth.debian.org/tasks">sur la page de travail</a>.
+   Le meilleur aperçu concernant Debian Med se trouve
+   <a href="https://blends.debian.org/med/tasks/">sur la page de travail</a>.
 </p>
 
 <p>Pour une discussion plus approfondie, plusieurs
@@ -31,16 +31,6 @@ Le meilleur aperçu concernant Debian Med se trouve
    vidéo (en anglais), elle traitent de tout ce qui
    concerne Debian Med et « Debian Pure Blend »
 </p>
-
-<h2>Nouvelles récentes</h2>
-
-<p><:= get_recent_list('News/$(CUR_YEAR)', '6',
-'$(ENGLISHDIR)/devel/debian-med', '', '\d+\w*' ) :>
-</p>
-
-<p>Pour les anciennes nouvelles, veuillez vous référer à la page 
-<a href="$(HOME)/devel/debian-med/News/">des nouvelles de Debian Med</a>.</p>
-
 
 <h2>Contact et informations sur les développeurs</h2>
 
@@ -56,15 +46,17 @@ vous désabonner en utilisant la
 Vous trouverez également les archives de la liste sur cette page.
 </p>
 <p>
-Il y a deux endroits importants avec des informations pour les
+Il y a plusieurs endroits importants avec des informations pour les
 développeurs&nbsp;:
 </p>
 <ol>
-  <li><a href="https://wiki.debian.org/DebianMed">La page du Wiki</a>&nbsp;;</li>
-  <li><a href="https://debian-med.alioth.debian.org/">La page d'information des
-    développeurs</a> qui contient des informations dynamiques sur les membres
-    du projet, les enregistrements SVN, l'état des paquets spécifiques à
-    Debian Med, etc.</li>
+  <li><a href="https://wiki.debian.org/DebianMed">La page du Wiki</a> ;</li>
+  <li><a href="https://blends.debian.org/med/">La page des Blend pur
+    Debian</a> ;</li>
+  <li>La page <a href="https://med-team.pages.debian.net/policy/">Debian Med
+    policy</a> qui explique les règles d'empaquetage de l'équipe ;</li>
+  <li>Les <a href="https://salsa.debian.org/med-team/">dépôts Git des paquets
+    de Debian Med dans Salsa</a>.</li>
 </ol>
 
 <h2>Projets inclus</h2>
@@ -72,7 +64,7 @@ développeurs&nbsp;:
 Pour chaque <a href="https://blends.debian.org/blends">Blend pur
 Debian</a>, une vue d'ensemble montrant l'intégralité des paquets inclus est
 disponible. Vous pouvez vous rendre sur la page des «&nbsp;<a
-href="https://debian-med.alioth.debian.org/tasks">tâches</a>&nbsp;» de Debian
+href="https://blends.debian.org/med/tasks/">tâches</a>&nbsp;» de Debian
 Med pour voir quels paquets Debian sont inclus, et quels sont les programmes
 que nous envisageons d'empaqueter.
  
@@ -92,14 +84,6 @@ que nous envisageons d'empaqueter.
    <li>Présenter aux sociétés éditrices de logiciels commerciaux les
        avantages d'un tel système et les inciter à porter leurs logiciels
        sous Linux et de les placer éventuellement sous licence Open Source.</li>
-</ul>
-
-
-<h2>Les projets sur Alioth</h2>
-
-<ul>
-<li><a href="https://debian-med.alioth.debian.org/">Debian Med</a>,</li>
-<li><a href="https://cdd.alioth.debian.org/blends/">Debian Pure Blends</a>.</li>
 </ul>
 
 
@@ -126,26 +110,10 @@ une liste de taches</a> qui peuvent être faites pour aider le projet.
 <h2>Liens</h2>
 
 <ul>
-  <li>Bela Tiwari a écrit un très bon
-    <a href="http://gchelpdesk.ualberta.ca/news/03mar05/cbhd_news_03mar05.php#GearingUp">panorama
-    des projets liés à la bio-informatique</a>. Celui-ci a été publié dans
-    la lettre d'information <i>Canadian Bioinformatics Help Desk</i> le
-    3&nbsp;mars&nbsp;2005.</li>
   <li>
     Debian Med collabore étroitement avec
     <a href="http://nebc.nerc.ac.uk/tools/bio-linux/bio-linux-6.0">Bio-Linux</a>.
     Bien que Bio-Linux soit basé sur Ubuntu LTS, les paquets ayant trait à la
     biologie sont maintenus au sein de Debian par l'équipe Debian Med.
   </li>
-  <li>
-    <a href="http://wikiomics.org/">Wikiomics</a> est un wiki de
-    bio-informatique où toute question peut être posée, trouver une
-    réponse et être discutée.
-  </li>
-  <li>Les nouvelles des projets médicaux sur
-  <a href="http://linuxmednews.com/">Linux Mednews</a></li>
-  <li><a href="http://resmedicinae.sourceforge.net/analysis/">Ensemble
-   de ressources pour les logiciels médicaux</a></li>
-  <li><a href="http://www.openmed.org/">D'autres informations</a></li>
 </ul>
-
