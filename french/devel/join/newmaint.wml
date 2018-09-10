@@ -1,5 +1,5 @@
 #use wml::debian::template title="Le coin des nouveaux membres Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="854b866cca446c10c793f389da230fdf2238e68a" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Nicolas Bertolissio, 2007.
@@ -51,7 +51,7 @@ distribution. En tant que non développeur vous pouvez&nbsp;:
   <li>etc.</li>
 </ul>
 
-<p>La <a href="$(DOC)/developers-reference/new-maintainer">référence du développeur Debian</a>
+<p>La <a href="$(DOC)/developers-reference/new-maintainer.html">référence du développeur Debian</a>
 contient quelques suggestions concrètes sur la manière d'effectuer certaines tâches (en particulier,
 comment trouver des parrains volontaires).</p>
 
