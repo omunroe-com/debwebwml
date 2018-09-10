@@ -59,7 +59,7 @@ partageons en ligne :</p>
 
 <p>Merci aux développeurs et contributeurs Debian pour tout ce qu'ils font !</p>
 
-<p><b>Mise à jour de Debian 9 et Debian 8 : 9.5 et 8.11 publiés</b></p>
+<p><b>Mises à jour de Debian 9 et Debian 8 : 9.5 et 8.11 publiés</b></p>
 <p>Le projet Debian a <a href="https://www.debian.org/News/2018/20180714">annoncé</a>
 la cinquième mise à jour de la distribution stable Debian 9 (nom de code
 <q>Stretch</q>) le 14 juillet 2018 vers la version intermédiaire 9.5.</p>
@@ -117,7 +117,7 @@ il est conseillé aux utilisateurs de changer dès maintenant.</p>
 <p><b>Publication de la version 4.2.0.0 de la Charte Debian</b></p>
 <p>Sean Whitton a <a href="https://lists.debian.org/debian-devel-announce/2018/08/msg00000.html">annoncé</a>
 que la version 4.2.0.0 de la Charte Debian été publiée et chargée dans sid.
-L'annonce détaille les modification par rapport à la version 4.1.5.
+L'annonce détaille les modifications par rapport à la version 4.1.5.
 <a href="https://www.debian.org/doc/debian-policy/">Le manuel de la Charte Debian</a> 
 traite de la structure et du contenu de l'archive Debian, des exigences techniques
 auxquelles tous les paquets doivent satisfaire pour être intégrés à l'archive, et
@@ -151,7 +151,7 @@ ces dernières semaines voici une courte sélection :
 <li><a href="https://packages.debian.org/unstable/main/elpa-verbiste">elpa-verbiste (0.1.45-4) – conjugueur en français et italien, extension pour emacs</a>.</li>
 </ul>
 
-<toc-add-entry name="events">Événements à venir et comptes-rendus</toc-add-entry>
+<toc-add-entry name="events">Événements à venir et comptes rendus</toc-add-entry>
 
 <p><b>Événements à venir</b></p>
 <p><b>Microsprint Debian/Xen à Cambridge, le 10 septembre</b></p>
@@ -175,7 +175,7 @@ Hsinchu, Taïwan du 29 juillet au 5 août. <a href="https://debconf18.debconf.
 a été la toute première conférence Debian tenue en Asie. Plus de 306 participants
 venus du monde entier y ont été accueillis pour participer aux 137 événements,
 dont 100 communications, 25 séances de discussion spécialisées, 5 ateliers et
-nombreuses autres activités qui s'y sont tenus.</p>
+nombreuses autres activités, qui s'y sont tenus.</p>
 
 <p>Le <a href="https://debconf18.debconf.org/schedule/">programme</a> des événements et
 des <a href="https://debconf18.debconf.org/talks/">communications</a> a été
@@ -189,11 +189,11 @@ seconde DebConf à se tenir au Brésil.</p>
 
 
 
-<toc-add-entry name="reports">Comptes-rendus</toc-add-entry>
+<toc-add-entry name="reports">Comptes rendus</toc-add-entry>
 
-<p><b>Comptes-rendus mensuels de Freexian sur Debian Long Term Support (LTS)</b></p>
+<p><b>Comptes rendus mensuels de Freexian sur Debian Long Term Support (LTS)</b></p>
 
-<p>Freexian publie <a href="https://raphaelhertzog.com/tag/Freexian+LTS/">des comptes-rendus mensuels</a>
+<p>Freexian publie <a href="https://raphaelhertzog.com/tag/Freexian+LTS/">des comptes rendus mensuels</a>
 sur le travail réalisé par les contributeurs salariés pour le suivi à long
 terme de sécurité de Debian.
 </p>
@@ -201,7 +201,7 @@ terme de sécurité de Debian.
 <p><b>État d'avancement des compilations reproductibles</b></p>
 
 <p>Suivez le <a href="https://reproducible-builds.org/blog/">blog des compilations reproductibles</a>
-pour obtenir un compte-rendu de leur travail sur le cycle de <q>Buster</q>.
+pour obtenir un compte rendu de leur travail sur le cycle de <q>Buster</q>.
 </p>
 
 
@@ -284,7 +284,7 @@ effets ultérieurs sur le système.</p>
 <p>Richard Owlett a posé le problème de <a href="https://lists.debian.org/debian-user/2018/08/msg00595.html"><q>l'installation d'un paquet ABSENT du dépôt</q></a>.
 Cette longue discussion a abordé l'installation de fichiers .deb, les paramètres
 de chemin d'installation, la vérification des dépendances, dpkg, apt, et les notes
-de secours personnelles mise en cache.</p>
+de secours personnelles mises en cache.</p>
 
 
 <p><b>Trucs et astuces</b></p>
@@ -295,7 +295,7 @@ effectuer des mises à niveau alors que l'espace de stockage est limité.</p>
 
 <p>Arturo Borrero González présente <a
 href="http://ral-arturo.org/2018/07/19/multimedia.html">Des choses que l'on peut faire avec Debian, l'édition multimédia</a>.
-Il traite des nombreux paquets logiciels à source ouvert (FLOSS) et outils
+Il traite des nombreux paquets logiciels à source ouvert (FLOSS) et des outils
 disponibles dans Debian pour l'édition et la production multimédia.</p>
 
 <p><b>Il était une fois dans Debian :</b></p>
@@ -337,7 +337,7 @@ récent au plus ancien.
 <a href="https://bits.debian.org/2018/08/debian-is-25.html">https://bits.debian.org/2018/08/debian-is-25.html</a> #DebianDay #Debian25years
 </li>
 
-<li>Si vous souhaitez que Debian Buster soit publié début 2019 (ou aimeriez un gel court de Debian en général...), aidez à corriger des bogues critiques maintenant ! 
+<li>Si vous souhaitez que Debian Buster soit publié début 2019 (ou aimeriez un gel court de Debian en général…), aidez à corriger des bogues critiques maintenant ! 
 <a href="https://nthykier.wordpress.com/2018/08/06/buster-is-headed-for-a-long-hard-freeze/">https://nthykier.wordpress.com/2018/08/06/buster-is-headed-for-a-long-hard-freeze/</a>
 </li>
 
@@ -345,7 +345,7 @@ récent au plus ancien.
 <a href="https://bits.debian.org/2018/08/debconf18-closes.html">https://bits.debian.org/2018/08/debconf18-closes.html</a>
 </li>
 
-<li>#DebConf18 s'est terminé avec la présentation de #DebConf19 à Curitiba et la cérémonie de clôture. À l'an prochain au Brésil !
+<li>#DebConf18 s'est terminée avec la présentation de #DebConf19 à Curitiba et la cérémonie de clôture. À l'an prochain au Brésil !
 </li>
 </ul>
 
@@ -376,7 +376,7 @@ récent au plus ancien.
 <a href="https://lists.debian.org/debian-devel-announce/2018/06/msg00006.html">https://lists.debian.org/debian-devel-announce/2018/06/msg00006.html</a>
 </li>
 
-<li>MiniDebConf Curitiba 2018 – un bref compte-rendu
+<li>MiniDebConf Curitiba 2018 – un bref compte rendu
 <a href="http://debianbrasil.org.br/blog/minidebconf-curitiba-2018-a-brief-report">http://debianbrasil.org.br/blog/minidebconf-curitiba-2018-a-brief-report</a>
 </li>
 
@@ -384,7 +384,7 @@ récent au plus ancien.
 <a href="https://bits.debian.org/2018/06/debian-perl-sprint-2018.html">https://bits.debian.org/2018/06/debian-perl-sprint-2018.html</a>
 </li>
 
-<li>Compte-rendu de la récente réunion « cryptsetup »
+<li>Compte rendu de la récente réunion « cryptsetup »
 <a href="https://blog.freesources.org//posts/2018/06/debian_cryptsetup_sprint_report/">https://blog.freesources.org//posts/2018/06/debian_cryptsetup_sprint_report/</a>
 </li>
 
