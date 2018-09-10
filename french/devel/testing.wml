@@ -1,6 +1,6 @@
 #use wml::debian::template title="La distribution de test de Debian" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2" maintainer="Pierre Machard"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9" maintainer="Pierre Machard"
 
 <p>
 Pour les informations élémentaires destinées aux simples utilisateurs de la
@@ -201,7 +201,7 @@ href="https://release.debian.org/britney/update_output.txt.gz">gzippée</a>]
 est utile&nbsp;: elle fournit bon nombre d'informations (qu'il faut néanmoins
 décoder) sur les paquets cassés lorsqu'un candidat valide est ajouté dans la
 distribution de test (consultez la <a
-href="$(DOC)/manuals/developers-reference/pkgs#details">\
+href="$(DOC)/manuals/developers-reference/pkgs.html#details">\
 référence du développeur pour plus de précisions</a>).
 </p>
 

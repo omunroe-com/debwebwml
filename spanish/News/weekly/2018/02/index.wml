@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2018-06-07" SUMMARY="Debian 9.4 publicado, Fin de ciclo de Debian 8, Manual de normas 4.1.4.0, Migración de Alioth, Informes y Debates"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="c8a28bce76237f2a6aad18114596cf580ceee185"
+#use wml::debian::translation-check translation="44bc7dd74b0cc79f83d749306bd1421433a93279"
 
 # $Rev$
 # Status: [frozen]

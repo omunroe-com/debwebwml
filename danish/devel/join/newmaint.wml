@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians New Members-hjørne" BARETITLE="true"
-#use wml::debian::translation-check translation="854b866cca446c10c793f389da230fdf2238e68a"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9"
 
 <p>Debians proces til optagelse af nye medlemmer, almindeligvis kaldet New 
 Member-processen (NM), gør at man blive officiel Debian Developer (DD, 
@@ -32,7 +32,7 @@ vores distribution.  Uden at være udvikler, kan du:</p>
   <li>osv.</li> 
 </ul>
 
-<p><a href="$(DOC)/developers-reference/new-maintainer">Debians
+<p><a href="$(DOC)/developers-reference/new-maintainer.html">Debians
 udviklerhåndbog</a> indeholder flere konkrete forslag til hvordan man udfører
 flere af disse opgaver (særligt hvordan man finder villige sponsorer).</p>
 

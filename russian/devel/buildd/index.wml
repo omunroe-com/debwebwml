@@ -1,5 +1,5 @@
 #use wml::debian::template title="Сеть автоматической сборки"
-#use wml::debian::translation-check translation="02de9b22925eb870281ba93d29a61e75d5330383" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9" maintainer="Lev Lamberov"
 
 <p>Сеть автоматической сборки (autobuilder) является разработкой Debian, управляющей
 компиляцией пакетов для всех <a href="$(HOME)/ports/">поддерживаемых в настоящее время в Debian</a>
@@ -40,7 +40,7 @@
 
 <h2>Как работает buildd?</h2>
 
-<p><em>Buildd</em> &mdash; имя, которое обычно даётся программному обеспечению, используемому 
+<p><em>Buildd</em> &mdash; имя, которое обычно даётся программному обеспечению, используемому
 сетью автоматической сборки, но в действительности это ПО состоит из нескольких частей:</p>
 
 <dl>
@@ -82,7 +82,7 @@ chroot до начала сборки, и затем вызывает станд
 <p>В действительности, обычному разработчику Debian не нужно явным образом использовать
 сеть buildd. Когда он загружает пакет в архив
 (двоичный скомпилированный пакет для данной архитектуры), он будет добавлен в базу данных
-для всех архитектур (в состоянии <em>Needs-Build</em>). 
+для всех архитектур (в состоянии <em>Needs-Build</em>).
 Машины сборки отправят запрос в базу данных о наличии пакетов в этом состоянии,
 и в плановом порядке получат пакеты из этого списка. Список
 отсортирован по предыдущему состоянию компиляции (либо <em>out-of-date</em>,
@@ -109,8 +109,8 @@ chroot до начала сборки, и затем вызывает станд
 автоматическому увеличению приоритета сборки.</p>
 
 <p>Вы можете проверить статус различных попыток сборки пакетов с помощью buildd,
-относящихся к любому данному сопровождающему, просмотрев 
-<a href="https://buildd.debian.org/status/">журналы buildd</a>. 
+относящихся к любому данному сопровождающему, просмотрев
+<a href="https://buildd.debian.org/status/">журналы buildd</a>.
 Ссылки на эти журналы имеются также со страницы обзора сопровождающего пакетов.</p>
 
 <p>Дополнительную информацию о различных состояниях пакетов см.
@@ -121,14 +121,14 @@ chroot до начала сборки, и затем вызывает станд
 <p>Конечно, доступная документация и исходный код этих
 инструментов является лучшим способом понять то, как работает
 сеть buildd. Дополнительно см. раздел
-<a href="$(HOME)/doc/manuals/developers-reference/pkgs#porting">\
-Перенос и переносимое</a> 
+<a href="$(HOME)/doc/manuals/developers-reference/pkgs.html#porting">\
+Перенос и переносимое</a>
 <a href="$(HOME)/doc/manuals/developers-reference/">Руководств разработчика
 Debian</a>, где представлена дополнительная информация о том, как работает сеть автоматической
 сборки, также там представлена некоторая информация о
-<a href="$(HOME)/doc/manuals/developers-reference/tools#tools-builders">\
+<a href="$(HOME)/doc/manuals/developers-reference/tools.html#tools-builders">\
 сборщиках пакетов</a> и
-<a href="$(HOME)/doc/manuals/developers-reference/tools#tools-porting">\
+<a href="$(HOME)/doc/manuals/developers-reference/tools.html#tools-porting">\
 инструментах переноса</a>, которые используются в процессе установки и настройки, а также
 сопровождения сети buildd.</p>
 
@@ -162,7 +162,7 @@ i386@buildd.debian.org>.</p>
 
 <hrline />
 <p><small>Это введение в сеть автоматической сборки было написано
-Романом Ходеком (Roman Hodek), 
-Кристианом Штайгисом (Christian T. Steigies), Вутером Ферелстом (Wouter Verhelst), Андреасом Бартом (Andreas Barth), 
+Романом Ходеком (Roman Hodek),
+Кристианом Штайгисом (Christian T. Steigies), Вутером Ферелстом (Wouter Verhelst), Андреасом Бартом (Andreas Barth),
 Франческо Паоло Ловержи (Francesco Paolo Lovergine), Хавьером Фернандез-Сангуино (Javier Fern&aacute;ndez-Sanguino) и
 Филиппом Керном (Philipp Kern).</small></p>

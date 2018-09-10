@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Med"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7"
+#use wml::debian::translation-check translation="b9967d1f4d930716e9646a92bda776ced3c44cce"
 {#style#:<link rel="stylesheet" href="talks.css" type="text/css" />:#style#}
 
 <h2>Projektbeskrivning</h2>
@@ -22,23 +22,13 @@
    beroenden på andra Debianpaket och på det viset förbereds systemet för
    att lösa specifika problem.
    Den bästa översikten över Debian Med finns
-   på <a href="https://debian-med.alioth.debian.org/tasks">sidan med uppgifter</a>.
+   på <a href="https://blends.debian.org/med/tasks/">sidan med uppgifter</a>.
 </p>
 
 <p>För en mer djupgående diskussion finns 
    <a href="https://people.debian.org/~tille/talks/">flera föredrag om
    Debian Med och Debian Pure Blends i allmänhet</a>
    tillgängliga som föredragsbilder, delvis med videoinspelning.
-</p>
-
-<h2>Nyheter</h2>
-
-<p><:= get_recent_list('News/$(CUR_YEAR)', '6',
-'$(ENGLISHDIR)/devel/debian-med', '', '\d+\w*' ) :>
-</p>
-
-<p>För äldre nyheter, se
-<a href="News/">Debian Med:s nyhetssida</a>.
 </p>
 
 
@@ -57,14 +47,13 @@ Du kan prenumerera på och avbeställa den från
 Sändlistearkiven är också tillgängliga där.
 </p>
 <p>
-Det finns två viktiga platser för utvecklarinformation:
+Viktiga platser för utvecklarinformation:
 </p>
 <ol>
   <li><a href="https://wiki.debian.org/DebianMed">Wikisidan</a></li>
-  <li><a href="https://debian-med.alioth.debian.org">Utvecklarinformationssida</a>
-    som innehåller dynamisk information om projektmedlemmar, SVN-historik,
-    statusinformation om Debian Med-specifika paket etc.
-  </li>
+  <li><a href="https://blends.debian.org/med/">The Blends page</a></li>
+  <li>The <a href="https://med-team.pages.debian.net/policy/">Debian Med policy</a> which explains packaging rules in the team</li>
+  <li><a href="https://salsa.debian.org/med-team/">Git-förråd för Debian-Med-paket på Salsa</a></li>
 </ol>
 
 <h2>Inkluderade programvaruprojekt</h2>
@@ -73,7 +62,7 @@ Det finns två viktiga platser för utvecklarinformation:
 tillhandahåller en automatgenererad överblick av all mjukvara som
 inkluderas i en blandning.
 Besök
-<b><a href="https://debian-med.alioth.debian.org/tasks">Debian Meds uppgiftssida</a></b>
+<b><a href="https://blends.debian.org/med/tasks/">Debian Meds uppgiftssida</a></b>
 för information om all inkluderad mjukvara och projekt som
 finns på att-göra-listan för att tas med i Debian.
 
@@ -94,14 +83,6 @@ finns på att-göra-listan för att tas med i Debian.
   <li>Demonstrera styrkan hos ett stabilt bassystem för kommersiella
       programvarufirmor för att få dem att utvärdera anpassning av sin
       programvara till Linux eller kanske att göra programvaran fri.</li>
-</ul>
-
-
-<h2>Aliothprojekt</h2>
-
-<ul>
-  <li><a href="https://debian-med.alioth.debian.org/">Debian Med</a></li>
-  <li><a href="https://blends.debian.org/blends/">Debian Pure Blends</a></li>
 </ul>
 
 
@@ -127,28 +108,10 @@ finns på att-göra-listan för att tas med i Debian.
 <h2>Länkar</h2>
 
 <ul>
-  <li>Bela Tiwari har skrivit en mycket bra
-   <a href="http://gchelpdesk.ualberta.ca/news/03mar05/cbhd_news_03mar05.php#GearingUp">översikt
-   över projekt inom bioinformatik</a>.
-   Den publicerades i Canadian Bioinformatics Help Desks nyhetsbrev den 3
-   mars 2005.
-  </li>
   <li>Debian Med är ett nära samarbete med <a 
    href="http://nebc.nerc.ac.uk/tools/bio-linux/bio-linux-6.0">Bio-Linux</a>.
 	Medan Bio-Linux bygger på Ubuntu LTS så underhåller Debian Med-gruppen
 	paket inom det biologiska området i Debian.
-  </li>
-  <li>
-   <a href="http://wikiomics.org/">Wikiomics</a> är en bioinformatik-wiki
-   där alla sorters frågor kan ställas, besvaras och diskuteras.
-  </li>
-  <li>Nyheter om medicinska projekt på
-   <a href="http://www.linuxmednews.com/">Linux Mednews</a>.
-  </li>
-  <li><a href="http://resmedicinae.sourceforge.net/analysis/">
-      Kravspecifikation för en medicinsk programvarulösning</a>.
-  </li>
-  <li><a href="http://www.openmed.org/">Ytterligare information</a>.
   </li>
 </ul>
 

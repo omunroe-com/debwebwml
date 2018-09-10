@@ -1,5 +1,5 @@
 #use wml::debian::template title="Réseau de serveurs d'empaquetage automatique" BARETITLE="true"
-#use wml::debian::translation-check translation="02de9b22925eb870281ba93d29a61e75d5330383" maintainer="David Prévot"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9" maintainer="David Prévot"
 
 # Translators:
 # Mohammed Adnène Trojette, 2005-2007.
@@ -150,14 +150,14 @@ href="wanna-build-states"><em>wanna-build-states</em></a>.</p>
 <p>Bien entendu, la documentation et le code source disponibles pour
 ces différents outils sont le meilleur moyen de bien comprendre comment
 fonctionne le réseau d'empaqueteurs. Par ailleurs, la section
-<a href="$(HOME)/doc/manuals/developers-reference/pkgs#porting">\
+<a href="$(HOME)/doc/manuals/developers-reference/pkgs.html#porting">\
 Portage</a> de la <a href="$(HOME)/doc/manuals/developers-reference/">\
 Référence du développeur Debian</a> fournit des informations
 complémentaires sur la manière dont cela fonctionne
 et elle fournit aussi quelques infos sur les <a
-href="$(HOME)/doc/manuals/developers-reference/tools#tools-builders">\
+href="$(HOME)/doc/manuals/developers-reference/tools.html#tools-builders">\
 empaqueteurs</a> et les <a
-href="$(HOME)/doc/manuals/developers-reference/tools#tools-porting">\
+href="$(HOME)/doc/manuals/developers-reference/tools.html#tools-porting">\
 outils de portage</a> qui sont impliqués dans les processus
 d'installation et de maintenance du réseau de serveurs
 d'empaquetage.</p>

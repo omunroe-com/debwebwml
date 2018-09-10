@@ -2,7 +2,7 @@
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Michael Kaczmarczik a découvert une vulnérabilité dans la fonction
-d'édition de modèle d'interface web de Sympa, un gestionnaire de listes de
+d'édition de modèle de l'interface web de Sympa, un gestionnaire de listes de
 diffusion. Le propriétaire et les gestionnaires de listes pourraient
 utiliser ce défaut pour créer ou modifier des fichiers arbitraires dans le
 serveur avec les droits d'utilisateur de sympa ou des fichiers de

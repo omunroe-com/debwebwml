@@ -1,5 +1,5 @@
 #use wml::debian::template title="El Rincón del nuevo miembro de Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="854b866cca446c10c793f389da230fdf2238e68a" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9" maintainer="Laura Arjona Reina"
 
 <p>Es necesario seguir una serie de procedimientos para llegar a ser un
 desarrollador de Debian oficial (DD). Los futuros
@@ -29,7 +29,7 @@ el problema, ...)</li>
 <li>etc.</li> 
 </ul>
 
-<p>La <a href="$(DOC)/developers-reference/new-maintainer">Referencia del
+<p>La <a href="$(DOC)/developers-reference/new-maintainer.html">Referencia del
 desarrollador de Debian</a> contiene sugerencias concretas sobre cómo hacer
 algunas de estas tareas (en particular, cómo encontrar patrocinadores
 disponibles).</p>
