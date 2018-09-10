@@ -1,6 +1,6 @@
 #use wml::debian::template title="Поддръжка"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144"
+#use wml::debian::translation-check translation=""5475a104b176f3665fa2232373a572967c7d0011
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <h2>%body</h2>
@@ -66,8 +66,7 @@ href="https://lists.debian.org/users.html">потребителски пощен
 <p>Много от <a href="#mail_lists">пощенските ни списъци</a> могат да бъдат
 разглеждани като новинарски групи в йерархията
 <kbd>linux.debian.*</kbd>. Това може да стане и през уеб-интерфейси като
-<a href="http://groups.google.com/">Google Groups</a> или
-<a href="http://gmane.org/">Gmane</a>.</p>
+<a href="http://groups.google.com/">Google Groups</a>.</p>
 
 <p>Има и няколко новинарски групи за GNU/Linux. Въпреки че не са специално за
 Дебиан, те биха могли да предложат много информация на потребителите на
