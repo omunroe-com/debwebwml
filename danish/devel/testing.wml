@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debians 'testing'-distribution" BARETITLE=true
-#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9"
 #include "$(ENGLISHDIR)/releases/info"
 
 <p>For at få generelle, brugerorienterede oplysninger om distributionen 
@@ -69,7 +69,7 @@ fra <q>unstable</q> til <q>testing</q>.  Dets uddata er dobbelt:</p>
 <h2><a name="faq">Ofte stillede/besvarede spørgsmål</a></h2>
 
 # Note to translators: these two first items are almost the same as
-# https://www.debian.org/doc/manuals/developers-reference/pkgs#faq
+# https://www.debian.org/doc/manuals/developers-reference/pkgs.html#faq
 
 <h3><q>Hvad er udgivelseskritiske fejl og hvordan optæller man dem?</q></h3>
 
@@ -143,7 +143,7 @@ til <q>testing</q>.</p>
 tekstuddataene</a> [<a href="https://release.debian.org/britney/update_output.txt.gz">gzip'et</a>]
 nyttige: de giver tips (omend meget kortfattede) til hvilke pakker som holder
 op med at virke, når en <q>valid candidate</q> overføres til <q>testing</q>
-(se <a href="$(DOC)/manuals/developers-reference/pkgs#details">Udviklernes 
+(se <a href="$(DOC)/manuals/developers-reference/pkgs.html#details">Udviklernes 
 reference for flere oplysninger</a>).</p>
 
 
