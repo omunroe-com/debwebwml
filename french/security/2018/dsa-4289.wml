@@ -14,7 +14,7 @@ bibliothèque JavaScript V8.</p></li>
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16066">CVE-2018-16066</a>
 
 <p>cloudfuzzer a découvert un problème de lecture hors limites dans Blink
-et webkit.</p></li>
+et WebKit.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16067">CVE-2018-16067</a>
 
@@ -69,7 +69,7 @@ Security Policy ».</p></li>
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16078">CVE-2018-16078</a>
 
 <p>Cailan Sacks a découvert que la fonctionnalité Autofill pourrait
-divulguer des informations sur les cartes de crédits enregistrées.</p></li>
+divulguer des informations sur les cartes de crédit enregistrées.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16079">CVE-2018-16079</a>
 
