@@ -8,35 +8,36 @@
 
 <h2>Présentation du projet</h2>
 
-<p>Debian-Med est une <a href="https://blends.debian.org/blends/">\
-   distribution «&nbsp;Debian Pure Blend&nbsp;»</a> aux
+<p>Debian Med est un <a href="https://blends.debian.org/blends/">\
+   mélange exclusif «&nbsp;Debian Pure Blend&nbsp;»</a> visant à développer
+   Debian comme système d’exploitation répondant particulièrement bien aux
    exigences de la pratique médicale et de la recherche biomédicale. L'objectif de
-   Debian Med est de proposer un système complet, libre et ouvert qui permet d'accomplir
+   Debian Med est de proposer un système complet, libre et ouvert qui permet d'accomplir
    l'ensemble des tâches spécifiques à la médecine et la recherche médicale.
-   Pour cela, Debian Med intègre au sein du système d'exploitation Debian des
+   Pour cela, Debian Med intègre au sein du système d'exploitation Debian des
    logiciels libres et ouverts pour l'imagerie médicale, la bio-informatique,
-   la gestion clinique, etc.
+   la gestion clinique, etc.
 </p>
  
-<p>Debian Med contient un ensemble de métapaquets qui déclarent des dépendances
+<p>Debian Med contient un ensemble de métapaquets qui déclarent des dépendances
    sur d'autres paquets Debian. Le système est ainsi conçu pour répondre à des
    besoins spécifiques.
-   Le meilleur aperçu concernant Debian Med se trouve
-   <a href="https://blends.debian.org/med/tasks/">sur la page de travail</a>.
+   Le meilleur aperçu concernant Debian Med se trouve
+   <a href="https://blends.debian.org/med/tasks/">sur la page des tâches</a>.
 </p>
 
 <p>Pour une discussion plus approfondie, plusieurs
    <a href="https://people.debian.org/~tille/talks/">\
    exposés sont disponibles</a> sous forme de diapositives et, en partie, de
-   vidéo (en anglais), elle traitent de tout ce qui
-   concerne Debian Med et « Debian Pure Blend »
+   vidéos (en anglais), elle traitent de tout ce qui
+   concerne Debian Med et « Debian Pure Blend » en général.
 </p>
 
 <h2>Contact et informations sur les développeurs</h2>
 
 <p>
 La <a href="mailto:debian-med@lists.debian.org">liste de diffusion
-Debian Med</a> est le point central pour la communication de Debian Med.
+Debian Med</a> est le point central pour la communication de Debian Med.
 Elle sert de forum pour les utilisateurs potentiels comme actuels qui
 désirent utiliser leur ordinateur pour les tâches médicales.
 De plus, elle est utilisée pour coordonner les efforts de développement
@@ -50,22 +51,21 @@ Il y a plusieurs endroits importants avec des informations pour les
 développeurs&nbsp;:
 </p>
 <ol>
-  <li><a href="https://wiki.debian.org/DebianMed">La page du Wiki</a> ;</li>
-  <li><a href="https://blends.debian.org/med/">La page des Blend pur
-    Debian</a> ;</li>
-  <li>La page <a href="https://med-team.pages.debian.net/policy/">Debian Med
-    policy</a> qui explique les règles d'empaquetage de l'équipe ;</li>
-  <li>Les <a href="https://salsa.debian.org/med-team/">dépôts Git des paquets
-    de Debian Med dans Salsa</a>.</li>
+  <li><a href="https://wiki.debian.org/DebianMed">la page du wiki</a> ;</li>
+  <li><a href="https://blends.debian.org/med/">la page du mélange </a> ;</li>
+  <li>la page de <a href="https://med-team.pages.debian.net/policy/">politique de
+      Debian Med</a> qui explique les règles d'empaquetage de l'équipe ;</li>
+  <li>les <a href="https://salsa.debian.org/med-team/">dépôts Git des paquets
+    de Debian Med dans Salsa</a>.</li>
 </ol>
 
 <h2>Projets inclus</h2>
 
-Pour chaque <a href="https://blends.debian.org/blends">Blend pur
-Debian</a>, une vue d'ensemble montrant l'intégralité des paquets inclus est
-disponible. Vous pouvez vous rendre sur la page des «&nbsp;<a
-href="https://blends.debian.org/med/tasks/">tâches</a>&nbsp;» de Debian
-Med pour voir quels paquets Debian sont inclus, et quels sont les programmes
+Le système de <a href="https://blends.debian.org/blends">mélanges exclusifs de
+Debian</a> fournit un vue d'ensemble créée automatiquement de l'intégralité des
+paquets inclus dans un assemblage. Vous pouvez vous rendre sur la page des « <a
+href="https://blends.debian.org/med/tasks/">tâches</a> » de Debian Med
+pour voir quels paquets Debian sont inclus, et quels sont les programmes
 que nous envisageons d'empaqueter.
  
 <h2>Objectifs du projet</h2>
@@ -92,7 +92,7 @@ que nous envisageons d'empaqueter.
 
 <p>
 Il y a <a href="https://wiki.debian.org/DebianMedTodo">une page Wiki contenant
-une liste de taches</a> qui peuvent être faites pour aider le projet.
+une liste de tâches</a> qui peuvent être faites pour aider le projet.
 </p>
 
 <h2>Diffusion et relations publiques</h2>
@@ -102,7 +102,7 @@ une liste de taches</a> qui peuvent être faites pour aider le projet.
    observer. Nous aurons naturellement à travailler avec press@debian.org
    pour prêcher la bonne parole et nous aider à donner à Debian et à ce
    projet la dimension que nous lui souhaitons. À cette fin, nous devrons
-   construire une collection de transparents d'exposés sur Debian Med.
+   construire une collection de transparents d'exposés sur Debian Med.
 </p>
 
 
@@ -111,9 +111,9 @@ une liste de taches</a> qui peuvent être faites pour aider le projet.
 
 <ul>
   <li>
-    Debian Med collabore étroitement avec
+    Debian Med collabore étroitement avec
     <a href="http://nebc.nerc.ac.uk/tools/bio-linux/bio-linux-6.0">Bio-Linux</a>.
-    Bien que Bio-Linux soit basé sur Ubuntu LTS, les paquets ayant trait à la
-    biologie sont maintenus au sein de Debian par l'équipe Debian Med.
+    Bien que Bio-Linux soit basé sur Ubuntu LTS, les paquets ayant trait à la
+    biologie sont maintenus au sein de Debian par l'équipe Debian Med.
   </li>
 </ul>
