@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="a92089c3560c9f553b935d6d316a918e590eaf76" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Henning Westerholt upptäckte en brist rörande behandlingen av Via-huvudet
+i kamailio, en väldigt snabb, dynamisk och konfigurerbar SIP-server.
+En icke autentiserad angripare kan dra fördel av denna brist för att
+starta ett överbelastningsangrepp via ett speciellt skapat SIP-meddelande
+med ett ogiltigt Via-huvud.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 4.4.4-2+deb9u3.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era kamailio-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om kamailio vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/kamailio">https://security-tracker.debian.org/tracker/kamailio</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4292.data"

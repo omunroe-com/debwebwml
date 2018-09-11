@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="e788b6e7eef134beb2441d7494a518b0c6ba254c" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Två misslyckade rengörningar av indata har upptäckts i binärerna
+faxrunq och faxq i mgetty, en smart modem getty-ersättare. En angripare kunde
+utnyttja dessa för att infoga kommandon via skalmetatecken i jobb-id och få dem
+exekverade med samma rättigheter som faxrunq/faxq-användaren.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 1.1.36-3+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era mgetty-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om mgetty vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/mgetty">https://security-tracker.debian.org/tracker/mgetty</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4291.data"
