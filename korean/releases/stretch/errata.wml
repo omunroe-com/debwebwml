@@ -42,8 +42,8 @@
       <a href="$(HOME)/News/2017/2017120902">2017. 12. 9.</a>에 나왔습니다.</li>
 <li>네번째 포인트 릴리스 9.4는
 <a href="$(HOME)/News/2018/20180310">2018. 3. 10.</a>에 나왔습니다.</li>
-<li>5번째 포인트 릴리스, 9.5는
-      <a href="$(HOME)/News/2018/20180714">July 14, 2018</a>에 나왔습니다.</li>
+<li>다섯번째 포인트 릴리스, 9.5는
+      <a href="$(HOME)/News/2018/20180714">2018. 7. 14.</a>에 나왔습니다.</li>
 
 </ul>
 
@@ -56,12 +56,12 @@ href="http://http.us.debian.org/debian/dists/stretch/ChangeLog">ChangeLog</a>에
 9.0 과 <current_release_stretch/> 사이의 변경에 대한 상세가 있습니다.
 </p>"/>
 
-<p>릴리스된 안정 배포본에 대한 수정은 종종 연장된 테스트 기간을 거친 후
+<p>릴리스된 안정 배포본에 대한 수정은 종종 연장된 테스트 기간을 거친 뒤
 아카이브에 승인됩니다. 그러나, 이 수정은 아카이브 미러의
 <a href="http://ftp.debian.org/debian/dists/stretch-proposed-updates/">\
 dists/stretch-proposed-updates</a> 디렉토리에서 가능합니다.</p>
 
-<p>APT를 써서 패키지를 업데이트하면, 이래 줄을
+<p>APT를 써서 패키지를 업데이트하면, 아래 줄을
 <tt>/etc/apt/sources.list</tt>에 더하여 제안된 업데이트를 설치할 수 있습니다:</p>
 
 <pre>
