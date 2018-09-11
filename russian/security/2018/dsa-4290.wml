@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="c91536408344cd96e85d12fa82af1209b40ef49f" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В libextractor, библиотеке для извлечения произвольных метаданных из
+файлов, было обнаружено несколько уязвимостей, которые могут приводить к отказу
+в обслуживании или выполнению произвольного кода в случае открытия специально
+сформированного файла.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1:1.3-4+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты libextractor.</p>
+
+<p>С подробным статусом поддержки безопасности libextractor можно ознакомиться на its
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/libextractor">\
+https://security-tracker.debian.org/tracker/libextractor</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4290.data"
