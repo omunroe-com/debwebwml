@@ -7,8 +7,6 @@
 </define-tag>
 
 <toc-display />
-
-
 <toc-add-entry name="doc" href="doc/">Документация</toc-add-entry>
 
 <p>Преди да търсите помощ от някой друг е добра идея сами да опитате да
@@ -22,7 +20,7 @@ href="doc/">страницата за документация</a>.</p>
 
 <toc-add-entry name="release" href="releases/stable/">Известни проблеми</toc-add-entry>
 
-<p>Известните недостатъци и сериозни проблеми в стабилното издание на
+<p>Известните непълноти и сериозни проблеми в стабилното издание на
 дистрибуцията са описани на <a href="releases/stable/">страниците на
 изданията</a>.</p>
 
@@ -31,7 +29,7 @@ href="doc/">страницата за документация</a>.</p>
 href="releases/stable/errata">допълненията</a>.</p>
 
 
-<toc-add-entry name="wiki" href="https://wiki.debian.org/">Wiki</toc-add-entry>
+<toc-add-entry name="wiki" href="https://wiki.debian.org/">Уики</toc-add-entry>
 
 <p>Решения на често срещани проблеми, ръководства, съвети и друга полезна
 информация могат да бъдат намерени в <a href="https://wiki.debian.org/">Уикито
