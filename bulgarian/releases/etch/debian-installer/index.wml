@@ -1,7 +1,7 @@
 #use wml::debian::template title="Инсталиране на Дебиан &ldquo;etch&rdquo;" NOHEADER="true"
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/etch/release.data"
-#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2"
+#use wml::debian::translation-check translation="f36546f515e33fb0e590b3db17a516bf3d605f5f"
 
 <h1>Инсталиране на Дебиан ГНУ/Линукс <current_release_etch></h1>
 
@@ -116,9 +116,8 @@ DVD (чрез <a href="$(HOME)/CD/jigdo-cd">jigdo</a>)
         една архитектура. DVD дисковете включват и изходния код на всички
         пакети.
     </li><li>
-        Контролните суми за компактдисковете за мрежова инсталация и дисковете
-        тип визитка се намират във файловете <tt>MD5SUMS</tt> и
-        <tt>SHA1SUMS</tt> в директорията с образите.
+        Контролните суми се намират във файловете <tt>SHA256SUMS</tt> и
+        <tt>SHA512SUMS</tt> в директорията с образите.
     </li>
 </ul>
 
