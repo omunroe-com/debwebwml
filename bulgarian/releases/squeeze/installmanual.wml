@@ -1,5 +1,5 @@
 #use wml::debian::template title="Дебиан squeeze -- Ръководство за инсталиране" BARETITLE=true
-#use wml::debian::translation-check translation="572445c4e984548ff493fb061c947af8f4e4abc2"
+#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
@@ -12,7 +12,7 @@
 в инсталатора. Интерес може да представлява <a
 href="../lenny/installmanual">Ръководството за инсталиране на Дебиан ГНУ/Линукс
 5.0 с кодово име lenny</a>, което е последното официално издание на Дебиан или
-пък <a href="https://d-i.alioth.debian.org/manual/">Текущия вариант на
+пък <a href="https://d-i.debian.org/manual/">Текущия вариант на
 ръководството за инсталиране</a>, което е най-актуалната версия на този
 документ.</p>
 </if-stable-release>
