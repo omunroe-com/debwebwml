@@ -1,12 +1,12 @@
 #use wml::debian::template title="Дебиан wheezy -- Ръководство за инсталиране" BARETITLE=true
-#use wml::debian::translation-check translation="4e8bc28b6f27761aa66726e038b3727bd08afc1a"
+#use wml::debian::translation-check translation="e7a43e9d7fba0dacfd02fa428fb89faf507617cf"
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/wheezy/release.data"
 
 <if-stable-release release="squeeze">
-<p>Ръководството за инсталиране на Дебиан 7.0 с кодово име wheezy е
+<p>Ръководството за инсталиране на Дебиан 7 с кодово име wheezy е
 <strong>в процес на разработка</strong> и още не е окончателно. Представената
 информация може да не е актуална или да не е вярна поради извършваните промени
 в инсталатора. Интерес може да представлява <a

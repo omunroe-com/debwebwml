@@ -1,5 +1,5 @@
-#use wml::debian::template title="Дебиан 7.0 -- бележки по изданието" BARETITLE=true
-#use wml::debian::translation-check translation="01e44c51289e76f1a2f304c32b9bfb3b8b022857"
+#use wml::debian::template title="Дебиан 7 -- бележки по изданието" BARETITLE=true
+#use wml::debian::translation-check translation="429b669e74a655a084feebb28db397b6384634d3"
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
@@ -7,11 +7,11 @@
 
 <if-stable-release release="squeeze">
 <p>Това е <strong>работен вариант</strong> на бележките по изданието за Дебиан
-7.0 с кодово име wheezy, което още не е официално. Представената
+7 с кодово име wheezy, което още не е официално. Представената
 информация може да не е актуална или да е грешна и най-вероятно е непълна.</p>
 </if-stable-release>
 
-<p>За информация относно новостите в Дебиан 7.0 прочетете бележките по
+<p>За информация относно новостите в Дебиан 7 прочетете бележките по
 изданието за съответната архитектура:</p>
 
 <ul>
