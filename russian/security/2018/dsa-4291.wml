@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="e788b6e7eef134beb2441d7494a518b0c6ba254c" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В двоичных файлах faxrunq и faxq для mgetty, замене getty, были обнаружены
+две проблемы с очисткой входных данных. Злоумышленник может использовать их для
+вставки команд с помощью метасимволов командной оболочки в идентификаторах заданий и
+исполнять их с правами пользователя faxrunq/faxq.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 1.1.36-3+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты mgetty.</p>
+
+<p>С подробным статусом поддержки безопасности mgetty можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/mgetty">\
+https://security-tracker.debian.org/tracker/mgetty</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4291.data"
