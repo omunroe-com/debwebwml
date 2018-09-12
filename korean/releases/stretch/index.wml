@@ -6,7 +6,7 @@
 
 <if-stable-release release="stretch">
 
-<p>데비안 <current_release_stretch>은 <current_release_date_stretch>에 나왔습니다.
+<p>데비안 <current_release_stretch> 버전은 <current_release_date_stretch>에 나왔습니다.
 <ifneq "9.0" "<current_release>"
   "9.0은  <:=spokendate('2017-06-17'):>에 초기 릴리스 되었습니다."
 />
