@@ -1,17 +1,21 @@
 #use wml::debian::template title="Съобщаване за грешки чрез системата следене на грешките на Дебиан" NOHEADER=yes NOCOPYRIGHT=true
-#use wml::debian::translation-check translation="03a2dd8bac69ccecb2fb4a2f03c82697c0577e97"
+#use wml::debian::translation-check translation="ace5b9358f0f4839bfd54cee02fa21e6a68a0a09"
 
 <h1>Съобщаване за открита грешка в Дебиан с reportbug</h1>
 
 <a name="reportbug"></a>
 <p>Силно препоръчваме да съобщавате за откритите от вас грешки в Дебиан чрез програмата <code><a
-href="https://packages.debian.org/stable/utils/reportbug">reportbug</a></code>.
-За да инсталирате reportbug, просто изпълнете командата:</p>
+href="https://packages.debian.org/stable/utils/reportbug">reportbug</a></code>.</p>
 
-<blockquote>
- <p># <kbd>apt-get install reportbug</kbd><br/>
-    $ <kbd>reportbug</kbd></p>
-</blockquote>
+<p>
+При повечето системи reportbug е инсталирана по подразбиране. Ако при вас това
+не е така, може да я инсталирате с използвания от вас инструмент за инсталиране
+на пакети.</p>
+
+<p>
+Стартирането на reportbug може да стане от раздела <q>Система</q> на менюто на графичното
+обкръжение или чрез въвеждане на <code>reportbug</code> на командния ред.
+</p>
 
 <p>Програмата ще ви преведе през целия процес на събщаване за грешката.</p>
 
