@@ -1,0 +1,113 @@
+#use wml::debian::translation-check translation="5f57b1d60948805f6760c4c3533ab3315b3c6b49"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se han descubierto varias vulnerabilidades en el navegador web Chromium.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16065">CVE-2018-16065</a>
+
+    <p>Brendon Tiszka descubrió un problema de escritura fuera de límites en la biblioteca
+    javascript v8.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16066">CVE-2018-16066</a>
+
+    <p>cloudfuzzer descubrió un problema de lectura fuera de límites en blink/webkit.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16067">CVE-2018-16067</a>
+
+    <p>Zhe Jin descubrió un problema de lectura fuera de límites en la implementación
+    de WebAudio.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16068">CVE-2018-16068</a>
+
+    <p>Mark Brand descubrió un problema de escritura fuera de límites en la biblioteca
+    de paso de mensajes Mojo.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16069">CVE-2018-16069</a>
+
+    <p>Mark Brand descubrió un problema de lectura fuera de límites en la biblioteca
+    swiftshader.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16070">CVE-2018-16070</a>
+
+    <p>Ivan Fratric descubrió un problema de desbordamiento de entero en la biblioteca skia.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16071">CVE-2018-16071</a>
+
+    <p>Natalie Silvanovich descubrió un problema de «uso tras liberar» en la implementación
+    de WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16073">CVE-2018-16073</a>
+
+    <p>Jun Kokatsu descubrió un error en la funcionalidad Site Isolation («aislamiento de sitios web») al
+    restaurar las pestañas del navegador.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16074">CVE-2018-16074</a>
+
+    <p>Jun Kokatsu descubrió un error en la funcionalidad Site Isolation («aislamiento de sitios web») al
+    usar una URL Blob.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16075">CVE-2018-16075</a>
+
+    <p>Pepe Vila descubrió un error que podría permitir que sitios remotos accedan
+    a ficheros locales.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16076">CVE-2018-16076</a>
+
+    <p>Aseksandar Nikolic descubrió un problema de lectura fuera de límites en la biblioteca
+    pdfium.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16077">CVE-2018-16077</a>
+
+    <p>Manuel Caballero descubrió una manera de sortear la política de seguridad del contenido.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16078">CVE-2018-16078</a>
+
+    <p>Cailan Sacks descubrió que la funcionalidad Autofill («autocompletar») podría filtrar la información
+    guardada de tarjetas de crédito.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16079">CVE-2018-16079</a>
+
+    <p>Markus Vervier y Michele Orrù descubrieron un problema de suplantación de URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16080">CVE-2018-16080</a>
+
+    <p>Khalil Zhani descubrió un problema de suplantación de URL.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16081">CVE-2018-16081</a>
+
+    <p>Jann Horn descubrió que con las herramientas para el desarrollador se podría acceder a ficheros
+    locales.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16082">CVE-2018-16082</a>
+
+    <p>Omair descubrió un problema de desbordamiento de memoria en la biblioteca swiftshader.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16083">CVE-2018-16083</a>
+
+    <p>Natalie Silvanovich descubrió un problema de lectura fuera de límites en la implementación
+    de WebRTC.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16084">CVE-2018-16084</a>
+
+    <p>Jun Kokatsu descubrió una manera de sortear un diálogo de confirmación de usuario.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16085">CVE-2018-16085</a>
+
+    <p>Roman Kuksin descubrió un problema de «uso tras liberar».</p></li>
+
+</ul>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 69.0.3497.81-1~deb9u1.</p>
+
+<p>Le recomendamos que actualice los paquetes de chromium-browser.</p>
+
+<p>Para información detallada sobre el estado de seguridad de chromium-browser consulte
+su página en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4289.data"
