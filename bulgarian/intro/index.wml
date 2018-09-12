@@ -1,5 +1,5 @@
 #use wml::debian::template title="Първи стъпки с Дебиан"
-#use wml::debian::translation-check translation="9e364f8ccb7326e57df74219d78d41e00374e070"
+#use wml::debian::translation-check translation="841e47d32b655511d31cf500604e14ccea8038d1"
 
 <p><a href="about">За Дебиан</a>.
 
@@ -12,6 +12,10 @@
 # <p><a href="cooperation">Сътрудничество с ФСС</a>.
 
 <p><a href="organization">Структура на организацията Дебиан</a>.
+
+<p><a href="diversity">Декларация за многообразие</a>.
+
+<p><a href="help">Как да помогнете?</a>.
 
 <p><a href="search">Съвети за търсене в сайта на Дебиан</a>.
 
