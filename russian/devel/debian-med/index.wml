@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Med"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="b9967d1f4d930716e9646a92bda776ced3c44cce" maintainer="Lev Lamberov"
 
 <h2>Описание проекта</h2>
 
@@ -21,7 +21,7 @@
    пакетов Debian, таким образом полная система подготавливается для
    решения конкретных задач.
    Лучший обзор Debian Med дан
-   на <a href="https://debian-med.alioth.debian.org/tasks">странице задач</a>.
+   на <a href="https://blends.debian.org/med/tasks/">странице задач</a>.
 </p>
 
 <p>Для более досконального обсуждения
@@ -29,16 +29,6 @@
    Debian Med и чистых смесях Debian вообще</a>
    в виде слайдов и частично в виде видео записей.
 </p>
-
-
-<h2>Новости</h2>
-
-<p><:= get_recent_list('News/$(CUR_YEAR)', '6',
-'$(ENGLISHDIR)/devel/debian-med', '', '\d+\w*' ) :>
-</p>
-
-<p>Предыдущие новости см. на <a href="$(HOME)/devel/debian-med/News/">\
-странице новостей Debian Med</a>.</p>
 
 
 <h2>Связь и информация для разработчиков</h2>
@@ -55,13 +45,13 @@
 На этой же странице вы также найдёте архивы списка.
 </p>
 <p>
-Информация по разработке размещается в двух местах:
+Важная информация для разработков размещается в следующих местах:
 </p>
 <ol>
   <li><a href="https://wiki.debian.org/DebianMed">вики-страница</a></li>
-  <li><a href="https://debian-med.alioth.debian.org/">страница информации для разработчиков</a>,
-      содержащая динамическую информацию о членах проекта, активности SVN,
-      информацию о статусе конкретных пакетов Debian Med и т.д.
+  <li><a href="https://blends.debian.org/med/">страница Чистых смесей</a></li>
+  <li>The <a href="https://med-team.pages.debian.net/policy/">политика Debian Med</a>, объясняющая правила создания и сопровождения пакетов, принятые в команды</li>
+  <li><a href="https://salsa.debian.org/med-team/">git-репозитории пакетов Debian Med на Salsa</a></li>
   </li>
 </ol>
 
@@ -70,7 +60,7 @@
 Система <a href="https://blends.debian.org/blends">чистых смесей Debian</a>
 предоставляет автоматически создаваемый обзор всего включённого в смесь ПО.
 Загляните на так называемые
-<b><a href="https://debian-med.alioth.debian.org/tasks">страницы задач
+<b><a href="https://blends.debian.org/med/tasks/">страницы задач
 Debian Med</a></b>, чтобы узнать обо всех включённых проектах и ПО, которые
 находятся в нашем списке для включения в Debian.
 
@@ -89,14 +79,6 @@ Debian Med</a></b>, чтобы узнать обо всех включённых
   <li>Продемонстрировать коммерческим компаниям сильные стороны цельной базовой
       системы и заинтересовать их в переносе их ПО на Linux или даже
       в переходе на принципы открытого исходного кода.</li>
-</ul>
-
-
-<h2>Проекты Alioth</h2>
-
-<ul>
-  <li><a href="https://debian-med.alioth.debian.org/">Debian Med</a></li>
-  <li><a href="https://blends.debian.org/blends/">чистые смеси Debian</a></li>
 </ul>
 
 
@@ -121,21 +103,9 @@ Debian Med</a></b>, чтобы узнать обо всех включённых
 <h2>Ссылки</h2>
 
 <ul>
-  <li>Бела Тивари (Bela Tiwari) написала очень хороший
-    <a href="http://gchelpdesk.ualberta.ca/news/03mar05/cbhd_news_03mar05.php#GearingUp">обзор
-    проектов, связанных с биоинформатикой</a>. Он опубликован в
-    Canadian Bioinformatics Help Desk Newsletter 3 марта 2005 года.</li>
   <li>Debian Med тесно сотрудничает с
       <a href="http://nebc.nerc.ac.uk/tools/bio-linux/bio-linux-6.0">Bio-Linux</a>.
       Хотя Bio-Linux основывается на выпусках Ubuntu LTS, пакеты биологического
       профиля сопровождаются внутри Debian командой Debian Med.
   </li>
-  <li>
-    <a href="http://wikiomics.org/">Wikiomics</a> &mdash; вики по биоинформатике,
-    где можно задать все виды вопросов, получить на них ответы и
-    обсудить их.
-  </li>
-  <li>Новости о медицинских проектах на <a href="http://linuxmednews.com/">Linux Mednews</a></li>
-  <li><a href="http://resmedicinae.sourceforge.net/analysis/">Коллекция требований к медицинскому ПО</a></li>
-  <li><a href="http://www.openmed.org/">Дополнительная информация</a></li>
 </ul>
