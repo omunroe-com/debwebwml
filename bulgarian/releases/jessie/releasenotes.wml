@@ -1,5 +1,5 @@
-#use wml::debian::template title="Дебиан 8.0 -- бележки по изданието" BARETITLE=true
-#use wml::debian::translation-check translation="7e61a0e9f9711693247f60d85ceda78047b26e22"
+#use wml::debian::template title="Дебиан 8 -- бележки по изданието" BARETITLE=true
+#use wml::debian::translation-check translation="429b669e74a655a084feebb28db397b6384634d3"
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/arches.data"
@@ -7,11 +7,11 @@
 
 <if-stable-release release="wheezy">
 <p>Това е <strong>работен вариант</strong> на бележките по изданието за Дебиан
-8.0 с кодово име jessie, което още не е официално. Представената
+8 с кодово име jessie, което още не е официално. Представената
 информация може да не е актуална или да е грешна и най-вероятно е непълна.</p>
 </if-stable-release>
 
-<p>За информация относно новостите в Дебиан 8.0 прочетете бележките по
+<p>За информация относно новостите в Дебиан 8 прочетете бележките по
 изданието за съответната архитектура:</p>
 
 <ul>
