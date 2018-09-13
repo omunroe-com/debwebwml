@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="e788b6e7eef134beb2441d7494a518b0c6ba254c"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se han encontrado dos faltas de saneado de la entrada en los binarios faxrunq
+y faxq de mgetty, un sustituto inteligente de modem getty. Un atacante podría aprovecharlas
+para insertar órdenes por medio de metacaracteres del intérprete de órdenes («shell») en id de trabajos y hacer que estos
+se ejecuten con los privilegios del usuario de faxrunq/faxq.</p>
+
+<p>Para la distribución «estable» (stretch), este problema se ha corregido en
+la versión 1.1.36-3+deb9u1.</p>
+
+<p>Le recomendamos que actualice los paquetes de mgetty.</p>
+
+<p>Para información detallada sobre el estado de seguridad de mgetty consulte
+su página en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/mgetty">https://security-tracker.debian.org/tracker/mgetty</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4291.data"
