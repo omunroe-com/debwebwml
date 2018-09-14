@@ -1,0 +1,32 @@
+#use wml::debian::template title="Legal issues"
+#use wml::debian::translation-check translation="3982afa259f29366b3b5b16b6bb0fcddbff7260e" maintainer="Sebul"
+
+# TODO: a better introduction!
+<p>데비안 웹 사이트의 이 절은 법적 이슈를 다룹니다.</p>
+
+<h2>법적 정보</h2>
+
+<ul>
+  <li><a href="licenses/">리이선스 요약</a></li>
+  <li><a href="$(HOME)/trademark">상표</a></li>
+  <li><a href="privacy">개인정보 정책</a></li>
+  <li><a href="patent">특허 정책</a></li>
+  <li><a href="cryptoinmain">메인 암호화</a>
+    <ul>
+      <li><a href="notificationforarchive">Initial notification for the archive</a></li>
+      <li><a href="notificationfornewpackages">Notification for new packages</a></li>
+    </ul>
+  </li>
+  <li><a href="anssi">Cryptographic export/import attestation</a></li>
+</ul>
+
+<h2>메일링 리스트</h2>
+
+<p>The mailing list for Debian legal matters is
+<a href="mailto:debian-legal@lists.debian.org">debian-legal@lists.debian.org</a>.
+To subscribe, send a message with the word "subscribe" as the subject to
+<a href="mailto:debian-legal-request@lists.debian.org">\
+debian-legal-request@lists.debian.org</a>, or use the
+<a href="https://lists.debian.org/debian-legal/">mailing list
+subscription</a> web page. The list is archived at
+<a href="https://lists.debian.org/debian-legal/">the list archives</a>.
