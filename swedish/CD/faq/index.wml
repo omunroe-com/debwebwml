@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Ofta ställda frågor om Debian-cd" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="82597f0ab0bfe72d63387dda56fe038a99d7bea9"
+#use wml::debian::translation-check translation="f4951db2fb317e5aabaeb9836d80a02b99d8294c"
 #include "$(ENGLISHDIR)/releases/info"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
@@ -734,7 +734,7 @@ produkter:</p>
   2003, XP och Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>Från menyn <i lang=en>File</i>, välj <i lang=en>Create CD from
   image...</i>.
@@ -867,7 +867,7 @@ kopiera en avbildning till ett USB-minne:</p>
 
 <p>Utöver metoden ovan för Linuxsystem, finns även programmet <a
    NAME="win32diskimager"
-   href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
+   href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
    tillgängligt, som gör det möjligt att skriva sådana bootbara USB-minnen
    under Windows.
 </p>

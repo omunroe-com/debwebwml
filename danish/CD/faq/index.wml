@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Ofte stillede spørgsmål om Debians cd'er" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="82597f0ab0bfe72d63387dda56fe038a99d7bea9"
+#use wml::debian::translation-check translation="f4951db2fb317e5aabaeb9836d80a02b99d8294c"
 #include "$(ENGLISHDIR)/releases/info"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
@@ -600,7 +600,7 @@ hvordan man brænder cd-aftryk med specifikke produkter:</p>
   Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>I menuen <i>File</i> vælges <i>Create CD from image...</i>. Vælg dernæst
   filtypen <q>.iso</q>, og det ønskede aftryk. Dermed åbner den grafiske brugerflade
@@ -712,7 +712,7 @@ filaftryk til USB-flashdrevet:</p>
 </ul>
 
 <p>Ud over metoden nævnt oven for vedrørende Linux-systemer, er der også 
-programmet <a name="win32diskimager" href="http://sourceforge.net/projects/win32diskimager/">\
+programmet <a name="win32diskimager" href="https://sourceforge.net/projects/win32diskimager/">\
 win32diskimager</a>, som gør det muligt at skrive til sådanne bootbare 
 USB-flashdrev under Windows.   <b>Tip:</b> win32diskimager viser åbenbart som 
 standard kun inputfiler navngivet <i>*.img</i>, og Debian-filaftryk er navngivet 

@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="關於 Debian CDs 的常見問答集" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="82597f0ab0bfe72d63387dda56fe038a99d7bea9" maintainer="Kanru Chen"
+#use wml::debian::translation-check translation="f4951db2fb317e5aabaeb9836d80a02b99d8294c" maintainer="Kanru Chen"
 #include "$(ENGLISHDIR)/releases/info"
 # Translator: Allen Huang <allen.huang@seed.net.tw>, Wed, 26 Mar 2003 13:11:59 +0800
 # Translator: Shen-Ta Hsieh <ibmibmibm.tw@gmail.com>, Fri, 31 Aug 2018 17:35:40 +0800
@@ -498,7 +498,7 @@ Debian 為 etch 維護了一個 cdrecord 的分支。在 Debian 系統上請使�
   <dd>這是共享軟體，應該可以所有速度來燒錄 ISOs 檔（至少在最初的 15 天）。</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>從 <i>File</i> 選單，選擇 <i>Create CD from image...</i>。
   然後選擇 ".iso" 檔案類型，及正確的映像檔。
@@ -600,7 +600,7 @@ Debian 為 etch 維護了一個 cdrecord 的分支。在 Debian 系統上請使�
 </ul>
 
 <p>除了上述給 Linux 系統的步驟以外，也有 <a NAME="win32diskimager"
-   href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
+   href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
    程式可以在 Windows 中建立可開機的 USB 快閃隨身碟。
    <b>提示：</b> win32diskimager 預設只會顯示輸入檔名為 <i>*.img</i> 的檔案，而
    Debian 映像檔的檔名為 <i>*.iso</i>。

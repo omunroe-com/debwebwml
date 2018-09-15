@@ -615,7 +615,7 @@ Windows を用いて ISO イメージを書き込むにはどうやればいい�
 
   <!-- TODO! どれ一つとして訳者は持っていないので、日本語化の結果どういう訳語が当てられているのか教えてください -->
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd><i>File</i> メニューから、<i>イメージから CD を作成...</i> を選び、次に
   「.iso」ファイルタイプを選択して書き込もうとするイメージを指定してください。
@@ -738,7 +738,7 @@ amd64 と arm64 の全イメージは <i>isohybrid</i>
 
 <p>上記の Linux システム向けの方法に加えて、
    <a NAME="win32diskimager"
-   href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
+   href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
    プログラムもあります。これを使えばブート可能な USB flash ドライブに
    Windows 上で書き込めます。<b>ヒント:</b> win32diskimager は
    <i>*.img</i> という名前のファイルのみをデフォルトで入力できるようです。一方で

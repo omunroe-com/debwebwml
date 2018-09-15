@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Preguntas frecuentes sobre los CDs de Debian" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="82597f0ab0bfe72d63387dda56fe038a99d7bea9" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="f4951db2fb317e5aabaeb9836d80a02b99d8294c" maintainer="Laura Arjona Reina"
 
 # $Id$
 
@@ -663,7 +663,7 @@ pueden ser imprecisos, consulte la documentación del programa):</p>
   y Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>Desde el menú <i>Archivo</i>, elija <i>Crear CD desde imagen...</i>.
   Luego seleccione el tipo de archivo <q>.iso</q>, y la imagen correcta.
@@ -786,7 +786,7 @@ ya que esta orden ¡puede escribir sobre su disco duro muy fácilmente si escoge
 
 <p>De manera adicional al método anterior para sistemas Linux, está también
 el programa  <a NAME="win32diskimager"
-href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
+href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
 disponible, que permite crear unidades USB flash autoarrancables
 desde Windows. <b>Nota:</b> win32diskimager aprentemente sólo listará
 ficheros de entrada con nombre <i>*.img</i> de manera predeterminada, 

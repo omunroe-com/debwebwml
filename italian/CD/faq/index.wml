@@ -1,7 +1,7 @@
 #use wml::debian::cdimage title="Domande ricorrenti sui CD Debian" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="82597f0ab0bfe72d63387dda56fe038a99d7bea9" maintainer="Luca Monducci"
+#use wml::debian::translation-check translation="f4951db2fb317e5aabaeb9836d80a02b99d8294c" maintainer="Luca Monducci"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
 <p><strong>%body</strong></p>
@@ -766,7 +766,7 @@ e Vista.</dd>
 # ISO a qualsisi velocità (almeno per i primi 15 giorni).</dd>
 #
   <dt>
-<strong><a name="adaptec" href="http://www.adaptec.com/">Adaptec</a>/<a href="http://www.roxio.com/">Roxio</a>
+<strong><a name="adaptec" href="http://www.adaptec.com/">Adaptec</a>/<a href="https://www.roxio.com/">Roxio</a>
 Easy-CD Creator</strong></dt>
 
   <dd>
@@ -917,7 +917,7 @@ completate prima che il comando esca.</li>
 <p>
 Oltre al metodo precedente, idoneo per i sistemi Linux, esiste il
 programma <a name="win32diskimager"
-href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
+href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
 che permette di preparare dei dispositivi USB per l'avvio del sistema
 da Windows. <b>Attenzione:</b> apparentemente win32diskimager accetta
 solo file con nome <i>*.img</i> invece le immagini Debian hanno nome

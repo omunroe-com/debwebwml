@@ -679,7 +679,7 @@ speziellen Produkten gebrannt werden können:</p>
   <tt>.iso</tt>-Images schreiben.</dd>
 
   <dt><strong><a name="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>Wählen Sie aus dem Menü <i>File</i> -> <i>Create CD from image...</i> Dann
   wählen Sie den Dateityp <q>.iso</q> und das richtige Image. Das öffnet das
@@ -808,7 +808,7 @@ wie hier:</p>
 
 <p>Zusätzlich zu der oben aufgeführten Methode für Linux-Systeme gibt
    es auch das Programm <a NAME="win32diskimager"
-   href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
+   href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
    mit dem Sie solche bootfähigen USB-Sticks unter Windows erstellen können.
    <b>Hinweis:</b> win32diskimager listet offenbar standardmäßig
    nur Dateien auf, die auf <i>.img</i> enden, während die Debian-Images
