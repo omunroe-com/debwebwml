@@ -1,12 +1,12 @@
 # German translation of the Debian webwml modules
 # Copyright (c) 2004 Software in the Public Interest, Inc.
 # Helge Kreutzmann <debian@helgefjell.de>, 2007, 2008.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2004, 2005, 2006, 2011, 2012, 2016, 2017.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2004, 2005, 2006, 2011, 2012, 2016, 2017, 2018.
 # Holger Wansing <linux@wansing-online.de>, 2011, 2012, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml templates\n"
-"PO-Revision-Date: 2017-06-07 22:11+0100\n"
+"PO-Revision-Date: 2018-09-15 14:56+0100\n"
 "Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
 "Language-Team: German <debian-l10n-german@lists.debian.org>\n"
 "Language: de\n"
@@ -85,72 +85,81 @@ msgid "Contact Us"
 msgstr "Kontakte"
 
 #: ../../english/template/debian/common_translation.wml:37
+#| msgid "Release Info"
+msgid "Legal Info"
+msgstr "Rechtliche Informationen"
+
+#: ../../english/template/debian/common_translation.wml:40
+msgid "Data Privacy"
+msgstr "Datenschutz"
+
+#: ../../english/template/debian/common_translation.wml:43
 msgid "Donations"
 msgstr "Spenden"
 
-#: ../../english/template/debian/common_translation.wml:40
+#: ../../english/template/debian/common_translation.wml:46
 msgid "Events"
 msgstr "Veranstaltungen"
 
-#: ../../english/template/debian/common_translation.wml:43
+#: ../../english/template/debian/common_translation.wml:49
 msgid "News"
 msgstr "Nachrichten"
 
-#: ../../english/template/debian/common_translation.wml:46
+#: ../../english/template/debian/common_translation.wml:52
 msgid "Distribution"
 msgstr "Distribution"
 
-#: ../../english/template/debian/common_translation.wml:49
+#: ../../english/template/debian/common_translation.wml:55
 msgid "Support"
 msgstr "Unterstützung"
 
-#: ../../english/template/debian/common_translation.wml:52
+#: ../../english/template/debian/common_translation.wml:58
 msgid "Pure Blends"
 msgstr "Pure Blends"
 
-#: ../../english/template/debian/common_translation.wml:55
+#: ../../english/template/debian/common_translation.wml:61
 #: ../../english/template/debian/links.tags.wml:46
 msgid "Developers' Corner"
 msgstr "Entwickler-Ecke"
 
-#: ../../english/template/debian/common_translation.wml:58
+#: ../../english/template/debian/common_translation.wml:64
 msgid "Documentation"
 msgstr "Dokumentation"
 
-#: ../../english/template/debian/common_translation.wml:61
+#: ../../english/template/debian/common_translation.wml:67
 msgid "Security Information"
 msgstr "Sicherheitsinformationen"
 
-#: ../../english/template/debian/common_translation.wml:64
+#: ../../english/template/debian/common_translation.wml:70
 msgid "Search"
 msgstr "Suche"
 
-#: ../../english/template/debian/common_translation.wml:67
+#: ../../english/template/debian/common_translation.wml:73
 msgid "none"
 msgstr "kein"
 
-#: ../../english/template/debian/common_translation.wml:70
+#: ../../english/template/debian/common_translation.wml:76
 msgid "Go"
 msgstr "Los"
 
-#: ../../english/template/debian/common_translation.wml:73
+#: ../../english/template/debian/common_translation.wml:79
 msgid "worldwide"
 msgstr "weltweit"
 
-#: ../../english/template/debian/common_translation.wml:76
+#: ../../english/template/debian/common_translation.wml:82
 msgid "Site map"
 msgstr "Sitemap"
 
-#: ../../english/template/debian/common_translation.wml:79
+#: ../../english/template/debian/common_translation.wml:85
 msgid "Miscellaneous"
 msgstr "Verschiedenes"
 
-#: ../../english/template/debian/common_translation.wml:82
+#: ../../english/template/debian/common_translation.wml:88
 #: ../../english/template/debian/links.tags.wml:104
 msgid "Getting Debian"
 msgstr "Debian besorgen"
 
-#: ../../english/template/debian/common_translation.wml:85
+#: ../../english/template/debian/common_translation.wml:91
 msgid "The Debian Blog"
 msgstr "Der Debian-Blog"
 
@@ -200,14 +209,7 @@ msgstr "in Version 2.2"
 #. you can add some information of your own translation mailing list
 #. (i.e. debian-l10n-XXXXXX@lists.debian.org) for reporting things in
 #. your language.
-#: ../../english/template/debian/footer.wml:105
-#, fuzzy
-#| msgid ""
-#| "To report a problem with the web site, e-mail our publicly archived "
-#| "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-"
-#| "www@lists.debian.org</a>.  For other contact information, see the Debian "
-#| "<a href=\"m4_HOME/contact\">contact page</a>. Web site source code is <a "
-#| "href=\"m4_HOME/devel/website/using_cvs\">available</a>."
+#: ../../english/template/debian/footer.wml:107
 msgid ""
 "To report a problem with the web site, please e-mail our publicly archived "
 "mailing list <a href=\"mailto:debian-www@lists.debian.org\">debian-www@lists."
@@ -222,27 +224,27 @@ msgstr ""
 "\"mailto:debian-l10n-german@lists.debian.org\">debian-l10n-german@lists."
 "debian.org</a>. Weitere Kontaktinformationen finden Sie auf Debians <a href="
 "\"m4_HOME/contact\">Kontaktseite</a>. Der Quelltext der Website ist <a href="
-"\"m4_HOME/devel/website/using_cvs\">verfügbar</a>."
+"\"https://salsa.debian.org/webmaster-team/webwml\">verfügbar</a>."
 
-#: ../../english/template/debian/footer.wml:108
+#: ../../english/template/debian/footer.wml:110
 msgid "Last Modified"
 msgstr "Zuletzt geändert"
 
-#: ../../english/template/debian/footer.wml:111
+#: ../../english/template/debian/footer.wml:113
 msgid "Copyright"
 msgstr "Copyright"
 
-#: ../../english/template/debian/footer.wml:114
+#: ../../english/template/debian/footer.wml:116
 msgid "<a href=\"https://www.spi-inc.org/\">SPI</a> and others;"
 msgstr "<a href=\"https://www.spi-inc.org/\">SPI</a> und andere;"
 
-#: ../../english/template/debian/footer.wml:117
+#: ../../english/template/debian/footer.wml:119
 msgid "See <a href=\"m4_HOME/license\" rel=\"copyright\">license terms</a>"
 msgstr ""
 "weiteres in den <a href=\"m4_HOME/license\" rel=\"copyright"
 "\">Lizenzbestimmungen</a>."
 
-#: ../../english/template/debian/footer.wml:120
+#: ../../english/template/debian/footer.wml:122
 msgid ""
 "Debian is a registered <a href=\"m4_HOME/trademark\">trademark</a> of "
 "Software in the Public Interest, Inc."
@@ -517,7 +519,7 @@ msgstr ""
 
 #: ../../english/template/debian/translation-check.wml:56
 msgid "Wrong translation version!"
-msgstr ""
+msgstr "Falsche Version übersetzt!"
 
 #: ../../english/template/debian/url.wml:4
 msgid "URL"
