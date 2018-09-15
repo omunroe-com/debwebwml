@@ -1,6 +1,6 @@
 #use wml::debian::template title="Mailinglisten"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="6e5008b51180c747355fc109df669e30a83b30c4"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 # $Id$
 # Translator: Alexander Reiter <leckse@gmx.net>
 # Updated by: Frank Lichtenheld <frank@lichtenheld.de>
@@ -68,8 +68,7 @@ ohne sie abonniert zu haben.</p>
 
 <p>Des Weiteren können Sie in unseren Mailinglisten als Usenet-Newsgruppen
 stöbern. Dies können Sie über eine Web-Schnittstelle wie
-<a href="http://groups.google.com/forum/">Google</a> oder
-<a href="http://gmane.org/">Gmane</a> tun.</p>
+<a href="http://groups.google.com/forum/">Google</a> tun.</p>
 
 <p>Es könnte auch andere Orte geben, über die unsere Listen verbreitet werden
 &ndash; bitte stellen Sie sicher, dass Sie niemals vertrauliche oder

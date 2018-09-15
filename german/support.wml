@@ -1,6 +1,6 @@
 #use wml::debian::template title="Unterstützung"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="839542c077bcda89cdcdb639192c481f2bead144"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 # Translator: Philipp Frauenfelder <pfrauenf@debian.org>
 # Updated by: Thimo Neubauer <thimo@debian.org>
 # Updated by: Holger Wansing <linux@wansing-online.de>, 2011, 2016
@@ -36,7 +36,7 @@ und die <a href="releases/stable/errata">Errata</a> (Auflistung bekannter Fehler
 
 <toc-add-entry name="wiki" href="https://wiki.debian.org/">Wiki</toc-add-entry>
 
-<p>Lösungen für häufige Fehler, HOWTOs, Anleitungen, Tipps und andere 
+<p>Lösungen für häufige Fehler, HOWTOs, Anleitungen, Tipps und andere
    Dokumentation kann im <a href="https://wiki.debian.org/">Debian Wiki</a>
    gefunden werden. Wie alle Wikis ändert sich dieses Wiki ständig und
    freut sich auf Ihre Bearbeitung.</p>
@@ -77,8 +77,7 @@ um die für Ihre Zwecke am besten geeignete Liste zu finden.</p>
 <p>Viele unserer <a href="#mail_lists">Mailinglisten</a> können als
 News-Gruppe gelesen werden, in der <kbd>linux.debian.*</kbd> Hierarchie. Dies
 kann ebenfalls über ein Web-Interface wie
-<a href="http://groups.google.com/">Google Groups</a> oder
-<a href="http://gmane.org/">Gmane</a> geschehen.</p>
+<a href="http://groups.google.com/">Google Groups</a> geschehen.</p>
 
 <p>Es sind ebenfalls einige richtige News-Gruppen verfügbar, die sich um
 GNU/Linux drehen. Obwohl sie nicht Debian-spezifisch sind, können sie auch für
@@ -250,7 +249,7 @@ zusammengestellt.</p>
 
 <p><a href="http://www.irchelp.org/">IRC (Internet Relay Chat)</a> ist
 eine Möglichkeit, sich in Echtzeit mit anderen Personen auf der
-gesamten Welt zu unterhalten. Debian gewidmete IRC-Kanäle finden Sie auf der <a 
+gesamten Welt zu unterhalten. Debian gewidmete IRC-Kanäle finden Sie auf der <a
 href="https://www.oftc.net/">OFTC</a>-Website.</p>
 
 <p>Um sich mit dem Netzwerk zu verbinden, benötigen Sie einen
@@ -308,7 +307,7 @@ finden Sie unter <url "https://wiki.debian.org/DebianIRC" />.</p>
 
 
 <p>Es gibt einige andere IRC-Netze, wo Sie ebenfalls über Debian reden
-können. Eines der prominenteren ist das <a href="http://freenode.net/">Freenode 
+können. Eines der prominenteren ist das <a href="http://freenode.net/">Freenode
 IRC-Netz</a> auf <kbd>chat.freenode.net</kbd>.</p>
 
 <toc-add-entry name="other">Weitere Unterstützungs-Quellen</toc-add-entry>
