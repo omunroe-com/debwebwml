@@ -647,7 +647,7 @@ specific products:</p>
   and Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>From the <i>File</i> menu, choose <i>Create CD from
   image...</i>. Then select the <q>.iso</q> file type, and the correct
@@ -773,7 +773,7 @@ image to a USB flash drive:</p>
 
 <p>Additionally to the method above for Linux systems, there is also
    the <a NAME="win32diskimager"
-   href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
+   href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
    program available, which allows writing such bootable USB flash
    drives under Windows. <b>Hint:</b> win32diskimager will apparently
    only list input files named <i>*.img</i> by default, while the
