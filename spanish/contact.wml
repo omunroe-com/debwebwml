@@ -1,5 +1,5 @@
 #use wml::debian::template title="Ponerse en contacto con nosotros" NOCOMMENTS="yes"
-#use wml::debian::translation-check translation="75b5b8a7cc43e45bfafa02d6bb2924f2f7201582"
+#use wml::debian::translation-check translation="5475a104b176f3665fa2232373a572967c7d0011"
 
 <p>Debian es una gran organización y hay muchas maneras de contactar con
 ella. Esta página lista los medios (consultados con frecuencia) de
@@ -49,7 +49,7 @@ poco más adelante al respecto.
 <h2 id="installuse">Instalación y uso de Debian</h2>
 
 <p>Si está seguro de que la documentación en el sistema de instalación
-que usa y en nuestro web no tiene la solución a su problema, hay
+que usa y en nuestra web no tiene la solución a su problema, hay
 una lista de distribución muy activa donde usuarios y
 desarrolladores de Debian pueden responder a sus preguntas, la lista
 <em>debian-user</em>.
@@ -71,9 +71,8 @@ Vea la <a href="https://lists.debian.org/users.html#debian-user">información de
 subscripción a las listas internacionales de correo</a>.
 
 <p>Y aún más: puede navegar por nuestras listas de correo como si de
-grupos de noticias se tratase usando una interfaz web, como
-<a href="http://groups.google.com/">Google</a> o
-<a href="http://gmane.org/">Gmane</a>.
+grupos de noticias se tratase usando una interfaz web como
+<a href="http://groups.google.com/">Google</a>.
 
 <!-- añadido por jfs -->
 <p>Si usted es hispanoparlante, puede
@@ -101,10 +100,10 @@ retrasos innecesarios.
 
 <h2 id="events">Eventos / Conferencias</h2>
 
-<p>Se debería enviar al <a href="mailto:events@debian.org">departamento de
-eventos</a> las invitaciones a <a href="$(HOME)/events/">conferencias</a>
-y exhibiciones u otro tipo de eventos. Las peticiones de panfletos,
-pósters y participación en Europa se deberían enviar a la
+<p>Las invitaciones a <a href="$(HOME)/events/">conferencias</a> y
+exhibiciones u otro tipo de eventos se deberían enviar al <a
+href="mailto:events@debian.org">departamento de eventos</a>. Las peticiones de
+panfletos, pósteres y participación en Europa se deberían enviar a la
 <a href="mailto:debian-events-eu@lists.debian.org">lista de eventos</a>
 Europea.</p>
 
@@ -121,7 +120,7 @@ con las réplicas ya en marcha se pueden enviar a
 
 <p>Si desea vender CDs de Debian, vea la <a href="CD/vendors/info">\
 información para distribuidores de CD</a>. Para aparecer en la lista de
-distribuidores, <a href="CD/vendors/adding-form">hágalo usando este
+distribuidores, <a href="CD/vendors/adding-form">utilice este
 formulario</a>.</p>
 
 <h2 id="packageproblems">Informar de problemas en paquetes de Debian</h2>
@@ -160,7 +159,7 @@ y enviar sus mensajes a
 podrá <a href="Bugs/Reporting">enviar un informe de error</a> indicando el
 <a href="Bugs/pseudo-packages">pseudo-paquete</a> apropiado.</p>
 
-<p>De forma alternativa, puede usar el correo para contactar.</p>
+<p>De forma alternativa, puede usar el correo electrónico para contactar.</p>
 
 <define-tag btsurl>paquete: <a href="https://bugs.debian.org/%0">%0</a></define-tag>
 
