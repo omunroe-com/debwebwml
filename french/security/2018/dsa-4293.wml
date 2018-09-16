@@ -4,8 +4,8 @@
 <p>Plusieurs dépassements de tampon de tas ont été découverts dans
 discount, une implémentation du langage de balisage Markdown, qui
 pourraient être déclenchés par des données Markdown contrefaites pour
-l'occasion Markdown et faire que discount lise au-delà de la fin des
-tampons internes.</p>
+l'occasion et faire que discount lise au-delà de la fin des tampons
+internes.</p>
 
 <p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
 dans la version 2.2.2-1+deb9u1.</p>
