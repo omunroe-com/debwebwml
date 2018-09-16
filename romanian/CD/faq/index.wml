@@ -656,7 +656,7 @@ imagini CD cu produse specifice:</p>
   2003, XP și Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD/DVD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD/DVD Creator</strong></dt>
 
   <dd>Din meniul <i>File</i> alege <i>Create CD from image...</i>
   după care selectează tipul de fișier <q>.iso</q> și imaginea corectă.
@@ -784,7 +784,7 @@ un dispozitiv USB:</p>
 
 <p> Pe lângă metodele de mai sus pentru sisteme Linux, <a
     NAME="win32diskimager"
-    href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
+    href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>
     este un program pentru creerea de dispozitive USB bootabile disponibil in
     Windows.  <b>Sugestie:</b> aparent, win32diskimager va lista doar fișiere
     cu extensia <i>*.img</i> în mod obișnuit, pe când imaginile Debian au

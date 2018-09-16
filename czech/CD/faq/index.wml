@@ -619,7 +619,7 @@ vypálit obraz CD s&nbsp;některými specifickými produkty:</p>
   a&nbsp;Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>Z&nbsp;menu <i>File</i> vyberte <i>Create CD from
   image...</i>. Potom vyberte typ souboru <q>.iso</q> a&nbsp;správný
@@ -743,7 +743,7 @@ USB flash disk příkaz <q>cp</q>:</p>
 
 <p>K&nbsp;výše uvedeným způsobům pro systémy poháněné Linuxem, je navíc dostupný
    program <a NAME="win32diskimager"
-   href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
+   href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
    který umožňuje zapisovat tyto zaveditelné USB flash disky
    ve Windows.
 </p>

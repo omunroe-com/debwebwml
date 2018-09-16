@@ -647,7 +647,7 @@ konkrétnych programoch:</p>
   a Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>Z menu <i>File</i>, vyberte <i>Create CD from
   image...</i>. Potom vyberte „.iso“ ako typ súboru, a konkrétny
@@ -773,7 +773,7 @@ na skopírovanie obrazu na jednotku USB flash:</p>
 
 <p>Okrem vyššie popísanej metódy pre systémy Linux je k dispozícii aj program 
    <a NAME="win32diskimager"
-   href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
+   href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
    ktorý umožňuje zapisovať takéto zavádzacie USB flash disky
    v systéme Windows.
    <b>Tip:</b> vyzerá to, že win32diskimager štandardne vypíše len zoznam vstupných

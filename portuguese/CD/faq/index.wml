@@ -652,7 +652,7 @@ gravar imagens de CD com produtos específicos:</p>
   e Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>A partir do menu <i>File</i>, escolha <i>Create CD from
   image...</i>. Selecione então o tipo de arquivo <q>.iso</q>, e a imagem
@@ -775,7 +775,7 @@ uma imagem para o dispositivo USB.</p>
 
 <p>Adicionalmente ao método acima, em sistemas Linux, existe também disponível
  o programa <a NAME="win32diskimager"
- href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
+ href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>,
  que permite escrever tais dispositivos USB inicializáveis no Windows.
  <b>Dica:</b> o win32diskimager, aparentemente, irá apenas listar arquivos de
  entrada com nome <i>*.img</i>  por padrão, enquanto as imagens Debian são

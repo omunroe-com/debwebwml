@@ -644,7 +644,7 @@ informacje, jak nagrać płyty na konkretnych programach:</p>
   i Vista.</dd>
 
   <dt><strong><a name="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>Z menu <i>File</i> wybierz <i>Create CD from
   image...</i>. Następnie wybierz typ pliku <q>.iso</q> i właściwy obraz.
@@ -765,7 +765,7 @@ obraz na pamięć USB:</p>
 </ul>
 
 <p>Poza powyższymi metodami na system Linuks, istnieje także program 
-<a NAME="win32diskimager" href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>, 
+<a NAME="win32diskimager" href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>, 
 który umożliwia nagranie startowego dysku USB pod Windowsem. 
 <b>Wskazówka:</b> win32diskimager domyślnie wyświetla tylko 
 pliki <i>*.img</i>, podczas gdy obrazy Debiana mają nazwy <i>*.iso</i>. 

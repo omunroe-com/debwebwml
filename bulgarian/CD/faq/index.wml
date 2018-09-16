@@ -1,6 +1,6 @@
 #use wml::debian::cdimage title="Чести въпроси за дисковете с Дебиан" NOHEADER=true BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="82597f0ab0bfe72d63387dda56fe038a99d7bea9"
+#use wml::debian::translation-check translation="f4951db2fb317e5aabaeb9836d80a02b99d8294c"
 #include "$(ENGLISHDIR)/releases/info"
 
 <define-tag toc-title-formatting endtag="required" whitespace="delete">
@@ -592,7 +592,7 @@ Windows?</toc-add-entry>
   Vista.</dd>
 
   <dt><strong><a NAME="adaptec" href="http://www.adaptec.com/">Adaptec</a>\
-  /<a href="http://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
+  /<a href="https://www.roxio.com/">Roxio</a> Easy-CD Creator</strong></dt>
 
   <dd>От менюто <i>File</i> изберете <i>Create CD from image...</i>. Изберете
   тип файл <q>.iso</q> и желания образ. Отваря се интерфейса за настройване на
@@ -710,7 +710,7 @@ USB?</toc-add-entry>
 
 <p>За създаване на преносима памет USB за начално зареждане под Windows може
 да се използва програмата <a NAME="win32diskimager"
-href="http://sourceforge.net/projects/win32diskimager/">win32diskimager</a>.
+href="https://sourceforge.net/projects/win32diskimager/">win32diskimager</a>.
 <b>Съвет:</b> може да се наложи да промените филтъра за входни файлове от
 <i>*.img</i> на <i>*.*</i> за да видите образа на Дебиан в списъка с входни
 файлове.
