@@ -2,10 +2,10 @@
 <define-tag description>actualización de seguridad</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy descubrió múltiples vulnerabilidades en Ghostscript, un
-intérprete del lenguaje PostScript, que podría dar lugar a denegación de
+intérprete del lenguaje PostScript, que podrían dar lugar a denegación de
 servicio, a creación de ficheros o a ejecución de código arbitrario si se
-procesa un fichero Postscript mal construido (a pesar de tener el entorno aislado &mdash;«sandbox»&mdash; dSAFER
-habilitado).</p>
+procesa un fichero Postscript mal construido (a pesar de tener habilitado el entorno aislado
+dSAFER).</p>
 
 <p>Para la distribución «estable» (stretch), estos problemas se han corregido en
 la versión 9.20~dfsg-3.2+deb9u4.</p>
