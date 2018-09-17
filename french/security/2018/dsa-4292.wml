@@ -2,10 +2,10 @@
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Henning Westerholt a découvert un défaut relatif au traitement des
-en-têtes Via dans kamailio, un serveur SIP très rapide, dynamique et
+en-têtes <q>Via</q> dans kamailio, un serveur SIP très rapide, dynamique et
 modulable. Un attaquant non authentifié peut tirer avantage de ce défaut
 pour monter une attaque par déni de service à l'aide d'un message SIP
-contrefait pour l'occasion avec un en-tête VIA non valable.</p>
+contrefait pour l'occasion avec un en-tête <q>Via</q> non valable.</p>
 
 <p>Pour la distribution stable (Stretch), ce problème a été corrigé dans la
 version 4.4.4-2+deb9u3.</p>
