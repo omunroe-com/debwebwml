@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="d5d8b922549e9f89232ae2a6cd957d056d585eb1" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Tavis Ormandy opdagede adskillige sårbarheder i Ghostscript, en fortolker af 
+PostScript-sproget, hvilke kunne medføre udførelse af vilkårlig kode, hvis en 
+misdannet PostScript-fil blev behandlet (på trods af at sandkassen dSAFER er 
+aktiveret).</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 9.20~dfsg-3.2+deb9u5.</p>
+
+<p>Vi anbefaler at du opgraderer dine ghostscript-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende ghostscript, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/ghostscript">\
+https://security-tracker.debian.org/tracker/ghostscript</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4294.data"
