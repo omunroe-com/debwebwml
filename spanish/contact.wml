@@ -36,8 +36,8 @@ correo para usuarios correspondiente a su idioma</a>.</p>
 web, <a href="$(HOME)">https://www.debian.org/</a>, de manera que navegue y
 <a href="$(SEARCH)">busque</a> allí antes de contactarnos.
 
-<p>Nuestra <a href="doc/manuals/debian-faq/">FAQ</a> (<i>Preguntas Frecuentes</i>)
-contestará muchas de sus preguntas. Puede obtener sus versiones
+<p>Nuestras <a href="doc/manuals/debian-faq/">FAQ</a> (<i>Preguntas Frecuentes</i>)
+contestarán muchas de sus preguntas. Puede obtener sus versiones
 PostScript, texto y HTML empaquetado en
 <a href="http://ftp.debian.org/debian/doc/FAQ/">el sitio FTP</a>.
 
@@ -105,7 +105,7 @@ exhibiciones u otro tipo de eventos se deberían enviar al <a
 href="mailto:events@debian.org">departamento de eventos</a>. Las peticiones de
 panfletos, pósteres y participación en Europa se deberían enviar a la
 <a href="mailto:debian-events-eu@lists.debian.org">lista de eventos</a>
-Europea.</p>
+europea.</p>
 
 <h2 id="helping">Ayudar a Debian</h2>
 
@@ -183,7 +183,7 @@ podrá <a href="Bugs/Reporting">enviar un informe de error</a> indicando el
 
 <h2 id="harassment">Problemas de acoso</h2>
 <p>Debian es una comunidad de personas que valoran el respeto y el diálogo. Si usted
-es víctima de algún comportamiento que le perjudica o siente que le han acosado/a,
+es víctima de algún comportamiento que le perjudica o siente que le han acosado,
 ya sea durante una conferencia o reunión organizada por el proyecto, o a través de 
 las interacciones generales del proyecto, por favor contáctenos en: <email
 antiharassment@debian.org>.</p>
