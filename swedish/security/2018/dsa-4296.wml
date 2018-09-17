@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="bf9f9f20cdb17c54195342c3afb25959c4b739f9" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Två sårbarheter upptäcktes i mbedtls, ett lättviktigt crypto och
+SSL/TLS-bibliotek som kunde resultera i rentextåterställning via
+sidokanalsangrepp.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 2.4.2-1+deb9u3.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era mbedtls-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om mbedtls vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/mbedtls">\
+https://security-tracker.debian.org/tracker/mbedtls</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4296.data"

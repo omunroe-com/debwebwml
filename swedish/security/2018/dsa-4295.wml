@@ -1,0 +1,36 @@
+#use wml::debian::translation-check translation="7675125395bb0d8ec105f1bc3dc56a939b6da0ba" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera säkerhetsproblem har upptäckts i Thunderbird: Flera minnessäkerhetsfel
+och användning efter frigörning kan leda till exekvering av godtycklig kod
+eller överbelastning.</p>
+
+<p>Debian följer Thunderbirds uppströmsutgåvor. Stöd för 52.x-serien har
+avslutats, så med start med denna uppdatering så följer vi numer
+60.x-utgåvorna.</p>
+
+<p>Mellan 52.x och 60.x, har Thunderbird genomgått betydande interna
+uppdateringar, som gör den inkompatibel med ett antal tilläggsmoduler.
+För mer information, vänligen se <a href="https://support.mozilla.org/en-US/kb/new-thunderbird-60">\
+https://support.mozilla.org/en-US/kb/new-thunderbird-60</a></p>
+
+<p>Utöver detta kräver de nya Thunderbird-paketen Rust för att byggas. En
+kompatibel Rust-verktygskedja har bakåtanpassats till Debian Stretch, men
+finns inte tillgänglig för alla arkitekturer som tidigare stödde de
+rent C++-baserade Thunderbird-paketen. Därför stödjer inte de nya
+Thunderbird-paketen mips, mips64el och mipsel-anpassningarna vid denna
+tidpunkt.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 1:60.0-3~deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era thunderbird-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om thunderbird vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/thunderbird">\
+https://security-tracker.debian.org/tracker/thunderbird</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4295.data"
