@@ -2,7 +2,7 @@
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans libextractor, une
-bibliothèque d'extraction de métadonnées arbitraires de fichiers, qui
+bibliothèque d'extraction de métadonnées de fichiers, qui
 pourraient conduire à un déni de service ou à l'exécution de code
 arbitraire lors de l'ouverture d'un ficher contrefait pour l'occasion.</p>
 
