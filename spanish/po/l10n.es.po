@@ -55,7 +55,7 @@ msgstr "Idioma desconocido"
 
 #: ../../english/international/l10n/dtc.def:64
 msgid "This page was generated with data collected on: <get-var date />."
-msgstr "Esta página se ha generado con los datos recogidos en: <get-var />."
+msgstr "Esta página se ha generado con los datos recogidos en: <get-var date />."
 
 #: ../../english/international/l10n/dtc.def:69
 msgid "Before working on these files, make sure they are up to date!"
