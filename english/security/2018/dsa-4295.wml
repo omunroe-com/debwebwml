@@ -1,0 +1,35 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Multiple security issues have been found in Thunderbird: Multiple memory
+safety errors and use-after-frees may lead to the execution of arbitrary
+code or denial of service.</p>
+
+<p>Debian follows the Thunderbird upstream releases. Support for the 52.x
+series has ended, so starting with this update we're now following the
+60.x releases.</p>
+
+<p>Between 52.x and 60.x, Thunderbird has undergone significant internal
+updates, which makes it incompatible with a number of extensions. For
+more information please refer to <a href="https://support.mozilla.org/en-US/kb/new-thunderbird-60">\
+https://support.mozilla.org/en-US/kb/new-thunderbird-60</a></p>
+
+<p>In addition, the new Thunderbird packages require Rust to build. A
+compatible Rust toolchain has been backported to Debian stretch, but is
+not available for all architectures which previously supported the
+purely C++-based Thunderbird packages. Thus, the new Thunderbird packages
+don't support the mips, mips64el and mipsel architectures at this point.</p>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 1:60.0-3~deb9u1.</p>
+
+<p>We recommend that you upgrade your thunderbird packages.</p>
+
+<p>For the detailed security status of thunderbird please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/thunderbird">\
+https://security-tracker.debian.org/tracker/thunderbird</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4295.data"
+# $Id: $
