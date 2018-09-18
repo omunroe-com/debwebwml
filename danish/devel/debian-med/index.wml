@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Med"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="d4b5f6f369c36c3c9a619bd631d5ac3bda275fe7"
+#use wml::debian::translation-check translation="b9967d1f4d930716e9646a92bda776ced3c44cce"
 
 <h2>Beskrivelse af projektet</h2>
 
@@ -17,22 +17,12 @@ Debians styresystem.</p>
 <p>Debian Med indeholder et antal såkaldte meta-pakker, der definerer
 afhængigheder til andre Debian-pakker, og på den måde forbereder hele systemet
 til løsning af bestemte opgaver.  Den bedste oversigt over Debian Med findes 
-på <a href="https://debian-med.alioth.debian.org/tasks">opgavesiden</a>.</p>
+på <a href="https://blends.debian.org/med/tasks/">opgavesiden</a>.</p>
 
 <p>For en mere udførlig beskrivelse, er der flere
 <a href="https://people.debian.org/~tille/talks/">foredrag om Debian Med og 
 Debian Pure Blends generelt</a>, der er tilgængelige som plancher, delvist med
 videooptagelser.</p>
-
-
-<h2>Nyheder</h2>
-
-<p><:= get_recent_list('News/$(CUR_YEAR)', '6',
-'$(ENGLISHDIR)/devel/debian-med', '', '\d+\w*' ) :>
-</p>
-
-<p>Se <a href="$(HOME)/devel/debian-med/News/">Debian Meds nyhedsside</a> for
-ældre nyheder.</p>
 
 
 <h2>Kontakt og udvikleroplysninger</h2>
@@ -45,15 +35,15 @@ udviklingsarbejdet i forbindelse med forskellige medicinske emner. Du kan tegne
 og ophæve abonnement på listen via <a href="$(HOME)/MailingLists/subscribe">\
 listens webside</a>. På samme side befinder listens arkiv sig.</p>
 
-<p>Der er to vigtige steder at indhente udvikleroplysninger:</p>
+<p>Vigtige steder at indhente udvikleroplysninger:</p>
 
 <ol>
     <li><a href="https://wiki.debian.org/DebianMed">Wikisiden</a></li>
-    <li><a href="https://debian-med.alioth.debian.org/">\
-	Udvikleroplysningssiden</a>, der indeholder dynamiske oplysninger om 
-	projektmedlemmer, SVN-commits, statusoplysninger om pakker specifikke 
-	for Debian Med osv.
-    </li>
+    <li><a href="https://blends.debian.org/med/">Blends-side</a></li>
+    <li><a href="https://med-team.pages.debian.net/policy/">Debian 
+	Med-policy</a>, der forklarer holdets pakningsregl</li>
+    <li><a href="https://salsa.debian.org/med-team/">Git-arkiver indeholdende 
+	Debian Med-pakker på Salsa</a></li>
 </ol>
 
 
@@ -62,7 +52,7 @@ listens webside</a>. På samme side befinder listens arkiv sig.</p>
 <p><a href="https://blends.debian.org/blends">Debian Pure 
 Blends</a>-systemet leverer en automatisk genereret liste over alle medtagne 
 programmer i et Blend.  Se Debian Meds såkaldte 
-<strong><a href="https://debian-med.alioth.debian.org/tasks">\
+<strong><a href="https://blends.debian.org/med/tasks/">\
 opgavesider</a></strong> for at læse om alle de programmer og projekter, der er 
 på vores Debian-optagelsesliste.</p>
 
@@ -91,14 +81,6 @@ på vores Debian-optagelsesliste.</p>
 </ul>
 
 
-<h2>Alioth-projekter</h2>
-
-<ul>
-    <li><a href="https://debian-med.alioth.debian.org/">Debian Med</a></li>
-    <li><a href="https://blends.debian.org/blends/">Debian Pure Blends</a></li>
-</ul>
-
-
 <h2>Hvordan kan jeg hjælpe til?</h2>
 
 <p>Der er en <a href="https://wiki.debian.org/DebianMedTodo">wikiside indeholdende
@@ -116,33 +98,12 @@ Til det formål vil vi lave en samling af præsentationer af Debian Med.</p>
 <h2>Links</h2>
 
 <ul>
-    <li>Bela Tiwari har lavet en rigtig god 
-	<a href="http://gchelpdesk.ualberta.ca/news/03mar05/cbhd_news_03mar05.php#GearingUp">\
-	oversigt over projekter der har med bioinformatik at gøre</a>.  Den blev 
-	udgivet i Canadian Bioinformatics Help Desk Newsletter den 3. marts 
-	2005.
-    </li>
-
     <li>Debian Med arbejder tæt sammen med 
 	<a href="http://nebc.nerc.ac.uk/tools/bio-linux/bio-linux-6.0">\
 	Bio-Linux</a>.  Mens Bio-Linux er baseret på udgivelser af Ubuntu LTS, 
 	vedligeholdes de biolgisk relaterede pakker i Debian af Debian 
 	Med-holdet.
     </li>
-
-    <li><a href="http://wikiomics.org/">Wikiomics</a> er en bioinformatik-wiki,
-	hvor alle former for spørgsmål kan stilles, besvares og diskuteres.
-    </li>
-
-    <li>Nyheder om medicinske projekter på <a href="http://linuxmednews.com/">\
-	Linux Mednews</a>
-    </li>
-
-    <li><a href="http://resmedicinae.sourceforge.net/analysis/">Samling af
-	krav til medicinske softwareløsninger</a>
-    </li>
-
-    <li><a href="http://www.openmed.org/">Yderligere oplysninger</a></li>
 </ul>
 
 <p><strong>Bemærk at disse sider er oversat af en person, der ikke er kyndig i
