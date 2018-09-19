@@ -107,8 +107,8 @@
 #        dvd="yes"
 #        architectures="multi-arch, amd64, i386, ia64, powerpc" />
 <vendor name="Hudson Oliveira"
-        url="http://www.freewebs.com/corsario/"
-        deburl="http://www.freewebs.com/corsario/"
+        url="https://www.freewebs.com/corsario/"
+        deburl="https://www.freewebs.com/corsario/"
         contacturl="mailto:hudsonoliveira@outlook.com"
         country="br"
         contribution="yes"
@@ -151,8 +151,8 @@
 
 <country code="ca" name="<country-name CA>">
 <vendor name="Stormfront Ventures"
-        url="http://www.jbox.ca"
-        deburl="http://www.jbox.ca/product-category/computers-tablets/software/linux-cds-dvds/debian-cds-dvds/"
+        url="https://www.jbox.ca"
+        deburl="https://www.jbox.ca/product-category/computers-tablets/software/linux-cds-dvds/debian-cds-dvds/"
         contacturl="mailto:sales@jbox.ca"
         country="ca"
         contribution="yes"
@@ -339,8 +339,8 @@
 #        ship="europe"
 #        contacturl="mailto:ixsoft@ixsoft.de" />
 <vendor name="Joomla Webdesign Homburg"
-        url="http://www.joomla-programmieren.de/"
-        deburl="http://www.joomla-programmieren.de/debian-linux.html"
+        url="https://www.joomla-programmieren.de/"
+        deburl="https://www.joomla-programmieren.de/debian-linux.html"
         contacturl="mailto:info@joomla-programmieren.de"
         country="de"
         contribution="yes"
@@ -1480,8 +1480,8 @@
 #        contacturl="http://on-disk.com/contact_us.php" />
 <vendor name="osdisc.com"
         country="us"
-        url="http://www.osdisc.com/"
-        deburl="http://www.osdisc.com/cgi-bin/view.cgi/products/linux/debian"
+        url="https://www.osdisc.com/"
+        deburl="https://www.osdisc.com/cgi-bin/view.cgi/products/linux/debian"
         contribution="no"
         cd="yes"
         dvd="yes"
