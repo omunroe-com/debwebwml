@@ -1,0 +1,20 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Two vulnerabilities have been discovered in the chromium web browser.
+Kevin Cheung discovered an error in the WebAssembly implementation and
+evil1m0 discovered a URL spoofing issue.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 69.0.3497.92-1~deb9u1.</p>
+
+<p>We recommend that you upgrade your chromium-browser packages.</p>
+
+<p>For the detailed security status of chromium-browser please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">\
+https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4297.data"
+# $Id: $
