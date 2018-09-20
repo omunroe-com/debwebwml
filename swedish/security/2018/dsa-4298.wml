@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="c56ab657661cc6aa74c08a63b7abc6dcab7ab952" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Luis Merino, Markus Vervier och Eric Sesterhenn upptäckte att bristande
+rengörning av indata i faxmjukvaran Hylafax kunde potentiellt resultera
+i exekvering av godtycklig kod via ett felaktigt formatterat faxmeddelande.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 3:6.0.6-7+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era hylafax-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om hylafax vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/hylafax">https://security-tracker.debian.org/tracker/hylafax</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4298.data"
