@@ -1,5 +1,5 @@
 #use wml::debian::template title="Autobuilder-netwerk"
-#use wml::debian::translation-check translation="02de9b22925eb870281ba93d29a61e75d5330383"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9"
 
 <p>Het autobuilder-netwerk is een door Debian ontwikkeld systeem dat zorg
 draagt voor het compileren van pakketten voor alle architecturen die <a
