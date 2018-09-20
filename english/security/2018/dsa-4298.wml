@@ -1,0 +1,19 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Luis Merino, Markus Vervier and Eric Sesterhenn discovered that missing
+input sanitising in the Hylafax fax software could potentially result in
+the execution of arbitrary code via a malformed fax message.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 3:6.0.6-7+deb9u1.</p>
+
+<p>We recommend that you upgrade your hylafax packages.</p>
+
+<p>For the detailed security status of hylafax please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/hylafax">https://security-tracker.debian.org/tracker/hylafax</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4298.data"
+# $Id: $
