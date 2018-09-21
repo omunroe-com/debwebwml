@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="c56ab657661cc6aa74c08a63b7abc6dcab7ab952"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Luis Merino, Markus Vervier y Eric Sesterhenn descubrieron que la falta de
+saneado de la entrada en el software de fax Hylafax podría, potencialmente, dar lugar a
+ejecución de código arbitrario por medio de un mensaje de fax mal construido.</p>
+
+<p>Para la distribución «estable» (stretch), este problema se ha corregido en
+la versión 3:6.0.6-7+deb9u1.</p>
+
+<p>Le recomendamos que actualice los paquetes de hylafax.</p>
+
+<p>Para información detallada sobre el estado de seguridad de hylafax consulte
+su página en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/hylafax">https://security-tracker.debian.org/tracker/hylafax</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4298.data"
