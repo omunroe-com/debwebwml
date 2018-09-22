@@ -1,5 +1,5 @@
 #use wml::debian::template title="Listas de correo relacionadas con eventos de Debian" BARETITLE=true
-#use wml::debian::translation-check translation="f238c0163db7cedc356d4ed6d1c3128c22cc6e95"
+#use wml::debian::translation-check translation="4dc033d27b891b23c1d0de760b0ebe7924e13661"
 
 <p>Hay un número considerable de listas de correo electrónico que discuten sobre eventos relacionados con
 Debian. En líneas generales se organizan por ubicación geográfica. La
@@ -11,6 +11,7 @@ que está pensando.</p>
   <li> <a href="mailto:debian-dug-by@lists.debian.org">Bielorrusia</a>, por favor
   envíe su correo también a la <a
   href="mailto:debian-events-eu@lists.debian.org">lista europea</a>
+  <li> <a href="mailto:debian-br-eventos@alioth-lists.debian.net">Brasil</a>
   <li> <a href="mailto:debian-events-nl@lists.debian.org">Holanda</a>
   <li> <a href="mailto:debian-events-eu@lists.debian.org">Europa (tanto
   dentro como fuera de la UE)</a>
