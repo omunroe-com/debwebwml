@@ -31,10 +31,18 @@ href="checklist">checklist</a>.
 Debian's involvement at various events:
 
 <ul>
+  <li> <a href="https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/debian-br-eventos">debian-br-eventos</a>,
+       dedicated to Brazil events.
+  <li> <a href="https://lists.debian.org/debian-dug-in/">debian-dug-in</a>,
+       dedicated to India events.
   <li> <a href="https://lists.debian.org/debian-events-eu/">debian-events-eu</a>,
        dedicated to Europe and European events.
+  <li> <a href="https://lists.debian.org/debian-events-ha/">debian-events-ha</a>,
+       dedicated to Hispanic America events.
   <li> <a href="https://lists.debian.org/debian-events-na/">debian-events-na</a>,
        dedicated to Northern America and events on that continent.
+  <li> <a href="https://lists.debian.org/debian-events-nl/">debian-events-nl</a>,
+       dedicated to Netherlands events.
 </ul>
 
 <p>To subscribe to either of these lists, check out our <a
