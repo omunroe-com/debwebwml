@@ -1,5 +1,5 @@
 #use wml::debian::template title="Sändlistor rörande Debianevenemang" BARETITLE=true
-#use wml::debian::translation-check translation="f238c0163db7cedc356d4ed6d1c3128c22cc6e95"
+#use wml::debian::translation-check translation="4dc033d27b891b23c1d0de760b0ebe7924e13661"
 
 <p>
 	Det finns ett stort antal sändlistor som diskuterar evenemang rörande
@@ -9,9 +9,10 @@
 	som du tänker på.</p>
 
 <ul>
-  <li> <a href="mailto:debian-dug-by@lists.debian.org">Belarus</a>, vänligen
+  <li> <a href="mailto:debian-dug-by@lists.debian.org">Vitryssland</a>, vänligen
   skicka även e-post till den <a
   href="mailto:debian-events-eu@lists.debian.org">Europeiska sändlistan</a>
+  <li> <a href="mailto:debian-br-eventos@alioth-lists.debian.net">Brasilien</a>
   <li> <a href="mailto:debian-events-nl@lists.debian.org">Holland</a>
   <li> <a href="mailto:debian-events-eu@lists.debian.org">Europa (antingen
   EU eller inte)</a>
