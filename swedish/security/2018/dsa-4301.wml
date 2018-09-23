@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="165118cb1322fb6edfe56a18d4e37e933ba0462f" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera säkerhetssårbarheter har upptäckts i MediaWiki, en webbsajtmotor
+för samarbete, vilket kunde resultera i felaktigt konfigurerade
+hastighetsgränser, utlämnande av information i Special:Redirect/logid
+och förbigång av kontolåsning.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 1:1.27.5-1~deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era mediawiki-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om mediawiki vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/mediawiki">https://security-tracker.debian.org/tracker/mediawiki</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4301.data"
