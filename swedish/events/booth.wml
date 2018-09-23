@@ -1,5 +1,5 @@
 #use wml::debian::template title="Driva en monter"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="2e3c0166e74b21c80857525f489ba5387969cc82"
 
 <p>Den viktigaste uppgiften för projektmedlemmar som representerar
 Debianprojektet på en mässa är att driva en monter för Debian.
@@ -29,15 +29,23 @@ Läs även vår <a href="checklist">checklista</a>.
 <h3 id="ml">Sändlistor</h3>
 
 <p>
-Debianprojektet tillhandahåller två sändlistor för samordning av Debians
+Debianprojektet tillhandahåller sändlistor för samordning av Debians
 närvaro vid olika evenemang:
 </p>
 
 <ul>
+  <li> <a href="https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/debian-br-eventos">debian-br-eventos</a>,
+       ägnad för Brasilianska evenemang.</li>
+  <li> <a href="https://lists.debian.org/debian-dug-in/">debian-dug-in</a>,
+       ägnad för Indiska evenemang.</li>
   <li> <a href="https://lists.debian.org/debian-events-eu/">debian-events-eu</a>,
-       ägnad för Europa och europeiska evenemang.
+       ägnad för Europa och europeiska evenemang.</li>
+  <li> <a href="https://lists.debian.org/debian-events-ha/">debian-events-ha</a>,
+       ägnad för Latinamerikanska evenemang.</li>
   <li> <a href="https://lists.debian.org/debian-events-na/">debian-events-na</a>,
-       ägnad för Nordamerika och evenemang på den kontinenten.
+       ägnad för Nordamerika och evenemang på den kontinenten.</li>
+  <li> <a href="https://lists.debian.org/debian-events-nl/">debian-events-nl</a>,
+       ägnad för Nederländska evenemang
 </ul>
 
 <p>För att prenumerera på någon av dessa listor, se vår
