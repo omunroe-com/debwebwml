@@ -1,5 +1,7 @@
 #use wml::debian::template title="Tenir un stand"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="2e3c0166e74b21c80857525f489ba5387969cc82" maintainer=Jean-Pierre Giraud"
+
+# Premier traducteur : Nicolas Bertolissio, 2003"
 
 
 <p>Pour les membres du projet qui représentent Debian lors d'une exposition, la
@@ -27,15 +29,21 @@ notre <a href="checklist">liste de contrôle</a>.</p>
 
 <h3><a name="ml">Listes de diffusion</a></h3>
 
-<p>Le projet Debian fournit deux listes de diffusion pour coordonner la
-participation de Debian à différents événements&nbsp;:
+<p>Le projet Debian fournit plusieurs listes de diffusion pour coordonner la
+participation de Debian à différents événements :
 
 <ul>
+  <li> <a href="https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/debian-br-eventos">debian-br-eventos</a>,
+       dédié aux événements au Brésil ;
+  <li> <a href="https://lists.debian.org/debian-dug-in/">debian-dug-in</a>,
+       dédié aux événements en Inde ;
   <li> <a href="https://lists.debian.org/debian-events-eu/">\
-  debian-events-eu</a>, dédiée à l'Europe et aux événements européens&nbsp;;
+  debian-events-eu</a>, dédiée à l'Europe et aux événements européens ;
   <li> <a href="https://lists.debian.org/debian-events-na/">\
   debian-events-na</a>, dédiée à l'Amérique du Nord et aux événements de ce
-  continent.
+  continent ;
+  <li> <a href="https://lists.debian.org/debian-events-nl/">debian-events-nl</a>,
+       dédié aux événements aux Pays-Bas.
 </ul>
 
 <p>Pour vous abonner à l'une de ces listes, voyez notre <a
