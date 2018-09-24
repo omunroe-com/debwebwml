@@ -1,11 +1,11 @@
 #use wml::debian::template title="Firmado de claves"
-#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="David Moreno Garza"
+#use wml::debian::translation-check translation="596248dcfc27520a5ab427fb809242b2c155be71" maintainer="David Moreno Garza"
 
 <p>Como muchos desarrolladores se conocen en estos eventos, éstos
 llegan a ser una buena manera para conseguir que la gente
 firme una firma GnuPG y mejorar la seguridad de la red. Para la gente
 nueva en el proyecto es especialmente interesante firmar las claves 
-y conocer a los desarrolladores.
+y conocer a los desarrolladores.</p>
 
 <p>Este documento intenta ayudarle a llevar a cabo una sesión de firmado
 de claves. Fíjese que todos los ejemplos usan
@@ -18,7 +18,6 @@ GnuPG.)</p>
 <p>La gente sólo debería firmar una clave bajo al menos dos condiciones:</p>
 
 <ol>
-
 <li>El dueño de la clave convence al que firma de que la identificación
     en el UID es efectivamente su propia identificación por cualquier 
     evidencia que sea aceptada por el que firma como convincente. 
@@ -29,10 +28,11 @@ GnuPG.)</p>
     habitualmente olvidados y que la seguridad de las documentos 
     gubernamentales a menudo es sospechosa y así es posible que se 
     requieran evidencias alternativas y/o adicionales de la identidad).
+</li>
 
 <li>El dueño de la clave verifica que la huella de la firma y la longitud
    de la clave que va a ser firmada es efectivamente la suya.
-
+</li>
 </ol>
 
 <p>
@@ -47,21 +47,24 @@ del dueño de la clave del requisito 2 en vez del dueño de la clave, ya
 que la persona podría sustituir la huella por una clave PGP diferente
 con el nombre del dueño de la clave en él y conseguir que alguien
 firme la clave equivocada.
+</p>
 
 <ul>
-
 <li> Necesita imprimir su huella GnuPG, longitud de las llaves y un 
      documento que lo identifique (pasaporte, carné de conducir o 
      similar).
+</li>
 
 <li> Hay que dar las huellas y las longitudes de las llaves a otras 
      personas que deben firmar su llave después del encuentro.
+</li>
 
-<li> Si no tiene una clave GnuPG aún, cree una con <code>gpg --gen-key
-</code>.
+<li> Si no tiene una clave GnuPG aún, cree una con <code>gpg --gen-key</code>.
+</li>
 
 <li> Firme sólo una clave si la identidad de la persona cuya llave
      firma está comprobada.
+</li>
 
 <li> Después del encuentro tendrá que ir a buscar la clave GnuPG para
      firmarla. Lo siguiente le debería ayudar:
@@ -73,14 +76,14 @@ firme la clave equivocada.
      <p>Se pueden usar los ocho últimos dígitos hexadecimales de la huella
      en ésta y otras operaciones con GnuPG. El <tt>0x</tt> también 
      es opcional.</p>
-
-     </li>
+</li>
 
 <li> Para firmar la llave, entre en el menú de edición con
 
 <pre>
        gpg --edit-key 0xLOQUESEA
 </pre>
+</li>
 
 <li> En GnuPG seleccione todos los uids para firmar con <code>uid n</code>, 
      donde <code>n</code> es el número del uid mostrado en el menú. Puede 
@@ -89,10 +92,13 @@ firme la clave equivocada.
 <li> Para firmar una llave, introduzca <code>sign</code>. Entonces
      verá la huella y la longitud de la llave con la que tiene que comparar
      la que consiguió con la persona con la que se encontró.
+</li>
 
 <li> Cuando se le pregunte el nivel de certificación, elija "casual".
+</li>
 
 <li> Salga de GnuPG con <code>quit</code>.
+</li>
 
 <li> Para verificar que ha firmado la clave correctamente, puede:
 
@@ -102,8 +108,7 @@ firme la clave equivocada.
 
      <p>Debería ver su propio nombre y su huella (en la forma corta) 
      en la salida.</p>
-
-     </li>
+</li>
 
 <li> Una vez que esté seguro de que todo ha ido bien, puede enviar la 
      clave firmada a su propietario haciendo:
@@ -115,8 +120,7 @@ firme la clave equivocada.
      <p>La opción <code>-a</code> exporta la clave en ASCII, de modo que 
      pueda ser enviada por correo electrónico sin posibilidad de que se 
      corrompa.</p>
-
-     </li>
+</li>
 
 <li> Si alguien firma su clave de este modo, puede añadirla al anillo de 
 Debian haciendo:
@@ -129,9 +133,7 @@ Debian haciendo:
      <p>Puede llevar un tiempo que los mantenedores del anillo de claves 
      actualicen su clave, por lo que sea paciente. Debería también enviar 
      su clave actualizada a los servidores públicos.</p>
-
-     </li>
-
+</li>
 </ul>
 
 <p>El paquete <a href="https://packages.debian.org/signing-party">signing-party</a>
