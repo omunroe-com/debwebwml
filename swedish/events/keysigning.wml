@@ -1,5 +1,5 @@
 #use wml::debian::template title="Nyckelsignering"
-#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
+#use wml::debian::translation-check translation="596248dcfc27520a5ab427fb809242b2c155be71"
 
 <p>Eftersom många utvecklare träffas på mässor eller konferenser har de blivit
 ett trevligt sätt att få andra att signera sina GnuPG-nycklar och förbättra
@@ -32,11 +32,12 @@ som stämmer med nyckelns ägare.  (Somliga känner till att
 myndigheternas ID-kort är lätta att förfalska, och att trovärdigheten
 hos den utgivande myndigheten är tvivelaktig, så de kan begära andra
 och/eller alternativa identitetsbevis.)
+</li>
 
 <li>
 Nyckelägaren verifierar att nyckelns fingeravtryck och längden på
 nyckeln som skall signeras faktiskt är sin egen.
-
+</li>
 </ol>
 
 <p>
@@ -50,26 +51,29 @@ nyckelägarens namn på, och få någon att signera fel nyckel.
 </p>
 
 <ul>
-
 <li>
 Du behöver utskrivna GnuPG-fingeravtryck, nyckellängder och
 ett identitetskort som kan bevisa
 din identitet (pass, körkort, eller liknande).
+</li>
 
-<li>
-Fingeravtrycken och nyckellängderna ges till de som borde
+<li>Fingeravtrycken och nyckellängderna ges till de som borde
 signera din nyckel efter mötet.
+</li>
 
 <li>
 Om du ännu inte har en GnuPG-nyckel, skapa en med <code>gpg --gen-key</code>.
+</li>
 
 <li>
 Signera bara en nyckel om identiteten hos den person vars nyckel du signerar
 har bevisats.
+</li>
 
 <li>
 Efter mötet måste du hämta GnuPG-nyckeln för att signera den.
 Följande kan vara till hjälp:
+
 
 <pre>
        gpg --keyserver keyring.debian.org --recv-keys 0xDEADBEEF
@@ -79,38 +83,40 @@ Följande kan vara till hjälp:
 Observera att du kan använda fingeravtryckets sista åtta hexadecimala siffror
 i detta kommando och i andra GnuPG-funktioner.
 <tt>0x</tt> framför talet är också frivilligt.</p>
+</li>
 
-<li>
-För att signera nyckeln, gå in i redigeringsmenyn med
+<li>För att signera nyckeln, gå in i redigeringsmenyn med
 
 <pre>
        gpg --edit-key 0xDEADBEEF
 </pre>
+</li>
 
 <li>
 I GnuPG väljer du alla användar-id som skall signeras med <code>uid n</code>,
 där <code>n</code> är numret på det användar-id som visas i menyn.
-Du kan även välja att signera alla användar-id.
+Du kan även välja att signera alla användar-id.</li>
 
 <li>
 För att signera en nyckel skriver du <code>sign</code>.
 Du kommer därefter att visas fingeravtrycket för och längden på nyckeln,
 jämför detta
 med vad du fick från personen du mötte.
+</li>
 
 <li>
 När du ombeds välja på vilken nivå du vill bevittna nyckeln, välj
 # Fixas! Har inte översatts i PO-filen än:
 &rdquo;<span lang="en">casual</span>&rdquo;.
+</li>
 
-<li>
-Avsluta GnuPG med <code>quit</code>
+<li>Avsluta GnuPG med <code>quit</code>
+</li>
 
-<li>
-För att verifiera att du har signerat nyckeln korrekt kan du köra:
+<li>För att verifiera att du har signerat nyckeln korrekt kan du köra:
 
 <pre>
-        gpg --list-sigs 0xDEADBEEF
+       gpg --list-sigs 0xDEADBEEF
 </pre>
 
 <p>
@@ -118,12 +124,11 @@ Du skall nu se ditt namn och fingeravtryck (i sammanfattad form) i utdatat.
 </p>
 </li>
 
-<li>
-När du har säkerställt att allt fungerade som det skulle kan du sända den
+<li>När du har säkerställt att allt fungerade som det skulle kan du sända den
 signerade nyckeln till sin mottagare genom att köra:
 
 <pre>
-        gpg --export -a 0xDEADBEEF &gt; någons.key
+       gpg --export -a 0xDEADBEEF &gt; någons.key
 </pre>
 
 <p>
@@ -132,23 +137,20 @@ sändas per e-post utan att riskera att förstöras.
 </p>
 </li>
 
-<li>
-Om någon signerar din nyckel på detta sätt kan du lägga till den till
+<li>Om någon signerar din nyckel på detta sätt kan du lägga till den till
 Debians nyckelring genom att köra:
 
 <pre>
-        gpg --import --import-options merge-only mysigned.key
-        gpg --keyserver keyring.debian.org --send-keys <var>&lt;ditt nyckel-id&gt;</var>
+       gpg --import --import-options merge-only mysigned.key
+       gpg --keyserver keyring.debian.org --send-keys <var>&lt;ditt nyckel-id&gt;</var>
 </pre>
 
 <p>
 Det kan ta ett tag för nyckelansvariga att uppdatera din nyckel, så hav
 tålamod.
 Du kan även sända in din uppdaterade nyckel till de allmänna
-nyckelservrarna.
-</p>
+nyckelservrarna.</p>
 </li>
-
 </ul>
 
 <p>
