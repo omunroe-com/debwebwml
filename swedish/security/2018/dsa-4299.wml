@@ -1,0 +1,24 @@
+#use wml::debian::translation-check translation="a1e7e75ec154ca953abe9b62dda3c88b33273fd3" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Nick Roessler från University of Pennsylvania har upptäckt ett buffertspill
+i texlive-bin, de körbara filerna för TexLive, den populära distributionen
+av produktionssystemet för TeX-dokument.</p>
+
+<p>Detta buffertspill kan användas för exekvering av godtycklig kod genom att
+skapa ett speciell type1-typsnitt (.pfb) och tillhandahålla det för användare
+som kör pdf(la)tex, dvips eller luatex på ett sätt så att typsnittet laddas.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 2016.20160513.41080.dfsg-2+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era texlive-bin-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om texlive-bin vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/texlive-bin">\
+https://security-tracker.debian.org/tracker/texlive-bin</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4299.data"
