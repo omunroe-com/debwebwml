@@ -1,0 +1,52 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities were discovered in openafs, an implementation of
+the distributed filesystem AFS. The Common Vulnerabilities and Exposures
+project identifies the following problems:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16947">CVE-2018-16947</a>
+
+    <p>Jeffrey Altman reported that the backup tape controller (butc)
+    process does accept incoming RPCs but does not require (or allow
+    for) authentication of those RPCs, allowing an unauthenticated
+    attacker to perform volume operations with administrator
+    credentials.</p>
+
+    <p>https://openafs.org/pages/security/OPENAFS-SA-2018-001.txt</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16948">CVE-2018-16948</a>
+
+    <p>Mark Vitale reported that several RPC server routines do not fully
+    initialize output variables, leaking memory contents (from both
+    the stack and the heap) to the remote caller for
+    otherwise-successful RPCs.</p>
+
+    <p>https://openafs.org/pages/security/OPENAFS-SA-2018-002.txt</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16949">CVE-2018-16949</a>
+
+    <p>Mark Vitale reported that an unauthenticated attacker can consume
+    large amounts of server memory and network bandwidth via
+    specially crafted requests, resulting in denial of service to
+    legitimate clients.</p>
+
+    <p>https://openafs.org/pages/security/OPENAFS-SA-2018-003.txt</p></li>
+
+</ul>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 1.6.20-2+deb9u2.</p>
+
+<p>We recommend that you upgrade your openafs packages.</p>
+
+<p>For the detailed security status of openafs please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/openafs">\
+https://security-tracker.debian.org/tracker/openafs</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4302.data"
+# $Id: $
