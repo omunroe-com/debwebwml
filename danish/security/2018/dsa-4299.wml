@@ -1,0 +1,25 @@
+#use wml::debian::translation-check translation="a1e7e75ec154ca953abe9b62dda3c88b33273fd3" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Nick Roessler fra University of Pennsylvania har fundet et bufferoverløb i
+texlive-bin, de udførbare filer hørende til TexLives udførbare filer, det 
+populære system til produktion af TeX-dokumenter.</p>
+
+<p>Bufferoverløb kunne udnyttes til udførelse af vilkårlig kode, ved af 
+fabrikere et særligt type1-skrifttypen (.pfb) og stille det til rådighed for 
+brugere, der kører pdf(la)tex, dvips eller luatex på en sådan måde, at 
+skrifttypen indlæses.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 2016.20160513.41080.dfsg-2+deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine texlive-bin-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende texlive-bin, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/texlive-bin">\
+https://security-tracker.debian.org/tracker/texlive-bin</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4299.data"

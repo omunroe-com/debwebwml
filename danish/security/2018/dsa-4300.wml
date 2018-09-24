@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="0269dbb45df8cf941926262f4e51ca86f2922a9c" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Man opdagede at Archive::Zip, et perl-modul til behandling af ZIP-arkiver, 
+var ramt af en mappegennemløbssårbarhed.  En angriber, der er i stand til at 
+levere et særligt fremstillet arkiv til behandling, kunne drage nytte af fejlen 
+til at overskrive vilkårlige filer under arkivudpakning.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 1.59-1+deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine libarchive-zip-perl-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende libarchive-zip-perl, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/libarchive-zip-perl">\
+https://security-tracker.debian.org/tracker/libarchive-zip-perl</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4300.data"

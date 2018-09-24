@@ -1,0 +1,52 @@
+#use wml::debian::translation-check translation="9d19853d1bd4453f92d1596e9586b88789a7f8b8" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder blev opdaget i openafs, en implementering af det 
+distribuerede filsystem AFS.  Projektet Common Vulnerabilities and Exposures har 
+registreret følgende problemer:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16947">CVE-2018-16947</a>
+
+    <p>Jeffrey Altman rapporterede at backup tape controller-processen (butc), 
+    accepterede indkommende RPC'er, men ikke krævede (eller tog højde for) 
+    autentifikation af disse RPC'er, hvilket gjorde det muligt for en 
+    uautoriseret angriber, at iværksætte volume-handlinger med 
+    administratorrettigheder.</p>
+
+    <p><url "<url "https://openafs.org/pages/security/OPENAFS-SA-2018-001.txt" /></p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16948">CVE-2018-16948</a>
+
+    <p>Mark Vitale rapporterede at flere RPC-serverrutiner ikke fultstændigt 
+    inistialiserede uddatavariabler, hvilket medførte lækage af 
+    hukommelsesinhold (fra både stak og heap) til fjernkalderen af ellers 
+    succesrige RPC'er.</p>
+
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-002.txt" /></p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16949">CVE-2018-16949</a>
+
+    <p>Mark Vitale rapporterede at en uautentificeret angriber kunne forbruge 
+    store mængder serverhukommelse og netværksbåndbredde gennem særligt 
+    fremstillede forespørgsler, medførende lammelsesangreb for legitime 
+    klienter.</p>
+
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-003.txt" /></p></li>
+
+</ul>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 1.6.20-2+deb9u2.</p>
+
+<p>Vi anbefaler at du opgraderer dine openafs-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende openafs, se
+dens sikkerhedssporingssidede på:
+<a href="https://security-tracker.debian.org/tracker/openafs">\
+https://security-tracker.debian.org/tracker/openafs</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4302.data"
