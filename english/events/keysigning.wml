@@ -11,7 +11,7 @@ interesting.
 session. Note that all examples use <code>keyring.debian.org</code> as 
 the keyserver. If the key in question is not in the Debian keyring,
 replace <code>keyring.debian.org</code> with a public
-keyserver like <code>wwwkeys.pgp.net</code> (which despite the name
+keyserver like <code>www.keys.pgp.net</code> (which despite the name
 also stores GnuPG keys.)</p>
 
 <p>People should only sign a key under at least two conditions:</p>
