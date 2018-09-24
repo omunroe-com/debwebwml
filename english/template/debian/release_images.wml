@@ -42,7 +42,7 @@
 </define-tag>
 
 <define-tag stable-full-cd-torrent>
-<images-list url="<stable-images-url/>/@ARCH@/bt-cd/" arch="<stable-images-arches /> multi-arch" />
+<images-list url="<stable-images-url/>/@ARCH@/bt-cd/" arch="<strip-arches "<stable-images-arches />" "source" /> multi-arch" />
 </define-tag>
 <define-tag stable-full-dvd-torrent>
 <images-list url="<stable-images-url/>/@ARCH@/bt-dvd/" arch="<stable-images-arches />" />
