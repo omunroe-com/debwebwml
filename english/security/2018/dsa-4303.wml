@@ -1,0 +1,20 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Joran Herve discovered that the Okular document viewer was susceptible
+to directory traversal via malformed .okular files (annotated document
+archives), which could result in the creation of arbitrary files.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 4:16.08.2-1+deb9u1.</p>
+
+<p>We recommend that you upgrade your okular packages.</p>
+
+<p>For the detailed security status of okular please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/okular">\
+https://security-tracker.debian.org/tracker/okular</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4303.data"
+# $Id: $
