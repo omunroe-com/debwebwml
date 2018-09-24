@@ -63,7 +63,7 @@ and get someone to sign the wrong key.
 
 <li> After the meeting you'll have to fetch the GnuPG key in order to
      sign it.  The following may help:
-</li>
+
 
 <pre>
        gpg --keyserver keyring.debian.org --recv-keys 0xDEADBEEF
@@ -71,13 +71,14 @@ and get someone to sign the wrong key.
 
      <p>Note that we can use the last eight hex digits of the fingerprint in this and
      other GnuPG operations. The <tt>0x</tt> in front is also optional.</p>
+</li>
 
 <li> To sign the key, enter the edit menu with
-</li>
 
 <pre>
        gpg --edit-key 0xDEADBEEF
 </pre>
+</li>
 
 <li> In GnuPG select all uids to sign with <code>uid n</code>, where
      <code>n</code> is the number of the uid shown in the menu.  You can
@@ -95,7 +96,6 @@ and get someone to sign the wrong key.
 </li>
 
 <li> To verify you have signed the key correctly, you can do:
-</li>
 
 <pre>
        gpg --list-sigs 0xDEADBEEF
@@ -103,10 +103,10 @@ and get someone to sign the wrong key.
 
      <p>You should see your own name and fingerprint (in short form) in the
      output.</p>
+</li>
 
 <li> Once everything looks good, you can send the signed key to
      its recipient by doing:
-</li>
 
 <pre>
        gpg --export -a 0xDEADBEEF &gt; someguys.key
@@ -114,10 +114,10 @@ and get someone to sign the wrong key.
 
      <p>The <code>-a</code> option exports the key in ASCII format so it can
      be emailed without the possibility of corruption.</p>
+</li>
 
 <li> If someone signs your key in this manner, you can add it to the Debian
      keyring by doing:
-</li>
 
 <pre>
        gpg --import --import-options merge-only mysigned.key
@@ -127,6 +127,7 @@ and get someone to sign the wrong key.
      <p>It may take a while for the keyring maintainers to update your key so
      be patient.  You should also upload your updated key to the public
      keyservers.</p>
+</li>
 </ul>
 
 <p>The <a href="https://packages.debian.org/signing-party">signing-party</a>
