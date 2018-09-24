@@ -5,7 +5,7 @@
 have become a nice way to get other people sign ones GnuPG key and
 improve the web of trust.  Especially for people who are new to the
 project, keysigning and meeting other developers has been very
-interesting.
+interesting.</p>
 
 <p>This document intends to help you with running a keysigning
 session. Note that all examples use <code>keyring.debian.org</code> as 
@@ -17,7 +17,6 @@ also stores GnuPG keys.)</p>
 <p>People should only sign a key under at least two conditions:</p>
 
 <ol>
-
 <li>The key owner convinces the signer that the identity in the UID is
    indeed their own identity by whatever evidence the signer is
    willing to accept as convincing.  Usually this means the key owner
@@ -26,10 +25,11 @@ also stores GnuPG keys.)</p>
    government issued ID's are easily forged and that the trustability
    of the issuing authorities is often suspect and so they may require
    additional and/or alternative evidence of identity).
+</li>
 
 <li>The key owner verifies that the fingerprint and the length of the
    key about to be signed is indeed their own.
-
+</li>
 </ol>
 
 <p>
@@ -42,23 +42,28 @@ keyowner.  Nobody can complete the key owner's part of requisite 2 on
 the key owner's behalf, since the agent could substitute the
 fingerprint for a different PGP key with the key owner's name on it
 and get someone to sign the wrong key.
+</p>
 
 <ul>
-
 <li> You need printed out GnuPG fingerprints, key lengths and an
      identity card to prove your identity (passport, drivers license
      or similar).
+</li>
 
 <li> The fingerprints and key lengths are given to other people who
      ought to sign your key after the meeting.
+</li>
 
 <li> If you don't have a GnuPG key yet, create one with <code>gpg --gen-key</code>.
+</li>
 
 <li> Only sign a key if the identity of the person whose key to sign
      is proven.
+</li>
 
 <li> After the meeting you'll have to fetch the GnuPG key in order to
      sign it.  The following may help:
+</li>
 
 <pre>
        gpg --keyserver keyring.debian.org --recv-keys 0xDEADBEEF
@@ -67,9 +72,8 @@ and get someone to sign the wrong key.
      <p>Note that we can use the last eight hex digits of the fingerprint in this and
      other GnuPG operations. The <tt>0x</tt> in front is also optional.</p>
 
-     </li>
-
 <li> To sign the key, enter the edit menu with
+</li>
 
 <pre>
        gpg --edit-key 0xDEADBEEF
@@ -82,12 +86,16 @@ and get someone to sign the wrong key.
 <li> To sign a key, enter <code>sign</code>.  You will then be shown
      the fingerprint and length of they key which you have to compare
      with the one you've got from the person you met.
+</li>
 
 <li> When asked for the level of certification, choose "casual".
+</li>
 
 <li> Quit GnuPG with <code>quit</code>
+</li>
 
 <li> To verify you have signed the key correctly, you can do:
+</li>
 
 <pre>
        gpg --list-sigs 0xDEADBEEF
@@ -96,10 +104,9 @@ and get someone to sign the wrong key.
      <p>You should see your own name and fingerprint (in short form) in the
      output.</p>
 
-     </li>
-
 <li> Once everything looks good, you can send the signed key to
      its recipient by doing:
+</li>
 
 <pre>
        gpg --export -a 0xDEADBEEF &gt; someguys.key
@@ -108,10 +115,9 @@ and get someone to sign the wrong key.
      <p>The <code>-a</code> option exports the key in ASCII format so it can
      be emailed without the possibility of corruption.</p>
 
-     </li>
-
 <li> If someone signs your key in this manner, you can add it to the Debian
      keyring by doing:
+</li>
 
 <pre>
        gpg --import --import-options merge-only mysigned.key
@@ -121,9 +127,6 @@ and get someone to sign the wrong key.
      <p>It may take a while for the keyring maintainers to update your key so
      be patient.  You should also upload your updated key to the public
      keyservers.</p>
-
-     </li>
-
 </ul>
 
 <p>The <a href="https://packages.debian.org/signing-party">signing-party</a>
