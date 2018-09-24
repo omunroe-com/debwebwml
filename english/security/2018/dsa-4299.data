@@ -1,6 +1,6 @@
 <define-tag pagetitle>DSA-4299-1 texlive-bin</define-tag>
 <define-tag report_date>2018-9-21</define-tag>
-<define-tag secrefs>not yet available</define-tag>
+<define-tag secrefs>CVE-2018-17407 Bug#909317</define-tag>
 <define-tag packages>texlive-bin</define-tag>
 <define-tag isvulnerable>yes</define-tag>
 <define-tag fixed>yes</define-tag>
