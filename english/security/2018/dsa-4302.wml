@@ -14,7 +14,7 @@ project identifies the following problems:</p>
     attacker to perform volume operations with administrator
     credentials.</p>
 
-    <p>https://openafs.org/pages/security/OPENAFS-SA-2018-001.txt</p></li>
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-001.txt" /></p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16948">CVE-2018-16948</a>
 
@@ -23,7 +23,7 @@ project identifies the following problems:</p>
     the stack and the heap) to the remote caller for
     otherwise-successful RPCs.</p>
 
-    <p>https://openafs.org/pages/security/OPENAFS-SA-2018-002.txt</p></li>
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-002.txt" /></p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16949">CVE-2018-16949</a>
 
@@ -32,7 +32,7 @@ project identifies the following problems:</p>
     specially crafted requests, resulting in denial of service to
     legitimate clients.</p>
 
-    <p>https://openafs.org/pages/security/OPENAFS-SA-2018-003.txt</p></li>
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-003.txt" /></p></li>
 
 </ul>
 
