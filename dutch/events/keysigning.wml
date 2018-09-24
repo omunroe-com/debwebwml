@@ -1,5 +1,5 @@
 #use wml::debian::template title="Sleutels tekenen"
-#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
+#use wml::debian::translation-check translation="596248dcfc27520a5ab427fb809242b2c155be71"
 
 # Last Translation update by $Author$
 # Last Translation update at $Date$
@@ -7,7 +7,7 @@
 <p>Omdat veel ontwikkelaars elkaar ontmoeten op beurzen of conferenties
 kan men daar op een leuke manier elkaars GnuPG-sleutels tekenen en het 
 vertrouwensweb uitbreiden. Vooral voor nieuwe mensen is sleutels tekenen
-en andere ontwikkelaars ontmoeten zeer interessant.
+en andere ontwikkelaars ontmoeten zeer interessant.</p>
 
 <p>Dit document is er om u te helpen met het opzetten van een sessie om
 sleutels tekenen. Merk op dat alle voorbeelden <code>keyring.debian.org</code>
@@ -20,7 +20,6 @@ de naam ook GnuPG-sleutels bewaart).</p>
 vervuld:</p>
 
 <ol>
-
 <li>De sleuteleigenaars overtuigen de ondertekenaar dat de identiteit in het
    UID inderdaad hun eigen identiteit is door bewijs voor te leggen dat 
    door de ondertekenaar aanvaard wordt. Gewoonlijk betekent dit dat de 
@@ -30,10 +29,11 @@ vervuld:</p>
    gemakkelijk worden nagemaakt en dat de betrouwbaarheid van de 
    uitgevende overheden regelmatig verdacht is en dus kunnen ze bijkomend
    en/of alternatief identiteitsbewijs vereisen).
+</li>
 
 <li>De sleuteleigenaars verifiëren dat de vingerafdruk en de lengte van de 
    sleutel die zal getekend worden inderdaad hun eigen is.
-
+</li>
 </ol>
 
 <p>
@@ -47,20 +47,24 @@ sleuteleigenaar van vereiste 2 doen in plaats van de eigenaar want de
 vertegenwoordiger kan de vingerafdruk vervangen door die van een andere 
 sleutel die de naam van de sleuteleigenaar bevat en zo de verkeerde sleutel
 laten tekenen.
+</p>
 
 <ul>
-
 <li> U heeft uitgeprinte GnuPG-vingerafdrukken, sleutellengtes en een 
      identiteitsbewijs nodig (identiteitskaart, reispas, rijbewijs of 
      gelijkaardig).
+</li>
 
 <li> De vingerafdrukken en sleutellengtes worden uitgedeeld aan diegene die uw 
      sleutel wil tekenen na de bijeenkomst.
+</li>
 
 <li> Als u nog geen GnuPG-sleutel heeft, maak er dan één aan met 
      <code>gpg --gen-key</code>.
+</li>
 
 <li> Teken de sleutel alleen als de identiteit van de eigenaar bewezen is.
+</li>
 
 <li> Na de bijeenkomst dient u de GnuPG-sleutels af te halen om ze te kunnen
      tekenen. Het volgende kan hierbij helpen:
@@ -72,14 +76,14 @@ laten tekenen.
      <p>Merk op dat we de laatste acht hexadecimale cijfers van de vingerafdruk
      kunnen gebruiken bij deze en andere GnuPG-bewerkingen. De <tt>0x</tt> 
      vooraan is ook optioneel.</p>
-
-     </li>
+</li>
 
 <li> Om de sleutel te tekenen gaat u naar het bewerkingsmenu met
 
 <pre>
        gpg --edit-key 0xDEADBEEF
 </pre>
+</li>
 
 <li> In GnuPG selecteert u alle uid's die u gaat tekenen met 
      <code>uid n</code>, waar <code>n</code> het volgnummer van de in het 
@@ -89,10 +93,13 @@ laten tekenen.
 <li> Om de sleutel dan te tekenen geeft u <code>sign</code> in. Dan moet u 
      de vingerafdruk en de sleutellengte van de sleutel vergelijken met diegene
      die u gekregen heeft van de sleuteleigenaar.
+</li>
 
 <li> Wanneer u gevraagd wordt naar het certificatieniveau, kies dan "casual".
+</li>
 
 <li> Sluit GnuPG af met <code>quit</code>
+</li>
 
 <li> Om na te kijken of u de sleutel correct heeft getekend, kunt u het 
      volgende uitvoeren:
@@ -103,8 +110,7 @@ laten tekenen.
 
      <p>U zou uw eigen naam en vingerafdruk (in de korte vorm) moeten zien
      in de uitvoer.</p>
-
-     </li>
+</li>
 
 <li> Als alles er goed uitziet, kunt u de getekende sleutel verzenden door:
 
@@ -114,8 +120,7 @@ laten tekenen.
 
      <p>De <code>-a</code>-optie exporteert de sleutel in het ASCII-formaat 
      zodat het verzonden kan worden zonder de mogelijkheid op corruptie.</p>
-
-     </li>
+</li>
 
 <li> Als iemand op deze manier uw sleutel tekent, kunt u de sleutel aan de 
      Debian-sleutelring toevoegen door:
@@ -128,9 +133,7 @@ laten tekenen.
      <p>Het kan een tijd duren voordat de sleutelringbeheerders uw sleutel
      bijwerken, dus wees geduldig. U zendt uw sleutel best ook naar de 
      publieke sleutelservers.</p>
-
-     </li>
-
+</li>
 </ul>
 
 <p>Het <a href="https://packages.debian.org/signing-party">signing-party</a>
