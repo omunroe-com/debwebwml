@@ -1,7 +1,7 @@
 #use wml::debian::template title="Schlüssel-Signierung (Keysigning)"
-#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2"
+#use wml::debian::translation-check translation="596248dcfc27520a5ab427fb809242b2c155be71"
 # $Id$
-# Translator: Gerfried Fuchs <alfie@debian.org> 2001-10-21
+# Translator: Rhonda D'Vine <rhonda@debian.org> 2001-10-21
 # Updated: Holger Wansing <linux@wansing-online.de>, 2012
 
 <p>Da viele Entwickler sich bei Handelsmessen oder Konferenzen treffen, haben
@@ -22,7 +22,6 @@ auch GnuPG-Schlüssel speichert).</p>
 Voraussetzungen unterzeichnen (signieren):</p>
 
 <ol>
-
 <li>Der Besitzer des Schlüssels überzeugt den Unterzeichner, dass die Identität in
   der UID tatsächlich dessen eigene Identität ist, durch jeden Beweis, den der
   Unterzeichner als überzeugend akzeptiert. Üblicherweise bedeutet das, dass der
@@ -31,11 +30,12 @@ Voraussetzungen unterzeichnen (signieren):</p>
   Unterzeichner wissen, dass amtliche Lichtbildausweise leicht gefälscht werden
   können und dass die Vertrauenswürdigkeit der ausstellenden Behörden oft
   suspekt ist, und verlangen daher nach zusätzlichen und/oder alternativen
-  überzeugenden Identitätsnachweisen).</li>
+  überzeugenden Identitätsnachweisen).
+</li>
 
 <li>Der Besitzer des Schlüssels überprüft, dass der Fingerprint und die
-  Länge des Schlüssels, der signiert werden soll, sein eigener ist.</li>
-
+  Länge des Schlüssels, der signiert werden soll, sein eigener ist.
+</li>
 </ol>
 
 <p>Am Wichtigsten ist, dass Sie weder Voraussetzung 1 oder 2 abschließen
@@ -47,37 +47,45 @@ als der Beauftragte des Schlüssel-Besitzers ausgeben könnte. Niemand kann für
 den Besitzer des Schlüssels den Part in der Voraussetzung 2 übernehmen, da der
 Beauftragte den Fingerprint durch einen anderen PGP-Key mit dem Namen des
 Besitzers austauschen könnte und so jemanden dazu bringen könnte, den falschen
-Schlüssel zu signieren.</p>
+Schlüssel zu signieren.
+</p>
 
 <ul>
-
 <li>Sie benötigen ausgedruckte GnuPG-Fingerprints, die Schlüssellängen und
   einen Lichtbildausweis, um Ihre Identität nachzuweisen (Reisepass,
-  Führerschein oder Ähnliches).</li>
+  Führerschein oder Ähnliches).
+</li>
 
 <li>Die Fingerprints und Schlüssellängen werden den anderen Personen gegeben,
   die Ihren Schlüssel nach dem Treffen signieren sollen.</li>
 
 <li>Wenn Sie noch keinen GnuPG-Schlüssel haben, erstellen Sie einen mittels
-  <code>gpg --gen-key</code>.</li>
+  <code>gpg --gen-key</code>.
+</li>
 
 <li>Signieren Sie nur dann einen Schlüssel, wenn die Identität der Person,
-  deren Schlüssel Sie signieren sollen, nachgewiesen ist.</li>
+  deren Schlüssel Sie signieren sollen, nachgewiesen ist.
+</li>
 
 <li>Nach dem Treffen müssen Sie sich den GnuPG-Schlüssel besorgen, um ihn
   signieren zu können. Das Folgende sollte helfen:
-  <pre>
+
+
+<pre>
        gpg --keyserver keyring.debian.org --recv-keys 0xDEADBEEF
-  </pre>
+</pre>
 
   <p>Beachten Sie, dass wir nur die letzten acht Hex-Ziffern des Fingerprints
   in dieser und anderen GnuPG-Operationen verwenden. Das <tt>0x</tt> davor ist
-  ebenfalls optional.</p></li>
+  ebenfalls optional.</p>
+</li>
 
 <li>Um den Schlüssel zu signieren, begeben Sie sich ins Editier-Menü mittels
-  <pre>
+
+<pre>
        gpg --edit-key 0xDEADBEEF
-  </pre>
+</pre>
+</li>
 
 <li>In GnuPG selektieren Sie alle UIDs, die Sie signieren wollen, mit
   <code>uid n</code>, wobei <code>n</code> die Nummer der UID ist, die im
@@ -86,47 +94,53 @@ Schlüssel zu signieren.</p>
 
 <li>Um einen Schlüssel zu signieren, geben Sie <code>sign</code> ein. Ihnen
   wird dann der Fingerprint und die Länge des Schlüssels angezeigt, den Sie
-  mit dem von der getroffenen Person vergleichen müssen.</li>
+  mit dem von der getroffenen Person vergleichen müssen.
+</li>
 
 <li>Wenn Sie nach der Genauigkeit der Überprüfung gefragt werden, wählen Sie
-  <q>flüchtig</q> (<q>casual</q>) aus.</li>
+  <q>flüchtig</q> (<q>casual</q>) aus.
+</li>
 
-<li>Beenden Sie GnuPG mit <code>quit</code></li>
+<li>Beenden Sie GnuPG mit <code>quit</code>
+</li>
 
 <li>Um sich zu vergewissern, dass Sie den Schlüssel korrekt signiert haben,
   können Sie Folgendes tun:
 
-  <pre>
+<pre>
        gpg --list-sigs 0xDEADBEEF
-  </pre>
+</pre>
 
   <p>Sie sollten Ihren eigenen Namen und Fingerprint (in der Kurzform) in der
-  Ausgabe sehen.</p></li>
+  Ausgabe sehen.</p>
+</li>
 
 <li>Wenn Sie sich vergewissert haben, dass alles in Ordnung ist, können Sie
   den signierten Schlüssel an seinen Empfänger schicken, indem Sie Folgendes
   tun:
 
-  <pre>
+<pre>
        gpg --export -a 0xDEADBEEF &gt; someguys.key
-  </pre>
+</pre>
 
   <p>Die <code>-a</code> Option exportiert den Schlüssel im ASCII-Format,
   damit er ohne die Möglichkeit der Zerstörung per E-Mail verschickt werden
-  kann.</p></li>
+  kann.</p>
+</li>
 
 <li>Wenn jemand Ihren Schlüssel in dieser Art signiert, können Sie ihn zum
   Debian-Keyring hinzufügen, indem Sie Folgendes eingeben:
 
-  <pre>
+<pre>
        gpg --import --import-options merge-only mysigned.key
        gpg --keyserver keyring.debian.org --send-keys <var>&lt;Ihre Schlüssel-ID&gt;</var>
-  </pre>
+</pre>
 
   <p>Es kann eine Weile dauern, bis der Keyring-Betreuer Ihren Schlüssel
   aktualisiert, üben Sie sich bitte in Geduld. Sie sollten Ihren
   aktualisierten Schlüssel ebenfalls auf die öffentlichen Keyserver
-  hochladen.</p></li>
+  hochladen.</p>
+</li>
 </ul>
 
 <p>Das Debian-Paket <a href="https://packages.debian.org/signing-party">\
@@ -148,7 +162,8 @@ aber Sie nicht anwesend sind, um zu bestätigen, dass der Fingerprint Ihnen
 gehört, was für eine Verbindung haben dann die anderen Entwickler zwischen dem
 Fingerprint und dem Ausweis?  Sie haben nur das Wort des Freundes, und die
 anderen Signaturen auf Ihrem Schlüssel &ndash; das ist nicht besser als wenn sie
-Ihren Schlüssel signiert hätten, weil es auch andere getan haben!</p>
+Ihren Schlüssel signiert hätten, weil es auch andere getan haben!
+</p>
 
 <p>Es ist nett, mehr Signaturen auf seinen Schlüssel zu bekommen, und es liegt
 der Versuch nahe, einige Kurven auf dem Weg zu schneiden. Aber
@@ -157,4 +172,5 @@ haben, daher ist es wichtig, dass wir den Schlüssel-Signierungs-Prozess so rein
 möglich halten. Das Signieren eines fremden Schlüssels ist eine Bestätigung,
 dass Sie sich direkt von der Identität des Besitzers überzeugt haben. Wenn
 Sie ihn signieren, obwohl Sie das nicht wirklich vorhaben, kann dem Web-of-Trust
-nicht länger vertraut werden.</p>
+nicht länger vertraut werden.
+</p>
