@@ -1,0 +1,24 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Nick Roessler from the University of Pennsylvania has found a buffer overflow
+in texlive-bin, the executables for TexLive, the popular distribution of TeX
+document production system.</p>
+
+<p>This buffer overflow can be used for arbitrary code execution by crafting a
+special type1 font (.pfb) and provide it to users running pdf(la)tex, dvips or
+luatex in a way that the font is loaded.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 2016.20160513.41080.dfsg-2+deb9u1.</p>
+
+<p>We recommend that you upgrade your texlive-bin packages.</p>
+
+<p>For the detailed security status of texlive-bin please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/texlive-bin">\
+https://security-tracker.debian.org/tracker/texlive-bin</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4299.data"
+# $Id: $
