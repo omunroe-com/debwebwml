@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="49145d2e9551335a9617ca3ca888f4f83af2dbc4" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Joran Herve upptäckte att dokumentvisaren Okular var sårbar för
+katalogtraversering via felaktigt formatterade .okular-filer (kommenterade
+dokumentarkiv), vilket reusltera i skapande av godtyckliga filer.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 4:16.08.2-1+deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era okular-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om okular vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/okular">\
+https://security-tracker.debian.org/tracker/okular</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4303.data"

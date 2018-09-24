@@ -1,0 +1,51 @@
+#use wml::debian::translation-check translation="9d19853d1bd4453f92d1596e9586b88789a7f8b8" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i openafs, en implementation av
+det distribuerade filsystemet AFS. Projektet Common Vulnerabilities and
+Exposures identifierar följande problem:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16947">CVE-2018-16947</a>
+
+	<p>Jeffrey Altman rapporterade att processen backup tape controller (butc)
+	inte accepterar inkommande RPCer utan kräver inte (eller tillåter)
+	autentisering av dessa RPCer, vilket tillåter en icke autentiserad
+	angripare att utföra volymoperationer med administratörsrättigheter.</p>
+
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-001.txt" /></p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16948">CVE-2018-16948</a>
+
+	<p>Mark Vitale rapporterade att flera RPC-serverrutiner inte initierar
+	utdatavariabler fullständigt, och läcker minnesinnehåll (både från
+	stacken och heapen) till fjärranroparen för annars framgångsrika
+	RPCer.</p>
+
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-002.txt" /></p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16949">CVE-2018-16949</a>
+
+	<p>Mark Vitale rapporterade att en icke autentiserad angripare kan
+	konsumera stora mängder serverminne och nätverksbandbredd via
+	speciellt skapade förfrågningar, vilket resulterar i överbelastning
+	för legitima klienter.</p>
+
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-003.txt" /></p></li>
+
+</ul>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 1.6.20-2+deb9u2.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era openafs-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om openafs vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/openafs">\
+https://security-tracker.debian.org/tracker/openafs</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4302.data"
