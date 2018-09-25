@@ -3,7 +3,7 @@
 <define-tag moreinfo>
 <p>Joran Herve a découvert que le lecteur de document Okular était
 vulnérable à une traversée de répertoires grâce à des fichiers .okular mal
-formés (archives de documents annotées), qui pourrait avoir pour
+formés (archives de document annoté), qui pourrait avoir pour
 conséquence la création de fichiers arbitraires.</p>
 
 <p>Pour la distribution stable (Stretch), ce problème a été corrigé dans la

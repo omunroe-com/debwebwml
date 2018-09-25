@@ -18,7 +18,7 @@ particuliers de la structure ASN.1.</p>
 Debian, le greffon OpenSSL prend le pas sur celui de GMP pour les
 opérations RSA), et seulement lors de l'utilisation de clés et de 
 certificats (y compris ceux provenant de CA) utilisant des clés avec un
-exposant e = 3, ce qui, en pratique, est habituellement rare.</p>
+exposant e = 3, ce qui, en pratique, est rare.</p>
 
 <ul>
 
