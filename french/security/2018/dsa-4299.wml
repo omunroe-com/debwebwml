@@ -3,12 +3,12 @@
 <define-tag moreinfo>
 <p>Nick Roessler de l'Université de Pennsylvanie a découvert un dépassement
 de tampon dans texlive-bin, les fichiers exécutables pour TeX Live, la
-distribution populaire du système de production de document de TeX.</p>
+distribution populaire du système de production de document TeX.</p>
 
 <p>Ce dépassement de tampon peut être utilisé pour l'exécution de code
 arbitraire en contrefaisant une fonte type1 spéciale (.pfb), fournie à des
 utilisateurs exécutant pdf(la)tex, dvips ou luatex de telle manière que la
-fonte est chargée.</p>
+fonte soit chargée.</p>
 
 <p>Pour la distribution stable (Stretch), ce problème a été corrigé dans la
 version 2016.20160513.41080.dfsg-2+deb9u1.</p>
