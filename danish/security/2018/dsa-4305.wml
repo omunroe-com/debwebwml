@@ -1,0 +1,49 @@
+#use wml::debian::translation-check translation="3c7e2954b18597d994cd43ebceed5830b33bf4b8" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Sze Yiu Chau og hans hold fra Purdue University og The University of Iowa, 
+fandt flere problemer i gmp-plugin'en hørende til strongSwan, en 
+IKE/IPsec-programsamling.</p>
+
+<p>Problemer i fortolkningen og verifikationen af RSA-signaturer, kunne føre til 
+en laveksponentsignaturforfalskning i Bleichenbacher-stil i certifikater, og 
+under IKE-autentifikation.</p>
+
+<p>Selv om gmp-plugin'en ikke tillader vilkårlige data efter ASN.1-strukturen
+(det oprindelige Bleichenbacher-angreb), er ASN.1-fortolkeren ikke striks nok, 
+og tillader data i specifikke felter inde i ASN.1-strukturen.</p>
+
+<p>Kun installationer som anvender gmp-plugin'en er påvirkede (i Debian er 
+OpenSSL-plugin'en prioriteret over GMP-plugin'en hvad angår RSA-handlinger), og 
+kun når der anvendes nøgler, og certifikater (herunder fra CA'er) som anvender 
+nøgler med en eksponent exponent e = 3, hvilket normalt i praksis er 
+sjældent.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">CVE-2018-16151</a>
+
+    <p>OID-fortolkeren i ASN.1-koden i gmp, tillod ethvert antal tilfælde 
+    bytes efter en gyldig OID.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16152">CVE-2018-16152</a>
+
+    <p>algorithmIdentifier-fortolkeren i ASN.1-koden i gmp, håndhævede ikke en 
+    NULL-værdi i det valgfrie parameter, som ikke anvendes med nogen 
+    PKCS#1-algorime.</p></li>
+
+</ul>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 5.5.1-4+deb9u3.</p>
+
+<p>Vi anbefaler at du opgraderer dine strongswan-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende strongswan, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/strongswan">\
+https://security-tracker.debian.org/tracker/strongswan</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4305.data"
