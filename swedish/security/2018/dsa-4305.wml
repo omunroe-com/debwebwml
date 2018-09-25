@@ -1,0 +1,49 @@
+#use wml::debian::translation-check translation="3c7e2954b18597d994cd43ebceed5830b33bf4b8" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Sze Yiu Chau och hans team från Universitetet i Purdue och Universitetet i
+Iowa hittade flera problem i insticksmodulen gmp för strongSwan, en
+IKE/IPsec-uppsättning av program.</p>
+
+<p>Problem i tolkningen och verifikationen av RSA-signaturer kunde leda till
+Bleichenbacher-stil låg-exponent signaturförfalskning i certifikat och under
+IKE-autentisering.</p>
+
+<p>Medan gmp-insticksmodulen inte tillåter godtycklig data efter ASN.1-stukturen
+(det ursprungliga Bleichenbacher-angreppet), är inte ASN.1-tolken strikt nog
+och tillåter data i specifika fält i ASN.1-strukturen.</p>
+
+<p>Endast installationer som använder gmp-insticksmodulen påverkas (på Debian
+har insticksmodulen OpenSSL högre prioritet än GMP-insticksmodulen för
+RSA-operationer), och endast vid användning av nycklar och certifikat
+(inklusive sådana från CAs) som använder nycklar med exponent e = 3, vilket
+är sällsynt i praktiken.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">CVE-2018-16151</a>
+
+	<p>OID-tolken i ASN.1-koden i gmp tillåter alla antal av slump-bytes efter
+	en giltig OID.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16152">CVE-2018-16152</a>
+
+	<p>Tolken algorithmIdentifier i ASN.1-koden i gmp påtvingar inte ett
+	NULL-värde för den frivilliga parametern som inte används med någon
+	PKCS#1-algoritm.</p></li>
+
+</ul>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 5.5.1-4+deb9u3.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era strongswan-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om strongswan vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/strongswan">\
+https://security-tracker.debian.org/tracker/strongswan</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4305.data"
