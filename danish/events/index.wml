@@ -1,8 +1,8 @@
 #use wml::debian::template title="Større begivenheder relateret til Debian" BARETITLE=true
-#use wml::debian::translation-check translation="638fe58045b37899bd09abeb6939ae254187e89e"
+#use wml::debian::translation-check translation="749f637bc2d069cf0edbfb31649f215498f67171"
 
 <p>Undersiderne på <a href="https://wiki.debian.org/DebianEvents">Debian Wikis 
-begivenhedsside</a> indegholder en liste over begivenheder i hvilke Debian 
+begivenhedsside</a> indeholder en liste over begivenheder i hvilke Debian 
 var/er/bliver involveret.</p>
 
 <p>Denne side indeholder en liste over begivenheder som Debian har været/er/
@@ -13,7 +13,7 @@ begivenhederne anført på en af ovennævnte sider, så skriv til den person, de
 er angivet som koordinator for begivenheden på siden om begivenheden.</p>
 
 <p>Hvis du vil invitere Debian-projektet til en ny begivenhed, så send en 
-engelsksproget e-mail til <a href="eventsmailinglists">postlisten der svarer 
+engelsksproget mail til <a href="eventsmailinglists">postlisten der svarer 
 til begivenhedens geografiske placering</a>.</p>
 
 <p>Ønsker du at hjælpe med at koordinere Debians tilstedeværelse ved en 
