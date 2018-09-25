@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4305-1 strongswan</define-tag>
+<define-tag report_date>2018-9-24</define-tag>
+<define-tag secrefs>CVE-2018-16151 CVE-2018-16152</define-tag>
+<define-tag packages>strongswan</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
