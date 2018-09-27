@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="165118cb1322fb6edfe56a18d4e37e933ba0462f" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В MediaWiki, движке веб-сайтов для совместной работы, были обнаружены
+многочисленные уязвимости, которые приводят к неправильной настройке
+ограничений частоты изменений, раскрытию информации в Special:Redirect/logid
+и обходу блокировки учётной записи.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1:1.27.5-1~deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты mediawiki.</p>
+
+<p>С подробным статусом поддержки безопасности mediawiki можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/mediawiki">\
+https://security-tracker.debian.org/tracker/mediawiki</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4301.data"

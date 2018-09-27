@@ -1,0 +1,52 @@
+#use wml::debian::translation-check translation="9d19853d1bd4453f92d1596e9586b88789a7f8b8" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В openafs, реализации распределённой файловой системы AFS, было обнаружено
+несколько уязвимостей. Проект Common Vulnerabilities and Exposures
+определяет следующие проблемы:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16947">CVE-2018-16947</a>
+
+    <p>Джеффри Олтмен сообщил, что процесс резервного контроллера ленты (butc)
+    не принимает входящие RPC, но и не требует (или не позволяет)
+    выполнять аутентификацию этих RPC, позволяя неаутентифицированному
+    злоумышленнику выполнять операции над томом с правами
+    администратора.</p>
+
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-001.txt" /></p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16948">CVE-2018-16948</a>
+
+    <p>Марк Витали сообщил, что несколько серверных функций RPC не полностью
+    инициализируют выводные переменные, что приводит к утечке содержимого памяти (и из
+    стека, и из кучи) удалённой вызывающей функции для
+    RPC, которые в противном случае были бы успешными.</p>
+
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-002.txt" /></p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16949">CVE-2018-16949</a>
+
+    <p>Марк Витали сообщил, что неаутентифицированный злоумышленник может потреблять
+    большое количество серверной памяти и пропускной способности канала с помощью
+    специально сформированных запросов, что приводит к отказу в обслуживании
+    у легитимных клиентов.</p>
+
+    <p><url "https://openafs.org/pages/security/OPENAFS-SA-2018-003.txt" /></p></li>
+
+</ul>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1.6.20-2+deb9u2.</p>
+
+<p>Рекомендуется обновить пакеты openafs.</p>
+
+<p>С подробным статусом поддержки безопасности openafs можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/openafs">\
+https://security-tracker.debian.org/tracker/openafs</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4302.data"
