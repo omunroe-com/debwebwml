@@ -1,5 +1,5 @@
 #use wml::debian::template title="Documentação"
-#use wml::debian::translation-check translation="cf9bf3cc0b43b2e469a7a00d149cd3173e5a923c" maintainer="Felipe Augusto van de Wiel (faw)"
+#use wml::debian::translation-check translation="4d0fe47f90e4f8c6a3ed6053d2b3de86b9edb618" maintainer="Felipe Augusto van de Wiel (faw)"
 
 <p>Uma parte importante de qualquer sistema operacional é a documentação,
 os manuais técnicos que descrevem o uso e funcionamento dos programas.
@@ -23,15 +23,17 @@ provavelmente responderão a várias questões e te ajudarão a trabalhar com
 seu novo sistema Debian. Posteriormente você pode querer ir para:</p>
 
 <ul>
-  <li><a href="manuals/debian-reference/">Referência Debian</a></li>
-  <li><a href="$(HOME)/releases/stable/releasenotes">Notas de Lançamento</a>,
+  <li><a href="manuals/debian-handbook/">O Manual do administrador Debian</a>, o manual completo do usuário</li>
+  <li><a href="manuals/debian-reference/">Referência Debian</a>,
+      um guia do usuário conciso com foco em linha de comando shell</li>
+  <li><a href="$(HOME)/releases/stable/releasenotes">Notas de lançamento</a>,
       para pessoas que estão fazendo uma atualização</li>
   <li><a href="https://wiki.debian.org/">Wiki do Debian</a>, uma boa fonte de
       informação para os recém chegados</li>
 </ul>
 
 <p>Finalmente, certifique-se de imprimir e ter em mãos o <a
-href="https://www.debian.org/doc/manuals/refcard/refcard">Cartão de Referência
+href="https://www.debian.org/doc/manuals/refcard/refcard">Cartão de referência
 Debian GNU/Linux</a>, uma listagem dos mais importantes comandos para
 sistemas Debian.</p>
 
@@ -44,10 +46,10 @@ GNU/Linux em geral. Há também alguma documentação escrita especificamente
 para o Debian. Esses documentos vêm nas categorias básicas abaixo:</p>
 
 <ul>
-  <li><a href="#manuals">manuais</a></li>
+  <li><a href="#manuals">Manuais</a></li>
   <li><a href="#howtos">HOWTOs</a></li>
   <li><a href="#faqs">FAQs</a></li>
-  <li><a href="#other">outros documentos mais curtos</a></li>
+  <li><a href="#other">Outros documentos mais curtos</a></li>
 </ul>
 
 
@@ -61,13 +63,16 @@ compreensivelmente.</p>
 <div class="line">
   <div class="item col50">
 
-    <h4>Manuais do usuário</h4>
+    <h4><a href="user-manuals">Manuais dos usuários</a></h4>
     <ul>
       <li><a href="user-manuals#faq">FAQ do Debian GNU/Linux</a></li>
-      <li><a href="user-manuals#install">Guia de Instalação Debian</a></li>
-      <li><a href="user-manuals#relnotes">Notas de Lançamento do Debian</a></li>
+      <li><a href="user-manuals#install">Guia de instalação Debian</a></li>
+      <li><a href="user-manuals#relnotes">Notas de lançamento do Debian</a></li>
+      <li><a href="user-manuals#refcard">Cartão de referência Debian GNU/Linux</a></li>
+      <li><a href="user-manuals#debian-handbook">O manual do administrador Debian</a></li>
       <li><a href="user-manuals#quick-reference">Referência Debian</a></li>
-      <li><a href="user-manuals#securing">Manual de Segurança Debian</a></li>
+      <li><a href="user-manuals#securing">Manual de segurança Debian</a></li>
+      <li><a href="user-manuals#aptitude">Manual do usuário do aptitude</a></li>
       <li><a href="user-manuals#java-faq">FAQ do Debian GNU/Linux e Java</a></li>
     </ul>
 
@@ -75,20 +80,24 @@ compreensivelmente.</p>
 
   <div class="item col50 lastcol">
 
-    <h4>Manuais do desenvolvedor</h4>
+    <h4><a href="devel-manuals">Manuais dos Desenvolvedores</a></h4>
     <ul>
       <li><a href="devel-manuals#policy">Manual de Políticas Debian</a></li>
-      <li><a href="devel-manuals#devref">Referência do Desenvolvedor Debian</a></li>
-      <li><a href="devel-manuals#maint-guide">Guia dos Novos Mantenedores Debian</a></li>
+      <li><a href="devel-manuals#devref">Referência dos Desenvolvedores Debian</a></li>
+      <li><a href="devel-manuals#debmake-doc">Guia dos Mantenedores Debian</a></li>
+      <li><a href="devel-manuals#maint-guide">Guia dos novos Mantenedores Debian</a></li>
       <li><a href="devel-manuals#packaging-tutorial">Introdução ao empacotamento Debian</a></li>
-      <li><a href="devel-manuals#menu">Sistema de Menu Debian</a></li>
+      <li><a href="devel-manuals#menu">Sistema de menu Debian</a></li>
       <li><a href="devel-manuals#i18n">Introdução à i18n</a></li>
+      <li><a href="devel-manuals#d-i-internals">Instaladores internos do Debian</a></li>
+      <li><a href="devel-manuals#dbconfig-common">Guia para Mantenedores de pacotes que usam banco de dados</a></li>
+      <li><a href="devel-manuals#dbapp-policy">Politicas para pacotes que usam banco de dados</a></li>
     </ul>
 
-    <h4>Manuais diversos</h4>
+    <h4><a href="misc-manuals">Manuais diversos</a></h4>
     <ul>
       <li><a href="misc-manuals#history">História do Projeto Debian</a></li>
-      <li><a href="misc-manuals#markup">Manual de Marcação Debiandoc-SGML</a></li>
+      <li><a href="misc-manuals#markup">Manual de marcação Debiandoc-SGML</a></li>
       <li><a href="misc-manuals#sgml-howto">HOWTO de SGML/XML do Debian</a></li>
     </ul>
 
@@ -98,7 +107,7 @@ compreensivelmente.</p>
 </div>
 
 <p class="clr">A lista completa de manuais do Debian e outros documentos
-pode ser encontrada nas páginas web do <a href="ddp">Projeto de Documentação
+podem ser encontrados nas páginas web do <a href="ddp">Projeto de Documentação
 Debian</a>.</p>
 
 <p>Há também vários manuais escritos para o Debian GNU/Linux orientados para
@@ -109,7 +118,7 @@ os usuários, disponíveis como <a href="books">livros impressos</a>.</p>
 <p>Alguns dos documentos e manuais mais populares do GNU/Linux são
 <a href="http://www.tldp.org/LDP/gs/gs.html">Linux Installation and
 Getting Started</a>,
-<a href="http://www.ibiblio.org/pub/Linux/docs/linux-doc-project/users-guide/">\
+<a href="http://www.ibiblio.org/pub/Linux/docs/linux-doc-project/users-guide/">
 Linux User's Guide</a>,
 <a href="http://www.tldp.org/LDP/nag/nag.html">Network Administrator's
 Guide</a>,
@@ -151,20 +160,14 @@ e eles normalmente cobrem um assunto mais específico.</p>
 </ul>
 
 
-<h2 id="faqs">FAQs</h2>
+<h3 id="faqs">FAQs</h3>
 
 <p>FAQ significa <em>frequently asked questions</em> (perguntas feitas
-freqüentemente). Um FAQ é um documento que responde a essas perguntas.</p>
-
-<p>O <a href="http://www.tldp.org/FAQ/Linux-FAQ/">FAQ do Linux</a>
-contém informações sobre o GNU/Linux em geral.</p>
+frequentemente). Um FAQ é um documento que responde a essas perguntas.</p>
 
 <p>Perguntas relacionadas especificamente ao Debian são respondidas
 no <a href="manuals/debian-faq/">FAQ do Debian</a>. Também há separado
 um <a href="../CD/faq/">FAQ sobre as imagens de CD/DVD do Debian</a>.</p>
-
-<p>Por favor, veja o <a href="http://www.tldp.org/FAQ/">índice de FAQs do
-LDP</a> para mais informações.</p>
 
 
 <h3 id="other">Outros documentos menores</h3>
@@ -189,11 +192,11 @@ LDP</a> para mais informações.</p>
     </dd>
 
   <dt><strong>arquivos README variados</strong></dt>
-    <dd>Os arquivos <em>leia me</em> são comuns também &mdash; eles são
+    <dd>Os arquivos <em>leia-me</em> são comuns também &mdash; eles são
         arquivos de texto simples que descrevem um item único, normalmente
         um pacote. Você pode achar muitos deles nos subdiretórios de
-        <tt>/usr/share/doc</tt> em seu sistema Debian. Cada pacote de software
-        tem um subdiretório com seus próprios arquivos leia me ("read me"), e pode
+        <tt>/usr/share/doc/</tt> em seu sistema Debian. Cada pacote de software
+        tem um subdiretório com seus próprios arquivos leia-me ("read me"), e pode
         também incluir exemplos de configuração. Note que, para programas grandes,
         a documentação é normalmente fornecida em um pacote separado (de mesmo nome
         do pacote original, mas terminando com <em>-doc</em>).
@@ -202,22 +205,22 @@ LDP</a> para mais informações.</p>
   <dt><strong>cartões de referência rápida</strong></dt>
     <dd>
         <p>Cartões de referência rápida são resumos bem curtos de um certo
-  	(sub)sistema. Usualmente, um cartão de referência fornece os comandos
+       (sub)sistema. Usualmente, um cartão de referência fornece os comandos
         mais usados em uma única folha de papel. Algumas coleções e cartões de
         referência notáveis incluem:</p>
         <dl>
           <dt><a href="https://www.debian.org/doc/manuals/refcard/refcard">Cartão de
-	      Referência Debian GNU/Linux</a></dt>
-          <dd>Esse cartão, que pode ser impresso em uma única folha de papel,
-	      fornece uma lista dos comandos mais importantes e é uma boa
-	      referência para novos usuários do Debian que querem se
-	      familiarizar com eles. É necessário, pelo menos, um conhecimento
-              básico de computadores, arquivos, diretórios e linha de comando.
-	      usuários novatos podem querer ler primeiro a
-              <a href="user-manuals#quick-reference">Referência Debian</a>.
-          </dd>
+        Referência Debian GNU/Linux</a></dt>
+      <dd>Esse cartão, que pode ser impresso em uma única folha de papel,
+          fornece uma lista dos comandos mais importantes e é uma boa
+          referência para novos usuários do Debian que querem se
+          familiarizar com eles. É necessário, pelo menos, um conhecimento
+          básico de computadores, arquivos, diretórios e linha de comando.
+          Usuários novatos podem querer ler primeiro a
+          <a href="user-manuals#quick-reference">Referência Debian</a>.
+        </dd>
 
-       </dl>
+        </dl>
     </dd>
 
 </dl>
