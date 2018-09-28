@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="ff05673605c99a717fa6a21de00a19ef07f52521" maintainer="Sebul"
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Multiple security issues were discovered in Python: ElementTree failed
+to initialise Expat's hash salt, two denial of service issues were found
+in difflib and poplib and the shutil module was affected by a command
+injection vulnerability.</p>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 2.7.13-2+deb9u3.</p>
+
+<p>We recommend that you upgrade your python2.7 packages.</p>
+
+<p>For the detailed security status of python2.7 please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/python2.7">
+https://security-tracker.debian.org/tracker/python2.7</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4306.data"
