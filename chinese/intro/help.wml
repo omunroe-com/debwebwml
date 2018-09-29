@@ -43,10 +43,9 @@ Debian 软件包中的<a href="$(HOME)/security/">安全问题</a>。
 
 <h3>用户支持</h3>
 <ul>
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
-<li>如果您是一个有经验的用户，您可以在<a href="https://lists.debian.org/">邮件列表</a>上或是
+<li>如果您是一个有经验的用户，您可以在<a href="$(HOME)/support#mail_lists">邮件列表</a>上或是
 IRC 频道上帮助那些有需要的用户。如需了解更多与用户支持相关的资源和内容，
 请阅读<a href="$(HOME)/support">支持页面</a>。</li>
 <li>对中文用户，请考虑在以下邮件列表和频道内提供用户支持：

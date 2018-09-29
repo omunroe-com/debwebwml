@@ -15,11 +15,10 @@
 سعي كنيد وقتي ايرادي را گزارش ميكنيد آن را در مجموعه گزارشات ارسال شده پيگيري نماييد ودر صورت امكان
 توضيح بيشتري براي واضح شدن ايراد پيش آمده ارائه نماييد حتي اگر راه حلي به ذهنتان خطور كرد مطرح نماييد.</li>
 
-# TBD - link to users mailing lists
 # Translators، link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>در صورتي كه كاربر با تجربه تري هستيد، ميتوانيد به كاربران ديگر از طريق لينك
-<a href="https://lists.debian.org/">ليست پستی کاربران</a> و يا 
+<a href="$(HOME)/support#mail_lists">ليست پستی کاربران</a> و يا 
 كانال آي آر سي <tt>#debian</tt> كمك نماييد. براي اطلاع بيشتر در مورد موارد پشتيباني و منابع موجود
 صفحه <a href="$(HOME)/support">پشتيباني</a> را مطالعه نماييد.</li>
 

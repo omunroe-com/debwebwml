@@ -17,11 +17,10 @@
 記載されている問題が再現可能な場合は、
 可能ならで結構ですが、さらに詳しい情報を提供しようとしてみてください。</li>
 
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>ベテランのユーザなら、<a
-href="https://lists.debian.org/">ユーザメーリングリスト</a> (<a
+href="$(HOME)/support#mail_lists">ユーザメーリングリスト</a> (<a
 href="http://www.debian.or.jp/">Debian JP Project</a> の<a
 href="http://www.debian.or.jp/community/ml/openml.html#usersML">Users
 メーリングリスト</a>もあります。)

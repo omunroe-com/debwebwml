@@ -1,5 +1,5 @@
 #use wml::debian::template title="Comment pouvez-vous aider Debian&nbsp;?"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="b6a692082df0aab1ebf7367572b1bfd4d1b672e7" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Frédéric Bothamy, 2007.
@@ -66,12 +66,11 @@ signalés dans ceux-ci.</li>
 
 <h3>Aide aux utilisateurs</h3>
 <ul>
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>Si vous êtes un utilisateur expérimenté, vous pouvez aider les
 autres utilisateurs par l'intermédiaire des <a
-href="https://lists.debian.org/">listes de discussion des utilisateurs</a>
+href="$(HOME)/support#mail_lists">listes de discussion des utilisateurs</a>
 ou en utilisant le canal IRC <tt>#debian-fr</tt> (en français, ou le
 canal IRC <tt>#debian</tt> en anglais). Pour plus d'informations sur les
 options d'assistance et les sources disponibles, veuillez consulter les <a

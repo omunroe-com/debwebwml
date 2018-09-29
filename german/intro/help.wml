@@ -57,11 +57,10 @@
 
 <h3>Unterstützung unserer Benutzer</h3>
 <ul>
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
   <li>Falls Sie ein erfahrener Benutzer sind, können Sie anderen über die <a 
-      href="https://lists.debian.org/">Benutzer-Mailinglisten</a> oder den 
+      href="$(HOME)/support#mail_lists">Benutzer-Mailinglisten</a> oder den 
       <acronym lang="en" title="Internet Relay Chat">IRC</acronym>-Kanal
       <tt>#debian</tt> helfen. Für weitere Informationen über Möglichkeiten,
       Unterstützung zu bekommen und verfügbare Quellen lesen Sie die <a 

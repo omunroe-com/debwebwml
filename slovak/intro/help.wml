@@ -19,11 +19,10 @@ a hlásiť všetky zatiaľ neznáme omyly a chyby, ktoré nájdete, pomocou
 chyby balíkov, ktoré používate a poskytnúť ďalšie
 informácie ak dokážete zopakovať popísané problémy.</li>
 
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>Ak ste skúsený používateľ, môžete tiež pomôcť ostatným používateľom prostredníctvom 
-<a href="https://lists.debian.org/">používateľských emailových konferencií</a> alebo
+<a href="$(HOME)/support#mail_lists">používateľských emailových konferencií</a> alebo
 prostredníctvom kanála IRC <tt>#debian</tt> a Jabber miestnosti <tt>debian-sk@conf.netlab.cz</tt>. Ďalšie informácie o možnostiach podpory
 a dostupných zdrojoch sú dostupné na <a href="$(HOME)/support">stránkach podpory</a>.</li>
 

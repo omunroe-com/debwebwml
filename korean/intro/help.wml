@@ -52,11 +52,10 @@ href="https://bugs.debian.org/">Bug Tracking System</a>에 제공하여
 
 <h3>사용자 지원</h3>
 <ul>
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>경험있는 사용자라면
-<a href="https://lists.debian.org/">사용자 메일링 리스트</a>를 통하거나
+<a href="$(HOME)/support#mail_lists">사용자 메일링 리스트</a>를 통하거나
 IRC 채널 <tt>#debian</tt> 을 사용하여
 다른 사람들을 도울 수 있습니다.
 지원 옵션과 가능한 소스에 대해서는

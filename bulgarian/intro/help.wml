@@ -1,5 +1,5 @@
 #use wml::debian::template title="Как да помогнете на Дебиан?"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
+#use wml::debian::translation-check translation="b6a692082df0aab1ebf7367572b1bfd4d1b672e7"
 
 <p>Ако обмисляте да помогнете в разработването на Дебиан, има много
 области в които могат да се включат и опитни, и неопитни потребители:</p>
@@ -53,11 +53,10 @@ href="https://bugs.debian.org/">Системата за следене на гр
 
 <h3>Взаимопомощ</h3>
 <ul>
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>Ако сте опитен потребител, можете да помогнете на другите потребители чрез
-<a href="https://lists.debian.org/">потребителските пощенски списъци</a> или в
+<a href="$(HOME)/support#mail_lists">потребителските пощенски списъци</a> или в
 канала <tt>#debian</tt> в IRC.  За повече информация за възможностите за
 поддръжка и наличните източници прочетете <a href="$(HOME)/support">страниците
 за подръжка</a>.</li>

@@ -1,5 +1,5 @@
 #use wml::debian::template title="¿Cómo puede ayudar a Debian?"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="b6a692082df0aab1ebf7367572b1bfd4d1b672e7" maintainer="Laura Arjona Reina"
 
 ### TRANSLATORS: Revision 1.27 is adding some words to the popcon submission item,
 ### and Revision 1.28 is reorganization of items (no change in the description of
@@ -66,11 +66,10 @@ información, si puede reproducir los problemas que se describen allí.</li>
 
 <h3>Ayuda al usuario</h3>
 <ul>
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>Si es un usuario experimentado puede ayudar a otros usuarios
-a través de las <a href="https://lists.debian.org/">listas de correo
+a través de las <a href="$(HOME)/support#mail_lists">listas de correo
 de usuarios</a> y, específicamente, a través de la <a
 href="https://lists.debian.org/debian-user-spanish/">lista de usuarios de habla
 hispana</a>, o a través del canal de IRC <tt>#debian</tt> (en inglés) y

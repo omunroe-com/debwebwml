@@ -17,11 +17,10 @@ käydä läpi käytössäsi oleviin ohjelmapaketteihin liittyviä vikailmoituksi
 ja tarjota lisätietoja mikäli pystyt toistamaan vikailmoituksessa kuvatut 
 ongelmat.</li>
 
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>Jos olet edistyneempi käyttäjä, voit neuvoa muita käyttäjiä <a href=
-"https://lists.debian.org/">käyttäjille tarkoitetuilla postituslistoilla</a> 
+"$(HOME)/support#mail_lists">käyttäjille tarkoitetuilla postituslistoilla</a> 
 tai IRC-kanavalla <tt>#debian-fi</tt>. Lisätietoja tukivaihtoehdoista ja 
 saatavilla olevista lähteistä löytyy <a href="$(HOME)/support">tuki-sivuilta</a>.</li>
 

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hur kan du hjälpa Debian?"
-#use wml::debian::translation-check translation="b0a7173484a7c517a30aa1fd7c4bf04ddf081b99"
+#use wml::debian::translation-check translation="b6a692082df0aab1ebf7367572b1bfd4d1b672e7"
 
 <p>Om du funderar på att hjälpa till med utvecklingen av Debian
 	så finns det många områden där både erfarna och oerfarna användare kan bidra:</p>
@@ -49,11 +49,10 @@
 
 <h3>Användarstöd</h3>
 <ul>	
-	# TBD - link to users mailing lists
 	# Translators, link directly to the translated mailing lists and provide
 	# a link to the IRC channel in the user's language
 	<li>Om du är en erfaren användare kan du hjälpa andra användare genom
-		<a href="https://lists.debian.org/">användarsändlistorna</a> eller
+		<a href="$(HOME)/support#mail_lists">användarsändlistorna</a> eller
 		på irc-kanalen <tt>#debian</tt> eller den svenska kanalen <tt>#debian.se</tt>.
 		För mer information om supportmöjligheter
 		och tillgängliga källor, läs <a href="$(HOME)/support">supportsidorna</a>.</li>

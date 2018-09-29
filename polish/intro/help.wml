@@ -15,12 +15,11 @@ i raportować jeszcze nieznane niedomagania i błędy, które znajdziesz, używa
 śledzić błędy już znalezione i dodawać dalsze informacje na ich temat,
 jeśli uda Ci się powtórzyć opisane objawy.</li>
 
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 
 <li>Jeśli jesteś doświadczonym użytkownikiem, możesz pomóc innym użytkownikom poprzez
-<a href="https://lists.debian.org/">listy dyskusyjne użytkowników</a>
+<a href="$(HOME)/support#mail_lists">listy dyskusyjne użytkowników</a>
 (<a href="https://lists.debian.org/debian-user-polish/">polska lista</a>) lub
 kanał IRC <tt>#debian</tt>.  Więcej informacji na temat pomocy i
 dostępnych źródeł można znaleźć na <a href="$(HOME)/support">stronach wsparcia</a>.</li>

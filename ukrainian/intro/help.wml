@@ -15,11 +15,10 @@
 Також буде корисним перегляд вже відомих помилок в пакунках, якими ви користуєтесь,
 та надання додаткової інформації, якщо вам вдається відтворити ці помилки.</li>
 
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>Якщо ви є досвідченим користувачем, ви можете допомогти іншим
-за допомогою <a href="https://lists.debian.org/">користувацьких списків 
+за допомогою <a href="$(HOME)/support#mail_lists">користувацьких списків 
 розсилки</a> або IRC-каналу <tt>#debian</tt>. Детальніше про
 умови та джерела підтримки можна дізнатися, переглянувши
 <a href="$(HOME)/support">сторінки підтримки</a>.</li>
