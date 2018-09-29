@@ -40,6 +40,7 @@ information see the <a href="$(HOME)/ports/">list of available ports</a>.</li>
 <li>You can simply test the operating system and the programs provided in it and report any not yet known errata or bugs you find using the <a href="https://bugs.debian.org/">Bug Tracking System</a>. Try to browse also
 the bugs associated with packages you use and provide further
 information, if you can reproduce the issues described in them.</li>
+<li>You can help with the <a href="https://wiki.debian.org/Teams/DebianCD/ReleaseTesting">testing of installer and live ISO images</a>.
 </ul>
 
 <h3>User Support</h3>
