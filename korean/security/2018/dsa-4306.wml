@@ -1,21 +1,18 @@
-#use wml::debian::translation-check translation="ff05673605c99a717fa6a21de00a19ef07f52521" maintainer="Sebul"
-<define-tag description>security update</define-tag>
+<define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
-<p>Multiple security issues were discovered in Python: ElementTree failed
-to initialise Expat's hash salt, two denial of service issues were found
-in difflib and poplib and the shutil module was affected by a command
-injection vulnerability.</p>
+<p>여러 보안 이슈를 파이썬에서 발견했습니다: ElementTree가 Expat의 hash salt를
+초기화하지 못했고, 서비스 거부 이슈 2개가 difflib 및 poplib에서 발견되었고, 
+shutil 모듈이 명령 인젝션 취약점 영향을 받았습니다.</p>
 
-<p>For the stable distribution (stretch), these problems have been fixed in
-version 2.7.13-2+deb9u3.</p>
+<p>안정 배포(stretch)에서, 이 문제는 2.7.13-2+deb9u3 버전에서 고쳐졌습니다.</p>
 
-<p>We recommend that you upgrade your python2.7 packages.</p>
+<p>python2.7 패키지를 업그레이드 하는 게 좋습니다.</p>
 
-<p>For the detailed security status of python2.7 please refer to
-its security tracker page at:
+<p>python2.7의 자세한 보안 상태는 보안 추적 페이지를 참조하세요:
 <a href="https://security-tracker.debian.org/tracker/python2.7">
 https://security-tracker.debian.org/tracker/python2.7</a></p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2018/dsa-4306.data"
+# $Id: $
