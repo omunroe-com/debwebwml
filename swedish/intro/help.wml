@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hur kan du hjälpa Debian?"
-#use wml::debian::translation-check translation="b6a692082df0aab1ebf7367572b1bfd4d1b672e7"
+#use wml::debian::translation-check translation="ca00956a4a840ec92be177ba4de6dc4bb5498133"
 
 <p>Om du funderar på att hjälpa till med utvecklingen av Debian
 	så finns det många områden där både erfarna och oerfarna användare kan bidra:</p>
@@ -45,6 +45,8 @@
 		<a href="https://bugs.debian.org/">felrapporteringssystemet</a>. Försök även bläddra bland
 		felen som hör till paketen du använder och ge ytterligare
 		information, om du kan reproducera felen som beskrivs i dem.</li>
+	<li>Du kan hjälpa till med att <a href="https://wiki.debian.org/Teams/DebianCD/ReleaseTesting">
+		testa installerar- och live-ISO-avbildningar</a>.
 </ul>
 
 <h3>Användarstöd</h3>
