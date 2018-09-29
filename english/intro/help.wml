@@ -44,11 +44,10 @@ information, if you can reproduce the issues described in them.</li>
 
 <h3>User Support</h3>
 <ul>
-# TBD - link to users mailing lists
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>If you are an experienced user you can help other users through 
-the <a href="https://lists.debian.org/">user mailing lists</a> or
+the <a href="$(HOME)/support#mail_lists">user mailing lists</a> or
 by using the IRC channel <tt>#debian</tt>.  For more information on support options and available sources read the <a href="$(HOME)/support">support pages</a>.</li>
 </ul>
 
