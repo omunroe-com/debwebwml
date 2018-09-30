@@ -94,7 +94,7 @@ sinulle näytetään allekirjoitettavan avaimen sormenjälki ja pituus, joita si
 pitäisi verrata siihen, jonka sait tapaamaltasi henkilöltä.
 </li>
 
-<li>Kun kysytään tarkistuksen vakavuutta, valitse "arkinen" ("casual").</li>
+<li>Kun kysytään tarkistuksen vakavuutta, valitse "arkinen" ("casual").
 </li>
 
 <li>Sulje GnuPG komennolla <code>quit</code>
