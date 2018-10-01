@@ -1,17 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Song Woo-il, 2006
+# Sebul <sebuls@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2006-08-12 17:18+0200\n"
-"Last-Translator: Song Woo-il <wooil@debian.or.kr>\n"
-"Language-Team: debian-kr-www <debian-kr-www@lists.debian.or.kr>\n"
-"Language: \n"
+"PO-Revision-Date: 2018-10-01 23:20+0900\n"
+"Last-Translator: Sebul <sebuls@gmail.com>\n"
+"Language-Team: debian-l10n-korean@lists.debian.org\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: ../../english/security/dsa.rdf.in:16
 msgid "Debian Security"
@@ -49,11 +52,11 @@ msgstr "US-CERT 취약성 노트"
 
 #: ../../english/template/debian/security.wml:11
 msgid "Source:"
-msgstr "소스"
+msgstr "소스:"
 
 #: ../../english/template/debian/security.wml:15
 msgid "Architecture-independent component:"
-msgstr "아키텍처에 의존하는 구성요소"
+msgstr "아키텍처에 의존하는 구성요소:"
 
 #. don't translate `<get-var url />'
 #: ../../english/template/debian/security.wml:22
@@ -111,15 +114,15 @@ msgstr "버그"
 
 #: ../../english/template/debian/securityreferences.wml:76
 msgid "In the Debian bugtracking system:"
-msgstr "데비안 버그 추적 시스템"
+msgstr "데비안 버그 추적 시스템:"
 
 #: ../../english/template/debian/securityreferences.wml:79
 msgid "In the Bugtraq database (at SecurityFocus):"
-msgstr "SecurityFocus의 Bugtraq 데이터베이스"
+msgstr "SecurityFocus의 Bugtraq 데이터베이스:"
 
 #: ../../english/template/debian/securityreferences.wml:82
 msgid "In Mitre's CVE dictionary:"
-msgstr "Mitre의 CVE 사전"
+msgstr "Mitre의 CVE 사전:"
 
 #: ../../english/template/debian/securityreferences.wml:85
 msgid "CERT's vulnerabilities, advisories and incident notes:"
