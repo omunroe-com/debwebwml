@@ -51,8 +51,8 @@ msgid ""
 "maintained and updated through the work of many users who volunteer their "
 "time and effort."
 msgstr ""
-"데비안은 운영체제이고 자유 소프트웨어의 배포입니다. 그것은 그들의 시간과 노력"
-"을 봉사하는 많은 사용자의 일에 의해 유지되고 업데이트 됩니다."
+"데비안은 운영체제이고 자유 소프트웨어의 배포입니다. 시간과 노력"
+"을 봉사하는 많은 사용자가 그것을 유지하고 업데이트 합니다."
 
 #: ../../english/template/debian/common_translation.wml:16
 msgid "debian, GNU, linux, unix, open source, free, DFSG"
@@ -60,7 +60,7 @@ msgstr "데비안, GNU, 리눅스, 유닉스, 오픈 소스, 자유, DFSG"
 
 #: ../../english/template/debian/common_translation.wml:19
 msgid "Back to the <a href=\"m4_HOME/\">Debian Project homepage</a>."
-msgstr "<a href=\"m4_HOME/\">Debian 홈 페이지로</a>"
+msgstr "<a href=\"m4_HOME/\">Debian 홈 페이지로</a>."
 
 #: ../../english/template/debian/common_translation.wml:22
 #: ../../english/template/debian/links.tags.wml:149
@@ -73,7 +73,7 @@ msgstr ""
 
 #: ../../english/template/debian/common_translation.wml:28
 msgid "About"
-msgstr "데비안에 대해서"
+msgstr "정보"
 
 #: ../../english/template/debian/common_translation.wml:31
 msgid "About Debian"
@@ -240,7 +240,7 @@ msgstr ""
 #: ../../english/template/debian/languages.wml:196
 #: ../../english/template/debian/languages.wml:232
 msgid "This page is also available in the following languages:"
-msgstr "이 페이지는 다음 언어로 볼 수도 있습니다"
+msgstr "이 페이지는 다음 언어로 볼 수도 있습니다:"
 
 #: ../../english/template/debian/languages.wml:265
 msgid "How to set <a href=m4_HOME/intro/cn>the default document language</a>"
@@ -436,7 +436,7 @@ msgstr "데비안 홈"
 
 #: ../../english/template/debian/recent_list.wml:7
 msgid "No items for this year."
-msgstr "이 해에 대한 아이템 없음."
+msgstr "이 해에 대한 항목 없음."
 
 #: ../../english/template/debian/recent_list.wml:11
 msgid "proposed"
@@ -496,7 +496,7 @@ msgstr ""
 #: ../../english/template/debian/translation-check.wml:49
 msgid ""
 "<em>Note:</em> The original document of this translation no longer exists."
-msgstr "<em>주의:</em> 이 번역의 원 문서가 더 이상 존재하지 않습니다."
+msgstr "<em>주의:</em> 이 번역의 원 문서가 더 이상 없습니다."
 
 #: ../../english/template/debian/translation-check.wml:56
 msgid "Wrong translation version!"
