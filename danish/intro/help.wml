@@ -1,5 +1,5 @@
 #use wml::debian::template title="Hvordan kan jeg hjælpe Debian?"
-#use wml::debian::translation-check translation="b6a692082df0aab1ebf7367572b1bfd4d1b672e7"
+#use wml::debian::translation-check translation="ca00956a4a840ec92be177ba4de6dc4bb5498133"
 
 ### TRANSLATORS: Revision 1.27 is adding some words to the popcon submission item,
 ### and Revision 1.28 is reorganization of items (no change in the description of
@@ -58,6 +58,10 @@ registreret, ved hjælp af vores <a href="https://bugs.debian.org/">\
 fejlsporingssystem</a>.  Prøv også at kigge på fejl knyttet til pakker, du 
 anvender, og giv yderligere oplysninger, hvis du kan genskabe de beskrevne 
 problemer.</li>
+
+<li>Du kan hjælpe med 
+<a href="https://wiki.debian.org/Teams/DebianCD/ReleaseTesting">test af 
+installeringsprogrammet og live-ISO-aftryk</a>.
 
 </ul>
 
