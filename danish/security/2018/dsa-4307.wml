@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="09603045e4646e32faf65665e81956f84f5ff198" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Adskillige sikkerhedsproblemer blev opdaget i Python: ElementTree fik ikke 
+initialiseret Expats hashsalt, to lammelsesangrebsproblemer blev fundet i 
+difflib og poplib, og et bufferoverløb i PyString_DecodeEscape.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 3.5.3-1+deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine python3.5-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende python3.5, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/python3.5">\
+https://security-tracker.debian.org/tracker/python3.5</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4307.data"
