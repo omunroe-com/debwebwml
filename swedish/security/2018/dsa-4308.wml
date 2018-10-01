@@ -1,0 +1,155 @@
+#use wml::debian::translation-check translation="9b0f24167bab7ac047fcd437a31fd6c303f0f804" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i Linuxkärnan, vilket kan leda till
+utökning av privilegier, överbelastning eller informationsläckage.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6554">CVE-2018-6554</a>
+
+	<p>Ett minnesläckage i funktionen irda_bind i undersystemet ida
+	har upptäckts. En lokal användare kan dra fördel av denna brist för
+	att orsaka en överbelastning (minneskonsumption).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6555">CVE-2018-6555</a>
+
+	<p>En brist att upptäckts i funktionen irda_setsockopt i undersystemet
+	irda, vilket tillåter en lokal användare att orsaka en överbelastning
+	(användning efter frigörning och systemkrasch).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7755">CVE-2018-7755</a>
+
+	<p>Brian Belleville upptäckte en brist i funktionen fd_locked_ioctl
+	i floppy-drivrutinen i Linuxkärnan. Floppydrivrutinen kopierar en
+	kärnpekare till användarminne i svar till FDGETPRM ioctl. En lokal
+	användare med åtkomst till floppyenheten kan dra fördel av denna brist
+	för att upptäcka kernel-kod och data för positionen.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-9363">CVE-2018-9363</a>
+
+	<p>Man har upptäckt att Bluetooth HIDP-implementationen inte
+	kontrollerar längden på mottagna rapportmeddelanden korrekt. En
+	parad HIDP-enhet kunde använda detta för att orsaka ett buffertspill,
+	vilket leder till överbelastning (minneskorruption eller krasch) eller
+	möjligen fjärrkodsexekvering.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-9516">CVE-2018-9516</a>
+
+	<p>Man har upptäckt att HID-händelsegränssnittet i debugfs inte
+	begränsar längden på kopior till användarbuffertar korrekt. En lokal
+	användare med åtkomst till dessa filer kunde använda detta för att
+	orsaka en överbelastning (minneskorruption eller krasch) eller möjligen
+	för utökning av privilegier. Dock så är debugfs endast åtkomstbar
+	av rootanvändaren som standard.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10902">CVE-2018-10902</a>
+
+	<p>Man har upptäckt att kärndrivrutinen rawmidi inte skyddar mot
+	samverkande åtkomst vilket leder till dubbel återallokering (dubbel
+	frigörning). En lokal angripare kan dra fördel av denna brist för
+	utökning av privilegier.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10938">CVE-2018-10938</a>
+
+	<p>Yves Younan från Cisco rapporterade att Cisco IPv4-modulen inte
+	kontrollerar längden på IPv4-alternativ ordentligt. På anpassade
+	kärnor med CONFIG_NETLABEL aktiverad kan en fjärrangripare använda detta
+	för att orsaka en överbelastning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-13099">CVE-2018-13099</a>
+
+	<p>Wen Xu från SSLab vid Gatech rapporterade ett fel rörande
+	användning efter frigörning i implementationen av F2FS. En angripare
+	som har möjlighet att montera en skapad F2FS-volym kunde använda detta
+	för att orsaka en överbelastning (krasch eller minneskorruption) eller
+	möjligen för utökning av rättigheter.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14609">CVE-2018-14609</a>
+
+	<p>Wen Xu från SSLab vid Gatech rapporterade en möjlig
+	null-pekardereferens i implementationen av F2FS. En angripare som
+	kan montera en skapad F2FS-volym kunde använda detta för att orsaka
+	en överbelastning (krasch).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14617">CVE-2018-14617</a>
+
+	<p>Wen Xu från SSLab vid Gatech rapporterade en möjlig null-pekardereferens
+	i implementationen av HFS+. En angripare som kan montera en skapad
+	HFS+-volym kunde använda detta för att orsaka en överbelastning
+	(krasch).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14633">CVE-2018-14633</a>
+
+	<p>Vincent Pelletier upptäckte ett stackbaserat buffertspill i
+	funktionen chap_server_compute_md5() i koden för målet iSCSI. En
+	icke auktoriserad fjärrangripare kan dra fördel av denna brist för
+	att orsaka en överbelastning eller möjligen för att få icke
+	auktoriserad åtkomst till data som exporterats av ett iSCSI-mål.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14678">CVE-2018-14678</a>
+
+	<p>M. Vefa Bicakci och Andy Lutomirski upptäckte en brist i
+	kärnans exitkod som används på amd64-system som kör som Xen
+	PV-gäster. En lokal angripare kunde utnyttja detta för att orsaka
+	en överbelastning (krasch).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14734">CVE-2018-14734</a>
+
+	<p>Ett problem med användning efter frigörning har upptäckts i
+	kommunikationshanteraren InfiniBand. En lokal användare kunde
+	använda detta för att orsaka en överbelastning (krasch eller
+	minneskorruption) eller möjligen för utökning av rättigheter.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15572">CVE-2018-15572</a>
+
+	<p>Esmaiel Mohammadian Koruyeh, Khaled Khasawneh, Chengyu Song och
+	Nael Abu-Ghazaleh från Univeritetet i Riverside, Kalifornien,
+	rapporterade en variant av Spectre variant 2, med namnet SpectreRSB.
+	En lokal användare kan utnyttja detta för att läsa känslig information
+	från processer som ägs av andra användare.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15594">CVE-2018-15594</a>
+
+	<p>Nadav Amit rapporterade att vissa indirekta funktionsanrop som
+	används i paravirtualiserade gäster var sårbara för Spectre variant 2.
+	En lokal användare kan använda detta för att läsa känslig information
+	från kärnan.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16276">CVE-2018-16276</a>
+
+	<p>Jann Horn upptäckte att yurex-drivrutinen inte begränsar längden
+	av kopior till användarbuffertar ordentligt. En lokal användare med åtkomst
+	till en yurex-enhetsnod kunde använda detta för att orsaka en
+	överbelastning (minneskorruption eller krasch) eller möjligen för
+	utökning av privilegier.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16658">CVE-2018-16658</a>
+
+	<p>Man har upptäckt att cdromdrivrutinen inte validerar parametern
+	till CDROM_DRIVE_STATUS ioctl ordentligt. En användare med åtkomst
+	till cdromenheten kunde använda detta för att läsa känslig information
+	från kärnan eller orsaka en överbelastning (krasch).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17182">CVE-2018-17182</a>
+
+	<p>Jann Horn upptäckte att funktionen vmacache_flush_all hanterar
+	sekvensnummerspill felaktigt. En lokal användare kan dra fördel av denna
+	brist för att trigga en användning efter frigörning, vilket orsakar
+	en överbelastning (krasch eller minneskorruption) eller utökning av
+	privilegier.</p></li>
+
+</ul>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 4.9.110-3+deb9u5.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era linux-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om linux vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/linux">https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4308.data"
