@@ -1,7 +1,7 @@
 #use wml::debian::mainpage title="세계적인 운영체제"
 #use wml::debian::recent_list
-#use wml::debian::translation-check translation="22dbd3c9647af354d2b6568836a5d87dee3115f7" maintainer="Sangdo Jun"
-#Last-translator: Sangdo Jun, sebuls@gmail.com, 20171001
+#use wml::debian::translation-check translation="22dbd3c9647af354d2b6568836a5d87dee3115f7" maintainer="Sebul"
+#Last-translator: sebuls@gmail.com, 20181001
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
 
@@ -16,7 +16,7 @@
 <a href="intro/free">자유</a> 운영체제입니다.
 운영체제는 컴퓨터를 돌리는 기본 프로그램과 유틸리티 모음입니다.</p>
 
-<p>데비안은 순수한 운영체제 이상의 것을 제공합니다 : 그것은 <packages_in_stable>개 이상의
+<p>데비안은 순수한 운영체제 이상의 것을 제공합니다: 그것은 <packages_in_stable>개 이상의
  <a href="distrib/packages">패키지</a>로,
  미리 컴파일된 소프트웨어가 컴퓨터에 설치하기 좋은 형식으로 묶여 있습니다. <a href="intro/about">더 읽기...</a></p>
 </div>
@@ -77,4 +77,3 @@
 <link rel="alternate" type="application/rss+xml"
  title="Debian Security Advisories (summaries)" href="security/dsa-long">
 :#rss#}
-
