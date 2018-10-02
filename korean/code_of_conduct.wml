@@ -90,26 +90,23 @@
     </ol>
 <hr />
 <h2 id="guidelines">더 읽기</h2>
-     <p>Some of the links in this section do not refer to documents that are
-     part of this code of conduct, nor are they authoritative within Debian.
-     However, they all do contain useful information on how to conduct
-     oneself on our communication channels.
+     <p>
+이 절의 어떤 링크는 이 행동강령의 부분이 아니며, 데비안에서 권위가 있지 않습니다.
+그러나, 그것들은 모두 우리 소통 채널에 쓸만한 정보를 포함합니다.
      </p>
      <ul>
-     <li>Debian has a <a
-     href="$(HOME)/intro/diversity">diversity
-     statement</a>.</li>
-     <li>The <a href="https://people.debian.org/~enrico/dcg/">Debian Community
+     <li>데비안은 <a
+     href="$(HOME)/intro/diversity">다양한
+     서술</a>이 있습니다.</li>
+     <li><a href="https://people.debian.org/~enrico/dcg/">Debian Community
      Guidelines</a> by Enrico Zini contain some advice on how to communicate
      effectively.</li>
-     <li>The <a
-     href="$(HOME)/MailingLists/#codeofconduct">Mailing list
-     code of conduct</a> is useful for advice specific to Debian mailing
-     lists.</li>
+     <li><a
+     href="$(HOME)/MailingLists/#codeofconduct">메일링리스트
+행동강령</a>은 특히 데비안 메일링 리스트에 조언에 쓸만합니다.</li>
 </ul>
 
 <p><em>이 행동 강령의 업데이트는 일반적인 GR 절차를 따라야 합니다.
 그러나, DPL(또는 DPL의 대표자)는 프로젝트와 협의 후 GR을 요구하지 않고
- "더 읽기" 섹션의 다른 문서에 대한 링크를 
-더하거나 뺄 수 있습니다.
+ "더 읽기" 절의 다른 문서에 대한 링크를 더하거나 뺄 수 있습니다.
 </em></p>
