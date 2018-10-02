@@ -1,5 +1,5 @@
 #use wml::debian::template title="Важные события, связанные с Debian" BARETITLE=true
-#use wml::debian::translation-check translation="749f637bc2d069cf0edbfb31649f215498f67171" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="48cf7bb0c1138dc81a74808a16f9c95692fae2c2" maintainer="Lev Lamberov"
 
 <p>Дочерние страницы <a href="https://wiki.debian.org/DebianEvents">wiki-страницы
 событий Debian</a> содержат список событий (мероприятий), в которых Debian
@@ -45,7 +45,7 @@ href="https://wiki.debian.org/Presentations">коллекции
   <li> <a href="checklist">О чём не следует забывать</a> при организации стенда</li>
   <li> <a href="https://wiki.debian.org/DebianEvents">вики-страница событий
    Debian</a></li>
-  <li> <a href="material">Представительская продукция</a>
+  <li> <a href="material">Представительская продукция</a></li>
   <li> <a href="keysigning">Обмен подписями ключей</a></li>
   <li> <a href="https://wiki.debian.org/Presentations">Презентации о
    Debian</a></li>
