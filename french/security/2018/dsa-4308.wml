@@ -1,0 +1,160 @@
+#use wml::debian::translation-check translation="1.1" maintainer="Jean-Pierre Giraud"
+<define-tag description>Mise à jour de sécurité</define-tag>
+<define-tag moreinfo>
+<p>Plusieurs vulnérabilités ont été découvertes dans le noyau Linux qui
+pourraient conduire à une augmentation de droits, un déni de service ou des
+fuites d'informations.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6554">CVE-2018-6554</a>
+
+<p>Une fuite de mémoire a été découverte dans la fonction irda_bind du
+sous-système irda. Un utilisateur local peut tirer avantage de ce défaut
+pour provoquer un déni de service (consommation de mémoire).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6555">CVE-2018-6555</a>
+
+<p>Un défaut a été découvert dans la fonction irda_setsockopt du
+sous-système irda, permettant à un utilisateur local de provoquer un déni
+de service (utilisation de mémoire après libération et plantage du
+système).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7755">CVE-2018-7755</a>
+
+<p>Brian Belleville a découvert un défaut dans la fonction fd_locked_ioctl
+du pilote du lecteur de disquette dans le noyau Linux. Le pilote du lecteur
+de disquette copie un pointeur du noyau dans la mémoire de l'utilisateur en
+réponse à l'ioctl FDGETPRM. Un utilisateur local doté d'un accès à un
+lecteur de disquette peut tirer avantage de ce défaut pour découvrir
+l'emplacement du code et des données du noyau.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-9363">CVE-2018-9363</a>
+
+<p>L'implémentation HIDP de Bluetooth ne vérifiait pas correctement la
+longueur des messages de rapport reçus. Un périphérique HIDP appairé
+pourrait utiliser cela pour provoquer un dépassement de tampon, menant à un
+déni de service (corruption de mémoire ou plantage) ou éventuellement à
+l'exécution de code distant.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-9516">CVE-2018-9516</a>
+
+<p>L'interface des événements HID dans debugfs ne limitait pas correctement
+la longueur des copies dans les tampons de l'utilisateur. Un utilisateur
+local doté de l'accès à ces fichiers pourrait utiliser cela pour provoquer
+un déni de service (corruption de mémoire ou plantage) ou éventuellement
+une augmentation de droits. Néanmoins, par défaut, debugfs est seulement
+accessible à l'utilisateur root.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10902">CVE-2018-10902</a>
+
+<p>Le pilote rawmidi du noyau ne protège pas des accès concurrents qui
+mènent à un défaut de double-realloc (double libération de zone de
+mémoire). Un attaquant local peut tirer avantage de ce problème pour une
+augmentation de droits.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10938">CVE-2018-10938</a>
+
+<p>Yves Younan de Cisco a signalé que le module IPv4 de Cipso ne vérifiait
+pas correctement la longueur des options IPv4. Avec les noyaux
+personnalisés où CONFIG_NETLABEL est activé, un attaquant distant pourrait
+utiliser cela pour provoquer un déni de service (blocage).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-13099">CVE-2018-13099</a>
+
+<p>Wen Xu du SSLab de Gatech a signalé un bogue d'utilisation de mémoire
+après libération dans l'implémentation de F2FS. Un attaquant capable de
+monter un volume F2FS contrefait pourrait utiliser cela pour provoquer un
+déni de service (plantage ou corruption de mémoire ) ou éventuellement pour
+une augmentation de droits.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14609">CVE-2018-14609</a>
+
+<p>Wen Xu du SSLab de Gatech a signalé un potentiel déréférencement de
+pointeur NULL dans l'implémentation de F2FS. Un attaquant capable de
+monter un volume F2FS contrefait pourrait utiliser cela pour provoquer un
+déni de service (plantage).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14617">CVE-2018-14617</a>
+
+<p>Wen Xu du SSLab de Gatech a signalé un potentiel déréférencement de
+pointeur NULL dans implémentation de HFS+. Un attaquant capable de
+monter un volume HFS+ contrefait pourrait utiliser cela pour provoquer un
+déni de service (plantage).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14633">CVE-2018-14633</a>
+
+<p>Vincent Pelletier a découvert un défaut de dépassement de pile dans la
+fonction chap_server_compute_md5() du code de la cible iSCSI. Un attaquant
+distant non authentifié peut tirer avantage de ce défaut pour provoquer un
+déni de service ou éventuellement pour obtenir un accès non autorisé à des
+données exportées par une cible iSCSI.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14678">CVE-2018-14678</a>
+
+<p>M. Vefa Bicakci et Andy Lutomirski ont découvert un défaut dans le code
+de sortie du noyau sur les systèmes amd64 exécutés comme clients de
+paravirtualisation (PV) Xen. Un utilisateur local pourrait utiliser cela
+pour provoquer un déni de service (plantage).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14734">CVE-2018-14734</a>
+
+<p>Un bogue d'utilisation de mémoire après libération a été découvert dans
+le gestionnaire de communication InfiniBand. Un utilisateur local pourrait
+utiliser cela pour provoquer un déni de service (plantage ou corruption de
+mémoire) ou une possible augmentation de droits.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15572">CVE-2018-15572</a>
+
+<p>Esmaiel Mohammadian Koruyeh, Khaled Khasawneh, Chengyu Song et Nael
+Abu-Ghazaleh de l'university de Californie, Riverside, ont signalé une
+variante de Spectre variante 2, nommée SpectreRSB. Un utilisateur local
+peut être capable d'utiliser cela pour lire des informations sensibles
+à partir de processus appartenant à d'autres utilisateurs.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15594">CVE-2018-15594</a>
+
+<p>Nadav Amit a signalé que certains appels indirects de fonctions utilisés
+dans les clients paravirtualisés étaient vulnérables à Spectre variante 2.
+Un utilisateur local peut être capable d'utiliser cela pour lire des
+informations sensibles à partir du noyau.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16276">CVE-2018-16276</a>
+
+<p>Jann Horn a découvert que le pilote yurex ne limitait pas correctement
+la longueur des copies dans les tampons de l'utilisateur. Un utilisateur
+local doté d'un accès à un nœud de périphérique yurex pourrait utiliser
+cela pour provoquer un déni de service (corruption de mémoire ou plantage)
+ou éventuellement une augmentation de droits.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16658">CVE-2018-16658</a>
+
+<p>Le pilote de cdrom ne valide pas correctement le paramètre de l'ioctl
+CDROM_DRIVE_STATUS. Un utilisateur doté d'un accès à un périphérique de 
+cdrom pourrait utiliser cela pour lire des informations sensibles provenant
+du noyau ou provoquer un déni de service (plantage).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17182">CVE-2018-17182</a>
+
+<p>Jann Horn a découvert que la fonction vmacache_flush_all ne gère pas
+correctement les débordements de numéro de séquence. Un utilisateur local
+peut tirer avantage de ce défaut pour déclencher une utilisation de mémoire
+après libération, provoquant un déni de service (plantage ou corruption de
+mémoire) ou une augmentation de droits.</p></li>
+
+</ul>
+
+<p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
+dans la version 4.9.110-3+deb9u5.</p>
+
+<p>Nous vous recommandons de mettre à jour vos paquets linux.</p>
+
+<p>Pour disposer d'un état détaillé sur la sécurité de linux, veuillez
+consulter sa page de suivi de sécurité à l'adresse :
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a>.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4308.data"
+# $Id: $
