@@ -8,7 +8,7 @@
 <p>버전 1.0이 2014년 4월 28일에 비준되었습니다.</p>
 
 <p>데비안 프로젝트, 데비안 시스템의 제작자들은 참가자를 위하여
-메일링 리스트, 채널, 그리고 프로젝트 안의  다른 소통 모드에 대한 행동강령을 채택했습니다.</p>
+메일링 리스트, IRC 채널, 그리고 프로젝트 안의  다른 소통 모드에 대한 행동강령을 채택했습니다.</p>
 
 <hr />
     <h2>데비안 <q>행동 강령</q></h2>
@@ -16,42 +16,40 @@
     <ol>
       <li>
 	<strong>존중하라</strong>
-	<p>데비안 규모의 프로젝트에는 필연적으로 여러분이 동의하지 않을 사람이 있거나, 협동하기 어려움을 발견할 것입니다.
-그것을 받아들이고, 그럼에도, 존중하세요.
-불일치는 가난한 행동 또는 개인 공격에 대한 변명의 대상이 아니며, 사람들이 위협을 느끼는 공동체는 건강한 공동체가 아닙니다.
+	<p>
+데비안 규모의 프로젝트에는 필연적으로 여러분이 동의하지 않을 사람이 있거나, 협동하기 어려움을 발견할 것입니다.
+그래도 그것을 받아들이고, 존중하세요.
+불일치는 가난한 행동 또는 개인 공격에 대한 변명의 대상이 아니며,
+사람들이 위협을 느끼는 공동체는 건강한 공동체가 아닙니다.
 	</p>
       </li>
       <li><strong>선의로 생각하라</strong>
-	<p>데비안 기여자는 여러분의 길과 다를 수 있는 <a href="$(HOME)/intro/free">자유</a> 운영체제 공동의 목표에 도달하기 위한
-많은 길을 갖고 있습니다.
-다른 사람들이 이 목표를 향해 일한다고 가정하세요.
-	</p><p>많은 기여자들이 영어가 모국어가 아니거나 다른 문화 배경을 가질 수 있습니다.
+	<p>
+데비안 기여자는 여러분의 길과 다를 수 있는 <a href="$(HOME)/intro/free">자유</a> 운영체제 공동의 목표에 도달하기 위한 많은 길을 갖고 있습니다.
+다른 사람들이 이 목표를 향해 일한다고 생각하세요.
+	</p><p>
+많은 기여자들이 영어가 모국어가 아니거나 다른 문화 배경을 가질 수 있습니다.
     </p>
       </li>
       <li><strong>협업하라</strong>
-	<p>데비안은 크고 복잡한 프로젝트입니다; 데비안 안에는 언제가 배울 게 있습니다.
+	<p>
+데비안은 크고 복잡한 프로젝트입니다; 데비안에는 언제나 더 배울 게 있습니다.
 필요할 때는 도움을 요청하는 게 좋습니다.
-비슷하게, 도움 제공자는 데비안 향상의 공동 목표의 문맥에서 보여야 합니다.
+비슷하게, 도움 제공자는 데비안 향상의 공동 목표의 문맥에서 보일 겁니다.
     </p><p>
-    When you make something for the benefit of the project, be willing to
-    explain to others how it works, so that they can build on your work to
-    make it even better.
+여러분이 프로젝트의 이익을 위해 무언가를 만들 때, 다른 사람들에게 그것이 어떻게 작동하는지 기꺼이 설명해서, 그들이 여러분의 일을 더 좋게 만들 수 있도록 하세요.
 	</p>
       </li>
       <li><strong>간결하도록 시도하라</strong>
 	<p>
-    Keep in mind that what you write once will be read by hundreds of
-    persons. Writing a short email means people can understand the
-    conversation as efficiently as possible. When a long explanation is
-    necessary, consider adding a summary.
+여러분이 한번 쓴 것을 여러 사람이 읽을 것을 생각하세요.
+짧은 이메일을 쓰는 것은 사람들이 대화를 가능한 효율적으로 이해한다는 것을 뜻합니다.
+긴 설명이 필요하면, 요약을 더하는 게 좋습니다.
     </p><p>
-    Try to bring new arguments to a conversation so that each mail adds
-    something unique to the thread, keeping in mind that the rest of the
-    thread still contains the other messages with arguments that have
-    already been made.
+대화에 새 논쟁을 가져와서 각 메일이 쓰레드에 유일한 것을 더하게 해서, 쓰레드의 나머지는 여전히
+이미 만들어진 논쟁을 가진 다른 메시지를 포함하게 하는 것을 마음에 두세요.
     </p><p>
-    Try to stay on topic, especially in discussions that are already fairly
-    large.
+주제를 벗어나지 않도록, 특히 이미 상당히 큰 논의를 할 때, 노력하세요.
 	</p>
       </li>
       <li><strong>열어라</strong>
