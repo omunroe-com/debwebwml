@@ -1,6 +1,6 @@
 #use wml::debian::template title="Distribución <q>testing</q> de Debian" BARETITLE=true
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="5dcbf9e64899d211d3a35ee71805518879d0a6d2"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9"
 
 <p>Si desea información básica, orientada al usuario, sobre la
 distribución <q>en pruebas</q> o <q>testing</q>, diríjase a
@@ -73,7 +73,7 @@ constituye la salida completa y sin tratar de los scripts de
 <h2><a name="faq">Preguntas frecuentes</a></h2>
 
 # Nota a los traductores: estos dos primeros elementos son casi los mismos que
-# https://www.debian.org/doc/manuals/developers-reference/pkgs#faq
+# https://www.debian.org/doc/manuals/developers-reference/pkgs.html#faq
 
 <h3><q>¿Qué son los fallos críticos, y cómo se cuentan?</q></h3>
 
@@ -150,7 +150,7 @@ salida textual</a>
 (<a href="https://release.debian.org/britney/update_output.txt.gz">comprimida con gzip</a>):
 da pistas (aunque un poco breves) sobre los paquetes que podrían quedar
 malparados al añadir un candidato válido a <q>testing</q> (vea el <a
-href="$(DOC)/manuals/developers-reference/pkgs#details">\
+href="$(DOC)/manuals/developers-reference/pkgs.html#details">\
 Manual de referencia del Desarrollador de Debian para más detalles</a>).
 </p>
 
