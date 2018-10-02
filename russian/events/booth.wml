@@ -1,5 +1,5 @@
 #use wml::debian::template title="Организация выставочного стенда"
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="2e3c0166e74b21c80857525f489ba5387969cc82" maintainer="Lev Lamberov"
 
 <p>Наиболее важной задачей членов проекта при представлении Проекта Debian
 на выставках является организация выставочного стенда Debian. Это
@@ -27,16 +27,23 @@ href="checklist">обходным списком</a>.
 
 <h3><a name="ml">Списки рассылки</a></h3>
 
-<p>Проект Debian предоставляет два списка рассылки для координации
+<p>Проект Debian предоставляет списки рассылки для координации
 участия Debian в различных событиях:
 
 <ul>
+  <li> <a href="https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/debian-br-eventos">debian-br-eventos</a>,
+       посвящён событиям в Бразилии.
+  <li> <a href="https://lists.debian.org/debian-dug-in/">debian-dug-in</a>,
+       посвящён событиям в Индии.
   <li> <a href="https://lists.debian.org/debian-events-eu/">debian-events-eu</a>,
        посвящён Европе и европейским событиям.
+  <li> <a href="https://lists.debian.org/debian-events-ha/">debian-events-ha</a>,
+       посвящён событиям в Латинской Америке.
   <li> <a href="https://lists.debian.org/debian-events-na/">debian-events-na</a>,
        посвящён Северной Америке и событиям на этом континенте.
+  <li> <a href="https://lists.debian.org/debian-events-nl/">debian-events-nl</a>,
+       посвящён событиям в Нидерландах.
 </ul>
 
 <p>Чтобы подписаться на тот или другой список рассылки, обратитесь к нашей <a
 href="$(HOME)/MailingLists/subscribe">странице подписки</a>.
-

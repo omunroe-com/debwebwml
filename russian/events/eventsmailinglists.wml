@@ -1,5 +1,5 @@
 #use wml::debian::template title="Списки рассылки о событиях Debian" BARETITLE=true
-#use wml::debian::translation-check translation="f238c0163db7cedc356d4ed6d1c3128c22cc6e95" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="4dc033d27b891b23c1d0de760b0ebe7924e13661" maintainer="Lev Lamberov"
 
 <p>Существует большое количество списков рассылки, в которых обсуждаются события, касающиеся
 Debian. Эти списки рассылки обычно представляют собой отдельные списки рассылки по географическим регионам. Следующий
@@ -11,6 +11,7 @@ Debian. Эти списки рассылки обычно представляю
   <li> <a href="mailto:debian-dug-by@lists.debian.org">Беларусь</a>, также
   отправляйте сообщения в <a
   href="mailto:debian-events-eu@lists.debian.org">европейский список</a>
+  <li> <a href="mailto:debian-br-eventos@alioth-lists.debian.net">Бразилия</a>
   <li> <a href="mailto:debian-events-nl@lists.debian.org">Нидерланды</a>
   <li> <a href="mailto:debian-events-eu@lists.debian.org">Европа (ЕС и другие
   страны)</a>
@@ -28,4 +29,3 @@ Debian. Эти списки рассылки обычно представляю
 сообщества, занимающиеся событиями и их организацией. Не стесняйтесь обращаться
 к <a href="mailto:events@debian.org">команде событий</a>. Мы попытаемся
 вам помочь.</p>
-
