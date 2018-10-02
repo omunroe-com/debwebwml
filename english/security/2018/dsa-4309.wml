@@ -1,0 +1,28 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Google's OSS-Fuzz revealed an exploitable bug in the gmp plugin caused by the
+patch that fixes <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
+CVE-2018-16151</a> and <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
+CVE-2018-16151</a> (DSA-4305-1).</p>
+
+<p>An attacker could trigger it using crafted certificates with RSA keys with
+very small moduli. Verifying signatures with such keys would cause an integer
+underflow and subsequent heap buffer overflow resulting in a crash of the
+daemon. While arbitrary code execution is not completely ruled out because of
+the heap buffer overflow, due to the form of the data written to the buffer
+it seems difficult to actually exploit it in such a way.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 5.5.1-4+deb9u4.</p>
+
+<p>We recommend that you upgrade your strongswan packages.</p>
+
+<p>For the detailed security status of strongswan please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/strongswan">\
+https://security-tracker.debian.org/tracker/strongswan</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4309.data"
+# $Id: $

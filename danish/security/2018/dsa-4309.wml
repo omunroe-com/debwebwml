@@ -1,0 +1,31 @@
+#use wml::debian::translation-check translation="ba0ee6a16998af689e05daf7f66bf2c36ac0b5d3" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Googles OSS-Fuzz afslørede en udnytbar fejl i plugin'en gmp, forårsaget af 
+patch'en som retter 
+<a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
+CVE-2018-16151</a> og 
+<a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
+CVE-2018-16151</a> (DSA-4305-1).</p>
+
+<p>En angriber kunne udløse fejlen ved at anvende fabrikerede certifikater med 
+RSA-nøgler med meget små moduli.  Verifikation af signaturer med sådanne nøgler 
+kunne forårsage et heltalsunderløb og efterfølgende heapbufferoverløb, 
+medførende et nedbrud i dæmonen.  Om end vilkårlig udførelse af kode ikke er 
+helt udelukket på grund af heapbufferoverløbet, på grund af den måde data 
+skrives til bufferen, lader det til at være svært faktisk at udnytte fejlen på 
+en sådan måde.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 5.5.1-4+deb9u4.</p>
+
+<p>Vi anbefaler at du opgraderer dine strongswan-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende strongswan, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/strongswan">\
+https://security-tracker.debian.org/tracker/strongswan</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4309.data"

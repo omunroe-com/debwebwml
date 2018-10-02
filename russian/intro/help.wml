@@ -1,5 +1,5 @@
 #use wml::debian::template title="Как помочь Debian?"
-#use wml::debian::translation-check translation="b6a692082df0aab1ebf7367572b1bfd4d1b672e7" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="ca00956a4a840ec92be177ba4de6dc4bb5498133" maintainer="Lev Lamberov"
 
 ### TRANSLATORS: Revision 1.27 is adding some words to the popcon submission item,
 ### and Revision 1.28 is reorganization of items (no change in the description of
@@ -45,6 +45,7 @@
 в программах, используя <a href="https://bugs.debian.org/">систему отслеживания ошибок</a>.
 Просмотрите ошибки для пакетов, которые вы используете, и пришлите дополнительную информацию,
 если вам удастся подтвердить эти ошибки.</li>
+<li>Вы можете помочь с <a href="https://wiki.debian.org/Teams/DebianCD/ReleaseTesting">тестированием программы установки и «живых» ISO-образов</a>.
 </ul>
 
 <h3>Поддержка пользователей</h3>
@@ -90,7 +91,7 @@
 <h3>Мероприятия</h3>
 <ul>
 <li>Вы можете <em>популяризировать</em> Debian, участвуя в развитии
-<a href="$(HOME)/devel/website/">web-сайта</a>, помогая с организацией
+<a href="$(HOME)/devel/website/">веб-сайта</a>, помогая с организацией
 <a href="$(HOME)/events/">мероприятий</a> по всему миру.</li>
 <li>Помогите продвижению Debian, рассказывая о нём и демонстрируя другим людям.</li>
 <li>

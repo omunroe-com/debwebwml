@@ -1,0 +1,156 @@
+#use wml::debian::translation-check translation="9b0f24167bab7ac047fcd437a31fd6c303f0f804" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder er opdaget i Linux-kernen, hvilke kunne føre til en 
+rettighedsforøgelse, lammelsesangreb eller informationslækager.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6554">CVE-2018-6554</a>
+
+    <p>Der blev opdaget en hukommelseslækage i funktionen irda_bind i
+    undersystemet irda.  En lokal bruger kunne drage nytte af fejlen til at 
+    forårsage et lammelsesangreb (hukommelsesforbrug).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6555">CVE-2018-6555</a>
+
+    <p>En fejl blev opdaget i funktionen irda_setsockopt i undersystemet irda, 
+    hvilken gjorde det muligt for en lokal bruger at forårsage et 
+    lammelsesangreb (anvendelse efter frigivelse samt systemnedbrud).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7755">CVE-2018-7755</a>
+
+    <p>Brian Belleville opdagede en fejl i funktionen fd_locked_ioctl i 
+    floppydriveren i Linux-kernen.  Floppydriveren kopierede en kernepointer til 
+    brugerhukommelse, som svar på en FDGETPRM-ioctl.  En lokal bruger med adgang 
+    til et floppydrev, kunne drage nytte af fejlen til at opdage placeringen af 
+    kernekode og -data.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-9363">CVE-2018-9363</a>
+
+    <p>Man opdagede at implementeringenaf Bluetooth HIDP ikke på korrekt vis 
+    kontrollerede længden på modtagne rapportmeddelelser.  En forbundet (paired) 
+    HIDP-enhed kunne udnytte fejlen til at forårsage et bufferoverløb, førende 
+    til lammelsesangreb (hukommelseskorruption eller nedbrud) eller potentielt 
+    til fjernudførelse af kode.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-9516">CVE-2018-9516</a>
+
+    <p>Man opdagede at HID-eventsinterfacet i debugfs ikke på korrekt vis 
+    begrænsede længden af kopier til brugerbufferre.  En lokal bruger med 
+    adgang til disse filer, kunne udnytte fejlen til at forårsage et 
+    lammelsesangreb (hukommelseskorruption eller nedbrud) eller muligvis til 
+    rettighedsforøgelse.  Dog er debugfs som standard kun tilgængelig for 
+    rootbrugeren.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10902">CVE-2018-10902</a>
+
+    <p>Man opdagede at kernedriveren rawmidi ikke beskyttede mod samtidig 
+    adgang, hvilket førte til en dobbelt realloc-fejl (dobbelt frigivelse).  En 
+    lokal angriber kunne drage nytte af problemet til 
+    rettighedsforøgelse.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10938">CVE-2018-10938</a>
+
+    <p>Yves Younan fra Cisco rapporterede at Cipso IPv4-modulet ikke på korrekt 
+    vis kontrollede længden på IPv4-options.  På skræddersyede kerner med 
+    CONFIG_NETLABEL aktiveret, kunne en fjernangriber udnytte fejlen til at 
+    forårsage et lammelsesangreb (hængende system).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-13099">CVE-2018-13099</a>
+
+    <p>Wen Xu fra SSLab ved Gatech rapporterede om en fejl i forbindelse med 
+    anvendelse efter frigivelse i implementeringen af F2FS.  En angriber som er 
+    i stand til at mounte en fabrikeret F2FS-volume, kunne udnytte fejlen til 
+    at forårsage et lammelsesangreb (nedbrud eller hukommelseskorruption) eller 
+    muligvis til rettighedsforøgelse.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14609">CVE-2018-14609</a>
+
+    <p>Wen Xu fra SSLab ved Gatech rapporterede om en potentiel 
+    nullpointerdereference i implementeringen af F2FS.  En angriber som er i 
+    stand til at mounte en fabrikeret F2FS-volume, kunne udnytte fejlen til at 
+    forårsage et lammelsesangreb (nedbrud).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14617">CVE-2018-14617</a>
+
+    <p>Wen Xu fra SSLab ved Gatech rapporterede et en potentiel 
+    nullpointerdereference i implementeringen af HFS+.  En angriber som er i 
+    stand til at mounte en fabrikeret HFS+-volume, kunne udnytte fejlen til at 
+    forårsage et lammelsesangreb (nedbrud).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14633">CVE-2018-14633</a>
+
+    <p>Vincent Pelletier opdagede en stakbaseret bufferoverløbsfejl i funktionen 
+    chap_server_compute_md5() i iSCSI-målkoden.  En uautentificeret 
+    fjernangriber kunne drage nytte af fejlen til at forårsage et 
+    lammelsesangreb eller muligvis få ikke-autoriseret adgang til data 
+    eksporteret af et iSCSI-mål.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14678">CVE-2018-14678</a>
+
+    <p>M. Vefa Bicakci og Andy Lutomirski opdagede en fejl i kernens exitkode, 
+    som anvendes på amd64-systemer, der kører som Xen PV-gæster.  En lokal 
+    bruger kunne udnytte fejlen til at forårsage et lammelsesangreb 
+    (nedbrud).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14734">CVE-2018-14734</a>
+
+    <p>En fejl i forbindelse med anvendelse efter frigivelse, blev opdaget i 
+    kommunikationsmanageren InfiniBand.  En lokal bruger kunne udnytte fejlen 
+    til at forårsage et lammelsesangreb (nedbrud eller hukommelseskorruption) 
+    eller muligvis til rettighedsforøgelse.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15572">CVE-2018-15572</a>
+
+    <p>Esmaiel Mohammadian Koruyeh, Khaled Khasawneh, Chengyu Song og Nael 
+    Abu-Ghazaleh fra University of California, Riverside, rapporterede om en 
+    variant af Spectre variant 2, kaldet SpectreRSB.  En lokal bruger kunne 
+    være i stand til at læse følsomme oplysninger fra processer ejet af andre 
+    brugere.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15594">CVE-2018-15594</a>
+
+    <p>Nadav Amit rapporterede at nogle indirekte funktionskalds anvendt i 
+    paravirtualiserede gæster, var sårbare over for Spectre variant 2.  En 
+    lokal bruger kunne være i stand til at anvende fejlen til at læse 
+    følsomme oplysninger fra kernen.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16276">CVE-2018-16276</a>
+
+    <p>Jann Horn opdagede at yurex-driveren ikke på korrekt vis begrænsede 
+    længden på kopier til brugerbuffere.  En lokal bruger med adgang til en 
+    yurex-enhedsnode, kunne udnytte fejlen til at forårsage et lammelsesangreb
+    (hukommelseskorruption eller nedbrud) eller muligvis til 
+    rettighedsforøgelse.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16658">CVE-2018-16658</a>
+
+    <p>Man opdagede at cdrom-driveren ikke på korrekt vis validerede 
+    parameteret til ioctl'en CDROM_DRIVE_STATUS.  En bruger med adgang til et 
+    cdromdrev kunne udnytte fejlen til at læse følsomme  oplysninger fra 
+    kernen eller til at forårsage et lammelsesangreb (nedbrud).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17182">CVE-2018-17182</a>
+
+    <p>Jann Horn opdagede at funktionen vmacache_flush_all fejlhåndterede 
+    sekvenstaloverløb.  En lokal bruger kunne drage nytte af fejlen til at 
+    udløse en anvendelse efter frigivelse, medførende et lammelsesangreb 
+    (nedbrud eller hukommelseskorruption) eller til 
+    rettighedsforøgelse.</p></li>
+
+</ul>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 4.9.110-3+deb9u5.</p>
+
+<p>Vi anbefaler at du opgraderer dine linux-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende linux, se
+dens sikkerhedssporingssidede på:
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4308.data"

@@ -45,7 +45,7 @@ presentations about Debian</a>.</p>
   <li> <a href="checklist">Checklist</a> for a booth</li>
   <li> <a href="https://wiki.debian.org/DebianEvents">Debian Wiki's event
     page</a></li>
-  <li> <a href="material">Material and Merchandising</a> for a booth
+  <li> <a href="material">Material and Merchandising</a> for a booth</li>
   <li> <a href="keysigning">Keysigning</a></li>
   <li> <a href="https://wiki.debian.org/Presentations">Presentations about
     Debian</a></li>
@@ -64,4 +64,3 @@ href="https://wiki.debian.org/DebianEvents">wiki</a> can be viewed using the
 following pages:
 
 <:= get_past_event_list(); :>
-
