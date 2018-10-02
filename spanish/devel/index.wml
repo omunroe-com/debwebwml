@@ -1,5 +1,5 @@
 #use wml::debian::template title="Rincón de los desarrolladores de Debian" BARETITLE="true"
-#use wml::debian::translation-check translation="f691e86a6d9ea660823de7f7e79f27da46f08991" maintainer="Fernando C. Estrada"
+#use wml::debian::translation-check translation="b3ac1ee9b4da3869a094fbe8b2fac9bdef4ac0e1" maintainer="Fernando C. Estrada"
 
 <p>La información de esta página, a pesar de ser pública, es
 principalmente de interés para los desarrolladores de Debian.</p>
@@ -387,7 +387,7 @@ principalmente de interés para los desarrolladores de Debian.</p>
           <li><a href="debian-accessibility/">Proyecto Debian Accesible</a></li>
           <li><a href="https://wiki.debian.org/DebianGis">Proyecto Debian GIS</a></li>
           <li><a href="https://wiki.debian.org/DebianScience">Debian Científica</a></li>
-#          <li><a href="https://debichem.alioth.debian.org/">Proyecto DebiChem</a></li>
+          <li><a href="https://salsa.debian.org/debichem-team/team/debichem/">Proyecto DebiChem</a></li>
 	</ul>
 
   </div>
