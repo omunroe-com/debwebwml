@@ -1,0 +1,28 @@
+#use wml::debian::translation-check translation="ba0ee6a16998af689e05daf7f66bf2c36ac0b5d3" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Сотрудники Google из проекта OSS-Fuzz обнаружили уязвимость в дополнении gmp, которая появилась из-за
+заплаты, исправляющей <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
+CVE-2018-16151</a> и <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
+CVE-2018-16151</a> (DSA-4305-1).</p>
+
+<p>Злоумышленник может вызвать эту ошибку, используя специально сформированные сертификаты с ключами RSA,
+имеющими очень маленькие показатели. Проверка подписей с такими ключами вызывает отрицательное переполнение
+целых чисел и последующее переполнение буфера, приводящее к аварийной остановке
+службы. Хотя выполнение произвольного кода из-за переполнения буфера не может быть
+полностью исключено, уязвимость, как кажется, весьма сложно для этого использовать
+из-за формы записываемых в буфер данных.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 5.5.1-4+deb9u4.</p>
+
+<p>Рекомендуется обновить пакеты strongswan.</p>
+
+<p>С подробным статусом поддержки безопасности strongswan можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/strongswan">\
+https://security-tracker.debian.org/tracker/strongswan</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4309.data"
