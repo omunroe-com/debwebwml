@@ -82,9 +82,7 @@
      <li>데비안은 <a
      href="$(HOME)/intro/diversity">다양한
      서술</a>이 있습니다.</li>
-     <li><a href="https://people.debian.org/~enrico/dcg/">Debian Community
-     Guidelines</a> by Enrico Zini contain some advice on how to communicate
-     effectively.</li>
+     <li>Enrico Zini가 쓴 <a href="https://people.debian.org/~enrico/dcg/">데비안 공동체 지침</a>에는 어떻게 효과적으로 소통하는지 들어있습니다.</li>
      <li><a
      href="$(HOME)/MailingLists/#codeofconduct">메일링리스트
 행동강령</a>은 특히 데비안 메일링 리스트에 조언에 쓸만합니다.</li>
