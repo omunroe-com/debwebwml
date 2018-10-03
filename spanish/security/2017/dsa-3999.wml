@@ -12,7 +12,7 @@ contra los algoritmos de cifrado usados en WPA1 y en WPA2. </p>
 
 <p>El artículo del investigador contiene más información: <a
 href="https://www.krackattacks.com/#paper">Key Reinstallation Attacks:
-Forcing Nonce Reuse in WPA2</a> («Ataques de reinstalación de claves: forzando la reutilización del valor de un solo uso en WPA2»).</p>
+Forcing Nonce Reuse in WPA2</a> («Ataques de reinstalación de claves: forzar la reutilización del valor de un solo uso en WPA2»).</p>
 
 <ul>
 
@@ -26,7 +26,7 @@ Forcing Nonce Reuse in WPA2</a> («Ataques de reinstalación de claves: forzando
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-13079">CVE-2017-13079</a>:
 
-    <p>Reinstalación de la clave de grupo de integridad en el «handshake»
+    <p>Reinstalación de la clave «integrity group» en el «handshake»
     de cuatro vías.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-13080">CVE-2017-13080</a>:
@@ -35,7 +35,7 @@ Forcing Nonce Reuse in WPA2</a> («Ataques de reinstalación de claves: forzando
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-13081">CVE-2017-13081</a>:
 
-    <p>Reinstalación de la clave de grupo de integridad en el «handshake»
+    <p>Reinstalación de la clave «integrity group» en el «handshake»
     de la clave de grupo.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-13082">CVE-2017-13082</a>:
@@ -55,7 +55,7 @@ Forcing Nonce Reuse in WPA2</a> («Ataques de reinstalación de claves: forzando
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-13088">CVE-2017-13088</a>:
 
-    <p>Reinstalación de la clave de grupo de integridad (IGTK) durante el procesamiento de
+    <p>Reinstalación de la clave «integrity group» (IGTK) durante el procesamiento de
     una trama «Wireless Network Management (WNM) Sleep Mode Response».</p></li>
 
 </ul>
