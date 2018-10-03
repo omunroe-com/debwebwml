@@ -19,7 +19,7 @@
 	<p>
 데비안 규모의 프로젝트에는 필연적으로 여러분이 동의하지 않을 사람이 있거나, 협동하기 어려움을 발견할 것입니다.
 그래도 그것을 받아들이고, 존중하세요.
-불일치는 가난한 행동 또는 개인 공격에 대한 변명의 대상이 아니며,
+불일치는 모자란 행동 또는 개인 공격에 대한 변명의 대상이 아니며,
 사람들이 위협을 느끼는 공동체는 건강한 공동체가 아닙니다.
 	</p>
       </li>
@@ -62,23 +62,13 @@
 	</p>
       </li>
       <li><strong>문제가 있을 때</strong>
-      <p>While this code of conduct should be adhered to by participants, we
-      recognize that sometimes people may have a bad day, or be unaware of
-      some of the guidelines in this code of conduct. When that happens, you may
-      reply to them and point out this code of conduct. Such messages may be
-      in public or in private, whatever is most appropriate. However,
-      regardless of whether the message is public or not, it should still
-      adhere to the relevant parts of this code of conduct; in particular, it
-      should not be abusive or disrespectful. Assume good faith; it is more
-      likely that participants are unaware of their bad behaviour than that
-      they intentionally try to degrade the quality of the discussion.
-      </p><p>
-      Serious or persistent offenders will be temporarily or permanently banned
-      from communicating through Debian's systems. Complaints should be made
-      (in private) to the administrators of the Debian communication forum in
-      question. To find contact information for these administrators, please
-      see <a href="$(HOME)/intro/organization">the page on Debian's
-      organizational structure</a>.
+      <p>이 행동강령은 참가자들이 지켜야 하지만,
+때때로 사람들이 나쁜 날을 보내거나, 이 행동강령의 일부를 모를 수 있음을 인정합니다.
+그런 일이 생기면, 그들에게 응답하고 이 행동강령을 가리키세요.
+그런 메시지는 공개 또는 비공개일 수 있지만, 행동강령을 지켜야 합니다.
+특히 모욕적이거나 무례하지 않아야 합니다. 선의로 생각하세요. 참가자들이 토론의 질을 떨어뜨리는 것보다 나쁜 행동을 모르는 경우가 많습니다.
+      </p><p>심각한 또는 지속적인 위반자는 일시적 또는 영구적으로 데비안의 시스템을 통한 의사 소통이 금지됩니다. 불평은 (개인적으로) 문제의 데비안 포럼 관리자에게 해야합니다. 연락처 정보를 찾으려면
+<a href="$(HOME)/intro/organization">데비안 조직 구조 페이지</a>를 보세요.
       </p>
       </li>
     </ol>
