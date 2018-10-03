@@ -1,4 +1,4 @@
-#use wml::debian::template title="데비안 행동 강령" BARETITLE=true
+#use wml::debian::template title="데비안 행동강령" BARETITLE=true
 #use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12" maintainer="Sebul"
 
 {#meta#:
@@ -7,11 +7,11 @@
 
 <p>버전 1.0이 2014년 4월 28일에 비준되었습니다.</p>
 
-<p>데비안 프로젝트, 데비안 시스템의 제작자들은 참가자를 위하여
+<p>데비안 프로젝트, 데비안 시스템의 제작자들은 참가자를 위해
 메일링 리스트, IRC 채널, 그리고 프로젝트 안의  다른 소통 모드에 대한 행동강령을 채택했습니다.</p>
 
 <hr />
-    <h2>데비안 <q>행동 강령</q></h2>
+    <h2>데비안 <q>행동강령</q></h2>
 
     <ol>
       <li>
@@ -28,7 +28,7 @@
 데비안 기여자는 여러분의 길과 다를 수 있는 <a href="$(HOME)/intro/free">자유</a> 운영체제 공동의 목표에 도달하기 위한 많은 길을 갖고 있습니다.
 다른 사람들이 이 목표를 향해 일한다고 생각하세요.
 	</p><p>
-많은 기여자들이 영어가 모국어가 아니거나 다른 문화 배경을 가질 수 있습니다.
+많은 기여자가 영어가 모국어가 아니거나 다른 문화 배경을 가질 수 있습니다.
     </p>
       </li>
       <li><strong>협업하라</strong>
@@ -52,19 +52,13 @@
 주제를 벗어나지 않도록, 특히 이미 상당히 큰 논의를 할 때, 노력하세요.
 	</p>
       </li>
-      <li><strong>열어라</strong>
+      <li><strong>공개하라</strong>
 	<p>
-    Most ways of communication used within Debian allow for public and
-    private communication. As per paragraph three of the <a
-    href="$(HOME)/social_contract">social contract</a>, you should preferably
-    use public methods of communication for Debian-related messages, unless
-    posting something sensitive.
+데비안 내에서 사용되는 대부분의 소통 방법은 공개 및 비공개 소통을 허용합니다. <a
+    href="$(HOME)/social_contract">사회계약</a>의 3항에 따라, 민감한 내용을 게시하지 않는 한, 데비안 관련 메시지에 대해 공개 소통 방법을 사용하는 게 좋습니다.
     </p><p>
-    This applies to messages for help or Debian-related support, too; not
-    only is a public support request much more likely to result in an answer
-    to your question, it also makes sure that any inadvertent mistakes made
-    by people answering your question will be more easily detected and
-    corrected.
+이는 도움을 위한 메시지 또는 데비안 관련 지원에도 적용됩니다. 
+공공 지원 요청이 질문에 대한 대답을 훨씬 더 많이 제공할 뿐 아니라, 여러분의 질문에 대답하는 사람들이 저지른 부주의한 실수를 더 쉽게 감지하고 고칠 수 있게 합니다.
 	</p>
       </li>
       <li><strong>문제가 있을 때</strong>
@@ -91,7 +85,7 @@
 <hr />
 <h2 id="guidelines">더 읽기</h2>
      <p>
-이 절의 어떤 링크는 이 행동강령의 부분이 아니며, 데비안에서 권위가 있지 않습니다.
+이 절의 어떤 링크는 이 행동강령의 부분이 아니며, 데비안에서 권위가 없습니다.
 그러나, 그것들은 모두 우리 소통 채널에 쓸만한 정보를 포함합니다.
      </p>
      <ul>
