@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml\n"
-"PO-Revision-Date: 2018-10-03 13:21+0900\n"
+"PO-Revision-Date: 2018-10-03 13:31+0900\n"
 "Last-Translator: Sebul <sebuls@gmail.com>\n"
 "Language-Team: debian-l10n-korean <debian-l10n-korean@lists.debian.org>\n"
 "Language: ko\n"
@@ -83,7 +83,7 @@ msgstr "데비안 보안 권고"
 
 #: ../../english/template/debian/security.wml:47
 msgid "Date Reported"
-msgstr "보고 일시"
+msgstr "보고일"
 
 #: ../../english/template/debian/security.wml:50
 msgid "Affected Packages"
