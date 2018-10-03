@@ -1,11 +1,11 @@
 #use wml::debian::template title="Comment pouvez-vous aider Debian&nbsp;?"
-#use wml::debian::translation-check translation="b6a692082df0aab1ebf7367572b1bfd4d1b672e7" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="ca00956a4a840ec92be177ba4de6dc4bb5498133" maintainer="Jean-Paul Guillonneau"
 
 # Translators:
 # Frédéric Bothamy, 2007.
 # Simon Paillard, 2010.
 # David Prévot, 2012-2014.
-# Jean-Paul Guillonneau, 2017
+# Jean-Paul Guillonneau, 2017-18
 
 <p>Si vous envisagez d'aider au développement de Debian, il
 existe plusieurs domaines dans lesquels les utilisateurs expérimentés et
@@ -62,7 +62,8 @@ suivi des bogues</a>. Vous pouvez également parcourir la liste des
 bogues associés aux paquets que vous utilisez et fournir des
 informations complémentaires, si vous pouvez reproduire les problèmes
 signalés dans ceux-ci.</li>
-</ul>
+<li>Vous pouvez aider en <a href="https://wiki.debian.org/Teams/DebianCD/ReleaseTesting">
+testant les images ISO de l’installateur et celles autonomes</a>.</ul>
 
 <h3>Aide aux utilisateurs</h3>
 <ul>
