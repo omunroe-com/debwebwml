@@ -107,7 +107,7 @@ mémoire) ou une possible augmentation de droits.</p></li>
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15572">CVE-2018-15572</a>
 
 <p>Esmaiel Mohammadian Koruyeh, Khaled Khasawneh, Chengyu Song et Nael
-Abu-Ghazaleh de l'university de Californie, Riverside, ont signalé une
+Abu-Ghazaleh de l'université de Californie, Riverside, ont signalé une
 variante de Spectre variante 2, nommée SpectreRSB. Un utilisateur local
 peut être capable d'utiliser cela pour lire des informations sensibles
 à partir de processus appartenant à d'autres utilisateurs.</p></li>
