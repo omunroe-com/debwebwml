@@ -22,8 +22,8 @@
 />
 <ifneq "<current_initial_release>" "<current_release>"
   "초기 버전 <current_initial_release> 은
-   <current_initial_release_date> 나왔고 그 최신
-  업데이트, 버전 <current_release>은, <current_release_date> 에 나왔습니다."
+   <current_initial_release_date> 나왔고, 그 최신
+  업데이트 버전 <current_release>은 <current_release_date> 나왔습니다."
 />
 
 </p>
@@ -73,7 +73,7 @@
 
 <ul>
 
-  <li><a href="<current_testing_name>/">데비안 다음 배포본 코드 이름은 
+  <li><a href="<current_testing_name>/">데비안 다음 배포본 코드 이름 
     <q><current_testing_name></q></a>
        &mdash; 배포 날짜 정해지지 않음
       </li>
