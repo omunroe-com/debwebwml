@@ -138,7 +138,7 @@ msgstr "없음"
 
 #: ../../english/template/debian/common_translation.wml:76
 msgid "Go"
-msgstr ""
+msgstr "가기"
 
 #: ../../english/template/debian/common_translation.wml:79
 msgid "worldwide"
@@ -150,7 +150,7 @@ msgstr "사이트 맵"
 
 #: ../../english/template/debian/common_translation.wml:85
 msgid "Miscellaneous"
-msgstr "기타"
+msgstr "여러가지"
 
 #: ../../english/template/debian/common_translation.wml:88
 #: ../../english/template/debian/links.tags.wml:104
@@ -217,7 +217,7 @@ msgstr ""
 
 #: ../../english/template/debian/footer.wml:110
 msgid "Last Modified"
-msgstr "마지막 수정일"
+msgstr "마지막 바꿈"
 
 #: ../../english/template/debian/footer.wml:113
 msgid "Copyright"
