@@ -1,5 +1,5 @@
 #use wml::debian::template title="Événements importants liés à Debian" BARETITLE=true
-#use wml::debian::translation-check translation="638fe58045b37899bd09abeb6939ae254187e89e" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="48cf7bb0c1138dc81a74808a16f9c95692fae2c2" maintainer="Thomas Vincent"
 
 # Translators:
 # Martin Quinson
@@ -13,9 +13,9 @@ Debian est, a été ou sera partie prenante.</p>
 liste ci-dessous, merci de contacter directement la personne indiquée
 comme coordinateur Debian de cet événement particulier.</p>
 
-<p>Si vous souhaitez inviter Debian à un nouvel événement, merci de nous
-envoyer un courriel en anglais à la <a href="eventsmailinglists">liste de diffusion
-correspondante</a>.</p>
+<p>Si vous souhaitez inviter Debian à un nouvel événement, merci d'envoyer
+un courriel en anglais à la <a href="eventsmailinglists">liste de diffusion
+géographique correspondante</a>.</p>
 
 <p>Si vous voulez aider à prendre en charge la présence de Debian à un événement,
 veuillez vérifier sur la page la plus appropriée de <a href="https://wiki.debian.org/DebianEvents">la
@@ -50,7 +50,7 @@ des présentations de Debian</a>.</p>
   <li> <a href="checklist">Points à vérifier avant un stand</a></li>
   <li> <a href="https://wiki.debian.org/DebianEvents">Page des événements du
     wiki Debian</a></li>
-  <li> <a href="material">Matériel et marchandises</a></li>
+  <li> <a href="material">Matériel et marchandises pour un stand</a></li>
   <li> <a href="keysigning">Signature de clés</a></li>
   <li> <a href="https://wiki.debian.org/Presentations">Présentations de
     Debian</a></li>
@@ -61,8 +61,8 @@ des présentations de Debian</a>.</p>
   <li> <a href="booth">Organiser un stand de présentation</a> (redondant pour
        l'essentiel)</li>
   <li> <a href="requirements">Matériel nécessaire à un stand</a> (avec un peu
-       de chance, dépassé)</li>
-  <li> <a href="talks">Quelques présentations</a> (dépassé)</li>
+       de chance, page obsolète)</li>
+  <li> <a href="talks">Quelques présentations</a> (page obsolète)</li>
 </ul>
 
 <h3>Événements passés</h3>
