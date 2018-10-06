@@ -1,7 +1,7 @@
 #use wml::debian::translation-check translation="ba0ee6a16998af689e05daf7f66bf2c36ac0b5d3" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
-<p>Google's OSS-Fuzz avslöjade ett exploaterbar fel i insticksmodulen gmp som
+<p>Google's OSS-Fuzz avslöjade ett exploaterbart fel i insticksmodulen gmp som
 orsakas av patchen som rättar <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
 CVE-2018-16151</a> och <a href="https://security-tracker.debian.org/tracker/CVE-2018-16152">\
 CVE-2018-16152</a> (DSA-4305-1).</p>
