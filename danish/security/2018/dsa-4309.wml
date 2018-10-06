@@ -5,8 +5,8 @@
 patch'en som retter 
 <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
 CVE-2018-16151</a> og 
-<a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
-CVE-2018-16151</a> (DSA-4305-1).</p>
+<a href="https://security-tracker.debian.org/tracker/CVE-2018-16152">\
+CVE-2018-16152</a> (DSA-4305-1).</p>
 
 <p>En angriber kunne udløse fejlen ved at anvende fabrikerede certifikater med 
 RSA-nøgler med meget små moduli.  Verifikation af signaturer med sådanne nøgler 

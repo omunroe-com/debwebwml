@@ -2,8 +2,8 @@
 <define-tag moreinfo>
 <p>Google's OSS-Fuzz revealed an exploitable bug in the gmp plugin caused by the
 patch that fixes <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
-CVE-2018-16151</a> and <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
-CVE-2018-16151</a> (DSA-4305-1).</p>
+CVE-2018-16151</a> and <a href="https://security-tracker.debian.org/tracker/CVE-2018-16152">\
+CVE-2018-16152</a> (DSA-4305-1).</p>
 
 <p>An attacker could trigger it using crafted certificates with RSA keys with
 very small moduli. Verifying signatures with such keys would cause an integer

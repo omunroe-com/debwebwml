@@ -3,8 +3,8 @@
 <define-tag moreinfo>
 <p>Google's OSS-Fuzz avslöjade ett exploaterbar fel i insticksmodulen gmp som
 orsakas av patchen som rättar <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
-CVE-2018-16151</a> och <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
-CVE-2018-16151</a> (DSA-4305-1).</p>
+CVE-2018-16151</a> och <a href="https://security-tracker.debian.org/tracker/CVE-2018-16152">\
+CVE-2018-16152</a> (DSA-4305-1).</p>
 
 <p>En angripare kunde trigga det med hjälp av skapade certifikat med
 RSA-nycklar med väldigt liten moduli. Verifikation av signaturer med sådana

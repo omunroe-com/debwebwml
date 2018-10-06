@@ -3,8 +3,8 @@
 <define-tag moreinfo>
 <p>OSS-Fuzz de Google a révélé un bogue exploitable dans le greffon gmp,
 provoqué par le correctif qui traite <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
-CVE-2018-16151</a> et <a href="https://security-tracker.debian.org/tracker/CVE-2018-16151">\
-CVE-2018-16151</a> (DSA-4305-1).</p>
+CVE-2018-16151</a> et <a href="https://security-tracker.debian.org/tracker/CVE-2018-16152">\
+CVE-2018-16152</a> (DSA-4305-1).</p>
 
 <p>Un attaquant pourrait le déclencher en utilisant des certificats
 contrefaits avec des clés RSA avec un très faible modulo. La vérification
