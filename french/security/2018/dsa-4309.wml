@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="ba0ee6a16998af689e05daf7f66bf2c36ac0b5d3" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="a5b7ec0c0184954ce50a1cba985b7f783185f781" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>OSS-Fuzz de Google a révélé un bogue exploitable dans le greffon gmp,
