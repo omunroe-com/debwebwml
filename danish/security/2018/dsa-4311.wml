@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="109968bd2506826f7f4be00312b1c6161931ac20" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Joernchen fra Phenoelit opdagede at git, et hurtigt, skalerbart og 
+distribueret versionsstyringssystem, var ramt af en sårbarhed i forbindelse med 
+udførelse af vilkårlig kode gennem en særligt fremstillet .gitmodules-fil i et 
+projekt klonet med --recurse-submodules.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 1:2.11.0-3+deb9u4.</p>
+
+<p>Vi anbefaler at du opgraderer dine git-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende git, se
+dens sikkerhedssporingssidede på:
+<a href="https://security-tracker.debian.org/tracker/git">\
+https://security-tracker.debian.org/tracker/git</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4311.data"
