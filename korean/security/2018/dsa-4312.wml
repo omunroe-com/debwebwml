@@ -1,0 +1,33 @@
+#use wml::debian::translation-check translation="363d45e1c65ff9f20020695e9e1640af3ef72620" maintainer="Sebul"
+<define-tag description>보안 업데이트</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities were discovered in tinc, a Virtual Private
+Network (VPN) daemon. The Common Vulnerabilities and Exposures project
+identifies the following problems:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16738">CVE-2018-16738</a>
+
+    <p>Michael Yonli discovered a flaw in the implementation of the
+    authentication protocol that could allow a remote attacker to
+    establish an authenticated, one-way connection with another node.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16758">CVE-2018-16758</a>
+
+    <p>Michael Yonli discovered that a man-in-the-middle that has
+    intercepted a TCP connection might be able to disable encryption of
+    UDP packets sent by a node.</p></li>
+
+</ul>
+
+<p>안정배포(stretch)에서, 이 문제를 버전 version 1.0.31-1+deb9u1에서 고쳤습니다.</p>
+
+<p>tinc 패키지를 업그레이드 하는 게 좋습니다.</p>
+
+<p>tinc의 자세한 보안 상태는 보안 추적 페이지 참조하세요:
+<a href="https://security-tracker.debian.org/tracker/tinc">https://security-tracker.debian.org/tracker/tinc</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4312.data"
