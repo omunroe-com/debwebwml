@@ -14,7 +14,7 @@ leaks.</p>
     out of bounds memory accesses, potentially resulting in privilege
     escalation, denial of service, or information leaks.</p>
 
-    <p>https://xenbits.xen.org/xsa/advisory-270.html</p></li>
+    <p><url "https://xenbits.xen.org/xsa/advisory-270.html" /></p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-18021">CVE-2018-18021</a>
 
