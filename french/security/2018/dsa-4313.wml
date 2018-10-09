@@ -1,0 +1,45 @@
+#use wml::debian::translation-check translation="bd5c1d8de829ac651648a38f4c68957a9b664e9d" maintainer="Jean-Pierre Giraud"
+<define-tag description>Mise à jour de sécurité</define-tag>
+<define-tag moreinfo>
+<p>Plusieurs vulnérabilités ont été découvertes dans le noyau Linux qui
+pourrait conduire à une augmentation de droits, un déni de service ou des
+fuites d'informations.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15471">CVE-2018-15471</a> (XSA-270)
+
+<p>Felix Wilhelm de Google Project Zero a découvert un défaut dans le
+traitement du hachage dans le module xen-netback du noyau Linux. Une
+interface malveillante ou boguée peut entraîner le moteur (habituellement
+privilégié) à réaliser des accès mémoire hors limites, avec éventuellement
+pour conséquence une augmentation de droits, un déni de service ou des
+fuites d'informations.</p>
+
+<p><url "https://xenbits.xen.org/xsa/advisory-270.html" /></p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-18021">CVE-2018-18021</a>
+
+<p>Le sous-système KVM sur la plate-forme arm64 ne gère pas correctement
+l'ioctl KVM_SET_ON_REG. Un attaquant capable de créer des machines
+virtuelles basées sur KVM peut tirer avantage de ce défaut pour provoquer
+un déni de service (panique de l'hyperviseur) ou une augmentation de droits
+(redirection arbitraire du flux de contrôle de l'hyperviseur avec un
+contrôle complet du registre).</p></li>
+
+</ul>
+
+<p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
+dans la version 4.9.110-3+deb9u6.</p>
+
+<p>Nous vous recommandons de mettre à jour vos paquets linux.</p>
+
+<p>Pour disposer d'un état détaillé sur la sécurité de linux, veuillez
+consulter sa page de suivi de sécurité à l'adresse :
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a>.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4313.data"
+# $Id: $
