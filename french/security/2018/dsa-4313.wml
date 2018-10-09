@@ -2,7 +2,7 @@
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Plusieurs vulnérabilités ont été découvertes dans le noyau Linux qui
-pourrait conduire à une augmentation de droits, un déni de service ou des
+pourraient conduire à une augmentation de droits, un déni de service ou des
 fuites d'informations.</p>
 
 <ul>
