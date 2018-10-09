@@ -1,0 +1,36 @@
+#use wml::debian::translation-check translation="363d45e1c65ff9f20020695e9e1640af3ef72620" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В tinc, службе виртуальной частной сети (VPN), было обнаружено несколько
+уязвимостей. Проект Common Vulnerabilities and Exposures
+определяет следующие проблемы:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16738">CVE-2018-16738</a>
+
+    <p>Михаэль Йонли обнаружил уязвимость в реализации протокола
+    аутентификации, которая позволяет удалённому злоумышленнику установить
+    аутентифицированное одностороннее соединение с другой нодой.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16758">CVE-2018-16758</a>
+
+    <p>Михаэль Йонли обнаружил, что человек-в-середине, перехвативший
+    TCP-соединение, может отключить шифрование
+    UDP-пакетов, отправляемых нодой.</p></li>
+
+</ul>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1.0.31-1+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты tinc.</p>
+
+<p>С подробным статусом поддержки безопасности tinc можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/tinc">\
+https://security-tracker.debian.org/tracker/tinc</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4312.data"
