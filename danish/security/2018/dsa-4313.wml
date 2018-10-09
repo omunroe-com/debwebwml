@@ -1,0 +1,42 @@
+#use wml::debian::translation-check translation="bd5c1d8de829ac651648a38f4c68957a9b664e9d" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder er opdaget i Linux-kernen, hvilke kunne føre til en 
+rettighedsforøgelse, lammelsesangreb eller informationslækager.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15471">CVE-2018-15471</a> (XSA-270)
+
+    <p>Felix Wilhelm fra Google Project Zero opdagede en fejl i 
+    hashhåndteringen af Linux-kernemodulet xen-netback.  En ondsindet eller 
+    fejlfyldt frontend kunne medføre at (den normalt priviligerede) backend 
+    tilgør hukommelse uden for grænserne, potentielt førende til 
+    rettighedsforøgelse, lammelsesangreb eller informationslækager.</p>
+
+    <p><url "https://xenbits.xen.org/xsa/advisory-270.html" /></p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-18021">CVE-2018-18021</a>
+
+    <p>Man opdagede at KVM-undersystemet på arm64-platformen, ikke på korrekt 
+    vis håndterede ioctl'en KVM_SET_ON_REG.  En angriber, der er i stand til at 
+    oprette KVM-baserede virtuelle maskiner, kunne drage nytte af fejlen til 
+    lammelsesangreb (hypervisorpanik) eller rettighedsforøgelse (vilkårlig 
+    viderestilling af hypervisorens kontrolforløb med total 
+    registerkontrol).</p></li>
+
+</ul>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 4.9.110-3+deb9u6.</p>
+
+<p>Vi anbefaler at du opgraderer dine linux-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende linux, se
+dens sikkerhedssporingssidede på:
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4313.data"
