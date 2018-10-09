@@ -1,0 +1,43 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities have been discovered in the Linux kernel that
+may lead to a privilege escalation, denial of service or information
+leaks.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15471">CVE-2018-15471</a> (XSA-270)
+
+    <p>Felix Wilhelm of Google Project Zero discovered a flaw in the hash
+    handling of the xen-netback Linux kernel module. A malicious or
+    buggy frontend may cause the (usually privileged) backend to make
+    out of bounds memory accesses, potentially resulting in privilege
+    escalation, denial of service, or information leaks.</p>
+
+    <p>https://xenbits.xen.org/xsa/advisory-270.html</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-18021">CVE-2018-18021</a>
+
+    <p>It was discovered that the KVM subsystem on the arm64 platform does
+    not properly handle the KVM_SET_ON_REG ioctl. An attacker who can
+    create KVM based virtual machines can take advantage of this flaw
+    for denial of service (hypervisor panic) or privilege escalation
+    (arbitrarily redirect the hypervisor flow of control with full
+    register control).</p></li>
+
+</ul>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 4.9.110-3+deb9u6.</p>
+
+<p>We recommend that you upgrade your linux packages.</p>
+
+<p>For the detailed security status of linux please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/linux">\
+https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4313.data"
+# $Id: $
