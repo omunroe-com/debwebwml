@@ -1,12 +1,12 @@
 #use wml::debian::template title="Belangrijke evenementen m.b.t. Debian" BARETITLE=true
-#use wml::debian::translation-check translation="638fe58045b37899bd09abeb6939ae254187e89e"
+#use wml::debian::translation-check translation="48cf7bb0c1138dc81a74808a16f9c95692fae2c2"
 
 # Last Translation update by $Author$
 # Last Translation update at $Date$
 
 <p>De onderliggende pagina's van de
 <a href="https://wiki.debian.org/DebianEvents">Evenementenpagina
-op Debian Wiki</a> bevat een lijst van evenementen waar Debian
+op Debian Wiki</a> bevatten een lijst van evenementen waar Debian
 bij betrokken is/was/zal zijn.</p>
 
 <p>Als u wilt helpen met de aanwezigheid van Debian op een van de
@@ -54,7 +54,7 @@ van voordrachten over Debian</a>.</p>
 <ul>
   <li> <a href="checklist">Checklist</a> voor een stand</li>
   <li> <a href="https://wiki.debian.org/DebianEvents">Evenementenpagina
-   op Debian Wiki</a>
+   op Debian Wiki</a></li>
   <li> <a href="material">Materiaal en koopwaar</a> voor een stand</li>
   <li> <a href="keysigning">Het ondertekenen van encryptiesleutels</a></li>
   <li> <a href="https://wiki.debian.org/Presentations">Voordrachten
@@ -62,9 +62,9 @@ van voordrachten over Debian</a>.</p>
   <li> <a href="speakers">Sprekers</a> - Leden van Debian die voordrachten over
   Debian en andere aan Vrije Software gerelateerde onderwerpen aanbieden</li>
   <li> <a href="admin">Taken</a> voor events@debian.org</li>
-  <li> <a href="booth">Een stand houden</a> (veelal overbodig)
-  <li> <a href="requirements">Vereisten voor een stand</a> (hopelijk verouderd)
-  <li> <a href="talks">Een aantal voordrachten</a> (verouderd)
+  <li> <a href="booth">Een stand houden</a> (veelal overtollig)</li>
+  <li> <a href="requirements">Vereisten voor een stand</a> (hopelijk verouderd)</li>
+  <li> <a href="talks">Een aantal voordrachten</a> (verouderd)</li>
 </ul>
 
 <h3>Voorbije evenementen</h3>
