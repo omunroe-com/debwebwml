@@ -1,6 +1,6 @@
 #use wml::debian::template title="Een stand opzetten"
 # $Id$
-#use wml::debian::translation-check translation="b8114b588961778dbd04974c1464a2f388a90c28"
+#use wml::debian::translation-check translation="2e3c0166e74b21c80857525f489ba5387969cc82"
 
 # Last Translation update by $Author$
 # Last Translation update at $Date$
@@ -30,14 +30,22 @@ evenementen om hier een idee over te krijgen. Lees ook onze
 
 <h3><a name="ml">Mailinglijsten</a></h3>
 
-<p>Het Debian-project biedt twee mailinglijsten aan om de participatie van 
+<p>Het Debian-project biedt mailinglijsten aan om de participatie van 
 Debian bij verschillende evenementen te coördineren:
 
 <ul>
+  <li> <a href="https://alioth-lists.debian.net/cgi-bin/mailman/listinfo/debian-br-eventos">debian-br-eventos</a>,
+       gericht op evenementen in Brazilië.
+  <li> <a href="https://lists.debian.org/debian-dug-in/">debian-dug-in</a>,
+       gericht op evenementen in India.
   <li> <a href="https://lists.debian.org/debian-events-eu/">debian-events-eu</a>,
        gericht op Europa en Europese evenementen.
+  <li> <a href="https://lists.debian.org/debian-events-ha/">debian-events-ha</a>,
+       gericht op evenementen in Latijns-Amerika.
   <li> <a href="https://lists.debian.org/debian-events-na/">debian-events-na</a>,
-       gericht op Noord-Amerika en evenementen in dit continent.
+       gericht op Noord-Amerika en evenementen in dat continent.
+  <li> <a href="https://lists.debian.org/debian-events-nl/">debian-events-nl</a>,
+       gericht op evenementen in Nederland.
 </ul>
 
 <p>Om u in te schrijven op één van deze lijsten gaat u naar de 
