@@ -49,8 +49,8 @@ contains detailed installation instructions.
             can be used directly on your cloud provider, built by the Debian Cloud Team.
       </li>
         <ul class="quicklist downlist">
-          <li><a title="OpenStack image for 64-bit Intel and AMD Qcow2" href="http://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-amd64.qcow2">64-bit AMD/Intel OpenStack (Qcow2)</a></li>
-          <li><a title="OpenStack image for 64-bit ARM Qcow2" href="http://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-arm64.qcow2">64-bit ARM OpenStack (Qcow2)</a></li>
+          <li><a title="OpenStack image for 64-bit Intel and AMD Qcow2" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-amd64.qcow2">64-bit AMD/Intel OpenStack (Qcow2)</a></li>
+          <li><a title="OpenStack image for 64-bit ARM Qcow2" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-arm64.qcow2">64-bit ARM OpenStack (Qcow2)</a></li>
         </ul>
     </ul>
   </div>
