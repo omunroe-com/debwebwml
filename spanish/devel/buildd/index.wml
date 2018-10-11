@@ -1,5 +1,5 @@
 #use wml::debian::template title="Red autocompiladora" BARETITLE="true"
-#use wml::debian::translation-check translation="02de9b22925eb870281ba93d29a61e75d5330383"
+#use wml::debian::translation-check translation="cc0db4d4087a4f97b1a3955e3ca0f84b31caf8a9"
 
 <p>La red autocompiladora es un desarrollo de Debian que gestiona las
 compilaciones de paquetes para
@@ -136,14 +136,14 @@ estar un paquete, por favor lea los
 <p>Por supuesto, la documentación y el código fuente disponible para las 
 distintas herramientas son la mejor manera de averiguar como funciona la red buildd.
 Adicionalmente la sección
-<a href="$(HOME)/doc/manuals/developers-reference/pkgs#porting">\
+<a href="$(HOME)/doc/manuals/developers-reference/pkgs.html#porting">\
 Adaptar y ser adaptado</a> de la
 <a href="$(HOME)/doc/manuals/developers-reference/">Referencia de 
 desarrolladores de Debian</a> proporciona información complementaria 
 sobre cómo funciona y también algo de información sobre 
-<a href="$(HOME)/doc/manuals/developers-reference/tools#tools-builders">\
+<a href="$(HOME)/doc/manuals/developers-reference/tools.html#tools-builders">\
 constructores de paquetes</a> y
-<a href="$(HOME)/doc/manuals/developers-reference/tools#tools-porting">\
+<a href="$(HOME)/doc/manuals/developers-reference/tools.html#tools-porting">\
 herramientas de adaptación</a> que están involucrados en el proceso de 
 configuración y mantenimiento de la red buildd.</p>
 
