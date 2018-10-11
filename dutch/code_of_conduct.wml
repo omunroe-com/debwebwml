@@ -1,0 +1,134 @@
+#use wml::debian::template title="Debian-gedragscode" BARETITLE=true
+
+{#meta#:
+<meta name="keywords" content="code of conduct, coc">
+:#meta#}
+
+<p>
+  Versie 1.0 geratifieerd op 28 april 2014.
+</p>
+
+<p>Het Debian Project, de makers van het Debian-systeem, heeft een
+gedragscode aangenomen voor deelnemers op zijn mailinglijsten,
+IRC-kanalen en andere communicatiemiddelen binnen het project.</p>
+
+
+<hr />
+    <h2>Debian <q>gedragscode</q></h2>
+
+    <ol>
+      <li>
+	<strong>Wees respectvol</strong>
+	<p>
+    In een project zo groot als Debian is het onvermijdelijk dat er
+    mensen zijn waarmee je mogelijk niet akkoord bent, of het moeilijk
+    vindt om ermee samen te werken. Accepteer dat, maar wees toch
+    respectvol. Niet akkoord zijn is geen excuus voor slecht gedrag of
+    persoonlijke aanvallen, en een gemeenschap waarin mensen zich
+    aangevallen voelen is geen gezonde gemeenschap.
+	</p>
+      </li>
+      <li><strong>Veronderstel goede bedoelingen</strong>
+	<p>
+    Debian-medewerkers hebben veel manieren om ons gezamelijke doel van
+    een <a href="$(HOME)/intro/free">vrij</a> besturingssysteem te
+    bereiken, dat anders mag zijn dan de jouwe. Ga er vanuit dat andere
+    mensen dit doel ook in gedachten hebben.
+	</p><p>
+    Merk op dat veel van onze medewerkers het engels niet als moedertaal
+    hebben, of dat ze andere culturele achtergonden kunnen hebben.
+    </p>
+      </li>
+      <li><strong>Wees collaboratief</strong>
+	<p>
+    Debian is een groot en complex project; er is altijd meer te leren
+    binnen Debian. Het is goed om hulp te vragen als je het nodig hebt.
+    Ook moet je een aanbod voor hulp bekijken in de context van ons
+    gemeenschappelijk doel om Debian beter te maken.
+    </p><p>
+    Als je iets maakt ter verbetering van het project, wees dan bereid
+    om aan anderen uit te leggen hoe het werkt, zodat zij op je werk
+    kunnen bouwen om het nog beter te maken.
+	</p>
+      </li>
+      <li><strong>Probeer het kort te houden</strong>
+	<p>
+    Onthou dat wat jij één keer schrijft, gelezen zal worden door
+    honderden mensen. Een korte email schrijven betekent dat mensen de
+    conversatie zo efficiënt mogelijk kunnen begrijpen. Als een lange
+    omschrijving nodig is, overweeg dan om een samenvatting toe te
+    voegen.
+    </p><p>
+    Probeer om nieuwe argumenten aan een conversatie toe te voegen zodat
+    elke mail iets nieuws toevoegt, in gedachten houdend dat de rest van
+    de conversatie nog steeds de andere berichten met argumenten die
+    reeds gemaakt zijn, bevat.
+    </p><p>
+    Probeer bij het onderwerp te blijven, vooral in discussies die al
+    wat langer zijn.
+	</p>
+      </li>
+      <li><strong>Wees open</strong>
+	<p>
+    De meeste communicatiemiddelen die binnen Debian gebruikt worden,
+    laten zowel publieke als private communicatie toe. Per paragraaf
+    drie van het <a href="$(HOME)/social_contract">sociale contract</a>
+    moet je bij voorkeur publieke communicatiemiddelen gebruiken voor
+    Debian-gerelateerde berichten, tenzij je iets gevoelig wenst mede te
+    delen.
+    </p><p>
+    Dit is ook van toepassing op berichten voor hulp of
+    Debian-gerelateerde ondersteuning; niet alleen zal een publieke vraag
+    om ondersteuning veel waarschijnlijker tot resultaat leiden, het
+    zorgt er ook voor dat onbedoelde vergissingen door mensen die je
+    vraag beantwoorden, eenvoudiger gedetecteerd en gecorrigeerd worden.
+	</p>
+      </li>
+      <li><strong>Bij problemen</strong>
+      <p>Hoewel deze gedrachscode door medewerkers nageleefd moet
+      worden, begrijpen we dat mensen soms een slechte dag kunnen
+      hebben, of zich niet bewust kunnen zijn van sommige van de
+      richtlijnen in deze gedrachscode. Als zich dat voordoet mag je hen
+      beantwoorden en hen op deze gedrachscode wijzen. Zulke berichten
+      kunnen publiek of privé gestuurd worden, wat het meest van
+      toepassing is. Dat gezegd zijnde, en onafhankelijk van of het
+      bericht al dan niet publiek verstuurd werd, moet het nog steeds de
+      richtlijnen in deze gedragscode volgen; met name mag het niet
+      beledigend of respectloos zijn. Ga uit van goede bedoelingen; het
+      is waarschijnlijker dat medewerkers zich onbewust zijn van hun
+      slecht gedrag dan dat ze bewust de kwaliteit van de discussie
+      proberen te verminderen.
+      </p><p>
+      Serieuze of persistente overtreders zullen tijdelijk of permanent
+      geweerd worden van de communicatie via de systemen van Debian.
+      Klachten kunnen gestuurd worden (privé) naar de beheerders van het
+      Debian-communicatieforum in kwestie. Om contactgegevens van deze
+      beheerders te vinden kan u <a href="$(HOME)/intro/organization">de
+      pagina over de organisatiestructuur van Debian</a> raadplegen.
+      </p>
+      </li>
+    </ol>
+<hr />
+<h2 id="guidelines">Verder lezen</h2>
+     <p>Sommige van de links in deze sectie refereren niet naar
+     documenten die deel uitmaken van deze gedrachscode, noch zijn ze
+     autoritatief binnen Debian. Dat gezegd zijnde, bevatten ze allemaal
+     wel nuttige informatie over hoe je je kan gedragen op onze
+     communicatiekanalen.
+     </p>
+     <ul>
+     <li>Debian heeft een <a
+     href="$(HOME)/intro/diversity">diversiteitsverklaring</a>.</li>
+     <li>De <a href="https://people.debian.org/~enrico/dcg/">Debian Community
+     Guidelines</a> van Enrico Zini bevat wat advies over hoe je
+     effectief kunt communiceren.</li>
+     <li>De <a
+     href="$(HOME)/MailingLists/#codeofconduct">Mailinglijst-gedragscode</a>
+     is nuttig voor advies specifiek over Debian-mailinglijsten.</li>
+</ul>
+
+<p><em>Wijzigingen aan deze gedragscode moeten de normale GR-procedure
+volgen. Dat gezegd zijnde kan de DPL (of de gedelegeerden van de DPL)
+links naar andere documenten in de sectie "Verder lezen" toevoegen of
+verwijderen na consultatie met het project, en zonder de noodzaak voor
+een GR.</em></p>
