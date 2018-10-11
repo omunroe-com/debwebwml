@@ -1,5 +1,5 @@
 #use wml::debian::template title="Få tag på Debian"
-#use wml::debian::translation-check translation="0258a9ad572cf94a4162601989a462256f69df0f"
+#use wml::debian::translation-check translation="840529a717c4b245c207689eac96701f7bff7953"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p>Debian distribueras
@@ -44,6 +44,16 @@ innehåller detaljerade instruktioner för installation.
 		 href="<stable-images-url/>/i386/bt-cd/">32-bitars PC torrents (CD)</a></li>
 	</ul>
       </li>
+    </ul>
+    <h2><a href="https://cloud.debian.org/images/cloud/">Använd en av Debians molnavbildningar</a></h2>
+    <ul>
+      <li>En officiell <a href="https://cloud.debian.org/images/cloud/"><strong>molnavbildning</strong></a>:
+            kan användas direkt hos din molnleverantör, byggd av Debians Molngrupp.
+      </li>
+        <ul class="quicklist downlist">
+          <li><a title="OpenStack-avbildning för 64-bitars Intel and AMD Qcow2" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-amd64.qcow2">64-bitars AMD/Intel OpenStack (Qcow2)</a></li>
+          <li><a title="OpenStack-avbildning för 64-bitars ARM Qcow2" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-arm64.qcow2">64-bitars ARM OpenStack (Qcow2)</a></li>
+        </ul>
     </ul>
   </div>
   <div class="item col50 lastcol">
