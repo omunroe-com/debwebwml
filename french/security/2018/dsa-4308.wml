@@ -65,7 +65,7 @@ utiliser cela pour provoquer un déni de service (blocage).</p></li>
 <p>Wen Xu du SSLab de Gatech a signalé un bogue d'utilisation de mémoire
 après libération dans l'implémentation de F2FS. Un attaquant capable de
 monter un volume F2FS contrefait pourrait utiliser cela pour provoquer un
-déni de service (plantage ou corruption de mémoire ) ou éventuellement pour
+déni de service (plantage ou corruption de mémoire) ou éventuellement pour
 une augmentation de droits.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14609">CVE-2018-14609</a>

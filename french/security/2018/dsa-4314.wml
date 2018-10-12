@@ -3,7 +3,7 @@
 <define-tag moreinfo>
 <p>Magnus Klaaborg Stubman a découvert un bogue de déréférencement de
 pointeur NULL dans net-snmp, une suite d'applications SNMP (« Simple
-Network Management Protocol », permettant à un attaquant distant
+Network Management Protocol »), permettant à un attaquant distant
 authentifié de planter le processus de snmpd (provoquant un déni de
 service).</p>
 
