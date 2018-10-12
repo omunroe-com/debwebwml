@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="704754ce9669f557cbd27b4a6e6d7de43b6bad5e" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Магнус Клааборг Штубман обнаружил разыменование NULL-указателя в
+net-snmp, наборе приложений для работы с простым протоколом сетевого управления
+(SNMP), позволяющее удалённому аутентифицированному злоумышленнику аварийно завершать
+работу процесса snmpd (что приводит к отказу в обслуживании).</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 5.7.3+dfsg-1.7+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты net-snmp.</p>
+
+<p>С подробным статусом поддержки безопасности net-snmp можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/net-snmp">
+https://security-tracker.debian.org/tracker/net-snmp</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4314.data"
