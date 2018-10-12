@@ -1,5 +1,10 @@
 #use wml::debian::template title="Större evenemang med betydelse för Debian" BARETITLE=true
-#use wml::debian::translation-check translation="48cf7bb0c1138dc81a74808a16f9c95692fae2c2"
+#use wml::debian::translation-check translation="390592ef4704ef7932f027dba405f939c0e5de1c"
+
+<p>Det främsta evenemanget som Debian håller är den årliga Debiankonferensen
+som kallas <a href="https://www.debconf.org/">DebConf</a>. Det finns även
+flera <a href="https://wiki.debian.org/MiniDebConf">MiniDebConfs</a> vilket är
+lokala möten som organiseras av Debianprojektmedlemmar.</p>
 
 <p>
 Undersidorna till <a href="https://wiki.debian.org/DebianEvents">Debianwikins
