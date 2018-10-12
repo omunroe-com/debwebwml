@@ -1,9 +1,17 @@
 #use wml::debian::template title="Événements importants liés à Debian" BARETITLE=true
-#use wml::debian::translation-check translation="48cf7bb0c1138dc81a74808a16f9c95692fae2c2" maintainer="Thomas Vincent"
+#use wml::debian::translation-check translation="390592ef4704ef7932f027dba405f939c0e5de1c" maintainer="Jean-Pierre Giraud"
 
 # Translators:
 # Martin Quinson
 # Frédéric Bothamy, 2007
+# Thomas Vincent, 2013
+# Baptiste Jammet, 2014
+
+<p>La conférence annuelle de Debian, appelée <a href="https://www.debconf.org/">DebConf</a>
+est l'événement majeur du projet Debian. Il y a aussi plusieurs <a
+href="https://wiki.debian.org/MiniDebConf">MiniDebConf</a> qui sont des
+réunions locales organisées par des membres du projet Debian.
+</p>
 
 <p>Les pages liées à la <a href="https://wiki.debian.org/DebianEvents">page
 des événements du wiki de Debian</a> fournissent la liste des événements auxquels
