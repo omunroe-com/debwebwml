@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="d611524fc8970c54de7535ff69d85158648d8b13" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i Wireshark, en nätverksprotokollanalysator
+vilket kunde resultera i överbelastning eller exekvering av godtycklig kod.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 2.6.3-1~deb9u1. Denna uppdatering uppgraderar Wireshark till 
+utgåvegrenen 2.6.x, och framtida uppgraderingar kommer att baseras på denna
+serie.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era wireshark-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om wireshark vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/wireshark">https://security-tracker.debian.org/tracker/wireshark</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4315.data"
