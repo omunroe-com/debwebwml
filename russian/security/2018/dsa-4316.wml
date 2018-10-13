@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="b8c09cafc4b524922b58f92f24dd4a5173f0bddd" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Данное обновление исправляет несколько уязвимостей в Imagemagick, наборе
+графического ПО. В преобразователях BMP, DIB, PICT, DCM, CUT и PSD были
+обнаружены различные проблемы работы с памятью или неполная очистка входных
+данных.</p>
+
+<p>В стабильном выпуске (stretch), эти проблемы были исправлены в
+версии 8:6.9.7.4+dfsg-11+deb9u6.</p>
+
+<p>Рекомендуется обновить пакеты imagemagick.</p>
+
+<p>С подробным статусом поддержки безопасности imagemagick можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/imagemagick">\
+https://security-tracker.debian.org/tracker/imagemagick</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4316.data"
