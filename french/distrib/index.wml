@@ -1,5 +1,5 @@
 #use wml::debian::template title="Obtenir Debian"
-#use wml::debian::translation-check translation="0258a9ad572cf94a4162601989a462256f69df0f" maintainer="Simon Paillard"
+#use wml::debian::translation-check translation="840529a717c4b245c207689eac96701f7bff7953" maintainer="Jean-Paul Guillonneau"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p>Debian est distribuée <a href="../intro/free">librement</a>
@@ -7,12 +7,11 @@ sur Internet. Vous pouvez la télécharger entièrement depuis n'importe
 lequel de nos <a href="ftplist">miroirs</a>.
 
 Le <a href="../releases/stable/installmanual">Manuel d'installation</a>
-consacré à votre architecture cible contient des instructions et des liens pour
-tous les fichiers que vous devez installer.
+fournit les instructions détaillées.
 </p>
 
 <p>Si vous voulez simplement installer Debian, les options suivantes s'offrent
-à vous :</p>
+à vous.</p>
 
 <div class="line">
 <div class="item col50">
@@ -25,7 +24,7 @@ vous pouvez télécharger une des images suivantes :
 <li>
 une <a href="netinst"><strong>image d'installation
 de taille réduite</strong></a>, rapide à
-télécharger et à enregistrer sur disque amovible.
+télécharger, à enregistrer sur disque amovible.
 
 Une connexion à Internet sera nécessaire
 sur la machine où vous installerez Debian ;
@@ -34,12 +33,12 @@ sur la machine où vous installerez Debian ;
 <li><a
   title="Télécharger l'installateur pour PC 64 bits (Intel et AMD)"
   href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">\
-  image <q>netinst</q> pour PC 64 bits</a>
+  image ISO <q>netinst</q> pour PC 64 bits</a>
 </li>
 <li><a
   title="Télécharger l'installateur pour PC 32 bits (Intel et AMD)"
   href="<stable-images-url/>/i386/iso-cd/debian-<current-tiny-cd-release-filename/>-i386-netinst.iso">\
-  image <q>netinst</q> pour PC 32 bits</a>
+  image ISO <q>netinst</q> pour PC 32 bits</a>
 </li>
 </ul>
 </li>
@@ -69,6 +68,17 @@ facilitant l'installation sur des machines sans accès à Internet.
 </ul>
 </li>
 </ul>
+<h2><a href="https://cloud.debian.org/images/cloud/">Utiliser une image de nuage de Debian</a></h2>
+ <ul>
+  <li>Une <a href="https://cloud.debian.org/images/cloud/"><strong>image de
+   nuage</strong></a>, construite par l’équipe pour le nuage de Debian, peut
+   être utilisée directement avec votre fournisseur de nuage.
+  </li>
+  <ul class="quicklist downlist">
+  <li><a title="OpenStack image for 64-bit Intel and AMD Qcow2" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-amd64.qcow2">64-bit AMD/Intel OpenStack (Qcow2)</a></li>
+          <li><a title="OpenStack image for 64-bit ARM Qcow2" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-arm64.qcow2">64-bit ARM OpenStack (Qcow2)</a></li>
+  </ul>
+  </ul>
 
 </div>
 <div class="item col50 lastcol">
