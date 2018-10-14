@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="d611524fc8970c54de7535ff69d85158648d8b13" mindelta="1"
+#use wml::debian::translation-check translation="458175a8a268b339a3ffa352b77b38f693c4b616" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
 <p>Flera sårbarheter har upptäckts i Wireshark, en nätverksprotokollanalysator
