@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="053a441f4d418e67ed93695ff218b31fd328803a" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Tre sårbarheder blev opdaget i Open Ticket Request System, hvilke kunne føre 
+til rettighedsforøgelse eller lammelsesangreb.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 5.0.16-1+deb9u6.</p>
+
+<p>Vi anbefaler at du opgraderer dine otrs2-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende otrs2, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/otrs2">\
+https://security-tracker.debian.org/tracker/otrs2</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4317.data"
