@@ -23,26 +23,17 @@ opties:</p>
       Afhankelijk van uw internetverbinding, kunt u één van de volgende
       bestanden downloaden:
     </p>
-    
-    <p>
-      Deze kleine <q>netinst</q>-images kunnen snel worden gedownload en moeten
-      worden vastgelegd op een CD/DVD/USB-schijf.
-      Ze maken het mogelijk alleen die Debian pakketten te downloaden die u
-      daadwerkelijk wilt, maar vereisen dat de machine waarop u Debian
-      installeert beschikt over een internetverbinding.
-   </p>
-
    <ul>
      <li>Een <a href="netinst"><strong>klein installatie-image</strong></a>:
-          kan snel gedownload worden en op een verwijderbare schijf geschreven
+          kan snel gedownload worden en moet op een verwijderbare schijf geschreven
           worden. Om deze te kunnen gebruiken, heeft uw machine een internetverbinding
           nodig.
       <ul class="quicklist downlist">
-        <li><a title="Download installer voor 64-bit Intel en AMD PC"
-               href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">64-bit
+        <li><a title="Download het installatieprogramma voor 64-bits Intel en AMD PC"
+               href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">64-bits
             PC netinst iso</a></li>
-        <li><a title="Download installer voor reguliere 32-bit Intel en AMD PC"
-               href="<stable-images-url/>/i386/iso-cd/debian-<current-tiny-cd-release-filename/>-i386-netinst.iso">32-bit
+        <li><a title="Download installatieprogramma voor reguliere 32-bits Intel en AMD PC"
+               href="<stable-images-url/>/i386/iso-cd/debian-<current-tiny-cd-release-filename/>-i386-netinst.iso">32-bits
             PC netinst iso</a></li>
       </ul>
      </li>
@@ -50,17 +41,27 @@ opties:</p>
       installatie-image</strong></a>: bevat meer pakketten, zodat het eenvoudiger te
       installeren is op een machine zonder internetverbinding.
       <ul class="quicklist downlist">
-        <li><a title="Download DVD torrents voor 64-bit Intel en AMD PC"
-               href="<stable-images-url/>/amd64/bt-dvd/">64-bit PC torrents (DVD)</a></li>
-        <li><a title="Download DVD torrents voor reguliere 32-bit Intel en AMD PC"
-               href="<stable-images-url/>/i386/bt-dvd/">32-bit PC torrents (DVD)</a></li>
-        <li><a title="Download CD torrents voor 64-bit Intel en AMD PC"
-               href="<stable-images-url/>/amd64/bt-cd/">64-bit PC torrents (CD)</a></li>
-        <li><a title="Download CD torrents voor reguliere 32-bit Intel en AMD PC"
-               href="<stable-images-url/>/i386/bt-cd/">32-bit PC torrents (CD)</a></li>
+        <li><a title="Download DVD torrents voor 64-bits Intel en AMD PC"
+               href="<stable-images-url/>/amd64/bt-dvd/">64-bits PC torrents (DVD)</a></li>
+        <li><a title="Download DVD torrents voor reguliere 32-bits Intel en AMD PC"
+               href="<stable-images-url/>/i386/bt-dvd/">32-bits PC torrents (DVD)</a></li>
+        <li><a title="Download CD torrents voor 64-bits Intel en AMD PC"
+               href="<stable-images-url/>/amd64/bt-cd/">64-bits PC torrents (CD)</a></li>
+        <li><a title="Download CD torrents voor reguliere 32-bits Intel en AMD PC"
+               href="<stable-images-url/>/i386/bt-cd/">32-bits PC torrents (CD)</a></li>
       </ul>
      </li>
    </ul>
+    <h2><a href="https://cloud.debian.org/images/cloud/">Gebruik een Debian cloudimage</a></h2>
+    <ul>
+      <li>Een officieel <a href="https://cloud.debian.org/images/cloud/"><strong>cloudimage</strong></a>:
+            gebouwd door het Debian Cloud Team en rechtstreeks te gebruiken bij uw cloudprovider.
+        <ul class="quicklist downlist">
+          <li><a title="OpenStackimage voor 64-bits Intel en AMD Qcow2" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-amd64.qcow2">64-bits AMD/Intel OpenStack (Qcow2)</a></li>
+          <li><a title="OpenStackimage voor 64-bits ARM Qcow2" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-arm64.qcow2">64-bits ARM OpenStack (Qcow2)</a></li>
+        </ul>
+      </li>
+    </ul>
   </div>
   <div class="item col50 lastcol">
    <h2><a href="../CD/live/">Probeer Debian alvorens het te installeren</a></h2>
@@ -73,10 +74,10 @@ opties:</p>
       deze voor u geschikt is.
    </p>
    <ul class="quicklist downlist">
-     <li><a title="Download live torrents voor 64-bit Intel en AMD PC"
-           href="<live-images-url/>/amd64/bt-hybrid/">64-bit PC live torrents</a></li>
-     <li><a title="Download live torrents voor reguliere 32-bit Intel en AMD PC"
-           href="<live-images-url/>/i386/bt-hybrid/">32-bit PC live torrents</a></li>
+     <li><a title="Download live torrents voor 64-bits Intel en AMD PC"
+           href="<live-images-url/>/amd64/bt-hybrid/">64-bits PC live torrents</a></li>
+     <li><a title="Download live torrents voor reguliere 32-bits Intel en AMD PC"
+           href="<live-images-url/>/i386/bt-hybrid/">32-bits PC live torrents</a></li>
    </ul>
   </div>
 </div>
