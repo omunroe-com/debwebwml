@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="ed2119a35159cb709a44e5bea4b898b68d1c2438" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Frediano Ziglio rapporterade en saknad kontroll i skriptet för att
+generera derangeringskod i klient och serverbiblioteket för SPICE-protokollet.
+Den genererade derangeringskoden är sårbar för flera buffertspill. En
+autentiserad angripare kan dra fördel av denna brist för att orsaka en
+överbelastning (krasch av SPICE-servern), eller möjligen köra godtycklig kod.</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 0.12.8-2.1+deb9u2.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era spice-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om spice vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/spice">https://security-tracker.debian.org/tracker/spice</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4319.data"
