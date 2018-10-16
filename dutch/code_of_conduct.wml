@@ -1,4 +1,9 @@
 #use wml::debian::template title="Debian-gedragscode" BARETITLE=true
+#use wml::debian::translation-check translation="534d1b782cfb92f46dc41fd064f779fffc329b12"
+
+# Last Translation update by $Author$
+# Last Translation update at $Date$
+
 
 {#meta#:
 <meta name="keywords" content="code of conduct, coc">
@@ -53,10 +58,10 @@ IRC-kanalen en andere communicatiemiddelen binnen het project.</p>
       </li>
       <li><strong>Probeer het kort te houden</strong>
 	<p>
-    Onthou dat wat jij één keer schrijft, gelezen zal worden door
+    Onthoud dat wat jij één keer schrijft, gelezen zal worden door
     honderden mensen. Een korte email schrijven betekent dat mensen de
     conversatie zo efficiënt mogelijk kunnen begrijpen. Als een lange
-    omschrijving nodig is, overweeg dan om een samenvatting toe te
+    uitleg nodig is, overweeg dan om een samenvatting toe te
     voegen.
     </p><p>
     Probeer om nieuwe argumenten aan een conversatie toe te voegen zodat
