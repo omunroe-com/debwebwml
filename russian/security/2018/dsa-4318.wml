@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="c3120657a7e8583ccb92f2cfcb1b0e9f6ca62377" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Нитин Венкатеш обнаружил межсайтовый скриптинг в moin, клоне WikiWiki на
+языке Python. Удалённый злоумышленник может выполнять атаки по принципу межсайтового
+скриптинга через диалог добавления ссылок в графическом интерфейсе редактора. Эта проблема
+касается только установок, в которых включён fckeditor (по умолчанию этот компонент отключён).</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 1.9.9-1+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты moin.</p>
+
+<p>С подробным статусом поддержки безопасности moin можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/moin">\
+https://security-tracker.debian.org/tracker/moin</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4318.data"
