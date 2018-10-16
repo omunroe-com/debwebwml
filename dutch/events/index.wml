@@ -1,8 +1,14 @@
 #use wml::debian::template title="Belangrijke evenementen m.b.t. Debian" BARETITLE=true
-#use wml::debian::translation-check translation="48cf7bb0c1138dc81a74808a16f9c95692fae2c2"
+#use wml::debian::translation-check translation="390592ef4704ef7932f027dba405f939c0e5de1c"
 
 # Last Translation update by $Author$
 # Last Translation update at $Date$
+
+<p>Het belangrijkste evenement van Debian is haar jaarlijkse Conferentie,
+<a href="https://www.debconf.org/">DebConf</a> genaamd. Er zijn ook verschillende <a
+href="https://wiki.debian.org/MiniDebConf">MiniDebConf's</a>. Dit zijn lokale
+bijeenkomsten die door leden van het Debian project georganiseerd worden.
+</p>
 
 <p>De onderliggende pagina's van de
 <a href="https://wiki.debian.org/DebianEvents">Evenementenpagina
