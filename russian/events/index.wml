@@ -1,5 +1,11 @@
 #use wml::debian::template title="Важные события, связанные с Debian" BARETITLE=true
-#use wml::debian::translation-check translation="48cf7bb0c1138dc81a74808a16f9c95692fae2c2" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="390592ef4704ef7932f027dba405f939c0e5de1c" maintainer="Lev Lamberov"
+
+<p>Основным мероприятием Debian является ежегодная конференция Debian, которая называется <a
+href="https://www.debconf.org/">DebConf</a>. Также проводятся несколько <a
+href="https://wiki.debian.org/MiniDebConf">MiniDebConf</a>, которые представляют
+собой локальные встречи, организуемые участниками Проекта Debian.
+</p
 
 <p>Дочерние страницы <a href="https://wiki.debian.org/DebianEvents">wiki-страницы
 событий Debian</a> содержат список событий (мероприятий), в которых Debian
