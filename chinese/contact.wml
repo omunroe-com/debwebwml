@@ -108,10 +108,10 @@
 #for international mailing lists</a>.
 <p>除此以外，我們也有專為各種不同語言的用戶而設的通信論壇。詳情請見
 <a href="https://lists.debian.org/users.html#debian-user">國際通信論壇列表</a>以取得相關訂閱<tw資訊>。
-中文用戶可以訂閱 [CN:<em>debian-chinese-gb</em>（GB 簡體中文編碼）或
-<em>debian-chinese-big5</em>（Big5 繁體中文編碼）:]
-[HKTW:<em>debian-chinese-big5</em>（Big5 繁體中文編碼）或
-<em>debian-chinese-gb</em>（GB 簡體中文編碼）:]通信論壇。</p>
+中文用戶可以訂閱 [CN:<em>debian-chinese-gb</em>（簡體中文）或
+<em>debian-chinese-big5</em>（繁體中文）:]
+[HKTW:<em>debian-chinese-big5</em>（繁體中文）或
+<em>debian-chinese-gb</em>（簡體中文）:]通信論壇。</p>
 
 #<p>Furthermore, you can browse our mailing lists as newsgroups using a web
 #interface, like <a href="http://groups.google.com/">Google</a> or
@@ -267,4 +267,3 @@ antiharassment@debian.org>。
 #<p>We also have a complete list of different <a href="intro/organization">
 #jobs and e-mails to use</a> to contact various parts of the organization.
 <p>我們也備有 Debian 各部門的<a href="intro/organization">完整聯絡清單</a>。</p>
-
