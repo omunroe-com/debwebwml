@@ -58,10 +58,50 @@
 </define-tag>
 
 
-<HR>
+<hr />
 
-<P>這是目前計劃成員的名單，歡迎你的加入！\
+<p>以下是近期（2018年前后）较活跃的中文开发者与贡献者名单，\
+排序不分先后。\
+如有意对内容进行更新，请联系 Debian 中文邮件列表或\
+任一中文 Debian 开发者；有权限者还可直接修改网页源码。
+</p>
+
+<div class="centerdiv">
+
+<entry 霍東靈 Anthony Fok foka@debian.org>
+</entry>
+
+<entry 徐亮 Aron Xu aron@debian.org>
+</entry>
+
+<entry 杨博远 Boyuan Yang byang@debian.org>
+匹兹堡大学研究生。\
+维护一部分输入法相关软件包和一些杂七杂八的软件包，\
+同时关心网站翻译、文档翻译和维护等等内容。
+</entry>
+
+<entry 陳昌倬 ChangZhuo Chen czchen@debian.org>
+</entry>
+
+<entry 魏銘廷 Ming-ting Yao Wei mwei@debian.org>
+</entry>
+
+<entry 周默 Mo Zhou lumin@debian.org>
+</entry>
+
+<entry 朱晟菁 Shengjing Zhu zhsj@debian.org>
+</entry>
+
+<entry 林上智 SZ Lin szlin@debian.org>
+</entry>
+
+</div>
+
+<hr />
+
+<p>以下是2000年前后計劃成員的历史名單，供参考。\
 （以下名單依英文姓名排序。如有錯漏請告知。）
+</p>
 
 # <P>「臨時」計劃領導：霍東靈 Anthony Fok <email foka@debian.org>。 ^_^</P>
 
