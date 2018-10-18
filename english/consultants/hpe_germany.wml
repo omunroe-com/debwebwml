@@ -1,4 +1,4 @@
-#use wml::debian::consultant name="Hewlett-Packard"
+#use wml::debian::consultant name="Hewlett Packard Enterprise"
 # $Id$
 
 <p>
@@ -18,4 +18,6 @@ Project experience:
     ISDN/DSL access network</li>
 <li>Efficient development/deployment approach based on Debian
     and bootcd package</li>
+<li>Enterprise Service Level Agreement (SLA) Solution with active
+    probing</li>
 </ul>

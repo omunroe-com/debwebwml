@@ -25,6 +25,16 @@ Translations:
 
  * opencc          (Chinese translation conversions)
 
+ 
+You can find a comprenhensive list of packages that needs to be installed 
+to complete build the Debian website in the recipe used for www-master.debian.org:
+
+https://salsa.debian.org/dsa-team/mirror/debian.org/blob/master/debian/control
+
+(Note: that list includes the packages needed by the other scripts that are called
+by cron and perform other tasks needed by the website but not contained in the webwml
+repo (e.g. the manuals showed under www.debian.org/docs, release notes, 
+tidy and URL checks...). See https://www.debian.org/devel/website/ for details
 
 ------------------
 

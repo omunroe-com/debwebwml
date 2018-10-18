@@ -1,0 +1,24 @@
+#use wml::debian::translation-check translation="b04c964cd714f32ee57d7fa636b7bca8daeb51ff" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Peter Winter-Smith fra NCC Group opdagede at libssh, et lille SSH-bibliotek 
+skrevet i C, i serverkoden indeholdt en sårbarhed i forbindelse med omgåelse af 
+autentifikationsomgåelse.  En angriber kunne drage nytte af fejlen til med 
+succes at blive autentificeret uden nogen form for loginoplysninger, ved at 
+præsentere serveren for en SSH2_MSG_USERAUTH_SUCCESS-meddelelse i stedet for den 
+SSH2_MSG_USERAUTH_REQUEST-meddelelse, som serveren forventede ville indlede 
+autentifikationen.</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 0.7.3-2+deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine libssh-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende libssh, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/libssh">\
+https://security-tracker.debian.org/tracker/libssh</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4322.data"

@@ -1,5 +1,5 @@
 #use wml::debian::consultant name="Hewlett-Packard"
-#use wml::debian::translation-check translation="1dec5e3bbb4b0d98ac258ca55b7b0d4cf17dbbc3"
+#use wml::debian::translation-check translation="92d0e30056addf935daa4875eea214f4d8baa261"
 
 <p>
 	Projektegruppen HP Services Consulting&amp;Integration Germany Open Source
@@ -18,4 +18,5 @@
     ISDN/DSL access network</li>
 <li>Effektiv utveckling/deployment-lösning baserat på Debian och
 	bootcd-paket</li>
+<li>Företagsservicenivåavtal (SLA) med aktiv sondering.</li>
 </ul>

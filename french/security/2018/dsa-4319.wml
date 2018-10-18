@@ -2,7 +2,7 @@
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
 <p>Frediano Ziglio a signalé une vérification manquante dans le script qui
-génère le code de désérialisation (« demarshalling » dans la bibliothèque
+génère le code de désérialisation (« demarshalling ») dans la bibliothèque
 client et serveur du protocole SPICE. Le code de désérialisation généré est
 prédisposé à plusieurs dépassements de tampon. Un attaquant authentifié
 peut tirer avantage de ce défaut pour provoquer un déni de service

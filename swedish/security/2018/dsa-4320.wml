@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="4c4a87e7be85aafd69fadd1d3a8019ca0ec72783" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i Asterisk, ett öppenkällkodsverktyg
+för PBX och telefoni, vilket kan resultera i överbelastning eller
+utlämnande av information.</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 1:13.14.1~dfsg-2+deb9u4.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era asterisk-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om asterisk vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/asterisk">https://security-tracker.debian.org/tracker/asterisk</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4320.data"
