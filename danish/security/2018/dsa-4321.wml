@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="b617bf53d2a0ee0e5b8a3e5c5fa5d469398b7f58" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder er opdaget i GraphicsMagick, et sæt kommandolinjeværktøjer 
+til behandling af billedfiler, hvilke kunne medføre lammelsesangreb eller 
+udførsel af vilkårlig kode, hvis en misdannet billedfil blev behandlet.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 1.3.30+hg15796-1~deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine graphicsmagick-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende graphicsmagick, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/graphicsmagick">\
+https://security-tracker.debian.org/tracker/graphicsmagick</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4321.data"
