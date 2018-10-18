@@ -14,7 +14,7 @@ SSH2_MSG_USERAUTH_REQUEST, ожидаемого сервером для иниц
 
 <p>Рекомендуется обновить пакеты libssh.</p>
 
-<p>С подробным статусом поддержки безопасности libssh можно ознакомиться на its
+<p>С подробным статусом поддержки безопасности libssh можно ознакомиться на
 соответствующей странице отслеживания безопасности по адресу
 <a href="https://security-tracker.debian.org/tracker/libssh">\
 https://security-tracker.debian.org/tracker/libssh</a></p>
