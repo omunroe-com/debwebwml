@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="ed2119a35159cb709a44e5bea4b898b68d1c2438"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Frediano Ziglio informó de que falta una comprobación en el script para generar
+código para reconstrucción de datos serializados («demarshalling code») en la biblioteca de cliente y de servidor del protocolo SPICE. El
+código para reconstrucción de datos serializados es propenso a múltiples desbordamientos de memoria. Un
+atacante autenticado puede aprovechar este defecto para provocar denegación
+de servicio (caída del servidor spice) o, posiblemente, para ejecutar código arbitrario.</p>
+
+<p>Para la distribución «estable» (stretch), este problema se ha corregido en
+la versión 0.12.8-2.1+deb9u2.</p>
+
+<p>Le recomendamos que actualice los paquetes de spice.</p>
+
+<p>Para información detallada sobre el estado de seguridad de spice consulte su página
+en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/spice">https://security-tracker.debian.org/tracker/spice</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4319.data"
