@@ -1,6 +1,7 @@
 stages:
 - english
 - translations
+- merge
 .build-common: &common
   before_script:
   - apt-get update
@@ -32,6 +33,17 @@ english:
   artifacts:
     paths:
       - .public
+merge:
+  stage: merge
+  before_script:
+  - apt-get update
+  - apt-get -y install rsync
+  script:
+  - mkdir -p public
+  - for i in .public/*; do rsync -a $i/ public/; done
+  artifacts:
+    paths:
+      - public
 albanian:
   <<: *build
 arabic:
