@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="b04c964cd714f32ee57d7fa636b7bca8daeb51ff" maintainer="Sebul"
+<define-tag description>보안 업데이트</define-tag>
+<define-tag moreinfo>
+<p>Peter Winter-Smith of NCC Group discovered that libssh, a tiny C SSH
+library, contains an authentication bypass vulnerability in the server
+code. An attacker can take advantage of this flaw to successfully
+authenticate without any credentials by presenting the server an
+SSH2_MSG_USERAUTH_SUCCESS message in place of the
+SSH2_MSG_USERAUTH_REQUEST message which the server would expect to
+initiate authentication.</p>
+
+<p>안정 배포(stretch)에서 이 문제를 0.7.3-2+deb9u1 버전에서 고쳤습니다.</p>
+
+<p>libssh 패키지를 업그레이드 하는 게 좋습니다.</p>
+
+<p>libssh의 자세한 보안 상태는 보안 추적 페이지 참조하세요:
+<a href="https://security-tracker.debian.org/tracker/libssh">\
+https://security-tracker.debian.org/tracker/libssh</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4322.data"
