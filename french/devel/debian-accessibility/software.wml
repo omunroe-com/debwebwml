@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian-Accessibility - Logiciels"
-#use wml::debian::translation-check translation="be191e77facf8c0d489cfd320232517e5233a3e2" maintainer="Nicolas Bertolissio"
+#use wml::debian::translation-check translation="0ec84d78b1ba897db9c789ed9404df990e540948" maintainer="Jean-Paul Guillonneau"
 {#style#:<link rel="stylesheet" href="style.css" type="text/css" />:#style#}
 
 <define-tag a11y-pkg endtag=required>
@@ -20,13 +20,13 @@
   <p>
   Serveur vocal pour <a href="#emacspeak">Emacspeak</a> et <a href="#yasr">\
   yasr</a> (ou d'autres lecteurs d'écran) qui leur permet de se connecter avec
-  <a href="#flite">Festival Lite</a>, un moteur libre de lecture de texte
-  développé au centre pour la parole de l'université de Carnegie Mellon en tant
-  que ramification de <a href="#festival">Festival</a>.
+  <a href="#flite">Festival Lite</a>, un moteur libre de synthèse vocale à
+  partir de texte développé au Centre pour la parole de l'Université de
+  Carnegie Mellon en tant que ramification de <a href="#festival">Festival</a>.
   </p>
   <p>
   À cause de limitations héritées de son filtre de sortie, EFlite ne fournit de
-  support que pour la langue anglaise pour le moment.
+  prise en charge que pour la langue anglaise pour le moment.
   </p>
 </a11y-pkg>
 
@@ -56,16 +56,16 @@
   </p>
 
   <ul>
-    <li>Comprend différentes voix dont les caractéristiques peuvent être
+    <li>Il fournit différentes voix dont les caractéristiques peuvent être
       modifiées.</li>
-    <li>Peut produire un fichier WAV en sortie.</li>
-    <li>Peut traduire un texte en codes de phonèmes pour être utilisé comme
-      frontal d'un autre moteur de synthèse vocale.</li>
-    <li>Peut être utilisé pour d'autres langues. Des essais rudimentaires (et
+    <li>Il peut produire un fichier WAV en sortie.</li>
+    <li>Il peut traduire un texte en codes de phonèmes pour une utilisation
+      comme frontal d'un autre moteur de synthèse vocale.</li>
+    <li>Il peut être utilisé pour d'autres langues. Des essais rudimentaires (et
       certainement drôles) en allemand et en espéranto sont fournis.</li>
-    <li>Est de taille compacte. Le programme et ses données font environ
+    <li>Il est de taille compacte. Le programme et ses données font environ
       350&nbsp;ko.</li>
-    <li>Est écrit en C++.</li>
+    <li>Il est écrit en C++.</li>
   </ul>
 
   <p>
@@ -78,52 +78,52 @@
   <p>
   Petit moteur rapide de synthèse vocale instantanée. Il s'agit du dernier
   ajout à l'ensemble d'outils de synthèse formés de logiciels libres qui
-  comprennent le système de synthèse vocal Festival de l'université d'Édimbourg
-  et le projet Festvox de l'université de Carnegie Mellon, des outils, des
+  comprend le système de synthèse vocal Festival de l'Université d’Édimbourg
+  et le projet Festvox de l'Université de Carnegie Mellon, des outils, des
   scripts et de la documentation pour construire des voix synthétiques. Quoi
-  qu'il en soit, flite lui-même n'a besoin d'aucun de ces systèmes pour
+  qu'il en soit, Flite lui-même n'a besoin d'aucun de ces systèmes pour
   fonctionner.
   </p>
   <p>
-  Actuellement, il ne support que la langue anglaise.
+  Actuellement, il ne gère que la langue anglaise.
   </p>
 </a11y-pkg>
 
 <a11y-pkg name="Festival" tag="festival"
           url="http://www.cstr.ed.ac.uk/projects/festival/">
   <p>
-  Système de synthèse vocal multilingue universel développé au
+  Système de synthèse vocale multilingue universel développé au
   <a href="http://www.cstr.ed.ac.uk/">CSTR</a> (<i>Centre for Speech Technology
-  Research</i>, le centre pour la recherche en technologie de la parole) de
-  l'<a href="http://www.ed.ac.uk/text.html">université d'Édimbourg</a>.
+  Research</i>, le Centre pour la recherche en technologie de la parole) de
+  l'<a href="http://www.ed.ac.uk/text.html">Université d’Édimbourg</a>.
   </p>
   <p>
   Festival propose un système complet de lecture de texte avec diverses
   interfaces de programmation d'applications, ainsi qu'un environnement pour le
   développement et la recherche de techniques de synthèse vocale. Il est écrit
-  en C++ avec un interpréteur de commandes basé sur scheme pour ses commandes
+  en C++ avec un interpréteur de commandes basé sur Scheme pour ses commandes
   générales.
   </p>
   <p>
-  En plus de la recherche en synthèse vocale, festival peut être utilisé comme
-  programme de synthèse vocale seul. Il est capable de produire des paroles
-  facilement compréhensible à partir d'un texte.
+  En plus de la recherche en synthèse vocale, Festival peut être utilisé comme
+  programme de synthèse vocale autonome. Il est capable de produire des paroles
+  facilement compréhensibles à partir d'un texte.
   </p>
 </a11y-pkg>
 
-<a11y-pkg name="recite" tag="recite">
+<a11y-pkg name="Recite" tag="recite">
   <p>
   Programme pour faire de la synthèse vocale. La qualité du son produit n'est
   pas très bonne, mais il devrait convenir pour signaler verbalement des
   messages d'erreur occasionnels.
   </p>
   <p>
-  Étant donné un texte en anglais, recite le convertit en une série de
-  phonèmes, puis convertit ces phonèmes en une séquence de paramètres de
-  l'appareil vocal, et ensuite il synthétise le son qu'un appareil vocal ferait
+  Étant donné un texte en anglais, Recite le convertit en une série de
+  phonèmes, puis convertit ces phonèmes en une séquence de paramètres du
+  tractus vocal, et ensuite il synthétise le son que le tractus vocal produirait
   pour dire la phrase. Recite peut réaliser un sous-ensemble de ces opérations,
   il peut donc être utilisé pour convertir un texte en phonèmes, ou pour
-  produire des paroles basées sur les paramètres d'un appareil vocal calculés
+  produire un énoncé basé sur les paramètres d'un tractus vocal calculés
   par un autre programme.
   </p>
 </a11y-pkg>
@@ -131,15 +131,15 @@
 <a11y-pkg name="Speech Dispatcher" tag="speech-dispatcher"
           url="http://www.freebsoft.org/speechd">
   <p>
-  Couche indépendante des périphérique pour la synthèse vocale. Ce projet
-  supporte en sortie divers synthétiseurs vocaux logiciels et matériels et
-  fournit une couche générique aux applications pour synthétiser de la parole
-  et rejouer des données PCM <i>via</i> ces différentes sorties.
+  Couche indépendante des périphériques pour la synthèse vocale. Ce projet
+  prend en charge comme moteur divers synthétiseurs vocaux logiciels et matériels et
+  fournit aux applications une couche générique pour la synthèse de la parole
+  ou rejouer des données PCM à l’aide de ces différentes moteurs.
   </p>
   <p>
   Divers concepts évolués, comme la mise en file d'attente par opposition à
-  l'utilisation d'interruptions pour la sortie de la voix et les configurations
-  d'utilisateur spécifique aux applications, sont mis en &oelig;uvre de façon
+  l'utilisation d'interruptions pour la sortie de la voix ou des configurations
+  particulières d'utilisateur pour des applications, sont mis en &oelig;uvre de façon
   indépendante du périphérique, ce qui évite donc au programmeur d'application
   de devoir à nouveau réinventer la roue.
   </p>
@@ -151,13 +151,13 @@
 <p>
 Toutes les solutions libres disponibles actuellement pour la synthèse vocale
 basée sur le logiciel semblent partager une déficience commune&nbsp;: elles
-sont principalement limitées à l'anglais, ne fournissant qu'un support très
-marginal pour les autres langues, ou dans la plupart des cas absolument aucun
-support. Parmi tous les logiciels libres de synthèse vocale pour Linux, seul
-Festival de l'université de Carnegie Mellon supporte plus d'une seule langue
+sont principalement limitées à l'anglais, ne fournissant qu'une gestion très
+marginale pour les autres langues, ou dans la plupart des cas absolument aucune.
+Parmi tous les logiciels libres de synthèse vocale pour Linux, seul
+Festival de l’Université de Carnegie Mellon gère plus d'une seule langue
 naturelle. Festival peut synthétiser en anglais, en espagnol et en gallois.
-L'allemand, le français et le russe ne sont pas supportés. Alors que la
-tendance est à l'internationalisation et la localisation des logiciels et des
+L'allemand, le français et le russe ne sont pas gérés. Alors que la
+tendance est à l'internationalisation et la régionalisation des logiciels et des
 services sur la Toile, est-il raisonnable de demander aux personnes aveugles
 intéressées par Linux d'apprendre l'anglais simplement pour comprendre leur
 ordinateur et de faire toute leur correspondance dans une langue
@@ -165,29 +165,24 @@ ordinateur et de faire toute leur correspondance dans une langue
 </p>
 <p>
 Malheureusement, la synthèse vocale n'est pas vraiment le projet maison préféré
-de Jeannot le Programmeur. La création d'un logiciel intelligible de synthèse
-vocale nécessite des tâches qui prennent beaucoup de temps. La synthèse vocale
+de Jeannot le Programmeur. La création d'un logiciel de synthèse vocale
+intelligible nécessite des tâches qui prennent beaucoup de temps. La synthèse vocale
 par concaténation demande le création soigneuse d'une base de données de
 phonèmes contenant toutes les combinaisons possibles de sons de la langue
 visée. Les règles pour déterminer la transformation de la représentation
-textuelle en phonèmes individuels nécessite également d'être développées et
+textuelle en phonèmes individuels nécessitent également d'être développées et
 très bien ajustées, ce qui demande habituellement la segmentation d'un flux de
 caractères en groupes logiques tels que des phrases, des locutions et des mots.
 Une telle analyse lexicale nécessite un lexique spécifique à la langue rarement
 publié sous une licence libre.
 </p>
 <p>
-L'un des systèmes de synthèse vocale les plus promettant est Mbrola, avec une
-base de données de phonèmes pour plus de dix langues différentes.
-Malheureusement, la licence choisie par ce projet est très restrictive. Mbrola
-ne peut être distribué que sous la forme d'un binaire préconstruit. De plus,
-les bases de données de phonèmes ne peuvent être utilisées que pour des
-application non militaires et non commerciales. Nous avons contacté les
-développeurs du projet, mais ils ont été incapable de modifier la licence de
-leur travail à causes de limitations données par les nombreux contributeurs.
-Malheureusement, étant donnés le modèle de licence restrictive de Mbrola, il
-ne peut pas être utilisé comme base pour poursuivre le travail dans cette
-direction, au moins pas dans le contexte du système d'exploitation Debian.
+L'un des systèmes de synthèse vocale les plus prometteurs est Mbrola, avec une
+base de données de phonèmes pour plus de douze langues différentes. La synthèse
+elle-même est un logiciel libre. Malheureusement, les bases de données de
+phonèmes sont réservées seulement à un usage non militaire et non commercial.
+Nous manquons de bases de données libres pour une utilisation dans le système
+d’exploitation Debian.
 </p>
 <p>
 Sans un logiciel de synthèse vocale largement multilingue, Linux ne peut pas
@@ -200,7 +195,7 @@ Il y a en fait deux approches possibles&nbsp;:
 </p>
 <ol>
   <li>
-  organiser un groupe de personnes souhaitant aider dans ce domaine, et essayer
+  Organiser un groupe de personnes souhaitant aider dans ce domaine, et essayer
   d'améliorer activement la situation. Ce peut être un peu compliqué, car cela
   nécessite beaucoup de connaissances spécifiques sur la synthèse vocale, ce
   qui n'est pas si simple pour une approche autodidacte. Quoi qu'il en soit, il
@@ -209,11 +204,11 @@ Il y a en fait deux approches possibles&nbsp;:
   vraiment la peine de la faire&nbsp;;
   </li>
   <li>
-  obtenir des fonds et engager un institut qui a déjà le savoir-faire pour
+  Obtenir des fonds et engager un institut qui a déjà le savoir-faire pour
   créer la base de données de phonèmes nécessaire, les lexiques et les règles
   de transformation. Cette approche a l'avantage d'avoir une meilleure
   probabilité de générer des résultats de qualité, et elle devrait également
-  apporter certaines amélioration bien plus vite que la première approche. Bien
+  apporter certaines améliorations bien plus vite que la première approche. Bien
   sûr, la licence sous laquelle tout le travail résultant devrait être publié
   doit être convenue à l'avance, et elle devrait se conformer aux principes du
   logiciel libre selon Debian. La solution idéale serait bien sûr de convaincre
@@ -225,9 +220,9 @@ Il y a en fait deux approches possibles&nbsp;:
 <p>
 Enfin, il semble que la plupart des produits actuels de synthèse vocale
 commerciaux ayant du succès n'utilisent plus la synthèse vocale par
-concaténation, principalement car les bases de données de son consomment
+concaténation, principalement car les bases de données de sons consomment
 beaucoup d'espace disque. Cela n'est pas souhaitable pour de petits produits
-embarqués comme par exemple pour les téléphones portables. Des logiciels libres
+embarqués comme par exemple les téléphones portables. Des logiciels libres
 récents comme <a href="#espeak">eSpeak</a> semblent essayer cette approche, ils
 valent très certainement la peine d'être regardés.
 </p>
@@ -244,14 +239,14 @@ valent très certainement la peine d'être regardés.
   Emacs et chargé Emacspeak, vous recevez un retour vocal de tout ce que vous
   faites. Votre expérience variera en fonction de votre niveau d'utilisation
   d'Emacs. Il n'y a rien qui ne puisse être fait dans Emacs&nbsp;:-). Ce paquet
-  comprend des serveurs vocaux écrits en tcl pour supporter les synthétiseurs
+  comprend des serveurs vocaux écrits en Tcl pour prendre en charge les synthétiseurs
   vocaux DECtalk Express et DECtalk MultiVoice. Pour d'autres synthétiseurs,
   veuillez rechercher un paquet de serveur vocal séparé tel qu'Emacspeak-ss ou
   <a href="#eflite">eflite</a>.
   </p>
 </a11y-pkg>
 
-<a11y-pkg name="speechd-el" tag="speechd-el"
+<a11y-pkg name="Speechd-el" tag="speechd-el"
           url="http://www.freebsoft.org/speechd-el">
   <p>
   Client Emacs pour les synthétiseurs vocaux, les afficheurs en Braille et les
@@ -276,7 +271,7 @@ valent très certainement la peine d'être regardés.
   complètes de lecture de l'écran.
   </p>
   <p>
-  Les modèles d'écrans suivants sont actuellement supportés
+  Les modèles d'écrans suivants sont actuellement gérés
   (version&nbsp;3.4.1-2)&nbsp;:
   </p>
   <ul>
@@ -357,16 +352,16 @@ valent très certainement la peine d'être regardés.
     </li>
   </ul>
   <p>
-  BRLTTY fournit également une infrastructure client&nbsp;/&nbsp;serveur pour
+  BRLTTY fournit également une infrastructure client/serveur pour
   les applications souhaitant utiliser un afficheur en braille. Le démon écoute
-  les connexions TCP/IP entrantes sur un certain port. Une bibliothèques
+  les connexions TCP/IP entrantes sur un certain port. Une bibliothèque
   d'objets partagés pour les clients est fournie dans le paquet <a
   href="https://packages.debian.org/libbrlapi">libbrlapi</a>. Une bibliothèque
   statique, les fichiers d'en-têtes et la documentation sont fournis dans le
   paquet <a href="https://packages.debian.org/libbrlapi-dev">libbrlapi-dev</a>.
-  Cette fonctionnalité est pour le moment utilisée par <a href="#gnopernicus">\
-  Gnopernicus</a> pour fournir le support pour des types d'afficheurs qui ne
-  sont pas encore supportés par Gnopernicus directement.
+  Cette fonctionnalité est, par exemple, utilisée par <a href="#gnopernicus">\
+  Gnopernicus</a> pour fournir la prise en charge pour des types d'afficheur qui ne
+  sont pas encore gérés par Gnopernicus directement.
   </p>
 </a11y-pkg>
 
@@ -388,10 +383,10 @@ valent très certainement la peine d'être regardés.
   universel.
   </p>
   <p>
-  Actuellement, yasr essaye de supporter les synthétiseurs matériels Speak-out,
+  Actuellement, yasr essaye de prendre en charge les synthétiseurs matériels Speak-out,
   DEC-talk, BNS, Apollo, et DoubleTalk. Il est également capable de communiquer
   avec les serveurs vocaux Emacspeak et peut donc être utilisé avec des
-  synthétiseurs indirectement supportés, comme <a href="#flite">Festival
+  synthétiseurs indirectement gérés, comme <a href="#flite">Festival
   Lite</a> (<i>via</i> <a href="#eflite">eflite</a>) ou FreeTTS.
   </p>
   <p>
@@ -424,10 +419,10 @@ GNOME</a>.
   permet aux fournisseurs de technologie d'assistance comme les lecteurs d'écran
   de demander à toutes les applications fonctionnant sur le bureau des
   informations liées à l'accessibilité ainsi que de fournir des mécanismes de
-  relais pour supporter des boîtes à outils autres que GTK.
+  relais pour prendre en charge des boîtes à outils autres que GTK.
   </p>
   <p>
-  Les liaisons pour le language Python sont fournies dans le paquet
+  Les liaisons pour le langage Python sont fournies dans le paquet
   <a href="https://packages.debian.org/python-at-spi">python-at-spi</a>.
   </p>
 </a11y-pkg>
@@ -442,7 +437,7 @@ GNOME</a>.
   </p>
   <p>
   Les bibliothèques d'exécution d'ATK, nécessaires au fonctionnement des
-  applications construites avec, est disponibles dans le paquet
+  applications construites avec, sont disponibles dans le paquet
   <a href="https://packages.debian.org/libatk1.0-0">libatk1.0-0</a>. Les
   fichiers de développement pour ATK, nécessaires à la compilation des
   programmes ou des boîtes à outils qui l'utilisent, sont fournis dans le
@@ -454,13 +449,13 @@ GNOME</a>.
 
 <a11y-pkg name="gnome-accessibility-themes" tag="gnome-accessibility-themes">
   <p>
-  Le paquet gnome-accessibility-themes contient quelques thème de haute
-  accessibilité pour l'environnement de bureau Gnome, ils sont conçus pour les
+  Le paquet gnome-accessibility-themes contient quelques grands thèmes
+  d’accessibilité pour l'environnement de bureau Gnome, conçus pour les
   malvoyants.
   </p>
   <p>
-  Un total de sept thème est fourni, permettant des combinaisons de contraste
-  fort, faible ou inversé, ainsi que des textes et des icones agrandis.
+  Un total de sept thèmes est fourni, permettant des combinaisons de contraste
+  fort, faible ou inversé, ainsi que des textes et des icônes agrandis.
   </p>
 </a11y-pkg>
 
@@ -471,7 +466,7 @@ GNOME</a>.
   texte en voix, ainsi que pour la saisie vocale.
   </p>
   <p>
-  Plusieurs filtres de sortie sont supportés, mais actuellement seul la sortie
+  Plusieurs filtres de sortie sont gérés, mais actuellement seul la sortie
   par <a href="#festival">Festival</a> est activée dans ce paquet&nbsp;; les
   autres filtres de sortie ont besoin de Java ou de logiciels propriétaires.
   </p>
@@ -501,7 +496,7 @@ GNOME</a>.
   Orca peut utiliser <a href="#gnome-speech">GNOME-speech</a> (par défaut) et
   <a href="#speech-dispatcher">Speech Dispatcher</a> pour fournir une sortie
   vocale aux utilisateurs. <a href="#brltty">BRLTTY</a> est utilisé pour la
-  gestion de l'affichage en braille (ainsi que pour l'intégration initiale de
+  gestion de l'affichage en braille (ainsi que pour l'intégration transparente de
   la console et de l'interface utilisateur en braille).
   </p>
 </a11y-pkg>
@@ -510,7 +505,7 @@ GNOME</a>.
 <h2><a id="kde" name="kde">Logiciels d'accessibilité de KDE</a></h2>
 <a11y-pkg name="kmag" tag="kmag">
   <p>
-  Agrandit une partie de l'écran exactement comme si vous utilisiez une loupe
+  Agrandir une partie de l'écran exactement comme si vous utilisiez une loupe
   pour agrandir un journal ou une photographie. Cette application est utile
   pour un grand nombre de personnes&nbsp;: des chercheurs aux artistes, aux
   concepteurs web et aux personnes avec une vision faible.
@@ -522,14 +517,14 @@ GNOME</a>.
 
 <a11y-pkg name="Dasher" tag="dasher" url="http://www.inference.phy.cam.ac.uk/dasher/">
   <p>
-  Dasher est une interface de saisie de texte efficace grâce à des
-  informations, piloté par des gestes naturels de toucher continu. Dasher est
-  un système de saisie de texte concurrentiel à chaque fois qu'un clavier
-  complet ne peut pas être utilisé, par exemple&nbsp;:
+  Dasher est une interface de saisie de texte productive, piloté par des gestes
+  naturels de pointage continu. Dasher est un système de saisie de texte
+  concurrentiel à chaque fois qu'un clavier complet ne peut pas être utilisé,
+  par exemple&nbsp;:
   </p>
   <ul>
     <li>sur un ordinateur portable Palm&nbsp;;</li>
-    <li>sur un vêtement-ordianteur&nbsp;;</li>
+    <li>sur un ordinateur portable&nbsp;;</li>
     <li>lors de l'utilisation d'un ordinateur d'une seule main, avec un manche,
         un écran tactile, une boule roulante ou une souris&nbsp;;</li>
     <li>lors de l'utilisation d'un ordinateur sans les mains (par exemple avec
@@ -543,7 +538,7 @@ GNOME</a>.
   expérimenté peut écrire 39&nbsp;mots par minute.
   </p>
   <p>
-  Dasher utilise un algorithme de prédiction plus avancé que le système T9(tm)
+  Dasher utilise un algorithme de prédiction plus avancé que le système T9™
   souvent utilisé dans les téléphones mobiles, le rendant sensible au contexte
   environnant.
   </p>
