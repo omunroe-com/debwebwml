@@ -217,28 +217,28 @@
 #<country code="il" name="<country-name IL>">
 #</country>
 
-<country code="in" name="<country-name IN>">
-<vendor name="Linux Plate"
-	country="in"
-        url="http://linuxplate.in"
-	deburl="http://linuxplate.in/distro/debian/"
-	contribution="no"
-	cd="yes"
-	dvd="yes"
-	architectures="i386, amd64"
-	ship="no"
-	contacturl="mailto:linuxplate@gmail.com" />   
-<vendor name="Vlinux"
-        url="http://vlinux.in"
-        deburl="http://vlinux.in/os/debian"
-        contacturl="mailto:vlinuxg@gmail.com"
-        country="in"
-        contribution="yes"
-        ship="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="amd64 i386" />
-</country>
+#<country code="in" name="<country-name IN>">
+#<vendor name="Linux Plate"
+#	country="in"
+#        url="http://linuxplate.in"
+#	deburl="http://linuxplate.in/distro/debian/"
+#	contribution="no"
+#	cd="yes"
+#	dvd="yes"
+#	architectures="i386, amd64"
+#	ship="no"
+#	contacturl="mailto:linuxplate@gmail.com" />   
+#<vendor name="Vlinux"
+#        url="http://vlinux.in"
+#        deburl="http://vlinux.in/os/debian"
+#        contacturl="mailto:vlinuxg@gmail.com"
+#        country="in"
+#        contribution="yes"
+#        ship="yes"
+#        cd="yes"
+#        dvd="yes"
+#        architectures="amd64 i386" />
+#</country>
 
 
 <country code="ir" name="<country-name IR>">
