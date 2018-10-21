@@ -1,0 +1,153 @@
+#use wml::debian::translation-check translation="9b0f24167bab7ac047fcd437a31fd6c303f0f804"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se han descubierto varias vulnerabilidades en el kernel Linux que
+pueden dar lugar a elevación de privilegios, denegación de servicio o fugas
+de información.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6554">CVE-2018-6554</a>
+
+    <p>Se descubrió una filtración de contenido de la memoria en la función irda_bind del subsistema
+    irda. Un usuario local puede aprovechar este defecto para provocar
+    denegación de servicio (consumo de memoria).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-6555">CVE-2018-6555</a>
+
+    <p>Se descubrió un defecto en la función irda_setsockopt del subsistema
+    irda que permite que un usuario local provoque denegación de servicio
+    («uso tras liberar» y caída del sistema).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-7755">CVE-2018-7755</a>
+
+    <p>Brian Belleville descubrió un defecto en la función fd_locked_ioctl
+    del controlador de disquete en el kernel Linux. El controlador de disquete copia un
+    puntero del kernel a memoria de usuario en respuesta a una ioctl FDGETPRM. Un
+    usuario local con acceso a una disquetera puede aprovechar
+    este defecto para averiguar la ubicación de código y datos del kernel.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-9363">CVE-2018-9363</a>
+
+    <p>Se descubrió que la implementación de Bluetooth HIDP no
+    comprobaba correctamente la longitud de los mensajes de informe recibidos. Un dispositivo
+    HIDP pareado podría usar esto para provocar desbordamiento de memoria, dando lugar a
+    denegación de servicio (corrupción de memoria o caída) o, potencialmente,
+    a ejecución de código remoto.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-9516">CVE-2018-9516</a>
+
+    <p>Se descubrió que la interfaz de eventos HID de debugfs no
+    limitaba correctamente la longitud de las copias de zonas de memoria de usuario. Un usuario
+    local con acceso a esos ficheros podría usar esto para provocar
+    denegación de servicio (corrupción de memoria o caída) o, posiblemente,
+    elevación de privilegios. Sin embargo, por omisión, debugfs solo es
+    accesible por el usuario root.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10902">CVE-2018-10902</a>
+
+    <p>Se descubrió que el controlador de kernel rawmidi no protege
+    frente a accesos concurrentes, lo que da lugar a un defecto de doble reasignación
+    (doble liberación). Un atacante local puede aprovechar esto para
+    elevación de privilegios.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-10938">CVE-2018-10938</a>
+
+    <p>Yves Younan, de Cisco, informó de que el módulo Cipso IPv4 no
+    comprobaba correctamente la longitud de las opciones IPv4. En kernels configurados por el usuario que tengan
+    CONFIG_NETLABEL habilitado, un atacante remoto podría usar esto para provocar
+    denegación de servicio (cuelgue).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-13099">CVE-2018-13099</a>
+
+    <p>Wen Xu, del SSLab en Gatech, informó de un error de «uso tras liberar» en la
+    implementación de F2FS. Un atacante con capacidad para montar un volumen F2FS
+    manipulado podría usar esto para provocar denegación de servicio (caída o
+    corrupción de memoria) o, posiblemente, para elevación de privilegios.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14609">CVE-2018-14609</a>
+
+    <p>Wen Xu, del SSLab en Gatech, informó de una potencial desreferencia de puntero
+    nulo en la implementación de F2FS. Un atacante con capacidad para montar
+    un volumen F2FS manipulado podría usar esto para provocar denegación de servicio
+    (caída).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14617">CVE-2018-14617</a>
+
+    <p>Wen Xu, del SSLab en Gatech, informó de una potencial desreferencia de puntero
+    nulo en la implementación de HFS+. Un atacante con capacidad para montar
+    un volumen HFS+ manipulado podría usar esto para provocar denegación de servicio
+    (caída).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14633">CVE-2018-14633</a>
+
+    <p>Vincent Pelletier descubrió un defecto de desbordamiento de pila en
+    la función chap_server_compute_md5() del código para dispositivos («targets») iSCSI. Un
+    atacante remoto no autenticado puede aprovechar este defecto para
+    provocar denegación de servicio o, potencialmente, para obtener acceso no autorizado
+    a datos exportados por un dispositivo iSCSI.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14678">CVE-2018-14678</a>
+
+    <p>M. Vefa Bicakci y Andy Lutomirski descubrieron un defecto en el
+    código exit del kernel, cuando lo usan sistemas amd64 que se ejecutan como huéspedes Xen PV.
+    Un usuario local podría usar esto para provocar denegación de servicio (caída).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-14734">CVE-2018-14734</a>
+
+    <p>Se descubrió un error de «uso tras liberar» en el gestor de 
+    comunicación InfiniBand. Un usuario local podría usar esto para provocar
+    denegación de servicio (caída o corrupción de memoria) o, posiblemente,
+    elevación de privilegios.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15572">CVE-2018-15572</a>
+
+    <p>Esmaiel Mohammadian Koruyeh, Khaled Khasawneh, Chengyu Song y
+    Nael Abu-Ghazaleh, de la Universidad de California, Riverside,
+    informaron de una variante de Spectre variante 2, apodado SpectreRSB. Un
+    usuario local puede usar esto para leer información sensible
+    de procesos de otros usuarios.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-15594">CVE-2018-15594</a>
+
+    <p>Nadav Amit informó de que algunas llamadas indirectas a funciones, usadas en
+    huéspedes paravirtualizados, eran vulnerables a Spectre variante 2. Un
+    usuario local puede usar esto para leer información sensible
+    del kernel.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16276">CVE-2018-16276</a>
+
+    <p>Jann Horn descubrió que el controlador yurex no limitaba correctamente
+    la longitud de las copias de zonas de memoria de usuario. Un usuario local con acceso al
+    nodo de un dispositivo yurex podría usar esto para provocar denegación de servicio
+    (corrupción de memoria o caída) o, posiblemente, elevación de privilegios.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16658">CVE-2018-16658</a>
+
+    <p>Se descubrió que el controlador cdrom no validaba
+    correctamente el parámetro para la ioctl CDROM_DRIVE_STATUS. Un usuario
+    con acceso a un dispositivo de cdrom podría usar esto para leer información
+    sensible del kernel o para provocar denegación de servicio
+    (caída).</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17182">CVE-2018-17182</a>
+
+    <p>Jann Horn descubrió que la función vmacache_flush_all gestiona incorrectamente
+    los desbordamientos del número de secuencia. Un usuario local puede aprovechar este
+    defecto para desencadenar un «uso tras liberar», provocando denegación de servicio
+    (caída o corrupción de memoria) o elevación de privilegios.</p></li>
+
+</ul>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 4.9.110-3+deb9u5.</p>
+
+<p>Le recomendamos que actualice los paquetes de linux.</p>
+
+<p>Para información detallada sobre el estado de seguridad de linux consulte su página
+en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/linux">https://security-tracker.debian.org/tracker/linux</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4308.data"
