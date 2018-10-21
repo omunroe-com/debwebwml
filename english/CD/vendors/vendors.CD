@@ -26,86 +26,15 @@
 </country>
 
 #<country code="at" name="<country-name AT>">
-#<vendor name="Arzl Angela"
-#        country="at"
-#        url="http://www.debian.arzl.net/"
-#        deburl="http://www.debian.arzl.net/"
-#        contribution="yes"
-#        cd="no"
-#        dvd="yes"
-#        architectures="multi-arch, amd64, i386, ia64, <source>"
-#        ship="yes"
-#        contacturl="mailto:debian1@arzl.net" />
-# [20111013] - Put on hold. Reason: web site not available
-#<vendor name="FRANK Open Source KEG"
-#        country="at"
-#        url="http://www.pinguin.at/"
-#        deburl="http://www.pinguin.at/cgi-bin/public_shop?scat=142"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386"
-#        ship="yes"
-#        contacturl="mailto:kundenservice@pinguin.at" />
 #</country>
 
 #<country code="au" name="<country-name AU>">
-# Disabled due to shop being down and the owner not having time to fix it
-#<vendor name="Linux Information Technology"
-#        country="au"
-#        url="http://www.linuxit.com.au/"
-#        deburl="http://shop.linuxit.com.au/?manufacturers_id=10"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386, amd64, <source>"
-#        ship="yes"
-#        contacturl="" />
 #</country>
 
 #<country code="bg" name="<country-name BG>">
-#<vendor name="Ingus Innovation"
-#        url="http://www.ingus.biz/"
-#        deburl="http://www.ingus.biz/debian"
-#        contacturl="mailto:sales@ingus.biz"
-#        country="bg"
-#        contribution="yes"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64 i386 ia64 " />
 #</country>
 
 <country code="br" name="<country-name BR>">
-#<vendor name="Allan Taborda dos Santos"
-#        url="http://irmaodamara.wordpress.com/"
-#        deburl="http://irmaodamara.wordpress.com/comprar-linux/"
-#        contacturl="mailto:irmaodamara@yahoo.com.br"
-#        country="br"
-#        contribution="no"
-#        ship="no"
-#        dvd="yes"
-#        architectures="multi-arch, amd64, i386" />
-#<vendor name="CA Computer"
-#	url="http://www.cacomputadores.com.br/v3/"
-#	deburl="http://www.cacomputadores.com.br/v3/linux/debian.html"
-#	contacturl="mailto:claudio@cacomputadores.com.br"
-#	country="br"
-#	contribution="no"
-#	ship="no"
-#	cd="no"
-#	dvd="yes"
-#	architectures="i386, amd64" />
-#<vendor name="Giovani Dias"
-#        url="http://www.acheilinux.com.br"
-#        deburl="http://www.acheilinux.com.br/linux/index.php?searchword=debian&amp;option=com_search"
-#        contacturl="mailto:giovani@acheilinux.com.br"
-#        country="br"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="multi-arch, amd64, i386, ia64, powerpc" />
 <vendor name="Hudson Oliveira"
         url="https://www.freewebs.com/corsario/"
         deburl="https://www.freewebs.com/corsario/"
@@ -125,25 +54,6 @@
 	cd="yes"
 	dvd="yes"
 	architectures="multi-arch, amd64, i386" />
-#<vendor name="Rodrigo Yamim Esteves"
-#        country="br"
-#        url="http://ryesteves.googlepages.com"
-#        deburl="http://ryesteves.googlepages.com"
-#        contacturl="mailto:ryesteves@gmail.com"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386" />
-#<vendor name="Simao e Buhler Ltda"
-#        url="http://www.simaoebuhler.com.br/"
-#        deburl="http://www.simaoebuhler.com.br/loja/"
-#        contacturl="mailto:simaoebuhler@simaoebuhler.com.br"
-#        country="br"
-#        contribution="no"
-#        ship="no"
-#        dvd="yes"
-#        architectures="multi-arch, amd64, i386" />
 </country>
 
 #<country code="by" name="<country-name BY>">
@@ -160,130 +70,24 @@
         cd="yes"
         dvd="yes"
         architectures="amd64, i386" />
-#<vendor name="TheLinuxStore.ca"
-#        country="ca"
-#        url="http://www.thelinuxstore.ca/"
-#        deburl="http://www.thelinuxstore.ca/index.php?main_page=index&amp;cPath=41_52"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386, ia64, othersonrequest"
-#        ship="yes"
-#        contacturl="mailto:sales@thelinuxstore.ca" />
 </country>
 
 #<country code="ch" name="<country-name CH>">
-#<vendor name="Traxx Network"
-#        url="http://www.traxxnet.ch"
-#        deburl="http://www.traxxnet.ch/debian"
-#        contacturl="mailto:root@traxxnet.ch"
-#        country="ch"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="multi-arch, i386, amd64, powerpc, arm, sparc" />
 #</country>
 
 #<country code="cl" name="<country-name CL>">
-# [20170126] - Put on hold. Reason: no recent Debian version available
-#<vendor name="DATA2013"
-#        url="http://www.data2013.cl"
-#        deburl="http://www.data2013.cl/DOCS/debian.html"
-#        contacturl="mailto:ventas@data2013.cl"
-#        country="cl"
-#        contribution="yes"
-#        ship="yes"
-#        dvd="yes"
-#        architectures="i386, amd64, arm, armel, ia64, mips, mipsel, powerpc, s390, sparc" />
-# [20111013] - Put on hold. Reason: web site not available
-#<vendor name="Geekstore"
-#        country="cl"
-#        url="http://www.geekstore.cl/"
-#        deburl="http://www.geekstore.cl/producto.php?sku=22"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386, ia64, powerpc, sparc"
-#        ship="no"
-#        contacturl="mailto:contacto@geekstore.cl" />
 #</country>
 
 #<country code="cn" name="<country-name CN>">
-# [20170126] - Put on hold. Reason: website no longer active
-#<vendor name="Beautiful Linux"
-#        country="cn"
-#        url="http://www.beautifullinux.com/"
-#        deburl="http://www.beautifullinux.com/dist/debian/"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386, ia64, powerpc, amd64, multi-arch, sparc, <source>"
-#        ship="no"
-#        contacturl="mailto:beautufullinux@126.com" />
 #</country>
 
 #<country code="co" name="<country-name CO>">
-#<vendor name="Tienda Linux"
-#        country="co"
-#        url="http://www.tiendalinux.com"
-#        deburl="http://www.tiendalinux.com/cgi-bin/tiendalx"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures=""
-#        ship="no"
-#        contacturl="mailto:ventas@tiendalinux.com" />
 #</country>
 
 #<country code="cr" name="<country-name CR>">
-# [20170126] - Put on hold. Reason: website no longer active
-#<vendor name="Felipe"
-#        url="http://debiandvd.blogspot.com/"
-#        deburl="http://debiandvd.blogspot.com/"
-#        contacturl="mailto:felipelvrd@esdebian.org"
-#        country="cr"
-#        contribution="no"
-#        ship="no"
-#        dvd="yes"
-#        architectures="i386" />
-# [20111013] - Put on hold. Reason: web site not available
-#<vendor name="MUNDOVIRTUAL de Costa Rica"
-#        url="http://www.mundovirtual.co.cr"
-#        deburl="http://www.mundovirtual.co.cr/cdlinux.htm"
-#        contacturl="mailto:ventas@mundovirtual.co.cr"
-#        country="cr"
-#        contribution="yes"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386" />
 #</country>
 
 #<country code="cz" name="<country-name CZ>">
-# [20170126] - Put on hold. Reason: no recent Debian version available
-#<vendor name="Antiradary-Distributor.cz"
-#        url="http://www.Antiradary-Distributor.cz/"
-#        deburl="http://www.Antiradary-Distributor.cz/debian"
-#        contacturl="mailto:euroshop@email.cz"
-#        country="cz"
-#        contribution="yes"
-#        ship="no"
-#        dvd="yes"
-#        architectures="i386" />
-
-# [20170711] Put on hold: reason: recipient address rejected
-#<vendor name="LinuxMarket"
-#        country="cz"
-#        url="https://www.linuxmarket.cz"
-#        deburl="https://www.linuxmarket.cz"
-#        contribution="yes"
-#        cd="no"
-#        dvd="yes"
-#        usb="yes"
-#        architectures="amd64"
-#        ship="no"
-#        contacturl="mailto:linuxmarket@linuxsoft.cz" />
 #</country>
 
 <country code="de" name="<country-name DE>">
@@ -306,38 +110,6 @@
         ship="no"
         dvd="yes"
         architectures="amd64, i386" />
-# [20170711] Put on hold: reason: recipient address rejected
-#<vendor name="Hinner EDV"
-#        country="de"
-#        url="http://www.hinner.de/linux/"
-#        deburl="http://www.hinner.de/linux/"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="alpha, arm, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>, Hurd-i386"
-#        ship="yes"
-#        contacturl="mailto:info@hinner.de" />
-##<vendor name="ISO4YOU"
-# [20170126] - Put on hold. Reason: website no longer available
-#        country="de"
-#        url="http://www.iso4you.de/"
-#        deburl="http://www.iso4you.de/catalog/index.php?manufacturers_id=8"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="all, <source>"
-#        ship="europe"
-#        contacturl="mailto:debian@iso4you.de" />
-#<vendor name="ixsoft Softwareentwicklung und -vertrieb Bernd Hentig"
-#        country="de"
-#        url="http://www.ixsoft.de"
-#        deburl="http://www.ixsoft.de/software/products/debian-catalog-de.html"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386, <source>"
-#        ship="europe"
-#        contacturl="mailto:ixsoft@ixsoft.de" />
 <vendor name="Joomla Webdesign Homburg"
         url="https://www.joomla-programmieren.de/"
         deburl="https://www.joomla-programmieren.de/debian-linux.html"
@@ -347,17 +119,6 @@
         ship="no"
         dvd="yes"
         architectures="amd64, i386" />
-#<vendor name="LinSoft GmbH"
-# [20170126] - Put on hold. Reason: no recent Debian version available
-#        country="de"
-#        url="http://www.linsoft.de/"
-#        deburl="http://www.linsoft.de/engine/productG/OS/"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="amd64, i386"
-#        ship="europe"
-#        contacturl="mailto:info@linsoft.de" />
 <vendor name="Linux-Onlineshop"
         url="http://www.linux-onlineshop.de"
         deburl="http://www.linux-onlineshop.de/Software-Buecher/ISO-Distris/Debian.geek"
@@ -370,58 +131,6 @@
         bd="no"
         usb="yes"
         architectures="amd64, i386, powerpc" />
-#<vendor name="Mediaup Crossmedia"
-# [20170126] - Put on hold. Reason: no recent Debian version available
-#        url="http://www.mediaup.de"
-#        deburl="http://www.mediaup.de/programmierung/debian.html"
-#        contacturl="mailto:hallo@mediaup.de"
-#        country="de"
-#        contribution="yes"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386" />
-#<vendor name="Make my Disc"
-#        country="de"
-#        url="http://www.make-my-disc.de"
-#        deburl="http://www.make-my-disc.de/Debian:::1.html"
-#        contribution="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, arm, i386, ia64, mips, mipsel, powerpc, s390, sparc"
-#        ship="no"
-#        contacturl="mailto:kontakt@make-my-disc.de" />
-#<vendor name="Medialekt"
-#	country="de"
-#	url="http://medialekt.de"
-#	deburl="http://medialekt.de/it-hard-a-software/software/debian"
-#	contribution="yes"
-#	cd="no"
-#	dvd="yes"
-#	architectures="i386, amd64"
-#	ship="no"
-#	contacturl="mailto:info@medialekt.de" />
-#<vendor name="Preis1 GMBH"
-#        url="http://www.preis1.de/"
-#        deburl="http://www.preis1.de/debian-linux/"
-#        contacturl="mailto:rik.snuiverink@preis1.de"
-#        country="de"
-#        contribution="yes"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="ALL " />
-# [20170126] - Put on hold. Reason: website no longer active
-#<vendor name="Sebastian Steins IT-Consulting"
-#        country="de"
-#        url="http://seb.st/"
-#        deburl="http://seb.st/dvds/"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386"
-#        ship="yes"
-#        contacturl="mailto:opensource@sebastiansteins.com" />
 <vendor name="Tintenalarm.de"
         country="de"
         url="http://www.tintenalarm.de/"
@@ -432,26 +141,6 @@
         architectures="amd64, arm, i386, ia64, mips, mipsel, powerpc, s390, sparc, <source>"
         ship="europe"
         contacturl="mailto:info@tintenalarm.de" />
-#<vendor name="TONERDUMPING"
-# [20170126] - Put on hold. Reason: does not sell Debian CDs
-#        country="de"
-#        url="http://www.toner-dumping.de"
-#        deburl="http://www.toner-dumping.de/toner/buerotechnik-software-cds-dvds-c-7613_8934.html"
-#        contribution="no"
-#        cd="no"
-#        dvd="yes"
-#        architectures="amd64, i386"
-#        ship="no"
-#        contacturl="mailto:Kundenservice@toner-dumping.de" />
-#<vendor name="UD Media Webhosting"
-#        url="http://www.udmedia.de"
-#        deburl="https://www.udmedia.de/server/zusatzkomponenten/"
-#        contacturl="mailto:info@udmedia.de"
-#        country="de"
-#        contribution="yes"
-#        ship="no"
-#        dvd="yes"
-#        architectures="i386 amd64 "/>
 <vendor name="vianos webdesign"
         url="http://www.vianos.de"
         deburl="http://www.vianos.de/debian.html"
@@ -463,58 +152,13 @@
         architectures="multi-arch, amd64, i386" />
 </country>
 
-# [20170711] Put on hold: reason: recipient address rejected
 #<country code="dk" name="<country-name DK>">
-#<vendor name="www.linuxpusher.dk"
-#        country="dk"
-#        url="http://www.linuxpusher.com"
-#        deburl="http://www.linuxpusher.com/distributions/Debian-GNU/Linux"
-#        contribution="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures=""
-#        ship="yes"
-#        contacturl="mailto:infoNOSPAM@linuxpusher.com" />
 #</country>
-#
+
 #<country code="es" name="<country-name ES>">
-# [2014-06-13] Put on hold, reason:
-# Atención: No se aceptan pedidos hasta nuevo aviso
-# Note: No orders will be accepted until further notice
-# https://lists.debian.org/472731335.179018.1399980454239.JavaMail.root@sm2baleares.es
-#<vendor name="enchufado.com"
-#	url="http://enchufado.com"
-#	deburl="http://debiancd.enchufado.com/"
-#	contacturl="mailto:debiancd@enchufado.com"
-#	country="es"
-#	contribution="yes"
-#	ship="no"
-#	cd="yes"
-#	dvd="yes"
-#	architectures="amd64, armel, kfreebsd-i386, kfreebsd-amd64, i386, ia64, mips, mipsel, powerpc, sparc" />
-# [20111013] - Put on hold. Reason: only lists etch - too out of date
-#<vendor name="Microcubo"
-#        url="http://microcubo.com"
-#        deburl="http://microcubo.com/categorias/51-distros-linux.html"
-#        contacturl="mailto:info@microcubo.com"
-#        country="es"
-#        contribution="yes"
-#        ship="no"
-#        dvd="yes"
-#        architectures="amd64 i386" />
 #</country>
 
 #<country code="fi" name="<country-name FI>">
-#<vendor name="LinuxCD.eu"
-#        url="http://www.linuxcd.eu/"
-#        deburl="http://www.linuxcd.eu/debian/"
-#        contacturl="mailto:myynti@linuxcd.eu"
-#        country="fi"
-#        contribution="no"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386, amd64, alpha, arm, armel, hppa, ia64, mips, mipsel, powerpc, s390, sparc" />
 #</country>
 
 <country code="fr" name="<country-name FR>">
@@ -528,7 +172,6 @@
 	cd="yes"
 	dvd="yes"
 	architectures="ALL" />
-
 <vendor name="GetLinux"
         url="http://www.getlinux.fr"
         deburl="http://www.getlinux.fr/debian-m-11.html"
@@ -538,77 +181,18 @@
         ship="yes"
         dvd="yes"
         architectures="multi-arch, amd64, i386, powerpc, <source>" />
-#<vendor name="Gorfou"
-#        url="http://gorfou.fr"
-#        deburl="http://gorfou.fr/debian-cd/"
-#        contacturl="mailto:info@gorfou.fr"
-#        country="fr"
-#        contribution="yes"
-#        ship="yes"
-#        dvd="yes"
-#        architectures="multi-arch, amd64, i386" />
 </country>
 
 #<country code="gr" name="<country-name GR>">
-#<vendor name="Zenika HELLAS"
-#        url="http://www.zenika.gr"
-#        deburl="http://www.zenika.gr/debian-media-and-trainings-store-of-zenika-hellas.html?page=shop.browse&amp;category_id=29"
-#        contacturl="mailto:sales@zenika.gr"
-#        country="gr"
-#        contribution="yes"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386, powerpc, sparc, ia64, arm, mips, hppa, mipsel, s390, kfreebsd32, kfreebsd64" />
 #</country>
 
 # <country code="hk" name="<country-name HK>">
-# <vendor name="Monwe Debian Linux"
-#        url="http://www.monwe.com"
-#        deburl="http://www.monwe.com"
-#        contacturl="mailto:sales@monwe.com"
-#        country="hk"
-#        contribution="no"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386, ia64, powerpc" />
 # </country>
 
 #<country code="hu" name="<country-name HU>">
-#<vendor name="Debian CD Project"
-#        url="http://debiancd.org/"
-#        deburl="http://debiancd.org/about.php"
-#        contacturl="mailto:nospam@debiancd.org"
-#        country="hu"
-#        contribution="yes"
-#        ship="yes"
-#        cd="yes"
-#        architectures="amd64, i386" />
 #</country>
 
 <country code="id" name="<country-name ID>">
-#<vendor name="GudangLinux"
-# [20170126] - Put on hold. Reason: no recent Debian version available
-#        country="id"
-#        url="http://www.gudanglinux.com/"
-#        deburl="http://gudanglinux.com/index.php?searchword=debian&amp;option=com_search"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:info@gudanglinux.net" />
-#<vendor name="Juragan Kambing UI"
-#        url="http://juragan.kambing.ui.edu"
-#        deburl="http://juragan.kambing.ui.edu/search/node/debian"
-#        contacturl="mailto:juragan@kambing.ui.edu"
-#        country="id"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386, ia64" />
 <vendor name="Toko Baliwae - Tokonya Maniak Linux"
         country="id"
         url="http://toko.baliwae.com/"
@@ -622,29 +206,9 @@
 </country>
 
 #<country code="il" name="<country-name IL>">
-#<vendor name="LinBoo.com"
-#        url="http://linboo.com/"
-#        deburl="http://linboo.com/linux/debian.html"
-#        contacturl="mailto:info@linboo.com"
-#        country="il"
-#        contribution="no"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386"/>
 #</country>
 
 <country code="in" name="<country-name IN>">
-#<vendor name="Linux Bazar"
-#        country="in"
-#        url="http://www.LinuxBazar.com/"
-#        deburl="http://www.linuxbazar.com/index.php?main_page=advanced_search_result&amp;keyword=debian"
-#        contribution="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="multi-arch, i386, amd64, ia64, powerpc, sparc, alpha, <source>"
-#        ship="yes"
-#        contacturl="mailto:sales@linuxbazar.com" />
 <vendor name="Linux Plate"
 	country="in"
         url="http://linuxplate.in"
@@ -655,72 +219,6 @@
 	architectures="i386, amd64"
 	ship="no"
 	contacturl="mailto:linuxplate@gmail.com" />   
-# [20111013 ] TODO - on hold. Need to contact them, they are providing only Debian 3.1
-#<vendor name="LINUXjunkies Foundation"
-#        country="in"
-#        url="http://www.linuxjunkies.org/"
-#        deburl="http://linuxjunkies.org/cds.php"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:gnucd@linuxjunkies.org" />
-#<vendor name="Rainbow Computech"
-#        country="in"
-#        url="http://www.rainbowcomputech.com/"
-#        deburl="http://www.rainbowcomputech.com/index.php?cPath=2_20&amp;filter_id=6"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:support@rainbowcomputech.com" />
-# [20111013 ] TODO - on hold. Need to contact them, they are providing only Debian 3.1
-#<vendor name="RoseIndia.net"
-#        country="in"
-#        url="http://www.roseindia.net/linux/"
-#        deburl="http://www.roseindia.net/linux/debian3_cds.shtml"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="" />
-# [20111013 ] TODO - on hold. Need to contact them, they are providing only Debian 4.0 and 5.0
-# cds
-#<vendor name="san syatem"
-#        url="http://sites.google.com/site/linux4ugroup/home"
-#        deburl="http://sites.google.com/site/linux4ugroup/price-list"
-#        contacturl="mailto:hitu1986@gmail.com"
-#        country="in"
-#        contribution="yes"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386" />
-# [20111013] - Put on hold. Reason: web site not available
-#<vendor name="Taurusoft"
-#        url="http://taurusoft.netfirms.com"
-#        deburl="http://taurusoft.netfirms.com/pg008.html"
-#        contacturl="mailto:taurusoft@gmail.com"
-#        country="in"
-#        contribution="no"
-#        ship="no"
-#        dvd="yes"
-#        architectures="amd64, i386"/>
-#<vendor name="V Linux"
-# [20170126] - Put on hold. Reason: shop no longer active
-#		url="http://v-linux.com/"
-#		deburl="http://v-linux.com/os/debian"
-#		contacturl="mailto:vlinux@gmail.com"
-#		country="in"
-#		contribution="yes"
-#		ship="yes"
-#		cd="no"
-#		dvd="yes"
-#		architectures="amd64 i386"/>
-
 <vendor name="Vlinux"
         url="http://vlinux.in"
         deburl="http://vlinux.in/os/debian"
@@ -731,23 +229,10 @@
         cd="yes"
         dvd="yes"
         architectures="amd64 i386" />
-
-# [20170711] Put on hold: reason: do not provide support any more
-#<vendor name="Zyxware Technologies"
-#        url="http://www.zyxware.com"
-#        deburl="http://www.zyxware.com/requestcd/%252Fresults/field_distribution_name%3A%22Debian%22"
-#        contacturl="mailto:cdrequest@zyxware.com"
-#        country="in"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386" />
 </country>
 
 
 <country code="ir" name="<country-name IR>">
-
 <vendor name="LinuxCD"
         url="http://linuxcd.ir/"
         deburl="http://linuxcd.ir/Debian-c-806_173.html"
@@ -758,7 +243,6 @@
         cd="yes"
         dvd="yes"
         architectures="amd65 i386" />
-
 <vendor name="Linuxshop Online Store"
         url="http://linuxshop.ir"
         deburl="http://linuxshop.ir/index.php?cPath=17"
@@ -769,51 +253,9 @@
         cd="yes"
         dvd="yes"
         architectures="amd64 i386" />
-
-#<vendor name="Sito Open-Source Software Distribution Company"
-#        url="http://shop.sito.ir/"
-#        deburl="http://debian.sito.ir/"
-#        contacturl="mailto:shop@sito.ir"
-#        country="ir"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64 i386" />
 </country>
 
 <country code="it" name="<country-name IT>">
-# [20111013] - Put on hold. Reason: deburl 404 and no mention of Debian
-#<vendor name="AL.FA. Computer"
-#        country="it"
-#        url="http://www.alfa-computer.com/"
-#        deburl="http://www.alfa-computer.com/index.php?name=Debian"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386, amd64, powerpc"
-#        ship="no"
-#        contacturl="mailto:info@alfa-computer.com" />
-#<vendor name="Ditta Ferrara"
-#        url="http://www.dittaferrara.it"
-#        deburl="http://www.dittaferrara.it/debian"
-#        contacturl="mailto:ditta.ferrara@yahoo.it"
-#        country="it"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386" />
-#<vendor name="DVFConsulting"
-#        url="http://www.dvfconsulting.it"
-#        deburl="http://www.dvfconsulting.it/site/debian.htm"
-#        contacturl="mailto:info@dvfconsulting.it"
-#        country="it"
-#        contribution="yes"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386" />
 <vendor name="Laser Office sas"
         country="it"
         url="http://www.laseroffice.it/"
@@ -824,58 +266,6 @@
         architectures="amd64, i386, <source>"
         ship="europe"
         contacturl="mailto:alex@laseroffice.it" />
-#<vendor name="Massimo MELLANO"
-#        country="it"
-#        url="http://blog.caraglio.info/"
-#        deburl="http://blog.caraglio.info/2005/07/acquisto-dvd-cd-debian.html"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
-#        ship="europe"
-#        contacturl="mailto:mellano+debian@gmail.com" />
-# [20111013] - Put on hold. Reason: deburl does not work and main site
-# redirect to unrelated? (chinese) Wordpress instance
-#<vendor name="Qwerty Assistance"
-#        country="it"
-#        url="http://www.itqwerty.biz/home/"
-#        deburl="http://www.itqwerty.biz/debian/debian.html"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:lele@itqwerty.biz" />
-#<vendor name="StarSoftware"
-#        country="it"
-#        url="http://www.starsoftware.it/"
-#        deburl="http://www.starsoftware.it/server_debian.htm"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:sales@starsoftware.it" />
-#<vendor name="Vedova Computing di Emanuele Vedova"
-#        url="http://www.vedova.it/"
-#        deburl="http://www.vedovashopping.com/debian/"
-#        contacturl="mailto:info@vedova.it"
-#        country="it"
-#        contribution="yes"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="ALL multi-arch amd64 armel hppa i386 ia64 mips mipsel powerpc s390 sparc" />
-#<vendor name="YetOpen S.r.l."
-#        url="http://www.yetopen.it/"
-#        deburl="http://www.yetopen.it/debian.html"
-#        contacturl="mailto:commerciale@yetopen.it"
-#        country="it"
-#        contribution="yes"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="multi-arch, i386" />
 </country>
 
 <country code="jo" name="<country-name JO>">
@@ -906,17 +296,6 @@
 </country>
 
 #<country code="kz" name="<country-name KZ>">
-#<vendor name="linuxISO.kz"
-#        country="kz"
-#        url="http://linuxiso.kz"
-# TODO 20111013 - Contact the vendor, deburl does not exist
-#        deburl="http://linuxiso.kz/category_9.html"
-#        contribution="yes"
-#        cd="no"
-#        dvd="yes"
-#        architectures="i386, amd64, ia64"
-#        ship="some"
-#        contacturl="http://www.linuxiso.kz/index.php?feedback=yes" />
 #</country>
 
 <country code="lb" name="<country-name LB>">
@@ -931,50 +310,8 @@
         architectures="amd64 i386 armel armhf mipsel mips s390x arm64 ppc64el mips64el " />
 </country>
 
-<country code="mx" name="<country-name MX>">
-# <vendor name="Alejandro Sierra"
-#         country="mx"
-#         url="http://debian.alesoft.net"
-#         deburl="http://debian.alesoft.net"
-#         contribution="yes"
-#         cd="yes"
-#         dvd="no"
-#         architectures="i386, powerpc, sparc"
-#         ship="no"
-#         contacturl="mailto:asierra@servidor.unam.mx" />
-#<vendor name="Con la cicuta en el bolsillo"
-#        country="mx"
-#        url="http://conlacicutaenelbolsillo.net/linuz.php"
-#        deburl="http://linuz.conlacicutaenelbolsillo.net/"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386 amd64"
-#        ship="yes" 
-#	contacturl="mailto:emuniztrejo@gmail.com" />
-# [20170711] Put on hold: reason: recipient address rejected
-#<vendor name="CyberMaya"
-#        country="mx"
-#        url="http://www.cybermaya.com/index.php"
-#        deburl="http://www.cybermaya.com/productos_det.php?idarticulo=DEBIAN"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:ventas@cybermaya.com" />
-# SCI Mexico Became a spam site:
-#<vendor name="Servicios de Computo e Ingenieria"
-#        url="http://www.scimexico.com"
-#        deburl="http://scimexico.com/content/view/25/41/"
-#        contacturl="mailto:linuxdistros@scimexico.com"
-#        country="mx"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386" />
-</country>
+#<country code="mx" name="<country-name MX>">
+#</country>
 
 #<country code="my" name="<country-name MY>">
 #</country>
@@ -1012,7 +349,6 @@
 		bd="no"
 		usb="yes"
 		architectures="ALL" />
-
 </country>
 
 <country code="nz" name="<country-name NZ>">
@@ -1029,153 +365,21 @@
 </country>
 
 #<country code="pe" name="<country-name PE>">
-#<vendor name="Discos Linux Peru"
-# [20170126] - Put on hold. Reason: outdated, does not sell Debian CDs
-#        url="http://discoslinux.googlepages.com/"
-#        deburl="http://discoslinux.googlepages.com/"
-#        contacturl="mailto:discoslinux@gmail.com"
-#        country="pe"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386" />
 #</country>
 
 #<country code="pk" name="<country-name PK>">
-#<vendor name="Digital studios"
-#	country="pk"
-#	url="http://www.digitalstudios.tk/"
-#	deburl="http://tahwer.site90.com/debian.htm"
-#	contribution="no"
-#	ship="no"
-#	cd="no"
-#	dvd="yes"
-#	architectures="i386 amd64 <source>"
-#	contacturl="tahwer.m@gmail.com" />
 #</country>
 
 #<country code="pl" name="<country-name PL>">
-#<vendor name="Altkomp PHU"
-#        country="pl"
-#        url="http://www.market.altkomp.pl/linux-dystrybucje-na-cd-i-dvd-system-operacyjny-linux-debian-c-78_83.html"
-#        deburl="http://www.market.altkomp.pl/linux-dystrybucje-na-cd-i-dvd-system-operacyjny-linux-debian-c-78_83.html"
-#        contribution="no"
-#        cd="no"
-#        dvd="yes"
-#        architectures="i386, amd64, ia64"
-#        ship="europe"
-#        contacturl="mailto:sklep@altkomp.net" />
-#<vendor name="RAZIT.pl INTERNET STORE"
-#        url="http://www.sklep.razit.pl/"
-#        deburl="http://www.sklep.razit.pl/index.php/linux/debian.html"
-#        contacturl="mailto:sklep@razit.pl"
-#        country="pl"
-#        contribution="yes"
-#        ship="europe"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386, amd64, alpha, arm, armel, hppa, ia64, mips, mipsel, powerpc, s390, sparc" />
 #</country>
 
 #<country code="pt" name="<country-name PT>">
-#<vendor name="DEQ/FCTUC"
-#        country="pt"
-#        url="http://www.eq.uc.pt/"
-#        deburl="http://www.eq.uc.pt/laca/debian/"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures=""
-#        ship="europe"
-#        contacturl="mailto:debian@eq.uc.pt" />
 #</country>
 
 #<country code="ro" name="<country-name RO>">
-#<vendor name="LinuxCD Romania"
-#        country="ro"
-#        url="http://www.linuxcd.ro"
-#        deburl="http://www.linuxcd.ro"
-#        contribution="no"
-#        cd="no"
-#        dvd="yes"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:sales@linuxcd.ro" />
 #</country>
 
 <country code="ru" name="<country-name RU>">
-#<vendor name="Books.Ru"
-#        country="ru"
-#        url="http://www.books.ru/"
-#        deburl="http://www.books.ru/shop/show/118205"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="http://www.books.ru/shop/feedback" />
-#<vendor name="DISTROS.RU"
-#	country="ru"
-#	url="http://distros.ru"
-#	deburl="http://distros.ru/debian"
-#	contribution="no"
-#	cd="yes"
-#	dvd="yes"
-#	architectures="i386 amd64"
-#	ship="yes"
-#	contacturl="mailto:getdebian@gmail.com" />
-#<vendor name="IT-company linCORE"
-#        url="http://www.lincore.ru/"
-#        deburl="http://www.lincore.ru/debian/"
-#        contacturl="mailto:free@lincore.ru"
-#        country="ru"
-#        contribution="no"
-#        ship="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386" />
-#<vendor name="Knoppix.ru"
-#        country="ru"
-#        url="http://knoppix.ru"
-#        deburl="http://knoppix.ru/debian.shtml"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="yes"
-#        contacturl="mailto:sale@knoppix.ru" />
-#<vendor name="Linux2u"
-# [20170126] - Put on hold. Reason: no recent Debian version available
-#        url="http://linux2u.ru/"
-#        deburl="http://linux2u.ru/debian.html"
-#        contacturl="mailto:info@linux2u.ru"
-#        country="ru"
-#        contribution="no"
-#        ship="some"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64 i386 " />
-#<vendor name="LinuxCenter.Ru"
-# [20170126] - Put on hold. Reason: no recent Debian version available
-#        country="ru"
-#        url="http://www.linuxcenter.ru/"
-#        deburl="http://www.linuxcenter.ru/shop/debian/"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:info@linuxcenter.ru" />
-#<vendor name="UNIXPARK.RU"
-#        url="http://www.unixpark.ru/"
-#        deburl="http://www.unixpark.ru/articles.php?group_id=6"
-#        contacturl="mailto:support@unixpark.ru"
-#        country="ru"
-#        contribution="no"
-#        ship="no"
-#        dvd="yes"
-#        architectures="multi-arch, amd64, i386, ia64"/>
 <vendor name="www.LinuxDVD.ru"
         url="http://www.linuxdvd.ru"
         deburl="http://www.linuxdvd.ru/advanced_search_result.php?keywords=debian"
@@ -1188,152 +392,18 @@
 </country>
 
 #<country code="se" name="<country-name SE>">
-#<vendor name="LinuxShop.nu"
-#        country="se"
-#        url="http://www.linuxshop.nu/"
-#        deburl="http://www.linuxshop.nu/shoppen/advanced_search_result.php?keywords=debian"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386, powerpc, sparc, <source>"
-#        ship="no"
-#        contacturl="mailto:info@linuxshop.nu" />
 #</country>
 
 #<country code="sk" name="<country-name SK>">
-#<vendor name="PD Software s.r.o."
-# [20170126] - Put on hold. Reason: no recent Debian version available
-#        url="http://www.pdsoftware.eu"
-#        deburl="http://www.pdsoftware.eu/debian"
-#        contacturl="mailto:debian@pdsoftware.eu"
-#        country="sk"
-#        contribution="no"
-#        ship="no"
-#        dvd="yes"
-#        architectures="amd64 i386 ia64 <source>" />
 #</country>
 
 #<country code="tr" name="<country-name TR>">
-#<vendor name="Linux34"
-#        country="tr"
-#        url="http://www.linux34.com/"
-#        deburl="http://www.linux34.com/index.php?route=product/search&amp;keyword=debian"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="mailto:info@linux34.com" />
 #</country>
 
 #<country code="ua" name="<country-name UA>">
-# [20111013] - Put on hold. Reason: deburl does not work and site
-# is not IT related
-#<vendor name="Lafox.Net"
-#        country="ua"
-#        url="http://lafox.net/shop/"
-#        deburl="http://lafox.net/shop/?gid=5"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386"
-#        ship="no"
-#        contacturl="" />
-#<vendor name="LINUXiso"
-#        url="http://linuxiso.com.ua"
-#        deburl="http://linuxiso.com.ua/dir.php?id=331"
-#        contacturl="mailto:linuxiso@ukr.net"
-#        country="ua"
-#        contribution="yes"
-#        ship="no"
-#        dvd="yes"
-#        architectures="amd64 i386 ia64" />
 #</country>
 
 <country code="gb" name="<country-name GB>">
-# <vendor name="BuyLinuxIso"
-#         url="http://www.buylinuxiso.com"
-#         deburl="http://www.buylinuxiso.com/advanced_search_result.php?keywords=debian"
-#         contacturl="mailto:buylinux@buylinuxiso.com"
-#         country="gb"
-#         contribution="no"
-#         ship="yes"
-#         cd="yes"
-#         dvd="yes"
-#         architectures="amd64, i386" />
-# [20111013] - Put on hold. Reason: deburl and site does not work 
-#<vendor name="Cheeplinux"
-#        country="gb"
-#        url="http://www.cheeplinux.com/"
-#        deburl="http://www.cheeplinux.com/index.php?cPath=32_34"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
-#        ship="yes"
-#        contacturl="mailto:sales@cheeplinux.com" />
-# Disabled, no longer operating
-#<vendor name="Debianshop"
-#        country="gb"
-#        url="http://www.debianshop.com/"
-#        deburl="http://www.debianshop.com/"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
-#        ship="yes"
-#        contacturl="mailto:sales@debianshop.com" />
-#<vendor name="Linux deli"
-#        url="http://www.linuxdeli.com"
-#        deburl="http://www.linuxdeli.com/Distro/debian"
-#        contacturl="mailto:store@linuxdeli.com"
-#        country="gb"
-#        contribution="yes"
-#        ship="yes"
-#        dvd="yes"
-#        architectures="amd64 armel i386 powerpc " />
-#<vendor name="Linux Distro UK"
-#        country="gb"
-#        url="http://linux-distro.co.uk/"
-#        deburl="https://linux-distro.co.uk/index.php?main_page=advanced_search_result&amp;search_in_description=1f&amp;keyword=debian"
-#        contribution="no"
-#        cd="no"
-#        dvd="yes"
-#        architectures="multi-arch, i386, powerpc"
-#        ship="yes"
-#        contacturl="mailto:sales@linux-distro.co.uk" />
-#<vendor name="Linux Emporium"
-#        country="gb"
-#        url="http://www.linuxemporium.co.uk"
-#        deburl="http://www.linuxemporium.co.uk/products/debian/"
-#        contribution="no"
-#        cd="no"
-#        dvd="yes"
-#        architectures="i386, ia64, amd64, powerpc"
-#        ship="yes"
-#        contacturl="mailto:sales@linuxemporium.co.uk" />
-#<vendor name="Linux-Man DistrOS"
-#        country="gb"
-#        url="http://www.linux-man.co.uk/"
-#        deburl="http://linux-man.co.uk/shop/advanced_search_result.php?keywords=debian"
-#        contribution="no"
-#        cd="no"
-#        dvd="yes"
-#        architectures="i386, amd64"
-#        ship="europe"
-#        contacturl="mailto:Info@linux-man.co.uk" />
-# [20111013] - Put on hold. Reason: empty web site
-#<vendor name="OS Discs"
-#        url="http://www.osdiscs.co.uk"
-#        deburl="http://osdiscs.co.uk"
-#        contacturl="mailto:support@osdiscs.co.uk"
-#        country="gb"
-#        contribution="yes"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386" />
-
 <vendor name="Steve McIntyre"
         country="gb"
         url="http://www.einval.com/~steve/DebianCD/"
@@ -1346,7 +416,6 @@
         architectures="ALL"
         ship="yes"
         contacturl="mailto:steve@einval.com" />
-
 <vendor name="thelinuxshop"
         country="gb"
         url="http://www.thelinuxshop.co.uk/"
@@ -1370,18 +439,6 @@
         architectures="amd64, i386"
         ship="no"
         contacturl="http://www.aboutdebian.com/contact.htm" />
-#<vendor name="AVADirect Custom Computers"
-# [20170126] - Put on hold. Reason: does not sell Debian CDs
-#	country="us"
-#	url="http://www.avadirect.com"
-#	deburl="http://www.avadirect.com/Debian/Operating-Systems"
-#	contribution="no"
-#	cd="no"
-#	dvd="yes"
-#	architectures="i386 amd64"
-#	ship="yes"
-#	contacturl="mailto:sales@avadirect.com" />
-
 <vendor name="Cape Cod Office Consultants"
         country="us"
         url="http://shop.ccocnet.com/"
@@ -1392,59 +449,6 @@
         architectures="amd64 i386 arm64 " 
         ship="no"
         contacturl="mailto:linuxdiscs@ccoc.email"/>
-
-# [20121126] - Disabled, online shop URLs are 404 or broken
-#<vendor name="Cheap*Bytes"
-#        country="us"
-#        url="http://www.cheapbytes.com"
-#        deburl="http://cart.cheapbytes.com/cgi-bin/cart/search.html?se=debian"
-#        contribution="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="multi-arch, amd64, i386, ia64, powerpc"
-#        ship="yes"
-#        contacturl="mailto:sales@cheapbytes.com" />
-# [20111013] - Put on hold. Reason: web site does not answer
-#<vendor name="EasyLinuxCds.com"
-#        url="http://easylinuxcds.com"
-#        deburl="http://easylinuxcds.com"
-#        contacturl="mailto:andrew@easylinuxcds.com"
-#        country="us"
-#        contribution="yes"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386, ia64"/>
-#<vendor name="Linux Central"
-#        country="us"
-#        url="http://linuxcentral.com"
-#        deburl="http://linuxcentral.com/catalog/index.php3?s_prod_name=debian&amp;cat=search"
-#        contribution="no"
-#        cd="yes"
-#        dvd="no"
-#        architectures="alpha, i386, m68k, sparc, <source>"
-#        ship="yes"
-#        contacturl="mailto:sales@linuxcentral.com" />
-# [20111013] - Put on hold. Reason: web site empty. Parked?
-#<vendor name="Linux Stock"
-#        country="us"
-#	url="http://www.linuxstock.com"
-#	deburl="http://www.linuxstock.com/store.php?section=6"
-#	contribution="yes"
-#	cd="yes"
-#	dvd="yes"
-#	architectures="i386, amd64, armel, powerpc, sparc, ia64, mipsel, s390, mips"        
-#	ship="some"
-#	contacturl="support@linuxstock.com" />
-#<vendor name="Linux-GNU"
-#        url="http://www.linux-gnu.com"
-#        deburl="http://www.linux-gnu.com/buydistro.html"
-#        contacturl="mailto:scott@linux-gnu.com"
-#        country="us"
-#        contribution="yes"
-#        ship="yes"
-#        dvd="yes"
-#        architectures="multi-arch, alpha, amd64, arm, hppa, i386, ia64, mips, mipsel, powerpc, sparc, s390, <source>" />
 <vendor name="LinuxCollections.com"
         url="http://www.linuxcollections.com"
         deburl="http://www.linuxcollections.com/products/debian/debian.htm"
@@ -1455,29 +459,6 @@
         cd="yes"
         dvd="yes"
         architectures="amd64, i386, ia64, powerpc, <source>, kfreebsd-i386, kfreebsd-amd64"/>
-
-# [20111013] - Put on hold. Reason: web site says "Account suspended"
-#<vendor name="LinuxOnline.biz"
-#        country="us"
-#        url="http://www.LinuxOnline.biz/"
-#        deburl="http://www.linuxonline.biz/index.php?cPath=53_23"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386, powerpc, sparc"
-#        ship="yes"
-#        contacturl="mailto:sales@linuxonline.biz" />
-#<vendor name="On-Disk.com"
-# [20170126] - Put on hold. Reason: no webshop for Debian CDs
-#        country="us"
-#        url="http://on-disk.com/"
-#        deburl="http://on-disk.com/index.php?manufacturers_id=43"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="multi-arch, alpha, amd64, hppa, ia64, i386, powerpc, sparc"
-#        ship="yes"
-#        contacturl="http://on-disk.com/contact_us.php" />
 <vendor name="osdisc.com"
         country="us"
         url="https://www.osdisc.com/"
@@ -1490,37 +471,6 @@
         architectures="amd64, i386, <source>"
         ship="yes"
         contacturl="mailto:sales@osdisc.com" />
-#<vendor name="PCTech101"
-#        country="us"
-#        url="http://www.pctech101.com/"
-#        deburl="http://www.pctech101.com/linux-cds/linux-cds/linux-distro-s-c-f-1/debian"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="multi-arch, alpha, amd64, arm, hppa, i386, ia64, mips, mipsel, powerpc, sparc, s390, #<source>"
-#        ship="yes"
-#        contacturl="mailto:sales@pctech101.com" />
-#<vendor name="penguindisc"
-#        country="us"
-#        url="http://www.penguindisc.com"
-#        deburl="http://www.penguindisc.com/cgi-bin/view.cgi/products/linux/debian"
-#        contribution="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386"
-#        ship="yes"
-#        contacturl="mailto:sales@penguindisc.com" />
-#<vendor name="Prizix"
-# [20170126] - Put on hold. Reason: does not sell Debian CDs
-#        url="http://www.prizix.com"
-#        deburl="http://www.prizix.com/linux/debian/debian-4-discs-dvd-installation-and-reference-set"
-#        contacturl="http://www.prizix.com/prizixweb/pages/business-contacts.html"
-#        country="us"
-#        contribution="yes"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386 amd64 "/>
 <vendor name="ShopLinuxOnLine.com"
         url="http://www.shoplinuxonline.com"
         deburl="https://www.shoplinuxonline.com/linux.html?manufacturer=50"
@@ -1531,17 +481,6 @@
         dvd="yes"
 		usb="yes"
         architectures="amd64, i386, ia64, powerpc" />
-# [20111013] - Put on hold. Reason: Deburl does not mention Debian
-#<vendor name="Team Murder"
-#        country="us"
-#        url="http://www.teammurder.com/"
-#        deburl="http://www.teammurder.com/crap.html"
-#        contribution="yes"
-#        cd="yes"
-#        dvd="no"
-#        architectures="i386, powerpc"
-#        ship="no"
-#        contacturl="mailto:crap@teammurder.com" />
 </country>
 
 <country code="uy" name="<country-name UY>">
@@ -1558,47 +497,9 @@
 </country>
 
 #<country code="ve" name="<country-name VE>">
-#<vendor name="DiscoLibre Venezuela"
-#        url="http://discolibre.com.ve/"
-#        deburl="http://discolibre.com.ve/index.php/s5-menu/debian"
-#        contacturl="mailto:discolibreve@gmail.com"
-#        country="ve"
-#        contribution="no"
-#        ship="no"
-#        dvd="yes"
-#        architectures="amd64, i386" />
 #</country>
 
 #<country code="za" name="<country-name ZA>">
-#<vendor name="Golden Creations Debian Shop"
-#        url="http://debian.goldencreations.co.za"
-#        deburl="http://debian.goldencreations.co.za"
-#        contacturl="mailto:info@goldencreations.co.za"
-#        country="za"
-#        contribution="yes"
-#        ship="yes"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="amd64, i386, powerpc" />
-#<vendor name="Linux OS - Complete Linux store"
-#	url="http://www.linuxos.co.za/"
-#	deburl="http://www.linuxos.co.za/"
-#	contacturl="mailto:sales@linuxos.co.za"
-#	country="za"
-#	contribution="yes"
-#	ship="yes"
-#	cd="yes"
-#	dvd="yes"
-#	architectures="multi-arch, alpha, amd64, arm, hppa, i386, ia64, mips, mipsel, powerpc, sparc, s390, <source>" />
-#<vendor name="FOSS CDs"
-#        country="za"
-#        url="http://www.fosscds.co.za/"
-#        deburl="http://www.fosscds.co.za/advanced_search_result.php?keywords=debian"
-#        contribution="no"
-#        cd="yes"
-#        dvd="yes"
-#        architectures="i386, amd64, ia64, powerpc, alpha, arm, hppa, mips, mipsel, s390, sparc"
-#        ship="no"
-#        contacturl="mailto:sales@fosscds.co.za" />
 #</country>
+
 </protect>
