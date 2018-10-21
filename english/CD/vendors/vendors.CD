@@ -13,6 +13,15 @@
 <protect pass=5>
 
 <country code="ar" name="<country-name AR>">
+<vendor name="lavorato IT"
+	url="https://lavorato.wordpress.com/"
+	deburl="https://lavorato.wordpress.com/debian/"
+	contacturl="mailto:lavoratoit@gmail.com"
+	country="ar"
+	contribution="no"
+	ship="no"
+	dvd="yes"
+	architectures="amd64 i386" />
 <vendor name="SW Computacion"
 	country="ar"
 	url="http://swcomputacion.com/"
@@ -310,8 +319,20 @@
         architectures="amd64 i386 armel armhf mipsel mips s390x arm64 ppc64el mips64el " />
 </country>
 
-#<country code="mx" name="<country-name MX>">
-#</country>
+<country code="mx" name="<country-name MX>">
+<vendor name="Werner Ernesto Goedecke Rodriguez"
+	url="https://www.wer.mx"
+	deburl="https://www.wer.mx"
+	contacturl="mailto:ventas@wer.mx"
+	country="mx"
+	contribution="yes"
+	ship="yes"
+	cd="yes"
+	dvd="yes"
+	bd="no"
+	usb="yes"
+	architectures="all multi-arch" />
+</country>
 
 #<country code="my" name="<country-name MY>">
 #</country>
@@ -380,6 +401,18 @@
 #</country>
 
 <country code="ru" name="<country-name RU>">
+<vendor name="GNU/Linuxcenter"
+	url="http://www.linuxcenter.ru"
+	deburl="http://www.linuxcenter.ru/shop/debian/"
+	contacturl="mailto:info@linuxcenter.ru"
+	country="ru"
+	contribution="no"
+	ship="no"
+	cd="no"
+	dvd="yes"
+	bd="no"
+	usb="yes"
+	architectures="amd64 i386" />
 <vendor name="www.LinuxDVD.ru"
         url="http://www.linuxdvd.ru"
         deburl="http://www.linuxdvd.ru/advanced_search_result.php?keywords=debian"
