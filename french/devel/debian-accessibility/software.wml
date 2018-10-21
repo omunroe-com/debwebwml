@@ -41,7 +41,7 @@
   synthèse différente des autres moteurs de lecture de texte à code source
   ouvert (pas de synthèse vocale par concaténation, et donc une empreinte
   mémoire très faible), et sonne assez différemment. Il n'est peut-être pas
-  aussi naturel ni <q>fluide</q> que d'autres, mais certaines personnes trouve
+  aussi naturel ni <q>fluide</q> que d'autres, mais certaines personnes trouvent
   que l'articulation est plus claire et plus facile à écouter sur de longues
   périodes.
   </p>
@@ -78,7 +78,7 @@
   <p>
   Petit moteur rapide de synthèse vocale instantanée. Il s'agit du dernier
   ajout à l'ensemble d'outils de synthèse formés de logiciels libres qui
-  comprend le système de synthèse vocal Festival de l'Université d’Édimbourg
+  comprend le système de synthèse vocale Festival de l'Université d’Édimbourg
   et le projet Festvox de l'Université de Carnegie Mellon, des outils, des
   scripts et de la documentation pour construire des voix synthétiques. Quoi
   qu'il en soit, Flite lui-même n'a besoin d'aucun de ces systèmes pour
@@ -406,7 +406,7 @@ valent très certainement la peine d'être regardés.
 L'accessibilité des interfaces utilisateur graphiques sur les plates-formes
 Unix n'a reçu que récemment des améliorations significatives importantes avec
 les différents efforts de développement autour du
-<a href="http://www.gnome.org/">bureau GNOME Desktop</a>, particulièrement le
+<a href="http://www.gnome.org/">bureau GNOME</a>, particulièrement le
 <a href="http://developer.gnome.org/projects/gap/">projet d'accessibilité de
 GNOME</a>.
 </p>
@@ -466,7 +466,7 @@ GNOME</a>.
   texte en voix, ainsi que pour la saisie vocale.
   </p>
   <p>
-  Plusieurs filtres de sortie sont gérés, mais actuellement seul la sortie
+  Plusieurs filtres de sortie sont gérés, mais actuellement seule la sortie
   par <a href="#festival">Festival</a> est activée dans ce paquet&nbsp;; les
   autres filtres de sortie ont besoin de Java ou de logiciels propriétaires.
   </p>
