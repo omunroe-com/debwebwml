@@ -265,6 +265,18 @@
 </country>
 
 <country code="it" name="<country-name IT>">
+<vendor name="Borghi SNC"
+	url="http://copisteriaborghisnc.blogspot.com/"
+	deburl="http://copisteriaborghisnc.blogspot.com/"
+	contacturl="mailto:borghi.copie@libero.it"
+	country="it"
+	contribution="yes"
+	ship="no"
+	cd="yes"
+	dvd="yes"
+	bd="no"
+	usb="no"
+	architectures="multi-arch amd64 i386" />
 <vendor name="Laser Office sas"
         country="it"
         url="http://www.laseroffice.it/"
