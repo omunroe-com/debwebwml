@@ -68,10 +68,10 @@ facilitant l'installation sur des machines sans accès à Internet.
 </ul>
 </li>
 </ul>
-<h2><a href="https://cloud.debian.org/images/cloud/">Utiliser une image Debian pour l'informatique en nuage</a></h2>
+<h2><a href="https://cloud.debian.org/images/cloud/">Utiliser une image Debian pour l'informatique dématérialisée</a></h2>
  <ul>
   <li>Une <a href="https://cloud.debian.org/images/cloud/"><strong>image pour
-   nuage</strong></a>, construite par l’équipe Debian pour l'informatique en nuage, peut
+   l’informatique dématérialisée</strong></a>, construite par l’équipe Debian pour l'informatique dématérialisée, peut
    être utilisée directement avec votre fournisseur.
   <ul class="quicklist downlist">
   <li><a title="Image Qcow2 OpenStack pour Intel et AMD 64 bits" href="https://cloud.debian.org/cdimage/openstack/current-9/debian-9-openstack-amd64.qcow2">OpenStack pour AMD/Intel 64 bits (Qcow2)</a></li>
