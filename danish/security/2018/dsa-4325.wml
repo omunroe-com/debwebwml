@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="7f426d6b431404698d30934f0c344e0e2f2ce4d6" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Man opdagede at mosquitto, en MQTT-broker, var sårbar over for fjernudførte 
+lammelsesangreb, der kunne iværksættes på forskellige måder.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 1.4.10-3+deb9u2.</p>
+
+<p>Vi anbefaler at du opgraderer dine mosquitto-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende mosquitto, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/mosquitto">\
+https://security-tracker.debian.org/tracker/mosquitto</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4325.data"
