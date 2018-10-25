@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4325-1 mosquitto</define-tag>
+<define-tag report_date>2018-10-25</define-tag>
+<define-tag secrefs>CVE-2017-7651 CVE-2017-7652 CVE-2017-7653 CVE-2017-7654 Bug#911265 Bug#911266</define-tag>
+<define-tag packages>mosquitto</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
