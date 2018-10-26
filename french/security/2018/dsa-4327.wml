@@ -1,7 +1,7 @@
 #use wml::debian::translation-check translation="3e125aee962b2b7f0d28c49a4132cf90a180d3a5" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
-<p>Plusieurs problèmes de sécurité ont été découvertes dans Thunderbird :
+<p>Plusieurs problèmes de sécurité ont été découverts dans Thunderbird :
 plusieurs erreurs de sécurité de la mémoire, utilisations de mémoire après
 libération pourraient conduire à l'exécution de code arbitraire ou à un
 déni de service.</p>
