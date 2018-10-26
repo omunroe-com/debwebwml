@@ -484,16 +484,18 @@
         architectures="amd64, i386"
         ship="no"
         contacturl="http://www.aboutdebian.com/contact.htm" />
-<vendor name="Cape Cod Office Consultants"
-        country="us"
-        url="http://shop.ccocnet.com/"
-        deburl="http://shop.ccocnet.com/software/linux-discs/debian-linux-install-live-media"
-        contribution="no"
-        cd="yes"
-        dvd="yes"
-        architectures="amd64 i386 arm64 " 
-        ship="no"
-        contacturl="mailto:linuxdiscs@ccoc.email"/>
+# User claimed about vendor being unavailable and not delivering the order.
+# Also, vendor does only sell oldstable material. Thus removed. 2018-10-26
+#<vendor name="Cape Cod Office Consultants"
+#        country="us"
+#        url="http://shop.ccocnet.com/"
+#        deburl="http://shop.ccocnet.com/software/linux-discs/debian-linux-install-live-media"
+#        contribution="no"
+#        cd="yes"
+#        dvd="yes"
+#        architectures="amd64 i386 arm64 " 
+#        ship="no"
+#        contacturl="mailto:linuxdiscs@ccoc.email"/>
 <vendor name="LinuxCollections.com"
         url="http://www.linuxcollections.com"
         deburl="http://www.linuxcollections.com/products/debian/debian.htm"
