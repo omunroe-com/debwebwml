@@ -1,7 +1,7 @@
 #use wml::debian::translation-check translation="7f426d6b431404698d30934f0c344e0e2f2ce4d6" mindelta="1"
 <define-tag description>säkerhetsuppdatering</define-tag>
 <define-tag moreinfo>
-<p>Man har upptäckts att mosquitto, en MOTT-broker, var sårbar
+<p>Man har upptäckt att mosquitto, en MOTT-broker, var sårbar
 för fjärrutförda överbelastningsangrepp som kunde verkställas med
 hjälp av olika vektorer.</p>
 
