@@ -1,7 +1,7 @@
 #use wml::debian::translation-check translation="7f426d6b431404698d30934f0c344e0e2f2ce4d6" maintainer="Jean-Pierre Giraud"
 <define-tag description>Mise à jour de sécurité</define-tag>
 <define-tag moreinfo>
-<p>mosquitto, un courtier de messages MQTT, était vulnérable à des attaques
+<p>Mosquitto, un courtier de messages MQTT, était vulnérable à des attaques
 distantes par déni de service qui pourraient être montées par divers
 moyens.</p>
 
