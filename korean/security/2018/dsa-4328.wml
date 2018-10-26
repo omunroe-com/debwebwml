@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="5b87f3611fd30b9ad5f84702ee7aee8c424e3784" maintainer="Sebul"
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Narendra Shinde discovered that incorrect command-line parameter
+validation in the Xorg X server may result in arbitary file overwrite,
+which can result in privilege escalation.</p>
+
+<p>For the stable distribution (stretch), this problem has been fixed in
+version 2:1.19.2-1+deb9u4.</p>
+
+<p>We recommend that you upgrade your xorg-server packages.</p>
+
+<p>For the detailed security status of xorg-server please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/xorg-server">\
+https://security-tracker.debian.org/tracker/xorg-server</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4328.data"
