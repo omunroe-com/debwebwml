@@ -1,17 +1,14 @@
 #use wml::debian::translation-check translation="5b87f3611fd30b9ad5f84702ee7aee8c424e3784" maintainer="Sebul"
-<define-tag description>security update</define-tag>
+<define-tag description>보안 업데이트</define-tag>
 <define-tag moreinfo>
-<p>Narendra Shinde discovered that incorrect command-line parameter
-validation in the Xorg X server may result in arbitary file overwrite,
-which can result in privilege escalation.</p>
+<p>Narendra Shinde는 그른 명령행 인수 검사가 Xorg X 서버에서 임의 파일을 덮어써서, 권한상승을 일으킬 수 있음을 발견했습니다.</p>
 
-<p>For the stable distribution (stretch), this problem has been fixed in
-version 2:1.19.2-1+deb9u4.</p>
+<p>안정배포(stretch)에서, 이 문제를 버전
+2:1.19.2-1+deb9u4 에서 고쳤습니다.</p>
 
-<p>We recommend that you upgrade your xorg-server packages.</p>
+<p>xorg-server 패키지를 업그레이드 하는 게 좋습니다.</p>
 
-<p>For the detailed security status of xorg-server please refer to
-its security tracker page at:
+<p>xorg-server의 자세한 보안 상태는 보안 추적 페이지를 참조하세요:
 <a href="https://security-tracker.debian.org/tracker/xorg-server">\
 https://security-tracker.debian.org/tracker/xorg-server</a></p>
 </define-tag>
