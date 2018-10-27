@@ -1,0 +1,79 @@
+aide                 Aide Maintainers <aide@packages.debian.org>
+aide-common          Aide Maintainers <aide@packages.debian.org>
+aide-dbgsym          Aide Maintainers <pkg-aide-maintainers@lists.alioth.debian.org>
+aide-dynamic         Aide Maintainers <aide@packages.debian.org>
+aide-dynamic-dbgsym  Aide Maintainers <pkg-aide-maintainers@lists.alioth.debian.org>
+aide-xen             Aide Maintainers <aide@packages.debian.org>
+aide-xen-dbgsym      Aide Maintainers <pkg-aide-maintainers@lists.alioth.debian.org>
+android-libhost      Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+android-libhost-dev  Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+android-libzipfile   Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+android-libzipfile-dev Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+android-system-dev   Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+arduino-mighty-1284p 3-D printer team <3dprinter-general@lists.alioth.debian.org>
+aspic                Wouter Verhelst <wouter@debian.org>
+dummydroid           Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+enjarify             Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+fdpowermon-icons     Wouter Verhelst <wouter@debian.org>
+fdpowermon           Wouter Verhelst <wouter@debian.org>
+google-android-build-tools-17-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-build-tools-18-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-build-tools-19-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-build-tools-20-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-build-tools-21-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-build-tools-22-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-build-tools-23-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-build-tools-24-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-build-tools-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-installers Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-m2repository-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-ndk-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-10-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-11-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-12-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-13-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-14-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-15-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-16-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-17-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-18-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-19-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-20-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-21-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-22-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-23-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-24-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-2-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-3-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-4-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-5-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-6-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-7-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-8-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-platform-9-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+google-android-sdk-docs-installer Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+libola1              Wouter Verhelst <wouter@debian.org>
+libola-dev           Wouter Verhelst <wouter@debian.org>
+libpolyclipping16    3-D printer team <3dprinter-general@lists.alioth.debian.org>
+libpolyclipping22    3-D printer team <3dprinter-general@lists.alioth.debian.org>
+libpolyclipping      3-D printer team <3dprinter-general@lists.alioth.debian.org>
+libpolyclipping-dev  3-D printer team <3dprinter-general@lists.alioth.debian.org>
+logtool              Wouter Verhelst <wouter@debian.org>
+nbd-client-udeb      Wouter Verhelst <wouter@debian.org>
+nbd-client           Wouter Verhelst <wouter@debian.org>
+nbd-server           Wouter Verhelst <wouter@debian.org>
+nbd                  Wouter Verhelst <wouter@debian.org>
+ola-python           Wouter Verhelst <wouter@debian.org>
+ola-rdm-tests        Wouter Verhelst <wouter@debian.org>
+ola                  Wouter Verhelst <wouter@debian.org>
+pmw-doc              Wouter Verhelst <wouter@debian.org>
+pmw                  Wouter Verhelst <wouter@debian.org>
+repo                 Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+sfact                3-D printer team <3dprinter-general@lists.alioth.debian.org>
+skeinforge           3-D printer team <3dprinter-general@lists.alioth.debian.org>
+sreview-common       Wouter Verhelst <wouter@debian.org>
+sreview-detect       Wouter Verhelst <wouter@debian.org>
+sreview-encoder      Wouter Verhelst <wouter@debian.org>
+sreview-master       Wouter Verhelst <wouter@debian.org>
+sreview-web          Wouter Verhelst <wouter@debian.org>
+sreview              Wouter Verhelst <wouter@debian.org>

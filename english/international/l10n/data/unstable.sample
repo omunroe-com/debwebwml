@@ -1,0 +1,773 @@
+Package: aide
+Version: 0.16-4
+Section: admin
+Priority: optional
+Maintainer: Aide Maintainers <aide@packages.debian.org>
+PoolDir: main/a/aide
+Type: ?
+Upstream: dbs
+PODEBCONF:
+ debian/aide-common.templates!_!!aide_0.16-4_debian_aide-common.templates
+ debian/po/cs.po!cs!7t0f0u!debian/po/aide_0.16-4_cs.po!Miroslav Kure <kurem@debian.cz>!Czech <debian-l10n-czech@lists.debian.org>
+ debian/po/da.po!da!7t0f0u!debian/po/aide_0.16-4_da.po!Joe Hansen <joedalton2@yahoo.dk>!Danish <debian-l10n-danish@lists.debian.org> 
+ debian/po/de.po!de!7t0f0u!debian/po/aide_0.16-4_de.po!Erik Schanze <eriks@debian.org>!German <debian-l10n-german@lists.debian.org>
+ debian/po/el.po!el!3t1f3u!debian/po/aide_0.16-4_el.po!Konstantinos Margaritis <markos@debian.org>!Greek <debian-l10n-greek@lists.debian.org>
+ debian/po/es.po!es!7t0f0u!debian/po/aide_0.16-4_es.po!Rudy Godoy <rudy@debian.org>!Debian Spanish <debian-l10n-spanish@lists.debian.org>
+ debian/po/fr.po!fr!7t0f0u!debian/po/aide_0.16-4_fr.po!Gregory Colpart <reg@evolix.fr>!French <debian-l10n-french@lists.debian.org>
+ debian/po/it.po!it!7t0f0u!debian/po/aide_0.16-4_it.po!Mark Caglienzi <mark.caglienzi@gmail.com>!Italian <tp@lists.linux.it>
+ debian/po/ja.po!ja!7t0f0u!debian/po/aide_0.16-4_ja.po!Hideki Yamane (Debian-JP) <henrich@debian.or.jp>!Japanese <debian-japanese@lists.debian.org>
+ debian/po/nl.po!nl!7t0f0u!debian/po/aide_0.16-4_nl.po!Bart Cornelis <cobaco@linux.be>!dutch <debian-l10n-dutch@lists.debian.org>
+ debian/po/pl.po!pl!7t0f0u!debian/po/aide_0.16-4_pl.po!Marcin Owsiany <porridge@debian.org>!Polish <debian-l10n-polish@lists.debian.org>
+ debian/po/pt.po!pt!7t0f0u!debian/po/aide_0.16-4_pt.po!Marco Ferra <mferra@sdf.lonestar.org>!Portuguese <traduz@debianpt.org>
+ debian/po/pt_BR.po!pt_BR!7t0f0u!debian/po/aide_0.16-4_pt_BR.po!Andr&#233; Lu&#237;s Lopes <andrelop@debian.org>!Debian-BR Project <debian-l10n-portuguese@lists.debian.org>
+ debian/po/ru.po!ru!7t0f0u!debian/po/aide_0.16-4_ru.po!Yuri Kozlov <kozlov.y@gmail.com>!Russian <debian-l10n-russian@lists.debian.org>
+ debian/po/sv.po!sv!7t0f0u!debian/po/aide_0.16-4_sv.po!Daniel Nylander <po@danielnylander.se>!Swedish <tp-sv@listor.tp-sv.se>
+ debian/po/templates.pot!_!0t0f7u!debian/po/aide_0.16-4_templates.pot!!
+ debian/po/vi.po!vi!7t0f0u!debian/po/aide_0.16-4_vi.po!Clytie Siddall <clytie@riverland.net.au>!Vietnamese <vi-VN@googlegroups.com>
+ debian/po/zh_TW.po!zh_TW!3t2f2u!debian/po/aide_0.16-4_zh_TW.po!Asho Yeh <asho@debian.org.tw>!Chinese (traditional) <zh-l10n@linux.org.tw>
+
+Package: android-framework-23
+Version: 6.0.1+r72-4
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-framework-23
+Type: ?
+Upstream: debian
+
+Package: android-platform-build
+Version: 1:7.0.0+r33-1
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-build
+Type: ?
+Upstream: dbs
+
+Package: android-platform-dalvik
+Version: 7.0.0+r33-1
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-dalvik
+Type: ?
+Upstream: dbs
+
+Package: android-platform-development
+Version: 8.1.0+r23-1
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-development
+Type: ?
+Upstream: dbs
+
+Package: android-platform-external-boringssl
+Version: 8.1.0+r23-2
+Section: libs
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-external-boringssl
+Type: ?
+Upstream: debian
+
+Package: android-platform-external-doclava
+Version: 6.0.1+r55-1
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-external-doclava
+Type: ?
+Upstream: dbs
+
+Package: android-platform-external-jsilver
+Version: 6.0.1+r55-1
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-external-jsilver
+Type: ?
+Upstream: dbs
+
+Package: android-platform-external-libselinux
+Version: 8.1.0+r23-2
+Section: libs
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-external-libselinux
+Type: ?
+Upstream: dbs
+PO:
+ policycoreutils/po/af.po!af!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_af.po!!
+ policycoreutils/po/aln.po!aln!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_aln.po!!
+ policycoreutils/po/am.po!am!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_am.po!!
+ policycoreutils/po/ar.po!ar!241t31f806u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ar.po!dwalsh <dwalsh@redhat.com>!Arabic <trans-ar@lists.fedoraproject.org>
+ policycoreutils/po/as.po!as!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_as.po!ngoswami <ngoswami@redhat.com>!
+ policycoreutils/po/ast.po!ast!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ast.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/az.po!az!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_az.po!!
+ policycoreutils/po/bal.po!bal!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_bal.po!!Balochi <trans-bal@lists.fedoraproject.org>
+ policycoreutils/po/be.po!be!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_be.po!!
+ policycoreutils/po/bg.po!bg!457t69f552u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_bg.po!dwalsh <dwalsh@redhat.com>!Bulgarian <trans-bg@lists.fedoraproject.org>
+ policycoreutils/po/bn.po!bn!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_bn.po!dwalsh <dwalsh@redhat.com>!Bengali <info@ankur.org.bd>
+ policycoreutils/po/bn_BD.po!bn_BD!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_bn_BD.po!!
+ policycoreutils/po/bn_IN.po!bn_IN!463t69f546u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_bn_IN.po!dwalsh <dwalsh@redhat.com>!Bengali (India) <anubad@lists.ankur.org.in>
+ policycoreutils/po/bo.po!bo!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_bo.po!dwalsh <dwalsh@redhat.com>!Tibetan <trans-bo@lists.fedoraproject.org>
+ policycoreutils/po/br.po!br!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_br.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/brx.po!brx!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_brx.po!!
+ policycoreutils/po/bs.po!bs!171t12f895u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_bs.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/ca.po!ca!240t31f807u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ca.po!dwalsh <dwalsh@redhat.com>!Catalan <fedora@llistes.softcatala.org>
+ policycoreutils/po/cs.po!cs!5t3f1070u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_cs.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/cy.po!cy!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_cy.po!!
+ policycoreutils/po/da.po!da!240t31f807u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_da.po!dwalsh <dwalsh@redhat.com>!Danish <dansk@dansk-gruppen.dk>
+ policycoreutils/po/de.po!de!770t89f219u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_de.po!dwalsh <dwalsh@redhat.com>!German <trans-de@lists.fedoraproject.org>
+ policycoreutils/po/dz.po!dz!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_dz.po!!
+ policycoreutils/po/el.po!el!31t13f1034u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_el.po!dwalsh <dwalsh@redhat.com>!Greek <trans-el@lists.fedoraproject.org>
+ policycoreutils/po/en_GB.po!en_GB!240t31f807u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_en_GB.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/eo.po!eo!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_eo.po!!
+ policycoreutils/po/es.po!es!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_es.po!Domingo Becker <domingobecker@gmail.com>!Spanish <trans-es@lists.fedoraproject.org>
+ policycoreutils/po/es_MX.po!es_MX!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_es_MX.po!!
+ policycoreutils/po/et.po!et!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_et.po!!
+ policycoreutils/po/eu.po!eu!36t25f1017u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_eu.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/fa.po!fa!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_fa.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/fi.po!fi!264t40f774u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_fi.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/fr.po!fr!770t89f219u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_fr.po!dwalsh <dwalsh@redhat.com>!French <trans-fr@lists.fedoraproject.org>
+ policycoreutils/po/ga.po!ga!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ga.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/gl.po!gl!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_gl.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/gu.po!gu!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_gu.po!sweta <swkothar@redhat.com>!Gujarati <trans-gu@lists.fedoraproject.org>
+ policycoreutils/po/he.po!he!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_he.po!!Hebrew <he-users@lists.fedoraproject.org>
+ policycoreutils/po/hi.po!hi!770t89f219u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_hi.po!dwalsh <dwalsh@redhat.com>!Hindi <indlinux-hindi@lists.sourceforge.net>
+ policycoreutils/po/hr.po!hr!194t28f856u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_hr.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/hu.po!hu!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_hu.po!Ferenc Tekn&#337;s <teknos.ferenc@gmail.com>!Hungarian <trans-hu@lists.fedoraproject.org>
+ policycoreutils/po/hy.po!hy!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_hy.po!!
+ policycoreutils/po/ia.po!ia!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ia.po!dwalsh <dwalsh@redhat.com>!Interlingua <trans-ia@lists.fedoraproject.org>
+ policycoreutils/po/id.po!id!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_id.po!dwalsh <dwalsh@redhat.com>!Indonesian <trans-id@lists.fedoraproject.org>
+ policycoreutils/po/ilo.po!ilo!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ilo.po!!
+ policycoreutils/po/is.po!is!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_is.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/it.po!it!677t105f296u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_it.po!massimo81 <mhacknetxp@hotmail.com>!Italian <trans-it@lists.fedoraproject.org>
+ policycoreutils/po/ja.po!ja!832t109f137u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ja.po!Tomoyuki KATO <tomo@dream.daynight.jp>!Japanese <trans-ja@lists.fedoraproject.org>
+ policycoreutils/po/ka.po!ka!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ka.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/kk.po!kk!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_kk.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/km.po!km!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_km.po!!
+ policycoreutils/po/kn.po!kn!821t102f155u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_kn.po!shanky <prasad.mvs@gmail.com>!
+ policycoreutils/po/ko.po!ko!766t88f224u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ko.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/ks.po!ks!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ks.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/ku.po!ku!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ku.po!!
+ policycoreutils/po/ky.po!ky!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ky.po!!
+ policycoreutils/po/la.po!la!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_la.po!!
+ policycoreutils/po/lo.po!lo!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_lo.po!!
+ policycoreutils/po/lt.po!lt!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_lt.po!!
+ policycoreutils/po/lt_LT.po!lt_LT!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_lt_LT.po!!
+ policycoreutils/po/lv.po!lv!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_lv.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/lv_LV.po!lv_LV!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_lv_LV.po!!
+ policycoreutils/po/mai.po!mai!211t30f837u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_mai.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/mg.po!mg!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_mg.po!!
+ policycoreutils/po/mk.po!mk!171t12f895u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_mk.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/ml.po!ml!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ml.po!Ani Peter <apeter@redhat.com>!Malayalam <discuss@lists.smc.org.in>
+ policycoreutils/po/mn.po!mn!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_mn.po!!
+ policycoreutils/po/mr.po!mr!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_mr.po!sandeeps <sshedmak@redhat.com>!
+ policycoreutils/po/ms.po!ms!65t4f1009u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ms.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/my.po!my!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_my.po!!
+ policycoreutils/po/nb.po!nb!12t3f1063u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_nb.po!dwalsh <dwalsh@redhat.com>!Norwegian Bokm&#229;l <i18n-nb@lister.ping.uio.no>
+ policycoreutils/po/nds.po!nds!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_nds.po!!Low German <nds-lowgerman@lists.sourceforge.net>
+ policycoreutils/po/ne.po!ne!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ne.po!!
+ policycoreutils/po/nl.po!nl!240t31f807u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_nl.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/nn.po!nn!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_nn.po!dwalsh <dwalsh@redhat.com>!Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+ policycoreutils/po/nso.po!nso!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_nso.po!!
+ policycoreutils/po/or.po!or!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_or.po!Manoj Kumar Giri <mgiri@redhat.com>!
+ policycoreutils/po/pa.po!pa!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_pa.po!asaini <asaini@redhat.com>!Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+ policycoreutils/po/pl.po!pl!688t82f308u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_pl.po!Piotr Dr&#261;g <piotrdrag@gmail.com>!Polish <trans-pl@lists.fedoraproject.org>
+ policycoreutils/po/policycoreutils.pot!_!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_policycoreutils.pot!!
+ policycoreutils/po/pt.po!pt!240t31f807u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_pt.po!dwalsh <dwalsh@redhat.com>!Portuguese <trans-pt@lists.fedoraproject.org>
+ policycoreutils/po/pt_BR.po!pt_BR!686t82f310u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_pt_BR.po!dwalsh <dwalsh@redhat.com>!Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+ policycoreutils/po/ro.po!ro!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ro.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/ru.po!ru!842t110f126u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ru.po!&#1048;&#1075;&#1086;&#1088;&#1100; &#1043;&#1086;&#1088;&#1073;&#1091;&#1085;&#1086;&#1074; <igor.gorbounov@gmail.com>!Russian <trans-ru@lists.fedoraproject.org>
+ policycoreutils/po/si.po!si!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_si.po!!
+ policycoreutils/po/si_LK.po!si_LK!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_si_LK.po!!
+ policycoreutils/po/sk.po!sk!171t12f895u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_sk.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/sl.po!sl!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_sl.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/sq.po!sq!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_sq.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/sr.po!sr!240t31f807u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_sr.po!dwalsh <dwalsh@redhat.com>!Serbian <trans-sr@lists.fedoraproject.org>
+ policycoreutils/po/sr@latin.po!sr@latin!240t31f807u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_sr@latin.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/sv.po!sv!770t89f219u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_sv.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/ta.po!ta!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ta.po!shkumar <shkumar@redhat.com>!Tamil <tamil-users@lists.fedoraproject.org>
+ policycoreutils/po/te.po!te!770t89f219u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_te.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/tg.po!tg!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_tg.po!!
+ policycoreutils/po/th.po!th!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_th.po!!
+ policycoreutils/po/tl.po!tl!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_tl.po!!
+ policycoreutils/po/tr.po!tr!16t3f1059u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_tr.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/uk.po!uk!842t111f125u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_uk.po!Yuri Chornoivan <yurchor@ukr.net>!Ukrainian <trans-uk@lists.fedoraproject.org>
+ policycoreutils/po/ur.po!ur!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_ur.po!!Urdu <trans-urdu@lists.fedoraproject.org>
+ policycoreutils/po/vi.po!vi!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_vi.po!dwalsh <dwalsh@redhat.com>!
+ policycoreutils/po/vi_VN.po!vi_VN!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_vi_VN.po!!
+ policycoreutils/po/wo.po!wo!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_wo.po!!
+ policycoreutils/po/xh.po!xh!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_xh.po!!
+ policycoreutils/po/zh_CN.GB2312.po!zh_CN!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_zh_CN.GB2312.po!!
+ policycoreutils/po/zh_CN.po!zh_CN!766t88f224u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_zh_CN.po!dwalsh <dwalsh@redhat.com>!Chinese (China) <trans-zh_cn@lists.fedoraproject.org>
+ policycoreutils/po/zh_HK.po!zh_HK!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_zh_HK.po!dwalsh <dwalsh@redhat.com>!Chinese (Hong Kong) <chinese@lists.fedoraproject.org>
+ policycoreutils/po/zh_TW.Big5.po!zh_TW!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_zh_TW.Big5.po!!
+ policycoreutils/po/zh_TW.po!zh_TW!770t89f219u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_zh_TW.po!dwalsh <dwalsh@redhat.com>!Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>
+ policycoreutils/po/zu.po!zu!0t0f1078u!policycoreutils/po/android-platform-external-libselinux_8.1.0+r23-2_zu.po!!
+
+Package: android-platform-external-libunwind
+Version: 8.1.0+r23-2
+Section: libs
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-external-libunwind
+Type: ?
+Upstream: dbs
+
+Package: android-platform-frameworks-base
+Version: 1:8.1.0+r23-3
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-frameworks-base
+Type: ?
+Upstream: dbs
+
+Package: android-platform-frameworks-data-binding
+Version: 2.2.2-3
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-frameworks-data-binding
+Type: ?
+Upstream: dbs
+
+Package: android-platform-frameworks-native
+Version: 1:8.1.0+r23-2
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-frameworks-native
+Type: ?
+Upstream: debian
+
+Package: android-platform-libcore
+Version: 8.1.0+r23-2
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-libcore
+Type: ?
+Upstream: debian
+
+Package: android-platform-libnativehelper
+Version: 7.0.0+r33-1
+Section: libs
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-libnativehelper
+Type: ?
+Upstream: debian
+
+Package: android-platform-system-core
+Version: 1:8.1.0+r23-1~stage1.3
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-system-core
+Type: ?
+Upstream: dbs
+
+Package: android-platform-system-extras
+Version: 8.1.0+r23-2
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-system-extras
+Type: ?
+Upstream: dbs
+
+Package: android-platform-system-tools-aidl
+Version: 1:8.1.0+r23-1
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-system-tools-aidl
+Type: ?
+Upstream: dbs
+
+Package: android-platform-tools-analytics-library
+Version: 2.2.2-2
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-tools-analytics-library
+Type: ?
+Upstream: dbs
+
+Package: android-platform-tools-apksig
+Version: 0.8-2
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-tools-apksig
+Type: ?
+Upstream: dbs
+
+Package: android-platform-tools-base
+Version: 2.2.2-3
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-platform-tools-base
+Type: ?
+Upstream: dbs
+
+Package: android-sdk-helper
+Version: 0.1
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-sdk-helper
+Type: ?
+Upstream: debian
+
+Package: android-sdk-meta
+Version: 25.0.0+8
+Section: metapackages
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-sdk-meta
+Type: ?
+Upstream: debian
+
+Package: android-tools
+Version: 5.1.1.r38-1.1
+Section: devel
+Priority: extra
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/android-tools
+Type: ?
+Upstream: dbs
+
+Package: apktool
+Version: 2.3.4-1
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/a/apktool
+Type: ?
+Upstream: dbs
+
+Package: dummydroid
+Version: 1.2-2
+Section: devel
+Priority: optional
+Maintainer: Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/d/dummydroid
+Type: ?
+Upstream: dbs
+
+Package: enjarify
+Version: 1:1.0.3-4
+Section: devel
+Priority: optional
+Maintainer: Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/e/enjarify
+Type: ?
+Upstream: dbs
+
+Package: google-android-build-tools-installer
+Version: 23.0.3
+Section: contrib/devel
+Priority: optional
+Maintainer: Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+PoolDir: contrib/g/google-android-build-tools-installer
+Type: ?
+Upstream: debian
+PODEBCONF:
+ debian/templates!_!!google-android-build-tools-installer_23.0.3_debian_templates
+ debian/po/de.po!de!2t0f0u!debian/po/google-android-build-tools-installer_23.0.3_de.po!Chris Leick <c.leick@vollbio.de>!Debian German <debian-l10n-german@lists.debian.org>
+ debian/po/id.po!id!2t0f0u!debian/po/google-android-build-tools-installer_23.0.3_id.po!Izharul Haq <atoz.chevara@yahoo.com>!
+ debian/po/pt.po!pt!2t0f0u!debian/po/google-android-build-tools-installer_23.0.3_pt.po!!
+ debian/po/templates.pot!_!0t0f2u!debian/po/google-android-build-tools-installer_23.0.3_templates.pot!!
+
+Package: google-android-installers
+Version: 1472023576+nmu1
+Section: contrib/devel
+Priority: optional
+Maintainer: Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+PoolDir: contrib/g/google-android-installers
+Type: ?
+Upstream: debian
+PODEBCONF:
+ debian/google-android-platform-24-installer.templates!_!!google-android-installers_1472023576+nmu1_debian_google-android-platform-24-installer.templates
+ debian/google-android-platform-23-installer.templates!_!!google-android-installers_1472023576+nmu1_debian_google-android-platform-23-installer.templates
+ debian/google-android-platform-22-installer.templates!_!!google-android-installers_1472023576+nmu1_debian_google-android-platform-22-installer.templates
+ debian/po/cs.po!cs!2t0f0u!debian/po/google-android-installers_1472023576+nmu1_cs.po!Michal Simunek <michal.simunek@gmail.com>!Czech <debian-l10n-czech@lists.debian.org>
+ debian/po/da.po!da!2t0f0u!debian/po/google-android-installers_1472023576+nmu1_da.po!Joe Hansen <joedalton2@yahoo.dk>!Danish <debian-l10n-danish@lists.debian.org>
+ debian/po/de.po!de!2t0f0u!debian/po/google-android-installers_1472023576+nmu1_de.po!Chris Leick <c.leick@vollbio.de>!Debian German <debian-l10n-german@lists.debian.org>
+ debian/po/fr.po!fr!2t0f0u!debian/po/google-android-installers_1472023576+nmu1_fr.po!Julien Patriarca <leatherface@debian.org>!FRENCH <debian-l10n-french@lists.debian.org>
+ debian/po/id.po!id!2t0f0u!debian/po/google-android-installers_1472023576+nmu1_id.po!Izharul Haq <atoz.chevara@yahoo.com>!
+ debian/po/nl.po!nl!2t0f0u!debian/po/google-android-installers_1472023576+nmu1_nl.po!Frans Spiesschaert <Frans.Spiesschaert@yucom.be>!Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+ debian/po/pt.po!pt!2t0f0u!debian/po/google-android-installers_1472023576+nmu1_pt.po!!
+ debian/po/sv.po!sv!2t0f0u!debian/po/google-android-installers_1472023576+nmu1_sv.po!Jonatan Nyberg <jonatan@autistici.org>!
+ debian/po/templates.pot!_!0t0f2u!debian/po/google-android-installers_1472023576+nmu1_templates.pot!!
+
+Package: google-android-m2repository-installer
+Version: 41
+Section: contrib/devel
+Priority: optional
+Maintainer: Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+PoolDir: contrib/g/google-android-m2repository-installer
+Type: ?
+Upstream: debian
+PODEBCONF:
+ debian/templates!_!!google-android-m2repository-installer_41_debian_templates
+ debian/po/cs.po!cs!2t0f0u!debian/po/google-android-m2repository-installer_41_cs.po!Michal Simunek <michal.simunek@gmail.com>!Czech <debian-l10n-czech@lists.debian.org>
+ debian/po/de.po!de!2t0f0u!debian/po/google-android-m2repository-installer_41_de.po!Chris Leick <c.leick@vollbio.de>!Debian German <debian-l10n-german@lists.debian.org>
+ debian/po/fr.po!fr!2t0f0u!debian/po/google-android-m2repository-installer_41_fr.po!Julien Patriarca <leatherface@debian.org>!FRENCH <debian-l10n-french@lists.debian.org>
+ debian/po/id.po!id!2t0f0u!debian/po/google-android-m2repository-installer_41_id.po!Izharul Haq <atoz.chevara@yahoo.com>!
+ debian/po/nl.po!nl!2t0f0u!debian/po/google-android-m2repository-installer_41_nl.po!Frans Spiesschaert <Frans.Spiesschaert@yucom.be>!Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+ debian/po/pt.po!pt!2t0f0u!debian/po/google-android-m2repository-installer_41_pt.po!!
+ debian/po/templates.pot!_!0t0f2u!debian/po/google-android-m2repository-installer_41_templates.pot!!
+
+Package: google-android-ndk-installer
+Version: 13b
+Section: contrib/devel
+Priority: optional
+Maintainer: Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+PoolDir: contrib/g/google-android-ndk-installer
+Type: ?
+Upstream: debian
+PODEBCONF:
+ debian/templates!_!!google-android-ndk-installer_13b_debian_templates
+ debian/po/cs.po!cs!2t0f0u!debian/po/google-android-ndk-installer_13b_cs.po!Michal Simunek <michal.simunek@gmail.com>!Czech <debian-l10n-czech@lists.debian.org>
+ debian/po/de.po!de!2t0f0u!debian/po/google-android-ndk-installer_13b_de.po!Chris Leick <c.leick@vollbio.de>!Debian German <debian-l10n-german@lists.debian.org>
+ debian/po/fr.po!fr!2t0f0u!debian/po/google-android-ndk-installer_13b_fr.po!Julien Patriarca <leatherface@debian.org>!FRENCH <debian-l10n-french@lists.debian.org>
+ debian/po/id.po!id!2t0f0u!debian/po/google-android-ndk-installer_13b_id.po!Izharul Haq <atoz.chevara@yahoo.com>!
+ debian/po/nl.po!nl!2t0f0u!debian/po/google-android-ndk-installer_13b_nl.po!Frans Spiesschaert <Frans.Spiesschaert@yucom.be>!Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+ debian/po/pt.po!pt!2t0f0u!debian/po/google-android-ndk-installer_13b_pt.po!!
+ debian/po/templates.pot!_!0t0f2u!debian/po/google-android-ndk-installer_13b_templates.pot!!
+
+Package: google-android-sdk-docs-installer
+Version: 24+r1
+Section: contrib/devel
+Priority: optional
+Maintainer: Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+PoolDir: contrib/g/google-android-sdk-docs-installer
+Type: ?
+Upstream: debian
+PODEBCONF:
+ debian/templates!_!!google-android-sdk-docs-installer_24+r1_debian_templates
+ debian/po/cs.po!cs!2t0f0u!debian/po/google-android-sdk-docs-installer_24+r1_cs.po!Michal Simunek <michal.simunek@gmail.com>!Czech <debian-l10n-czech@lists.debian.org>
+ debian/po/da.po!da!2t0f0u!debian/po/google-android-sdk-docs-installer_24+r1_da.po!Joe Hansen <joedalton2@yahoo.dk>!Danish <debian-l10n-danish@lists.debian.org>
+ debian/po/de.po!de!2t0f0u!debian/po/google-android-sdk-docs-installer_24+r1_de.po!Chris Leick <c.leick@vollbio.de>!Debian German <debian-l10n-german@lists.debian.org>
+ debian/po/fr.po!fr!2t0f0u!debian/po/google-android-sdk-docs-installer_24+r1_fr.po!Julien Patriarca <leatherface@debian.org>!FRENCH <debian-l10n-french@lists.debian.org>
+ debian/po/id.po!id!2t0f0u!debian/po/google-android-sdk-docs-installer_24+r1_id.po!Izharul Haq <atoz.chevara@yahoo.com>!
+ debian/po/nl.po!nl!2t0f0u!debian/po/google-android-sdk-docs-installer_24+r1_nl.po!Frans Spiesschaert <Frans.Spiesschaert@yucom.be>!Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+ debian/po/pt.po!pt!2t0f0u!debian/po/google-android-sdk-docs-installer_24+r1_pt.po!!
+ debian/po/sv.po!sv!2t0f0u!debian/po/google-android-sdk-docs-installer_24+r1_sv.po!Jonatan Nyberg <jonatan@autistici.org>!
+ debian/po/templates.pot!_!0t0f2u!debian/po/google-android-sdk-docs-installer_24+r1_templates.pot!!
+
+Package: libscout
+Version: 0.0~git20161124~dcd2a9e-1
+Section: devel
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/libs/libscout
+Type: ?
+Upstream: dbs
+
+Package: libsmali-1-java
+Version: 1.4.2-1
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/libs/libsmali-1-java
+Type: ?
+Upstream: dbs
+
+Package: libsmali-java
+Version: 2.2.3-1
+Section: java
+Priority: optional
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+PoolDir: main/libs/libsmali-java
+Type: ?
+Upstream: dbs
+
+Package: repo
+Version: 1.12.37-3
+Section: contrib/devel
+Priority: extra
+Maintainer: Android tools Maintainer <android-tools-devel@lists.alioth.debian.org>
+PoolDir: contrib/r/repo
+Type: ?
+Upstream: dbs
+
+Package: arduino-mighty-1284p
+Version: 1-3
+Section: electronics
+Priority: optional
+Maintainer: 3-D printer team <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/a/arduino-mighty-1284p
+Type: ?
+Upstream: debian
+
+Package: cura
+Version: 3.3.1-2
+Section: misc
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/c/cura
+Type: ?
+Upstream: dbs
+Errors:
+ gettext: resources/i18n/de_DE/cura.po: can't guess language
+ .
+ gettext: resources/i18n/es_ES/cura.po: can't guess language
+ .
+ gettext: resources/i18n/fi_FI/cura.po: can't guess language
+ .
+ gettext: resources/i18n/fr_FR/cura.po: can't guess language
+ .
+ gettext: resources/i18n/it_IT/cura.po: can't guess language
+ .
+ gettext: resources/i18n/ja_JP/cura.po: can't guess language
+ .
+ gettext: resources/i18n/ko_KR/cura.po: can't guess language
+ .
+ gettext: resources/i18n/nl_NL/cura.po: can't guess language
+ .
+ gettext: resources/i18n/pl_PL/cura.po: can't guess language
+ .
+ gettext: resources/i18n/pt_BR/cura.po: can't guess language
+ .
+ gettext: resources/i18n/pt_PT/cura.po: can't guess language
+ .
+ gettext: resources/i18n/ru_RU/cura.po: can't guess language
+ .
+ gettext: resources/i18n/tr_TR/cura.po: can't guess language
+ .
+ gettext: resources/i18n/zh_CN/cura.po: can't guess language
+ .
+ gettext: resources/i18n/zh_TW/cura.po: can't guess language
+PO:
+ resources/i18n/cura.pot!_!0t0f924u!resources/i18n/cura_3.3.1-2_cura.pot!!
+ resources/i18n/de_DE/cura.po!!!resources/i18n/de_DE/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!German
+ resources/i18n/de_DE/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/de_DE/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!German
+ resources/i18n/de_DE/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/de_DE/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!German
+ resources/i18n/es_ES/cura.po!!!resources/i18n/es_ES/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!Spanish
+ resources/i18n/es_ES/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/es_ES/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!Spanish
+ resources/i18n/es_ES/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/es_ES/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!Spanish
+ resources/i18n/fdmextruder.def.json.pot!_!0t0f40u!resources/i18n/cura_3.3.1-2_fdmextruder.def.json.pot!!
+ resources/i18n/fdmprinter.def.json.pot!_!0t0f1096u!resources/i18n/cura_3.3.1-2_fdmprinter.def.json.pot!!
+ resources/i18n/fi_FI/cura.po!!!resources/i18n/fi_FI/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!Finnish
+ resources/i18n/fi_FI/fdmextruder.def.json.po!def!36t0f4u!resources/i18n/fi_FI/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!Finnish
+ resources/i18n/fi_FI/fdmprinter.def.json.po!def!956t0f140u!resources/i18n/fi_FI/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!Finnish
+ resources/i18n/fr_FR/cura.po!!!resources/i18n/fr_FR/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!French
+ resources/i18n/fr_FR/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/fr_FR/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!French
+ resources/i18n/fr_FR/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/fr_FR/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!French
+ resources/i18n/it_IT/cura.po!!!resources/i18n/it_IT/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!Italian
+ resources/i18n/it_IT/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/it_IT/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!Italian
+ resources/i18n/it_IT/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/it_IT/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!Italian
+ resources/i18n/ja_JP/cura.po!!!resources/i18n/ja_JP/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!Japanese
+ resources/i18n/ja_JP/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/ja_JP/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!Brule
+ resources/i18n/ja_JP/fdmprinter.def.json.po!def!1090t6f0u!resources/i18n/ja_JP/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!Brule
+ resources/i18n/ko_KR/cura.po!!!resources/i18n/ko_KR/cura_3.3.1-2_cura.po!Jinbuhm Kim <Jinbuhm.Kim@gmail.com>!Jinbum Kim <Jinbuhm.Kim@gmail.com>, Korean <info@bothof.nl>
+ resources/i18n/ko_KR/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/ko_KR/cura_3.3.1-2_fdmextruder.def.json.po!Jinbuhm Kim <Jinbuhm.Kim@gmail.com>!Jinbum Kim <Jinbuhm.Kim@gmail.com>, Korean <info@bothof.nl>
+ resources/i18n/ko_KR/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/ko_KR/cura_3.3.1-2_fdmprinter.def.json.po!Jinbuhm Kim <Jinbuhm.Kim@gmail.com>!Jinbum Kim <Jinbuhm.Kim@gmail.com>, Korean <info@bothof.nl>
+ resources/i18n/nl_NL/cura.po!!!resources/i18n/nl_NL/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!Dutch
+ resources/i18n/nl_NL/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/nl_NL/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!Dutch
+ resources/i18n/nl_NL/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/nl_NL/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!Dutch
+ resources/i18n/pl_PL/cura.po!!!resources/i18n/pl_PL/cura_3.3.1-2_cura.po!'Jagu&#347;' Pawe&#322; Jagusiak and Andrzej 'anraf1001' Rafalski!reprapy.pl
+ resources/i18n/pl_PL/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/pl_PL/cura_3.3.1-2_fdmextruder.def.json.po!'Jagu&#347;' Pawe&#322; Jagusiak and Andrzej 'anraf1001' Rafalski!reprapy.pl
+ resources/i18n/pl_PL/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/pl_PL/cura_3.3.1-2_fdmprinter.def.json.po!'Jagu&#347;' Pawe&#322; Jagusiak and Andrzej 'anraf1001' Rafalski!reprapy.pl
+ resources/i18n/pt_BR/cura.po!!!resources/i18n/pt_BR/cura_3.3.1-2_cura.po!Cl&#225;udio Sampaio <patola@makerlinux.com.br>!Cl&#225;udio Sampaio <patola@makerlinux.com.br>
+ resources/i18n/pt_BR/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/pt_BR/cura_3.3.1-2_fdmextruder.def.json.po!Cl&#225;udio Sampaio <patola@makerlinux.com.br>!Cl&#225;udio Sampaio <patola@makerlinux.com.br>
+ resources/i18n/pt_BR/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/pt_BR/cura_3.3.1-2_fdmprinter.def.json.po!Cl&#225;udio Sampaio <patola@makerlinux.com.br>!Cl&#225;udio Sampaio <patola@makerlinux.com.br>
+ resources/i18n/pt_PT/cura.po!!!resources/i18n/pt_PT/cura_3.3.1-2_cura.po!Paulo Miranda <av@utopica3d.com>!Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl>
+ resources/i18n/pt_PT/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/pt_PT/cura_3.3.1-2_fdmextruder.def.json.po!Paulo Miranda <av@utopica3d.com>!Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl>
+ resources/i18n/pt_PT/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/pt_PT/cura_3.3.1-2_fdmprinter.def.json.po!Paulo Miranda <av@utopica3d.com>!Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl>
+ resources/i18n/ru_RU/cura.po!!!resources/i18n/ru_RU/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!Ruslan Popov <ruslan.popov@gmail.com>, Russian <info@bothof.nl>
+ resources/i18n/ru_RU/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/ru_RU/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!Ruslan Popov <ruslan.popov@gmail.com>, Russian <info@bothof.nl>
+ resources/i18n/ru_RU/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/ru_RU/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!Ruslan Popov <ruslan.popov@gmail.com>, Russian <info@bothof.nl>
+ resources/i18n/tr_TR/cura.po!!!resources/i18n/tr_TR/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!Turkish
+ resources/i18n/tr_TR/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/tr_TR/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!Turkish
+ resources/i18n/tr_TR/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/tr_TR/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!Turkish
+ resources/i18n/zh_CN/cura.po!!!resources/i18n/zh_CN/cura_3.3.1-2_cura.po!Bothof <info@bothof.nl>!PCDotFan <pc@edu.ax>, Bothof <info@bothof.nl>
+ resources/i18n/zh_CN/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/zh_CN/cura_3.3.1-2_fdmextruder.def.json.po!Bothof <info@bothof.nl>!PCDotFan <pc@edu.ax>, Bothof <info@bothof.nl>
+ resources/i18n/zh_CN/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/zh_CN/cura_3.3.1-2_fdmprinter.def.json.po!Bothof <info@bothof.nl>!PCDotFan <pc@edu.ax>, Bothof <info@bothof.nl>
+ resources/i18n/zh_TW/cura.po!!!resources/i18n/zh_TW/cura_3.3.1-2_cura.po!Zhang Heh Ji <dinowchang@gmail.com>!Zhang Heh Ji <dinowchang@gmail.com>
+ resources/i18n/zh_TW/fdmextruder.def.json.po!def!40t0f0u!resources/i18n/zh_TW/cura_3.3.1-2_fdmextruder.def.json.po!Zhang Heh Ji <dinowchang@gmail.com>!TEAM
+ resources/i18n/zh_TW/fdmprinter.def.json.po!def!1096t0f0u!resources/i18n/zh_TW/cura_3.3.1-2_fdmprinter.def.json.po!Zhang Heh Ji <dinowchang@gmail.com>!Zhang Heh Ji <dinowchang@gmail.com>
+
+Package: cura-engine
+Version: 1:3.3.0-2.1
+Section: utils
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/c/cura-engine
+Type: ?
+Upstream: dbs
+
+Package: fdm-materials
+Version: 3.3.0-1
+Section: misc
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/f/fdm-materials
+Type: ?
+Upstream: debian
+
+Package: fdpowermon
+Version: 1.18
+Section: x11
+Priority: extra
+Maintainer: Wouter Verhelst <wouter@debian.org>
+PoolDir: main/f/fdpowermon
+Type: ?
+Upstream: debian
+
+Package: gpx
+Version: 2.5.2-3
+Section: science
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/g/gpx
+Type: ?
+Upstream: debian
+
+Package: libarcus
+Version: 3.3.0-1
+Section: libs
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/liba/libarcus
+Type: ?
+Upstream: dbs
+
+Package: libpolyclipping
+Version: 6.4.2-3
+Section: libs
+Priority: optional
+Maintainer: 3-D printer team <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/libp/libpolyclipping
+Type: ?
+Upstream: debian
+
+Package: libsavitar
+Version: 3.3.0-2
+Section: libs
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/libs/libsavitar
+Type: ?
+Upstream: dbs
+
+Package: printrun
+Version: 1.6.0-1
+Section: misc
+Priority: optional
+Maintainer: Debian 3D-Printer Packaging Team <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/p/printrun
+Type: ?
+Upstream: dbs
+Errors:
+ gettext: locale/ar/LC_MESSAGES/plater.po:61: end-of-line within string
+ msgfmt: found 1 fatal error
+PO:
+ locale/ar/LC_MESSAGES/plater.po!ar!0t0f0u!locale/ar/LC_MESSAGES/printrun_1.6.0-1_plater.po!&#1587;&#1600;&#1606;&#1583; <0sanad0@gmail.com>!< http://linuxac.org &#1587;&#1600;&#1600;  <&#1605;&#1580;&#1578;&#1605;&#1593; &#1604;&#1610;&#1606;&#1603;&#1587; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;
+ locale/de/LC_MESSAGES/plater.po!de!19t0f0u!locale/de/LC_MESSAGES/printrun_1.6.0-1_plater.po!Christian Metzen <metzench@ccux-linux.de>!
+ locale/de/LC_MESSAGES/pronterface.po!de!101t96f281u!locale/de/LC_MESSAGES/printrun_1.6.0-1_pronterface.po!Christian Metzen <metzench@ccux-linux.de>!
+ locale/fr/LC_MESSAGES/plater.po!fr!19t0f0u!locale/fr/LC_MESSAGES/printrun_1.6.0-1_plater.po!Guillaume Seguin <guillaume@segu.in>!FR <guillaume@segu.in>
+ locale/fr/LC_MESSAGES/pronterface.po!fr!414t24f40u!locale/fr/LC_MESSAGES/printrun_1.6.0-1_pronterface.po!Guillaume Seguin <guillaume@segu.in>!FR <guillaume@segu.in>
+ locale/it/LC_MESSAGES/plater.po!it!19t0f0u!locale/it/LC_MESSAGES/printrun_1.6.0-1_plater.po!Italian RepRap Community <reprap-italia@googlegroups.com>!Italian RepRap Community <reprap-italia@googlegroups.com>
+ locale/it/LC_MESSAGES/pronterface.po!it!101t96f281u!locale/it/LC_MESSAGES/printrun_1.6.0-1_pronterface.po!Italian RepRap Community <reprap-italia@googlegroups.com>!Italian RepRap Community <reprap-italia@googlegroups.com>
+ locale/nl/LC_MESSAGES/pronterface.po!nl!80t78f320u!locale/nl/LC_MESSAGES/printrun_1.6.0-1_pronterface.po!Ruben Lubbes <ruben.lubbes@gmx.net>!
+ locale/plater.pot!_!0t0f19u!locale/printrun_1.6.0-1_plater.pot!!
+ locale/pronterface.pot!_!0t0f478u!locale/printrun_1.6.0-1_pronterface.pot!!
+MENU:
+ debian/plater.menu!printrun_1.6.0-1_plater.menu
+ debian/pronsole.menu!printrun_1.6.0-1_pronsole.menu
+ debian/pronterface.menu!printrun_1.6.0-1_pronterface.menu
+
+Package: slic3r
+Version: 1.3.0+dfsg1-2
+Section: perl
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/s/slic3r
+Type: ?
+Upstream: dbs
+
+Package: slic3r-prusa
+Version: 1.39.2+dfsg-1
+Section: perl
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/s/slic3r-prusa
+Type: ?
+Upstream: dbs
+
+Package: uranium
+Version: 3.3.0-1
+Section: python
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/u/uranium
+Type: ?
+Upstream: dbs
+Errors:
+ gettext: resources/i18n/de_DE/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/es_ES/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/fi_FI/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/fr_FR/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/hu_HU/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/it_IT/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/ja_JP/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/ko_KR/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/nl_NL/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/pl_PL/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/pt_BR/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/pt_PT/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/ru_RU/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/tr_TR/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/zh_CN/uranium.po: can't guess language
+ .
+ gettext: resources/i18n/zh_TW/uranium.po: can't guess language
+PO:
+ resources/i18n/de_DE/uranium.po!!!resources/i18n/de_DE/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!German <info@bothof.nl>
+ resources/i18n/es_ES/uranium.po!!!resources/i18n/es_ES/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!Spanish <info@bothof.nl>
+ resources/i18n/fi_FI/uranium.po!!!resources/i18n/fi_FI/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!Finnish <info@bothof.nl>
+ resources/i18n/fr_FR/uranium.po!!!resources/i18n/fr_FR/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!French <info@bothof.nl>
+ resources/i18n/hu_HU/uranium.po!!!resources/i18n/hu_HU/uranium_3.3.0-1_uranium.po!None!None
+ resources/i18n/it_IT/uranium.po!!!resources/i18n/it_IT/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!Crea-3D <carmine.iacoviello@crea-3d.com>, Italian <info@bothof.nl>
+ resources/i18n/ja_JP/uranium.po!!!resources/i18n/ja_JP/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!Brule <jason@brule.co.jp>, Japanese <info@bothof.nl>
+ resources/i18n/ko_KR/uranium.po!!!resources/i18n/ko_KR/uranium_3.3.0-1_uranium.po!Jinbuhm Kim <Jinbuhm.Kim@gmail.com>!Jinbuhm Kim, <Jinbuhm.Kim@gmail.com>, Korean <info@bothof.nl>
+ resources/i18n/nl_NL/uranium.po!!!resources/i18n/nl_NL/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!Ultimaker <info@ultimaker.com>, Dutch <info@bothof.nl>
+ resources/i18n/pl_PL/uranium.po!!!resources/i18n/pl_PL/uranium_3.3.0-1_uranium.po!'Jagu&#347;' Pawe&#322; Jagusiak and Andrzej 'anraf1001' Rafalski!reprapy.pl
+ resources/i18n/pt_BR/uranium.po!!!resources/i18n/pt_BR/uranium_3.3.0-1_uranium.po!Cl&#225;udio Sampaio <patola@makerlinux.com.br>!Cl&#225;udio Sampaio
+ resources/i18n/pt_PT/uranium.po!!!resources/i18n/pt_PT/uranium_3.3.0-1_uranium.po!Paulo Miranda <av@utopica3d.com>!Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl>
+ resources/i18n/ru_RU/uranium.po!!!resources/i18n/ru_RU/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!Ruslan Popov <ruslan.popov@gmail.com>, Russian <info@bothof.nl>
+ resources/i18n/tr_TR/uranium.po!!!resources/i18n/tr_TR/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!Turkish <info@bothof.nl>
+ resources/i18n/uranium.pot!_!0t0f164u!resources/i18n/uranium_3.3.0-1_uranium.pot!!
+ resources/i18n/zh_CN/uranium.po!!!resources/i18n/zh_CN/uranium_3.3.0-1_uranium.po!Bothof <info@bothof.nl>!PCDotFan <pc@edu.ax>, Chinese <info@bothof.nl>
+ resources/i18n/zh_TW/uranium.po!!!resources/i18n/zh_TW/uranium_3.3.0-1_uranium.po!Zhang Heh Ji <dinowchang@gmail.com>!Zhang Heh Ji <dinowchang@gmail.com>
+
+Package: yagv
+Version: 0.4~20130422.r5bd15ed+dfsg-4
+Section: science
+Priority: optional
+Maintainer: Debian 3-D Printing Packages <3dprinter-general@lists.alioth.debian.org>
+PoolDir: main/y/yagv
+Type: ?
+Upstream: dbs

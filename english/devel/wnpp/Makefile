@@ -24,9 +24,17 @@ DATADIR = $(ENGLISHSRCDIR)/$(CUR_DIR)
   $(GETTEXTDEP) | $(VCSREVCACHE)
 	$(WML) $(<F)
 
+ifeq ($(USE_SAMPLE_FILES),1)
+$(DATADIR)/Maintainers: $(DATADIR)/Maintainers.sample
+	if [ ! -f $@ ]; then cp $< $@; else touch $@; fi
+endif
+
 $(DATADIR)/wnpp.data: WMLOUTFILE=$(DATADIR)/wnpp.data
-$(DATADIR)/wnpp.data:
+$(DATADIR)/wnpp.data: $(DATADIR)/Maintainers $(ENGLISHSRCDIR)/international/l10n/data/popcon
 	$(WML) -W7,-Squotes $(DATADIR)/wnpp.pl
+
+$(ENGLISHSRCDIR)/international/l10n/data/popcon:
+	$(MAKE) -C $(ENGLISHSRCDIR)/international/l10n data/popcon
 
 ifeq "$(LANGUAGE)" "en"
 .PHONY: $(DATADIR)/wnpp.data

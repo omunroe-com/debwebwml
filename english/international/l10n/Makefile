@@ -9,3 +9,10 @@ GETTEXTFILES += l10n.mo
 
 include $(WMLBASE)/Make.lang
 
+ifeq ($(USE_SAMPLE_FILES),1)
+$(ENGLISHSRCDIR)/$(CUR_DIR)/data/%: $(ENGLISHSRCDIR)/$(CUR_DIR)/data/%.sample
+	if [ ! -f $@ ]; then cp $< $@; else touch $@; fi
+
+data/popcon: $(ENGLISHSRCDIR)/$(CUR_DIR)/data/popcon
+data/unstable: $(ENGLISHSRCDIR)/$(CUR_DIR)/data/unstable
+endif

@@ -36,6 +36,9 @@ $(ENGLISHSRCDIR)/distrib/pre-installed.inc: pre-installed.data count
 clean::
 	rm -f archive.mirrors
 
+$(ENGLISHSRCDIR)/mirror/Mirrors.masterlist:
+	$(MAKE) -C $(ENGLISHSRCDIR)/mirror/Mirrors.masterlist
+
 $(ENGLISHSRCDIR)/distrib/archive.mirrors: \
  $(ENGLISHSRCDIR)/mirror/Mirrors.masterlist $(ENGLISHSRCDIR)/mirror/mirror_list.pl
 	echo "#use wml::debian::countries" > $@

@@ -25,6 +25,13 @@ list-full.$(LANGUAGE).html: list-full.wml $(TEMPLDIR)/template.wml \
   $(ENGLISHDIR)/mirror/list-full.inc
 size.$(LANGUAGE).html: size.wml $(ENGLISHDIR)/mirror/size.data
 
+ifeq ($(USE_SAMPLE_FILES),1)
+Mirrors.masterlist: $(ENGLISHDIR)/mirror/Mirrors.masterlist
+
+$(ENGLISHDIR)/mirror/Mirrors.masterlist: $(ENGLISHDIR)/mirror/Mirrors.masterlist.sample
+	if [ ! -f $@ ]; then cp $< $@; else touch $@; fi
+endif
+
 # there only needs to be one version of the following so
 # the non-english directories shouldn't try to install them
 ifeq "$(LANGUAGE)" "en"

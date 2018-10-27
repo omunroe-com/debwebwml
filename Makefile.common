@@ -11,6 +11,10 @@ else
 IGNORE =
 endif
 
+# Turn this on to use (small) sample files for data that generated from
+# cronjobs on the official website.
+USE_SAMPLE_FILES := 0
+
 ENGLISHSRCDIR := $(WMLBASE)/../english
 ENGLISHDIR := $(ENGLISHSRCDIR)
 # ^ just an alias ^
