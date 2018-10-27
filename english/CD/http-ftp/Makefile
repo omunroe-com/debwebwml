@@ -21,6 +21,9 @@ index.$(LANGUAGE).html: index.wml $(TEMPLDIR)/cdimage.wml \
   $(TEMPLDIR)/release_info.wml $(TEMPLDIR)/release_images.wml | $(VCSREVCACHE)
 
 ifeq "$(LANGUAGE)" "en"
+$(ENGLISHDIR)/mirror/Mirrors.masterlist:
+	$(MAKE) -C $(ENGLISHDIR)/mirror Mirrors.masterlist
+
 $(ENGLISHDIR)/CD/http-ftp/cdimage_mirrors.list: \
   $(ENGLISHDIR)/mirror/mirror_list.pl $(ENGLISHDIR)/mirror/Mirrors.masterlist
 	$< -m $(word 2,$^) -t cdimages-httpftp > $@

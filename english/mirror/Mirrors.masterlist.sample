@@ -1,0 +1,61 @@
+Site: ftp-master.debian.org
+Archive-unlisted-http: /debian/
+Type: Origin
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
+Archive-rsync: debian/
+Country: US United States
+
+Site: security-master.debian.org
+Security-unlisted-http: /debian-security/
+Type: Origin
+Security-rsync: debian-security/
+Country: DE Germany
+
+Site: porta.debian.org
+Alias: ftp.ports.debian.org
+Type: Origin
+Ports-architecture: alpha hppa m68k powerpcspe ppc64 sh4 sparc64 x32
+Ports-rsync: debian-ports/
+Country: GR Greece
+
+Site: archive.debian.org
+Type: RoundRobinDNS
+Includes: archive-klecker.debian.org archive-gretchaninov.debian.org archive-sibelius.debian.org
+Old-http: /debian-archive/
+Old-rsync: debian-archive/
+
+Site: cdimage.debian.org
+Type: Origin
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+Country: SE Sweden
+
+Site: syncproxy2.wna.debian.org
+Archive-unlisted-http: /debian/
+Security-unlisted-http: /debian-security
+Type: Push-Primary
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
+X-Archive-rsync: debian/
+Archive-method: push
+Country: US United States
+Sponsor: ISC - Internet Systems Consortium http://www.isc.org/
+
+Site: security.debian.org
+Type: GeoDNS
+Security-architecture: amd64 armel i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
+Security-http: /debian-security/
+Security-rsync: debian-security/
+Comment: Automatically selects geographically close mirror
+ of security update archive.
+Details: https://anonscm.debian.org/cgit/mirror/dsa-auto-dns.git
+
+Site: www.nic.funet.fi
+Alias: ftp.funet.fi
+Type: leaf
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x sparc
+Archive-http: /debian/
+Archive-rsync: ftp/pub/mirrors/ftp.debian.org/debian/
+Maintainer: Harri Salminen <hks@csc.fi>, mirrors-adm+debian@nic.funet.fi
+Country: FI Finland
+Location: Espoo
+Sponsor: Finnish Academic and Research Network FUNET http://www.funet.fi/

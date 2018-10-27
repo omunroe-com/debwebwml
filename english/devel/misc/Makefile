@@ -32,5 +32,9 @@ card.dvi: card.tex bottle.eps
 # the non-english directories shouldn't try to install them
 $(HTMLDIR)/card.tex: card.tex
 	install -m 664 -p card.tex $(HTMLDIR)
+else
+
+# Create this rule so CI doesn't die
+$(HTMLDIR)/card.tex:
 
 endif

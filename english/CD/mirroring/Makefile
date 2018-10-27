@@ -20,6 +20,10 @@ rsync-mirrors.$(LANGUAGE).html: rsync-mirrors.wml $(TEMPLDIR)/cdimage.wml \
   $(ENGLISHDIR)/CD/mirroring/cdimage_mirrors.list | $(VCSREVCACHE)
 
 ifeq "$(LANGUAGE)" "en"
+
+$(ENGLISHDIR)/mirror/Mirrors.masterlist:
+	$(MAKE) -C $(ENGLISHDIR)/mirror Mirrors.masterlist
+
 $(ENGLISHDIR)/CD/mirroring/cdimage_mirrors.list: \
   $(ENGLISHDIR)/mirror/mirror_list.pl $(ENGLISHDIR)/mirror/Mirrors.masterlist
 	$< -m $(word 2,$^) -t cdimages-rsync > $@

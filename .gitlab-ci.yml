@@ -2,39 +2,37 @@ stages:
 - english
 - translations
 - merge
-.build-common: &common
-  before_script:
-  - apt-get update
-  - apt-get -y install wml make gettext git opencc diffstat libintl-perl libxml-rss-perl wget libtimedate-perl
 # english, which we do always
 english:
-  <<: *common
   stage: english
-  image: debian:stretch
+  image: registry.salsa.debian.org/webmaster-team/webwml/build:latest
   script:
-  - make LANGUAGES=english install
+  - make LANGUAGES=english STRICT_ERROR_CHECKS=1 USE_SAMPLE_FILES=1 install
   after_script:
   - mkdir -p .public
   - mv ../www .public/english
   artifacts:
+    untracked: true
+    when: always
     paths:
       - .public
 # translations
 .build: &build
-  <<: *common
-  image: debian:stretch
+  image: registry.salsa.debian.org/webmaster-team/webwml/build:latest
   stage: translations
   retry: 2
   script:
-  - if [ ! -z "$(git log -p ${CI_COMMIT_BEFORE_SHA}..HEAD|diffstat -p1 -l|grep '/'|cut -d'/' -f1|uniq|grep ${CI_JOB_NAME})" ]; then make LANGUAGES=${CI_JOB_NAME} install; else echo "no changes for $CI_JOB_NAME"; fi
+  - if ci/build-me; then make LANGUAGES=${CI_JOB_NAME} STRICT_ERROR_CHECKS=1 USE_SAMPLE_FILES=1 install; else echo "no changes for $CI_JOB_NAME"; fi
   after_script:
   - mkdir -p .public
   - mv ../www .public/${CI_JOB_NAME}
   artifacts:
+    when: always
     paths:
-      - .public
+      - .public/$CI_JOB_NAME
 merge:
   stage: merge
+  image: debian:stretch
   before_script:
   - apt-get update
   - apt-get -y install rsync

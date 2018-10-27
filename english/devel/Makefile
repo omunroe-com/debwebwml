@@ -15,3 +15,8 @@ leader.$(LANGUAGE).html: leader.wml $(TEMPLDIR)/template.wml \
 people.$(LANGUAGE).html: people.wml $(TEMPLDIR)/template.wml \
  $(ENGLISHSRCDIR)/devel/people.names
 index.$(LANGUAGE).html: index.wml $(TEMPLDIR)/template.wml
+
+ifeq ($(USE_SAMPLE_FILES),1)
+$(ENGLISHSRCDIR)/devel/people.names: $(ENGLISHSRCDIR)/devel/people.names.sample
+	if [ ! -f $@ ]; then cp $< $@; else touch $@; fi
+endif
