@@ -119,6 +119,13 @@
 #  <their_products <t-shirts>, <hats>, <mugs>, <stickers>>
 #</mercentry>
 
+# added, see <9aee95f3-d99e-5db6-88f6-5aafbef22bd1@gmx.de>
+<mercentry>
+  <vendor Sticker Mule>
+  <URL "https://www.stickermule.com/unixstickers">
+  <their_products <stickers>>
+</mercentry>
+
 #<mercentry>
 #  <vendor ThinkGeek>
 #  <URL "http://www.thinkgeek.com/">
