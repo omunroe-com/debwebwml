@@ -127,11 +127,12 @@
 
 # disabled, see <4F27FB57.1020600@gmail.com>
 # reenabled, see <668D08A0FCCB4D50ABE8E712F0E4B755@unixstickers.com>
-<mercentry>
-  <vendor Unixstickers>
-  <URL "https://www.unixstickers.com/tag/debian">
-  <their_products <t-shirts>, <other_clothing>, <badges>, <stickers>>
-</mercentry>
+# redisabled, see <9aee95f3-d99e-5db6-88f6-5aafbef22bd1@gmx.de>
+#<mercentry>
+#  <vendor Unixstickers>
+#  <URL "https://www.unixstickers.com/tag/debian">
+#  <their_products <t-shirts>, <other_clothing>, <badges>, <stickers>>
+#</mercentry>
 
 # disabled due complains, 2017-01-21
 # Unixstuff takes money, but does NOT sent goods. See
