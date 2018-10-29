@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="5c44523d6b6b4de947b94c71e9e075b442656fe5" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Man opdagede at en ukorrekt forbindelsesopsætning i Teeworlds-serveren, et 
+online 2-D-platformskydespil til flere personer, kunne medføre lammelsesangreb 
+gennem fabrikerede forbindelsespakker (medførende at alle spilserverslots var 
+optaget).</p>
+
+<p>I den stabile distribution (stretch), er dette problem rettet i
+version 0.6.5+dfsg-1~deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine teeworlds-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende teeworlds, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/teeworlds">\
+https://security-tracker.debian.org/tracker/teeworlds</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4329.data"
