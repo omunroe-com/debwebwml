@@ -1,0 +1,21 @@
+#use wml::debian::translation-check translation="5c44523d6b6b4de947b94c71e9e075b442656fe5" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Man har upptäckt att felaktiga inställningar för anslutning till servern
+för Teeworlds, en online multi-player plattform-2d-shooter, kunde resultera
+i överbelastning via förfalskningar av anslutningspaket (vilket gör alla
+platser i spelservern upptagna).</p>
+
+<p>För den stabila utgåvan (Stretch) har detta problem rättats i
+version 0.6.5+dfsg-1~deb9u1.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era teeworlds-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om teeworlds vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/teeworlds">\
+https://security-tracker.debian.org/tracker/teeworlds</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4329.data"
