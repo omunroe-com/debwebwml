@@ -282,91 +282,87 @@ msgstr ""
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr ""
 
-#: ../../english/intro/organization.data:400
+#: ../../english/intro/organization.data:401
 msgid "Security Team"
 msgstr ""
 
-#: ../../english/intro/organization.data:412
+#: ../../english/intro/organization.data:413
 msgid "Consultants Page"
 msgstr ""
 
-#: ../../english/intro/organization.data:417
+#: ../../english/intro/organization.data:418
 msgid "CD Vendors Page"
 msgstr ""
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:421
 msgid "Policy"
 msgstr ""
 
-#: ../../english/intro/organization.data:425
+#: ../../english/intro/organization.data:424
 msgid "System Administration"
 msgstr ""
 
-#: ../../english/intro/organization.data:426
+#: ../../english/intro/organization.data:425
 msgid "This is the address to use when encountering problems on one of Debian's machines, including password problems or you need a package installed."
 msgstr ""
 
-#: ../../english/intro/organization.data:435
+#: ../../english/intro/organization.data:434
 msgid "If you have hardware problems with Debian machines, please see <a href=\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should contain per-machine administrator information."
 msgstr ""
 
-#: ../../english/intro/organization.data:436
+#: ../../english/intro/organization.data:435
 msgid "LDAP Developer Directory Administrator"
 msgstr ""
 
-#: ../../english/intro/organization.data:437
+#: ../../english/intro/organization.data:436
 msgid "Mirrors"
 msgstr ""
 
-#: ../../english/intro/organization.data:444
+#: ../../english/intro/organization.data:443
 msgid "DNS Maintainer"
 msgstr ""
 
-#: ../../english/intro/organization.data:445
+#: ../../english/intro/organization.data:444
 msgid "Package Tracking System"
 msgstr ""
 
-#: ../../english/intro/organization.data:447
+#: ../../english/intro/organization.data:446
 msgid "Treasurer"
 msgstr ""
 
-#: ../../english/intro/organization.data:453
+#: ../../english/intro/organization.data:452
 msgid "<a name=\"trademark\" href=\"m4_HOME/trademark\">Trademark</a> use requests"
 msgstr ""
 
-#: ../../english/intro/organization.data:456
+#: ../../english/intro/organization.data:455
 msgid "Salsa administrators"
 msgstr ""
 
-#: ../../english/intro/organization.data:460
-msgid "Alioth administrators"
-msgstr ""
-
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:466
 msgid "Debian for children from 1 to 99"
 msgstr ""
 
-#: ../../english/intro/organization.data:476
+#: ../../english/intro/organization.data:469
 msgid "Debian for medical practice and research"
 msgstr ""
 
-#: ../../english/intro/organization.data:479
+#: ../../english/intro/organization.data:472
 msgid "Debian for education"
 msgstr ""
 
-#: ../../english/intro/organization.data:484
+#: ../../english/intro/organization.data:477
 msgid "Debian in legal offices"
 msgstr ""
 
-#: ../../english/intro/organization.data:488
+#: ../../english/intro/organization.data:481
 msgid "Debian for people with disabilities"
 msgstr ""
 
-#: ../../english/intro/organization.data:492
+#: ../../english/intro/organization.data:485
 msgid "Debian for science and related research"
 msgstr ""
 
-#: ../../english/intro/organization.data:495
+#: ../../english/intro/organization.data:488
 msgid "Debian for astronomy"
 msgstr ""
 
