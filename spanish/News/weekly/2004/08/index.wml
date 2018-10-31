@@ -62,13 +62,13 @@ href="https://lists.debian.org/debian-devel-announce-0401/msg00015.html">\
 pendientes</a>. Además todavía hay 350 errores críticos para publicación
 en los paquetes de testing. Esto no es algo con lo que podamos publicar.</p>
 
-<p><strong>¿Adaptación pura de 64-Bit AMD64?</strong> John Goerzen <a
+<p><strong>¿Adaptación pura de AMD64 de 64 bits?</strong> John Goerzen <a
 href="https://lists.debian.org/debian-amd64-0402/msg00235.html">propuso</a> 
-mantenerse con una adaptación de 64-bit pura para la arquitectura <a
+mantenerse con una adaptación de 64 bits pura para la arquitectura <a
 href="$(HOME)/ports/amd64/">AMD64</a>. Cuando finalmente se consiga una forma 
 de adelantar el multiarch ellos pueden realizar la transición para convertirla
 en una plataforma multiarch. Mientras tanto todavía se soportará a los que
-deseen un entorno de 64-bit puro. Josh Hansen <a 
+deseen un entorno de 64 bits puro. Josh Hansen <a 
 href="https://lists.debian.org/debian-amd64-0402/msg00263.html">añadió</a> que
 ambos esfuerzos continuarán mientras haya personas que deseen dedicar
 tiempo a éstos.</p>

@@ -68,7 +68,7 @@ la adaptación pura de amd64 que va a ser integrado en Debian, si lo es para
 el soporte de sparc64, s390x, mips64, mipsel64 y powerpc64. Se tiene 
 <a href="https://lists.debian.org/debian-devel/2005/07/msg00354.html">\
 planeado</a> proveer solo un número limitado de paquetes para uso nativo
-de 64-bit en estas arquitecturas en lugar de todo el archivo.</p>
+de 64 bits en estas arquitecturas en lugar de todo el archivo.</p>
 
 <p><strong>Tipo de letra de logo de Debian.</strong> Andreas Tille se ha <a
 href="https://lists.debian.org/debian-devel/2005/07/msg00251.html">preguntado

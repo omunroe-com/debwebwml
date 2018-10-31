@@ -8,7 +8,7 @@
 <ul>
  <li><a href="#intro">Introducción</a></li>
  <li><a href="#status">Estado actual</a></li>
- <li><a href="#sparc64bit">Sobre el soporte de SPARC 64-bit</a>
+ <li><a href="#sparc64bit">Sobre el soporte de SPARC de 64 bits</a>
  <ul>
    <li><a href="#kernelsun4u">Compilar núcleos para sun4u</a></li>
  </ul></li>
@@ -36,7 +36,7 @@ instalar Debian.
 </p>
 
 
-<h3 id="sparc64bit">Sobre el soporte para SPARC de 64-bits</h3>
+<h3 id="sparc64bit">Sobre el soporte para SPARC de 64 bits</h3>
 
 <p>La adaptación de Debian a SPARC,
 tal como se mencionó antes, soporta las arquitecturas Sun4u
@@ -53,7 +53,7 @@ lugar de eso, está pensado como <em>añadido</em> a la adaptación a SPARC.
 </p>
 
 <p>En realidad, no tiene sentido tener todas las aplicaciones ejecutándose en
-modo 64-bit. El modo 64-bit completo implica una sobrecarga significativa
+modo 64 bits. El modo 64 bits completo implica una sobrecarga significativa
 (en tamaño de memoria y disco), a menudo sin beneficio. Algunas
 aplicaciones se pueden beneficiar realmente de ejecutarse en 64 bits, y ése
 es el propósito de este esfuerzo de adaptación.

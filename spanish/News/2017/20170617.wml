@@ -123,10 +123,10 @@ altas expectativas que tienen los usuarios de una versión estable de Debian.
 
 <p>
 Se proporciona soporte a un total de diez arquitecturas:
-64-bit PC / Intel EM64T / x86-64 (<code>amd64</code>),
-32-bit PC / Intel IA-32 (<code>i386</code>),
-64-bit little-endian Motorola/IBM PowerPC (<code>ppc64el</code>),
-64-bit IBM S/390 (<code>s390x</code>),
+PC de 64 bits / Intel EM64T / x86-64 (<code>amd64</code>),
+PC de 32 bits / Intel IA-32 (<code>i386</code>),
+Motorola/IBM PowerPC de 64 bits little-endian (<code>ppc64el</code>),
+IBM S/390 de 64 bits (<code>s390x</code>),
 para ARM, <code>armel</code>
 y <code>armhf</code> para hardware de 32 bits tanto antiguo como más reciente,
 además de <code>arm64</code> para la arquitectura de 64 bits <q>AArch64</q>,

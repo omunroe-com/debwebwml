@@ -4,7 +4,7 @@
 #use wml::debian::translation-check translation="6d2e0afb56e760364713c2cca2c9f6407c9a744f" maintainer="Laura Arjona Reina"
 
 <span class="download"><a href="<stable-amd64-url/>">
-Descargar Debian Hamradio <stable-version/><br/><em>(64-bit LiveDVD)</em></a>
+Descargar Debian Hamradio <stable-version/><br/><em>(LiveDVD para 64 bits)</em></a>
 </span>
 <div id="splash">
 	<h1 id="hamradio">Debian Hamradio «Pure Blend»</h1>

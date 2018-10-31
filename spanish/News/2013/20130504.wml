@@ -92,7 +92,7 @@ PC de 32 bits / Intel IA-32 (<code>i386</code>), PC de 64 bits / Intel EM64T
 / x86-64 (<code>amd64</code>), Motorola/IBM PowerPC (<code>powerpc</code>),
 Sun/Oracle SPARC (<code>sparc</code>), MIPS (<code>mips</code> (big-endian) y
 <code>mipsel</code> (little-endian)), Intel Itanium (<code>ia64</code>), IBM
-S/390 (31-bit <code>s390</code> y 64-bit <code>s390x</code>), y ARM EABI
+S/390 (<code>s390</code> de 32 bits y <code>s390x</code> de 64 bits), y ARM EABI
 (<code>armel</code> para hardware antiguo y <code>armhf</code> para hardware
 nuevo, usando hardware de procesamiento de coma flotante).
 </p>

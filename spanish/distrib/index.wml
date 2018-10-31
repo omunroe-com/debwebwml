@@ -20,26 +20,26 @@ contiene instrucciones de instalación detalladas.
 	    Para utilizar esta opción debe tener una máquina con conexión a Internet
 	    
 <ul class="quicklist downlist">
-<li><a title="Descargar el instalador para PC de 64-bit Intel y AMD"
-      href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">64-bit
-	      PC netinst iso</a></li>
-	  <li><a title="Descargar el instalador para PC de 32-bit Intel y AMD"
-		 href="<stable-images-url/>/i386/iso-cd/debian-<current-tiny-cd-release-filename/>-i386-netinst.iso">32-bit
-	      PC netinst iso</a></li>
+<li><a title="Descargar el instalador para PC de 64 bits Intel y AMD"
+      href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">iso netinst para
+	      PC de 64 bits</a></li>
+	  <li><a title="Descargar el instalador para PC de 32 bits Intel y AMD"
+		 href="<stable-images-url/>/i386/iso-cd/debian-<current-tiny-cd-release-filename/>-i386-netinst.iso">iso netinst para
+	      PC de 32 bits</a></li>
 	</ul>
       </li>
       <li>Una <a href="../CD/"><strong>imagen de instalación
       completa</strong></a>: contiene más paquetes, haciendo más fácil la instalación en máquinas
 	sin conexión a Internet.
 	<ul class="quicklist downlist">
-	  <li><a title="Descargar torrents del DVD para PC de 64-bit Intel y AMD"
-	         href="<stable-images-url/>/amd64/bt-dvd/">64-bit PC torrents (DVD)</a></li>
-	  <li><a title="Descargar torrents del DVD para PC de 32-bit Intel y AMD"
-		 href="<stable-images-url/>/i386/bt-dvd/">32-bit PC torrents (DVD)</a></li>
-	  <li><a title="Descargar torrents del CD para PC de 64-bit Intel y AMD"
-	         href="<stable-images-url/>/amd64/bt-cd/">64-bit PC torrents (CD)</a></li>
-	  <li><a title="Descargar torrents del CD para PC de 32-bit Intel y AMD"
-		 href="<stable-images-url/>/i386/bt-cd/">32-bit PC torrents (CD)</a></li>
+	  <li><a title="Descargar torrents del DVD para PC de 64 bits Intel y AMD"
+	         href="<stable-images-url/>/amd64/bt-dvd/">torrents para PC de 64 bits (DVD)</a></li>
+	  <li><a title="Descargar torrents del DVD para PC de 32 bits Intel y AMD"
+		 href="<stable-images-url/>/i386/bt-dvd/">torrents para PC de 32 bits (DVD)</a></li>
+	  <li><a title="Descargar torrents del CD para PC de 64 bits Intel y AMD"
+	         href="<stable-images-url/>/amd64/bt-cd/">torrents para PC de 64 bits (CD)</a></li>
+	  <li><a title="Descargar torrents del CD para PC de 32 bits Intel y AMD"
+		 href="<stable-images-url/>/i386/bt-cd/">torrents para PC de 32 bits (CD)</a></li>
 	</ul>
       </li>
     </ul>
@@ -67,10 +67,10 @@ contiene instrucciones de instalación detalladas.
    
    </p>
 <ul class="quicklist downlist">
-<li><a  title="Descargar torrents de la versión live para PC de 64-bit Intel y AMD"
-       href="<live-images-url/>/amd64/bt-hybrid/">64-bit PC torrents</a></li>
-<li><a title="Descargar torrents de la versión live para PC de 32-bit Intel y AMD"
-       href="<live-images-url/>/i386/bt-hybrid/">32-bit PC torrents</a></li>
+<li><a  title="Descargar torrents de la versión live para PC de 64 bits Intel y AMD"
+       href="<live-images-url/>/amd64/bt-hybrid/">torrents para PC de 64 bits</a></li>
+<li><a title="Descargar torrents de la versión live para PC de 32 bits Intel y AMD"
+       href="<live-images-url/>/i386/bt-hybrid/">torrents para PC de 32 bits</a></li>
 </ul>
   </div>
 </div>
