@@ -332,6 +332,18 @@
 </country>
 
 <country code="mx" name="<country-name MX>">
+<vendor name="Idigiz"
+	url="http://idigiz.com/"
+	deburl="http://idigiz.com/distribuidor-debian/"
+	contacturl="mailto:contacto@idigiz.com"
+	country="mx"
+	contribution="yes"
+	ship="yes"
+	cd="yes"
+	dvd="yes"
+	bd="no"
+	usb="yes"
+	architectures="amd64 i386 powerpc s390x arm64" />
 <vendor name="Werner Ernesto Goedecke Rodriguez"
 	url="https://www.wer.mx"
 	deburl="https://www.wer.mx"
