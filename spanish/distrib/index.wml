@@ -1,5 +1,5 @@
 #use wml::debian::template title="Obtener Debian"
-#use wml::debian::translation-check translation="4b5ec5643234125a935ece51f006bdcd2219069e"
+#use wml::debian::translation-check translation="34cad47f2b36eb496446b7c5c702667c4391595a"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p>Debian se distribuye <a href="../intro/free">libremente</a>
@@ -43,6 +43,8 @@ contiene instrucciones de instalación detalladas.
 	</ul>
       </li>
     </ul>
+  </div>
+  <div class="item col50 lastcol">
     <h2><a href="https://cloud.debian.org/images/cloud/">Use una imagen de Debian para la nube</a></h2>
     <ul>
       <li>Una <a href="https://cloud.debian.org/images/cloud/"><strong>imagen oficial para la nube</strong></a>:
@@ -53,8 +55,6 @@ contiene instrucciones de instalación detalladas.
         </ul>
       </li>
      </ul>
-  </div>
-  <div class="item col50 lastcol">
      <h2><a href="../CD/live/">Pruebe Debian live antes de instalar</a></h2>
      <p>
       Puede probar Debian arrancando un sistema "en vivo" desde un CD, DVD o USB sin 

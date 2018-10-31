@@ -1,5 +1,5 @@
 #use wml::debian::template title="Få fat i Debian"
-#use wml::debian::translation-check translation="4b5ec5643234125a935ece51f006bdcd2219069e"
+#use wml::debian::translation-check translation="34cad47f2b36eb496446b7c5c702667c4391595a"
 #include "$(ENGLISHDIR)/releases/images.data"
 
 <p>Debian distribueres <a href="../intro/free">frit</a> over 
@@ -50,6 +50,7 @@ filspejle</a>.  Detaljerede oplysninger om hvordan man installerer findes i
 	    </li>
 	</ul>
     </div>
+    <div class="item col50 lastcol">
     <h2><a href="https://cloud.debian.org/images/cloud/">Use a Debian cloud image</a></h2>
     <ul>
         <li>Et officielt <a href="https://cloud.debian.org/images/cloud/"><strong>cloudfilaftryk</strong></a>:
@@ -64,7 +65,6 @@ filspejle</a>.  Detaljerede oplysninger om hvordan man installerer findes i
     	    </ul>
         </li>
     </ul>
-    <div class="item col50 lastcol">
 	<h2><a href="../CD/live/">Prøv Debian live før installering</a></h2>
 	
 	<p>

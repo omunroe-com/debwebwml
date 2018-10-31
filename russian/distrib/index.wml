@@ -1,6 +1,6 @@
 #use wml::debian::template title="Где взять Debian"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="4b5ec5643234125a935ece51f006bdcd2219069e" maintainer="Lev Lamberov"
+#use wml::debian::translation-check translation="34cad47f2b36eb496446b7c5c702667c4391595a" maintainer="Lev Lamberov"
 
 <p>Debian <a href="../intro/free">свободно</a> распространяется
 через Интернет. Вы можете загрузить всю систему с любого из наших
@@ -44,6 +44,8 @@
         </ul>
       </li>
     </ul>
+  </div>
+  <div class="item col50 lastcol">
     <h2><a href="https://cloud.debian.org/images/cloud/">Используйте облачные образы Debian</a></h2>
     <ul>
       <li>Официальный <a href="https://cloud.debian.org/images/cloud/"><strong>облачный образ</strong></a>
@@ -54,8 +56,6 @@
         </ul>
       </li>
     </ul>
-  </div>
-  <div class="item col50 lastcol">
     <h2><a href="../CD/live/">Попробуйте Debian live до установки</a></h2>
     <p>
       Вы можете попробовать Debian, загрузив live-систему с CD, DVD или USB-карты
