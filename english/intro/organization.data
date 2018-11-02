@@ -34,9 +34,9 @@
 <spaces><em><abbr title="<gettext domain="organization">Stable Release Manager</gettext>"><gettext domain="organization">SRM</gettext></abbr></em>&nbsp;</define-tag>
 <define-tag wizard><br>
 <spaces><em><gettext domain="organization">wizard</gettext></em>&nbsp;</define-tag>
-# we only use the chairman tag once, for techctte, I wonder why it's here.
-<define-tag chairman><br>
-<spaces><em><gettext domain="organization">chairman</gettext></em>&nbsp;</define-tag>
+# we only use the chair tag once, for techctte, I wonder why it's here.
+<define-tag chair><br>
+<spaces><em><gettext domain="organization">chair</gettext></em>&nbsp;</define-tag>
 # assistant tag added for DPL "second in command"
 <define-tag assistant><br>
 <spaces><em><gettext domain="organization">assistant</gettext></em>&nbsp;</define-tag>
@@ -74,7 +74,7 @@
   <appointmentmail 1498053993.4017640.1016684592.748E3111@webmail.messagingengine.com>
   <appointmentmail 1514922200.4161380.1222079088.19895321@webmail.messagingengine.com>
   <appointmentmail 1521224077.296447.1305789200.53C43961@webmail.messagingengine.com>
-    <chairman>Didier Raboud
+    <chair>Didier Raboud
     <member>Philip Hands
     <member>Tollef Fog Heen
     <member>Margarita Manterola
