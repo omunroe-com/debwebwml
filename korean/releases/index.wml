@@ -18,7 +18,7 @@
   현재 <q>안정</q> 배포본은 버전
   <:=substr '<current_initial_release>', 0, 1:>, 코드이름은 <em><current_release_name></em>.
 <ifeq "<current_initial_release>" "<current_release>"
-  "그것은 <current_release_date>에 내왔습니다."
+  "그것은 <current_release_date>에 나왔습니다."
 />
 <ifneq "<current_initial_release>" "<current_release>"
   "초기 버전 <current_initial_release> 은
