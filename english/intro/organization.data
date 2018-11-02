@@ -271,6 +271,7 @@
   <job <a name="antiharassment" href="https://wiki.debian.org/AntiHarassment"><gettext domain="organization">Anti-harassment</gettext></a>> <genericemail antiharassment@debian.org>
     <member>Laura Arjona Reina
     <member>Martín Ferrari
+    <member>Molly de Blanc
 
   <job <a name="events" href="$(HOME)/events/"><gettext domain="organization">Events</gettext></a>> <genericemail events@debian.org>
     <member>Alexander Wirt
