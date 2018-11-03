@@ -6,7 +6,7 @@
 
 
 
-<span class="download"><a href="<stable-images-url/>/multi-arch/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-i386-netinst.iso">Descargar Debian <current_release_short><em>(instalador por rede para PCs de 32/64-bit)</em></a> </span>
+<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">Descargar Debian <current_release_short><em>(instalador por rede para PCs de 64-bit)</em></a> </span>
 
 
 <div id="splash">

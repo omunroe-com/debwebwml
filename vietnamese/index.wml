@@ -1,71 +1,71 @@
-#use wml::debian::mainpage title="Hệ điều hành toàn cầu"
+#use wml::debian::mainpage title="نظام التشغيل الشامل"
 #use wml::debian::recent_list
 #include "$(ENGLISHDIR)/releases/info"
 #include "$(ENGLISHDIR)/releases/images.data"
-#use wml::debian::translation-check translation="22dbd3c9647af354d2b6568836a5d87dee3115f7" maintainer="Trần Ngọc Quân"
+#use wml::debian::translation-check translation="1d246c4cb232fa0bb519178718e34f423e89fdac" maintainer="Med. Amine"
 
-<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">Tải Debian <current_release_short><em> về (Cài đặt máy tính 64-bít qua mạng)</em></a> </span>
+<div class="bidi">
+
+<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">تنزيل دبيان <current_release_short><em>(التثبيت الشبكي 64 بت)</em></a> </span>
 
 <div id="splash">
-	<h1>Debian</h1>
+	<h1>دبيان</h1>
 </div>
 
 <div id="intro">
-<p>Debian là
-hệ điều hành (OS) <a href="intro/free">tự do</a> dành cho máy tính của bạn.
-Hệ điều hành là một tập hợp các tiện ích và ứng dụng cơ bản, những thứ này
-giúp cho máy tính của bạn chạy được.
+<p>دبيان 
+هو نظام تشغيل <a href="intro/free">حر</a> لحاسوبك.
+نظام التشغيل هو مجموعة البرامج الأساسية والأدوات لتشغيل الحاسوب.
 </p>
 
-<p>Debian còn đưa ra nhiều hơn một OS đơn thuần: nó đến cùng với
-<packages_in_stable> <a href="distrib/packages">gói</a> phần mềm được biên dịch sẵn
-cùng với nhau ở định dạng tốt để dễ dàng cài đặt trên máy của bạn.
-<a href="intro/about">Đọc thêm...</a></p>
+<p>
+دبيان هو أكثر من مجرد نظام تشغيل: يأتي بأكثر
+من <packages_in_stable> <a href="distrib/packages">حزمة</a>
+مصرفّة مسبقا ومجمّعة بتهيئة مناسبة لتسهيل تثبيتها
+على حاسوبك. <a href="intro/about">اقرأ المزيد...</a>
+</p>
 </div>
 
 <hometoc/>
 
-<p class="infobar"><a href="releases/stable/">Bản phát hành ổn định mới nhất của Debian</a> là
-<current_release_short>. Cập nhật mới nhất cho bản phát hành này được tạo vào
-<current_release_date>. Đọc thêm về <a href="releases/">các phiên bản Debian sẵn có</a>.</p>
-
-<h2>Thông tin ban đầu</h2>
+<p class="infobar"><a href="releases/stable/">أحدث إصدارة مستقرة لدبيان</a> هي
+<current_release_short>. آخر تحديث لهذه الإصدارة كان في
+<current_release_date>. اقرأ المزيد حول <a href="releases/">نسخ دبيان المتوفرة</a>.</p>
+<h2>البداية</h2>
 <ul>
-  <li>Nếu bạn muốn bắt đầu sử dụng Debian, bạn có thể dễ dàng
-  <a href="distrib/">lấy một bản sao</a>, và sau đó theo các
-  <a href="releases/stable/installmanual">chỉ dẫn cài đặt</a> để cài nó.</li>
-  <li>Nếu bạn muốn nâng cấp lên bản phát hành ổn định mới nhất
-  từ phiên bản cũ hơn, vui lòng đọc
-  <a href="releases/stable/releasenotes">ghi chú phát hành</a>
-  trước khi tiếp tục.</li>
-  <li>Để đọc hướng dẫn sử dụng hay cài đặt Debian, vui lòng xem
-  trang <a href="doc/">tài liệu</a> và <a href="support">hỗ trợ</a>
-  của chúng tôi.</li>
-  <li>Những người dùng không nói tiếng Anh nên kiểm tra phần
-  <a href="international/">quốc tế</a>.</li>
-  <li>Những người dùng hệ thống không phải Intel x86 nên kiểm tra
-  phần <a href="ports/">chuyển đổi để chạy trên hệ thống khác</a>.</li>
+  <li>إن أردت البدء باستخدام دبيان، يمكنك <a
+    href="distrib/">الحصول على نسخة</a> بسهولة، ثم اتّباع <a
+    href="releases/stable/installmanual">تعليمات التثبيت</a>.</li> 
+  <li>إن كنت ترّقي إلى آخر إصدار مستقر من نسخة سابقة، يرجى قراءة <a
+    href="releases/stable/releasenotes">ملاحظات الإصدار</a> قبل المضيّ قُدما.</li> 
+  <li>للحصول على المساعدة حول كيفية استخدام أو إعداد دبيان، يرجى مراجعة صفحاتنا الخاصة <a href="doc/">بالتوثيق</a> و<a href="support">الدعم</a>.</li> 
+  <li>على المستخدمين الناطقين بغير اللغة الإنغليزية مراجعة القسم <a href="international/">الدولي</a>.</li>
+  <li>على مستخدمي أنظمة غير أنظمة Intel x86 مراجعة قسم <a
+    href="ports/">النُّقول</a>.</li>
 </ul>
 
 <hr />
 <a class="rss_logo" href="News/news">RSS</a>
-<h2>Tin tức</h2>
+<h2>الأخبار</h2>
 
 <p><:= get_recent_list('News/$(CUR_YEAR)', '6', '$(ENGLISHDIR)', '', '\d+\w*' ) :></p>
 
-<p>Với các tin cũ vui lòng xem <a href="$(HOME)/News/">Trang tin tức</a>.
-Nếu bạn muốn nhật tất cả các tin mới về Debian thông qua thư điện tử, thì hãy đặt
-xem dài hạn <a href="MailingLists/debian-announce">bó thư thông-báo-debian</a>.</p>
+<p>
+الأخبار السابقة يمكن مراجعتها على <a href="$(HOME)/News/">صفحة الأخبار</a>.
+إن أردت استلام بريد عند صدور أخبار جديدة، سجّل في <a href="MailingLists/debian-announce">القائمة البريدية debian-announce</a>.
+</p>
 
 <hr />
 <a class="rss_logo" href="security/dsa">RSS</a>
-<h2>Cố vấn bảo mật</h2>
+<h2>التنبيهات الأمنية</h2>
 
 <p><:= get_recent_list ('security/2w', '10', '$(ENGLISHDIR)', 'bydate', '(2000\d+\w+|dsa-\d+)' ) :></p>
 
-<p>Với các cố vấn bảo mật cũ vui lòng xem <a href="$(HOME)/security/">Trang thông tin bảo mật</a>.
-Nếu bạn muốn nhận tất cả các cố vấn bảo mật nhanh nhất có thể thì vui lòng đặt xem dài hạn
-<a href="https://lists.debian.org/debian-security-announce/">bó thư thông-báo-bảo-mật-debian</a>.</p>
+<p>
+التنبيهات الأمنية السابقة يمكن مراجعتها على <A href="$(HOME)/security/">صفحة الأمن</a>.
+إن أردت استلام التنبيهات الأمنية فور إعلانها، 
+سجّل في <a href="https://lists.debian.org/debian-security-announce/">القائمة البريدية debian-security-announce</a>.
+</p>
 
 {#rss#:
 <link rel="alternate" type="application/rss+xml"
@@ -77,3 +77,5 @@ Nếu bạn muốn nhận tất cả các cố vấn bảo mật nhanh nhất c�
 <link rel="alternate" type="application/rss+xml"
  title="Debian Security Advisories (summaries)" href="security/dsa-long">
 :#rss#}
+
+</div>

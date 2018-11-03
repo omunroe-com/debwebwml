@@ -5,6 +5,9 @@
 
 
 
+<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">Download Debian <current_release_short><em>(64-bit PC Network installer)</em></a> </span>
+
+
 <div id="splash" style="text-align: center;">
         <h1>Debian</h1>
 </div>
