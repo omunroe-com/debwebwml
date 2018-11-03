@@ -253,7 +253,7 @@
         и <a href="https://tracker.debian.org/">отслеживания пакетов</a>
         содержат важную информацию для разработчиков.
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#pkg-tracker">Система
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.ru.html#pkg-tracker">Система
         отслеживания пакетов</a></dt>
         <dd>
         Система отслеживания пакетов позволяет разработчикам, желающим
@@ -272,7 +272,7 @@
         ``осиротить'' пакет.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources#incoming-system">\
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.ru.html#incoming-system">\
             Система последних поступлений</a></dt>
         <dd>
         Новые пакеты загружаются в <q>поступающую</q> систему на внутренних
@@ -299,7 +299,7 @@
         Debian wiki содержит советы разработчикам и другим участникам работы над системой.
         </dd>
 
-        <dt><a href="$(DOC)/manuals/developers-reference/resources.html#experimental">\
+        <dt><a href="$(DOC)/manuals/developers-reference/resources.ru.html#experimental">\
             Экспериментальный дистрибутив</a></dt>
         <dd>
         <em>Экспериментальный</em> дистрибутив используется в качестве
@@ -381,7 +381,7 @@
         <dt>Преобразование ключей PGP в GPG:</dt>
         <dd>
         Как это сделать, описано в
-        <a href="$(DOC)/manuals/developers-reference/developer-duties.html#key-maint">
+        <a href="$(DOC)/manuals/developers-reference/developer-duties.ru.html#key-maint">
         справочнике разработчика</a>. Другую полезную информацию о подписывании
         ключа GPG ключом PGP вы можете почерпнуть из файла
         <em>/usr/share/doc/debian-keyring/README.gz</em> в составе пакета
