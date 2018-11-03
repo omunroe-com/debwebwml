@@ -6,7 +6,7 @@
 
 
 
-<span class="download"><a href="<stable-images-url/>/multi-arch/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-i386-netinst.iso">Stáhnout Debian <current_release_short><em>(síťový instalátor pro 32/64bitové PC)</em></a> </span>
+<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">Stáhnout Debian <current_release_short><em>(síťový instalátor pro 64bitové PC)</em></a> </span>
 
 
 <div id="splash">

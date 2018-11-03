@@ -5,10 +5,8 @@
 #include "$(ENGLISHDIR)/releases/images.data"
 
 
-<span class="download">
-<a href="<stable-images-url/>/multi-arch/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-i386-netinst.iso">
-Descărcați Debian <current_release_short><em>(PC 32/64-biți, instalare prin rețea)
-</em></a></span>
+
+<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">Descărcați Debian <current_release_short><em>(PC 64-biți, instalare prin rețea)</em></a> </span>
 
 
 <div id="splash">
