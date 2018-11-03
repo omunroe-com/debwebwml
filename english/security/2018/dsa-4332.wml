@@ -1,0 +1,36 @@
+<define-tag description>security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities have been discovered in the interpreter for the
+Ruby language. The Common Vulnerabilities and Exposures project
+identifies the following problems:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16395">CVE-2018-16395</a>
+
+    <p>Tyler Eckstein reported that the equality check of
+    OpenSSL::X509::Name could return true for non-equal objects. If a
+    malicious X.509 certificate is passed to compare with an existing
+    certificate, there is a possibility to be judged incorrectly that
+    they are equal.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16396">CVE-2018-16396</a>
+
+    <p>Chris Seaton discovered that tainted flags are not propagated in
+    Array#pack and String#unpack with some directives.</p></li>
+
+</ul>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 2.3.3-1+deb9u4.</p>
+
+<p>We recommend that you upgrade your ruby2.3 packages.</p>
+
+<p>For the detailed security status of ruby2.3 please refer to its security
+tracker page at:
+<a href="https://security-tracker.debian.org/tracker/ruby2.3">https://security-tracker.debian.org/tracker/ruby2.3</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4332.data"
+# $Id: $
