@@ -1,0 +1,38 @@
+#use wml::debian::translation-check translation="47392efd21a71717e3d185eeb02d51f7fe74be33" maintainer="Jean-Pierre Giraud"
+<define-tag description>Mise à jour de sécurité</define-tag>
+<define-tag moreinfo>
+<p>Plusieurs vulnérabilités ont été découvertes dans l'interpréteur pour le
+langage Ruby. Le projet « Common Vulnerabilities and Exposures » (CVE)
+identifie les problèmes suivants.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16395">CVE-2018-16395</a>
+
+<p>Tyler Eckstein a signalé que la vérification d'égalité de
+OpenSSL::X509::Name pourrait renvoyer une valeur vraie pour des objets non
+égaux. Si un certificat X.509 malveillant est soumis pour comparaison à un
+certificat existant, il y a une possibilité qu'ils soient estimés comme
+égaux de façon incorrecte.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16396">CVE-2018-16396</a>
+
+<p>Chris Seaton a découvert que les indications de souillure n'étaient pas
+propagées dans Array#pack et String#unpack avec certaines directives.</p></li>
+
+</ul>
+
+<p>Pour la distribution stable (Stretch), ces problèmes ont été corrigés
+dans la version 2.3.3-1+deb9u4.</p>
+
+<p>Nous vous recommandons de mettre à jour vos paquets ruby2.3.</p>
+
+<p>Pour disposer d'un état détaillé sur la sécurité de ruby2.3, veuillez
+consulter sa page de suivi de sécurité à l'adresse :
+<a href="https://security-tracker.debian.org/tracker/ruby2.3">\
+https://security-tracker.debian.org/tracker/ruby2.3</a>.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4332.data"
+# $Id: $
