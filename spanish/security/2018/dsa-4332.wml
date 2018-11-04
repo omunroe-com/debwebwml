@@ -1,0 +1,36 @@
+#use wml::debian::translation-check translation="47392efd21a71717e3d185eeb02d51f7fe74be33"
+<define-tag description>actualización de seguridad</define-tag>
+<define-tag moreinfo>
+<p>Se han descubierto varias vulnerabilidades en el intérprete del
+lenguaje de programación Ruby. El proyecto «Vulnerabilidades y exposiciones comunes» («Common Vulnerabilities and Exposures»)
+identifica los problemas siguientes:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16395">CVE-2018-16395</a>
+
+    <p>Tyler Eckstein informó de que la comprobación de igualdad de
+    OpenSSL::X509::Name podría devolver «verdadero» para objetos no iguales. Si se
+    pasa un certificado X.509 malicioso para su comparación con un certificado
+    existente, hay una posibilidad de que se determine, incorrectamente, que
+    ambos son iguales.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16396">CVE-2018-16396</a>
+
+    <p>Chris Seaton descubrió que los indicadores de contaminación («tainted flags») no se propagan en
+    Array#pack y en String#unpack con algunas directivas.</p></li>
+
+</ul>
+
+<p>Para la distribución «estable» (stretch), estos problemas se han corregido en
+la versión 2.3.3-1+deb9u4.</p>
+
+<p>Le recomendamos que actualice los paquetes de ruby2.3.</p>
+
+<p>Para información detallada sobre el estado de seguridad de ruby2.3, consulte su página
+en el sistema de seguimiento de problemas de seguridad:
+<a href="https://security-tracker.debian.org/tracker/ruby2.3">https://security-tracker.debian.org/tracker/ruby2.3</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4332.data"
