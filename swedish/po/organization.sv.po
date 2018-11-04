@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: organization\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: (null)\n"
-"PO-Revision-Date: 2018-07-24 00:06+0200\n"
+"PO-Revision-Date: 2018-11-04 12:37+0100\n"
 "Last-Translator: Andreas Rönnquist <andreas@ronnquist.net>\n"
 "Language-Team: Swedish <debian-l10n-swedish@lists.debian.org>\n"
 "Language: sv\n"
@@ -61,7 +61,7 @@ msgid "wizard"
 msgstr "mästare"
 
 #: ../../english/intro/organization.data:39
-msgid "chairman"
+msgid "chair"
 msgstr "ordförande"
 
 #: ../../english/intro/organization.data:42
@@ -98,7 +98,7 @@ msgid "Publicity team"
 msgstr "Publicitetsgruppen"
 
 #: ../../english/intro/organization.data:60
-#: ../../english/intro/organization.data:303
+#: ../../english/intro/organization.data:304
 msgid "Support and Infrastructure"
 msgstr "Support och infrastruktur"
 
@@ -251,43 +251,43 @@ msgstr "Debian Women-projektet"
 msgid "Anti-harassment"
 msgstr "Anti-trakasserier"
 
-#: ../../english/intro/organization.data:275
+#: ../../english/intro/organization.data:276
 msgid "Events"
 msgstr "Evenemang"
 
-#: ../../english/intro/organization.data:281
+#: ../../english/intro/organization.data:282
 msgid "DebConf Committee"
 msgstr "DebConf-kommitté"
 
-#: ../../english/intro/organization.data:288
+#: ../../english/intro/organization.data:289
 msgid "Partner Program"
 msgstr "Partnerprogrammet"
 
-#: ../../english/intro/organization.data:293
+#: ../../english/intro/organization.data:294
 msgid "Hardware Donations Coordination"
 msgstr "Samordning av maskinvarudonationer"
 
-#: ../../english/intro/organization.data:306
+#: ../../english/intro/organization.data:307
 msgid "User support"
 msgstr "Användarstöd"
 
-#: ../../english/intro/organization.data:373
+#: ../../english/intro/organization.data:374
 msgid "Bug Tracking System"
 msgstr "Felrapporteringssystem"
 
-#: ../../english/intro/organization.data:378
+#: ../../english/intro/organization.data:379
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Sändlisteadministration och -arkiv"
 
-#: ../../english/intro/organization.data:386
+#: ../../english/intro/organization.data:387
 msgid "New Members Front Desk"
 msgstr "Nymedlemsreceptionen"
 
-#: ../../english/intro/organization.data:392
+#: ../../english/intro/organization.data:393
 msgid "Debian Account Managers"
 msgstr "Debiankontoadministratörer"
 
-#: ../../english/intro/organization.data:396
+#: ../../english/intro/organization.data:397
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
@@ -295,23 +295,23 @@ msgstr ""
 "För att skicka ett privatmeddelande till alla DAMs, använd GPG-nyckeln "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
 
-#: ../../english/intro/organization.data:397
+#: ../../english/intro/organization.data:398
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Ansvariga för nyckelring (PGP och GPG)"
 
-#: ../../english/intro/organization.data:400
+#: ../../english/intro/organization.data:402
 msgid "Security Team"
 msgstr "Säkerhetsgrupp"
 
-#: ../../english/intro/organization.data:412
+#: ../../english/intro/organization.data:414
 msgid "Consultants Page"
 msgstr "Konsultsida"
 
-#: ../../english/intro/organization.data:417
+#: ../../english/intro/organization.data:419
 msgid "CD Vendors Page"
 msgstr "Cd-försäljarsida"
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:422
 msgid "Policy"
 msgstr "Policy"
 
@@ -368,77 +368,76 @@ msgstr ""
 msgid "Salsa administrators"
 msgstr "Salsaadministratörer"
 
-#: ../../english/intro/organization.data:460
-msgid "Alioth administrators"
-msgstr "Administratörer för Alioth"
-
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:467
 msgid "Debian for children from 1 to 99"
 msgstr "Debian för barn mellan 1 och 99"
 
-#: ../../english/intro/organization.data:476
+#: ../../english/intro/organization.data:470
 msgid "Debian for medical practice and research"
 msgstr "Debian för medicinsk praktik och forskning"
 
-#: ../../english/intro/organization.data:479
+#: ../../english/intro/organization.data:473
 msgid "Debian for education"
 msgstr "Debian för utbildning"
 
-#: ../../english/intro/organization.data:484
+#: ../../english/intro/organization.data:478
 msgid "Debian in legal offices"
 msgstr "Debian för juridiska firmor"
 
 # Politiskt korrekt? :-)
-#: ../../english/intro/organization.data:488
+#: ../../english/intro/organization.data:482
 msgid "Debian for people with disabilities"
 msgstr "Debian för personer med funktionsnedsättningar"
 
-#: ../../english/intro/organization.data:492
+#: ../../english/intro/organization.data:486
 msgid "Debian for science and related research"
 msgstr "Debian för vetenskap och forskning"
 
-#: ../../english/intro/organization.data:495
+#: ../../english/intro/organization.data:489
 msgid "Debian for astronomy"
 msgstr "Debian för astronomi"
 
-#~ msgid "Bits from Debian"
-#~ msgstr "Bitar från Debian"
-
-#~ msgid "DebConf chairs"
-#~ msgstr "Debconf-ledare"
-
-#~ msgid "Testing Security Team"
-#~ msgstr "Uttestningsutgåvans säkerhetsgrupp"
-
-#~ msgid "Security Audit Project"
-#~ msgstr "Projekt för säkerhetsgenomgång"
-
-#~ msgid "Key Signing Coordination"
-#~ msgstr "Samordning av nyckelsignering"
-
-#~ msgid "Marketing Team"
-#~ msgstr "Marknadsföringsgrupp"
-
-#~ msgid "Handhelds"
-#~ msgstr "Handhållna"
-
-#~ msgid "Vendors"
-#~ msgstr "Försäljare"
-
-#~ msgid "Volatile Team"
-#~ msgstr "Volatilegruppen"
-
-#~ msgid "current Debian Project Leader"
-#~ msgstr "Debians nuvarande projektledare"
-
-#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
-#~ msgstr "Ansvariga för nyckelringen för Debian Maintainers (DM)"
-
-#~ msgid "Publicity"
-#~ msgstr "PR"
+#~ msgid "Live System Team"
+#~ msgstr "Livesystem-gruppen"
 
 #~ msgid "Auditor"
 #~ msgstr "Revisor"
 
-#~ msgid "Live System Team"
-#~ msgstr "Livesystem-gruppen"
+#~ msgid "Publicity"
+#~ msgstr "PR"
+
+#~ msgid "Debian Maintainer (DM) Keyring Maintainers"
+#~ msgstr "Ansvariga för nyckelringen för Debian Maintainers (DM)"
+
+#~ msgid "current Debian Project Leader"
+#~ msgstr "Debians nuvarande projektledare"
+
+#~ msgid "Volatile Team"
+#~ msgstr "Volatilegruppen"
+
+#~ msgid "Vendors"
+#~ msgstr "Försäljare"
+
+#~ msgid "Handhelds"
+#~ msgstr "Handhållna"
+
+#~ msgid "Marketing Team"
+#~ msgstr "Marknadsföringsgrupp"
+
+#~ msgid "Key Signing Coordination"
+#~ msgstr "Samordning av nyckelsignering"
+
+#~ msgid "Security Audit Project"
+#~ msgstr "Projekt för säkerhetsgenomgång"
+
+#~ msgid "Testing Security Team"
+#~ msgstr "Uttestningsutgåvans säkerhetsgrupp"
+
+#~ msgid "DebConf chairs"
+#~ msgstr "Debconf-ledare"
+
+#~ msgid "Bits from Debian"
+#~ msgstr "Bitar från Debian"
+
+#~ msgid "Alioth administrators"
+#~ msgstr "Administratörer för Alioth"
