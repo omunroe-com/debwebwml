@@ -1,0 +1,35 @@
+#use wml::debian::translation-check translation="47392efd21a71717e3d185eeb02d51f7fe74be33" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Flera sårbarheter har upptäckts i tolken för språket Ruby. Projektet
+Common Vulnerabilities and Exposures identifierar följande problem:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16395">CVE-2018-16395</a>
+
+	<p>Tyler Eckstein rapporterade att likhetskontrollen i
+	OpenSSL::X509::Name kunde returnera true för icke-lika objekt.
+	Om ett illasinnat X.509-certifikat skickas för att jämföras med
+	ett existerande certifikat, finns det en möjlighet att dom
+	bedöms felaktigt att dom är lika.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16396">CVE-2018-16396</a>
+	
+	<p>Chris Seaton upptäckte att korrupta flaggor inte propageras i
+	Array#pack och String#unpack med vissa direktiv.</p></li>
+
+</ul>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 2.3.3-1+deb9u4.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era ruby2.3-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om ruby2.3 vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/ruby2.3">https://security-tracker.debian.org/tracker/ruby2.3</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4332.data"
