@@ -1,5 +1,5 @@
 #use wml::debian::template title="Listes de diffusion concernant les évènements Debian" BARETITLE=true
-#use wml::debian::translation-check translation="f238c0163db7cedc356d4ed6d1c3128c22cc6e95" maintainer="Baptiste Jammet"
+#use wml::debian::translation-check translation="4dc033d27b891b23c1d0de760b0ebe7924e13661" maintainer="Baptiste Jammet"
 
 <p>Il y a un nombre assez important de listes de diffusion pour les évènements 
 concernant Debian. Elles sont généralement organisées par zone géographique.
@@ -11,6 +11,7 @@ corresponde l'évènement auquel vous pensez.</p>
   <li> <a href="mailto:debian-dug-by@lists.debian.org">Biélorussie</a>, veuillez
   envoyer aussi un courriel à <a
   href="mailto:debian-events-eu@lists.debian.org">la liste européenne</a>
+  <li> <a href="mailto:debian-br-eventos@alioth-lists.debian.net">Brésil</a>
   <li> <a href="mailto:debian-events-nl@lists.debian.org">Pays-Bas</a>
   <li> <a href="mailto:debian-events-eu@lists.debian.org">Europe (Union Européenne ou non)</a>
   <li> <a href="mailto:debian-events-ha@lists.debian.org">Amérique Latine</a>
