@@ -19,7 +19,7 @@ s'échapper du bac à sable.</p></li>
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17463">CVE-2018-17463</a>
 
 <p>Ned Williamson et Niklas Baumstark ont découvert un problème d'exécution
-distant de code dans la bibliothèque JavaScript v8.</p></li>
+distante de code dans la bibliothèque JavaScript v8.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17464">CVE-2018-17464</a>
 
