@@ -1,0 +1,37 @@
+#use wml::debian::translation-check translation="ce2c6df5f974a2c9be8ca06bb4afda282a57e3f9" maintainer="Sebul"
+<define-tag description>보안 업데이트</define-tag>
+<define-tag moreinfo>
+<p>Two vulnerabilities were discovered in cURL, an URL transfer library.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16839">CVE-2018-16839</a>
+
+    <p>Harry Sintonen discovered that, on systems with a 32 bit size_t, an
+    integer overflow would be triggered when a SASL user name longer
+    than 2GB is used. This would in turn cause a very small buffer to be
+    allocated instead of the intended very huge one, which would trigger
+    a heap buffer overflow when the buffer is used.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-16842">CVE-2018-16842</a>
+
+    <p>Brian Carpenter discovered that the logic in the curl tool to wrap
+    error messages at 80 columns is flawed, leading to a read buffer
+    overflow if a single word in the message is itself longer than 80
+    bytes.</p></li>
+
+</ul>
+
+<p>For the stable distribution (stretch), these problems have been fixed in
+version 7.52.1-5+deb9u8.</p>
+
+<p>curl 패키지를 업그레이드 하는 게 좋습니다.</p>
+
+<p>For the detailed security status of curl please refer to
+its security tracker page at:
+<a href="https://security-tracker.debian.org/tracker/curl">\
+https://security-tracker.debian.org/tracker/curl</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4331.data"
