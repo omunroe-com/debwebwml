@@ -1,14 +1,14 @@
 #use wml::debian::ddp title="Manuels pour les développeurs Debian"
 #include "$(ENGLISHDIR)/doc/manuals.defs"
 #include "$(ENGLISHDIR)/doc/devel-manuals.defs"
-#use wml::debian::translation-check translation="c3a3b8986d2ffef95ef7bb8f7d99f36678ff0e8f" maintainer="Jean-Paul Guillonneau"
+#use wml::debian::translation-check translation="dce6b8b213a09834f40d30b7af8698d02bc5c168" maintainer="Jean-Paul Guillonneau"
 
 # Translators
 # Mickael Simon, 2001-2003.
 # Frédéric Bothamy, 2005-2007.
 # Guillaume Delacour, 2009.
 # David Prévot, 2010-2012, 2014.
-# Jean-Paul Guillonneau 2015-2017
+# Jean-Paul Guillonneau 2015-2018
 
 <document "La Charte Debian" "policy">
 
@@ -308,9 +308,9 @@ privilégiant l’accès à la documentation technique.
   prêt
   </status>
   <availability>
- <p><a href="https://d-i.alioth.debian.org/doc/internals/">en ligne (À CORRIGER : non disponible actuellement)</a>.</p>
+ <p><a href="https://d-i.debian.org/doc/internals/">HTML en ligne</a></p>
  <p><a href="https://salsa.debian.org/installer-team/debian-installer/tree/master/doc/devel/internals">\
- Sources XML DocBook en ligne</a>.</p>
+ Sources XML DocBook en ligne</a></p>
   </availability>
 </doctable>
 </div>
