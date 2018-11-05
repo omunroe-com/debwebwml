@@ -1,0 +1,19 @@
+#use wml::debian::translation-check translation="d6dcc12a82bb49abdfb729627b48b4ebac3ec085" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>Ник Роулф обнаружил многочисленные переполнения буфера в Icecast, сервере
+мультимедиа-вещания, которые могут приводить к выполнению произвольного кода.</p>
+
+<p>В стабильном выпуске (stretch) эта проблема была исправлена в
+версии 2.4.2-1+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты icecast2.</p>
+
+<p>С подробным статусом поддержки безопасности icecast2 можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/icecast2">\
+https://security-tracker.debian.org/tracker/icecast2</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4333.data"

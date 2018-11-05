@@ -1,0 +1,20 @@
+#use wml::debian::translation-check translation="dfae2db1747e0329dcb03f343ab6a9328504bc7f" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В MuPDF, просмотрщике PDF, XPS и электронных книг, были обнаружены
+многочисленные уязвимости, которые могут приводить к отказу в обслуживании
+в случае открытия специально сформированных документов.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 1.9a+ds1-4+deb9u4.</p>
+
+<p>Рекомендуется обновить пакеты mupdf.</p>
+
+<p>С подробным статусом поддержки безопасности mupdf можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/mupdf">\
+https://security-tracker.debian.org/tracker/mupdf</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4334.data"
