@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4334-1 mupdf</define-tag>
+<define-tag report_date>2018-11-04</define-tag>
+<define-tag secrefs>CVE-2017-17866 CVE-2018-5686 CVE-2018-6187 CVE-2018-6192 CVE-2018-1000037 CVE-2018-1000040</define-tag>
+<define-tag packages>mupdf</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
