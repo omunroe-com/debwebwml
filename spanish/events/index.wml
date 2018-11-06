@@ -1,5 +1,11 @@
 #use wml::debian::template title="Actos importantes relacionados con Debian"
-#use wml::debian::translation-check translation="638fe58045b37899bd09abeb6939ae254187e89e" maintainer="Laura Arjona"
+#use wml::debian::translation-check translation="390592ef4704ef7932f027dba405f939c0e5de1c" maintainer="Laura Arjona Reina"
+
+<p>El acto más importante de Debian es la conferencia anual de Debian, llamada <a
+href="https://www.debconf.org/">DebConf</a>. También hay varias <a
+href="https://wiki.debian.org/MiniDebConf">MiniDebConfs</a> que son encuentros
+locales organizados por miembros del proyecto Debian.
+</p>
 
 <p>Las subpáginas de la <a href="https://wiki.debian.org/DebianEvents">página
 de eventos en la Wiki de Debian</a> contienen una lista de actos en los que Debian
@@ -37,9 +43,9 @@ presentaciones sobre Debian</a>.</p>
 
 <:= get_future_event_list(); :>
 
-#<p>La lista de arriba puede estar incompleta, para información más
-#actualizada consulte la 
-#<a href="https://wiki.debian.org/DebianEvents">página de actos de la Wiki de Debian</a>.</p>
+## <p>La lista de arriba puede estar incompleta, para información más
+## actualizada consulte la 
+## <a href="https://wiki.debian.org/DebianEvents">página de actos de la Wiki de Debian</a>.</p>
 
 <h3>Algunas páginas que pueden resultar de ayuda</h3>
 
@@ -66,5 +72,3 @@ presentaciones sobre Debian</a>.</p>
  pueden verse usando las siguientes páginas:
 
 <:= get_past_event_list(); :>
-
-
