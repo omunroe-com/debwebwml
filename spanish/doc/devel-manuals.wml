@@ -292,7 +292,7 @@ productos directamente en formato .deb" "swprod">
   Disponible
   </status>
   <availability>
-  <p><a href=""https://d-i.debian.org/doc/internals/">HTML en línea</a></p>
+  <p><a href="https://d-i.debian.org/doc/internals/">HTML en línea</a></p>
   <p><a href="https://salsa.debian.org/installer-team/debian-installer/tree/master/doc/devel/internals">fuentes DocBook XML en línea</a></p>
   </availability>
 </doctable>
