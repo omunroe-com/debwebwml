@@ -1,0 +1,97 @@
+#use wml::debian::translation-check translation="56baa1aa5fad724cf89ddd056dfeb02216ffb096" mindelta="1"
+<define-tag description>sikkerhedsopdatering</define-tag>
+<define-tag moreinfo>
+<p>Flere sårbarheder er opdaget i webbrowseren chromium.</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-5179">CVE-2018-5179</a>
+
+    <p>Yannic Boneberger opdagede en fejl i implementeringen af 
+    ServiceWorker.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17462">CVE-2018-17462</a>
+
+    <p>Ned Williamson og Niklas Baumstark opdagede en måde at slippe ud af 
+    sandkassen på.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17463">CVE-2018-17463</a>
+
+    <p>Ned Williamson og Niklas Baumstark opdagede et problem i forbindelse med 
+    fjernudførsel af kode i JavaScript-biblioteket v8.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17464">CVE-2018-17464</a>
+
+    <p>xisigr opdagede et problem med URL-forfalskning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17465">CVE-2018-17465</a>
+
+    <p>Lin Zuojian opdagede et problem  med anvendelse efter frigivelse i 
+    JavaScript-biblioteket v8.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17466">CVE-2018-17466</a>
+
+    <p>Omair opdagede et problem med hukommelseskorruption i biblioteket 
+    angle.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17467">CVE-2018-17467</a>
+
+    <p>Khalil Zhani opdagedet et problem med URL-forfalskning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17468">CVE-2018-17468</a>
+
+    <p>Jams Lee opdagede et problem med informationsafsløring.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17469">CVE-2018-17469</a>
+
+    <p>Zhen Zhou opdagedet et bufferoverløbsproblem i biblioteket 
+    pdfium.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17470">CVE-2018-17470</a>
+
+    <p>Zhe Jin opdagedet et problem med hukommelseskorruption i implementeringen 
+    af GPU-backend'en.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17471">CVE-2018-17471</a>
+
+    <p>Lnyas Zhang opdagedet et problem med fuldskærmsbrugerfladen.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17473">CVE-2018-17473</a>
+
+    <p>Khalil Zhani opdagedet et problem med URL-forfalskning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17474">CVE-2018-17474</a>
+
+    <p>Zhe Jin opdagedet et problem med anvendelse efter frigivelse.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17475">CVE-2018-17475</a>
+
+    <p>Vladimir Metnew opdagedet et problem med URL-forfalskning.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17476">CVE-2018-17476</a>
+
+    <p>Khalil Zhani opdagede et problem med fuldskærmsbrugerfladen.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2018-17477">CVE-2018-17477</a>
+
+    <p>Aaron Muir Hamilton opdagede et problem med forfalskning af brugerfladen 
+    i udvidelsesruden.</p></li>
+
+</ul>
+
+<p>Denne opdatering retter også et bufferoverløb i det indlejrede bibliotek 
+lcms, som følger med chromium.</p>
+
+<p>I den stabile distribution (stretch), er disse problemer rettet i
+version 70.0.3538.67-1~deb9u1.</p>
+
+<p>Vi anbefaler at du opgraderer dine chromium-browser-pakker.</p>
+
+<p>For detaljeret sikkerhedsstatus vedrørende chromium-browser, se
+dens sikkerhedssporingsside på:
+<a href="https://security-tracker.debian.org/tracker/chromium-browser">\
+https://security-tracker.debian.org/tracker/chromium-browser</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4330.data"
