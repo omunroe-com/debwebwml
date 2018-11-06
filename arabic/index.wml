@@ -6,7 +6,7 @@
 
 <div class="bidi">
 
-<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">تنزيل دبيان <current_release_short><em>(التثبيت الشبكي 64/32 بت)</em></a> </span>
+<span class="download"><a href="<stable-images-url/>/amd64/iso-cd/debian-<current-tiny-cd-release-filename/>-amd64-netinst.iso">تنزيل دبيان <current_release_short><em>(التثبيت الشبكي 64 بت)</em></a> </span>
 
 <div id="splash">
 	<h1>دبيان</h1>
