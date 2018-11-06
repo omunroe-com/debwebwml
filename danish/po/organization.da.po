@@ -54,7 +54,7 @@ msgid "wizard"
 msgstr "troldmand"
 
 #: ../../english/intro/organization.data:39
-msgid "chairman"
+msgid "chair"
 msgstr "formand"
 
 #: ../../english/intro/organization.data:42
@@ -91,7 +91,7 @@ msgid "Publicity team"
 msgstr "Publicityhold"
 
 #: ../../english/intro/organization.data:60
-#: ../../english/intro/organization.data:303
+#: ../../english/intro/organization.data:304
 msgid "Support and Infrastructure"
 msgstr "Support og infrastruktur"
 
@@ -244,43 +244,43 @@ msgstr "Debian Women-projektet"
 msgid "Anti-harassment"
 msgstr "Bekæmpelse af chikane"
 
-#: ../../english/intro/organization.data:275
+#: ../../english/intro/organization.data:276
 msgid "Events"
 msgstr "Begivenheder"
 
-#: ../../english/intro/organization.data:281
+#: ../../english/intro/organization.data:282
 msgid "DebConf Committee"
 msgstr "DebConf-komité"
 
-#: ../../english/intro/organization.data:288
+#: ../../english/intro/organization.data:289
 msgid "Partner Program"
 msgstr "Partnerskabsprogram"
 
-#: ../../english/intro/organization.data:293
+#: ../../english/intro/organization.data:294
 msgid "Hardware Donations Coordination"
 msgstr "Koordinering af hardwaredonationer"
 
-#: ../../english/intro/organization.data:306
+#: ../../english/intro/organization.data:307
 msgid "User support"
 msgstr "Hjælp til brugere"
 
-#: ../../english/intro/organization.data:373
+#: ../../english/intro/organization.data:374
 msgid "Bug Tracking System"
 msgstr "Fejlrapporteringssystem"
 
-#: ../../english/intro/organization.data:378
+#: ../../english/intro/organization.data:379
 msgid "Mailing Lists Administration and Mailing List Archives"
 msgstr "Postlisteadministration og postlistearkiver"
 
-#: ../../english/intro/organization.data:386
+#: ../../english/intro/organization.data:387
 msgid "New Members Front Desk"
 msgstr "Reception for nye medlemmer"
 
-#: ../../english/intro/organization.data:392
+#: ../../english/intro/organization.data:393
 msgid "Debian Account Managers"
 msgstr "Debians kontoadministratorer"
 
-#: ../../english/intro/organization.data:396
+#: ../../english/intro/organization.data:397
 msgid ""
 "To send a private message to all DAMs, use the GPG key "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
@@ -288,23 +288,23 @@ msgstr ""
 "For at sende en privat besked til alle DAM'er, benyttes denne GPG-nøgle "
 "57731224A9762EA155AB2A530CA8D15BB24D96F2."
 
-#: ../../english/intro/organization.data:397
+#: ../../english/intro/organization.data:398
 msgid "Keyring Maintainers (PGP and GPG)"
 msgstr "Vedligeholdere af nøglering (PGP og GPG)"
 
-#: ../../english/intro/organization.data:400
+#: ../../english/intro/organization.data:402
 msgid "Security Team"
 msgstr "Sikkerhedsteam"
 
-#: ../../english/intro/organization.data:412
+#: ../../english/intro/organization.data:414
 msgid "Consultants Page"
 msgstr "Konsulentside"
 
-#: ../../english/intro/organization.data:417
+#: ../../english/intro/organization.data:419
 msgid "CD Vendors Page"
 msgstr "Cd-forhandlerside"
 
-#: ../../english/intro/organization.data:420
+#: ../../english/intro/organization.data:422
 msgid "Policy"
 msgstr "Retningslinjer"
 
@@ -362,37 +362,36 @@ msgstr ""
 msgid "Salsa administrators"
 msgstr "Salsa-administratorer"
 
-#: ../../english/intro/organization.data:460
-msgid "Alioth administrators"
-msgstr "Alioth-administratorer"
-
-#: ../../english/intro/organization.data:473
+#: ../../english/intro/organization.data:467
 msgid "Debian for children from 1 to 99"
 msgstr "Debian for børn mellem 1 og 99"
 
-#: ../../english/intro/organization.data:476
+#: ../../english/intro/organization.data:470
 msgid "Debian for medical practice and research"
 msgstr "Debian til lægepraksiser og forskning"
 
-#: ../../english/intro/organization.data:479
+#: ../../english/intro/organization.data:473
 msgid "Debian for education"
 msgstr "Debian til uddannelse"
 
-#: ../../english/intro/organization.data:484
+#: ../../english/intro/organization.data:478
 msgid "Debian in legal offices"
 msgstr "Debian på juridiske kontorer"
 
-#: ../../english/intro/organization.data:488
+#: ../../english/intro/organization.data:482
 msgid "Debian for people with disabilities"
 msgstr "Debian til handicappede"
 
-#: ../../english/intro/organization.data:492
+#: ../../english/intro/organization.data:486
 msgid "Debian for science and related research"
 msgstr "Debian til videnskabelig og relateret forskning"
 
-#: ../../english/intro/organization.data:495
+#: ../../english/intro/organization.data:489
 msgid "Debian for astronomy"
 msgstr "Debian til astronomi"
+
+#~ msgid "Alioth administrators"
+#~ msgstr "Alioth-administratorer"
 
 #~ msgid "Live System Team"
 #~ msgstr "Live System-holdet"
