@@ -1,0 +1,25 @@
+#use wml::debian::template title="Debian Partners 2015"
+#use wml::debian::recent_list
+#include "$(ENGLISHDIR)/partners/index.include"
+#use wml::debian::translation-check translation="76bf549f521db7d60c1dda7a64c8b70bb265f90b"
+
+
+<p>Information om det aktuella partnerprogrammet och
+en lista på aktuella partners kan hittas på
+<a href="..">huvudsidan för partnerprogrammet</a>.
+
+<h3>Villkor för partnerprogrammet 2015</h3>
+
+<p>För ytterligare information om Debians partnerprogram för 2015, se
+<a href="./partners">Partnerprogram 2015</a>.</p>
+
+<h3>2015 Partners</h3>
+
+#include "$(ENGLISHDIR)/partners/2015/partners.data"
+
+<hrline>
+
+<h3>DebConf15 Sponsors</h3>
+
+<p>Sponsorerna för DebConf15 listas i
+<a href="https://debconf15.debconf.org">webbplatsen för DebConf15</a>.</p>
