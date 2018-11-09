@@ -10,7 +10,7 @@ transfert par URL.</p>
 
 <p>Harry Sintonen a découvert que, sur les systèmes avec une variable
 size_t 32 bits, un dépassement d'entier pourrait être déclenché lors de
-l'utilisation d'un nom d'utilisateur SASL d'une longueur supérieure à 2 GB.
+l'utilisation d'un nom d'utilisateur SASL d'une longueur supérieure à 2 Go.
 Il pourrait à son tour provoquer l'allocation d'un très petit tampon à la
 place du très grand attendu, ce qui pourrait déclencher un dépassement de
 tas lors de l'utilisation du tampon.</p></li>
