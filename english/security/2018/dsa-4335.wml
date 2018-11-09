@@ -1,7 +1,7 @@
 <define-tag description>security update</define-tag>
 <define-tag moreinfo>
 <p>Three vulnerabilities were discovered in Nginx, a high-performance web
-and reverse proxy server, which could in denial of service in processing
+and reverse proxy server, which could result in denial of service in processing
 HTTP/2 (via excessive memory/CPU usage) or server memory disclosure in
 the ngx_http_mp4_module module (used for server-side MP4 streaming).</p>
 
