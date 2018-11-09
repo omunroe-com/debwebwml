@@ -1,0 +1,22 @@
+#use wml::debian::translation-check translation="8266f41d7779590117890745beb04103a08486ab" mindelta="1"
+<define-tag description>säkerhetsuppdatering</define-tag>
+<define-tag moreinfo>
+<p>Två sårbarheter har upptäckts i Nginx, en högpresterande web- och
+proxyserver, som kunde resultera i överbelastning vid behandling av
+HTTP/2 (via överdrivet minnes-/CPU-användning) eller avslöjande av
+serverminne i modulen ngx_http_mp4_module (som används för MP4-strömning på
+serversidan).</p>
+
+<p>För den stabila utgåvan (Stretch) har dessa problem rättats i
+version 1.10.3-1+deb9u2.</p>
+
+<p>Vi rekommenderar att ni uppgraderar era nginx-paket.</p>
+
+<p>För detaljerad säkerhetsstatus om nginx vänligen se
+dess säkerhetsspårare på
+<a href="https://security-tracker.debian.org/tracker/nginx">\
+https://security-tracker.debian.org/tracker/nginx</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4335.data"
