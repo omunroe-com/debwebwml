@@ -41,7 +41,7 @@ the package management system to install the packages related to the task.</p>
 		<td>Debian packages which are dealing with Remote Sensing (for
                     instance Synthetic Aperture Radar -- SAR) processing (interferometry,
                     polarimetry, data visualization, etc) and earth observation.</td>
-		<td><a href="https://blends.debian.org/gis/tasks/remotesending">Link</a></td>
+		<td><a href="https://blends.debian.org/gis/tasks/remotesensing">Link</a></td>
 	</tr>
 	<tr>
 		<td>gis-statistics</td>
