@@ -42,7 +42,8 @@ releases.</p>
       <a href="$(HOME)/News/2018/20180310">March 10, 2018</a>.</li>
   <li>The fifth point release, 9.5, was released on
       <a href="$(HOME)/News/2018/20180714">July 14, 2018</a>.</li>
-
+  <li>The sixth point release, 9.6, was released on
+      <a href="$(HOME)/News/2018/20181110">November 10, 2018</a>.</li>
 </ul>
 
 <ifeq <current_release_stretch> 9.0 "
