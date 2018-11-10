@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="ca2f2bca328aa47c8882f9d8fa45cba93db397ad" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="09158ba50961c313074bca332e47791b3c6cc265" maintainer="Jean-Pierre Giraud"
 <define-tag pagetitle>Publication de la mise à jour de Debian 9.6</define-tag>
 <define-tag release_date>2018-11-10</define-tag>
 #use wml::debian::news
