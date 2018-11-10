@@ -1,0 +1,360 @@
+<define-tag pagetitle>Updated Debian 9: 9.6 released</define-tag>
+<define-tag release_date>2018-11-10</define-tag>
+#use wml::debian::news
+# $Id:
+
+<define-tag release>9</define-tag>
+<define-tag codename>stretch</define-tag>
+<define-tag revision>9.6</define-tag>
+
+<define-tag dsa>
+    <tr><td align="center"><a href="$(HOME)/security/%0/dsa-%1">DSA-%1</a></td>
+        <td align="center"><:
+    my @p = ();
+    for my $p (split (/,\s*/, "%2")) {
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
+    }
+    print join (", ", @p);
+:></td></tr>
+</define-tag>
+
+<define-tag correction>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+</define-tag>
+
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
+
+<p>The Debian project is pleased to announce the sixth update of its
+stable distribution Debian <release> (codename <q><codename></q>). 
+This point release mainly adds corrections for security issues,
+along with a few adjustments for serious problems.  Security advisories
+have already been published separately and are referenced where available.</p>
+
+<p>Please note that the point release does not constitute a new version of Debian
+<release> but only updates some of the packages included.  There is
+no need to throw away old <q><codename></q> media. After installation,
+packages can be upgraded to the current versions using an up-to-date Debian
+mirror.</p>
+
+<p>Those who frequently install updates from security.debian.org won't have
+to update many packages, and most such updates are
+included in the point release.</p>
+
+<p>New installation images will be available soon at the regular locations.</p>
+
+<p>Upgrading an existing installation to this revision can be achieved by
+pointing the package management system at one of Debian's many HTTP mirrors.
+A comprehensive list of mirrors is available at:</p>
+
+<div class="center">
+  <a href="$(HOME)/mirror/list">https://www.debian.org/mirror/list</a>
+</div>
+
+
+
+
+<h2>Miscellaneous Bugfixes</h2>
+
+<p>This stable update adds a few important corrections to the following packages:</p>
+
+<table border=0>
+<tr><th>Package</th>               <th>Reason</th></tr>
+<correction accerciser "Fix accessing items without a compositor; fix Python console; add missing dependency on python3-xlib">
+<correction apache2 "mod_http2: Fix DoS by worker exhaustion [CVE-2018-1333] and by continuous SETTINGS [CVE-2018-11763]; mod_proxy_fcgi: Fix segfault">
+<correction base-files "Update /etc/debian_version for the point release">
+<correction brltty "Fix polkit authentication">
+<correction canna "Fix file conflict between canna-dbgsym and canna-utils-dbgsym">
+<correction cargo "New package to support Firefox ESR60 build">
+<correction clamav "New upstream release; fix HWP integer overflow, infinite loop vulnerability [CVE-2018-0360]; fix PDF object length check issue, unreasonably long time to parse relatively small file [CVE-2018-0361]; new upstream version; fix Denial-of-Service issue [CVE-2018-15378]; fix infinite loop in dpkg-reconfigure">
+<correction confuse "Fix an out of bound read in trim_whitespace [CVE-2018-14447]">
+<correction debian-installer "Update for -8 kernel ABI">
+<correction debian-installer-netboot-images "Rebuild for the point release">
+<correction dnsmasq "trust-anchors.conf: include latest DNS trust anchor KSK-2017">
+<correction dom4j "Fix XML injection attack [CVE-2018-1000632]; compile with source/target 1.5 to fix a compilation issue with String.format">
+<correction dpdk "New upstream stable release">
+<correction dropbear "Fix user enumeration vulnerability [CVE-2018-15599]">
+<correction easytag "Fix OGG corruption">
+<correction enigmail "Add compatibility with newer Thunderbird versions">
+<correction espeakup "espeakup.service: Automatically load speakup_soft on daemon startup">
+<correction fastforward "Fix segfaults on 64-bit architectures">
+<correction firetray "Add compatibility with newer Thunderbird versions">
+<correction firmware-nonfree "Fix security issues in Broadcom wifi firmware [CVE-2016-0801 CVE-2017-0561 CVE-2017-9417 CVE-2017-13077 CVE-2017-13078 CVE-2017-13079 CVE-2017-13080 CVE-2017-13081]; re-add transitional packages for firmware-{adi,ralink}">
+<correction fofix-dfsg "Fix error at startup">
+<correction fuse "Whitelist autofs and FAT as valid mountpoint filesystems">
+<correction ganeti "Properly verify SSL certificates during VM export; sign generated certificates using SHA256 instead of SHA1; make bash completions autoloadable">
+<correction globus-gsi-credential "Fix issue with voms proxy and openssl 1.1">
+<correction gnupg2 "Security fixes; backport functionality required for new enigmail">
+<correction gnutls28 "Fix security issues [CVE-2018-10844 CVE-2018-10845]">
+<correction gphoto2-cffi "Make python3-gphoto2cffi work again">
+<correction grub2 "grub-mknetdir: Add support for ARM64 EFI; change the default TSC calibration method to pmtimer on EFI systems">
+<correction hdparm "Only enable APM on disks that advertise it">
+<correction https-everywhere "Backport new upstream version, for compatibility with Firefox ESR 60">
+<correction i3-wm "Fix crash upon restart when using marks">
+<correction iipimage "Fix Apache configuration">
+<correction jhead "Fix security issues [CVE-2018-17088 CVE-2018-16554]">
+<correction lastpass-cli "Backport hardcoded certificate pins from lastpass-cli 1.3.1 to reflect changes in hosted Lastpass.com service">
+<correction ldap2zone "Fix endless loop checking zone serial">
+<correction libcgroup "Fix world-accessible (and writeable) log files [CVE-2018-14348]">
+<correction libclamunrar "New upstream release">
+<correction libdap "Fix libdap-doc contents">
+<correction libdatetime-timezone-perl "Update included data">
+<correction libgd2 "Bmp: check return value in gdImageBmpPtr [CVE-2018-1000222]; fix potential infinite loop in gdImageCreateFromGifCtx [CVE-2018-5711]">
+<correction libmail-deliverystatus-bounceparser-perl "Remove non-distributable sample spam and viruses">
+<correction libmspack "Fix out-of-bounds write [CVE-2018-18584] and acceptance of <q>blank</q> filenames [CVE-2018-18585]">
+<correction libopenmpt "Fix <q>up11: Out-of-bounds read loading IT / MO3 files with many pattern loops</q> [CVE-2018-10017]">
+<correction libseccomp "Add support for Linux 4.9 syscalls: preadv2, pwritev2, pkey_mprotect, pkey_alloc and pkey_free; add support for statx">
+<correction libtirpc "rendezvous_request: check the makefd_xprt return value [CVE-2018-14622]">
+<correction libx11 "Fix several security isses [CVE-2018-14598 CVE-2018-14599 CVE-2018-14600]">
+<correction libxcursor "Fix a denial of service or potentially code execution via a one-byte heap overflow [CVE-2015-9262]">
+<correction libxml-stream-perl "Provide a default CA path">
+<correction libxml-structured-perl "Add missing build and runtime dependency on libxml-parser-perl">
+<correction linux "Xen: Fix boot regression in PV domains; xen-netfront: Fix regressions; ext4: fix false negatives *and* false positives in ext4_check_descriptors(); udeb: Add virtio_console to virtio-modules; cdc_ncm: avoid padding beyond end of skb; revert <q>sit: reload iphdr in ipip6_rcv</q>; new upstream release">
+<correction lxcfs "Revert uptime virtualization, fixing process start times">
+<correction magicmaze "Depend on fonts-isabella now that ttf-isabella is a virtual package">
+<correction mailman "Fix arbitrary text injection vulnerability in Mailman CGIs [CVE-2018-13796]">
+<correction multipath-tools "Avoid deadlock in udev triggers">
+<correction nagstamon "Address IcingaWeb2 Basic auth issue">
+<correction network-manager "libnm: Fix accessing enabled and metered properties; fix out-of-bounds heap write in dhcpv6 option handling [CVE-2018-15688] and various other issues in the sd-network based dhcp=internal plugin">
+<correction network-manager-applet "libnma/pygobject: libnma/NMA must use libnm/NM instead of legacy libraries">
+<correction ola "Fix typo in /etc/init.d/rdm_test_server; fix filename for jquery in rdm test server static HTML files">
+<correction opensc "Fix unbounded recursion and several out-of-bounds reads or writes [CVE-2018-16391 CVE-2018-16392 CVE-2018-16393 CVE-2018-16418 CVE-2018-16419 CVE-2018-16420 CVE-2018-16421 CVE-2018-16422 CVE-2018-16423 CVE-2018-16424 CVE-2018-16425 CVE-2018-16426 CVE-2018-16427]">
+<correction pkgsel "Install new dependencies when safe-upgrade (default) is selected">
+<correction publicsuffix "Update included data">
+<correction python-django "Default to supporting Spatialite &gt;= 4.2">
+<correction python-imaplib2 "Install the correct module for Python 3; don't use TIMEOUT_MAX">
+<correction rustc "Enable building on further architectures: arm64, armel, armhf, i386, ppc64el, s390x">
+<correction sddm "Honour PAM's ambient supplemental groups; add missing utmp/wtmp/btmp handling">
+<correction serf "Fix NULL pointer dereference">
+<correction soundconverter "Fix opus vbr setting">
+<correction spamassassin "New upstream release; fix denial of service [CVE-2017-15705], remote code execution [CVE-2018-11780], code injection [CVE-2018-11781] and unsafe usage of <q>.</q> in @INC [CVE-2016-1238]; fix spamd service management on package upgrades">
+<correction spice-gtk "Fix flexible array buffer overflow [CVE-2018-10873]">
+<correction sqlcipher "Avoid a crash when opening a file">
+<correction subversion "Fix a regression introduced in the fixes for SHA1 collisions, where commits would incorrectly fail with a <q>Filesystem is corrupt</q> error if the delta length is a multiple of 16K">
+<correction systemd "networkd: Do not fail manager_connect_bus() if dbus is not active yet; dhcp6: Make sure we have enough space for the DHCP6 option header [CVE-2018-15688]">
+<correction systraq "Invert logic in order to exit successfully in case /e/s/Makefile is missing">
+<correction tomcat-native "Fix OSCP responder issue that made it possible for users to authenticate with revoked certificates when using mutual TLS [CVE-2018-8019 CVE-2018-8020]">
+<correction tor "Directory authority changes: retire <q>Bifroest</q> bridge authority, in favour of <q>Serge</q>; add an IPv6 address for the <q>dannenberg</q> directory authority">
+<correction tzdata "New upstream release">
+<correction ublock-origin "Backport new upstream version, for compatibility with Firefox ESR 60">
+<correction unbound "Fix vulnerability in the processing of wildcard synthesized NSEC records [CVE-2017-15105]">
+<correction vagrant "Support VirtualBox 5.2">
+<correction vmtk "python-vmtk: Add the missing dependency on python-vtk6">
+<correction wesnoth-1.12 "Disallow loading lua bytecode via load/dofile [CVE-2018-1999023]">
+<correction wpa "Ignore unauthenticated encrypted EAPOL-Key data [CVE-2018-14526]">
+<correction x11vnc "Fix two buffer overflows">
+<correction xapian-core "Fix glass backend bug with long-lived cursors on a table in a WritableDatabase which could incorrectly lead to DatabaseCorruptError being thrown when the database was actually OK">
+<correction xmotd "Avoid crash with hardening flags">
+<correction xorg-server "GLX: do not pick sRGB config for 32-bit RGBA visual - fixes various blending issues with kwin and Mesa &gt;= 18.0 (i.e. Mesa from stretch-backports)">
+<correction zutils "Fix a buffer overrun in zcat [CVE-2018-1000637]">
+</table>
+
+<h2>Security Updates</h2>
+
+
+<p>This revision adds the following security updates to the stable release.
+The Security Team has already released an advisory for each of these
+updates:</p>
+
+<table border=0>
+<tr><th>Advisory ID</th>  <th>Package</th></tr>
+<dsa 2017 4074 imagemagick>
+<dsa 2018 4103 chromium-browser>
+<dsa 2018 4182 chromium-browser>
+<dsa 2018 4237 chromium-browser>
+<dsa 2018 4242 ruby-sprockets>
+<dsa 2018 4243 cups>
+<dsa 2018 4244 thunderbird>
+<dsa 2018 4245 imagemagick>
+<dsa 2018 4246 mailman>
+<dsa 2018 4247 ruby-rack-protection>
+<dsa 2018 4248 blender>
+<dsa 2018 4249 ffmpeg>
+<dsa 2018 4250 wordpress>
+<dsa 2018 4251 vlc>
+<dsa 2018 4252 znc>
+<dsa 2018 4253 network-manager-vpnc>
+<dsa 2018 4254 slurm-llnl>
+<dsa 2018 4256 chromium-browser>
+<dsa 2018 4257 fuse>
+<dsa 2018 4258 ffmpeg>
+<dsa 2018 4260 libmspack>
+<dsa 2018 4261 vim-syntastic>
+<dsa 2018 4262 symfony>
+<dsa 2018 4263 cgit>
+<dsa 2018 4264 python-django>
+<dsa 2018 4265 xml-security-c>
+<dsa 2018 4266 linux>
+<dsa 2018 4267 kamailio>
+<dsa 2018 4268 openjdk-8>
+<dsa 2018 4269 postgresql-9.6>
+<dsa 2018 4270 gdm3>
+<dsa 2018 4271 samba>
+<dsa 2018 4272 linux>
+<dsa 2018 4273 intel-microcode>
+<dsa 2018 4274 xen>
+<dsa 2018 4275 keystone>
+<dsa 2018 4276 php-horde-image>
+<dsa 2018 4277 mutt>
+<dsa 2018 4278 jetty9>
+<dsa 2018 4279 linux>
+<dsa 2018 4279 linux-latest>
+<dsa 2018 4280 openssh>
+<dsa 2018 4281 tomcat8>
+<dsa 2018 4282 trafficserver>
+<dsa 2018 4283 ruby-json-jwt>
+<dsa 2018 4284 lcms2>
+<dsa 2018 4285 sympa>
+<dsa 2018 4286 curl>
+<dsa 2018 4287 firefox-esr>
+<dsa 2018 4288 ghostscript>
+<dsa 2018 4289 chromium-browser>
+<dsa 2018 4290 libextractor>
+<dsa 2018 4291 mgetty>
+<dsa 2018 4292 kamailio>
+<dsa 2018 4293 discount>
+<dsa 2018 4294 ghostscript>
+<dsa 2018 4295 thunderbird>
+<dsa 2018 4296 mbedtls>
+<dsa 2018 4297 chromium-browser>
+<dsa 2018 4298 hylafax>
+<dsa 2018 4299 texlive-bin>
+<dsa 2018 4300 libarchive-zip-perl>
+<dsa 2018 4301 mediawiki>
+<dsa 2018 4302 openafs>
+<dsa 2018 4303 okular>
+<dsa 2018 4304 firefox-esr>
+<dsa 2018 4305 strongswan>
+<dsa 2018 4306 python2.7>
+<dsa 2018 4307 python3.5>
+<dsa 2018 4308 linux>
+<dsa 2018 4309 strongswan>
+<dsa 2018 4310 firefox-esr>
+<dsa 2018 4311 git>
+<dsa 2018 4312 tinc>
+<dsa 2018 4313 linux>
+<dsa 2018 4314 net-snmp>
+<dsa 2018 4315 wireshark>
+<dsa 2018 4316 imagemagick>
+<dsa 2018 4317 otrs2>
+<dsa 2018 4318 moin>
+<dsa 2018 4319 spice>
+<dsa 2018 4320 asterisk>
+<dsa 2018 4321 graphicsmagick>
+<dsa 2018 4322 libssh>
+<dsa 2018 4323 drupal7>
+<dsa 2018 4324 firefox-esr>
+<dsa 2018 4325 mosquitto>
+<dsa 2018 4326 openjdk-8>
+<dsa 2018 4327 thunderbird>
+<dsa 2018 4328 xorg-server>
+<dsa 2018 4329 teeworlds>
+<dsa 2018 4331 curl>
+</table>
+
+
+<h2>Removed packages</h2>
+
+<p>The following packages were removed due to circumstances beyond our control:</p>
+
+<table border=0>
+<tr><th>Package</th>               <th>Reason</th></tr>
+<correction adblock-plus-element-hiding-helper "Incompatible with newer firefox-esr versions">
+<correction all-in-one-sidebar "Incompatible with newer firefox-esr versions">
+<correction autofill-forms "Incompatible with newer firefox-esr versions">
+<correction automatic-save-folder "Incompatible with newer firefox-esr versions">
+<correction classic-theme-restorer "Incompatible with newer firefox-esr versions">
+<correction colorfultabs "Incompatible with newer firefox-esr versions">
+<correction custom-tab-width "Incompatible with newer firefox-esr versions">
+<correction dactyl "Incompatible with newer firefox-esr versions">
+<correction downthemall "Incompatible with newer firefox-esr versions">
+<correction dvips-fontdata-n2bk "Empty package">
+<correction firebug "Incompatible with newer firefox-esr versions">
+<correction firegestures "Incompatible with newer firefox-esr versions">
+<correction firexpath "Incompatible with newer firefox-esr versions">
+<correction flashgot "Incompatible with newer firefox-esr versions">
+<correction form-history-control "Incompatible with newer firefox-esr versions">
+<correction foxyproxy "Incompatible with newer firefox-esr versions">
+<correction gitlab "Open security issues, hard to backport fixes">
+<correction greasemonkey "Incompatible with newer firefox-esr versions">
+<correction intel-processor-trace [s390x] "Only useful on Intel architectures">
+<correction itsalltext "Incompatible with newer firefox-esr versions">
+<correction knot-resolver "Security issues">
+<correction lightbeam "Incompatible with newer firefox-esr versions">
+<correction livehttpheaders "Incompatible with newer firefox-esr versions">
+<correction lyz "Incompatible with newer firefox-esr versions">
+<correction npapi-vlc "Incompatible with newer firefox-esr versions">
+<correction nukeimage "Incompatible with newer firefox-esr versions">
+<correction openinbrowser "Incompatible with newer firefox-esr versions">
+<correction perspectives-extension "Incompatible with newer firefox-esr versions">
+<correction pwdhash "Incompatible with newer firefox-esr versions">
+<correction python-facebook "Broken due to upstream changes">
+<correction python-tvrage "Useless after tvrage.com shutdown">
+<correction reloadevery "Incompatible with newer firefox-esr versions">
+<correction sage-extension "Incompatible with newer firefox-esr versions">
+<correction scrapbook "Incompatible with newer firefox-esr versions">
+<correction self-destructing-cookies "Incompatible with newer firefox-esr versions">
+<correction spdy-indicator "Incompatible with newer firefox-esr versions">
+<correction status-4-evar "Incompatible with newer firefox-esr versions">
+<correction stylish "Incompatible with newer firefox-esr versions">
+<correction tabmixplus "Incompatible with newer firefox-esr versions">
+<correction tree-style-tab "Incompatible with newer firefox-esr versions">
+<correction ubiquity-extension "Incompatible with newer firefox-esr versions">
+<correction uppity "Incompatible with newer firefox-esr versions">
+<correction useragentswitcher "Incompatible with newer firefox-esr versions">
+<correction video-without-flash "Incompatible with newer firefox-esr versions">
+<correction webdeveloper "Incompatible with newer firefox-esr versions">
+<correction xul-ext-monkeysphere "Incompatible with newer firefox-esr versions">
+
+</table>
+
+<h2>Debian Installer</h2>
+<p>The installer has been updated to include the fixes incorporated
+into stable by the point release.</p>
+
+<h2>URLs</h2>
+
+<p>The complete lists of packages that have changed with this revision:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/<downcase <codename>>/ChangeLog">
+</div>
+
+<p>The current stable distribution:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/stable/">
+</div>
+
+<p>Proposed updates to the stable distribution:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/proposed-updates">
+</div>
+
+<p>stable distribution information (release notes, errata etc.):</p>
+
+<div class="center">
+  <a
+  href="$(HOME)/releases/stable/">https://www.debian.org/releases/stable/</a>
+</div>
+
+<p>Security announcements and information:</p>
+
+<div class="center">
+  <a href="$(HOME)/security/">https://security.debian.org/</a>
+</div>
+
+<h2>About Debian</h2>
+
+<p>The Debian Project is an association of Free Software developers who
+volunteer their time and effort in order to produce the completely
+free operating system Debian.</p>
+
+<h2>Contact Information</h2>
+
+<p>For further information, please visit the Debian web pages at
+<a href="$(HOME)/">https://www.debian.org/</a>, send mail to
+&lt;press@debian.org&gt;, or contact the stable release team at
+&lt;debian-release@lists.debian.org&gt;.</p>
+
+
