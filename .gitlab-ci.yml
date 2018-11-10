@@ -12,6 +12,7 @@ english:
   - mkdir -p .public
   - mv ../www .public/english
   artifacts:
+    expire_in: 1 week
     untracked: true
     when: always
     paths:
@@ -27,6 +28,7 @@ english:
   - mkdir -p .public
   - mv ../www .public/${CI_JOB_NAME}
   artifacts:
+    expire_in: 1 week
     when: always
     paths:
       - .public/$CI_JOB_NAME
@@ -40,6 +42,7 @@ merge:
   - mkdir -p public
   - for i in .public/*; do rsync -a $i/ public/; done
   artifacts:
+    expire_in: 1 week
     paths:
       - public
 albanian:
