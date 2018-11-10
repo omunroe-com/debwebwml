@@ -291,7 +291,7 @@ notre contrôle :</p>
 <correction foxyproxy "Incompatible avec les dernières versions de firefox-esr">
 <correction gitlab "Problèmes de sécurité ouverts, correctifs difficiles à rétroporter">
 <correction greasemonkey "Incompatible avec les dernières versions de firefox-esr">
-<correction intel-processor-trace [s390x] "Utile uniquement sur les architectures Intel">
+<correction intel-processor-trace "[s390x] Utile uniquement sur les architectures Intel">
 <correction itsalltext "Incompatible avec les dernières versions de firefox-esr">
 <correction knot-resolver "Problèmes de sécurité">
 <correction lightbeam "Incompatible avec les dernières versions de firefox-esr">

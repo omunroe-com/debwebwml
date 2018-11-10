@@ -276,7 +276,7 @@ updates:</p>
 <correction foxyproxy "Incompatible with newer firefox-esr versions">
 <correction gitlab "Open security issues, hard to backport fixes">
 <correction greasemonkey "Incompatible with newer firefox-esr versions">
-<correction intel-processor-trace [s390x] "Only useful on Intel architectures">
+<correction intel-processor-trace "[s390x] Only useful on Intel architectures">
 <correction itsalltext "Incompatible with newer firefox-esr versions">
 <correction knot-resolver "Security issues">
 <correction lightbeam "Incompatible with newer firefox-esr versions">
