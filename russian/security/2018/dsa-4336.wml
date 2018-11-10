@@ -1,0 +1,25 @@
+#use wml::debian::translation-check translation="30f295f54f15a5511415016115af1538e40b2baf" mindelta="1" maintainer="Lev Lamberov"
+<define-tag description>обновление безопасности</define-tag>
+<define-tag moreinfo>
+<p>В Ghostscript, интерпретаторе PostScript/PDF, выпускаемом под лицензией GPL,
+было обнаруежно несколько уязвимостей, которые могут приводить к отказу в обслуживании,
+раскрытию наличия и размера произвольных файлов, а также выполнению произвольного
+кода в случае обработки специально сформированного файла в формате Postscript (даже при
+включении песочницы dSAFER).</p>
+
+<p>Данное обновление переводит ghostscript в выпуске stretch на версию 9.25 из основной ветки
+разработки, которая включает в себя дополнительные изменения, которые не связаны с безопасностью.</p>
+
+<p>В стабильном выпуске (stretch) эти проблемы были исправлены в
+версии 9.25~dfsg-0+deb9u1.</p>
+
+<p>Рекомендуется обновить пакеты ghostscript.</p>
+
+<p>С подробным статусом поддержки безопасности ghostscript можно ознакомиться на
+соответствующей странице отслеживания безопасности по адресу
+<a href="https://security-tracker.debian.org/tracker/ghostscript">\
+https://security-tracker.debian.org/tracker/ghostscript</a></p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2018/dsa-4336.data"
