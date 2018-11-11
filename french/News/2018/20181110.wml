@@ -119,7 +119,7 @@ importantes aux paquets suivants :</p>
 <correction libxcursor "Correction d'un déni de service ou d'une exécution potentielle de code avec un dépassement de tas d'un octet [CVE-2015-9262]">
 <correction libxml-stream-perl "Fourniture d'un chemin d'autorité de certification par défaut">
 <correction libxml-structured-perl "Ajout de dépendance de construction et d'exécution manquante à libxml-parser-perl">
-<correction linux "Xen : correction de régression de démarrage dans les domaines PV ; xen-netfront : correction de régressions ; ext4 : correction de faux négatifs *et* de faux positifs dans ext4_check_descriptors() ; udeb : ajout de console virtio_à virtio-modules ; cdc_ncm : remplissage au-delà de la fin de skb ; suppression de <q>sit: reload iphdr in ipip6_rcv</q> ; nouvelle version amont">
+<correction linux "Xen : correction de régression de démarrage dans les domaines PV ; xen-netfront : correction de régressions ; ext4 : correction de faux négatifs *et* de faux positifs dans ext4_check_descriptors() ; udeb : ajout de virtio_console à virtio-modules ; cdc_ncm : remplissage au-delà de la fin de skb ; suppression de <q>sit: reload iphdr in ipip6_rcv</q> ; nouvelle version amont">
 <correction lxcfs "Suppression de la virtualisation du temps de fonctionnement « uptime », corrigeant l'heure de démarrage du processus">
 <correction magicmaze "Dépendance à fonts-isabella maintenant que ttf-isabella est un paquet virtuel">
 <correction mailman "Correction d'une vulnérabilité d'injection de texte arbitraire dans les CGI de Mailman [CVE-2018-13796]">

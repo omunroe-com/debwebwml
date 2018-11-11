@@ -1,0 +1,362 @@
+#use wml::debian::translation-check translation="09158ba50961c313074bca332e47791b3c6cc265" maintainer="Lev Lamberov"
+<define-tag pagetitle>Обновлённый Debian 9: выпуск 9.6</define-tag>
+<define-tag release_date>2018-11-10</define-tag>
+#use wml::debian::news
+
+<define-tag release>9</define-tag>
+<define-tag codename>stretch</define-tag>
+<define-tag revision>9.6</define-tag>
+
+<define-tag dsa>
+    <tr><td align="center"><a href="$(HOME)/security/%0/dsa-%1">DSA-%1</a></td>
+        <td align="center"><:
+    my @p = ();
+    for my $p (split (/,\s*/, "%2")) {
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
+    }
+    print join (", ", @p);
+:></td></tr>
+</define-tag>
+
+<define-tag correction>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+</define-tag>
+
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
+
+<p>Проект Debian с радостью сообщает о шестом обновлении своего
+стабильного выпуска Debian <release> (кодовое имя <q><codename></q>).
+Это обновление в основном содержит исправления проблем безопасности,
+а также несколько корректировок серьёзных проблем. Рекомендации по безопасности
+опубликованы отдельно и указываются при необходимости.</p>
+
+<p>Заметьте, что это обновление не является новой версией Debian
+<release>, а лишь обновлением некоторых включённых в выпуск пакетов. Нет
+необходимости выбрасывать старые носители с выпуском <q><codename></q>. После установки
+пакеты можно обновить до текущих версий, используя актуальное
+зеркало Debian.</p>
+
+<p>Тем, кто часто устанавливает обновления с security.debian.org, не придётся
+обновлять много пакетов, большинство обновлений с security.debian.org
+включены в данное обновление.</p>
+
+<p>Новые установочные образы будут доступны позже в обычном месте.</p>
+
+<p>Обновление существующих систем до этой редакции можно выполнить с помощью
+системы управления пакетами, используя одно из множества HTTP-зеркал Debian.
+Исчерпывающий список зеркал доступен на странице:</p>
+
+<div class="center">
+  <a href="$(HOME)/mirror/list">https://www.debian.org/mirror/list</a>
+</div>
+
+
+
+
+<h2>Исправления различных ошибок</h2>
+
+<p>Данное стабильное обновление вносит несколько важных исправлений для следующих
+пакетов:</p>
+<table border=0>
+<tr><th>Пакет</th>               <th>Причина</th></tr>
+<correction accerciser "Исправление доступа к объектам без композитора; исправление Python-консоли; добавление отсутствующей зависимости от python3-xlib">
+<correction apache2 "mod_http2: исправление отказа в обслуживании из-за исчерпания в модуле worker [CVE-2018-1333] и из-за непрерывного значения SETTINGS [CVE-2018-11763]; mod_proxy_fcgi: исправление ошибки сегментирования">
+<correction base-files "Обновление /etc/debian_version для текущей редакции">
+<correction brltty "Исправление аутентификации polkit">
+<correction canna "Исправление конфликта файлов между пакетами canna-dbgsym и canna-utils-dbgsym">
+<correction cargo "Новый пакет для поддержки сборки Firefox ESR60">
+<correction clamav "Новый выпуск основной ветки разработки; исправление переполнения целых чисел HWP, бесконечного цикла [CVE-2018-0360]; исправление проблемы с проверкой длины PDF-объекта, слишком долгого времени для грамматического разбора относительно небольшого файла [CVE-2018-0361]; новая версия основной ветки разработки; исправление отказа в обслуживании [CVE-2018-15378]; исправление бесконечного цикла в dpkg-reconfigure">
+<correction confuse "Исправление чтения за пределами выделенного буфера памяти в trim_whitespace [CVE-2018-14447]">
+<correction debian-installer "Обновление ABI ядра до -8">
+<correction debian-installer-netboot-images "Повторная сборка для текущей редакции">
+<correction dnsmasq "trust-anchors.conf: добавление последнего якоря доверия DNS KSK-2017">
+<correction dom4j "Исправление XML-инъекции [CVE-2018-1000632]; компиляция со значением source/target 1.5 для исправления проблемы компиляции с String.format">
+<correction dpdk "Новый стабильный выпуск основной ветки разработки">
+<correction dropbear "Исправление регистрации пользователей [CVE-2018-15599]">
+<correction easytag "Исправление повреждения OGG">
+<correction enigmail "Добавление совместимости с более новыми версиями Thunderbird">
+<correction espeakup "espeakup.service: автоматическая загрузка speakup_soft при запуске службы">
+<correction fastforward "Исправление ошибки сегментирования на 64-битных архитектурах">
+<correction firetray "Добавление совместимости с более новыми версиями Thunderbird">
+<correction firmware-nonfree "Исправление проблем безопасности в прошивке Broadcom для wifi [CVE-2016-0801 CVE-2017-0561 CVE-2017-9417 CVE-2017-13077 CVE-2017-13078 CVE-2017-13079 CVE-2017-13080 CVE-2017-13081]; повторное добавление переходных пакетов для firmware-{adi,ralink}">
+<correction fofix-dfsg "Исправление ошибки при запуске">
+<correction fuse "Добавление autofs и FAT в список пригодных файловых систем">
+<correction ganeti "Корректная проверка SSL-сертификатов в ходе экспорта виртуальных машин; подписывание созданных сертификатов с помощью SHA256, а не SHA1; автоматическая загрузка автодополнений bash">
+<correction globus-gsi-credential "Исправление проблемы с прокси voms и openssl 1.1">
+<correction gnupg2 "Исправления безопасности; обратный перенос функциональности, требующейся для новой версии enigmail">
+<correction gnutls28 "Исправление проблем безопасности [CVE-2018-10844 CVE-2018-10845]">
+<correction gphoto2-cffi "Восстановление работы python3-gphoto2cffi">
+<correction grub2 "grub-mknetdir: добавление поддержки ARM64 EFI; изменение метода калибровки TSC по умолчанию на pmtimer в системах с EFI">
+<correction hdparm "Включение APM только на дисках, имеющих эту возможность">
+<correction https-everywhere "Обратный перенос новой версии основной ветки разработки с целью обеспечения совместимости с Firefox ESR 60">
+<correction i3-wm "Исправление аварийной остановки при перезапуске с использование меток">
+<correction iipimage "Исправление настроек Apache">
+<correction jhead "Исправление проблем безопасности [CVE-2018-17088 CVE-2018-16554]">
+<correction lastpass-cli "Обратный перенос встроенных фиксаций сертификатов из lastpass-cli 1.3.1 с целью учёта изменений в службе Lastpass.com">
+<correction ldap2zone "Исправление бесконечного цикла при проверке серийных номеров зон">
+<correction libcgroup "Исправление файлов журнала, доступных для чтения и записи всем пользователям [CVE-2018-14348]">
+<correction libclamunrar "Новый выпуск основной ветки разработки">
+<correction libdap "Исправление содержимого libdap-doc">
+<correction libdatetime-timezone-perl "Обновление данных">
+<correction libgd2 "Bmp: проверка возвращаемого значения в gdImageBmpPtr [CVE-2018-1000222]; исправление потенциального бесконечного цикла в gdImageCreateFromGifCtx [CVE-2018-5711]">
+<correction libmail-deliverystatus-bounceparser-perl "Удаление примеров спама и вирусов, которые нельзя распространять">
+<correction libmspack "Исправление записи за пределами выделенного буфера памяти [CVE-2018-18584] принятие <q>пустых</q> имён файлов [CVE-2018-18585]">
+<correction libopenmpt "Исправление <q>up11: чтение за пределами выделенного буфера памяти при загрузке файлов IT / MO3 с многими циклами шаблонов</q> [CVE-2018-10017]">
+<correction libseccomp "Добавление поддержки для системных вызовов Linux 4.9: preadv2, pwritev2, pkey_mprotect, pkey_alloc и pkey_free; добавление поддержки для statx">
+<correction libtirpc "rendezvous_request: проверка возвращаемого значения makefd_xprt [CVE-2018-14622]">
+<correction libx11 "Исправление нескольких проблем безопасности [CVE-2018-14598 CVE-2018-14599 CVE-2018-14600]">
+<correction libxcursor "Исправление отказа в обслуживании или потенциального выполнения произвольного кода из-за переполнения кучи на один байт [CVE-2015-9262]">
+<correction libxml-stream-perl "Предоставление CA-пути по умолчанию">
+<correction libxml-structured-perl "Добавление отсутствующей сборочной зависимости и зависимости времени исполнения от libxml-parser-perl">
+<correction linux "Xen: исправление регрессии загрузки в PV-доменах; xen-netfront: исправление регрессий; ext4: исправление ложноотрицательных *и* ложноположительных срабатываний в ext4_check_descriptors(); udeb: добавление virtio_console в virtio-modules; cdc_ncm: запрет заполнения за пределами skb; отмена <q>sit: повторная загрузка iphdr в ipip6_rcv</q>; новый выпуск основной ветки разработки">
+<correction lxcfs "Возврат работоспособности виртуализации, исправление времени запуска процесса">
+<correction magicmaze "Зависимость от fonts-isabella теперь такова, что ttf-isabella является виртуальных пакетом">
+<correction mailman "Исправление введение произвольного текста в Mailman CGI [CVE-2018-13796]">
+<correction multipath-tools "Предотвращение зависаний в триггерах udev">
+<correction nagstamon "Исправление проблемы аутентификации в IcingaWeb2 Basic">
+<correction network-manager "libnm: исправление доступа к включённым и измеряемым свойствам; исправление записи за пределами выделенного буфера памяти в коде для обработки опций dhcpv6 [CVE-2018-15688] и различных других проблем в дополнении dhcp=internal на основе sd-network">
+<correction network-manager-applet "libnma/pygobject: libnma/NMA должен использовать libnm/NM вместо устаревших библиотек">
+<correction ola "Исправление опечатки в /etc/init.d/rdm_test_server; исправление имени файла для jquery в rdm для тестирования статичных серверных файлов HTML">
+<correction opensc "Исправление неограниченной рекурсии и нескольких случаев чтения/записи за пределами выделенного буфера памяти [CVE-2018-16391 CVE-2018-16392 CVE-2018-16393 CVE-2018-16418 CVE-2018-16419 CVE-2018-16420 CVE-2018-16421 CVE-2018-16422 CVE-2018-16423 CVE-2018-16424 CVE-2018-16425 CVE-2018-16426 CVE-2018-16427]">
+<correction pkgsel "Установка новых зависимостей при выборе safe-upgrade (по умолчанию)">
+<correction publicsuffix "Обновление данных">
+<correction python-django "Поддержка по умолчанию Spatialite &gt;= 4.2">
+<correction python-imaplib2 "Установка корректного модуля для Python 3; прекращение использования TIMEOUT_MAX">
+<correction rustc "Включение сборки для следующих архитектур: arm64, armel, armhf, i386, ppc64el, s390x">
+<correction sddm "Учёт окружающих дополнительных групп PAM; добавление обработки utmp/wtmp/btmp">
+<correction serf "Исправление разыменования NULL-указателя">
+<correction soundconverter "Исправление настроек opus vbr">
+<correction spamassassin "Новый выпуск основной ветки разработки; исправление отказа в обслуживании [CVE-2017-15705], удалённого выполнения кода [CVE-2018-11780], введения кода [CVE-2018-11781] и небезопасного использования <q>.</q> в @INC [CVE-2016-1238]; исправление управления службой spamd при обновлении пакета">
+<correction spice-gtk "Исправление переполнения буфера массива переменной длины [CVE-2018-10873]">
+<correction sqlcipher "Предотвращение аварийной остановки при открытии файла">
+<correction subversion "Исправление регрессий проявившихся после исправления коллизий SHA1, когда коммиты могли обрабатываться некорректно с выводом ошибки <q>Файловая система повреждена</q> в случае, если длина различий кратна 16КБ">
+<correction systemd "networkd: не завершать работу manager_connect_bus() с ошибкой в случае, если служба dbus ещё не активна; dhcp6: проверка того, что имеется достаточно места для заголовка опции DHCP6 [CVE-2018-15688]">
+<correction systraq "Изменение логики так, чтобы в случае отсутствия /e/s/Makefile выполнялся успешный выход">
+<correction tomcat-native "Исправление проблемы ответа OSCP, позволяющей пользователям аутентифицироваться с помощью аннулированных сертификатов при взаимном использовании TLS [CVE-2018-8019 CVE-2018-8020]">
+<correction tor "Изменение авторитета каталога: удаление авторитета моста <q>Bifroest</q>, замена его на <q>Serge</q>; добавление IPv6-адресов для авторитета каталога <q>dannenberg</q>">
+<correction tzdata "Новый выпуск основной ветки разработки">
+<correction ublock-origin "Обратный перенос новой версии основной ветки разработки с целью обеспечения совместимости с Firefox ESR 60">
+<correction unbound "Исправление уязвимости в коде обработки NSEC-записей, созданных из шаблонов [CVE-2017-15105]">
+<correction vagrant "Поддержка VirtualBox 5.2">
+<correction vmtk "python-vmtk: добавление отсутствующей зависимости от python-vtk6">
+<correction wesnoth-1.12 "Запрет загрузки байтового кода lua с помощью load/dofile [CVE-2018-1999023]">
+<correction wpa "Игнорирование неаутентифицированных зашифрованных данных EAPOL-Key [CVE-2018-14526]">
+<correction x11vnc "Исправление двух переполнений буфера">
+<correction xapian-core "Исправление ошибки движка glass с долго живущими курсорами в таблице в WritableDatabase, что может некорректно приводить к срабатыванию DatabaseCorruptError в случае, даже если база данных в порядке">
+<correction xmotd "Предотвращение аварийной остановки при использовании флагов улучшения безопасности">
+<correction xorg-server "GLX: не использовать настройки sRGB для 32-битных режимов RGBA, это исправляет различные проблемы смешения в kwin и Mesa &gt;= 18.0 (то есть, Mesa из stretch-backports)">
+<correction zutils "Исправление выхода за пределы выделенного буфера в zcat [CVE-2018-1000637]">
+</table>
+
+<h2>Обновления безопасности</h2>
+
+
+<p>В данный выпуск внесены следующие обновления безопасности. Команда
+безопасности уже выпустила рекомендации для каждого
+из этих обновлений:</p>
+
+<table border=0>
+<tr><th>Идентификационный номер рекомендации</th>  <th>Пакет</th></tr>
+<dsa 2017 4074 imagemagick>
+<dsa 2018 4103 chromium-browser>
+<dsa 2018 4182 chromium-browser>
+<dsa 2018 4237 chromium-browser>
+<dsa 2018 4242 ruby-sprockets>
+<dsa 2018 4243 cups>
+<dsa 2018 4244 thunderbird>
+<dsa 2018 4245 imagemagick>
+<dsa 2018 4246 mailman>
+<dsa 2018 4247 ruby-rack-protection>
+<dsa 2018 4248 blender>
+<dsa 2018 4249 ffmpeg>
+<dsa 2018 4250 wordpress>
+<dsa 2018 4251 vlc>
+<dsa 2018 4252 znc>
+<dsa 2018 4253 network-manager-vpnc>
+<dsa 2018 4254 slurm-llnl>
+<dsa 2018 4256 chromium-browser>
+<dsa 2018 4257 fuse>
+<dsa 2018 4258 ffmpeg>
+<dsa 2018 4260 libmspack>
+<dsa 2018 4261 vim-syntastic>
+<dsa 2018 4262 symfony>
+<dsa 2018 4263 cgit>
+<dsa 2018 4264 python-django>
+<dsa 2018 4265 xml-security-c>
+<dsa 2018 4266 linux>
+<dsa 2018 4267 kamailio>
+<dsa 2018 4268 openjdk-8>
+<dsa 2018 4269 postgresql-9.6>
+<dsa 2018 4270 gdm3>
+<dsa 2018 4271 samba>
+<dsa 2018 4272 linux>
+<dsa 2018 4273 intel-microcode>
+<dsa 2018 4274 xen>
+<dsa 2018 4275 keystone>
+<dsa 2018 4276 php-horde-image>
+<dsa 2018 4277 mutt>
+<dsa 2018 4278 jetty9>
+<dsa 2018 4279 linux>
+<dsa 2018 4279 linux-latest>
+<dsa 2018 4280 openssh>
+<dsa 2018 4281 tomcat8>
+<dsa 2018 4282 trafficserver>
+<dsa 2018 4283 ruby-json-jwt>
+<dsa 2018 4284 lcms2>
+<dsa 2018 4285 sympa>
+<dsa 2018 4286 curl>
+<dsa 2018 4287 firefox-esr>
+<dsa 2018 4288 ghostscript>
+<dsa 2018 4289 chromium-browser>
+<dsa 2018 4290 libextractor>
+<dsa 2018 4291 mgetty>
+<dsa 2018 4292 kamailio>
+<dsa 2018 4293 discount>
+<dsa 2018 4294 ghostscript>
+<dsa 2018 4295 thunderbird>
+<dsa 2018 4296 mbedtls>
+<dsa 2018 4297 chromium-browser>
+<dsa 2018 4298 hylafax>
+<dsa 2018 4299 texlive-bin>
+<dsa 2018 4300 libarchive-zip-perl>
+<dsa 2018 4301 mediawiki>
+<dsa 2018 4302 openafs>
+<dsa 2018 4303 okular>
+<dsa 2018 4304 firefox-esr>
+<dsa 2018 4305 strongswan>
+<dsa 2018 4306 python2.7>
+<dsa 2018 4307 python3.5>
+<dsa 2018 4308 linux>
+<dsa 2018 4309 strongswan>
+<dsa 2018 4310 firefox-esr>
+<dsa 2018 4311 git>
+<dsa 2018 4312 tinc>
+<dsa 2018 4313 linux>
+<dsa 2018 4314 net-snmp>
+<dsa 2018 4315 wireshark>
+<dsa 2018 4316 imagemagick>
+<dsa 2018 4317 otrs2>
+<dsa 2018 4318 moin>
+<dsa 2018 4319 spice>
+<dsa 2018 4320 asterisk>
+<dsa 2018 4321 graphicsmagick>
+<dsa 2018 4322 libssh>
+<dsa 2018 4323 drupal7>
+<dsa 2018 4324 firefox-esr>
+<dsa 2018 4325 mosquitto>
+<dsa 2018 4326 openjdk-8>
+<dsa 2018 4327 thunderbird>
+<dsa 2018 4328 xorg-server>
+<dsa 2018 4329 teeworlds>
+<dsa 2018 4331 curl>
+</table>
+
+
+<h2>Удалённые пакеты</h2>
+
+<p>Следующие пакеты были удалены из-за обстоятельств, на которые мы не
+можем повлиять:</p>
+
+
+<table border=0>
+<tr><th>Пакет</th>               <th>Причина</th></tr>
+<correction adblock-plus-element-hiding-helper "Несовместим с новыми версиями firefox-esr">
+<correction all-in-one-sidebar "Несовместим с новыми версиями firefox-esr">
+<correction autofill-forms "Несовместим с новыми версиями firefox-esr">
+<correction automatic-save-folder "Несовместим с новыми версиями firefox-esr">
+<correction classic-theme-restorer "Несовместим с новыми версиями firefox-esr">
+<correction colorfultabs "Несовместим с новыми версиями firefox-esr">
+<correction custom-tab-width "Несовместим с новыми версиями firefox-esr">
+<correction dactyl "Несовместим с новыми версиями firefox-esr">
+<correction downthemall "Несовместим с новыми версиями firefox-esr">
+<correction dvips-fontdata-n2bk "Empty package">
+<correction firebug "Несовместим с новыми версиями firefox-esr">
+<correction firegestures "Несовместим с новыми версиями firefox-esr">
+<correction firexpath "Несовместим с новыми версиями firefox-esr">
+<correction flashgot "Несовместим с новыми версиями firefox-esr">
+<correction form-history-control "Несовместим с новыми версиями firefox-esr">
+<correction foxyproxy "Несовместим с новыми версиями firefox-esr">
+<correction gitlab "Open security issues, hard to backport fixes">
+<correction greasemonkey "Несовместим с новыми версиями firefox-esr">
+<correction intel-processor-trace "[s390x] Only useful on Intel architectures">
+<correction itsalltext "Несовместим с новыми версиями firefox-esr">
+<correction knot-resolver "Security issues">
+<correction lightbeam "Несовместим с новыми версиями firefox-esr">
+<correction livehttpheaders "Несовместим с новыми версиями firefox-esr">
+<correction lyz "Несовместим с новыми версиями firefox-esr">
+<correction npapi-vlc "Несовместим с новыми версиями firefox-esr">
+<correction nukeimage "Несовместим с новыми версиями firefox-esr">
+<correction openinbrowser "Несовместим с новыми версиями firefox-esr">
+<correction perspectives-extension "Несовместим с новыми версиями firefox-esr">
+<correction pwdhash "Несовместим с новыми версиями firefox-esr">
+<correction python-facebook "Broken due to upstream changes">
+<correction python-tvrage "Useless after tvrage.com shutdown">
+<correction reloadevery "Несовместим с новыми версиями firefox-esr">
+<correction sage-extension "Несовместим с новыми версиями firefox-esr">
+<correction scrapbook "Несовместим с новыми версиями firefox-esr">
+<correction self-destructing-cookies "Несовместим с новыми версиями firefox-esr">
+<correction spdy-indicator "Несовместим с новыми версиями firefox-esr">
+<correction status-4-evar "Несовместим с новыми версиями firefox-esr">
+<correction stylish "Несовместим с новыми версиями firefox-esr">
+<correction tabmixplus "Несовместим с новыми версиями firefox-esr">
+<correction tree-style-tab "Несовместим с новыми версиями firefox-esr">
+<correction ubiquity-extension "Несовместим с новыми версиями firefox-esr">
+<correction uppity "Несовместим с новыми версиями firefox-esr">
+<correction useragentswitcher "Несовместим с новыми версиями firefox-esr">
+<correction video-without-flash "Несовместим с новыми версиями firefox-esr">
+<correction webdeveloper "Несовместим с новыми версиями firefox-esr">
+<correction xul-ext-monkeysphere "Несовместим с новыми версиями firefox-esr">
+
+</table>
+
+<h2>Программа установки Debian</h2>
+
+Программа установки была обновлена с целью включения исправлений, добавленных в
+данную редакцию стабильного выпуска.
+
+<h2>URL</h2>
+
+<p>Полный список пакетов, которые были изменены в данной редакции:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/<downcase <codename>>/ChangeLog">
+</div>
+
+<p>Текущий стабильный выпуск:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/stable/">
+</div>
+
+<p>Предлагаемые обновления для стабильного выпуска:</p>
+
+<div class="center">
+  <url "http://ftp.debian.org/debian/dists/proposed-updates">
+</div>
+
+<p>Информация о стабильном выпуске (информация о выпуске, известные ошибки и т. д.):</p>
+
+<div class="center">
+  <a
+  href="$(HOME)/releases/stable/">https://www.debian.org/releases/stable/</a>
+</div>
+
+<p>Анонсы безопасности и информация:</p>
+
+<div class="center">
+  <a href="$(HOME)/security/">https://security.debian.org/</a>
+</div>
+
+<h2>О Debian</h2>
+
+<p>Проект Debian &mdash; объединение разработчиков свободного программного обеспечения,
+которые жертвуют своё время и знания для создания абсолютно свободной
+операционной системы Debian.</p>
+
+
+<h2>Контактная информация</h2>
+
+<p>Более подробную информацию вы можете получить на сайте Debian
+<a href="$(HOME)/">https://www.debian.org/</a>, либо отправив письмо по адресу
+&lt;press@debian.org&gt;, либо связавшись с командой стабильного выпуска по адресу
+&lt;debian-release@lists.debian.org&gt;.</p>

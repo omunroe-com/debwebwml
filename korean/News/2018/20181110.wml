@@ -28,10 +28,10 @@
 이 포인트 릴리스는 주로 심각한 문제에 대한 조정을 따른 보안 이슈의 수정을 더합니다.
 보안 권고는 이미 별도로 게시되었으며 사용 가능한 경우 참조됩니다.</p>
 
-<p>포인트 릴리즈는 새로운 버전의 데비안 <release>를 구성하는 것이 아니며
+<p>포인트 릴리스는 새로운 버전의 데비안 <release>를 구성하는 것이 아니며
 포함된 일부 패키지만 업데이트 한다는 점에 유의하십시오.
 옛 <q><codename></q> 미디어를 던져버릴 필요는 없습니다.
-설치 후, 패키지는 최신 데비안 미러를 통해 현재 버전으로 업그레이드 될 수 있습니다.
+설치 후, 패키지를 최신 데비안 미러를 통해 현재 버전으로 업그레이드 할 수 있습니다.
 </p>
 
 <p>security.debian.org에서 자주 업데이트를 설치하는 사람들은 많은 패키지를 업데이트하고,
@@ -151,7 +151,11 @@ The Security Team has already released an advisory for each of these
 updates:</p>
 
 <table border=0>
+<<<<<<< HEAD
 <tr><th>권고 ID</th>  <th>패키지</th></tr>
+=======
+<tr><th>Advisory ID</th>  <th>패키지</th></tr>
+>>>>>>> e8558171f2edc5c071d1b7870e9a6002b48d71d1
 <dsa 2017 4074 imagemagick>
 <dsa 2018 4103 chromium-browser>
 <dsa 2018 4182 chromium-browser>
@@ -249,7 +253,7 @@ updates:</p>
 
 <h2>없어진 패키지</h2>
 
-<p>다음 패키지는 우리의 제어를 넘어서는 환경으로 인해 없어졌습니다:</p>
+<p>아래 패키지는 우리의 제어를 넘어서는 환경때문에 없어졌습니다:</p>
 
 <table border=0>
 <tr><th>패키지</th>               <th>까닭</th></tr>

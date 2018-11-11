@@ -1,0 +1,13 @@
+<define-tag pagetitle>DSA-4337-1 thunderbird</define-tag>
+<define-tag report_date>2018-11-10</define-tag>
+<define-tag secrefs>CVE-2018-12389 CVE-2018-12390 CVE-2018-12392 CVE-2018-12393</define-tag>
+<define-tag packages>thunderbird</define-tag>
+<define-tag isvulnerable>yes</define-tag>
+<define-tag fixed>yes</define-tag>
+<define-tag fixed-section>no</define-tag>
+
+#use wml::debian::security
+
+
+
+</dl>
