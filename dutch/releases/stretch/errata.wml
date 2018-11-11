@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 9 -- Errata" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="88298a195ad0f1a69e0089b0acfdcc9dd73cd9af"
+#use wml::debian::translation-check translation="ea5a5b97ff62e270f67ab8a30063845c9c3f823d"
 
 #include "$(ENGLISHDIR)/releases/info"
 
@@ -45,6 +45,8 @@ aangeduid als tussenreleases.</p>
       <a href="$(HOME)/News/2018/20180310">10 maart 2018</a>.</li>
   <li>De vijfde tussenrelease, 9.5, werd uitgebracht op
       <a href="$(HOME)/News/2018/20180714">14 juli 2018</a>.</li>
+  <li>De zesde tussenrelease, 9.6, werd uitgebracht op
+      <a href="$(HOME)/News/2018/20181110">10 november 2018</a>.</li>
 </ul>
 
 
