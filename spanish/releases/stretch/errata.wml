@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian 9 -- Erratas" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="88298a195ad0f1a69e0089b0acfdcc9dd73cd9af" maintainer="Laura Arjona Reina"
+#use wml::debian::translation-check translation="ea5a5b97ff62e270f67ab8a30063845c9c3f823d" maintainer="Laura Arjona Reina"
 
 #include "$(ENGLISHDIR)/releases/info"
 
@@ -44,6 +44,8 @@ en inglés).</p>
       <a href="$(HOME)/News/2018/20180310">10 de marzo de 2018</a>.</li>
 <li>La quinta versión, 9.5, se publicó el
       <a href="$(HOME)/News/2018/20180714">14 de julio de 2018</a>.</li>
+  <li>La sexta versión, 9.6, se publicó el
+      <a href="$(HOME)/News/2018/20181110">10 de noviembre de 2018</a>.</li>
 </ul> 
 
 <ifeq <current_release_stretch> 9.0 "
