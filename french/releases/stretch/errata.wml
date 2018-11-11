@@ -1,6 +1,6 @@
-#use wml::debian::template title="Debian 9 &mdash; Errata" BARETITLE=true
+#use wml::debian::template title="Debian 9 &mdash; Errata" BARETITLE=true
 #use wml::debian::toc
-#use wml::debian::translation-check translation="88298a195ad0f1a69e0089b0acfdcc9dd73cd9af" maintainer="Jean-Pierre Giraud"
+#use wml::debian::translation-check translation="ea5a5b97ff62e270f67ab8a30063845c9c3f823d" maintainer="Jean-Pierre Giraud"
 
 #include "$(ENGLISHDIR)/releases/info"
 
@@ -43,16 +43,18 @@ Généralement, ces mises à jour sont indiquées comme étant des versions
 intermédiaires.</p>
 
 <ul>
-  <li>La première version intermédiaire, 9.1, a été publiée le
-      <a href="$(HOME)/News/2017/20170722">22 juillet 2017</a>.</li>
-  <li>La deuxième version intermédiaire, 9.2, a été publiée le
-      <a href="$(HOME)/News/2017/20171007">7 octobre 2017</a>.</li>
-  <li>La troisième version intermédiaire, 9.3, a été publiée le
-      <a href="$(HOME)/News/2017/2017120902">9 décembre 2017</a>.</li>
-  <li>La quatrième version intermédiaire, 9.4, a été publiée le
-      <a href="$(HOME)/News/2018/20180310">10 mars 2018</a>.</li>
-  <li>La cinquième version intermédiaire, 9.5, a été publiée le
-      <a href="$(HOME)/News/2018/20180714">14 juillet 2018</a>.</li>
+  <li>La première version intermédiaire, 9.1, a été publiée le
+      <a href="$(HOME)/News/2017/20170722">22 juillet 2017</a>.</li>
+  <li>La deuxième version intermédiaire, 9.2, a été publiée le
+      <a href="$(HOME)/News/2017/20171007">7 octobre 2017</a>.</li>
+  <li>La troisième version intermédiaire, 9.3, a été publiée le
+      <a href="$(HOME)/News/2017/2017120902">9 décembre 2017</a>.</li>
+  <li>La quatrième version intermédiaire, 9.4, a été publiée le
+      <a href="$(HOME)/News/2018/20180310">10 mars 2018</a>.</li>
+  <li>La cinquième version intermédiaire, 9.5, a été publiée le
+      <a href="$(HOME)/News/2018/20180714">14 juillet 2018</a>.</li>
+  <li>La sixième version intermédiaire, 9.6, a été publiée le
+      <a href="$(HOME)/News/2018/20181110">10 novembre 2018</a>.</li>
 </ul>
 
 <ifeq <current_release_stretch> 9.0 "
@@ -84,7 +86,7 @@ mises à jour proposées en ajoutant la ligne suivante dans votre fichier
 </p>
 
 <pre>
-  \# Ajouts proposés pour une version intermédiaire 9
+  \# Ajouts proposés pour une version intermédiaire 9
   deb http://ftp.fr.debian.org/debian stretch-proposed-updates main contrib non-free
 </pre>
 
